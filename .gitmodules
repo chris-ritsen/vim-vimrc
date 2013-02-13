@@ -38,3 +38,6 @@
 	path = .vim/bundle/fugitive
 	url = git@github.com:chris-ritsen/vim-fugitive.git
 
+[submodule ".vim/bundle/nerdtree"]
+	path = .vim/bundle/nerdtree
+	url = git@github.com:chris-ritsen/vim-nerdtree.git
