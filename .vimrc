@@ -1,0 +1,1 @@
+/home/chris/.vim/bundle/vimrc/vimrc.vim
