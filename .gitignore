@@ -1,0 +1,13 @@
+temp
+dist
+node_modules/
+.yeoman/
+.zsh_history
+.zdirs
+.xmonad/
+.vim_mru_files
+.zcompdump
+*.torrent
+.NERDTreeBookmarks
+.DS_Store
+.cache/
