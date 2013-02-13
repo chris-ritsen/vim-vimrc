@@ -1,4 +1,4 @@
-[submodule "bundle/abbr"]
-  path = ./vim/bundle/abbr
-  url = http://github.com/chris-ritsen/vim-abbr.git
+[submodule ".vim/bundle/vim-abbr"]
+	path = .vim/bundle/vim-abbr
+	url = git@github.com:chris-ritsen/vim-abbr.git
 
