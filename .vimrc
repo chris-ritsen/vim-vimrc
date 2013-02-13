@@ -1,1 +1,1 @@
-~/.vim/bundle/vimrc/vimrc.vim
+/home/chris/.vim/bundle/vimrc/vimrc.vim
