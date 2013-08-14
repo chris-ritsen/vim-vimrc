@@ -1,4 +1,5 @@
 
+' testing
 iab .l .
 iab ALi Ali
 iab ALl All
@@ -1254,6 +1255,7 @@ iab caloune cologne
 iab camoflage camouflage
 iab campaighns campaigns
 iab campaigsn campaigns
+iab cancelling canceling
 iab cannnot cannot
 iab capanbiliteis capabilities
 iab captaion captain
@@ -2294,6 +2296,7 @@ iab hafter after
 iab hagain again
 iab hallucenations hallucinations
 iab handledly handedly
+iab handledly handedly
 iab hapepens happens
 iab hapinees happiness
 iab hapiness happiness
@@ -3005,7 +3008,6 @@ iab nobile noble
 iab nodjes nodejs
 iab noething nothing
 iab noew new
-iab cancelling canceling
 iab nomrla normal
 iab normla normal
 iab norweigne norwegian
@@ -3838,7 +3840,6 @@ iab simpke simple
 iab simpokle simple
 iab simultaenously simultaneously
 iab singiking sinking
-iab handledly handedly
 iab sinmce since
 iab sintead instead
 iab siomply simply
