@@ -16,6 +16,7 @@ call TextEnableCodeSnip('javascript', '<script type=\"application/javascript\">'
 call TextEnableCodeSnip('json', '<script type=\"application/json\">', '</script>', 'SpecialComment')
 call TextEnableCodeSnip('lisp', '<script type=\"application/lisp\">', '</script>', 'SpecialComment')
 call TextEnableCodeSnip('ruby', '<script type=\"application/ruby\">', '</script>', 'SpecialComment')
+call TextEnableCodeSnip('python', '<script type=\"application/python\">', '</script>', 'SpecialComment')
 call TextEnableCodeSnip('sh', '<script type=\"application/bash\">', '</script>', 'SpecialComment')
 call TextEnableCodeSnip('sql', '<script type=\"application/sql\">', '</script>', 'SpecialComment')
 call TextEnableCodeSnip('sshconfig', '<script type=\"application/sshconfig\">', '</script>', 'SpecialComment')

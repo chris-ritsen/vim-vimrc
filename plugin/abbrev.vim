@@ -1,5 +1,6 @@
 
 iab .l .
+iab ndoe node
 iab ALi Ali
 iab ALl All
 iab ALpha Alpha
@@ -1109,6 +1110,7 @@ iab behavbior behavior
 iab behin begin
 iab behjind behind
 iab behond behind
+iab beign being
 iab beijng being
 iab beinh being
 iab beiung being
@@ -3068,6 +3070,7 @@ iab oer or
 iab oether other
 iab ofadvantage advantage
 iab ofeten often
+iab offste offset
 iab ofh of
 iab oging going
 iab ogod good
@@ -3662,6 +3665,7 @@ iab rightr right
 iab rightrj right
 iab rigit rigid
 iab rigning ringing
+iab rigth right
 iab rigthbrj righters
 iab rihgt right
 iab rining ringing
@@ -3972,6 +3976,7 @@ iab statis status
 iab statred started
 iab steaff staff
 iab steop step
+iab steram stream
 iab sterotype stereotype
 iab stfuf stuff
 iab sthe the
