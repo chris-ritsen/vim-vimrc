@@ -1,3 +1,6 @@
+
+" TODO: this file causes slower startup on large buffers
+
 " call TextEnableCodeSnip(  'c',   '@begin=c@',   '@end=c@', 'SpecialComment')
 " call TextEnableCodeSnip('cpp', '@begin=cpp@', '@end=cpp@', 'SpecialComment')
 " call TextEnableCodeSnip('css', '<style>', '</style>', 'SpecialComment')

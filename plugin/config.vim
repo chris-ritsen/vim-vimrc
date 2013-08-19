@@ -1,6 +1,8 @@
+
 let $GROFF_NO_SGR = 1
 let @/ = ""
 let MRU_Max_Entries = 400
+" let g:Powerline_loaded = 1
 let NERDTreeHijackNetrw= 1
 let NERDTreeMinimalUI = 1
 let NERDTreeShowLineNumbers = 1
@@ -65,4 +67,72 @@ let ruby_fold = 1
 let sh_fold_enabled = 1
 let vimsyn_folding = 'af'
 let xml_syntax_folding = 1
+
+" let g:airline#extensions#csv#column_display = 'Name'
+" let g:airline_detect_whitespace=0 "disabled
+" let g:airline_detect_whitespace=2 "icon only
+" let g:airline_exclude_filenames = [] " see source for current list
+" let g:airline_exclude_filetypes = [] " see source for current list
+" let g:airline_left_alt_sep = '⮁'
+" let g:airline_left_alt_sep = ''
+" let g:airline_left_sep = '»'
+" let g:airline_left_sep = '▶'
+" let g:airline_left_sep = '⮀'
+" let g:airline_left_sep = ''
+" let g:airline_linecolumn_prefix = '¶ '
+" let g:airline_linecolumn_prefix = '␊ '
+" let g:airline_linecolumn_prefix = '␤ '
+" let g:airline_linecolumn_prefix = '⭡'
+" let g:airline_linecolumn_prefix = ' '
+" let g:airline_paste_symbol = 'Þ'
+" let g:airline_paste_symbol = 'ρ'
+" let g:airline_readonly_symbol = '⭤'
+" let g:airline_readonly_symbol = ''
+" let g:airline_right_alt_sep = '⮃'
+" let g:airline_right_alt_sep = ''
+" let g:airline_right_sep = '«'
+" let g:airline_right_sep = '◀'
+" let g:airline_right_sep = '⮂'
+" let g:airline_right_sep = ''
+" let g:airline_section_a       (the mode/paste indicator)
+" let g:airline_section_b       (the fugitive/lawrencium branch indicator)
+" let g:airline_section_b = '%{getcwd()}'
+" let g:airline_section_c       (bufferline or filename)
+" let g:airline_section_c = '%t'
+" let g:airline_section_gutter  (csv)
+" let g:airline_section_warning (syntastic, whitespace)
+" let g:airline_section_x       (tagbar, filetype)
+" let g:airline_section_y       (fileencoding, fileformat)
+" let g:airline_section_z       (percentage, line number, column number)
+" let w:airline_section_a = 'MyPlugin'
+" let w:airline_section_b = '%f'
+" let w:airline_section_c = '%{MyPlugin#function()}'
+
+let g:loaded_airline = 1 " 1 = disabled
+let g:airline#extensions#csv#column_display = 'Number' "(default)
+let g:airline_branch_empty_message = ''
+let g:airline_branch_prefix = '⎇ '
+let g:airline_detect_iminsert=1
+let g:airline_detect_modified=1
+let g:airline_detect_paste=1
+let g:airline_detect_whitespace=1 "icon and message (default)
+let g:airline_enable_branch = 1
+let g:airline_enable_csv = 1
+let g:airline_enable_syntastic = 1
+let g:airline_enable_tagbar = 1
+let g:airline_exclude_preview = 0
+let g:airline_inactive_collapse=1
+let g:airline_left_sep='>'
+let g:airline_mode_map = {} " see source for the defaults
+let g:airline_paste_symbol = '∥'
+let g:airline_powerline_fonts=0
+let g:airline_right_sep='<'
+let g:airline_theme='dark'
+let g:airline_variable_referenced_in_statusline = 'foo'
+let g:airline_whitespace_symbol = 'Ξ'
+
+" set encoding=utf-8
+" set laststatus=2
+" set t_Co=256
+" set ttimeoutlen=50
 
