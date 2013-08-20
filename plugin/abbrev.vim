@@ -84,6 +84,7 @@ iab Apparemntly Apparently
 iab Apparnetly Apparently
 iab Apporval Approval
 iab Appps Apps
+iab Argumetns Arguments
 iab Ariculated Articulated
 iab Arist Artist
 iab Arists Artists
@@ -143,6 +144,7 @@ iab COmmittee Committee
 iab COmpeting Competing
 iab COmpiler Compiler
 iab COmpleete Complete
+iab COmpute Compute
 iab COmputer Computer
 iab COmputers Computers
 iab COmputes Computes
@@ -180,12 +182,14 @@ iab Clarifaication Clarification
 iab Clarift Clarify
 iab Clcik Click
 iab Cliarify Clarify
+iab Cliche Cliché
 iab Cliched Clichéd
 iab Cmomputers Computers
 iab CoConstants Constants
 iab Comitted Committed
 iab Compoutesr Computers
 iab Comprompise Compromise
+iab Concact Concat
 iab Conceivingh Conceiving
 iab Concequence Consequence
 iab Congtratulations Congratulations
@@ -213,6 +217,7 @@ iab DUck Duck
 iab Dalkes Daleks
 iab Debgree Degree
 iab Decelopers Developers
+iab Derver Server
 iab Desccretes Desecrates
 iab Descriptin Description
 iab Descroption Description
@@ -296,6 +301,7 @@ iab FOcus Focus
 iab FOllow Follow
 iab FOr For
 iab FOrtunarely Fortunately
+iab FUNTION FUNCTION
 iab Fided Fixed
 iab Fiexed Fixed
 iab Firday Friday
@@ -387,6 +393,7 @@ iab Insude Inside
 iab Integeration Integration
 iab Invalud Invalid
 iab Itemd Items
+iab JOin Join
 iab JUst Just
 iab Javacript Javascript
 iab JavasSCript JavaScript
@@ -405,6 +412,7 @@ iab Laxdy Lady
 iab Laybel Label
 iab Learnign Learning
 iab Legos LEGOs
+iab Lenght Length
 iab Lnks Links
 iab Luagh Laugh
 iab Lumnch Lunch
@@ -485,6 +493,7 @@ iab OTherwise Otherwise
 iab OUr Our
 iab OUt Out
 iab OUtstanding Outstanding
+iab Obse4rved Observed
 iab Obsiouyl Obviously
 iab Obviosuly Obviously
 iab Obviosusly Obviously
@@ -564,6 +573,7 @@ iab Requewt Request
 iab RequireJSd RequireJS
 iab Requst Request
 iab Revist Revisit
+iab Rewcord Record
 iab Rewpeat Repeat
 iab Rewward Reward
 iab Rgiut Right
@@ -618,6 +628,7 @@ iab Setvbice Service
 iab Sevice Service
 iab Shoudl Should
 iab Signle Single
+iab Simpel Simple
 iab Sitll Still
 iab Snesible Sensible
 iab Soem Some
@@ -625,12 +636,15 @@ iab Softare Software
 iab Soiimetimes Sometimes
 iab Somethign Something
 iab Somoene Someone
+iab Splcie Splice
 iab Srtarting Starting
+iab Stirng String
 iab Stoiciism Stoicism
 iab Stysems Systems
 iab Submision Submission
 iab Subscripe Subscribe
 iab Subscriptiuons Subscriptions
+iab Sudio Studio
 iab Syatem System
 iab Syhnopsis Synopsis
 iab THank Thank
@@ -714,6 +728,7 @@ iab WHere Where
 iab WHichever Whichever
 iab WHo Who
 iab WHoa Whoa
+iab WHois Whois
 iab WHy Why
 iab WIndows Windows
 iab WOn Won
@@ -774,6 +789,7 @@ iab abnd and
 iab abnout about
 iab aboce above
 iab aboid avoid
+iab aboiut about
 iab abou about
 iab aboufe above
 iab aboulte absolute
@@ -877,6 +893,7 @@ iab addintioal additional
 iab addiontal additional
 iab addiotaionl additional
 iab addiotino addition
+iab addiotioanl additional
 iab addiotion addition
 iab addiotn addition
 iab addiotnio addition
@@ -1071,6 +1088,7 @@ iab aoroudn around
 iab apaertment apartment
 iab apalling appalling
 iab apareantly apparently
+iab aparentmnet apartment
 iab apartmnet apartment
 iab apge page
 iab aplicaiton application
@@ -1620,12 +1638,14 @@ iab cnosole console
 iab cnsider consider
 iab cocern concern
 iab coem come
+iab coffe coffee
 iab cofnig config
 iab cofucs focus
 iab coimpletion completion
 iab coinstant constant
 iab cointed counted
 iab coiuld could
+iab coiunt count
 iab colelctions collections
 iab collapseable collapsible
 iab colleages colleagues
@@ -1930,6 +1950,8 @@ iab defualt default
 iab deivceis devices
 iab delcar declare
 iab delected deleted
+iab delet delete
+iab deletd deleted
 iab delicous delicious
 iab deltet delete
 iab demonstate demonstrate
@@ -2097,6 +2119,7 @@ iab disucssion discussion
 iab disvoered discovered
 iab disvovered discovered
 iab dit did
+iab dlete delete
 iab dlike like
 iab dmake make
 iab dmoninent dominant
@@ -2270,6 +2293,7 @@ iab elonger longer
 iab elseo else
 iab elvolved evolved
 iab emaerging emerging
+iab embarass embarrass
 iab embarassed embarrassed
 iab embarassing embarrassing
 iab embeded embedded
@@ -2595,6 +2619,7 @@ iab fmaily family
 iab fnish finish
 iab fnisinng finishing
 iab foatherless fatherless
+iab focued focused
 iab fogive forgive
 iab foinsih finish
 iab foljks folks
@@ -3014,8 +3039,10 @@ iab incremenetal incremental
 iab incremenetally incrementally
 iab incremeneted incremented
 iab incremenets increments
+iab indeces indices
 iab inded index
 iab indepenednat independent
+iab indicies indices
 iab indirecrtly indirectly
 iab indivdiual individual
 iab indiviudual individual
@@ -3268,6 +3295,7 @@ iab leawve leave
 iab leeds leads
 iab leevel level
 iab leeveled leveled
+iab lenghht length
 iab lenght length
 iab lenghth length
 iab leqast least
@@ -3360,6 +3388,7 @@ iab maange manage
 iab maangement management
 iab maby many
 iab maccro macro
+iab machien machine
 iab machiens machines
 iab maghic magic
 iab magnitize magnetize
@@ -3452,6 +3481,7 @@ iab minutnes minutes
 iab mionutes minutes
 iab miricle miracle
 iab mispelling misspelling
+iab misssing missing
 iab mistke mistake
 iab misunderstod misunderstood
 iab miuscles muscles
@@ -4537,6 +4567,9 @@ iab senquencing sequencing
 iab sentency sentence
 iab seocnd second
 iab separage separate
+iab seperater separator
+iab seporator separator
+iab seprator separator 
 iab sequal sequel
 iab serach search
 iab serarch search
@@ -4719,6 +4752,7 @@ iab sparesly sparsely
 iab sparseley sparsely
 iab speach speech
 iab spearate separate
+iab spearator separator
 iab speash speech
 iab speawk speak
 iab speawking speaking
@@ -5225,6 +5259,7 @@ iab typoing typing
 iab typso typos
 iab ubnix unix
 iab uderstand understand
+iab udnefined undefined
 iab udpated updated
 iab uername username
 iab uesterdy yesterday
@@ -5357,6 +5392,7 @@ iab vots votes
 iab vrsion version
 iab vverything everything
 iab waapon weapon
+iab waer wear
 iab wahat what
 iab waht what
 iab wahtefver whatever
@@ -5610,4 +5646,5 @@ iab ztart start
 
 " cab test testing
 cab GIt Git
+cab setINterval setInterval
 
