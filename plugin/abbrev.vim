@@ -411,6 +411,7 @@ iab Invalud Invalid
 iab Itemd Items
 iab JOin Join
 iab JUst Just
+iab JavaScrit JavaScript
 iab Javacript Javascript
 iab JavasSCript JavaScript
 iab Javscript Javascript
@@ -737,6 +738,7 @@ iab Unfortunatenly Unfortunately
 iab Univeristy University
 iab Univsere Universe
 iab Ususally Usually
+iab VIm Vim
 iab Verty Very
 iab Videio Video
 iab Vidoe Video
@@ -1829,6 +1831,7 @@ iab confgi config
 iab confgronted confronted
 iab confidentally confidentially
 iab confiedence confidence
+iab confifg config
 iab configu config
 iab configuiring configuring
 iab confiurable configurable
@@ -3734,6 +3737,7 @@ iab muystery mystery
 iab myh my
 iab myhself myself
 iab myserlf myself
+iab myslef myself
 iab myt my
 iab mythllogies mythologies
 iab mytholigies mythologies
@@ -3854,6 +3858,9 @@ iab obserbve observe
 iab observeatipon observation
 iab observerd observed
 iab obsesdsed obsessed
+iab obsessibley obsessively
+iab obsessibly obsessively
+iab obsessivly obsessively
 iab obviosu obvious
 iab obviosuly obviously
 iab obviousl obvious
@@ -4469,6 +4476,7 @@ iab referneces references
 iab referreed referred
 iab referrred referred
 iab reflexes Reflexes
+iab refresdhed refreshed
 iab refridgerator refrigerator
 iab regeister register
 iab regeiter register
@@ -5923,4 +5931,5 @@ iab ztaships starships
 " cab test testing
 cab GIt Git
 cab setINterval setInterval
+cab confifg config
 
