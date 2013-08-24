@@ -2,7 +2,7 @@
 let $GROFF_NO_SGR = 1
 let @/ = ""
 let MRU_Max_Entries = 400
-let g:Powerline_loaded = 1
+" let g:Powerline_loaded = 1
 let NERDTreeHijackNetrw= 1
 let NERDTreeMinimalUI = 1
 let NERDTreeShowLineNumbers = 1
