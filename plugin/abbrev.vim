@@ -40,7 +40,10 @@ iab 3each each
 iab ALi Ali
 iab ALl All
 iab ALpha Alpha
+iab ALright Alright
 iab ALrignt Alright
+iab ALrihgt Alright
+iab ALso Also
 iab AMazon Amazon
 iab ANd And
 iab ANy Any
@@ -71,6 +74,7 @@ iab Adobve Adobe
 iab Alirght Alright
 iab Alreighr Alright
 iab Alrex Alex
+iab Alright Alright
 iab Alrigt Alright
 iab Alswo Also
 iab Althought Although
@@ -447,6 +451,7 @@ iab Invalud Invalid
 iab Itemd Items
 iab JOin Join
 iab JUst Just
+iab Jalapenos Jalapeños
 iab JavaSCript JavaScript
 iab JavaScrit JavaScript
 iab Javacript Javascript
@@ -516,6 +521,7 @@ iab NOrmal Normal
 iab NOrmally Normally
 iab NOt Not
 iab NOte Note
+iab NOtes Notes
 iab NOthign Nothing
 iab NOthing Nothing
 iab NOthiogn Nothing
@@ -771,6 +777,7 @@ iab Testign Testing
 iab Teting Testing
 iab Tgus This
 iab Thatnk Thank
+iab Thatw That
 iab Thehy They
 iab Theve They've
 iab Theyre They're
@@ -1044,6 +1051,7 @@ iab aeventually eventually
 iab aever ever
 iab aeverage average
 iab aewsome awesome
+iab afetr after
 iab affecet affect
 iab afriad afraid
 iab afternoono afternoon
@@ -1933,6 +1941,7 @@ iab comptuers computers
 iab compustsre computers
 iab computesr computers
 iab computsre computers
+iab computyers computers
 iab comsequences consequences
 iab conbtent content
 iab conc8lusion conclusion
@@ -2403,6 +2412,7 @@ iab documentaiton documentation
 iab documetn document
 iab documment document
 iab docuvmented documented
+iab doen done
 iab doens doesn
 iab doensn doesn
 iab doesnt doesn't
@@ -3572,6 +3582,7 @@ iab iwth with
 iab iwthin within
 iab ixation fixation
 iab jacascript javascript
+iab jalapenos jalapeños
 iab javacwipt javascript
 iab javascirpt javascript
 iab javascripr javascript
@@ -4439,6 +4450,7 @@ iab poiie piles
 iab poiint point
 iab poiking poking
 iab poin point
+iab poind pound
 iab poinmt point
 iab poiont point
 iab poisn poison
@@ -4898,8 +4910,10 @@ iab resutls results
 iab retetion retention
 iab retpye retype
 iab retreieve retrieve
+iab retreieving retrieving
 iab retreive retrieve
 iab retreiving retrieving
+iab retrieving retrieving
 iab retrive retrieve
 iab retunr return
 iab retunred returned
@@ -5935,6 +5949,7 @@ iab urgnet urgent
 iab urprisingly surprisingly
 iab usaer user
 iab usaernames usernames
+iab usaully usually
 iab uscle muscle
 iab usefil useful
 iab usefl useful
@@ -6295,4 +6310,6 @@ iab zbut but
 iab zefver server
 iab ztart start
 iab ztaships starships
+iab enterd entered
+iab enterdd entered
 
