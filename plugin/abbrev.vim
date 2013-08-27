@@ -777,7 +777,7 @@ iab Techniue Technique
 iab Technolog Technology
 iab Technqiue Technique
 iab Tesitng Testing
-iab Testhing Testing 
+iab Testhing Testing
 iab Testign Testing
 iab Teting Testing
 iab Tgus This
@@ -2601,7 +2601,7 @@ iab elminatin eliminating
 iab elonger longer
 iab elsehwere elsewhere
 iab elseo else
-iab elswhere elsewhere 
+iab elswhere elsewhere
 iab elvolved evolved
 iab emaerging emerging
 iab embarass embarrass
