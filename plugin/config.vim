@@ -1,8 +1,8 @@
 
+" let g:Powerline_loaded = 1
 let $GROFF_NO_SGR = 1
 let @/ = ""
 let MRU_Max_Entries = 400
-" let g:Powerline_loaded = 1
 let NERDTreeHijackNetrw= 1
 let NERDTreeMinimalUI = 1
 let NERDTreeShowLineNumbers = 1
@@ -49,6 +49,7 @@ let g:sparkup = "sparkup"
 let g:sparkupArgs = "--no-last-newline"
 let g:sparkupExecuteMapping = ""
 let g:sparkupNextMapping = ""
+let g:syntastic_cpp_compiler_options = '-std=c++11'
 let g:syntastic_enable_signs = 1
 let g:syntastic_javascript_checker = 'jshint'
 let g:syntastic_mode_map = { 'mode': 'active', 'active_filetypes': ['lisp', 'php', 'javascript', 'ruby'], 'passive_filetypes': ['html'] }

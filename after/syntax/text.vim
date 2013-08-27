@@ -25,6 +25,9 @@ call TextEnableCodeSnip('sql', '<script type=\"application/sql\">', '</script>',
 call TextEnableCodeSnip('sshconfig', '<script type=\"application/sshconfig\">', '</script>', 'SpecialComment')
 call TextEnableCodeSnip('xf86conf', '<script type=\"application/xorg\">', '</script>', 'SpecialComment')
 call TextEnableCodeSnip('zsh', '<script type=\"application/zsh\">', '</script>', 'SpecialComment')
+call TextEnableCodeSnip('c', '<script type=\"text/x-c\">', '</script>', 'SpecialComment')
+call TextEnableCodeSnip('asm', '<script type=\"text/asm\">', '</script>', 'SpecialComment')
+
 
 " Match ISO dates
 highlight DateIso8601 term=underline ctermfg=173 guifg=#e5786d
