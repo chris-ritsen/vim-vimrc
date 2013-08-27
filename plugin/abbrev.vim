@@ -35,6 +35,7 @@ cab setINterval setInterval
 "iab onethougsand one thousand
 "iab onthe on the
 
+iab ... …
 iab .l .
 iab 3each each
 iab ALi Ali
@@ -105,6 +106,7 @@ iab AritsT Artist
 iab Aritst Artist
 iab Aritsts Artists
 iab Arlgith Alright
+iab Ascii ASCII
 iab Assiming Assuming
 iab Assisiting Assisting
 iab Atch Arch
@@ -345,6 +347,8 @@ iab FOllow Follow
 iab FOr For
 iab FOrtunarely Fortunately
 iab FUNTION FUNCTION
+iab Fbonacci Fibonacci
+iab Fibonacchi Fibonacci
 iab Fided Fixed
 iab Fiexed Fixed
 iab Firday Friday
@@ -814,6 +818,7 @@ iab Verty Very
 iab Videio Video
 iab Vidoe Video
 iab Visualzation Visualization
+iab Visusally Visually
 iab Vitims Victims
 iab Vruce Bruce
 iab Vulnderable Vulnerable
@@ -882,6 +887,7 @@ iab aattacik attack
 iab abackgring background
 iab abberviations abbreviations
 iab abbout about
+iab abbrevations abbreviations
 iab abbreviaions abbreviations
 iab abbrevisaiosn abbreviations
 iab aberage average
@@ -1298,6 +1304,7 @@ iab appraoaches approaches
 iab appreaing appearing
 iab appreas appears
 iab approacted approached
+iab approopriateness appropriateness
 iab approriate appropriate
 iab approxiation approximation
 iab aproaches approaches
@@ -1383,6 +1390,7 @@ iab atheles athletes
 iab atheletes athletes
 iab atht that
 iab ation action
+iab attachement attachment
 iab attachements attachments
 iab attemps attempt
 iab attentoin attention
@@ -1969,8 +1977,10 @@ iab confiedence confidence
 iab confifg config
 iab configu config
 iab configuiring configuring
+iab configuratoin configuration
 iab confiurable configurable
 iab congtract contract
+iab conifguration configuration
 iab conmbinations combinations
 iab conmcept concept
 iab conmpreshension comprehension
@@ -2015,6 +2025,7 @@ iab continous continuous
 iab continously continuously
 iab continueed continued
 iab continuiously continuously
+iab continyous continuous
 iab contiously continuously
 iab contiunue continue
 iab contiunuous continuous
@@ -2123,6 +2134,7 @@ iab ctasy crazy
 iab cuasing causing
 iab cuews cues
 iab cufnction function
+iab cuircles circles
 iab curbature curvature
 iab curbe curve
 iab curiousity curiosity
@@ -2624,6 +2636,7 @@ iab engaingng engaging
 iab engineerring engineering
 iab enginerring engineering
 iab ennergy energy
+iab enoghh enough
 iab enojoy enjoy
 iab enojoyed enjoyed
 iab enougbh enough
@@ -2993,6 +3006,7 @@ iab foundre founder
 iab fpr for
 iab fprefer prefer
 iab fractin fraction
+iab fractionk fraction
 iab frameork framework
 iab framewokr framework
 iab framewokrs frameworks
@@ -3074,6 +3088,7 @@ iab genous genius
 iab gentelmen gentlemen
 iab geologiests geologists
 iab gettting getting
+iab getttnig getting
 iab gfirened greened
 iab gframeworks frameworks
 iab gfrighten frighten
@@ -3321,6 +3336,7 @@ iab hyndreds hundreds
 iab hyou you
 iab iamge image
 iab iamges images
+iab iclude include
 iab icobn icon
 iab idae idea
 iab idaeas ideas
@@ -3352,6 +3368,7 @@ iab implemenation implementation
 iab implemeneted implemented
 iab implemeneting implementing
 iab implementaion implementation
+iab implementaiton implementation
 iab implementated implemented
 iab implementating implementation
 iab implementatioh implementation
@@ -3490,6 +3507,7 @@ iab instlal install
 iab instnaces instances
 iab instrucitons instructions
 iab instructoins instructions
+iab instructuions instructions
 iab instyead instead
 iab insudrry industry
 iab inteded intended
@@ -3818,6 +3836,7 @@ iab majoical magical
 iab makese makes
 iab makign making
 iab makiong making
+iab makr mark
 iab makreting marketing
 iab managemnet management
 iab managesd managed
@@ -3876,10 +3895,12 @@ iab meetnig meeting
 iab melee mêlée
 iab meloncholy melancholy
 iab memberts members
+iab memeber member
 iab memebers members
 iab memorzie memorize
 iab menaingless meaningless
 iab menas means
+iab menteioned mentioned
 iab mentionded mentioned
 iab menuial menial
 iab mergesr mergers
@@ -4226,6 +4247,7 @@ iab organizzing organizing
 iab orhanization organization
 iab oribt orbit
 iab oridinary ordinary
+iab originl original
 iab origiunal original
 iab oroiginal original
 iab oroiginally originally
@@ -4402,6 +4424,7 @@ iab pgrase phrase
 iab pgroams programs
 iab phaontm phantom
 iab phasesrs phasers
+iab phgrases phrases
 iab philosophial philosophical
 iab philosopy philosophy
 iab philosphy philosophy
@@ -4526,6 +4549,7 @@ iab precense presence
 iab precicely precisely
 iab preciscely precisely
 iab predicatesd predicates
+iab preerably preferably
 iab preferrably preferably
 iab prefixds prefixes
 iab premire premiere
@@ -4813,6 +4837,7 @@ iab relaible reliable
 iab relaize realize
 iab relaly really
 iab relaod reload
+iab relatinship relationship
 iab relationiship relationship
 iab relavation relaxation
 iab releaaased released
@@ -5046,6 +5071,7 @@ iab scentece sentence
 iab scentral central
 iab sciense science
 iab scipe scope
+iab scipt script
 iab scirpt script
 iab scity city
 iab scnool school
@@ -5060,6 +5086,7 @@ iab screne screen
 iab screnplay screenplay
 iab scrit script
 iab scritp script
+iab scrtipt script
 iab scrupit script
 iab scrupt script
 iab sctip script
@@ -5489,6 +5516,7 @@ iab syncrhonize synchronize
 iab syncronous synchronous
 iab syncrounous synchronous
 iab syndicatoing syndicating
+iab synonmyous synonymous
 iab synonomous synonymous
 iab synthesised synthesized
 iab syou you
@@ -5528,6 +5556,7 @@ iab tarnslate translate
 iab tarveling traveling
 iab tasest tastes
 iab taskss tasks
+iab tath that
 iab tatoo tattoo
 iab tatus status
 iab taughht taught
@@ -5643,6 +5672,7 @@ iab theser these
 iab thessse these
 iab thest these
 iab thethered tethered
+iab thewre there
 iab thge the
 iab thgen then
 iab thiat that
@@ -6283,6 +6313,7 @@ iab youmnger younger
 iab yourc your
 iab youre you're
 iab yoursefl yourself
+iab yourseflf yourself
 iab yourslef yourself
 iab youtbe youtube
 iab youtbube youtube
@@ -6313,5 +6344,4 @@ iab zbut but
 iab zefver server
 iab ztart start
 iab ztaships starships
-iab iclude include
 
