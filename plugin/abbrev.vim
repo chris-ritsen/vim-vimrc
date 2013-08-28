@@ -72,6 +72,7 @@ iab Administerator Administrator
 iab Adminstartor Administrator
 iab Admisitration Administration
 iab Adobve Adobe
+iab Aidio Audio
 iab Alirght Alright
 iab Alreighr Alright
 iab Alrex Alex
@@ -94,6 +95,7 @@ iab Anytihngi Anything
 iab Anywqy Anyway
 iab Anywy Anyway
 iab Apaprently Apparently
+iab Appaerntly Apparently
 iab Apparemntly Apparently
 iab Apparnetly Apparently
 iab Apporval Approval
@@ -161,6 +163,7 @@ iab CLoud Cloud
 iab COlor Color
 iab COme Come
 iab COmmand Command
+iab COmments Comments
 iab COmmitted Committed
 iab COmmittee Committee
 iab COmpensation Compensation
@@ -186,6 +189,8 @@ iab CUstomers Customers
 iab Calandar Calendar
 iab Calcualted Calculated
 iab Calll Call
+iab Capcicum Capsicum
+iab Certifaction Certification
 iab Checkign Checking
 iab Chercking Checking
 iab Chicjkelds Chuckles
@@ -202,6 +207,7 @@ iab Christe Christie
 iab Christiopher Christopher
 iab Christipoher Christopher
 iab Christoipher Christopher
+iab Chrsitopher Christopher
 iab Chyckles Chuckles
 iab Clal Call
 iab Clarifaication Clarification
@@ -231,6 +237,7 @@ iab Contorller Controller
 iab Contratulations Congratulations
 iab Copule Couple
 iab Coudl Could
+iab Courney Courtney
 iab Creats Creates
 iab Crhis Chris
 iab Crhisropiher Christopher
@@ -442,6 +449,7 @@ iab INtermediate Intermediate
 iab INternally Internally
 iab INternet Internet
 iab IWth With
+iab Ideallly Ideally
 iab ImageMacick ImageMagick
 iab Imoprove Improve
 iab Implmeented Implemented
@@ -665,6 +673,7 @@ iab Rgiut Right
 iab Riber River
 iab Richeard Richard
 iab Righ Right
+iab Ritsne Ritsen
 iab Rnadom Random
 iab Rohy Roy
 iab Roling Rolling
@@ -768,6 +777,7 @@ iab TOkens Tokens
 iab TOld Told
 iab TOm Tom
 iab TRACRE TRACE
+iab Tahnks Thanks
 iab Tahts That's
 iab Tallking Talking
 iab Targetting Targeting
@@ -795,6 +805,7 @@ iab Thrusay Thruway
 iab Thsu Thus
 iab Tkling Talking
 iab Tlaked Talked
+iab Tobasco Tabasco
 iab Trackign Tracking
 iab Traditionallhy Traditionally
 iab Triyn Trying
@@ -817,6 +828,7 @@ iab VIm Vim
 iab Verty Very
 iab Videio Video
 iab Vidoe Video
+iab Virtaul Virtual
 iab Visualzation Visualization
 iab Visusally Visually
 iab Vitims Victims
@@ -863,6 +875,7 @@ iab Wiat Wait
 iab Wiating Waiting
 iab Wiht Whit
 iab Wiriting Writing
+iab Wjy Why
 iab Wokrs Works
 iab Workign Working
 iab Woudl Would
@@ -1143,6 +1156,7 @@ iab amke make
 iab amny many
 iab amnymore anymore
 iab amont amount
+iab amoutns amounts
 iab amybe maybe
 iab anad and
 iab analohy analogy
@@ -1732,6 +1746,7 @@ iab careds cares
 iab careerq career
 iab carew cares
 iab carosel carousel
+iab carreer career
 iab casued caused
 iab casues causes
 iab cauled called
@@ -1876,6 +1891,7 @@ iab comforable comfortable
 iab comging combing
 iab comitted committed
 iab comiuter commuter
+iab comjuter computer
 iab comletely completely
 iab comloment comment
 iab commaand command
@@ -2689,6 +2705,7 @@ iab errends errands
 iab ersult result
 iab ersults results
 iab esales sales
+iab escpae escape
 iab esevices services
 iab esigneers designers
 iab esitmate estimate
@@ -3000,6 +3017,7 @@ iab fornm form
 iab fornt fount
 iab forntend frontend
 iab forsee foresee
+iab forwarsd forward
 iab foucs focus
 iab foudn found
 iab foundre founder
@@ -3143,6 +3161,7 @@ iab gup up
 iab guuess guess
 iab guyard guard
 iab habe have
+iab habenero habanero
 iab hacen haven
 iab hadnd hand
 iab hadndling handling
@@ -3348,6 +3367,7 @@ iab idot idiot
 iab iekly likely
 iab iether either
 iab ieven even
+iab ifles files
 iab ifor for
 iab ifrst first
 iab ignorig ignoring
@@ -3461,6 +3481,7 @@ iab ingrediatnt ingredient
 iab inidan indian
 iab inidicuaal identical
 iab inistalling installing
+iab initailize initialize
 iab inital initial
 iab initiaited initiated
 iab initlaize initialize
@@ -3542,6 +3563,7 @@ iab intervier interview
 iab intervieww interview
 iab intervivew interview
 iab intervivewing interviewing
+iab intesrested interested
 iab intesreting interesting
 iab intesrewting interesting
 iab intesrnally internally
@@ -3799,6 +3821,7 @@ iab lqasers lasers
 iab lsbel label
 iab lsit list
 iab lsited listed
+iab lsitening listening
 iab lsot lost
 iab lsow slow
 iab lthe the
@@ -3934,6 +3957,7 @@ iab miuscles muscles
 iab mjump jump
 iab mjust just
 iab mkae make
+iab mkaing making
 iab mkakes makes
 iab mke make
 iab mknowledge knowledge
@@ -4018,6 +4042,7 @@ iab mutal mutual
 iab mutiation mutation
 iab mutliple multiple
 iab muystery mystery
+iab mvoe move
 iab mwho who
 iab myh my
 iab myhself myself
@@ -4036,6 +4061,7 @@ iab naems names
 iab nagivation navigation
 iab naighty naughty
 iab namek name
+iab namiung naming 
 iab nanies nannies
 iab nanoying nannying
 iab naother another
@@ -4131,6 +4157,7 @@ iab nwes news
 iab nymber number
 iab o4r or
 iab oall all
+iab obderve observe 
 iab obiosu obvious
 iab obivous obvious
 iab obivously obviously
@@ -4226,6 +4253,7 @@ iab opopulatioe populated
 iab opower power
 iab opportuniies opportunities
 iab oppritunity opportunity
+iab oppurtunities opportunities
 iab opromise promise
 iab opssible possible
 iab optiizgin optimizing
@@ -4740,6 +4768,7 @@ iab quirck quick
 iab qurseiton question
 iab qusetions questions
 iab radious radius
+iab raelly really
 iab raido radio
 iab raisaed raised
 iab raitings ratings
@@ -4898,6 +4927,7 @@ iab requierd required
 iab requiest request
 iab requirementsw requirements
 iab requiremetns requirements
+iab requirment requirement
 iab requred required
 iab requried required
 iab requrign requiring
@@ -4911,6 +4941,7 @@ iab resaon reason
 iab reselmbalnce resemblance
 iab resembalnce resemblance
 iab resembalnces resemblances
+iab reseraunt restaurant
 iab reserverd reserved
 iab reseverved reserved
 iab resisable resizable
@@ -4932,6 +4963,8 @@ iab resquices rescues
 iab resquies rescues
 iab ressureciton resurrection
 iab ressurectuion resurrection
+iab restauernt restaurant
+iab resteraunt restaurant
 iab restrictiojns restrictions
 iab resuest request
 iab resutls results
@@ -4959,6 +4992,7 @@ iab reutrn return
 iab revalation revelation
 iab reveived revived
 iab reviers reviewers
+iab revierw review
 iab revieve receive
 iab revivew review
 iab reviwing reviewing
@@ -6026,6 +6060,7 @@ iab vbiolent violent
 iab vbision vision
 iab vboring boring
 iab vborwser browser
+iab vdevelopment development
 iab vdido video
 iab vdieo video
 iab vefifying verifying
@@ -6270,6 +6305,7 @@ iab wyhen when
 iab wyou you
 iab wyould would
 iab xamine examine
+iab xiexie xièxie
 iab xploration exploration
 iab xtereme extreme
 iab yajks yaks
@@ -6288,10 +6324,12 @@ iab yesgterday yesterday
 iab yesteardy yesterday
 iab yesteawrdya yesterday
 iab yestedrdtay yesterday
+iab yesterady yesterday
 iab yesterdasyt yesterday
 iab yesterdeay yesterday
 iab yesterdsady yesterday
 iab yesterdyay yesterday
+iab yesterfday yesterday
 iab yestersdya yesterday
 iab yestewrday yesterday
 iab yeszterday yesterday

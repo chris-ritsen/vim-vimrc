@@ -18,6 +18,7 @@ augroup filetypes
   autocmd! BufRead,BufNewFile ~/.config/tmux/*,~/.config/tmux/sessions setfiletype tmux
   autocmd! BufRead,BufNewFile ~/.irssi/config setfiletype conf
   autocmd! BufRead,BufNewFile ~/mail/* if &filetype == '' | setfiletype mail | endif 
+  autocmd! BufRead,BufNewFile /tmp/mutt* if &filetype == '' | setfiletype mail | endif 
   autocmd! BufRead,BufWrite *.inc,*.php,*.hs if ! &bin | silent! %s/\s\+$//ge | endif
   autocmd! BufRead,BufWrite *.inc,*.php,*.hs if ! &bin | silent! :%s/ \+\ze\t//ge | endif
   autocmd! BufRead,BufWrite,BufWritePost,BufNewFile *.org 
