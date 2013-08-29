@@ -1363,6 +1363,7 @@ iab asactions actions
 iab asble able
 iab asic basic
 iab asisgnements assignments
+iab aslepp asleep
 iab aslo also
 iab asnewr answer
 iab asnwer answer
@@ -3212,6 +3213,7 @@ iab headrd header
 iab headres headers
 iab heardrs headers
 iab heards hearts
+iab hearsd heard
 iab heathon heathen
 iab heaton heathen
 iab heavbilkly heavily
@@ -3331,6 +3333,7 @@ iab htough though
 iab htought thought
 iab htrogubh through
 iab htrough through
+iab htsi this
 iab httpBacken httpBackend
 iab httpbackend httpBackend
 iab htttp http
@@ -4479,6 +4482,7 @@ iab physisist physicist
 iab pioece piece
 iab piont point
 iab pkeep keep
+iab plaan plan
 iab placce place
 iab placememnt placement
 iab plaecd placed
@@ -6105,6 +6109,7 @@ iab wahtever whatever
 iab walkted walked
 iab wanat want
 iab wante wanted
+iab wantt want
 iab warapping wrapping
 iab warriers warriors
 iab watchign watching
