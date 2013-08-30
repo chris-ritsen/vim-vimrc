@@ -448,6 +448,7 @@ iab INteresting Interesting
 iab INtermediate Intermediate
 iab INternally Internally
 iab INternet Internet
+iab INterview Interview
 iab IWth With
 iab Ideallly Ideally
 iab ImageMacick ImageMagick
@@ -655,6 +656,7 @@ iab RUn Run
 iab Recend Recent
 iab Reember Remember
 iab Referneces References
+iab Refrences References
 iab Regeret Regret
 iab Remeber Remember
 iab Remebmerr Remember
@@ -1166,6 +1168,7 @@ iab analyizign analyzing
 iab analyogies analogies
 iab analyogy analogy
 iab analysize analyze
+iab analysizing analyzing
 iab analysst analyst
 iab analystical analytical
 iab analyzign analyzing
@@ -1221,6 +1224,7 @@ iab antoher another
 iab anurisim aneurysm
 iab anurism aneurysm
 iab anway away
+iab anwersr answerer
 iab anxoius anxious
 iab anxwerwed answered
 iab anyeone anyone
@@ -1361,8 +1365,10 @@ iab arugments arguments
 iab aruments arguments
 iab asactions actions
 iab asble able
+iab asbsolutely absolutely
 iab asic basic
 iab asisgnements assignments
+iab aslepp asleep
 iab aslepp asleep
 iab aslo also
 iab asnewr answer
@@ -2303,6 +2309,7 @@ iab develping developing
 iab develpment development
 iab develpoer developer
 iab develpoers developers
+iab develpoing developing
 iab develpoment development
 iab develpop develop
 iab deveoped developed
@@ -2896,6 +2903,7 @@ iab extenal external
 iab extendions extensions
 iab exteneral external
 iab extenral external
+iab extensibely extensively
 iab extentsions extensions
 iab extercises exercises
 iab exterme extreme
@@ -3265,6 +3273,7 @@ iab hkno know
 iab hlaf half
 iab hlelban hellban
 iab hmtl html
+iab hobbiest hobbyist
 iab hodling holding
 iab hoenstly honestly
 iab holdign holding
@@ -3333,6 +3342,7 @@ iab htough though
 iab htought thought
 iab htrogubh through
 iab htrough through
+iab htsi this
 iab htsi this
 iab httpBacken httpBackend
 iab httpbackend httpBackend
@@ -3427,6 +3437,7 @@ iab inadvertantly inadvertently
 iab inasane insane
 iab incenstives incentives
 iab incerase increase
+iab incldues includes
 iab incliding including
 iab includeing including
 iab incluedes includes
@@ -3526,6 +3537,7 @@ iab instasllation installation
 iab instatiation instantiation
 iab insteall install
 iab insteawd instead
+iab instewad instead
 iab instgead instead
 iab instlal install
 iab instnaces instances
@@ -3787,6 +3799,7 @@ iab literall literal
 iab littl little
 iab littlb little
 iab livin living
+iab livnig living
 iab lkinked linked
 iab lloking looking
 iab llooking looking
@@ -3852,6 +3865,7 @@ iab maghic magic
 iab magnitize magnetize
 iab mainhood manhood
 iab maintainabliity maintainability
+iab maintainging maintaining
 iab maintainibility maintainability
 iab maintenacne maintenance
 iab maintence maintenance
@@ -3968,6 +3982,7 @@ iab mlilk milk
 iab mmay may
 iab mmore more
 iab mnaula manual
+iab mnay many
 iab mneed need
 iab mnot not
 iab mnow now
@@ -4248,6 +4263,7 @@ iab ooptions options
 iab oparts parts
 iab opend upend
 iab opene open
+iab openning opening
 iab operatioinal operational
 iab opinoion opinion
 iab oponnent opponent
@@ -4482,6 +4498,7 @@ iab physisist physicist
 iab pioece piece
 iab piont point
 iab pkeep keep
+iab plaan plan
 iab plaan plan
 iab placce place
 iab placememnt placement
@@ -4820,7 +4837,6 @@ iab recors records
 iab recouperating recuperating
 iab recursibley recursively
 iab reday ready
-iab reddit reedit
 iab redierct redirect
 iab redirecr redirect
 iab rediret redirect
@@ -4839,6 +4855,7 @@ iab refereing referring
 iab referencesd references
 iab referes referees
 iab referesehs refreshes
+iab referesher refresher
 iab refernce reference
 iab refernces references
 iab refernece reference
@@ -4846,6 +4863,7 @@ iab referneces references
 iab referreed referred
 iab referrred referred
 iab reflexes Reflexes
+iab refrences references
 iab refresdhed refreshed
 iab refridgerator refrigerator
 iab regeister register
@@ -6040,6 +6058,7 @@ iab usoing using
 iab usper super
 iab usualyl usually
 iab usuing using
+iab usung using
 iab ususal usual
 iab ususally usually
 iab utnil until
@@ -6067,6 +6086,7 @@ iab vborwser browser
 iab vdevelopment development
 iab vdido video
 iab vdieo video
+iab veersions versions
 iab vefifying verifying
 iab venetable vegetable
 iab verison version
@@ -6164,6 +6184,7 @@ iab whayt what
 iab whcih which
 iab wheere where
 iab whell wheel
+iab whenefer whenever
 iab whenfver whenever
 iab whenveer whenever
 iab wherea where
@@ -6322,6 +6343,7 @@ iab yeasdterday yesterday
 iab yeasterday yesterday
 iab yedsterday yesterday
 iab yeilded yielded
+iab yeras years
 iab yers years
 iab yersteaday yesterday
 iab yeserday yesterday
