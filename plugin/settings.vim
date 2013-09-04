@@ -1,5 +1,6 @@
 
 set backspace=eol,start,indent
+set path=.,/usr/include,/usr/local/lib/php/
 set cmdheight=1
 set completeopt=menuone,menu,longest,preview
 set dir=~/.vim/swap//,/tmp//,.
