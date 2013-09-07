@@ -7,6 +7,7 @@ augroup filetypes
   autocmd! BufEnter * if &filetype == "" | setlocal filetype=text | endif
   autocmd! BufEnter *.org call org#SetOrgFileType()
   autocmd! BufNewFile,BufRead *.css,*.scss set foldmethod=marker fmr={,}
+  autocmd! BufNewFile,BufRead *.c,*.cpp set foldmethod=syntax
   autocmd! BufRead,BufNewFile *.aspx,*.asmx,*.ascx set filetype=aspnet 
   autocmd! BufRead,BufNewFile *.json set filetype=json
   autocmd! BufRead,BufNewFile *.tex set filetype=tex
