@@ -44,6 +44,7 @@ augroup filetypes
 
   " This doesn't work all that well
   autocmd! BufRead,BufNewFile *.json setlocal equalprg=python\ -mjson.tool\ 2>/dev/null 
+  autocmd! FileType json setlocal equalprg=python\ -mjson.tool\ 2>/dev/null 
   autocmd! BufRead,BufNewFile *.js setlocal makeprg=yeoman\ build
 
 augroup END 

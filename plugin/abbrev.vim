@@ -9,7 +9,10 @@
 
 " cab test testing
 cab GIt Git
+cab commmit commit
 cab confifg config
+cab hepl help
+cab hlep help
 cab jaava java
 cab setINterval setInterval
 
@@ -360,6 +363,7 @@ iab Fbonacci Fibonacci
 iab Fibonacchi Fibonacci
 iab Fided Fixed
 iab Fiexed Fixed
+iab Finsihed Finished
 iab Firday Friday
 iab Flordia Florida
 iab FoPutting Putting
@@ -886,6 +890,7 @@ iab Whwhat What
 iab Wiat Wait
 iab Wiating Waiting
 iab Wiht Whit
+iab Winodws Windows
 iab Wiriting Writing
 iab Wjy Why
 iab Wokrs Works
@@ -1689,6 +1694,7 @@ iab bttuoj button
 iab bty by
 iab bu8ildings buildings
 iab bublbe bubble
+iab budjet budget
 iab buidl build
 iab buidlgin building
 iab buil build
@@ -2017,6 +2023,7 @@ iab confifg config
 iab configu config
 iab configuiring configuring
 iab configuratoin configuration
+iab confimrend confirmed
 iab confiurable configurable
 iab congtract contract
 iab conifguration configuration
@@ -2049,6 +2056,7 @@ iab constasntly constantly
 iab constawntly constantly
 iab constnatly constantly
 iab constrasting contrasting
+iab constrol control
 iab consuing consuming
 iab consumingh consuming
 iab consuminmg consuming
@@ -2358,6 +2366,7 @@ iab devlopment development
 iab devlops develops
 iab devlpment development
 iab devlpo develop
+iab dewvelopers developers
 iab dfeault default
 iab dhave have
 iab dialoect dialect
@@ -2553,6 +2562,7 @@ iab dveeloper developer
 iab dveelpment development
 iab dvelopment development
 iab dvevelope develop
+iab dvevlopers developers
 iab dwardfs dwarfs
 iab dwith with
 iab dxjact exact
@@ -2728,6 +2738,7 @@ iab equivelants equivalents
 iab equivilant equivalent
 iab equivilent equivalent
 iab erad read
+iab eralire earlier 
 iab erally really
 iab erason reason
 iab erified verified
@@ -2739,7 +2750,9 @@ iab esales sales
 iab escpae escape
 iab esevices services
 iab esigneers designers
+iab esimateion estimation
 iab esitmate estimate
+iab esitmations estimations
 iab esky sky
 iab esle else
 iab esopecially especially
@@ -2750,6 +2763,7 @@ iab essense essence
 iab essentiual essential
 iab essiental essential
 iab essnetioal essential
+iab estimateion estimation
 iab estmiate estimate
 iab estuff stuff
 iab esubsequent subsequent
@@ -3261,6 +3275,7 @@ iab helpfuly helpful
 iab helpp help
 iab hemmeroids hemorrhoids
 iab hemophelia hemophilia
+iab hepl help
 iab heprahps perhaps
 iab herad heard
 iab heretite heritage
@@ -3297,6 +3312,7 @@ iab hjust just
 iab hkno know
 iab hlaf half
 iab hlelban hellban
+iab hlep help
 iab hmtl html
 iab hobbiest hobbyist
 iab hodling holding
@@ -5004,6 +5020,7 @@ iab reslemvelcance resemblance
 iab reson reason
 iab resonable reasonable
 iab resond respond
+iab resonses responses
 iab resourece resource
 iab resove resolve
 iab resovle resolve
@@ -5198,6 +5215,7 @@ iab secretely secretly
 iab sectino section
 iab sectret secret
 iab securly securely
+iab seee see
 iab seeeing seeing
 iab seeon seen
 iab sefver server
@@ -5992,9 +6010,11 @@ iab twuqeiton question
 iab tyhat that
 iab tyhping typing
 iab tyoing toying
+iab tyou you
 iab typewritter typewriter
 iab typging typing
 iab typicall typical
+iab typicaly typically
 iab typign typing
 iab typignt typing
 iab typimng typing

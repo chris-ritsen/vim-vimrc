@@ -1,7 +1,8 @@
 
 set backspace=eol,start,indent
-set path=.,/usr/include,/usr/local/lib/php/
+set path=.,/usr/include,/usr/local/lib/php/,/usr/share/povray/include,/usr/share/doc/rfc/txt
 set cmdheight=1
+set tags=~/.git/tags,./tags,./TAGS,tags,TAGS,./tags
 set completeopt=menuone,menu,longest,preview
 set dir=~/.vim/swap//,/tmp//,.
 set encoding=utf-8
