@@ -1,3 +1,4 @@
+
 set nocompatible
 
 source ~/.config/vim/plugins/pathogen/autoload/pathogen.vim

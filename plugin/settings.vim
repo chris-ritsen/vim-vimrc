@@ -17,7 +17,6 @@ set hlsearch
 set ignorecase
 set incsearch
 set laststatus=2
-set lazyredraw
 set linebreak
 set listchars=eol:$,tab:>-,trail:~,extends:>,precedes:<
 set magic

@@ -48,6 +48,7 @@ iab ALright Alright
 iab ALrignt Alright
 iab ALrihgt Alright
 iab ALso Also
+iab ALtair Altair
 iab AMazon Amazon
 iab ANd And
 iab ANy Any
@@ -354,6 +355,7 @@ iab Experince Experience
 iab Experinece Experience
 iab Exsampe Example
 iab FIgure Figure
+iab FIles Files
 iab FIred Fired
 iab FIxed Fixed
 iab FOcus Focus
@@ -831,6 +833,7 @@ iab Tobasco Tabasco
 iab Tpically Typically
 iab Trackign Tracking
 iab Traditionallhy Traditionally
+iab Transerring Transferring
 iab Triyn Trying
 iab Tseting Testing
 iab Turnes Turns
@@ -1408,6 +1411,7 @@ iab asprin aspirin
 iab assaets assets
 iab assertation assertion
 iab assertiion assertion
+iab assessmetn assessment
 iab assighnetd assigned
 iab assistence assistance
 iab assit assist
@@ -1488,6 +1492,7 @@ iab autorization authorization
 iab auythhoring authoring
 iab avaialable available
 iab avaialble available
+iab availabilty availability
 iab availablility availability
 iab availasble available
 iab availbel available
@@ -1867,6 +1872,7 @@ iab cibiilazations civilizations
 iab cibil civil
 iab cidiontona conditioning
 iab cientside clientside
+iab cinsisted consisted
 iab cinsistent consistent
 iab cinsoxtent consistent
 iab cinstructor constructor
@@ -1974,6 +1980,7 @@ iab comntact contact
 iab comoing coming
 iab comoment comment
 iab companys companies
+iab compatability compatibility
 iab compbine combine
 iab compelluing compelling
 iab compelted completed
@@ -2209,7 +2216,9 @@ iab culure culture
 iab curbature curvature
 iab curbe curve
 iab curiousity curiosity
+iab curr3ent current
 iab curren current
+iab curretn current
 iab currnetly currently
 iab currrent current
 iab custeomers customers
@@ -2704,6 +2713,7 @@ iab emotionaly emotionally
 iab emovign moving
 iab empety empty
 iab employement employment
+iab empoyment employment
 iab emprty empty
 iab emptyied emptied
 iab encouaged encouraged
@@ -2898,6 +2908,7 @@ iab execeprts excerpts
 iab execie exes
 iab exectue execute
 iab exectured executed
+iab executibe executive
 iab executibes executives
 iab exept except
 iab exeption exception
@@ -3045,6 +3056,7 @@ iab fileds fields
 iab filess files
 iab filmaker filmmaker
 iab filtesr filters
+iab findinign finding
 iab finially finally
 iab finihs finish
 iab finihshed finished
@@ -3123,6 +3135,7 @@ iab fromq from
 iab fromt from
 iab fron front
 iab fronend frontend
+iab fronm from
 iab frontned frontend
 iab frpm from
 iab frusterated frustrated
@@ -4160,6 +4173,7 @@ iab naem name
 iab naems names
 iab nagivation navigation
 iab naighty naughty
+iab naive naïve
 iab namek name
 iab namiung naming 
 iab nanies nannies
@@ -4191,6 +4205,7 @@ iab neesd needs
 iab neever never
 iab nefw new
 iab neghiboring neighboring
+iab negineers engineers
 iab neings beings
 iab neniry memory
 iab neough enough
@@ -4411,6 +4426,7 @@ iab outght ought
 iab outide outside
 iab outl out
 iab outlineed outlined
+iab outpiut output
 iab outsite outside
 iab outube youtube
 iab ouyt out
@@ -5268,6 +5284,8 @@ iab secretely secretly
 iab sectino section
 iab sectret secret
 iab securly securely
+iab securtity security
+iab seeasoned seasoned
 iab seee see
 iab seeeing seeing
 iab seeon seen
@@ -5696,6 +5714,7 @@ iab sysyewm system
 iab sytay stay
 iab sytstem system
 iab sytstmw system
+iab syupport support
 iab tThis this
 iab tackel tackle
 iab tackgin tacking
@@ -5779,6 +5798,8 @@ iab templlate template
 iab templorary temporary
 iab templte template
 iab tempoates templates
+iab tenatively tentatively
+iab tenetively tentatively
 iab tentecles tentacles
 iab teology theology
 iab teqnuquie technique
@@ -6113,6 +6134,7 @@ iab undestant understand
 iab undestood understood
 iab unecessary unnecessary
 iab unelss unless
+iab unempoyment unemployment
 iab unexepected unexpected
 iab unfamliar unfamiliar
 iab unfcoused unfocused
@@ -6143,6 +6165,7 @@ iab upgade upgrade
 iab upgrdae upgrade
 iab uplaoded uploaded
 iab upoin upon
+iab uproductive productive
 iab upublished published
 iab urantium uranium
 iab urget urgent
@@ -6385,6 +6408,7 @@ iab worht worth
 iab woriker worker
 iab workeda worked
 iab workgin working
+iab worki9ng working
 iab workign working
 iab workiong working
 iab worknig working
@@ -6469,6 +6493,7 @@ iab yesgterday yesterday
 iab yesteardy yesterday
 iab yesteawrdya yesterday
 iab yestedrdtay yesterday
+iab yesteradty yesterday
 iab yesterady yesterday
 iab yesteray yesterday
 iab yesterdasyt yesterday
