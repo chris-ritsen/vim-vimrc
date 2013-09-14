@@ -501,6 +501,7 @@ iab Learnign Learning
 iab Legos LEGOs
 iab Lenght Length
 iab Lieutenent Lieutenant
+iab Listenign Listening
 iab Litened Listened
 iab Lnks Links
 iab Luagh Laugh
@@ -778,6 +779,7 @@ iab THank Thank
 iab THanks Thanks
 iab THat That
 iab THe The
+iab THeft Theft
 iab THeme Theme
 iab THen Then
 iab THere There
@@ -1729,6 +1731,7 @@ iab buncgh bunch
 iab bunhc bunch
 iab burdon burden
 iab burdons burdens
+iab burnign burning
 iab busienss business
 iab busines business
 iab businessment businessmen
@@ -1887,6 +1890,7 @@ iab clakc clack
 iab clal call
 iab clalbacks callbacks
 iab claling calling
+iab clhile chile
 iab cliche cliché
 iab cliched clichéd
 iab clientsie clientside
@@ -3081,6 +3085,7 @@ iab fnish finish
 iab fnisinng finishing
 iab foatherless fatherless
 iab focued focused
+iab fodo food
 iab fogive forgive
 iab foinsih finish
 iab foljks folks
@@ -3732,6 +3737,7 @@ iab iwth with
 iab iwthin within
 iab ixation fixation
 iab jacascript javascript
+iab jahd had
 iab jalapenos jalapeños
 iab javacwipt javascript
 iab javascirpt javascript
@@ -3819,6 +3825,7 @@ iab laundryh laundry
 iab laundy laundry
 iab laways always
 iab lawte late
+iab laxt last
 iab lazser laser
 iab lazyily lazily
 iab lbaclk black
@@ -4381,6 +4388,7 @@ iab optimizatin optimization
 iab optimizatins optimizations
 iab optimze optimize
 iab optinmazation optimization
+iab optinos options
 iab optoins options
 iab opurpose purpose
 iab opwer power
@@ -4926,6 +4934,7 @@ iab reaosn reason
 iab reaoson reason
 iab reasearch research
 iab reaslise realise
+iab reasno reason
 iab reasoin reason
 iab reasonf reasons
 iab reasponding responding
@@ -5344,6 +5353,7 @@ iab setnence sentence
 iab setnene sentence
 iab settimeout setTimeout
 iab settinsg settings
+iab settnig setting
 iab seude suede
 iab seuencing sequencing
 iab seveeral several
@@ -5488,6 +5498,7 @@ iab someting something
 iab sometohitn something
 iab sometone someone
 iab sometwhere somewhere
+iab somewehre somewhere
 iab somewone someone
 iab somewthing something
 iab somhow somehow
@@ -5859,6 +5870,7 @@ iab thessse these
 iab thest these
 iab thethered tethered
 iab thewre there
+iab thgat that
 iab thge the
 iab thgen then
 iab thiat that
@@ -6173,6 +6185,7 @@ iab urgetn urgent
 iab urgnent urgent
 iab urgnet urgent
 iab urprisingly surprisingly
+iab us4e use
 iab usaer user
 iab usaernames usernames
 iab usaes uses
@@ -6265,6 +6278,7 @@ iab wahat what
 iab waht what
 iab wahtefver whatever
 iab wahtever whatever
+iab waitign waiting
 iab walkted walked
 iab wanat want
 iab wante wanted
@@ -6272,6 +6286,7 @@ iab wantt want
 iab waork work
 iab warapping wrapping
 iab warriers warriors
+iab wasiting waiting
 iab watchign watching
 iab watchint watching
 iab watchung watching
@@ -6307,6 +6322,7 @@ iab werew were
 iab werid weird
 iab weriting writing
 iab werwe were
+iab wevbsite website
 iab weven even
 iab wevsite website
 iab wgbsite website
@@ -6457,6 +6473,7 @@ iab wrules rules
 iab wsa was
 iab wseciots besots
 iab wsith with
+iab wsomeone someone
 iab wste waste
 iab wtching watching
 iab wto to
