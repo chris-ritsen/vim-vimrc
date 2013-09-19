@@ -99,6 +99,7 @@ iab Anytihngi Anything
 iab Anywqy Anyway
 iab Anywy Anyway
 iab Apaprently Apparently
+iab Aparently Apparently
 iab Appaerntly Apparently
 iab Apparemntly Apparently
 iab Apparnetly Apparently
@@ -1033,6 +1034,7 @@ iab achieveing achieving
 iab acion action
 iab aciton action
 iab acitons actions
+iab ackknowledge acknowledge
 iab acknowlege acknowledge
 iab acocoutn account
 iab acocunt account
@@ -1162,6 +1164,7 @@ iab ajvascript javascript
 iab aksed asked
 iab alaid laid
 iab alalogies analogies
+iab alaredy already
 iab alays always
 iab albumb album
 iab aleady already
@@ -1186,8 +1189,11 @@ iab alos also
 iab alrday already
 iab alread already
 iab alreadgy already
+iab alreadhy already
 iab alreadt already
 iab alreadyg already
+iab alreadyh already
+iab alreasdy already
 iab alreaxdy already
 iab alreay already
 iab alreday already
@@ -1535,6 +1541,7 @@ iab aweome awesome
 iab aweosme awesome
 iab aweosmwe awesome
 iab awesomet awesome
+iab awkknowledge acknowledge
 iab awknowledge acknowledge
 iab awknowledged acknowledged
 iab awknowlege acknowledge
@@ -2149,6 +2156,7 @@ iab contorller controller
 iab contorls controls
 iab contoroller controller
 iab contoujnously continuously
+iab contracfting contracting
 iab contracry contrary
 iab contraversial controversial
 iab contrcetate concentrate
@@ -2173,6 +2181,7 @@ iab convition conviction
 iab cookeis cookies
 iab coompooents components
 iab coookies cookies
+iab copanies companies
 iab copatible compatible
 iab copmetency competency
 iab copmleted completed
@@ -3025,6 +3034,7 @@ iab expode explode
 iab expoeiure experience
 iab exporlation exportation
 iab expousre exposure
+iab expresiion expression
 iab expseically especially
 iab exsample example
 iab exstract extract
@@ -4830,6 +4840,7 @@ iab preservce preserve
 iab presewnted presented
 iab presumtion presumption
 iab preteurved perturbed
+iab prettty pretty
 iab prettyy pretty
 iab prety pretty
 iab preventingh preventing
@@ -5246,13 +5257,16 @@ iab revalation revelation
 iab reve3al reveal
 iab reveaul reveal
 iab reveived revived
+iab revewign reviewing
 iab reviers reviewers
 iab revierw review
 iab revieve receive
+iab reviewi review
 iab revivew review
 iab reviwing reviewing
 iab revolutiohn revolution
 iab rewquest request
+iab rewqvienw rewoven
 iab rewsponsiblity responsibility
 iab rexample example
 iab rexotic exotic
@@ -5308,6 +5322,7 @@ iab rpomise promise
 iab rprison prison
 iab rproduced produced
 iab rquired required
+iab rreview review
 iab rright right
 iab rsulting resulting
 iab rthis this
@@ -5558,6 +5573,7 @@ iab smelel smell
 iab smething something
 iab smithereans smithereens
 iab smoe some
+iab smoek smoke
 iab smoknig smoking
 iab smove move
 iab snad and
