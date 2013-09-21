@@ -5,6 +5,7 @@ augroup filetypes
 
   " autocmd! BufRead,BufNewFile ~/.gnupg/* if &filetype == 'conf' | setfiletype gpg | endif 
   autocmd! BufEnter * if &filetype == "" | setlocal filetype=text | endif
+  autocmd! BufNewFile,BufRead *.ldg,*.ledger setf ledger 
   autocmd! BufEnter *.org call org#SetOrgFileType()
   autocmd! BufNewFile,BufRead *.css,*.scss set foldmethod=marker fmr={,}
   autocmd! BufNewFile,BufRead *.c,*.cpp set foldmethod=syntax
