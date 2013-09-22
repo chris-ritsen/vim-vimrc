@@ -5,22 +5,22 @@ augroup filetypes
 
   " autocmd! BufRead,BufNewFile ~/.gnupg/* if &filetype == 'conf' | setfiletype gpg | endif 
   autocmd! BufEnter * if &filetype == "" | setlocal filetype=text | endif
-  autocmd! BufNewFile,BufRead *.ldg,*.ledger setf ledger 
   autocmd! BufEnter *.org call org#SetOrgFileType()
-  autocmd! BufNewFile,BufRead *.css,*.scss set foldmethod=marker fmr={,}
   autocmd! BufNewFile,BufRead *.c,*.cpp set foldmethod=syntax
+  autocmd! BufNewFile,BufRead *.css,*.scss set foldmethod=marker fmr={,}
+  autocmd! BufNewFile,BufRead *.ldg,*.ledger setf ledger
   autocmd! BufRead,BufNewFile *.aspx,*.asmx,*.ascx set filetype=aspnet 
   autocmd! BufRead,BufNewFile *.json set filetype=json
   autocmd! BufRead,BufNewFile *.tex set filetype=tex
   autocmd! BufRead,BufNewFile .lynxrc set filetype=lynx
   autocmd! BufRead,BufNewFile .offlineimaprc setlocal commentstring=#\ %s
   autocmd! BufRead,BufNewFile /etc/nginx/nginx.conf,/usr/local/nginx/conf/* setfiletype nginx
+  autocmd! BufRead,BufNewFile /tmp/mutt* if &filetype == '' | setfiletype mail | endif 
   autocmd! BufRead,BufNewFile ~/.config/mailcap setlocal nowrap
   autocmd! BufRead,BufNewFile ~/.config/mutt/* if &filetype == '' | setfiletype muttrc | endif " would also like nowrap
   autocmd! BufRead,BufNewFile ~/.config/tmux/*,~/.config/tmux/sessions setfiletype tmux
   autocmd! BufRead,BufNewFile ~/.irssi/config setfiletype conf
   autocmd! BufRead,BufNewFile ~/mail/* if &filetype == '' | setfiletype mail | endif 
-  autocmd! BufRead,BufNewFile /tmp/mutt* if &filetype == '' | setfiletype mail | endif 
   autocmd! BufRead,BufWrite *.inc,*.php,*.hs if ! &bin | silent! %s/\s\+$//ge | endif
   autocmd! BufRead,BufWrite *.inc,*.php,*.hs if ! &bin | silent! :%s/ \+\ze\t//ge | endif
   autocmd! BufRead,BufWrite,BufWritePost,BufNewFile *.org 

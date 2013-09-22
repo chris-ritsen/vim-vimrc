@@ -2699,7 +2699,7 @@ iab eatrth earth
 iab eawsier easier
 iab eaxactly exactly
 iab ecause because
-iab eccentricy eccentricity 
+iab eccentricy eccentricity
 iab ecomputer computer
 iab economoies economies
 iab ecxcellenet excellent
@@ -2866,7 +2866,7 @@ iab equivelants equivalents
 iab equivilant equivalent
 iab equivilent equivalent
 iab erad read
-iab eralire earlier 
+iab eralire earlier
 iab erally really
 iab erason reason
 iab erified verified
@@ -4320,7 +4320,7 @@ iab nagivation navigation
 iab naighty naughty
 iab naive naïve
 iab namek name
-iab namiung naming 
+iab namiung naming
 iab nanies nannies
 iab nanoying nannying
 iab naother another
@@ -4422,7 +4422,7 @@ iab nwes news
 iab nymber number
 iab o4r or
 iab oall all
-iab obderve observe 
+iab obderve observe
 iab obiosu obvious
 iab obivous obvious
 iab obivously obviously
@@ -4854,7 +4854,7 @@ iab praciticing practicing
 iab practially practically
 iab practiceid practiced
 iab practiceing practicing
-iab practicign practicing 
+iab practicign practicing
 iab practie practice
 iab practied practiced
 iab practiedc practiced
@@ -4939,7 +4939,7 @@ iab probaly probably
 iab probasbly probably
 iab probbly probably
 iab probelm problem
-iab probelms problems 
+iab probelms problems
 iab probelsm problems
 iab problemes problems
 iab problesm problems
