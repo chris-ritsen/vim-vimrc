@@ -39,7 +39,11 @@ cab setINterval setInterval
 "iab onthe on the
 
 iab ... …
+iab haredware hardware
+iab expendses expenses
 iab .l .
+iab musc misc
+iab withdrawl withdrawal
 iab 3each each
 iab ALi Ali
 iab ALl All
@@ -659,6 +663,7 @@ iab Proeducts Products
 iab Proifl Profile
 iab Promoote Promote
 iab Propegating Propagating
+iab Protien Protein
 iab Providided Provided
 iab Pyrde Pryde
 iab Pyt Put
@@ -1172,6 +1177,7 @@ iab alalogies analogies
 iab alaredy already
 iab alays always
 iab albumb album
+iab alcogol alcohol
 iab aleady already
 iab alearady already
 iab alerady already
@@ -1450,6 +1456,7 @@ iab assaets assets
 iab assertation assertion
 iab assertiion assertion
 iab assessmetn assessment
+iab assewts assets
 iab assighnetd assigned
 iab assistence assistance
 iab assit assist
@@ -1854,6 +1861,8 @@ iab cealry clearly
 iab ceepeneidng depending
 iab ceffeine caffeine
 iab cehcked  checked
+iab cehckign checking
+iab cehkcing checking
 iab celels cells
 iab cenmtered centered
 iab centarllized centralized
@@ -1893,12 +1902,14 @@ iab chatacters characters
 iab chater charger
 iab chceking checking
 iab chechking checking
+iab checign checking
 iab checkign checking
 iab checm check
 iab chekc check
 iab chekcing checking
 iab chekcs checks
 iab chekcsum checksum
+iab cheking checking
 iab chenmmicals chemicals
 iab chgase chase
 iab childrenn children
@@ -2740,6 +2751,8 @@ iab ekey key
 iab elave leave
 iab electical electrical
 iab electornic electronic
+iab electroincs electronics
+iab electroinics electronics
 iab electronci electronic
 iab eleemtn element
 iab eleemtns elements
@@ -2751,6 +2764,7 @@ iab elemnets elements
 iab elemnt element
 iab elemtns elements
 iab eletric electric
+iab eletroinics electronics
 iab elevent eleven
 iab elimnate eliminate
 iab elimnating eliminating
@@ -3030,6 +3044,7 @@ iab expeirece experience
 iab expeirence experience
 iab expendible expendable
 iab expensie expense
+iab expenss expenses
 iab expercises exercises
 iab experiecnes experiences
 iab experiecnews experiences
@@ -3371,6 +3386,7 @@ iab happineess happiness
 iab happned happened
 iab happngin happening
 iab happpend happened
+iab hardsware hardware
 iab harmonly harmony
 iab hashs hashes
 iab hasve have
@@ -4524,6 +4540,7 @@ iab opwer power
 iab ordinarty ordinary
 iab ordser order
 iab oreder order
+iab orgainizing organizing
 iab organizaiton organization
 iab organizging organizing
 iab organizms organisms
@@ -6800,5 +6817,4 @@ iab zbut but
 iab zefver server
 iab ztart start
 iab ztaships starships
-iab orgainizing organizing
 
