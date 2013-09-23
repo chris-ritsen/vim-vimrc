@@ -995,7 +995,6 @@ iab aas as
 iab aattacik attack
 iab abackgring background
 iab abalanced balanced
-iab abalanced balanced
 iab abank bank
 iab abberviations abbreviations
 iab abbout about
@@ -2009,7 +2008,6 @@ iab cirriouscous cirrhosis
 iab cirumstances circumstances
 iab citaitons citations
 iab citiations citations
-iab ckick click
 iab ckick click
 iab claaim claim
 iab claear clear
@@ -3648,7 +3646,6 @@ iab hunder hinder
 iab hundre hundred
 iab hundres hundred
 iab hunrdesd hundred
-iab hunrdesd hundred
 iab hunrdred hundred
 iab hunrededs hundreds
 iab hustband husband
@@ -4562,6 +4559,7 @@ iab o4r or
 iab oall all
 iab obderve observe
 iab obiosu obvious
+iab obiovusly obviously
 iab obivous obvious
 iab obivously obviously
 iab objecf object
@@ -4730,6 +4728,7 @@ iab ov of
 iab overahul overhaul
 iab overalyed overplayed
 iab oviosu obvious
+iab oviosuly obviously
 iab ovservation observation
 iab ovserving observing
 iab oworlds worlds
@@ -6385,6 +6384,7 @@ iab tlels tells
 iab tmeplate template
 iab tmeplates templates
 iab tmie time
+iab tmiem time
 iab tnow now
 iab tnrascvtion transaction
 iab tob to
