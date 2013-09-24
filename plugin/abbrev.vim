@@ -2381,6 +2381,7 @@ iab damagie damage
 iab damange damage
 iab damqged damaged
 iab dapplicaionts applications
+iab darlk dark
 iab darmling darling
 iab databasdes databases
 iab databasews database's
@@ -4565,6 +4566,7 @@ iab obivously obviously
 iab objecf object
 iab objecft object
 iab objectvies objectives
+iab objecvt object
 iab objet object
 iab objetions objections
 iab objetive objective
@@ -6583,6 +6585,7 @@ iab unexepected unexpected
 iab unfamliar unfamiliar
 iab unfcoused unfocused
 iab unfiortunaltely unfortunately
+iab unfoucising unfocusing
 iab ungreateful ungrateful
 iab unieverrily universally
 iab unimaginatibe unimaginative
@@ -7027,4 +7030,5 @@ iab zefver server
 iab zeron zero
 iab ztart start
 iab ztaships starships
+iab checling checking
 
