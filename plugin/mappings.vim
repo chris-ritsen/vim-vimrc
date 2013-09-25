@@ -43,7 +43,7 @@ noremap k gk
 
 nnoremap <Q <nop>
 nnoremap <down> <nop>
-nnoremap <leader><space> :noh<cr>
+" nnoremap <leader><space> :noh<cr>
 nnoremap <leader>c :NERDTreeFind<CR>
 nnoremap <leader>n :NERDTreeToggle<CR>
 nnoremap <leader>s viw"0pb

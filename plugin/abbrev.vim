@@ -1923,6 +1923,7 @@ iab cehckign checking
 iab cehkcing checking
 iab celels cells
 iab cenmtered centered
+iab cenrter center
 iab centarllized centralized
 iab centeral central
 iab ceonsensus consensus
@@ -1967,6 +1968,7 @@ iab chechking checking
 iab checign checking
 iab checkign checking
 iab checkiok checkbook
+iab checling checking
 iab checm check
 iab chekc check
 iab chekcing checking
@@ -2763,6 +2765,7 @@ iab eaeting eating
 iab eago ago
 iab eall all
 iab ealrier earlier
+iab eamil email
 iab earch each
 iab easilyt easily
 iab easoily easily
@@ -3402,6 +3405,7 @@ iab gframeworks frameworks
 iab gfrighten frighten
 iab gget get
 iab ggtet get
+iab gilr girl
 iab ginats giants
 iab giong going
 iab giossip gossip
@@ -4295,6 +4299,7 @@ iab mentoined mentioned
 iab menuial menial
 iab mepmey money
 iab mergesr mergers
+iab messgage message
 iab messsage message
 iab messsages messages
 iab methadologiest methodologies
@@ -4315,6 +4320,7 @@ iab minium minim
 iab miniute minute
 iab miniutes minutes
 iab minnimal minimal
+iab mintue minute
 iab mintues minutes
 iab minubtues minutes
 iab minut minute
@@ -5896,6 +5902,7 @@ iab sovle solve
 iab sovlesrs solvers
 iab sovling solving
 iab spaawned spawned
+iab spaceshgip spaceship
 iab spagetthi spaghetti
 iab spagetti spaghetti
 iab spanws spawns
@@ -6001,6 +6008,7 @@ iab strartegy strategy
 iab strategeies strategies
 iab strenghts strengths
 iab strt start
+iab strtuctures structures
 iab structurture structure
 iab struture structure
 iab ststus status
@@ -6196,6 +6204,7 @@ iab telegraphuc telegraphic
 iab telll tell
 iab tema team
 iab temokateYUrl templateUrl
+iab temorary temporary
 iab tempalte template
 iab tempaltes templates
 iab temperateur temperature
@@ -6204,6 +6213,7 @@ iab templlate template
 iab templorary temporary
 iab templte template
 iab tempoates templates
+iab temportary temporary
 iab temrprateures temperatures
 iab tenatively tentatively
 iab tenetively tentatively
@@ -6477,7 +6487,9 @@ iab trasure treasure
 iab travellign traveling
 iab travelling traveling
 iab treatuer treasure
+iab treid tried
 iab treinyg trying
+iab trid tried
 iab triger trigger
 iab triggerd triggered
 iab trigget trigger
@@ -6884,6 +6896,7 @@ iab workiong working
 iab worknig working
 iab workring working
 iab workrry worry
+iab workuing working
 iab workung working
 iab worring worrying
 iab worriyn worrying
@@ -7030,5 +7043,4 @@ iab zefver server
 iab zeron zero
 iab ztart start
 iab ztaships starships
-iab checling checking
 
