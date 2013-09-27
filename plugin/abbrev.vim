@@ -672,6 +672,7 @@ iab Postion Position
 iab Praciticu Practice
 iab Practive Proactive
 iab Prbioably Probably
+iab Presnetly Presently
 iab Pricicy Privacy
 iab Pricvacy Privacy
 iab Priofile Profile
@@ -1673,6 +1674,7 @@ iab beeneft benefit
 iab befause because
 iab befcause because
 iab befoe before
+iab befoer before
 iab befopre before
 iab begain began
 iab beghin begin
@@ -7044,3 +7046,5 @@ iab zeron zero
 iab ztart start
 iab ztaships starships
 
+iab APple Apple
+iab Atana Aptana
