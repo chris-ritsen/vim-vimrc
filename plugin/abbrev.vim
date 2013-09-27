@@ -61,6 +61,7 @@ iab ANy Any
 iab APi API
 iab APoI API
 iab APp App
+iab APple Apple
 iab APproved Approved
 iab Aamazing Amazing
 iab Aamazon Amazon
@@ -126,6 +127,7 @@ iab Arlgith Alright
 iab Ascii ASCII
 iab Assiming Assuming
 iab Assisiting Assisting
+iab Atana Aptana
 iab Atch Arch
 iab Atlast Atlas
 iab Atmoic Atomic
@@ -2019,6 +2021,7 @@ iab clakc clack
 iab clal call
 iab clalbacks callbacks
 iab claling calling
+iab clcoked clocked
 iab clhile chile
 iab cliche cliché
 iab cliched clichéd
@@ -7046,5 +7049,3 @@ iab zeron zero
 iab ztart start
 iab ztaships starships
 
-iab APple Apple
-iab Atana Aptana
