@@ -1,5 +1,6 @@
 
 " let g:Powerline_loaded = 1
+let loaded_yankring = 170 " disable yank-ring plugin for now
 let $GROFF_NO_SGR = 1
 let @/ = ""
 let MRU_Max_Entries = 400

@@ -11,6 +11,7 @@
 cab GIt Git
 cab commmit commit
 cab confifg config
+cab mkae make 
 cab hepl help
 cab hlep help
 cab jaava java
@@ -37,6 +38,7 @@ cab setINterval setInterval
 "iab linkedin linked in
 "iab onethougsand one thousand
 "iab onthe on the
+
 
 
 "iab ca ça
@@ -178,6 +180,7 @@ iab CHris Chris
 iab CHristianity Christianity
 iab CHristiopher Christopher
 iab CHristopjher Christopher
+iab CHrome Chrome
 iab CLothes Clothes
 iab CLoud Cloud
 iab COlor Color
@@ -213,6 +216,7 @@ iab Calll Call
 iab Capcicum Capsicum
 iab Captian Captain
 iab Certifaction Certification
+iab Checkhov Chekhov
 iab Checkign Checking
 iab Chercking Checking
 iab Chicjkelds Chuckles
@@ -264,6 +268,7 @@ iab Creats Creates
 iab Crhis Chris
 iab Crhisropiher Christopher
 iab Crights Christ
+iab Cultaured Cultured
 iab Currnelty Currently
 iab DELTE DELETE
 iab DId Did
@@ -509,6 +514,7 @@ iab Ipmortant Important
 iab Itemd Items
 iab JOin Join
 iab JUst Just
+iab Jalapeno Jalapeños
 iab Jalapenos Jalapeños
 iab JavaSCript JavaScript
 iab JavaScrit JavaScript
@@ -703,6 +709,7 @@ iab REcords Records
 iab REgister Register
 iab RElated Related
 iab REmember Remember
+iab REmemberomng Remembering
 iab REmove Remove
 iab REnder Render
 iab REquire Require
@@ -724,6 +731,8 @@ iab Refrences References
 iab Regeret Regret
 iab Remeber Remember
 iab Remebmerr Remember
+iab Rememberonmg Remembering
+iab Remembinering Remembering
 iab Remembre Remember
 iab Repeaet Repeat
 iab Requedsting Requesting
@@ -746,6 +755,7 @@ iab Rnadom Random
 iab Rodeneberry Roddenberry
 iab Rohy Roy
 iab Roling Rolling
+iab Royksopp Röyksopp
 iab Rpeeaea Repeal
 iab Rpepat Repeat
 iab Rsnick Resnick
@@ -1432,6 +1442,7 @@ iab applicqtion application
 iab appliction application
 iab applictiopn application
 iab appliee applied
+iab applixations applications
 iab applkcaiton application
 iab appllication application
 iab appllying applying
@@ -1500,6 +1511,7 @@ iab asnwered answered
 iab aspelled spelled
 iab asprin aspirin
 iab assaets assets
+iab asseessment assessment
 iab assertation assertion
 iab assertiion assertion
 iab assessmetn assessment
@@ -2130,6 +2142,7 @@ iab compeltely completely
 iab compentsatie compensate
 iab compieled compiled
 iab complaing complain
+iab complaingin complaining
 iab complciated complicated
 iab complemenatary complementary
 iab complementatry complementary
@@ -2363,6 +2376,7 @@ iab cuasing causing
 iab cuews cues
 iab cufnction function
 iab cuircles circles
+iab cultue culture
 iab culure culture
 iab curbature curvature
 iab curbe curve
@@ -2964,6 +2978,7 @@ iab errono errno
 iab ersult result
 iab ersults results
 iab esales sales
+iab escatatic ecstatic
 iab escpae escape
 iab esevices services
 iab esigneers designers
@@ -3217,6 +3232,8 @@ iab factores factors
 iab faield failed
 iab failry fairly
 iab failture failure
+iab failtying failing
+iab failying failing
 iab faklcoins falcons
 iab falat flat
 iab fallying falling
@@ -3524,6 +3541,7 @@ iab hearsd heard
 iab heathon heathen
 iab heaton heathen
 iab heavbilkly heavily
+iab heaveier heavier
 iab heere here
 iab heihgt height
 iab heirarchy hierarchy
@@ -3653,6 +3671,7 @@ iab httpBacken httpBackend
 iab httpbackend httpBackend
 iab htttp http
 iab hunder hinder
+iab hundered hundred
 iab hundre hundred
 iab hundres hundred
 iab hunrdesd hundred
@@ -3815,6 +3834,7 @@ iab ingreidents ingredients
 iab ingreteients ingredients
 iab inidan indian
 iab inidicuaal identical
+iab ininitalize initialize
 iab inistalling installing
 iab initailize initialize
 iab inital initial
@@ -3971,6 +3991,7 @@ iab iwthin within
 iab ixation fixation
 iab jacascript javascript
 iab jahd had
+iab jalapeno jalapeños
 iab jalapenos jalapeños
 iab javacwipt javascript
 iab javascirpt javascript
@@ -4202,6 +4223,7 @@ iab luclky lucky
 iab ludicrious ludicrous
 iab ludicrius ludicrous
 iab ludicrus ludicrous
+iab luink link
 iab lukcyl lucky
 iab lvie live
 iab lvies lives
@@ -4511,6 +4533,7 @@ iab networsks networks
 iab netwrok network
 iab nevr never
 iab newert newer
+iab newsleteter newsletter
 iab newwer newer
 iab nexdt next
 iab ngiht night
@@ -5211,6 +5234,7 @@ iab pyton python
 iab pyyou you
 iab qbout about
 iab qeustions questions
+iab qualitites qualities
 iab quanitity quantity
 iab qucikly quickly
 iab qucikyl quickly
@@ -6145,6 +6169,7 @@ iab talen talent
 iab talkds talks
 iab talkingt talking
 iab taought taught
+iab tarangtuala tarantula
 iab tarck track
 iab tarcking tracking
 iab targetd target
@@ -6304,6 +6329,7 @@ iab thingkin thinking
 iab thingks things
 iab thini thing
 iab thiniker thinker
+iab thinjing thinking
 iab thinjkinb thinking
 iab thinjking thinking
 iab thinkg thing
@@ -6312,6 +6338,7 @@ iab thinkin thinking
 iab thinkiners thinking's
 iab thinkjing thinking
 iab thinkk think
+iab thinkng thinking
 iab thinknig thinking
 iab thinkning thinking
 iab thinm think
@@ -6429,6 +6456,7 @@ iab tokne token
 iab tolderate tolerate
 iab tomorro tomorrow
 iab tomrorow tomorrow
+iab tomrrow tomorrow
 iab tonado tornado
 iab tongiht tonight
 iab tongith tonight
@@ -6586,6 +6614,7 @@ iab undersant understand
 iab understandingf understandings
 iab understant understand
 iab understantd understand
+iab understrand understand
 iab understsnd understand
 iab undesireable undesirable
 iab undesrtanding understanding
@@ -6604,6 +6633,7 @@ iab unfcoused unfocused
 iab unfiortunaltely unfortunately
 iab unfoucising unfocusing
 iab ungreateful ungrateful
+iab unhapiness unhappiness
 iab unieverrily universally
 iab unimaginatibe unimaginative
 iab uniqe unique
@@ -6720,6 +6750,7 @@ iab videws videos
 iab vidoe video
 iab vidoes videos
 iab vifew view
+iab violen violin
 iab visiable visible
 iab visibible visible
 iab visibuility visibility
@@ -6866,6 +6897,7 @@ iab withdrawl withdrawal
 iab withhin within
 iab withihn within
 iab withotu without
+iab withou without
 iab withougt without
 iab withut without
 iab witnh with
@@ -7032,6 +7064,7 @@ iab youur your
 iab youve you've
 iab youy your
 iab youyr your
+iab youyrsefl yourself
 iab yoyr your
 iab ypou you
 iab ypoure pure
@@ -7049,3 +7082,6 @@ iab zeron zero
 iab ztart start
 iab ztaships starships
 
+iab includfing including
+iab indcluding including
+iab watxhed watched
