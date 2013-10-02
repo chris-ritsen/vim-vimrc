@@ -39,8 +39,6 @@ cab setINterval setInterval
 "iab onethougsand one thousand
 "iab onthe on the
 
-
-
 "iab ca ça
 "iab ha[[enmed happened
 iab ... …
@@ -2192,6 +2190,7 @@ iab condesning condensing
 iab conditiona condition
 iab condiuit conduit
 iab condiut conduit
+iab condoments condiments
 iab conenct connect
 iab conencted connected
 iab conenction connection
@@ -3777,6 +3776,7 @@ iab incldues includes
 iab incliding including
 iab includ3 include
 iab includeing including
+iab includfing including
 iab incluedes includes
 iab incompatability incompatibility
 iab incompatiblity incompatibility
@@ -3800,6 +3800,7 @@ iab incremenetally incrementally
 iab incremeneted incremented
 iab incremenets increments
 iab indai india
+iab indcluding including
 iab indeces indices
 iab inded index
 iab indepenednat independent
@@ -4043,6 +4044,7 @@ iab keepo keep
 iab kepe keep
 iab kepy kept
 iab kernal kernel
+iab ketechup ketchup
 iab keyboardu keyboard
 iab keyboared keyboard
 iab keynboard keyboard
@@ -4213,6 +4215,7 @@ iab lsbel label
 iab lsit list
 iab lsited listed
 iab lsitening listening
+iab lsits lists
 iab lslightly slightly
 iab lsot lost
 iab lsow slow
@@ -5908,6 +5911,7 @@ iab somewone someone
 iab somewthing something
 iab somhow somehow
 iab somkply simply
+iab somme some
 iab somple simple
 iab somsewhere somewhere
 iab somtimes sometimes
@@ -6792,6 +6796,7 @@ iab watied waited
 iab watiing waiting
 iab watn want
 iab watned wanted
+iab watxhed watched
 iab wawnt want
 iab wbsite website
 iab wchool school
@@ -7081,7 +7086,5 @@ iab zefver server
 iab zeron zero
 iab ztart start
 iab ztaships starships
+iab hjad head
 
-iab includfing including
-iab indcluding including
-iab watxhed watched
