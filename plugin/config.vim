@@ -1,5 +1,11 @@
 
 " let g:Powerline_loaded = 1
+let b:did_ftplugin = 1
+let g:paredit_loaded = 1
+let g:slimv_disable_lisp = 1
+let g:slimv_lisp_loaded = 1
+let g:slimv_loaded = 1 " thinks it can bind mapleader by default
+let g:slimv_scheme_loaded = 1
 let loaded_yankring = 170 " disable yank-ring plugin for now
 let $GROFF_NO_SGR = 1
 let @/ = ""

@@ -7088,3 +7088,8 @@ iab ztart start
 iab ztaships starships
 iab hjad head
 
+iab exapmle example
+iab concice concise
+iab impove improve
+iab slepep sleep
+iab exampels examples
