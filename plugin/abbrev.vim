@@ -39,6 +39,7 @@ cab setINterval setInterval
 "iab onethougsand one thousand
 "iab onthe on the
 
+
 "iab ca ça
 "iab ha[[enmed happened
 iab ... …
@@ -2182,6 +2183,7 @@ iab comsequences consequences
 iab conbtent content
 iab conc8lusion conclusion
 iab conceppets concepts
+iab concice concise
 iab conciousness consciousness
 iab conciul council
 iab conctrol control
@@ -3084,10 +3086,12 @@ iab exalain explain
 iab examiniation examination
 iab examnple example
 iab exampel example
+iab exampels examples
 iab examplify exemplify
 iab examplke example
 iab exampole example
 iab examsple example
+iab exapmle example
 iab exasct exact
 iab exasctly exactly
 iab exasmple example
@@ -3567,6 +3571,7 @@ iab hideuous hideous
 iab hieght height
 iab hieracrchy hierarchy
 iab hierarcy hierarchy
+iab higest hugest
 iab highlighing highlighting
 iab highlighiting highlighting
 iab highlioghting highlighting
@@ -3586,6 +3591,7 @@ iab hispet hipset
 iab historty history
 iab hitttng hitting
 iab hiugh high
+iab hjad head
 iab hjandle handle
 iab hjere here
 iab hjpyotetical hypothetical
@@ -3594,6 +3600,7 @@ iab hkno know
 iab hlaf half
 iab hlelban hellban
 iab hlep help
+iab hleped helped
 iab hmtl html
 iab hobbiest hobbyist
 iab hodling holding
@@ -3755,6 +3762,7 @@ iab imporve improve
 iab imporving improving
 iab imposter impostor
 iab impotant important
+iab impove improve
 iab impprtant important
 iab impratnce importance
 iab improvemnet improvement
@@ -4791,6 +4799,7 @@ iab packagesd packages
 iab packagfes packages
 iab packcheck paycheck
 iab paerhapo perhaps
+iab paernts parents
 iab pagpers pampers
 iab pahge page
 iab pakistan Pakistan
@@ -5824,6 +5833,7 @@ iab sleecft select
 iab sleections selections
 iab sleector selector
 iab slef self
+iab slepep sleep
 iab slepp sleep
 iab slgihtest slightest
 iab slgithly slightly
@@ -6470,7 +6480,6 @@ iab toorrow tomorrow
 iab toosl tools
 iab topuc topic
 iab tordando tornado
-iab tored stored
 iab torrentiyional torrential
 iab tosay today
 iab totla total
@@ -6808,6 +6817,7 @@ iab webscsokets websockets
 iab websties websites
 iab wednday wednesday
 iab weejs weeks
+iab weekeend weekend
 iab weekened weekend
 iab weekley weekly
 iab weeknd weekend
@@ -7086,10 +7096,9 @@ iab zefver server
 iab zeron zero
 iab ztart start
 iab ztaships starships
-iab hjad head
 
-iab exapmle example
-iab concice concise
-iab impove improve
-iab slepep sleep
-iab exampels examples
+iab involuntarely involuntarily
+iab sleepm sleep
+iab Considder Consider
+iab ohme home
+iab recorrigns recordings
