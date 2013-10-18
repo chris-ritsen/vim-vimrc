@@ -308,6 +308,7 @@ iab Disvovered Discovered
 iab Docotor Doctor
 iab Docotr Doctor
 iab Doen Done
+iab Drunking Drinking
 iab Dveelopement Development
 iab Dveloped Developed
 iab Dveloper Developer
@@ -534,6 +535,7 @@ iab Krogrer Kroger
 iab LIving Living
 iab LOcation Location
 iab LUnch Lunch
+iab LaTex LaTeX
 iab Laborartory Laboratory
 iab Labpor Labor
 iab Laxdy Lady
@@ -1446,6 +1448,7 @@ iab appliction application
 iab applictiopn application
 iab appliee applied
 iab applixations applications
+iab applixcations applications
 iab applkcaiton application
 iab appllication application
 iab appllying applying
@@ -1753,6 +1756,7 @@ iab biever bieber
 iab billboardd billboard
 iab billiino billion
 iab bindging binding
+iab bindinf binding
 iab binoculare binocular
 iab binring bringing
 iab bioelectornics bioelectronics
@@ -2422,7 +2426,9 @@ iab dataqbases databases
 iab datbase database
 iab daydraem daydream
 iab daysdream daydream
+iab dayus days
 iab dbug debug
+iab ddefault default
 iab ddependcy dependency
 iab ddevelopment development
 iab ddevlpoment development
@@ -2748,6 +2754,7 @@ iab dropdonw dropdown
 iab dropepd dropped
 iab droppped dropped
 iab drufging during
+iab drunking drinking
 iab drvie drive
 iab dsaid said
 iab dsearch search
@@ -2987,6 +2994,7 @@ iab erified verified
 iab erquest request
 iab errends errands
 iab errono errno
+iab error_reportign error_reporting
 iab ersult result
 iab ersults results
 iab esales sales
@@ -3410,6 +3418,7 @@ iab functoins functions
 iab funftions functions
 iab funiture furniture
 iab funtion function
+iab funxction function
 iab funy funny
 iab furhter further
 iab furthger further
@@ -3951,6 +3960,7 @@ iab intervier interview
 iab intervieww interview
 iab intervivew interview
 iab intervivewing interviewing
+iab interviwe interview
 iab intesrested interested
 iab intesreting interesting
 iab intesrewting interesting
@@ -4684,6 +4694,7 @@ iab offste offset
 iab offten often
 iab ofg of
 iab ofh of
+iab ogf of
 iab oging going
 iab ogod good
 iab ohme home
@@ -5303,6 +5314,7 @@ iab qusetions questions
 iab radious radius
 iab raelly really
 iab raido radio
+iab rainding raining
 iab raisaed raised
 iab raitings ratings
 iab ramaining remaining
@@ -5310,6 +5322,7 @@ iab randomply randomly
 iab rankinig ranking
 iab rased raised
 iab ratigns ratings
+iab rauining raining
 iab razied raised
 iab rcomputer computer
 iab reacently recently
@@ -5456,6 +5469,7 @@ iab repond respond
 iab reporduced reproduced
 iab reporets reports
 iab reporitng reporting
+iab reportign reporting
 iab repositiories repositories
 iab repositiroy repository
 iab repply reply
@@ -5962,6 +5976,7 @@ iab somtimes sometimes
 iab songriter songwriter
 iab sonmeone someone
 iab sopeed speed
+iab sopmethign something
 iab sordt sort
 iab sorteded sorted
 iab sortware software
@@ -6671,12 +6686,14 @@ iab understant understand
 iab understantd understand
 iab understrand understand
 iab understsnd understand
+iab undertand understand
 iab undesireable undesirable
 iab undesrtanding understanding
 iab undesrtant understand
 iab undestand understand
 iab undestant understand
 iab undestood understood
+iab undetrstand understand
 iab undre under
 iab undsure unsure
 iab unecessary unnecessary
@@ -6818,6 +6835,7 @@ iab voager voyager
 iab vodeps videos
 iab voer over
 iab voets votes
+iab voicmail voicemail
 iab voing going
 iab voive voice
 iab vots votes
@@ -6838,6 +6856,7 @@ iab waork work
 iab warapping wrapping
 iab warriers warriors
 iab wasiting waiting
+iab wasteing wasting
 iab watchign watching
 iab watchint watching
 iab watchung watching
@@ -7133,6 +7152,7 @@ iab ysing using
 iab ythingk think
 iab ythings things
 iab yuo you
+iab yuse use
 iab yvujlneratble vulnerable
 iab yyou you
 iab zbut but
@@ -7141,3 +7161,8 @@ iab zeron zero
 iab ztart start
 iab ztaships starships
 
+iab Sonmwone Someone
+iab forexec forced
+iab foreced forced
+iab affeting affecting
+iab chaigng changing
