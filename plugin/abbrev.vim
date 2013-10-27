@@ -519,6 +519,7 @@ iab INternally Internally
 iab INternet Internet
 iab INterview Interview
 iab IRight Right
+iab IThis This
 iab IWth With
 iab Ideallly Ideally
 iab Ifg If
@@ -955,6 +956,7 @@ iab Theyre They're
 iab Thezsew These
 iab Thge The
 iab Thgere There
+iab Thgerefore Therefore
 iab Thie The
 iab Thign Thing
 iab Thigns Things
@@ -1870,6 +1872,7 @@ iab becaume became
 iab becaus because
 iab becausw because
 iab becauwe because
+iab becoames becomes
 iab becom become
 iab becomming becoming
 iab becuase because
@@ -2464,6 +2467,7 @@ iab compoenst component
 iab compoent component
 iab compoeted competed
 iab compoiled compiled
+iab compolaints complaints
 iab compolete complete
 iab compoletely completely
 iab compolicated complicated
@@ -2491,6 +2495,7 @@ iab computsre computers
 iab computyer computer
 iab computyers computers
 iab compuyter computer
+iab compuytesr computers
 iab compyter computer
 iab compytera computer
 iab compyters computers
@@ -2626,6 +2631,7 @@ iab contridictory contradictory
 iab contro control
 iab controlelrs controllers
 iab contrubute contribute
+iab contstraining constraining
 iab contstuctor constructor
 iab conttional conditional
 iab convential convention
@@ -3000,6 +3006,7 @@ iab diambond diamond
 iab dicipline discipline
 iab diciplined disciplined
 iab dicvide divide
+iab didffivcult difficult
 iab didnd didn
 iab didnt didn't
 iab didsplay display
@@ -3022,6 +3029,7 @@ iab differnet different
 iab differnetly differently
 iab differnt different
 iab diffetnet different
+iab diffeucult difficult
 iab diffucult difficult
 iab diget digest
 iab digets digest
@@ -4481,6 +4489,7 @@ iab idfeas ideas
 iab iditiot idiot
 iab idito idiot
 iab idnetidal identical
+iab idoes does
 iab idot idiot
 iab iekly likely
 iab iether either
@@ -4595,6 +4604,7 @@ iab incorporatte incorporate
 iab incorrecltly incorrectly
 iab incorrecly incorrectly
 iab incorretctly incorrectly
+iab incorretly incorrectly
 iab incporpoerate incorporate
 iab incrase increase
 iab incrases increases
@@ -5055,6 +5065,7 @@ iab lightwight lightweight
 iab ligic logic
 iab lik like
 iab likee like
+iab likeley likely
 iab liling tiling
 iab liminous luminous
 iab limite limit
@@ -5149,6 +5160,7 @@ iab ludicrius ludicrous
 iab ludicrus ludicrous
 iab luink link
 iab lukcyl lucky
+iab lunless unless
 iab lunxh lunch
 iab lvie live
 iab lvies lives
@@ -5318,6 +5330,7 @@ iab miricle miracle
 iab misinterpreed misinterpreted
 iab mispelling misspelling
 iab mispellings misspellings
+iab misperceiing misperceive
 iab missin missing
 iab missplelings misspellings
 iab misssing missing
@@ -5528,6 +5541,7 @@ iab neough enough
 iab nerarly nearly
 iab neroiubs nervous
 iab neruoscientists neuroscientists
+iab netered entered
 iab netfilix netflix
 iab netiher neither
 iab netwokr network
@@ -5671,6 +5685,7 @@ iab ocmpletel complete
 iab ocmputer computer
 iab ocmpuyter computer
 iab ocntorlelr controller
+iab ocomlaints complaints
 iab oconsousness consciousness
 iab oconstreuctor constructor
 iab ocould could
@@ -6062,6 +6077,7 @@ iab piont point
 iab piositon position
 iab piostion position
 iab pipline pipeline
+iab pisperceive misperceive
 iab pkeep keep
 iab plaan plan
 iab placce place
@@ -7043,6 +7059,7 @@ iab selecs selects
 iab sellected selected
 iab sellecting selecting
 iab sellf self
+iab selse else
 iab selsehwere elsewhere
 iab seme same
 iab semeed seemed
@@ -8014,6 +8031,7 @@ iab todqay today
 iab todqy today
 iab todsay today
 iab todya today
+iab toehrs others
 iab toeken token
 iab toekn token
 iab tof of
@@ -8544,6 +8562,7 @@ iab wheter whether
 iab whewn when
 iab whewther whether
 iab wheyther whether
+iab whgat what
 iab whic which
 iab whicch which
 iab whichI which
@@ -8611,6 +8630,7 @@ iab withut without
 iab witnh with
 iab wjho who
 iab wkorking working
+iab wlal wall
 iab wlecome welcome
 iab wlel well
 iab wmy my
@@ -8718,6 +8738,7 @@ iab wvirtual virtual
 iab wware aware
 iab wwell well
 iab wwere were
+iab wwhat what
 iab wwhy why
 iab wwiht with
 iab wwith with
