@@ -117,6 +117,7 @@ iab Appaerntly Apparently
 iab Apparemntly Apparently
 iab Apparentlyu Apparently
 iab Apparnetly Apparently
+iab Appllied Applied
 iab Apporval Approval
 iab Appps Apps
 iab Aptanata Aptana
@@ -875,6 +876,8 @@ iab Signle Single
 iab Simpel Simple
 iab Simpmle Simple
 iab Simpple Simple
+iab Sincelrey Sincerely
+iab Sinscerely Sincerely
 iab Sio So
 iab Sitill Still
 iab Sitll Still
@@ -2799,6 +2802,7 @@ iab currrent current
 iab custeomers customers
 iab custiomizations customizations
 iab cvould could
+iab cvreen screen
 iab cwriting writing
 iab cyou you
 iab cytccle cycle
@@ -3314,7 +3318,9 @@ iab earleier earlier
 iab earlkier earlier
 iab earray array
 iab easch each
+iab easilser easier
 iab easilyt easily
+iab easlialy easily
 iab easmes exams
 iab easoily easily
 iab eastate estate
@@ -3443,6 +3449,7 @@ iab eleft left
 iab eleids eyelids
 iab elemenbts elements
 iab elemetns elements
+iab eleminate eliminate
 iab elemnet element
 iab elemnets elements
 iab elemnt element
@@ -4131,6 +4138,7 @@ iab funftions functions
 iab funiture furniture
 iab funtion function
 iab funxction function
+iab funxtion function
 iab funy funny
 iab furhter further
 iab furnature furniture
@@ -5475,6 +5483,7 @@ iab monent moment
 iab monestary monastery
 iab moneteize monetize
 iab monety money
+iab monrning morning
 iab montioning motioning
 iab montsh months
 iab monye money
@@ -5798,6 +5807,7 @@ iab omplext complex
 iab ompmputer computer
 iab omputer computer
 iab ompyter computer
+iab omre more
 iab onChnage onChange
 iab onece once
 iab onee one
@@ -8962,5 +8972,3 @@ iab zeron zero
 iab ztart start
 iab ztaships starships
 
-iab Appllied Applied
-iab monrning morning
