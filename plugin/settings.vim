@@ -36,7 +36,7 @@ set ruler
 set shiftwidth=2
 set shortmess=filmnwxstToOI
 set showmatch
-set showtabline=2
+set showtabline=0 " 0: never, 1: only when 1+ tabs, 2: always
 set smartcase
 set softtabstop=2
 set spellfile=~/.config/vim/spell/dict.add
