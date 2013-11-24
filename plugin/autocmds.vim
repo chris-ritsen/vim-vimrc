@@ -5,7 +5,7 @@ augroup filetypes
 
   " autocmd! BufRead,BufNewFile ~/.gnupg/* if &filetype == 'conf' | setfiletype gpg | endif 
   autocmd! BufEnter * if &filetype == "" | setlocal filetype=text | endif
-  autocmd! BufEnter *.org call org#SetOrgFileType()
+  " autocmd! BufEnter *.org call org#SetOrgFileType()
   autocmd! BufNewFile,BufRead *.c,*.cpp set foldmethod=syntax
   autocmd! BufNewFile,BufRead *.css,*.scss set foldmethod=marker fmr={,}
   autocmd! BufNewFile,BufRead *.ldg,*.ledger setf ledger
@@ -23,7 +23,7 @@ augroup filetypes
   autocmd! BufRead,BufNewFile ~/mail/* if &filetype == '' | setfiletype mail | endif 
   autocmd! BufRead,BufWrite *.inc,*.php,*.hs if ! &bin | silent! %s/\s\+$//ge | endif
   autocmd! BufRead,BufWrite *.inc,*.php,*.hs if ! &bin | silent! :%s/ \+\ze\t//ge | endif
-  autocmd! BufRead,BufWrite,BufWritePost,BufNewFile *.org 
+  " autocmd! BufRead,BufWrite,BufWritePost,BufNewFile *.org 
   autocmd! BufReadPost *.css,*scss silent! g/base64.\+/normal zc " close base64 images
   autocmd! BufReadPre,FileReadPre *.gpg,*.asc set noswapfile
   autocmd! FileType apache setlocal commentstring=#\ %s

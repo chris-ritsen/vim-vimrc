@@ -8,6 +8,7 @@ set dir=~/.vim/swap//,/tmp//,.
 set encoding=utf-8
 set expandtab
 set fileformats+=mac
+set fillchars=
 set foldlevel=20
 set foldlevelstart=20
 set foldminlines=1

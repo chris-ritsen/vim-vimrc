@@ -9821,3 +9821,10 @@ iab zooom zoom
 iab ztart start
 iab ztaships starships
 
+iab expereicneing experiencing
+iab annooynace annoyance
+iab intersrings interesting
+iab compyuters computers
+iab frequencty frequency
+iab wouodlb would
+iab comtain contain
