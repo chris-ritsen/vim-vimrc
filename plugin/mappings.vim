@@ -10,6 +10,8 @@ if maparg('<C-L>', 'n') ==# ''
   nnoremap <silent> <C-L> :nohlsearch<CR><C-L>
 endif
 
+cnoremap <C-G> <C-U><BS>
+
 inoremap <F10> <nop>
 inoremap <F11> <nop>
 inoremap <F12> <nop>

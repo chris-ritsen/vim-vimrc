@@ -122,6 +122,7 @@ iab Appllied Applied
 iab Apporval Approval
 iab Appps Apps
 iab Aptanata Aptana
+iab Archtecture Architecture
 iab Argumetns Arguments
 iab Ariculated Articulated
 iab Arist Artist
@@ -304,6 +305,7 @@ iab DRussell Russell
 iab DUck Duck
 iab DVorak Dvorak
 iab Dalkes Daleks
+iab Dearborne Dearborn
 iab Debgree Degree
 iab Decelopers Developers
 iab Demonstarted Demonstrated
@@ -1076,6 +1078,7 @@ iab Vitims Victims
 iab Vruce Bruce
 iab Vulnderable Vulnerable
 iab WEithout Without
+iab WEll Well
 iab WEorking Working
 iab WEveeryhing Everything
 iab WHat What
@@ -1483,6 +1486,7 @@ iab alllowing allowing
 iab allmost almost
 iab allowys alloys
 iab allright alright
+iab almosat almost
 iab alngles angles
 iab alnong along
 iab alos also
@@ -1582,6 +1586,7 @@ iab anmore anymore
 iab anmy any
 iab annd and
 iab annooyed annoyed
+iab annooynace annoyance
 iab annoyong annoying
 iab annying annoying
 iab annyong annoying
@@ -1876,6 +1881,7 @@ iab authfor author
 iab authoization authorization
 iab authorizatkon authorization
 iab autiomatically automatically
+iab autmatc automatic
 iab autmatically automatically
 iab autoaccitally automatically
 iab autoamatically automatically
@@ -2512,6 +2518,7 @@ iab clhile chile
 iab cliche cliché
 iab cliched clichéd
 iab clickedf clicked
+iab clienet client
 iab clientsie clientside
 iab clietn client
 iab cliobber clobber
@@ -2715,7 +2722,9 @@ iab compytera computer
 iab compyters computers
 iab compytuer computer
 iab compyuter computer
+iab compyuters computers
 iab comsequences consequences
+iab comtain contain
 iab conbtent content
 iab conc8lusion conclusion
 iab concdrete concrete
@@ -2858,6 +2867,7 @@ iab controlelrs controllers
 iab contrubute contribute
 iab contstraining constraining
 iab contstuctor constructor
+iab conttent content
 iab conttional conditional
 iab convential convention
 iab conventianal conventional
@@ -2924,6 +2934,7 @@ iab cotnroller controller
 iab coudl could
 iab couild could
 iab coul could
+iab couldb could
 iab couldd could
 iab couldf could
 iab couldnt couldn't
@@ -3796,6 +3807,7 @@ iab enemey enemy
 iab enemiead enemies
 iab enemiees enemies
 iab energe energy
+iab energiy energy
 iab energty energy
 iab enervy energy
 iab eneterprise enterprise
@@ -4151,6 +4163,7 @@ iab expendses expenses
 iab expensie expense
 iab expenss expenses
 iab expercises exercises
+iab expereicneing experiencing
 iab expereinced experienced
 iab experet expert
 iab experiecnes experiences
@@ -4182,6 +4195,7 @@ iab expoeiure experience
 iab exporlation exportation
 iab expousre exposure
 iab expresiion expression
+iab expresssion expression
 iab expseically especially
 iab expter expert
 iab exsample example
@@ -4414,6 +4428,7 @@ iab freenodee freenode
 iab freewringing freewriting
 iab freewritinga freewriting
 iab freiend friend
+iab frequencty frequency
 iab frequeney frequency
 iab frequenrly frequently
 iab freuency frequency
@@ -4465,6 +4480,7 @@ iab functino function
 iab functioN function
 iab functionab functional
 iab functionalbity functionality
+iab functionaluity functionality
 iab functionaly functionality
 iab functioun function
 iab functiun function
@@ -4614,6 +4630,7 @@ iab habenero habanero
 iab habitts habits
 iab habitws habits
 iab habr have
+iab hace have
 iab hacen haven
 iab hadnd hand
 iab hadndling handling
@@ -5232,6 +5249,7 @@ iab interneta internet
 iab internte internet
 iab interrnet internet
 iab interseting interesting
+iab intersrings interesting
 iab interst interest
 iab intersted interested
 iab intersteller interstellar
@@ -6095,6 +6113,7 @@ iab nedd need
 iab neded needed
 iab nedt next
 iab nedxt next
+iab needelessly needlessly
 iab neeed need
 iab neeeded needed
 iab neesd needs
@@ -6908,6 +6927,7 @@ iab preservce preserve
 iab presewnted presented
 iab preson person
 iab presumtion presumption
+iab pretent pretend
 iab preteurved perturbed
 iab prettty pretty
 iab prettyy pretty
@@ -7018,6 +7038,7 @@ iab progarmming programming
 iab progarms programs
 iab progjects projects
 iab prognostiated prognosticated
+iab programatically programmatically
 iab programm program
 iab programminh programming
 iab programmiung programming
@@ -7253,6 +7274,7 @@ iab receit receipt
 iab recenly recently
 iab recentely recently
 iab recept receipt
+iab receving receiving
 iab recieve receive
 iab recieved received
 iab recieves receives
@@ -7866,6 +7888,7 @@ iab settinsg settings
 iab settnig setting
 iab seude suede
 iab seuencing sequencing
+iab seutp setup
 iab seveeral several
 iab sevelopment development
 iab severl several
@@ -8121,6 +8144,7 @@ iab sotopped stopped
 iab sotops stops
 iab sotp stop
 iab sotpping stopping
+iab sotup setup
 iab sotware software
 iab souce sauce
 iab souch such
@@ -8291,6 +8315,7 @@ iab strenghts strengths
 iab strenous strenuous
 iab streteches stretches
 iab streth stretch
+iab striaght straight
 iab striken stricken
 iab strt start
 iab strtuctures structures
@@ -8850,6 +8875,7 @@ iab tmeplates templates
 iab tmie time
 iab tmiem time
 iab tmight might
+iab tmorrow tomorrow
 iab tmuc tmux
 iab tmust must
 iab tmuxc tmux
@@ -8862,6 +8888,7 @@ iab tnrascvtion transaction
 iab toadsy today
 iab tob to
 iab todaay today
+iab todaf today
 iab todasy today
 iab todaty today
 iab todday today
@@ -8890,6 +8917,7 @@ iab tokme token
 iab tokmenn token
 iab tokne token
 iab tolderate tolerate
+iab tomoorrow tomorrow
 iab tomorro tomorrow
 iab tomrorow tomorrow
 iab tomrrow tomorrow
@@ -9007,6 +9035,7 @@ iab tst test
 iab tstill still
 iab tstreet street
 iab tstuff stuff
+iab tswitch switch
 iab ttask task
 iab tthat that
 iab tthe the
@@ -9320,6 +9349,7 @@ iab vieweed viewed
 iab vieww view
 iab viewwd viewed
 iab vifew view
+iab vill will
 iab vilume volume
 iab violen violin
 iab virtaul virtual
@@ -9346,6 +9376,7 @@ iab volidile volatile
 iab volitiale volatile
 iab volitile volatile
 iab vords words
+iab vork work
 iab vorthy worthy
 iab vots votes
 iab vould would
@@ -9631,6 +9662,7 @@ iab woulf would
 iab woulfd would
 iab woulod would
 iab woulpd would
+iab wouodlb would
 iab wovlves wolves
 iab wowuld would
 iab wqas was
@@ -9821,10 +9853,12 @@ iab zooom zoom
 iab ztart start
 iab ztaships starships
 
-iab expereicneing experiencing
-iab annooynace annoyance
-iab intersrings interesting
-iab compyuters computers
-iab frequencty frequency
-iab wouodlb would
-iab comtain contain
+iab Weait Wait
+ iab featuer feater
+ iab programw programs
+ iab interafces interfaces
+iab Thanksd Thanks
+iab fiunishing finishing
+iab mdoe mode
+iab reasdon reason
+iab usimng using
