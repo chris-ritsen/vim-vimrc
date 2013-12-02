@@ -9940,3 +9940,65 @@ iab zooom zoom
 iab ztart start
 iab ztaships starships
 
+iab Docuemnts Documents
+iab predispoistion predisposition
+iab scriopt script
+iab sccript script
+iab negitiation negotiation
+iab negitiation negotiation
+iab negoitation negotiation
+iab negitioation negotiation
+iab negotitation negotiation
+iab thoguhgt thought
+iab thougth thought
+iab CHecking Checking
+iab Chekcing Checking
+iab Heavenely Heavenly
+iab Hvevenly Heavenly
+iab XChecking Checking
+iab meatch match
+iab contiune continue
+iab upgrae upgrade
+09-18-2012 09:25:53 - The internet connection on my phone goes out constantly
+    iab oproperluy properly
+    iab prperly properly
+iab secdtion section
+iab scetion section
+iab propmtps prompts
+iab propmpts prompts
+iab signifcant significant
+iab Isuses Issues
+switching to tea to keep this going.
+website then I come across something obviously wrong and then stop to fix it.
+iab tediouss tedious
+iab tedoius tedious
+iab moinutes minutes
+iab isuses issues
+iab stukc stuck
+iab correcly correctly
+iab returnsed returned
+iab thise these
+iab spliy split
+iab answey answer
+iab typoucally typically
+iab nuimbers numbers
+iab numbrers numbers
+iab buildnigs buildings
+iab buildigns buildings
+iab buuildings buildings
+iab compuound compound
+iab familly family
+iab copmound compound
+iab acvoid avoid
+iab Modluel Module
+iab Modlue Module
+iab scirpit script
+iab sccript script
+iab excalimed exclaimed
+iab excalimed exclaimed
+iab helipcoptyr helicopter
+iab helicootor helicopter
+iab helipcoptor helicopter
+iab escript script
+iab tesxt text
+iab scrdipt script
