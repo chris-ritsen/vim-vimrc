@@ -197,6 +197,7 @@ iab Byt But
 iab CCommands Commands
 iab CHange Change
 iab CHanges Changes
+iab CHecking Checking
 iab CHildren Children
 iab CHris Chris
 iab CHristianity Christianity
@@ -240,6 +241,7 @@ iab Captian Captain
 iab Certifaction Certification
 iab Checkhov Chekhov
 iab Checkign Checking
+iab Chekcing Checking
 iab Chercking Checking
 iab Chicjkelds Chuckles
 iab Chickles Chuckles
@@ -340,6 +342,7 @@ iab Disvoerd Discord
 iab Disvovered Discovered
 iab Docotor Doctor
 iab Docotr Doctor
+iab Docuemnts Documents
 iab Doen Done
 iab Drunking Drinking
 iab Dveelopement Development
@@ -499,6 +502,7 @@ iab HTis This
 iab Hahq Haha
 iab Haing Having
 iab Hawaiii Hawaii
+iab Heavenely Heavenly
 iab Heavnely Heavenly
 iab Heer Here
 iab Helicoptor Helicopter
@@ -520,6 +524,7 @@ iab Hpw How
 iab Hpyer Hyper
 iab Hundres Hundreds
 iab Hvae Have
+iab Hvevenly Heavenly
 iab ICLicking Clicking
 iab IGo Go
 iab IHOw How
@@ -577,6 +582,7 @@ iab Intrest Interest
 iab Invalud Invalid
 iab Ipmortant Important
 iab Iright Right
+iab Isuses Issues
 iab Itemd Items
 iab Itt It
 iab JOin Join
@@ -654,6 +660,8 @@ iab Meetign Meeting
 iab Metephor Metaphor
 iab Minainted Maintained
 iab Moderb Modern
+iab Modlue Module
+iab Modluel Module
 iab Modnays Mondays
 iab Monaing Moaning
 iab Mooisture Moisture
@@ -1139,6 +1147,7 @@ iab Wokrs Works
 iab Workign Working
 iab Wortks Works
 iab Woudl Would
+iab XChecking Checking
 iab Xptiaions Captains
 iab YOu You
 iab YYou You
@@ -1346,6 +1355,7 @@ iab acuraltely accurately
 iab acurate accurate
 iab acutal actual
 iab acutally actually
+iab acvoid avoid
 iab adaptaions adaptations
 iab adaquate adequate
 iab adavnatage advantage
@@ -1621,6 +1631,7 @@ iab ansers answers
 iab ansewr answer
 iab anstronomers astronomers
 iab answerd answers
+iab answey answer
 iab anthing anything
 iab anthother another
 iab antining anything
@@ -2277,7 +2288,9 @@ iab buidlign building
 iab buiing building
 iab buil build
 iab buildign building
+iab buildigns buildings
 iab buildimng building
+iab buildnigs buildings
 iab builkdign building
 iab buity beauty
 iab buiudlers builders
@@ -2310,6 +2323,7 @@ iab butotns buttons
 iab butoton button
 iab buttion button
 iab buttojh button
+iab buuildings buildings
 iab buvkets buckets
 iab bvackground background
 iab bvery very
@@ -2727,6 +2741,7 @@ iab compter computer
 iab comptuer computer
 iab comptuers computers
 iab compuetrs computers
+iab compuound compound
 iab compurer computer
 iab compustsre computers
 iab computesr computers
@@ -2761,6 +2776,7 @@ iab conctrol control
 iab conculsion conclusion
 iab condesning condensing
 iab conditiona condition
+iab conditon condition
 iab condiuit conduit
 iab condiut conduit
 iab condoments condiments
@@ -2865,6 +2881,7 @@ iab continyous continuous
 iab contiously continuously
 iab contitional conditional 
 iab contitions conditions
+iab contiune continue
 iab contiunue continue
 iab contiunuous continuous
 iab contorl control
@@ -2917,10 +2934,12 @@ iab copanies companies
 iab copatible compatible
 iab copboards cupboards
 iab copmetency competency
+iab copmlaints complaints
 iab copmleted completed
 iab copmletion completion
 iab copmletions completions
 iab copmlicated complicated
+iab copmound compound
 iab copnany company
 iab coprorate corporate
 iab copuing copying
@@ -2935,6 +2954,7 @@ iab correcdtion correction
 iab correcdtions corrections
 iab correcftly correctly
 iab correclty correctly
+iab correcly correctly
 iab correctin correcting
 iab correctoins corrections
 iab corredtions corrections
@@ -3945,6 +3965,7 @@ iab esatly exactly
 iab escatatic ecstatic
 iab esccape escape
 iab escpae escape
+iab escript script
 iab eseen seen
 iab esevices services
 iab eshould should
@@ -4109,6 +4130,7 @@ iab exasms exams
 iab exatly exactly
 iab exattly exactly
 iab exaxt exact
+iab excalimed exclaimed
 iab excape escape
 iab exceiption exception
 iab excelelnt excellent
@@ -4299,6 +4321,7 @@ iab fallying falling
 iab falmcons falcons
 iab falres flares
 iab familiy familia
+iab familly family
 iab familuar familiar
 iab fards cards
 iab farenheight fahrenheit
@@ -4767,8 +4790,11 @@ iab heirarchy hierarchy
 iab helath health
 iab helathy healthy
 iab helf held
+iab helicootor helicopter
 iab helicoptor helicopter
 iab helicoptors helicopters
+iab helipcoptor helicopter
+iab helipcoptyr helicopter
 iab helpfuly helpful
 iab helpp help
 iab hemmeroids hemorrhoids
@@ -5279,6 +5305,7 @@ iab interenet internet
 iab interent internet
 iab interente internet
 iab intereseting interesting
+iab interesitng interesting
 iab intereste interest
 iab interestes interests
 iab intereted interested
@@ -5312,6 +5339,7 @@ iab intesrewting interesting
 iab intesrnally internally
 iab intesrt interest 
 iab intesrting interesting
+iab intesrtings interesting
 iab intested interested
 iab intestested interested
 iab intesting interesting
@@ -5382,6 +5410,7 @@ iab iste site
 iab isten listen
 iab istuation situation
 iab isued used
+iab isuses issues
 iab ithis this
 iab ithout without
 iab itlsef itself
@@ -5869,6 +5898,7 @@ iab mealrning learning
 iab meanign meaning
 iab meants means
 iab measaure measure
+iab meatch match
 iab mebed embed
 iab mebers members
 iab mecanism mechanism
@@ -6017,6 +6047,7 @@ iab moibnle mobile
 iab moind mind
 iab mointain maintain
 iab moinute minute
+iab moinutes minutes
 iab moiton motion
 iab molecuoe molecule
 iab molegule molecule
@@ -6177,8 +6208,12 @@ iab neghbors neighbors
 iab neghiboring neighboring
 iab neghibors neighbors
 iab negineers engineers
+iab negitiation negotiation
+iab negitioation negotiation
 iab neglecedt neglected
 iab negletiting neglecting
+iab negoitation negotiation
+iab negotitation negotiation
 iab neings beings
 iab neirbhors neighbors
 iab nemae name
@@ -6274,8 +6309,10 @@ iab ntoicing noticing
 iab nuber number
 iab nubmer number
 iab nubmers numbers
+iab nuimbers numbers
 iab numb3r number
 iab numbr number
+iab numbrers numbers
 iab numbrs numbers
 iab numvers numbers
 iab nused newsed
@@ -6458,6 +6495,7 @@ iab oppritunity opportunity
 iab oppurtunities opportunities
 iab oprograms programs
 iab opromise promise
+iab oproperluy properly
 iab opssible possible
 iab optiizgin optimizing
 iab optijons options
@@ -6963,6 +7001,7 @@ iab preciosion precision
 iab preciscely precisely
 iab precison precision
 iab predicatesd predicates
+iab predispoistion predisposition
 iab preerably preferably
 iab preerences preferences
 iab preferrably preferably
@@ -7139,6 +7178,8 @@ iab proomte promote
 iab prooperty property
 iab propegate propagate
 iab properlty properly
+iab propmpts prompts
+iab propmtps prompts
 iab propoerly properly
 iab propriertary proprietary
 iab proprietart proprietary
@@ -7160,6 +7201,7 @@ iab proviusion provision
 iab provlems problems
 iab provoing proving
 iab prpblems problems
+iab prperly properly
 iab pruint print
 iab prurpose purpose
 iab prved proved
@@ -7598,6 +7640,7 @@ iab retrive retrieve
 iab retunr return
 iab retunred returned
 iab returend returned
+iab returnsed returned
 iab retuyrn return
 iab retyrb return
 iab reuest request
@@ -7778,6 +7821,7 @@ iab sby by
 iab scaree scarce
 iab sccreen screen
 iab sccrene screen
+iab sccript script
 iab scdript script
 iab scdsript script
 iab scdtip script
@@ -7790,6 +7834,7 @@ iab scenese scenes
 iab scentece sentence
 iab scentral central
 iab scertain certain
+iab scetion section
 iab scheduel schedule
 iab scheduyle schedule
 iab scheudle schedule
@@ -7802,6 +7847,7 @@ iab schuel schedule
 iab sciense science
 iab scipe scope
 iab scipt script
+iab scirpit script
 iab scirpt script
 iab scity city
 iab scnool school
@@ -7814,6 +7860,7 @@ iab scool school
 iab scopres scores
 iab scould could
 iab scratech scratch
+iab scrdipt script
 iab screatch scratch
 iab screatches scratches
 iab screeen screen
@@ -7822,6 +7869,7 @@ iab screencats screencasts
 iab scren screen
 iab screne screen
 iab screnplay screenplay
+iab scriopt script
 iab scripr script
 iab scrit script
 iab scritp script
@@ -7851,6 +7899,7 @@ iab searcha search
 iab searchign searching
 iab seaxojl season
 iab secction section
+iab secdtion section
 iab secenario scenario
 iab secfton Sefton
 iab seciotn section
@@ -7988,6 +8037,7 @@ iab sheculing scheduling
 iab shedules schedules
 iab shhall shall
 iab shie she
+iab shiftwed shifted
 iab shipes ships
 iab shipwors shipworms
 iab shofed shoved
@@ -8015,6 +8065,7 @@ iab sidxty sixty
 iab siet site
 iab sietting sitting
 iab siginificant significant
+iab signifcant significant
 iab significaiotn signification
 iab significatn significant
 iab significatnt significant
@@ -8273,11 +8324,11 @@ iab spexific specific
 iab spirirted spirited
 iab splendit splendid
 iab spliut split
+iab spliy split
 iab spockj Spock
 iab spoekn spoken
 iab sponic sonic
 iab spoot spot
-iab spotify spottily
 iab sppeed speed
 iab sppon spoon
 iab sprnag sprang
@@ -8406,8 +8457,10 @@ iab struture structure
 iab struxture structure
 iab ststus status
 iab stucl stuck
+iab studff stuff
 iab studnets students
 iab stuf stuff
+iab stukc stuck
 iab sturday saturday
 iab styandard standard
 iab stydy study
@@ -8643,7 +8696,9 @@ iab technuyqe technique
 iab techologies technologies
 iab tedation sedation
 iab teday today
+iab tediouss tedious
 iab tedius tedious
+iab tedoius tedious
 iab teeht teeth
 iab teerrestials terrestrials
 iab tegy they
@@ -8714,6 +8769,7 @@ iab testt test
 iab testts tests
 iab testw tests
 iab tesxdt text
+iab tesxt text
 iab tething tethering
 iab tewhnical technical
 iab tewnty twenty
@@ -8836,6 +8892,7 @@ iab thinm think
 iab thinmking thinking
 iab thirdty thirty
 iab thirdy thirty
+iab thise these
 iab thisk this
 iab thisl this
 iab thiw this
@@ -8848,6 +8905,7 @@ iab thnkw think
 iab thnmb thumb
 iab thoghtts thoughts
 iab thoguh though
+iab thoguhgt thought
 iab thoguht thought
 iab thoguhts thoughts
 iab thoguth thought
@@ -8871,6 +8929,7 @@ iab thoughoughly thoroughly
 iab thoughs thoughts
 iab thoughtw thoughts
 iab thougsand thousand
+iab thougth thought
 iab thougths thoughts
 iab thougts thoughts
 iab thourgh though
@@ -9183,6 +9242,7 @@ iab typiung typing
 iab typjign typing
 iab typnig typing
 iab typoing typing
+iab typoucally typically
 iab typso typos
 iab typue type
 iab typuing typing
@@ -9308,6 +9368,7 @@ iab updlloaded uploaded
 iab updloaded uploaded
 iab updrade upgrade
 iab upgade upgrade
+iab upgrae upgrade
 iab upgrdae upgrade
 iab uplaoded uploaded
 iab upoin upon
@@ -9726,6 +9787,7 @@ iab workign working
 iab workin working
 iab workinp working
 iab workiong working
+iab workk work
 iab worknig working
 iab workring working
 iab workrry worry
@@ -9939,66 +10001,24 @@ iab zeron zero
 iab zooom zoom
 iab ztart start
 iab ztaships starships
+iab yestreday yesterday
 
-iab Docuemnts Documents
-iab predispoistion predisposition
-iab scriopt script
-iab sccript script
-iab negitiation negotiation
-iab negitiation negotiation
-iab negoitation negotiation
-iab negitioation negotiation
-iab negotitation negotiation
-iab thoguhgt thought
-iab thougth thought
-iab CHecking Checking
-iab Chekcing Checking
-iab Heavenely Heavenly
-iab Hvevenly Heavenly
-iab XChecking Checking
-iab meatch match
-iab contiune continue
-iab upgrae upgrade
-09-18-2012 09:25:53 - The internet connection on my phone goes out constantly
-    iab oproperluy properly
-    iab prperly properly
-iab secdtion section
-iab scetion section
-iab propmtps prompts
-iab propmpts prompts
-iab signifcant significant
-iab Isuses Issues
-switching to tea to keep this going.
-website then I come across something obviously wrong and then stop to fix it.
-iab tediouss tedious
-iab tedoius tedious
-iab moinutes minutes
-iab isuses issues
-iab stukc stuck
-iab correcly correctly
-iab returnsed returned
-iab thise these
-iab spliy split
-iab answey answer
-iab typoucally typically
-iab nuimbers numbers
-iab numbrers numbers
-iab buildnigs buildings
-iab buildigns buildings
-iab buuildings buildings
-iab compuound compound
-iab familly family
-iab copmound compound
-iab acvoid avoid
-iab Modluel Module
-iab Modlue Module
-iab scirpit script
-iab sccript script
-iab excalimed exclaimed
-iab excalimed exclaimed
-iab helipcoptyr helicopter
-iab helicootor helicopter
-iab helipcoptor helicopter
-iab escript script
-iab tesxt text
-iab scrdipt script
+iab llamma llama
+iab lamma llama
+iab Apparenlty Apparently
+iab llamma llama
+iab sewat sweat
+iab sweawt sweat
+iab Agreessive Aggressive
+iab lsitenign listening
+iab ocnfiruration configuration
+iab cusion cushion
+iab phyches psyches
+iab forgottten forgotten
+iab alternatice alternative
+iab alternativce alternative
+iab alternateive alternative
+iab cusions cushions
+iab fdeep deep
+iab remaingin remaining
+iab remainging remaining

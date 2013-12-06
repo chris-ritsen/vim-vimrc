@@ -1,4 +1,9 @@
 
+set nowrap
+set laststatus=2
+set number
+set noruler 
+
 set backspace=eol,start,indent
 set path=.,/usr/include,/usr/local/lib/php/,/usr/share/povray/include,/usr/share/doc/rfc/txt
 set cmdheight=1
@@ -17,7 +22,6 @@ set history=10000
 set hlsearch
 set ignorecase
 set incsearch
-set laststatus=2
 set linebreak
 set listchars=eol:$,tab:>-,trail:~,extends:>,precedes:<
 set magic
@@ -32,8 +36,6 @@ set nomodeline
 set noshowcmd
 set novisualbell
 set nrformats=octal,hex,alpha " increement strings
-set number
-set ruler 
 set shiftwidth=2
 set shortmess=filmnwxstToOI
 set showmatch
@@ -61,7 +63,6 @@ set wildignore=.svn,CVS,.git,*.o,*.a,*.class,*.mo,*.la,*.so,*.obj,*.swp,*.jpg,*.
 set wildmenu
 set wildmode=list:longest,full
 set wmh=0
-set wrap
 
 if &tabpagemax < 50
   set tabpagemax=50
