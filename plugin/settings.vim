@@ -1,7 +1,7 @@
 
 set nowrap
-set laststatus=2
-set number
+set laststatus=0
+" set number
 set noruler 
 
 set backspace=eol,start,indent
@@ -35,7 +35,7 @@ set nolazyredraw
 set nomodeline
 set noshowcmd
 set novisualbell
-set nrformats=octal,hex,alpha " increement strings
+set nrformats=octal,hex,alpha " increment strings
 set shiftwidth=2
 set shortmess=filmnwxstToOI
 set showmatch
