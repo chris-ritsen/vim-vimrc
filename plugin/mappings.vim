@@ -28,6 +28,7 @@ map Q <nop>
 nmap <space> \
 nmap [z zM
 nmap ]z zR
+nnoremap <C-c> <nop>
 nnoremap <F6> :!vlock<cr>
 nnoremap <Q <nop>
 nnoremap <down> <nop>
