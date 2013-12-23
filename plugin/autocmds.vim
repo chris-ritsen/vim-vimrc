@@ -1,11 +1,34 @@
 " if v:version >= 700
 " endif
 
+autocmd BufReadPost *.jshintrc setf json
+autocmd FileType html,markdown setlocal omnifunc=htmlcomplete#CompleteTags
+autocmd FileType javascript setlocal foldmethod=syntax
+autocmd FileType xml setlocal foldmethod=syntax
+
+augroup Binary           
+  " TODO - Make this also work without matching filenames
+  autocmd!
+  " TODO - Check return value of xdd for errors
+  autocmd! BufReadPre *.exe let &bin=1
+
+  autocmd! BufReadPost *.exe if &bin | silent %!xxd -c 16
+  autocmd! BufReadPost *.exe set ft=xxd | endif
+
+  autocmd! BufWritePre *.exe if &bin | silent %!xxd -r -c 16
+  autocmd! BufWritePre *.exe endif
+
+  autocmd! BufWritePost *.exe if &bin | silent %!xxd -c 16
+  autocmd! BufWritePost *.exe set nomod | endif
+augroup END
+
 augroup filetypes 
 
-  " autocmd! BufRead,BufNewFile ~/.gnupg/* if &filetype == 'conf' | setfiletype gpg | endif 
-  autocmd! BufEnter * if &filetype == "" | setlocal filetype=text | endif
   " autocmd! BufEnter *.org call org#SetOrgFileType()
+  " autocmd! BufRead,BufNewFile ~/.gnupg/* if &filetype == 'conf' | setfiletype gpg | endif 
+  " autocmd! BufRead,BufWrite,BufWritePost,BufNewFile *.org 
+
+  autocmd! BufEnter * if &filetype == "" | setlocal filetype=text | endif
   autocmd! BufNewFile,BufRead *.c,*.cpp set foldmethod=syntax
   autocmd! BufNewFile,BufRead *.css,*.scss set foldmethod=marker fmr={,}
   autocmd! BufNewFile,BufRead *.ldg,*.ledger setf ledger
@@ -23,7 +46,6 @@ augroup filetypes
   autocmd! BufRead,BufNewFile ~/mail/* if &filetype == '' | setfiletype mail | endif 
   autocmd! BufRead,BufWrite *.inc,*.php,*.hs if ! &bin | silent! %s/\s\+$//ge | endif
   autocmd! BufRead,BufWrite *.inc,*.php,*.hs if ! &bin | silent! :%s/ \+\ze\t//ge | endif
-  " autocmd! BufRead,BufWrite,BufWritePost,BufNewFile *.org 
   autocmd! BufReadPost *.css,*scss silent! g/base64.\+/normal zc " close base64 images
   autocmd! BufReadPre,FileReadPre *.gpg,*.asc set noswapfile
   autocmd! FileType apache setlocal commentstring=#\ %s
@@ -35,7 +57,7 @@ augroup filetypes
   autocmd! FileType slrnrc setlocal commentstring=%\ %s
   autocmd! FileType svnannotate cmap <buffer> q bwipeout
   autocmd! FileType text setlocal commentstring=%s 
-  autocmd! FileType text setlocal textwidth=80
+  autocmd! FileType text setlocal textwidth=78
   autocmd! FileType tmux setlocal commentstring=#\ %s
   autocmd! FileType vb setlocal commentstring='\ %s
   autocmd! FileType xml setlocal equalprg=xmllint\ --format\ --recover\ -\ 2>/dev/null
@@ -45,9 +67,9 @@ augroup filetypes
   autocmd! Syntax javascript setlocal makeprg=yeoman\ build
 
   " This doesn't work all that well
+  autocmd! BufRead,BufNewFile *.js setlocal makeprg=yeoman\ build
   autocmd! BufRead,BufNewFile *.json setlocal equalprg=python\ -mjson.tool\ 2>/dev/null 
   autocmd! FileType json setlocal equalprg=python\ -mjson.tool\ 2>/dev/null 
-  autocmd! BufRead,BufNewFile *.js setlocal makeprg=yeoman\ build
 
 augroup END 
 
@@ -64,7 +86,6 @@ augroup misc
   autocmd! FocusLost * :
   autocmd! FocusLost * silent! wa
   autocmd! bufenter * if (winnr("$") == 1 && exists("b:NERDTreeType") && b:NERDTreeType == "primary") | q | endif
-  autocmd! bufenter * if (winnr("$") == 1 && exists("b:NERDTreeType") && b:NERDTreeType == "primary") | q | endif
 
 augroup END
 
@@ -75,7 +96,7 @@ augroup json_autocmd
   autocmd! FileType json set foldmethod=syntax 
   autocmd! FileType json set formatoptions=tcq2l 
   autocmd! FileType json set softtabstop=2 tabstop=2 
-  autocmd! FileType json set textwidth=80 shiftwidth=2 
+  autocmd! FileType json set textwidth=78 shiftwidth=2 
 
 augroup END 
 
@@ -83,20 +104,15 @@ augroup END
 "   autocmd BufEnter * highlight OverLength ctermbg=darkgrey guibg=#592929
 "   autocmd BufEnter * match OverLength /\%82v.*/
 " augroup END
-"
+
 "autocmd BufReadPre * setlocal foldmethod=indent
 "autocmd BufWinEnter * if &fdm == 'indent' | setlocal foldmethod=manual | endif
 "autocmd BufWinEnter *.* if expand("%") != "" | loadview | endif
 "autocmd BufWinLve *.* if expand("%") != "" | mkview! | endif
-"autocmd FileType php set omnifunc=phpcomplete#CompletePHP
-"autocmd WinEnter * setlocal cursorline
-"autocmd WinLeave * setlocal nocursorline
-"autocmd BufWinEnter *.* if expand("%") != "" | loadview | endif
-"autocmd BufWinLve *.* if expand("%") != "" | mkview! | endif
-"autocmd FileType php set omnifunc=phpcomplete#CompletePHP
-"autocmd WinEnter * setlocal cursorline
-"autocmd WinLeave * setlocal nocursorline
 "autocmd CursorMoved * exe printf('match IncSearch /\V\<%s\>/', escape(expand('<cword>'), '/\'))
+"autocmd FileType php set omnifunc=phpcomplete#CompletePHP
+"autocmd WinEnter * setlocal cursorline
+"autocmd WinLeave * setlocal nocursorline
 
 autocmd BufWritePre *.js :%s/\s\+$//e
 
