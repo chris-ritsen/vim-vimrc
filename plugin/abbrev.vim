@@ -448,6 +448,7 @@ iab FIxed Fixed
 iab FOcus Focus
 iab FOllow Follow
 iab FOr For
+iab FOrmatted Formatted
 iab FOrtunarely Fortunately
 iab FUNTION FUNCTION
 iab Fbonacci Fibonacci
@@ -3035,7 +3036,9 @@ iab contoroller controller
 iab contoujnously continuously
 iab contracdtions contractions
 iab contracfting contracting
+iab contracition contraction
 iab contracry contrary
+iab contractoin contraction
 iab contraversial controversial
 iab contrcetate concentrate
 iab contrect concrete
@@ -10579,4 +10582,3 @@ iab zooom zoom
 iab ztart start
 iab ztaships starships
 
-iab FOrmatted Formatted
