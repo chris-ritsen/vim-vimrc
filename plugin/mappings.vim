@@ -24,7 +24,7 @@ inoremap <silent> <Left> <Esc>:bp<CR>
 inoremap <silent> <Right> <Esc>:bn<CR>
 inoremap <up> <nop>
 map <F1> <nop>
-map Q <nop>  
+map Q <nop>
 nmap <space> \
 nmap [z zM
 nmap ]z zR
@@ -38,7 +38,7 @@ nnoremap <leader>n :NERDTreeToggle<CR>
 nnoremap <leader>s viw"0pb
 nnoremap <silent> <Left> <Esc>:bp<CR>
 nnoremap <silent> <Right> <Esc>:bn<CR>
-nnoremap <silent> <leader>l :r !date -u +"\%Y-\%m-\%dT\%H:\%M:\%SZ"<CR>zt A - 
+nnoremap <silent> <leader>l :r !date -u +"\%Y-\%m-\%dT\%H:\%M:\%SZ"<CR>zt A — 
 nnoremap <silent><leader>h :noh<CR>
 nnoremap <silent>x x:call Redefine_x_ForVirtualEdit()<CR>
 nnoremap <up> <nop>
@@ -85,8 +85,8 @@ if maparg('<C-L>', 'n') ==# ''
 endif
 
 " inoremap <leader>r viwg?
-" inoremap <silent> <C-S-j> <cr><esc>:r !date -u +"\%Y-\%m-\%dT\%H:\%M:\%SZ"<CR>zt A - 
-" inoremap <silent> <leader>l <cr><esc>:r !date -u +"\%Y-\%m-\%dT\%H:\%M:\%SZ"<CR>zt A - 
+" inoremap <silent> <C-S-j> <cr><esc>:r !date -u +"\%Y-\%m-\%dT\%H:\%M:\%SZ"<CR>zt A — 
+" inoremap <silent> <leader>l <cr><esc>:r !date -u +"\%Y-\%m-\%dT\%H:\%M:\%SZ"<CR>zt A —
 " map <ScrollWheelDown> <C-E>
 " map <ScrollWheelUp> <C-Y>
 " nmap <leader>y vip :write !ssh macbook say -r250&<cr><cr>
