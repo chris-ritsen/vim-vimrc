@@ -30,6 +30,8 @@ highlight clear SpellBad
 " call TextEnableCodeSnip('asm', '<script type=\"text/asm\">', '</script>', 'SpecialComment')
 
 " highlight DateRegular term=underline ctermfg=173 guifg=#e5786d
+syntax region text_section start=+^+ end=+^+ transparent keepend fold conceal
+" syntax region text_section start=+^+ end=+^+ transparent keepend fold
 syntax region foldHTML start=+^<html+ end=+^</html[^>]*>+ transparent keepend fold
 syntax region foldScripts start=+^<script+ end=+^</script[^>]*>+ transparent keepend fold
 highlight DateIso8601 term=underline ctermfg=173 guifg=#e5786d
