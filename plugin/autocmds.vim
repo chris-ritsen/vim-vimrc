@@ -38,6 +38,7 @@ augroup filetypes
   autocmd! BufRead,BufNewFile .lynxrc set filetype=lynx
   autocmd! BufRead,BufNewFile .offlineimaprc setlocal commentstring=#\ %s
   autocmd! BufRead,BufNewFile /etc/nginx/nginx.conf,/usr/local/nginx/conf/* setfiletype nginx
+  autocmd! BufRead,BufNewFile /etc/X11/xorg.conf.d/* setfiletype xf86conf
   autocmd! BufRead,BufNewFile /tmp/mutt* if &filetype == '' | setfiletype mail | endif 
   autocmd! BufRead,BufNewFile ~/.config/mailcap setlocal nowrap
   autocmd! BufRead,BufNewFile ~/.config/mutt/* if &filetype == '' | setfiletype muttrc | endif " would also like nowrap
