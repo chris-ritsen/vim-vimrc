@@ -1925,6 +1925,7 @@ iab arrowo arrows
 iab arrray array
 iab arruratelu accurately
 iab arsien arisen
+iab articdle article
 iab articels articles
 iab artiests artists
 iab artificual artificial
