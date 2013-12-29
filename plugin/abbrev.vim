@@ -456,6 +456,7 @@ iab FGive Five
 iab FIgure Figure
 iab FIles Files
 iab FIred Fired
+iab FIrst First
 iab FIxed Fixed
 iab FOcus Focus
 iab FOllow Follow
@@ -1210,6 +1211,7 @@ iab Wokrs Works
 iab Workign Working
 iab Wortks Works
 iab Woudl Would
+iab Wriiting Writing
 iab XChecking Checking
 iab Xptiaions Captains
 iab YOu You
@@ -1330,6 +1332,7 @@ iab accidente accident
 iab accidentes accidents
 iab acciedent accident
 iab acciracy accuracy
+iab accmoooooomplish accomplish
 iab accmplishing accomplishing
 iab accomidation accommodation
 iab accomlpish accomplish
@@ -1614,6 +1617,7 @@ iab alnong along
 iab alnternately alternately
 iab aloen alone
 iab alos also
+iab alrady already
 iab alrday already
 iab alread already
 iab alreaddy already
@@ -1655,6 +1659,7 @@ iab amitious ambitious
 iab amke make
 iab amker maker
 iab amlmost almost
+iab amm am
 iab ammend amend
 iab amment amend
 iab amny many
@@ -2172,6 +2177,7 @@ iab basrely barely
 iab bawk back
 iab bawsically basically
 iab bbecause because
+iab bcayusde because
 iab bckend backend
 iab bckground background
 iab bdby baby
@@ -2328,6 +2334,7 @@ iab blabn blab
 iab blackended blackened
 iab blakzed blazed
 iab blcoked blocked
+iab blocksd blocks
 iab blod blood
 iab blogers bloggers
 iab bloks blocks
@@ -2584,6 +2591,7 @@ iab ccorosswalk crosswalk
 iab ccould could
 iab cdoe code
 iab cdoes codes
+iab cdould could
 iab cealn clean
 iab cealry clearly
 iab ceepeneidng depending
@@ -2737,6 +2745,7 @@ iab clickedf clicked
 iab clienet client
 iab clientsie clientside
 iab clietn client
+iab climbef climbed
 iab cliobber clobber
 iab clipnboard clipboard
 iab cliuck click
@@ -2815,6 +2824,7 @@ iab comandeered commandeered
 iab comapny company
 iab combinding combining
 iab comdoments condiments
+iab comee come
 iab comef come
 iab coment comment
 iab comflicted conflicted
@@ -3270,6 +3280,7 @@ iab crumpole crumple
 iab crzy crazy
 iab csaptain captain
 iab csarreen screen
+iab cscreen screen
 iab cscrolling scrolling
 iab cshift shift
 iab ctasy crazy
@@ -3582,6 +3593,7 @@ iab devlops develops
 iab devlpment development
 iab devlpo develop
 iab dewvelopers developers
+iab dexcribed described
 iab dexcription description
 iab dexribed described
 iab dexvribed described
@@ -3727,12 +3739,14 @@ iab distionxtion distinction
 iab distordted distorted
 iab distored distorted
 iab distraced distracted
+iab distracrtdg distracted
 iab distractedb distracted
 iab distracvted distracted
 iab distrafting distracting
 iab distrasct distract
 iab distrated distracted
 iab distrations distractions
+iab distravdeted distracted
 iab distrsacted distracted
 iab distrub disturb
 iab distruoptuions disruptions
@@ -4715,6 +4729,7 @@ iab fcourse course
 iab fdeep deep
 iab fdevice device
 iab fdor for
+iab feaatured featured
 iab feares fears
 iab featuer feature
 iab featurez features
@@ -4762,6 +4777,7 @@ iab fielkd field
 iab fiels files
 iab figther fighter
 iab figuratevely figuratively
+iab figuyre figure
 iab fijnished finished
 iab filded filed
 iab fileds fields
@@ -4954,6 +4970,7 @@ iab funfixed unfixed
 iab funftions functions
 iab funiture furniture
 iab funncial financial
+iab funtcdtion function
 iab funtion function
 iab funtxtion function
 iab funxction function
@@ -4962,6 +4979,7 @@ iab funxtion function
 iab funy funny
 iab furhter further
 iab furnature furniture
+iab furnction function
 iab furtehr further
 iab furthger further
 iab futehr further
@@ -5035,6 +5053,7 @@ iab giong going
 iab giossip gossip
 iab giv give
 iab givent given
+iab glaciar glacier
 iab glasd glad
 iab glatters clatters
 iab glboal global
@@ -5105,6 +5124,7 @@ iab habenero habanero
 iab habitts habits
 iab habitws habits
 iab habr have
+iab habve have
 iab hace have
 iab hacen haven
 iab hadnd hand
@@ -5412,6 +5432,7 @@ iab hyndred hundred
 iab hyndreds hundreds
 iab hyou you
 iab hypgenated hyphenated
+iab iPohne iPhone
 iab iPohone iPhone
 iab iPone iPhone
 iab iPoness iPhones
@@ -5501,6 +5522,7 @@ iab implmenentations implementations
 iab implmenet implement
 iab implmeneted implemented
 iab imporant important
+iab imporatn important
 iab imporatnat important
 iab imporatnce importance
 iab imporatnly importantly
@@ -6472,6 +6494,7 @@ iab microphoen microphone
 iab micrphne microphone
 iab micrphone microphone
 iab micrpohen microphone
+iab middl3 middle
 iab mighr might
 iab milew miles
 iab milion million
@@ -6617,6 +6640,7 @@ iab mothsh moths
 iab moticvates motivates
 iab motiniong motioning
 iab moudle module
+iab mountian mountain
 iab mousture moisture
 iab moveements movements
 iab moveis movies
@@ -7423,6 +7447,7 @@ iab pkeep keep
 iab plaan plan
 iab placce place
 iab placememnt placement
+iab placre place
 iab plaecd placed
 iab plaeholder placeholder
 iab plaent planet
@@ -7491,6 +7516,7 @@ iab pokemon pokémon
 iab pokgin poking
 iab polinating pollinating
 iab ponit point
+iab pont point
 iab pooint point
 iab pooints points
 iab pooppcock poppycock
@@ -9708,6 +9734,7 @@ iab thorughtout throughout
 iab thorugout throughout
 iab thos those
 iab thosae those
+iab thoseee those
 iab thougbht thought
 iab thougbth though
 iab thoughoughly thoroughly
@@ -10168,6 +10195,7 @@ iab untkil until
 iab untli until
 iab unuit unit
 iab unyeilding unyielding
+iab uop up
 iab upate update
 iab updaated updated
 iab upddates updates
@@ -10347,6 +10375,7 @@ iab vvisible visible
 iab waapon weapon
 iab waatsoever whatsoever
 iab waay way
+iab wached watched
 iab waeigh weigh
 iab waer wear
 iab wahat what
