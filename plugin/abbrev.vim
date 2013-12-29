@@ -1104,6 +1104,7 @@ iab Thomoas Thomas
 iab Thos This
 iab Threateneed Threatened
 iab Thrusay Thruway
+iab Thsat That
 iab Thse These
 iab Thsi This
 iab Thsu Thus
@@ -1883,6 +1884,7 @@ iab approxmiate approximate
 iab aproaches approaches
 iab aproximation approximation
 iab aptch patch
+iab apy pay
 iab aqbout about
 iab aqn an
 iab aquianted acquainted
@@ -2657,6 +2659,7 @@ iab checkiok checkbook
 iab checkpoind checkpoint
 iab checling checking
 iab checm check
+iab chedk check
 iab chefkt check
 iab chekc check
 iab chekcing checking
@@ -4038,6 +4041,7 @@ iab eglue glue
 iab ehis his
 iab ehld held
 iab ehough though
+iab ehree here
 iab ehte the
 iab ehwre where
 iab eideas ideas
@@ -5821,6 +5825,7 @@ iab involvef involve
 iab invoolved involved
 iab invvocations invocations
 iab inw in
+iab inxtsead instead
 iab iodiot idiot
 iab iof of
 iab iofff off
@@ -6769,7 +6774,9 @@ iab newww new
 iab newxt next
 iab nexdt next
 iab nexst next
+iab nextg next
 iab nezt next
+iab nezxt next
 iab ngihr night
 iab ngiht night
 iab nhave have
@@ -7579,6 +7586,7 @@ iab pragmatisim pragmatism
 iab praictices practices
 iab praoctice practice
 iab pratived practiced
+iab prbaably probably
 iab prbaobyl probably
 iab prboably probably
 iab prboaly probably
@@ -7876,6 +7884,7 @@ iab pyyou you
 iab qaulity quality
 iab qbout about
 iab qeustions questions
+iab qmy my
 iab qork work
 iab qquiet quiet
 iab quaclity quality
@@ -8740,6 +8749,7 @@ iab shedules schedules
 iab shhall shall
 iab shie she
 iab shiftwed shifted
+iab shioudl should
 iab shipes ships
 iab shipwors shipworms
 iab shirink shrink
@@ -8793,6 +8803,7 @@ iab simplfy simplify
 iab simplky simply
 iab simplly simply
 iab simplu simply
+iab simplwe simple
 iab simplyd simply
 iab simplyu simply
 iab simpokle simple
