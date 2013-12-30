@@ -1390,6 +1390,7 @@ iab accuration accurate
 iab accuratly accurately
 iab accuratlye accurately
 iab accuratrely accurately
+iab accurracy accuracy
 iab acfuracy accuracy
 iab acheived achieved
 iab acheivements achievements
@@ -2393,6 +2394,7 @@ iab braile braille
 iab braina brain
 iab braind brain
 iab braing brain
+iab brcausr because
 iab breain brain
 iab breaing breaking
 iab breakin breaking
@@ -6044,6 +6046,7 @@ iab ksomething something
 iab kthe the
 iab kust just
 iab kwhy why
+iab kyboar keyboard
 iab lCome Come
 iab lIdeally Ideally
 iab lIfe Life
@@ -7184,6 +7187,7 @@ iab overalyed overplayed
 iab overlyay overlay
 iab oviosu obvious
 iab oviosuly obviously
+iab ovrly overly
 iab ovservation observation
 iab ovserving observing
 iab owno own
@@ -8552,6 +8556,7 @@ iab sble able
 iab sbuld should
 iab sby by
 iab scaree scarce
+iab scciddntaly accidentally
 iab sccreen screen
 iab sccrene screen
 iab sccript script
@@ -9109,6 +9114,7 @@ iab sppon spoon
 iab sprnag sprang
 iab spurous spurious
 iab spurposes purposes
+iab spwcrbar spacebar
 iab sqeezing squeezing
 iab squieaking squeaking
 iab sqwitch switch
