@@ -709,6 +709,7 @@ iab NIce Nice
 iab NMonitor Monitor
 iab NObel Nobel
 iab NObody Nobody
+iab NOhting Nothing
 iab NOhting Notting
 iab NOne None
 iab NOr Nor
@@ -829,6 +830,7 @@ iab Proably Probably
 iab Proactical Practical
 iab Probabaly Probably
 iab Probaly Probably
+iab Probles Problem
 iab Probles Problems
 iab Produvt Product
 iab Proeducts Products
@@ -1002,6 +1004,7 @@ iab Sonmwone Someone
 iab Soo So
 iab Sorrhy Sorry
 iab Southh South
+iab Specificially Specifically
 iab Spellchevk Spellcheck
 iab Splcie Splice
 iab Srriong Sarong
@@ -1745,6 +1748,7 @@ iab ansawered answered
 iab ansawering answering
 iab anser answer
 iab ansering angering
+iab ansering answering
 iab ansers answers
 iab ansewr answer
 iab anstronomers astronomers
@@ -2090,6 +2094,7 @@ iab availasble available
 iab availbel available
 iab availblle available
 iab avalable available
+iab avaluable available
 iab avaluable valuable
 iab avay away
 iab avboidable avoidable
@@ -2197,6 +2202,7 @@ iab beatuified beautified
 iab beatuy beauty
 iab beauase because
 iab beaucse because
+iab beause beaus
 iab beause because
 iab beavfsue because
 iab beaysue because
@@ -2267,6 +2273,7 @@ iab benfit benefit
 iab benfits benefits
 iab benifts benefits
 iab benify basify
+iab benify benefit
 iab beocmes becomes
 iab beofre before
 iab beore before
@@ -3008,6 +3015,7 @@ iab configiration configuration
 iab configu config
 iab configue configure
 iab configuiring configuring
+iab configurationss configurations
 iab configuratoin configuration
 iab confimrend confirmed
 iab confinnned confined
@@ -3135,6 +3143,8 @@ iab contridictory contradictory
 iab contrl control
 iab contro control
 iab controlelrs controllers
+iab controllera controller
+iab controllerb controller
 iab contrubute contribute
 iab contsnat constant
 iab contstraining constraining
@@ -4564,6 +4574,7 @@ iab exhauset exhaust
 iab exhiits exhibits
 iab exhivits exhibits
 iab exiccted exacted
+iab exiccted excited
 iab exicting existing
 iab existance existence
 iab existant existent
@@ -4585,6 +4596,7 @@ iab expalin explain
 iab expcet expect
 iab expcetion exception
 iab expct expect
+iab expecation exception
 iab expecation expectation
 iab expecetations expectations
 iab expecfted expected
@@ -4993,6 +5005,7 @@ iab fybctiun function
 iab fyel fuel
 iab fynctoin function
 iab gaasses gasses
+iab gabout about
 iab galdyly gladly
 iab gameo game
 iab gamos games
@@ -5679,8 +5692,10 @@ iab inital initial
 iab initiaited initiated
 iab initlaize initialize
 iab initliaize initialize
+iab injecdtion injection
 iab injeciton injection
 iab injectinoi injecting
+iab injectinoi injection
 iab injeted injected
 iab injhect inject
 iab injitialice initialize
@@ -7264,6 +7279,7 @@ iab particutlar particular
 iab partihg parting
 iab partk park
 iab partsf parts
+iab partyl partly
 iab partyly partly
 iab pary party
 iab pased passed
@@ -7698,7 +7714,6 @@ iab prinmitive primitive
 iab prioerity priority
 iab prioerty priority
 iab prioritieze prioritize
-iab prioritise prioritize
 iab priorties priorities
 iab prirotize prioritize
 iab priunciple principle
@@ -9300,7 +9315,6 @@ iab suibmitting submitting
 iab suitiable suitable
 iab suitible suitable
 iab suitilble suitable
-iab summarise summarize
 iab sumobulde submodule
 iab sunddenly suddenly
 iab sunds sounds
@@ -9382,7 +9396,6 @@ iab synesthesia synaesthesia
 iab synonmyous synonymous
 iab synonomous synonymous
 iab syntehsize synthesize
-iab synthesised synthesized
 iab syou you
 iab syour your
 iab sysatem system
@@ -9398,6 +9411,7 @@ iab systme system
 iab systms systems
 iab systsms systems
 iab sysyewm system
+iab sytax syntax
 iab sytay stay
 iab sytem system
 iab sytntax syntax
@@ -9532,6 +9546,7 @@ iab templakte template
 iab templlate template
 iab templorary temporary
 iab templte template
+iab templting templating
 iab tempoates templates
 iab temportary temporary
 iab tempplate template
@@ -10052,6 +10067,7 @@ iab tyou you
 iab typewritter typewriter
 iab typging typing
 iab typicall typical
+iab typicall typically
 iab typicaly typically
 iab typign typing
 iab typignt typing
@@ -10109,6 +10125,7 @@ iab underp under
 iab unders under
 iab undersant understand
 iab undersatand understand
+iab understandingf understanding
 iab understandingf understandings
 iab understant understand
 iab understantd understand
@@ -10229,6 +10246,7 @@ iab usefil useful
 iab usefl useful
 iab usefujl useful
 iab usefuul useful
+iab useing using
 iab useles useless
 iab useri user
 iab usermame username
@@ -10851,6 +10869,7 @@ iab ysing using
 iab ysstme system
 iab ystem system
 iab ystems systems
+iab ysync sync
 iab ythe the
 iab ythingk think
 iab ythings things
