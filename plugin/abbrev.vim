@@ -297,6 +297,7 @@ iab Comitted Committed
 iab Compesation Compensation
 iab Compoutesr Computers
 iab Comprompise Compromise
+iab Compyter Computer
 iab Concact Concat
 iab Conceivingh Conceiving
 iab Concequence Consequence
@@ -709,6 +710,7 @@ iab Mayhble Maybe
 iab Maynbe Maybe
 iab Meetign Meeting
 iab Metephor Metaphor
+iab Microfoft Microsoft
 iab Minainted Maintained
 iab Moderb Modern
 iab Modlue Module
@@ -1286,6 +1288,7 @@ iab aangular angular
 iab aangularjs angularjs
 iab aanother another
 iab aapplied applied
+iab aarchitercutre architecture
 iab aare are
 iab aas as
 iab aat at
@@ -2196,6 +2199,7 @@ iab awnt want
 iab awoesme awesome
 iab awords words
 iab awoul would
+iab awre are
 iab awseom awesome
 iab awsking awaking
 iab awward awkward
@@ -3011,6 +3015,7 @@ iab compentsatie compensate
 iab compes comes
 iab competely completely
 iab compforable comfortable
+iab comphters computers
 iab compieled compiled
 iab complaing complain
 iab complaingin complaining
@@ -3062,6 +3067,7 @@ iab compter computer
 iab compters computers
 iab comptuer computer
 iab comptuers computers
+iab compuerr computer
 iab compuetrs computers
 iab compuound compound
 iab compurer computer
@@ -3779,6 +3785,7 @@ iab differenrt different
 iab differente different
 iab differenxtly differently
 iab differnce difference
+iab differneces differences
 iab differnet different
 iab differnetly differently
 iab differnt different
@@ -6769,6 +6776,7 @@ iab mhy my
 iab miaintenace maintenance
 iab mian main
 iab miantain maintain
+iab micdros micros
 iab micropheon microphone
 iab microphoen microphone
 iab micrphne microphone
@@ -8149,6 +8157,7 @@ iab projrect project
 iab projrects projects
 iab prolems problems
 iab prolinged prolonged
+iab prominemtly prominently
 iab promisihng promising
 iab promiting promoting
 iab prommootion promotion
@@ -8462,6 +8471,7 @@ iab refernece reference
 iab referneces references
 iab referreed referred
 iab referrred referred
+iab refgarded regarded
 iab reflecitons reflections
 iab reflet reflect
 iab reflexes Reflexes
@@ -8878,6 +8888,7 @@ iab salkt salt
 iab salkty salty
 iab sameple sample
 iab samllest smallest
+iab samme same
 iab sampels samples
 iab sampingls samplings
 iab sampings samplings
@@ -9095,6 +9106,7 @@ iab serfvers servers
 iab serfves serves
 iab serfvice service
 iab serice service
+iab seriese series
 iab serios serious
 iab seriosuly seriously
 iab seriousl serious
@@ -9609,6 +9621,7 @@ iab stragegy strategy
 iab stragtegic strategic
 iab straightforwarsd straightforward
 iab strangeer stranger
+iab strangew strange
 iab strarted started
 iab strartegy strategy
 iab strategeies strategies
@@ -10022,6 +10035,7 @@ iab tgiven given
 iab tgoal goal
 iab tgus this
 iab th3eir their
+iab th4eir their
 iab th4ey they
 iab thab than
 iab thah that
