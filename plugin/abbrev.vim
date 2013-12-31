@@ -140,12 +140,14 @@ iab Aritsts Artists
 iab Arlgith Alright
 iab Arlight Alright
 iab Ascii ASCII
+iab Assessmemt Assessment
 iab Assiming Assuming
 iab Assisiting Assisting
 iab Assumming Assuming
 iab Asteriods Asteroids
 iab Atana Aptana
 iab Atch Arch
+iab Atempt Attempt
 iab Atlast Atlas
 iab Atmoic Atomic
 iab Attachbed Attached
@@ -254,6 +256,7 @@ iab Capcicum Capsicum
 iab Captaion Captain
 iab Captian Captain
 iab Certifaction Certification
+iab Charolotte Charlotte
 iab Checkhov Chekhov
 iab Checkign Checking
 iab Chekcing Checking
@@ -642,6 +645,7 @@ iab KLet Let
 iab KNowing Knowing
 iab KNowledge Knowledge
 iab KRoger Kroger
+iab Klonkike Klondike
 iab Knolwedge Knowledge
 iab Knowlege Knowledge
 iab Krogrer Kroger
@@ -824,6 +828,7 @@ iab Playlisdt Playlist
 iab Plusing Pulsing
 iab Posisbly Possibly
 iab Postion Position
+iab Potatos Potatoes
 iab Praciticu Practice
 iab Practive Proactive
 iab Prbioably Probably
@@ -1970,6 +1975,7 @@ iab arparentment apartment
 iab arramged arranged
 iab arrangment arrangement
 iab arreas areas
+iab arringing arranging
 iab arrowo arrows
 iab arrray array
 iab arruratelu accurately
@@ -2205,6 +2211,7 @@ iab balckented blackened
 iab balrey barley
 iab balswance balance
 iab balue blue
+iab bananaa banana
 iab banasds bananas
 iab banka bank
 iab bankj bank
@@ -2626,9 +2633,11 @@ iab carew cares
 iab cariables variables
 iab carosel carousel
 iab carreer career
+iab carrorts carrots
 iab carryiw carry
 iab cartetgories categories
 iab carticge cartridge
+iab cartidge cartridge
 iab cartidtge cartridge
 iab casued caused
 iab casues causes
@@ -3343,6 +3352,7 @@ iab creen screen
 iab creens screens
 iab creidt credit
 iab cressent crescent
+iab crevises crevices
 iab crhonicle chronicle
 iab critereria criteria
 iab criteriion criterion
@@ -4121,6 +4131,7 @@ iab effedvts effects
 iab effexts effects
 iab efffffffects effects
 iab efficent efficient
+iab efficently efficiently
 iab efficientcy efficiently
 iab efficincy efficiency
 iab effieciently efficiently
@@ -5008,6 +5019,7 @@ iab freenodee freenode
 iab freewringing freewriting
 iab freewritinga freewriting
 iab freiend friend
+iab freqently frequently
 iab frequencty frequency
 iab frequeney frequency
 iab frequenrly frequently
@@ -7442,6 +7454,7 @@ iab pathetix pathetic
 iab patienc patience
 iab pattersn patterns
 iab payckech paycheck
+iab paymenet payment
 iab paymment payment
 iab pblem problem
 iab pbolem problem
@@ -8355,15 +8368,19 @@ iab remeaining remaining
 iab remeber remember
 iab remebering remembering
 iab remebers remembers
+iab remebrrred remembered
 iab rememberd remembered
 iab remembinering remembering
+iab remembmerd remembered
 iab remembre remember
+iab remembvered remembered
 iab rememedy remedy
 iab rememer remember
 iab rememrber remember
 iab rememvber remember
 iab rememvbered remembered
 iab rememver remember
+iab rememvered remembered
 iab rememvver remember
 iab remianing remaining
 iab remindsers reminders
@@ -8594,6 +8611,7 @@ iab rize rise
 iab rleasign releasing
 iab rmaintiangin maintaining
 iab rmemeber remember
+iab rmemevmberd remembered
 iab rmental mental 
 iab rmeove remove
 iab rmonths months
@@ -8671,6 +8689,7 @@ iab safete safety
 iab sahdow shadow
 iab saing saying
 iab saiod said
+iab salamni salami
 iab saled salad
 iab salesmman salesman
 iab salfely safely
@@ -9556,6 +9575,7 @@ iab symbosl symbols
 iab symlnks symlinks
 iab symnbols symbols
 iab symtomatic symptomatic
+iab synax syntax
 iab synched synced
 iab synchornously synchronously
 iab syncohornpouslf synchronous
@@ -10068,6 +10088,7 @@ iab tokme token
 iab tokmenn token
 iab tokne token
 iab tolderate tolerate
+iab tomatos tomatoes
 iab tomoorrow tomorrow
 iab tomorro tomorrow
 iab tomrorow tomorrow
@@ -10085,6 +10106,7 @@ iab toorrow tomorrow
 iab toosl tools
 iab topuc topic
 iab tordando tornado
+iab tornados tornadoes
 iab torrentiyional torrential
 iab tosady toady
 iab tosay today
@@ -10223,6 +10245,7 @@ iab tuyrned turned
 iab tvery very
 iab twards towards
 iab twaught taught
+iab tweleve twelve
 iab twellve twelve
 iab twevele twelve
 iab twext text
