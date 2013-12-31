@@ -1180,6 +1180,7 @@ iab Visusally Visually
 iab Vitims Victims
 iab Vruce Bruce
 iab Vulnderable Vulnerable
+iab WEeek Week
 iab WEithout Without
 iab WEll Well
 iab WEorking Working
@@ -1451,6 +1452,7 @@ iab acounts accounts
 iab acquiare acquire
 iab acquiare acquire 
 iab acreate create
+iab acrhicve archive
 iab acrivities activities
 iab acrross across
 iab acrtions actions
@@ -1937,6 +1939,7 @@ iab aquianted acquainted
 iab aquire acquire 
 iab aquired acquired
 iab aquisition acquisition
+iab arabicv arabic
 iab aramture armature
 iab aramtures armatures
 iab aramturess armatures
@@ -2486,6 +2489,7 @@ iab brwosers browsers
 iab bsack back
 iab bservatio observation
 iab bserverd observed
+iab bthe the
 iab btich bitch
 iab btowser browser
 iab bttuoj button
@@ -2745,11 +2749,14 @@ iab choise choice
 iab choises choices
 iab cholestorol cholesterol
 iab cholride chloride
+iab chomputer computer
 iab chompuyter computer
 iab chooose choose
 iab chopiness choppiness
 iab chorme chrome
 iab chormicles chronicles
+iab chornbicles chronicles
+iab chornnicles chronicles
 iab chosoe choose
 iab chould could
 iab chriopshter christopher
@@ -3084,6 +3091,7 @@ iab confiurable configurable
 iab confliscted conflicted
 iab congtract contract
 iab conifguration configuration
+iab conitnuiong continuing
 iab conmbinations combinations
 iab conmcept concept
 iab conmpreshension comprehension
@@ -3234,6 +3242,7 @@ iab cookines cookies
 iab coompooents components
 iab coontrao control
 iab coookies cookies
+iab cooperration cooperation
 iab coordiante coordinate
 iab cooridnates coordinates
 iab coorrecting correcting
@@ -3623,6 +3632,7 @@ iab detemrined determined
 iab determiend determined
 iab determin determine
 iab determininig determining
+iab detyails details
 iab devekioer developer
 iab devekopers developers
 iab devel0opers developers
@@ -3693,6 +3703,7 @@ iab dialy daily
 iab diambond diamond
 iab dicipline discipline
 iab diciplined disciplined
+iab dicontinued discontinued
 iab dicvide divide
 iab didffivcult difficult
 iab didnd didn
@@ -3908,6 +3919,7 @@ iab doverhal overhaul
 iab dowdntown downtown
 iab downa down 
 iab downaloding downloading
+iab downla9df downland
 iab downlaod download
 iab downlaoded downloaded
 iab downloadign downloading
@@ -4385,6 +4397,8 @@ iab epeople people
 iab eperience experience
 iab eperienced experienced
 iab epiddoe episode
+iab episdodfes episodes
+iab episeodes episodes
 iab eplanet planet
 iab epophany epiphany
 iab eposideo episode
@@ -4518,6 +4532,7 @@ iab eventualy eventually
 iab eventyally eventually
 iab evenutally eventually
 iab eveolutions evolutions
+iab eveolved evolved
 iab everbody everybody
 iab evergwhere everywhere
 iab everhbody everybody
@@ -4833,6 +4848,7 @@ iab fcomfortable comfortable
 iab fcourse course
 iab fdeep deep
 iab fdevice device
+iab fdiffernece difference
 iab fdor for
 iab feaatured featured
 iab feares fears
@@ -5021,6 +5037,7 @@ iab frgabments fragments
 iab frightented frightened
 iab frist first
 iab frlm from
+iab frnech french
 iab frnotend frontend
 iab frol from
 iab froma from
@@ -5956,6 +5973,7 @@ iab intrest interest
 iab intrested interested
 iab intresting interesting
 iab introducted introduced
+iab intruduced introduced
 iab intrustive intrusive
 iab intuitivlely intuitively
 iab invalable invaluable
@@ -6183,6 +6201,7 @@ iab lallow allow
 iab lamma llama
 iab lamsp lamps
 iab lanaguage language
+iab lanaguges languages
 iab landry laundry
 iab langauges languages
 iab langind landing
@@ -6993,6 +7012,7 @@ iab nothign nothing
 iab nothiung nothing
 iab noticably noticeably
 iab noticebly noticeably
+iab noticlable noticeable
 iab notifiations notifications
 iab notificatiopn notification
 iab notifidations notifications
@@ -7261,6 +7281,7 @@ iab organizzing organizing
 iab organziing organizing
 iab orhanization organization
 iab oribt orbit
+iab oricingall original
 iab oridinary ordinary
 iab origainl original
 iab origianlly originally
@@ -7685,6 +7706,7 @@ iab pooint point
 iab pooints points
 iab pooppcock poppycock
 iab poopps pops
+iab poopular popular
 iab poperating operating
 iab populatio population
 iab porblem problem
@@ -7827,6 +7849,7 @@ iab presentationj presentation
 iab preservce preserve
 iab preseve preserve
 iab presewnted presented
+iab presewtned presented
 iab preson person
 iab presumtion presumption
 iab pretent pretend
@@ -7910,6 +7933,7 @@ iab produc produce
 iab produccts products
 iab producde produce
 iab producdt product
+iab producec produced
 iab producesd produced
 iab producett product
 iab producongi producing
@@ -8029,6 +8053,7 @@ iab prupsssoe purpose
 iab prurpose purpose
 iab prved proved
 iab prvoed proved
+iab psanish spanish
 iab psat past
 iab psent spent
 iab psoible possible
@@ -8818,6 +8843,7 @@ iab secons seconds
 iab secretely secretly
 iab sectino section
 iab sectret secret
+iab sectuion section
 iab securly securely
 iab securtity security
 iab sedonds seconds
@@ -9318,6 +9344,7 @@ iab starage storage
 iab stareed started
 iab staretd started
 iab starfract starcraft
+iab starging starting
 iab startd started
 iab startes starts
 iab startp start
@@ -10101,6 +10128,7 @@ iab towle towel
 iab towrads towards
 iab tpiying typing
 iab tpoless topless
+iab tpopic topic
 iab tpreferred preferred
 iab tpuying typing
 iab tpye type
@@ -10462,6 +10490,7 @@ iab utiize utilize
 iab utnil until
 iab uuiverse universe
 iab uusal usual
+iab uyncahnged unchanged
 iab uyou you
 iab uyouy you
 iab uysing using
@@ -10503,6 +10532,7 @@ iab vefifying verifying
 iab veify verify
 iab venefits benefits
 iab venetable vegetable
+iab verious various
 iab verision version
 iab verison version
 iab verry very
@@ -10533,6 +10563,7 @@ iab vidoes videos
 iab viesual visual
 iab viewedc viewed
 iab vieweed viewed
+iab vieweers viewers
 iab vieww view
 iab viewwd viewed
 iab vifew view
@@ -10645,6 +10676,7 @@ iab weeknd weekend
 iab wegbbsites websites
 iab wegbdav webdav
 iab wegbsite website
+iab wegbsites websites
 iab wegbstie website
 iab wehb web
 iab wehen when
@@ -10838,6 +10870,7 @@ iab wordlwide worldwide
 iab wordsa words
 iab woreds words
 iab woreked worked
+iab woreld world
 iab wores words
 iab worht worth
 iab worhtwhile worthwhile
