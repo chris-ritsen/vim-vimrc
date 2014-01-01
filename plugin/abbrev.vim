@@ -1844,6 +1844,7 @@ iab anyore anymore
 iab anyrhing anything
 iab anyt any
 iab anythign anything
+iab anythignt anything
 iab anythinb anything
 iab anyting anything
 iab anyv any
@@ -3162,9 +3163,11 @@ iab confied confide
 iab confiedence confidence
 iab confifg config
 iab configiration configuration
+iab configruation configuration
 iab configu config
 iab configue configure
 iab configuiring configuring
+iab configuraiton configuration
 iab configurationss configurations
 iab configuratoin configuration
 iab confimrend confirmed
@@ -4241,6 +4244,7 @@ iab eessentially essentially
 iab eexcept except
 iab eeyes eyes
 iab efeecdt effect
+iab efents events
 iab effecdt effect
 iab effectibel effectively
 iab effectily effectively
@@ -7216,11 +7220,14 @@ iab noething nothing
 iab noever never
 iab noew new
 iab noice nice
+iab nomrally normally
 iab nomrla normal
 iab nonensen nonsense
 iab nonesense nonsense
 iab nopthbing nothing
 iab normla normal
+iab normlaly normally
+iab normlalyy normally
 iab nort not
 iab norweigne norwegian
 iab nostopf nonstop
@@ -7247,6 +7254,7 @@ iab nough enough
 iab nowehre nowhere
 iab nowiing knowing
 iab nromal normal
+iab nromaly normally
 iab ntes notes
 iab ntesxy testy
 iab ntey need
@@ -7348,6 +7356,7 @@ iab ocmptuer computer
 iab ocmputer computer
 iab ocmpuyter computer
 iab ocmpyter computer
+iab ocnfiguration configuration
 iab ocnfiruration configuration
 iab ocntorlelr controller
 iab ocomlaints complaints
@@ -8276,6 +8285,7 @@ iab propegate propagate
 iab properlty properly
 iab properuly properly
 iab propery properly
+iab proplery properly
 iab propmpts prompts
 iab propmtps prompts
 iab propoerly properly
@@ -9028,6 +9038,7 @@ iab sccreen screen
 iab sccrene screen
 iab sccript script
 iab scdript script
+iab scdroll scroll
 iab scdsript script
 iab scdtip script
 iab sceduling scheduling
@@ -11514,4 +11525,3 @@ iab zooom zoom
 iab ztart start
 iab ztaships starships
 
-iab anythignt anything
