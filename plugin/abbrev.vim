@@ -562,6 +562,7 @@ iab Hilariopus Hilarious
 iab Hoepfully Hopefully
 iab Hoever However
 iab Holllywood Hollywood
+iab Hopefull Hopefully
 iab Hourk Hour
 iab Howeever However
 iab Howlett Hewlett
@@ -2059,6 +2060,7 @@ iab aslo also
 iab asnewr answer
 iab asnwer answer
 iab asnwered answered
+iab asparain aspirin
 iab aspcets aspects
 iab aspelled spelled
 iab aspexcts aspects
@@ -2829,6 +2831,7 @@ iab cheking checking
 iab chemeical chemical
 iab chenmmicals chemicals
 iab chevfck check
+iab chevk check
 iab chgase chase
 iab childrenn children
 iab chinesee chinese
@@ -3059,9 +3062,11 @@ iab compatability compatibility
 iab compauter computer
 iab compayn company
 iab compbine combine
+iab compeleting completing
 iab compelluing compelling
 iab compelted completed
 iab compeltely completely
+iab compelting completing
 iab compentsatie compensate
 iab compes comes
 iab competely completely
@@ -3072,6 +3077,7 @@ iab complaing complain
 iab complaingin complaining
 iab complanu company
 iab complciated complicated
+iab compleitng completing
 iab complemenatary complementary
 iab complementatry complementary
 iab completeing completing
@@ -3361,10 +3367,12 @@ iab copmany company
 iab copmetency competency
 iab copmlaints complaints
 iab copmleted completed
+iab copmleting completing
 iab copmletion completion
 iab copmletions completions
 iab copmlicated complicated
 iab copmound compound
+iab copmpleeintg completing
 iab copnany company
 iab coprorate corporate
 iab coproropations corporations
@@ -3609,6 +3617,7 @@ iab debiug debug
 iab debuggin debugging
 iab decalare declare
 iab decate decade
+iab decdnt decent
 iab decice decide
 iab decices devices
 iab decicion decision
@@ -4084,6 +4093,7 @@ iab dreasm dreams
 iab dresearch research
 iab driectly directly
 iab drifiting drifting
+iab drifvers drivers
 iab drilll drill
 iab drinkk drink
 iab drivft drift
@@ -4396,6 +4406,7 @@ iab elimnate eliminate
 iab elimnating eliminating
 iab elininating eliminating
 iab eliquient eloquent
+iab elllft left
 iab elmeent element
 iab elmeents elements
 iab elment element
@@ -4841,6 +4852,7 @@ iab exicting existing
 iab existance existence
 iab existant existent
 iab existnce existence
+iab exitsitng existing
 iab exitsted existed
 iab exloring exploring
 iab exmample example
@@ -4869,6 +4881,7 @@ iab expectd expected
 iab expection exception
 iab expectly expertly
 iab expecyt expect
+iab expedt expect
 iab expedtations expectations
 iab expeerience experience
 iab expeft expect
@@ -4877,6 +4890,7 @@ iab expeirece experience
 iab expeirence experience
 iab expendible expendable
 iab expendses expenses
+iab expennses expenses
 iab expensie expense
 iab expenss expenses
 iab expercises exercises
@@ -5542,6 +5556,7 @@ iab heatt heart
 iab heavbilkly heavily
 iab heaveier heavier
 iab heawlth health
+iab heawr hear
 iab heeelp help
 iab heere here
 iab heigher higher
@@ -5628,6 +5643,7 @@ iab hodling holding
 iab hoenstly honestly
 iab hoever however
 iab hold4r holder
+iab holday holiday
 iab holdign holding
 iab holeck holodeck
 iab holess holes
@@ -6499,6 +6515,7 @@ iab legandardy legendary
 iab legibilty legibility
 iab legiible legible
 iab lehatlh health
+iab leittle little
 iab leneses lenses
 iab lenghht length
 iab lenght length
@@ -6706,6 +6723,7 @@ iab maghic magic
 iab magneetic magnetic
 iab magnitize magnetize
 iab mahichine machine
+iab mahy may
 iab mainfarmesa mainframes
 iab mainhood manhood
 iab mainingng maintaining
@@ -7378,6 +7396,7 @@ iab ocmmunication communication
 iab ocmopytuer computer
 iab ocmpleted completed
 iab ocmpletel complete
+iab ocmpleting completing
 iab ocmptuer computer
 iab ocmputer computer
 iab ocmpuyter computer
@@ -7584,6 +7603,7 @@ iab othewrise otherwise
 iab othyer other
 iab otime time
 iab otion motion
+iab otmorrow tomorrow
 iab otp top
 iab otpical topical
 iab ottold told
@@ -7637,6 +7657,7 @@ iab pRIntring Printing
 iab pRobably Probably
 iab paassword password
 iab paathetic pathetic
+iab paaying paying
 iab pacebar spacebar
 iab paceholder placeholder
 iab packagesd packages
@@ -8380,7 +8401,11 @@ iab pugin plugin
 iab punchign punching
 iab punctiation punctuation
 iab pungching punching
+iab purachases purchases
+iab puraches purchases
 iab purcahse purchase
+iab purchages purchases
+iab purdchaes purchases
 iab purhases purchases
 iab puropose purpose
 iab purposefuloy purposefully
@@ -8506,6 +8531,7 @@ iab reakl real
 iab realating relating
 iab realeased released
 iab realely really
+iab realiable reliable
 iab realissed realised
 iab reallly really
 iab reallu really
@@ -8547,9 +8573,11 @@ iab receieve receive
 iab receieved received
 iab receieves receives
 iab receit receipt
+iab receivef received
 iab recenly recently
 iab recentely recently
 iab recept receipt
+iab recevied received
 iab receving receiving
 iab recieve receive
 iab recieved received
@@ -8561,6 +8589,7 @@ iab recoikgning recognizing
 iab reconized recognized
 iab reconsgtriucting reconstructing
 iab recordding recording 
+iab recordied recorded
 iab recordign recording
 iab recoreds records
 iab recoricng recording
@@ -8588,6 +8617,7 @@ iab redudancy redundancy
 iab redunddant redundant
 iab reeleases releases
 iab reembele resemble
+iab reerrign referring
 iab reest rest
 iab reestabilished reestablished
 iab reetreat retreat
@@ -8618,6 +8648,7 @@ iab reflextion reflection
 iab refrences references
 iab refresdhed refreshed
 iab refridgerator refrigerator
+iab refrring referring
 iab refruns reruns
 iab refuilled refilled
 iab regardlessl regardless
@@ -8880,7 +8911,7 @@ iab reutrn return
 iab revalation revelation
 iab reve3al reveal
 iab reveaul reveal
-iab reveived revived
+iab reveived received
 iab reverbaating reverberating
 iab reverrred referred
 iab revewign reviewing
@@ -9574,6 +9605,7 @@ iab sonce since
 iab soneone someone
 iab songriter songwriter
 iab sonmeone someone
+iab soomethign something
 iab sopeed speed
 iab sopmethign something
 iab soports sports
@@ -10082,7 +10114,9 @@ iab tediou tedious
 iab tediouss tedious
 iab tedius tedious
 iab tedoius tedious
+iab teeh teeth
 iab teeht teeth
+iab teelvision television
 iab teerrestials terrestrials
 iab tegy they
 iab teh the
@@ -10206,6 +10240,8 @@ iab tgus this
 iab th3eir their
 iab th4eir their
 iab th4ey they
+iab tha that
+iab thaat that
 iab thab than
 iab thah that
 iab thajt that
@@ -10280,6 +10316,7 @@ iab thigns things
 iab thigs things
 iab thiing thing
 iab thiirty thirty
+iab thiis this
 iab thikn think
 iab thimet time
 iab thingk think
@@ -10312,6 +10349,7 @@ iab thirthween thirteen
 iab thise these
 iab thisk this
 iab thisl this
+iab thiss this
 iab thius this
 iab thiw this
 iab thlusands thousands
@@ -10457,6 +10495,7 @@ iab todaay today
 iab todaf today
 iab todasy today
 iab todaty today
+iab todauy today
 iab todday today
 iab todeay today
 iab todl told
@@ -10480,6 +10519,7 @@ iab toightly tightly
 iab toime time
 iab toinen token
 iab toingiht tonight
+iab toingith tonight
 iab toinight tonight
 iab toixns toxins
 iab tokme token
@@ -10488,6 +10528,7 @@ iab tokne token
 iab tolderate tolerate
 iab tomatos tomatoes
 iab tomoorrow tomorrow
+iab tomororw tomorrow
 iab tomorro tomorrow
 iab tomrorow tomorrow
 iab tomrrow tomorrow
@@ -10644,6 +10685,7 @@ iab tunells tunnels
 iab tupe type
 iab tuped typed
 iab turend turned
+iab turened turned
 iab turjed turned
 iab turly truly
 iab turst trust
@@ -11104,6 +11146,7 @@ iab wehen when
 iab wehereby whereby
 iab wehn when
 iab wehtehr whether
+iab weindow window
 iab wella well
 iab wemt went
 iab werath wreath
@@ -11174,6 +11217,7 @@ iab whicch which
 iab whicever whichever
 iab whichI which
 iab whicheber whichever
+iab whici which
 iab whicoh which
 iab whidh which
 iab whiel while
@@ -11557,30 +11601,3 @@ iab zooom zoom
 iab ztart start
 iab ztaships starships
 
-iab Hopefull Hopefully
-iab asparain aspirin
-iab chevk check
-iab decdnt decent
-iab drifvers drivers
-iab elllft left
-iab exitsitng existing
-iab expedt expect
-iab expennses expenses
-iab leittle little
-iab paaying paying
-iab purachases purchases
-iab puraches purchases
-iab purchages purchases
-iab purdchaes purchases
-iab realiable reliable
-iab recordied recorded
-iab soomethign something
-iab teeh teeth
-iab teelvision television
-iab tha that
-iab thaat that
-iab thiss this
-iab toingith tonight
-iab turened turned
-iab weindow window
-iab whici which
