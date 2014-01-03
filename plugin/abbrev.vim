@@ -3008,9 +3008,11 @@ iab compatability compatibility
 iab compauter computer
 iab compayn company
 iab compbine combine
+iab compeleting completing
 iab compelluing compelling
 iab compelted completed
 iab compeltely completely
+iab compelting completing
 iab compentsatie compensate
 iab compes comes
 iab competely completely
@@ -3021,6 +3023,7 @@ iab complaing complain
 iab complaingin complaining
 iab complanu company
 iab complciated complicated
+iab compleitng completing
 iab complemenatary complementary
 iab complementatry complementary
 iab completeing completing
@@ -3308,10 +3311,12 @@ iab copmany company
 iab copmetency competency
 iab copmlaints complaints
 iab copmleted completed
+iab copmleting completing
 iab copmletion completion
 iab copmletions completions
 iab copmlicated complicated
 iab copmound compound
+iab copmpleeintg completing
 iab copnany company
 iab coprorate corporate
 iab coproropations corporations
@@ -5454,6 +5459,7 @@ iab heatt heart
 iab heavbilkly heavily
 iab heaveier heavier
 iab heawlth health
+iab heawr hear
 iab heere here
 iab heigher higher
 iab heihgh height
@@ -5539,6 +5545,7 @@ iab hodling holding
 iab hoenstly honestly
 iab hoever however
 iab hold4r holder
+iab holday holiday
 iab holdign holding
 iab holeck holodeck
 iab holess holes
@@ -6593,6 +6600,7 @@ iab maghic magic
 iab magneetic magnetic
 iab magnitize magnetize
 iab mahichine machine
+iab mahy may
 iab mainfarmesa mainframes
 iab mainhood manhood
 iab mainingng maintaining
@@ -7255,6 +7263,7 @@ iab ocmmunication communication
 iab ocmopytuer computer
 iab ocmpleted completed
 iab ocmpletel complete
+iab ocmpleting completing
 iab ocmptuer computer
 iab ocmputer computer
 iab ocmpuyter computer
@@ -8410,9 +8419,11 @@ iab receieve receive
 iab receieved received
 iab receieves receives
 iab receit receipt
+iab receivef received
 iab recenly recently
 iab recentely recently
 iab recept receipt
+iab recevied received
 iab receving receiving
 iab recieve receive
 iab recieved received
@@ -8450,6 +8461,7 @@ iab redudancy redundancy
 iab redunddant redundant
 iab reeleases releases
 iab reembele resemble
+iab reerrign referring
 iab reest rest
 iab reestabilished reestablished
 iab reetreat retreat
@@ -8480,6 +8492,7 @@ iab reflextion reflection
 iab refrences references
 iab refresdhed refreshed
 iab refridgerator refrigerator
+iab refrring referring
 iab refruns reruns
 iab refuilled refilled
 iab regardlessl regardless
@@ -8742,7 +8755,7 @@ iab reutrn return
 iab revalation revelation
 iab reve3al reveal
 iab reveaul reveal
-iab reveived revived
+iab reveived received
 iab reverbaating reverberating
 iab reverrred referred
 iab revewign reviewing
