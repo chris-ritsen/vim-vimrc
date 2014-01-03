@@ -74,6 +74,7 @@ iab Aazon Amazon
 iab Abnd And
 iab Aboslutely Absolutely
 iab Absoultely Absolutely
+iab Accewsories Accessories
 iab Accomidation Accommodation
 iab Accordian Accordion
 iab Accoring According
@@ -218,6 +219,7 @@ iab CHris Chris
 iab CHristianity Christianity
 iab CHristiopher Christopher
 iab CHristopjher Christopher
+iab CHrmoium Chromium
 iab CHrome Chrome
 iab CLothes Clothes
 iab CLoud Cloud
@@ -517,9 +519,11 @@ iab Glboal Global
 iab Goign Going
 iab Goodbte Goodbye
 iab Governers Governors
+iab Gprahics Graphics
 iab Grabitation Gravitation
 iab Grabity Gravity
 iab Gradident Gradient
+iab Grpahics Graphics
 iab Guideliunes Guidelines
 iab Guidlines Guidelines
 iab Guven Given
@@ -543,6 +547,7 @@ iab HTis This
 iab HWwn When
 iab Hahq Haha
 iab Haing Having
+iab Hareware Hardware
 iab Hawaiii Hawaii
 iab Heavenely Heavenly
 iab Heavnely Heavenly
@@ -774,6 +779,7 @@ iab OPen Open
 iab OPened Opened
 iab OPening Opening
 iab OPenning Opening
+iab OPerating Operating
 iab OPerations Operations
 iab OPtions Options
 iab OSometimes Sometimes
@@ -808,10 +814,15 @@ iab PLan Plan
 iab PLanets Planets
 iab PLease Please
 iab PLot Plot
+iab PROjdts Projects
 iab PRivacy Privacy
 iab PRobably Probably
 iab PRoblem Problem
+iab PRogramming Programming
+iab PRojcests Projects
+iab PRojcets Projects
 iab PRoject Project
+iab PRojects Projects
 iab PUlling Pulling
 iab Pacckard Packard
 iab Passsiontate Passionate
@@ -834,6 +845,7 @@ iab Plankc Planck
 iab Playform Platform
 iab Playlisdt Playlist
 iab Plusing Pulsing
+iab Porojcts Projects
 iab Posisbly Possibly
 iab Postion Position
 iab Potatos Potatoes
@@ -863,6 +875,8 @@ iab Produvt Product
 iab Proeducts Products
 iab Profesionals Professionals
 iab Proifl Profile
+iab Projecdets Projects
+iab Projecdts Projects
 iab Promoote Promote
 iab Propegating Propagating
 iab Protien Protein
@@ -1042,6 +1056,7 @@ iab Spellchevk Spellcheck
 iab Splcie Splice
 iab Srriong Sarong
 iab Srtarting Starting
+iab Sscritp Script
 iab Ssigmundsson Sigmundsson
 iab Sso So
 iab Ssome Some
@@ -1062,6 +1077,7 @@ iab Swigly Squiggly
 iab Switcihg Switching
 iab Syatem System
 iab Syhnopsis Synopsis
+iab TExt Text
 iab TGhere There
 iab THank Thank
 iab THanks Thanks
@@ -1115,6 +1131,7 @@ iab Tesitng Testing
 iab Testhing Testing
 iab Testign Testing
 iab Teting Testing
+iab Texdt Text
 iab Tgehse These
 iab Tgese These
 iab Tgus This
@@ -2908,6 +2925,7 @@ iab clsoe close
 iab clsoed closed
 iab clsoer closer
 iab cluser cluster
+iab clustes clusters
 iab cmae came
 iab cmmented commented
 iab cmments comments
@@ -3810,6 +3828,7 @@ iab dicipline discipline
 iab diciplined disciplined
 iab dicontinued discontinued
 iab dicvide divide
+iab didable disable
 iab didffivcult difficult
 iab didnd didn
 iab didnt didn't
@@ -3892,6 +3911,7 @@ iab dirnk drink
 iab dirstacted distracted
 iab dirtyy dirty
 iab diryty dirty
+iab disablve disable
 iab disaeas disease
 iab disallowes disallows
 iab disambugating disambiguating
@@ -3915,6 +3935,7 @@ iab discver discover
 iab discvoered discovered
 iab discvoery discovery
 iab discvovered discovered
+iab disdablve disable
 iab disdplay display
 iab diseas disease
 iab dishwahser dishwasher
@@ -4661,6 +4682,7 @@ iab evenrtyhing everything
 iab eventualy eventually
 iab eventyally eventually
 iab evenutally eventually
+iab evenutlaly eventually
 iab eveolutions evolutions
 iab eveolved evolved
 iab everbody everybody
@@ -4991,6 +5013,7 @@ iab fdor for
 iab feaatured featured
 iab feares fears
 iab featuer feature
+iab featuers features
 iab featurez features
 iab featyures features
 iab feawtures features
@@ -5491,6 +5514,7 @@ iab hawe have
 iab hazsards hazards
 iab hazsrds hazards
 iab hazzard hazard
+iab hbow how
 iab hbowver however
 iab hcange change
 iab hcekced checked
@@ -6388,6 +6412,7 @@ iab ladoign loading
 iab laenght length
 iab laet late
 iab lafout layout
+iab lagel label
 iab lagnuage language
 iab lagughing laughing
 iab lak lack
@@ -6448,6 +6473,7 @@ iab learend learned
 iab learnign learning
 iab learther leather
 iab leasder leader
+iab leato learn
 iab leavint leaving
 iab leavs leaves
 iab leawd lead
@@ -7841,6 +7867,7 @@ iab phiolosopy philosophy
 iab phiolosphy philosophy
 iab phiolsophy philosophy
 iab phiosophical philosophical
+iab phoen phone
 iab photosohop photoshop
 iab phsical physical
 iab phsician physician
@@ -8285,6 +8312,7 @@ iab propegate propagate
 iab properlty properly
 iab properuly properly
 iab propery properly
+iab propjedts projects
 iab proplery properly
 iab propmpts prompts
 iab propmtps prompts
@@ -8904,6 +8932,7 @@ iab rihgt right
 iab rining ringing
 iab ritght right
 iab riting writing
+iab ritsne ritsen
 iab riught right
 iab riyng trying
 iab rize rise
@@ -10436,6 +10465,7 @@ iab todqay today
 iab todqy today
 iab todsay today
 iab todya today
+iab toeghether together
 iab toehr other
 iab toehrs others
 iab toeken token
@@ -10970,6 +11000,7 @@ iab vleave cleave
 iab vlue value
 iab vlumes volumes
 iab vluntary voluntary
+iab vnetually eventually
 iab voager voyager
 iab vocels voxels
 iab vodeps videos
@@ -11379,6 +11410,7 @@ iab wutg with
 iab wuth with
 iab wvirtual virtual
 iab wware aware
+iab wwas was
 iab wwaste waste
 iab wwell well
 iab wwere were
@@ -11525,24 +11557,30 @@ iab zooom zoom
 iab ztart start
 iab ztaships starships
 
-iab TExt Text
-iab Texdt Text
-iab Sscritp Script
-iab Accewsories Accessories
-iab Hareware Hardware
-iab featuers features
-iab propjedts projects
-iab didable disable
-iab disdablve disable
-iab disablve disable
-iab projecdts projects
-iab ritsne ritsen
-iab projecdts projects
-iab direcdtion direction
-iab Projecdets Projects
-iab PRojects Projects
-iab PROjdts Projects
-iab PRojcests Projects
-iab Porojcts Projects
-iab PRojcets Projects
-iab Projecdts Projects
+iab Hopefull Hopefully
+iab asparain aspirin
+iab chevk check
+iab decdnt decent
+iab drifvers drivers
+iab elllft left
+iab exitsitng existing
+iab expedt expect
+iab expennses expenses
+iab leittle little
+iab paaying paying
+iab purachases purchases
+iab puraches purchases
+iab purchages purchases
+iab purdchaes purchases
+iab realiable reliable
+iab recordied recorded
+iab soomethign something
+iab teeh teeth
+iab teelvision television
+iab tha that
+iab thaat that
+iab thiss this
+iab toingith tonight
+iab turened turned
+iab weindow window
+iab whici which
