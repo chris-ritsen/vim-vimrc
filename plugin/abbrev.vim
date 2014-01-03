@@ -11371,3 +11371,7 @@ iab zooom zoom
 iab ztart start
 iab ztaships starships
 
+iab todauy today
+iab otmorrow tomorrow
+iab tomororw tomorrow
+iab thiis this
