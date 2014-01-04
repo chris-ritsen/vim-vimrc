@@ -11601,3 +11601,18 @@ iab zooom zoom
 iab ztart start
 iab ztaships starships
 
+iab disollved dissolved
+iab hoem home
+iab tnak tank
+iab wekened weekend
+iab wweekend weekend
+iab tahk tank
+iab ideiot idiot
+iab becaude because
+iab responsiablyt responsibly
+iab deawl deal
+iab beacuae because
+iab eanbled enabled
+iab needo need
+iab charactesr characters
+iab Cesktop Desktop
