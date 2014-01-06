@@ -64,6 +64,7 @@ noremap <silent> <F4> :GundoToggle<CR>
 noremap <silent> <F5> :set wrap! <CR>
 noremap <silent> <F7> :set list!<CR>
 noremap <silent> <F8> :setlocal spell! spelllang=en_us <CR>
+noremap <silent> <leader>y :Git commit -am'bookmarks' && git push<CR>
 noremap <silent> <Left> <Esc>:bp<CR>
 noremap <silent> <Right> <Esc>:bn<CR>
 noremap <up> <nop>
