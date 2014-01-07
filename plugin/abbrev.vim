@@ -37,6 +37,7 @@ cab setINterval setInterval
 "iab ca ça
 "iab ha[[enmed happened
 
+
 iab ... …
 iab .l .
 iab 3each each
@@ -61,6 +62,7 @@ iab APp App
 iab APple Apple
 iab APproved Approved
 iab ARch Arch
+iab ATtention Attention
 iab Aamazing Amazing
 iab Aamazon Amazon
 iab Aapparently Apparently
@@ -318,6 +320,7 @@ iab Creats Creates
 iab Crhis Chris
 iab Crhisropiher Christopher
 iab Crights Christ
+iab Cuirrently Currently
 iab Cultaured Cultured
 iab Currnelty Currently
 iab Cyrrently Currently
@@ -364,6 +367,7 @@ iab Devlopers Developers
 iab Devlopment Development
 iab Digiital Digital
 iab Digittal Digital
+iab Dilbewrt Dilbert
 iab Dillbert Dilbert
 iab Dilvert Dilbert
 iab Discipines Disciplines
@@ -1125,6 +1129,7 @@ iab Subscriptiuons Subscriptions
 iab Sudio Studio
 iab Supose Suppose
 iab Supplment Supplement
+iab Surew Sure
 iab Surviival Survival
 iab Swigly Squiggly
 iab Switcihg Switching
@@ -1704,6 +1709,7 @@ iab affecet affect
 iab affet affect
 iab affeting affecting
 iab affexting affecting
+iab afgter after
 iab afriad afraid
 iab afternoono afternoon
 iab aftually actually
@@ -1927,6 +1933,7 @@ iab anotner another
 iab anotuher another
 iab anout about
 iab anoyene anyone
+iab anoyone anyone
 iab ansawer answer
 iab ansawered answered
 iab ansawering answering
@@ -1943,6 +1950,7 @@ iab anthother another
 iab antining anything
 iab antoher another
 iab antyhing anything
+iab antyingn anything
 iab anumal animal
 iab anurisim aneurysm
 iab anurism aneurysm
@@ -4699,6 +4707,7 @@ iab elemnet element
 iab elemnets elements
 iab elemnt element
 iab elemtns elements
+iab eles else
 iab eletrco electro
 iab eletric electric
 iab eletrical electrical
@@ -4865,6 +4874,7 @@ iab environmenet environment
 iab envirronment environment
 iab envoiroment environment
 iab enxt next
+iab eopelp people
 iab eopisode episode
 iab eotilet toilet
 iab epecft expect
@@ -5240,6 +5250,7 @@ iab expendible expendable
 iab expendses expenses
 iab expennses expenses
 iab expensie expense
+iab expensivew expensive
 iab expenss expenses
 iab expercises exercises
 iab expereicneing experiencing
@@ -5400,6 +5411,7 @@ iab feeleing feeling
 iab feelig feeling
 iab feelign feeling
 iab feeliing feeling
+iab feeliong feeling
 iab feell feel
 iab feelling feeling
 iab feellings feelings
@@ -5464,10 +5476,13 @@ iab finially finally
 iab finihs finish
 iab finihshed finished
 iab finihsing finishing
+iab finishewd finished
 iab finlaly finally
+iab finsiehd finished
 iab finsih finish
 iab finsihed finished
 iab finsihes finishes
+iab finsihewd finished
 iab finsihiing finishing
 iab finsihing finishing
 iab finxing fixing
@@ -5479,6 +5494,7 @@ iab firends friends
 iab firigin firing
 iab firnge fringe
 iab fishort short
+iab fisnihed finished
 iab fisrst first
 iab fisrt first
 iab fity fifty
@@ -5699,6 +5715,7 @@ iab futehr further
 iab futher further
 iab futurte future
 iab fuull full
+iab fuyn fun
 iab fuynction function
 iab fvalues values
 iab fvie five
@@ -5711,6 +5728,7 @@ iab gaasses gasses
 iab gabout about
 iab galdyly gladly
 iab gameo game
+iab gamesa games
 iab gamos games
 iab ganother another
 iab garbagwe garbage
@@ -6334,6 +6352,7 @@ iab impotant important
 iab impove improve
 iab impprtant important
 iab impratnce importance
+iab impratnt important
 iab imprerect imperfect
 iab impressses impresses
 iab improvce improve
@@ -6750,6 +6769,7 @@ iab iuring during
 iab ivdeos videos
 iab ivent event
 iab ivideo video
+iab ivoes videos
 iab iwhat what
 iab iwhen when
 iab iwht with
@@ -6933,6 +6953,7 @@ iab laundery laundry
 iab laundruy laundry
 iab laundryh laundry
 iab laundy laundry
+iab lauyghing laughing
 iab laways always
 iab lawte late
 iab laxt last
@@ -7026,6 +7047,7 @@ iab lgitha light
 iab lgiths lights
 iab lgo log
 iab lgoic logic
+iab lhave have
 iab lhorizontal horizontal
 iab liaghing laughing
 iab liason liaison
@@ -7094,6 +7116,7 @@ iab lkinked linked
 iab lkocation location
 iab llamma llama
 iab lleast least
+iab lllast last
 iab llok look
 iab lloking looking
 iab lloks looks
@@ -7588,6 +7611,7 @@ iab movment movement
 iab mowstly mostly
 iab mpanic panic
 iab mpeople people
+iab mpore more
 iab mpre more
 iab mreember remember
 iab mreo more
@@ -7662,6 +7686,7 @@ iab namek name
 iab namiung naming
 iab nanies nannies
 iab nanoying nannying
+iab nany any
 iab nanything anything
 iab naother another
 iab narcisissm narcissism
@@ -7951,6 +7976,7 @@ iab odecades decades
 iab odesn doesn
 iab odoin doing
 iab oean ocean
+iab oeioke people
 iab oelense lenses
 iab oelling selling
 iab oer or
@@ -8332,8 +8358,10 @@ iab pelase please
 iab pencisl pencils
 iab penellayty penalty
 iab penetracting penetrating
+iab peoielk people
 iab peoiple people
 iab peole people
+iab peolpe people
 iab peope people
 iab peopel people
 iab peopile people
@@ -8343,6 +8371,7 @@ iab peoppl people
 iab peopple people
 iab peple people
 iab peplle people
+iab pepooooel people
 iab percaution precaution
 iab perccetion perception
 iab perceieve perceive
@@ -8532,6 +8561,7 @@ iab pnael panel
 iab poblem problem
 iab pociekt pocket
 iab poened opened
+iab poeolpe people
 iab poeopel people
 iab poeople people
 iab poeple people
@@ -9669,6 +9699,7 @@ iab sampings samplings
 iab samrt smart
 iab sandpoint standpoint
 iab sandwitch sandwich
+iab sany any
 iab saome some
 iab saomething something
 iab sapcdde spaced
@@ -9804,6 +9835,7 @@ iab secction section
 iab secdtion section
 iab secenario scenario
 iab secfton Sefton
+iab secionds seconds
 iab seciotn section
 iab seciotns seconds
 iab seciton section
@@ -11573,6 +11605,7 @@ iab unfied unfixed
 iab unfinsihed unfinished
 iab unfiortunaltely unfortunately
 iab unfirtunate unfortunate
+iab unfishedn unfinished
 iab unforlding unfolding
 iab unfoucising unfocusing
 iab unfurunate unfortunate
@@ -12038,10 +12071,15 @@ iab wiat wait
 iab wiatching watching
 iab wiating waiting
 iab widge widget
+iab widgests widgets
+iab widgetsss widgets
+iab widghets widgets
 iab widgtet widget
 iab widley widely
+iab widsgets widgets
 iab widsh wish
 iab widteg widget
+iab wiedgets widgets
 iab wieght weight
 iab wieghtk weights
 iab wihcih which
@@ -12121,7 +12159,10 @@ iab woiudl would
 iab woiuld would
 iab wokr work
 iab wokred worked
+iab wokrekrs workers
+iab wokrers workers
 iab wokrflow workflow
+iab wokriers workers
 iab wokrign working
 iab wokring working
 iab wokriung working
@@ -12137,11 +12178,14 @@ iab wordsa words
 iab woreds words
 iab woreked worked
 iab woreld world
+iab worers workers
 iab wores words
 iab worht worth
 iab worhtwhile worthwhile
 iab woriker worker
 iab workeda worked
+iab workeers workers
+iab workeres workers
 iab workgin working
 iab worki work
 iab worki9ng working
@@ -12154,6 +12198,7 @@ iab worknig working
 iab workring working
 iab workrry worry
 iab workstattions workstations
+iab workters workers
 iab workuing working
 iab workung working
 iab worng wrong
@@ -12413,4 +12458,3 @@ iab zeron zero
 iab zooom zoom
 iab ztart start
 iab ztaships starships
-
