@@ -894,6 +894,7 @@ iab Picsrd Picard
 iab Pkanets Planets
 iab Planckk Planck
 iab Plankc Planck
+iab PlayStaiton PlayStation
 iab Playform Platform
 iab Playlisdt Playlist
 iab Plusing Pulsing
@@ -1252,6 +1253,7 @@ iab Tseting Testing
 iab Tthese These
 iab Ttrek Trek
 iab Tueday Tuesday
+iab Tuestdauy Tuesday
 iab Turnes Turns
 iab Twnety Twenty
 iab Typially Typically
@@ -2022,6 +2024,7 @@ iab apapremtnly apparently
 iab apaprently apparently
 iab apaprentlyu apparently
 iab apaprmtnely apparently
+iab aparamtne apartment
 iab aparatus apparatus
 iab apareantly apparently
 iab aparentmnet apartment
@@ -2084,6 +2087,7 @@ iab apparening appearing
 iab apparenlt apparent
 iab apparenlty apparently
 iab apparenly apparently
+iab apparmtnet apartment
 iab apparnlty apparently
 iab apparnt apparent
 iab apparntelty apparently
@@ -2563,6 +2567,7 @@ iab becuase because
 iab becuse because
 iab becvause because
 iab bedcause because
+iab beddause because
 iab beefits befits
 iab beenefits benefits
 iab beeneft benefit
@@ -2815,6 +2820,7 @@ iab browsewr browser
 iab browswer browser
 iab browwser browser
 iab brrain brain
+iab brudh brush
 iab brushewd brushed
 iab brusing brushing
 iab brwose browse
@@ -2870,6 +2876,7 @@ iab burnign burning
 iab buroning burdening
 iab burons burdens
 iab burrning burning
+iab bursh brush
 iab burshesd brushed
 iab burt but
 iab busienss business
@@ -3377,6 +3384,7 @@ iab complonets components
 iab compltelty completely
 iab compluicated complicated
 iab compnay company
+iab compoelted completed
 iab compoeltely completely
 iab compoelx complex
 iab compoenents components
@@ -4247,6 +4255,7 @@ iab diffetne different
 iab diffetnet different
 iab diffeucult difficult
 iab difficient deficient
+iab diffiuclut difficult
 iab diffucult difficult
 iab dififcult difficult
 iab dififculty difficulty
@@ -4443,6 +4452,7 @@ iab doen done
 iab doens doesn
 iab doensn doesn
 iab doesnt doesn't
+iab dogin doing
 iab doging doing
 iab doh9ig doing
 iab doid did
@@ -5856,6 +5866,7 @@ iab gaurd guard
 iab gbecomming becoming
 iab gbetter better
 iab gbiggest biggest
+iab gboht both
 iab gbothered bothered
 iab gbut but
 iab gcan can
@@ -5982,6 +5993,7 @@ iab guarentee guarantee
 iab guarenteed guaranteed
 iab guarentees guarantees
 iab guesssing guessing
+iab guide3 guide
 iab guidenace guidance
 iab gup up
 iab gurchased purchased
@@ -6212,6 +6224,7 @@ iab hoenstly honestly
 iab hoep hope
 iab hoepfully hopefully
 iab hoever however
+iab hoiurs hours
 iab hold4r holder
 iab holday holiday
 iab holdign holding
@@ -6506,6 +6519,7 @@ iab imprtantly importantly
 iab impule impulse
 iab imroving improving
 iab imrpvoed improved
+iab imte time
 iab imtes items
 iab inacurate inaccurate
 iab inadequete inadequate
@@ -6872,6 +6886,7 @@ iab isnert insert
 iab isnerted inserted
 iab isnide inside
 iab isntacne instance
+iab isntaed instead
 iab isntall install
 iab isntalled installed
 iab isntance instance
@@ -7000,6 +7015,7 @@ iab kepy kept
 iab kernal kernel
 iab ketechup ketchup
 iab ketyboard keyboard
+iab keuys keys
 iab keybboard keyboard
 iab keybeard keyboard
 iab keybiard keyboard
@@ -7177,6 +7193,7 @@ iab leverls levels
 iab levevators elevators
 iab levfer lever
 iab lewanred learned
+iab lewast least
 iab lexingon Lexington
 iab lexingtun lexington
 iab lfie life
@@ -7423,6 +7440,7 @@ iab managemnet management
 iab managesd managed
 iab managin managing
 iab managment management
+iab mananguer manager
 iab mande made
 iab maneiquin mannequin
 iab mangement management
@@ -7606,6 +7624,7 @@ iab minuyte minute
 iab mionutes minutes
 iab miprepare prepare
 iab miricle miracle
+iab miscellanous miscellaneous
 iab misinterpreed misinterpreted
 iab misktaekn mistaken
 iab misntawekn mistaken
@@ -8233,6 +8252,7 @@ iab ontorl control
 iab ontp onto
 iab ontroller controller
 iab ontrollong controlling
+iab onwernship ownership
 iab onyl only
 iab oobsese obsess
 iab oobsessed obsessed
@@ -9210,6 +9230,7 @@ iab purpsoe purpose
 iab purpsoes purposes
 iab pursopoefully purposefully
 iab purspose purpose
+iab pursposes purposes
 iab pursuiing pursuing
 iab puyrpose purpose
 iab pwer paper
@@ -9648,6 +9669,7 @@ iab researcing researching
 iab researfch research
 iab researhing researching
 iab resefrvations reservations
+iab reseiver receiver
 iab reselmbalnce resemblance
 iab resembalnce resemblance
 iab resembalnces resemblances
@@ -9974,6 +9996,7 @@ iab sciprt script
 iab scipt script
 iab scirpit script
 iab scirpt script
+iab scirpted scripted
 iab scity city
 iab scnool school
 iab scoial social
@@ -10012,6 +10035,7 @@ iab scrupt script
 iab scrutinty scrutiny
 iab sctip script
 iab sctipt script
+iab scvcripted scripted
 iab scvhool school
 iab scvirtp script
 iab scvreen screen
@@ -10507,6 +10531,7 @@ iab sotopped stopped
 iab sotops stops
 iab sotp stop
 iab sotpping stopping
+iab sotrage storage
 iab sotred stored
 iab sotrignn storing
 iab sotup setup
@@ -10592,6 +10617,7 @@ iab sroll scroll
 iab srreen screen
 iab srver server
 iab ssay say
+iab sschedule schedule
 iab sschool school
 iab ssearch search
 iab ssemes seems
@@ -11269,6 +11295,7 @@ iab therin therein
 iab theropy therapy
 iab theropys therapies
 iab thes these
+iab thesae these
 iab theselves themselves
 iab theser these
 iab thess3 these
@@ -11331,6 +11358,7 @@ iab thinmking thinking
 iab thirdty thirty
 iab thirdy thirty
 iab thirthween thirteen
+iab thisd this
 iab thise these
 iab thisk this
 iab thisl this
@@ -11705,6 +11733,7 @@ iab turened turned
 iab turjed turned
 iab turly truly
 iab turst trust
+iab tuseday tuesday
 iab tuture future
 iab tuyping typing
 iab tuyrned turned
@@ -12338,6 +12367,7 @@ iab wihd wish
 iab wiht with
 iab wihtin within
 iab wihtou without
+iab wihtougt without
 iab wihtout without
 iab wiil will
 iab wiill will
@@ -12524,6 +12554,7 @@ iab wront wrong
 iab wrorry worry
 iab wrory worry
 iab wrorya worry
+iab wrothwhile worthwhile
 iab wrow row
 iab wrpokring working
 iab wrtiing writing
