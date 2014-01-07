@@ -67,7 +67,7 @@ noremap <silent> <F7> :set list!<CR>
 noremap <silent> <F8> :setlocal spell! spelllang=en_us <CR>
 noremap <silent> <Left> <Esc>:bp<CR>
 noremap <silent> <Right> <Esc>:bn<CR>
-noremap <silent> <leader>y :Git commit -am'bookmarks' && git push<CR>
+noremap <silent> <leader>y :Git commit -am'update' && git push<CR>
 noremap <up> <nop>
 noremap [Down] gj
 noremap [Up] gk
