@@ -481,6 +481,7 @@ iab Experince Experience
 iab Experinece Experience
 iab Exsampe Example
 iab Extremelyu Extremely
+iab FEderal Federal
 iab FGive Five
 iab FIgure Figure
 iab FIles Files
@@ -920,6 +921,7 @@ iab QWe We
 iab Qhat What
 iab Qualty Quality
 iab Qyiut Quit
+iab RAspberry Raspberry
 iab REaly Really
 iab REcently Recently
 iab REcords Records
@@ -1166,7 +1168,10 @@ iab Tdakers Takers
 iab Tecchnoique Technique
 iab Techniue Technique
 iab Technolog Technology
+iab Technologu Technology
 iab Technqiue Technique
+iab Tehse These
+iab Tehsse These
 iab Telk Tell
 iab Temporarf Temporary
 iab Terrible3 Terrible
@@ -1245,6 +1250,7 @@ iab Underwayer Underwater
 iab Unfornuately Unfortunately
 iab Unfortunatenly Unfortunately
 iab Univeristy University
+iab Univiersity University
 iab Univsere Universe
 iab Upgradign Upgrading
 iab Usin Using
@@ -1833,6 +1839,7 @@ iab althoguth although
 iab althought although
 iab althrough although
 iab alue value
+iab alumninum aluminum
 iab aluring alluring
 iab alwaasy always
 iab alwarm alarm
@@ -2117,6 +2124,7 @@ iab applcifaion application
 iab applctionas applications
 iab appliation application
 iab applicabl3 applicable
+iab applicadtions applications
 iab applicafions applications
 iab applicaftion application
 iab applicaion application
@@ -3174,6 +3182,7 @@ iab chromicles chronicles
 iab chromicsles chronicles
 iab chronicleer chronicler
 iab chruch church
+iab chuip chip
 iab cibiilazations civilizations
 iab cibil civil
 iab cidiontona conditioning
@@ -3486,6 +3495,7 @@ iab concatonating concatenating
 iab concdrete concrete
 iab conceaaled concealed
 iab conceealed concealed
+iab conceedes concedes
 iab conceppets concepts
 iab concered concerned
 iab concerend concerned
@@ -3557,6 +3567,7 @@ iab configurationus configurations
 iab configuratiyon configuration
 iab configuratoin configuration
 iab configurre configure
+iab confimr confirm
 iab confimrend confirmed
 iab confinnned confined
 iab confiruation configuration
@@ -4094,6 +4105,7 @@ iab depenedcy dependency
 iab depenedencies dependencies
 iab deper deeper
 iab depisited deposited
+iab depositied deposited
 iab depper deeper
 iab depxlictily explicitly
 iab dercived derived
@@ -4381,6 +4393,7 @@ iab discvoery discovery
 iab discvovered discovered
 iab disdablve disable
 iab disdplay display
+iab disdplays displays
 iab diseas disease
 iab dishwahser dishwasher
 iab disintigrate disintegrate
@@ -4511,6 +4524,7 @@ iab dommunity community
 iab dones doesn
 iab donesn doesn
 iab donig doing
+iab donsisting consisting
 iab donw down
 iab donwl down
 iab donwlaoded downloaded
@@ -4846,6 +4860,7 @@ iab eldctricity electricity
 iab eleacsticity elasticity
 iab elecation elevation
 iab elecdtic electric
+iab elecdtorinc electronic
 iab elecdtric electric
 iab elecdtro electro
 iab elecdtromotive electromotive
@@ -4858,10 +4873,13 @@ iab electornic electronic
 iab electricyt electricity
 iab electrocde electrode
 iab electroed electrode
+iab electroinc electronic
 iab electroincs electronics
 iab electroinics electronics
 iab electromitive electromotive
+iab electronc electronic
 iab electronci electronic
+iab electrornic electronic
 iab electrric electric
 iab electrrical electrical
 iab eledtric electric
@@ -4889,8 +4907,11 @@ iab eletroinics electronics
 iab eletronci electronic
 iab eletronic electronic
 iab eletronics electronics
+iab eletrronics electronics
 iab elevent eleven
+iab elewtrical electrical
 iab elexctronic electronic
+iab elextronic electronic
 iab elextronids electronics
 iab elimiated eliminated
 iab eliminiated eliminated
@@ -4926,6 +4947,7 @@ iab embarass embarrass
 iab embarassed embarrassed
 iab embarassing embarrassing
 iab embeded embedded
+iab embranes membranes
 iab emcahics mechanics
 iab emcahnics mechanics
 iab emcas emacs
@@ -5043,6 +5065,7 @@ iab environemnt environment
 iab environemtn environment
 iab environmenet environment
 iab envirronment environment
+iab envisionsed envisioned
 iab envoiroment environment
 iab enxt next
 iab eopelp people
@@ -5385,6 +5408,7 @@ iab exitsitng existing
 iab exitsted existed
 iab exloring exploring
 iab exmample example
+iab exmape example
 iab exmapl example
 iab exmaple example
 iab exmaples examples
@@ -5639,6 +5663,7 @@ iab filess files
 iab filfilling fulfilling
 iab filied filed
 iab filmaker filmmaker
+iab filmn film
 iab filtesr filters
 iab finacial financial
 iab finalyl finally
@@ -5708,6 +5733,7 @@ iab folllw follow
 iab followign following
 iab follw follow
 iab follwos follows
+iab foloating floating
 iab fomrat format
 iab fomrs forms
 iab footabll football
@@ -5903,6 +5929,7 @@ iab fynctoin function
 iab gaasses gasses
 iab gabout about
 iab galdyly gladly
+iab galliym gallium
 iab galss glass
 iab gameo game
 iab gamesa games
@@ -6038,6 +6065,7 @@ iab gthat that
 iab gthis this
 iab gtive give
 iab gtravelling traveling
+iab guage gauge
 iab guaratnees guarantees
 iab guarentee guarantee
 iab guarenteed guaranteed
@@ -7233,6 +7261,7 @@ iab leawrnign learning
 iab leawrning learning
 iab leawve leave
 iab leazwve leave
+iab lectronic electronic
 iab leder ledger
 iab ledgednnary legendary
 iab ledgendardy legendary
@@ -7372,6 +7401,7 @@ iab lnks links
 iab lnoger longer
 iab lnot not
 iab lnow know
+iab loawded loaded
 iab locadtion location
 iab localied localized
 iab localstoerage localStorage
@@ -7557,6 +7587,7 @@ iab matchin matching
 iab matehmatical mathematical
 iab mateirals materials
 iab matematical mathematical
+iab materisls materials
 iab mathc match
 iab mathematiciians mathematicians
 iab mathematiciions mathematicians
@@ -7644,6 +7675,7 @@ iab mentoined mentioned
 iab menuial menial
 iab menyu menu
 iab meomories memories
+iab meothdo method
 iab mepmey money
 iab mergesr mergers
 iab mermey merely
@@ -8312,8 +8344,10 @@ iab ofrever forever
 iab ogf of
 iab oging going
 iab ogod good
+iab ogranic organic
 iab ogranise organise
 iab oheard heard
+iab ohlding holding
 iab ohme home
 iab ohnly only
 iab ohoping hoping
@@ -8576,6 +8610,7 @@ iab palcedc placed
 iab palceholder placeholder
 iab palces places
 iab palec place
+iab pallette palette
 iab paln plan
 iab palnned planned
 iab palnning planning
@@ -8599,6 +8634,9 @@ iab paragrahp paragraph
 iab paragrahpk paragraph
 iab paragrpah paragraph
 iab parahraph paragraph
+iab paralene parylene
+iab paralenee parylene
+iab paralyne parylene
 iab paramaters parameters
 iab parameeter parameter
 iab parameneter parameter
@@ -8813,6 +8851,7 @@ iab photosohop photoshop
 iab phsical physical
 iab phsician physician
 iab phsicists physicists
+iab phsiological physiological
 iab phsiscists physicists
 iab phsisiststs physicists
 iab phsuysioliigcal physiological
@@ -8978,6 +9017,7 @@ iab possiblble possible
 iab possiblef possible
 iab possibley possible
 iab possiblhy possibly
+iab possibliity possibility
 iab possiblilites possibilities
 iab possiblities possibilities
 iab possiblitiy possibility
@@ -9804,6 +9844,7 @@ iab requwests requests
 iab reqwuest request
 iab reqwuests requests
 iab rereouted rerouted
+iab resaerachers researchers
 iab resaon reason
 iab resarech research
 iab resceived received
@@ -9818,6 +9859,7 @@ iab reseivers receivers
 iab reselmbalnce resemblance
 iab resembalnce resemblance
 iab resembalnces resemblances
+iab reseqrchers researchers
 iab reseraunt restaurant
 iab reserverd reserved
 iab reseverved reserved
@@ -9839,6 +9881,7 @@ iab resotres restores
 iab resourece resource
 iab resove resolve
 iab resovle resolve
+iab resovled resolved
 iab respecitively respectively
 iab respecitlvely respectively
 iab respecitvely respectively
@@ -10432,6 +10475,7 @@ iab signle single
 iab signpu signup
 iab sijmple simple
 iab silmpy simply
+iab silocon silicon
 iab similation simulation
 iab simluatineonsly simultaneously
 iab simluation simulation 
@@ -10809,6 +10853,7 @@ iab staircase3 staircase
 iab staircasew staircase
 iab stairdcaes staircase
 iab stanards standards
+iab standrd standard
 iab starage storage
 iab stareed started
 iab staretd started
@@ -10998,6 +11043,7 @@ iab sufferred suffered
 iab sufficioent sufficient
 iab suffuciently sufficiently
 iab sugests suggests
+iab suggesets suggests
 iab suggesitng suggesting
 iab suggestioj suggestion
 iab suibmitting submitting
@@ -11052,6 +11098,7 @@ iab surproise surprise
 iab surprosing surprising
 iab surprsie surprise
 iab surprupseds surprises
+iab survfac surface
 iab surviace service
 iab survial survival
 iab surviival survival
@@ -11131,6 +11178,7 @@ iab sysrems systems
 iab syste system
 iab systemm system
 iab systemr system
+iab systemsm systems
 iab systen system
 iab systme system
 iab systmes systems
@@ -11637,6 +11685,7 @@ iab tiol tool
 iab tirgger trigger
 iab tiringu tiring
 iab tisuee tissue
+iab titanim titanium
 iab tiveated activated
 iab tiyping typing
 iab tjat that
@@ -12565,6 +12614,9 @@ iab wiork work
 iab wioth with
 iab wiould would
 iab wireed wired
+iab wirelelssy wirelessly
+iab wirelessly wirelessly
+iab wireleyssly wirelessly
 iab wirelss wireless
 iab wirint writing
 iab wirirting writing
