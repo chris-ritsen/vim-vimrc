@@ -34,6 +34,7 @@ nnoremap <Q <nop>
 nnoremap <down> <nop>
 nnoremap <expr> <2-LeftMouse> foldclosed(line('.')) == -1 ? "\<2-LeftMouse>" : 'zo'
 nnoremap <leader>c :NERDTreeFind<CR>
+nnoremap <leader>d :call AddAbbrev()<cr>
 nnoremap <leader>n :NERDTreeToggle<CR>
 nnoremap <leader>s viw"0pb
 nnoremap <silent> <Left> <Esc>:bp<CR>
@@ -66,6 +67,7 @@ noremap <silent> <F7> :set list!<CR>
 noremap <silent> <F8> :setlocal spell! spelllang=en_us <CR>
 noremap <silent> <Left> <Esc>:bp<CR>
 noremap <silent> <Right> <Esc>:bn<CR>
+noremap <silent> <leader>y :Git commit -am'update' && git push<CR>
 noremap <up> <nop>
 noremap [Down] gj
 noremap [Up] gk
