@@ -875,6 +875,7 @@ iab PlayStaiton PlayStation
 iab Playform Platform
 iab Playlisdt Playlist
 iab Plusing Pulsing
+iab Poeople People
 iab Popele People
 iab Porojcts Projects
 iab Posisbly Possibly
@@ -949,6 +950,7 @@ iab RTherefore Therefore
 iab RUn Run
 iab Rahter Rather
 iab Rasberry Raspberry
+iab Raspbeery Raspberry
 iab Recend Recent
 iab Redilbery Redelivery
 iab Reember Remember
@@ -997,6 +999,7 @@ iab SCrum Scrum
 iab SEVeral Several
 iab SEfveraal Several
 iab SEfveral Several
+iab SEnding Sending
 iab SErfvral Several
 iab SEt Set
 iab SEtup Setup
@@ -2351,6 +2354,7 @@ iab attachc attach
 iab attachement attachment
 iab attachements attachments
 iab attacments attachments
+iab attahcmenet attachment
 iab attatchement attachment
 iab attemp attempt
 iab attemps attempt
@@ -2413,6 +2417,7 @@ iab automaticallt automatically
 iab automaticaly automatically
 iab automaticalyl automatically
 iab automaticayll automatically
+iab automaticlally automatically
 iab automaticyll automatically
 iab automatiion automation
 iab automatoin automaton
@@ -5660,6 +5665,7 @@ iab fijnished finished
 iab filded filed
 iab fileds fields
 iab filess files
+iab filetuype filetype
 iab filfilling fulfilling
 iab filied filed
 iab filmaker filmmaker
@@ -6077,6 +6083,7 @@ iab gup up
 iab gurchased purchased
 iab guuess guess
 iab guyard guard
+iab guyy guy
 iab gyessiong guessing
 iab habanaeros habanero
 iab habe have
@@ -6899,6 +6906,7 @@ iab intesrest interest
 iab intesrested interested
 iab intesresting interesting
 iab intesreting interesting
+iab intesrewd interested
 iab intesrewting interesting
 iab intesriesting interesting
 iab intesring interesting
@@ -6992,6 +7000,7 @@ iab isntalled installed
 iab isntance instance
 iab isntances instances
 iab isntantly instantly
+iab isntaslled installed
 iab isntead instead
 iab isntewad instead
 iab isochronism isochronous
@@ -7870,6 +7879,7 @@ iab moemtn moment
 iab moeny money
 iab moer more
 iab moermy memory
+iab moessage message
 iab moeth month
 iab moglich möglich
 iab mohter mother
@@ -8539,6 +8549,7 @@ iab oughht ought
 iab ouit out
 iab oultiple multiple
 iab ounter counter
+iab outcside outside
 iab outght ought
 iab outide outside
 iab outl out
@@ -10860,6 +10871,7 @@ iab staretd started
 iab starfract starcraft
 iab starging starting
 iab staricasde staircase
+iab starit start
 iab starnge strange
 iab starngers strangers
 iab startd started
@@ -10870,6 +10882,7 @@ iab starty start
 iab starup startup
 iab starutp startup
 iab starying straying
+iab stasrt start
 iab stasying staying
 iab statees states
 iab statemetns statements
@@ -11466,6 +11479,7 @@ iab thatt that
 iab thave have
 iab thaving having 
 iab thawt that
+iab thayg that
 iab thbought thought
 iab theat that
 iab theb them
@@ -12264,10 +12278,12 @@ iab vborwser browser
 iab vdevelopment development
 iab vdido video
 iab vdieo video
+iab vdieos videos
 iab vearious various
 iab vecause because
 iab veersions versions
 iab vefifying verifying
+iab vehivcles vehicles
 iab veify verify
 iab venefits benefits
 iab venetable vegetable
@@ -12481,6 +12497,7 @@ iab whagever whatever
 iab whate what
 iab whateever whatever
 iab whatefver whatever
+iab whategvefr whatever
 iab whategver whatever
 iab whatesorever whatsoever
 iab whatevaer whatever
@@ -12570,6 +12587,7 @@ iab whterer whether
 iab whwen when
 iab whwere where
 iab whwn when
+iab whwneever whenever
 iab wiat wait
 iab wiatching watching
 iab wiating waiting
