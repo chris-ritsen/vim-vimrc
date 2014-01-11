@@ -2035,6 +2035,7 @@ iab apaprently apparently
 iab apaprentlyu apparently
 iab apaprmtnely apparently
 iab apaprtmnet apartment
+iab aparametesr parameters
 iab aparamtne apartment
 iab aparatus apparatus
 iab apareantly apparently
@@ -2370,6 +2371,7 @@ iab attiwrubtes attributes
 iab attmeptign attempting
 iab attribles attributes
 iab attributesa attributes
+iab attribuytes attributes
 iab attriduted attributed
 iab atttached attached
 iab atttempt attempt
@@ -3318,6 +3320,7 @@ iab colocoking clocking
 iab colone clone
 iab coluomn column
 iab com3e come
+iab comamnd command
 iab comand command
 iab comandeered commandeered
 iab comapny company
@@ -5666,6 +5669,7 @@ iab filded filed
 iab fileds fields
 iab filess files
 iab filetuype filetype
+iab filexs files
 iab filfilling fulfilling
 iab filied filed
 iab filmaker filmmaker
@@ -9041,6 +9045,7 @@ iab posssible possible
 iab postiion position
 iab postion position
 iab postione position
+iab postions positions
 iab posuitoin position
 iab posution position
 iab potatoe potatoe
@@ -9622,6 +9627,7 @@ iab recursibley recursively
 iab redaing reading
 iab reday ready
 iab redfeine redefine
+iab rediciouls ridiculous
 iab redierct redirect
 iab redirecr redirect
 iab rediret redirect
@@ -10000,7 +10006,16 @@ iab rhythems rhythms
 iab rhythhm rhythm
 iab rhythimic rhythmic
 iab rhytm rhythm
+iab ridclulus ridiculous
 iab ridgidity rigidity
+iab ridicioulkus ridiculous
+iab ridicululs ridiculous
+iab ridiculuosi ridiculous
+iab ridiculus ridiculous
+iab ridicuulus ridiculous
+iab ridilculus ridiculous
+iab ridiuclus ridiculous
+iab riducllus ridiculous
 iab riend friend
 iab rient orient
 iab rifile rifle
@@ -10400,6 +10415,7 @@ iab setn sent
 iab setnence sentence
 iab setnences sentences
 iab setnene sentence
+iab setteings settings
 iab settimeout setTimeout
 iab settinsg settings
 iab settnig setting
@@ -10617,6 +10633,8 @@ iab snad and
 iab snakc snack
 iab snaoke snake
 iab sned send
+iab sneding sending
+iab sneeindg sending
 iab snetences sentences
 iab snew new
 iab sniippets snippets
@@ -12188,6 +12206,7 @@ iab usaes uses
 iab usaully usually
 iab usble usable
 iab uscle muscle
+iab usded used
 iab usefil useful
 iab usefl useful
 iab usefujl useful
