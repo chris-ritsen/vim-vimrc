@@ -166,6 +166,7 @@ iab Beghin Begin
 iab Beh Beg
 iab Behinning Beginning
 iab Beiber Bieber
+iab Beliebe Believe
 iab Besdt Best
 iab Bezt Best
 iab Biever Bieber
@@ -1513,6 +1514,7 @@ iab accessibity accessibility
 iab accessiblity accessibility
 iab accesss access
 iab accesssed accessed
+iab accesssing accessing
 iab accicent accident
 iab accidelntaly accidentally
 iab accidentallly accidentally
@@ -1607,6 +1609,7 @@ iab acetetaminiphen acetaminophen
 iab acetinoiphen acetaminophen
 iab acetion action
 iab acetominiphen acetaminophen
+iab acfessing accessing
 iab acfuracy accuracy
 iab acheived achieved
 iab acheivements achievements
@@ -12594,9 +12597,11 @@ iab trandsorm transform
 iab tranfeers transfers
 iab tranfer transfer
 iab traning training
+iab tranpsiarmices transparencies
 iab transaciotns transactions
 iab transacitons transactions
 iab transactiosn transactions
+iab transaparenecies transparencies
 iab transastyions transactions
 iab transatiions translations
 iab transcfionts transactions
@@ -12608,6 +12613,15 @@ iab transferered transferred
 iab translateions translations
 iab translqtion translation
 iab translucenet translucent
+iab transpacencies transparencies
+iab transpaerencesi transparencies
+iab transpaerncies transparencies
+iab transpareencies transparencies
+iab transpareiencies transparencies
+iab transparemencies transparencies
+iab transparencdies transparencies
+iab transparenecies transparencies
+iab transparenicies transparencies
 iab transprent transparent
 iab transqactions transactions
 iab transsport transport
