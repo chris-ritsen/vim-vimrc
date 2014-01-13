@@ -1,5 +1,4 @@
 
-
 cab GIt Git
 cab commmit commit
 cab confifg config
@@ -5723,6 +5722,7 @@ iab exmape example
 iab exmapl example
 iab exmaple example
 iab exmaples examples
+iab exmaplin explain
 iab exmpal example
 iab exmpale example
 iab exmplain explain
@@ -12052,6 +12052,7 @@ iab temoprary temporary
 iab temorary temporary
 iab tempalte template
 iab tempaltes templates
+iab tempate template
 iab temperateur temperature
 iab templaes templates
 iab templakte template
@@ -12758,6 +12759,7 @@ iab typiong typing
 iab typios typos
 iab typiung typing
 iab typjign typing
+iab typlically typically
 iab typnig typing
 iab typoes typos
 iab typoing typing
@@ -12769,6 +12771,7 @@ iab typung typing
 iab tyrn turn
 iab tyrns turns
 iab tyuping typing
+iab tyupoially typically
 iab uailityh quality
 iab uasers users
 iab ubnix unix
