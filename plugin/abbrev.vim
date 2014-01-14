@@ -1,5 +1,4 @@
 
-
 cab GIt Git
 cab commmit commit
 cab confifg config
@@ -2902,6 +2901,7 @@ iab bootabl bootable
 iab bopoks books
 iab boradly broadly
 iab bords birds
+iab boreed bored
 iab borh born
 iab borhter bother
 iab borign boring
@@ -4309,10 +4309,16 @@ iab delfector deflector
 iab deliber deliver
 iab delibery delivery
 iab delicous delicious
+iab delierverd delivered
+iab delievered delivered
+iab delievred delivered
 iab deliocate delicate
 iab delitacte delicate
+iab delivred delivered
+iab delivredred delivered
 iab deltet delete
 iab delvier deliver
+iab delviered delivered
 iab dely delay
 iab democtractuc democratic
 iab demogratic democratic
@@ -4731,7 +4737,9 @@ iab disvovering discovering
 iab dit did
 iab divieded divided
 iab dleicate delicate
+iab dleievered delivered
 iab dlete delete
+iab dlievered delivered
 iab dlike like
 iab dmake make
 iab dmeo demo
@@ -5881,6 +5889,7 @@ iab eyour your
 iab eys eyes
 iab eysterday yesterday
 iab eysterdyay yesterday
+iab eztremley extremely
 iab fIgure figure
 iab faborite favorite
 iab fabrig fabric
@@ -6469,6 +6478,7 @@ iab happ3ening happening
 iab happend happened
 iab happeneing happening
 iab happineess happiness
+iab happining happening
 iab happinness happiness
 iab happned happened
 iab happnes happens
@@ -6913,6 +6923,7 @@ iab imnfomration information
 iab imnspection inspection
 iab imopllants implants
 iab impalnts implants
+iab impatioently impatiently
 iab impationly impatiently
 iab impememented implemented
 iab imperceiveable imperceivable
@@ -7833,6 +7844,7 @@ iab logicallly logically
 iab logicatio logically
 iab logijn login
 iab loginc login
+iab logner longer
 iab lohical logical
 iab loistem listen
 iab lokc lock
@@ -8566,6 +8578,7 @@ iab neruoscientists neuroscientists
 iab netered entered
 iab netfilix netflix
 iab netiher neither
+iab nettwrok network
 iab netwokr network
 iab netwokring networking
 iab netwokrs networks
@@ -8671,6 +8684,7 @@ iab ntey need
 iab nthing thing
 iab nto not
 iab ntohing nothing
+iab ntohting nothing
 iab ntoicing noticing
 iab nuber number
 iab nubmer number
@@ -9044,6 +9058,7 @@ iab overwhieghr overweight
 iab overwieght overweight
 iab overwight overweight
 iab overzll overall
+iab ovewr over
 iab ovferturend overturned
 iab oviosu obvious
 iab oviosuly obviously
@@ -9331,6 +9346,7 @@ iab perston person
 iab persuing pursuing
 iab pessessing possessing
 iab peview preview
+iab pghone phone
 iab pghrase phrase
 iab pgoram program
 iab pgraommers programmers
@@ -11243,11 +11259,16 @@ iab sligthly slightly
 iab slike like
 iab slleep sleep
 iab sloberring slobbering
+iab sloewest slowest
+iab sloewset slowest
+iab sloewwest slowest
 iab sloly slowly
 iab sloopes slopes
 iab slowlly slowly
 iab slpelling spelling
 iab slplit split
+iab slwest slowest
+iab slwoest slowest
 iab smae same
 iab smaplkings samplings
 iab smeciall special
@@ -12317,6 +12338,7 @@ iab thinmking thinking
 iab thirdty thirty
 iab thirdy thirty
 iab thirthween thirteen
+iab thisa this
 iab thisd this
 iab thise these
 iab thisk this
@@ -12681,6 +12703,7 @@ iab trobule trouble
 iab trrying trying
 iab trty try
 iab trtying trying
+iab truch truck
 iab trunch trunk
 iab trup trip
 iab truply truly
@@ -13653,6 +13676,7 @@ iab wvirtual virtual
 iab wware aware
 iab wwas was
 iab wwaste waste
+iab wwating waiting
 iab wweekend weekend
 iab wwell well
 iab wwere were
