@@ -1,4 +1,5 @@
 
+
 cab GIt Git
 cab commmit commit
 cab confifg config
@@ -992,6 +993,7 @@ iab Randm Random
 iab Rasberry Raspberry
 iab Raspbeery Raspberry
 iab Recend Recent
+iab Recentely Recently
 iab Redilbery Redelivery
 iab Reember Remember
 iab Referneces References
@@ -1455,6 +1457,7 @@ iab abnout about
 iab aboce above
 iab aboht about
 iab aboid avoid
+iab aboiugt about
 iab aboiut about
 iab abook book
 iab aboslute absolute
@@ -1751,6 +1754,7 @@ iab admint admit
 iab adn and
 iab adnd and
 iab adnt and
+iab adpater adapter
 iab adpator adapter
 iab adpet adept
 iab adssociated associated
@@ -3405,6 +3409,7 @@ iab clothese clothes
 iab clsoe close
 iab clsoed closed
 iab clsoer closer
+iab clsoet closet
 iab cluser cluster
 iab clustes clusters
 iab clyinder cylinder
@@ -3868,6 +3873,7 @@ iab contditioning conditioning
 iab contenbt content
 iab contente content
 iab contentes contents
+iab contenvitional conventional
 iab conteracting contracting
 iab contianers containers
 iab contibnue continue
@@ -4901,6 +4907,7 @@ iab dwardfs dwarfs
 iab dwebugger debugger
 iab dwith with
 iab dxjact exact
+iab dya day
 iab dymaic dynamic
 iab eAnd And
 iab eLet Let
@@ -5173,6 +5180,7 @@ iab eletronic electronic
 iab eletronics electronics
 iab eletrronics electronics
 iab elevent eleven
+iab elewctronics electronics
 iab elewtrical electrical
 iab elexctronic electronic
 iab elextronic electronic
@@ -5603,6 +5611,7 @@ iab evolv3ed evolved
 iab evreyone everyone
 iab evrything everything
 iab evver ever
+iab ewach each
 iab ewas was
 iab ewbsite website
 iab ewbsites websites
@@ -6163,6 +6172,7 @@ iab frnech french
 iab frnotend frontend
 iab frol from
 iab froma from
+iab fromm from
 iab fromq from
 iab fromt from
 iab fron front
@@ -6694,6 +6704,7 @@ iab hpyokinetic hypokinetic
 iab hpyotehical hypothetical
 iab hpyothetical hypothetical
 iab hqve have
+iab hrad hard
 iab hraphic graphic
 iab hsbinh using
 iab hshlef shelf
@@ -6781,6 +6792,7 @@ iab hvae have
 iab hvave have
 iab hve have
 iab hveee have
+iab hvsae have
 iab hwant want
 iab hwat what
 iab hwatever whatever
@@ -6901,6 +6913,7 @@ iab imnfomration information
 iab imnspection inspection
 iab imopllants implants
 iab impalnts implants
+iab impationly impatiently
 iab impememented implemented
 iab imperceiveable imperceivable
 iab imperitive imperative
@@ -8852,6 +8865,7 @@ iab onlyu only
 iab onnection connection
 iab onnline online
 iab onnly only
+iab onoce once
 iab onoe one
 iab onotber another
 iab onow know
@@ -10313,6 +10327,7 @@ iab remembre remember
 iab remembvered remembered
 iab rememedy remedy
 iab rememer remember
+iab rememger remember
 iab rememrber remember
 iab rememvber remember
 iab rememvbered remembered
@@ -10857,6 +10872,7 @@ iab sdevised devised
 iab sdistinct distinct
 iab sdite site
 iab sdo do
+iab sdoemthign something
 iab sdoimple simple
 iab sdone done
 iab seach each
@@ -10951,6 +10967,7 @@ iab seocnd second
 iab seocnr second
 iab seoconds seconds
 iab seocong second
+iab seomthign something
 iab sepaarate separate
 iab separage separate
 iab sepctru spectrum
@@ -11654,8 +11671,10 @@ iab stuats status
 iab stucl stuck
 iab studff stuff
 iab studnets students
+iab stuepping stepping
 iab stuf stuff
 iab stukc stuck
+iab stupisd stupid
 iab sturday saturday
 iab stya stay
 iab styandard standard
@@ -13160,6 +13179,7 @@ iab wahave have
 iab waht what
 iab wahtefver whatever
 iab wahtever whatever
+iab wahtewver whatever
 iab waitign waiting
 iab walays always
 iab walkted walked
@@ -13177,6 +13197,7 @@ iab warnign warning
 iab warriers warriors
 iab wasiting waiting
 iab wasteing wasting
+iab wastwed wasted
 iab wasys ways
 iab watcdhing watching
 iab watcdng watching
@@ -13540,6 +13561,7 @@ iab wortthy worthy
 iab wortwhile worthwhile
 iab wotthwhilw worthwhile
 iab woudl would
+iab woudsl would
 iab wouild would
 iab woul would
 iab woulc would
