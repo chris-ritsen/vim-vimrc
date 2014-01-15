@@ -13953,3 +13953,6 @@ iab tranffer transfer
 iab recorvery recovery
 iab partitionnn partition
 iab cmputer computer
+iab architecuture architecture
+iab hcip chip
+iab chiop chip
