@@ -590,6 +590,7 @@ iab Helllo Hello
 iab Hellow Hello
 iab Henfdrix Hendrix
 iab Henfrix Hendrix
+iab Hewlet Hewlett
 iab Hhave Have
 iab Hilariopus Hilarious
 iab Hoeever However
@@ -3446,6 +3447,7 @@ iab cmments comments
 iab cmompare compare
 iab cmopatability compatibility
 iab cmopmany company
+iab cmopotuer computer
 iab cmoptuer computer
 iab cmplete complete
 iab cmplletein completion
@@ -4013,6 +4015,7 @@ iab copmpleeintg completing
 iab copmputers computers
 iab copmtuers computers
 iab copmutesr computers
+iab copmuyer computer
 iab copnany company
 iab coprorate corporate
 iab coproropations corporations
@@ -4309,6 +4312,7 @@ iab decrase decrease
 iab decrasing decreasing
 iab decreating decreasing
 iab decrsing decreasing
+iab decvice device
 iab decvices devices
 iab deductable deductible
 iab deeop deep
@@ -4428,6 +4432,7 @@ iab despaertly desperately
 iab desparaltey desperately
 iab desparate desperate
 iab desparately desperately
+iab despoite despite
 iab desrbied described
 iab desreibed described
 iab desribed described
@@ -7014,6 +7019,7 @@ iab imporatnat important
 iab imporatnce importance
 iab imporatnly importantly
 iab imporatnt important
+iab imporessed impressed
 iab imporntant important
 iab imporoive improve
 iab imporove improve
@@ -7045,6 +7051,7 @@ iab improvments improvements
 iab imprtance importance
 iab imprtant important
 iab imprtantly importantly
+iab imprwessaed impressed
 iab impule impulse
 iab imroving improving
 iab imrpvoed improved
@@ -7266,6 +7273,7 @@ iab instgead instead
 iab instinclyvely instinctively
 iab instinctible instinctively
 iab instlal install
+iab instlaling installing
 iab instnace instance
 iab instnaces instances
 iab instrucitons instructions
@@ -7421,6 +7429,8 @@ iab ipmleementation implementation
 iab ipmlemeation implementation
 iab ipmlemetnt implement
 iab ipmortnat important
+iab ipmressed impressed
+iab ipmresseedd impressed
 iab iponeo iphone
 iab iptions options
 iab irdser order
@@ -7541,6 +7551,7 @@ iab jsdut stud
 iab jse use
 iab jst just
 iab jstu just
+iab jsuet just
 iab jsust just
 iab jsut just
 iab jsutw just
@@ -7977,6 +7988,7 @@ iab machiena machine
 iab machiens machines
 iab machiner machine
 iab macigally magically
+iab macine machine
 iab macnook macbook
 iab macxbook macbook
 iab maeka make
@@ -12680,6 +12692,7 @@ iab topuc topic
 iab tordando tornado
 iab tornados tornadoes
 iab torrentiyional torrential
+iab toruble trouble
 iab tosady toady
 iab tosay today
 iab totadl total
@@ -12916,6 +12929,7 @@ iab typuing typing
 iab typung typing
 iab tyrn turn
 iab tyrns turns
+iab tyupe type
 iab tyuping typing
 iab tyupoially typically
 iab uailityh quality
