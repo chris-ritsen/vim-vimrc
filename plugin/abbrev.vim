@@ -370,6 +370,8 @@ iab Docotor Doctor
 iab Docotr Doctor
 iab Docuemnts Documents
 iab Doen Done
+iab Downlaiding Downloading
+iab Downloadign Downloading
 iab Drsribe Describe
 iab Drunking Drinking
 iab Dveelopement Development
@@ -6346,6 +6348,7 @@ iab filetuype filetype
 iab filexs files
 iab filfilling fulfilling
 iab filied filed
+iab fillying filling
 iab filmaker filmmaker
 iab filmn film
 iab filtesr filters
@@ -7913,6 +7916,7 @@ iab jsut just
 iab jsutw just
 iab jto jot
 iab jtryin trying
+iab juast just
 iab judgement judgment
 iab judgemnet judgment
 iab judst just
@@ -11471,6 +11475,7 @@ iab satify satisfy
 iab satisfcation satisfaction
 iab satisgying satisfying
 iab satisyfing satisfying
+iab satrtes starts
 iab saturdsay saturday
 iab satyrday saturday
 iab saunder saunter
@@ -14735,8 +14740,3 @@ iab zooom zoom
 iab ztart start
 iab ztaships starships
 
-iab Downlaiding Downloading
-iab Downloadign Downloading
-iab satrtes starts
-iab juast just
-iab fillying filling
