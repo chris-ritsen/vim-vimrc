@@ -395,9 +395,12 @@ iab EVery Every
 iab EVerybody Everybody
 iab EVeryhing Everything
 iab EVeryithing Everything
+iab EVeryoen Everyone
+iab EVeryohne Everyone
 iab EVeryone Everyone
 iab EVerythign Everything
 iab EVerything Everything
+iab EVerytone Everyone
 iab EWhat What
 iab EWrite Write
 iab Eaach Each
@@ -482,6 +485,7 @@ iab Everty Every
 iab Evertything Everything
 iab Everyhthing Everything
 iab Everyhting Everything
+iab Everyohne Everyone
 iab Everythgign Everything
 iab Everythign Everything
 iab Everyting Everything
@@ -1036,6 +1040,7 @@ iab Rememberonmg Remembering
 iab Remembinering Remembering
 iab Remembre Remember
 iab Rememebering Remembering
+iab Rememver Remember
 iab Repeaet Repeat
 iab Requedsting Requesting
 iab Requewt Request
@@ -1175,11 +1180,13 @@ iab Snesible Sensible
 iab Snyway Anyway
 iab Soem Some
 iab Soemone Someone
+iab Soemtihmgn Something
 iab Softare Software
 iab Soiimetimes Sometimes
 iab Someething Something
 iab Someoehone Someone
 iab Somethign Something
+iab Sometihng Something
 iab Somoene Someone
 iab Sonmwone Someone
 iab Soo So
@@ -1786,6 +1793,7 @@ iab adatped adapted
 iab adavnatage advantage
 iab adctivity activity
 iab adddress address
+iab addeed added
 iab addfress address
 iab addictiong addicting
 iab addign adding
@@ -1977,6 +1985,7 @@ iab alos also
 iab alpplications applications
 iab alrady already
 iab alrday already
+iab alrdya already
 iab alread already
 iab alreaddy already
 iab alreadgy already
@@ -2108,6 +2117,7 @@ iab annd and
 iab annooyed annoyed
 iab annooynace annoyance
 iab annoyong annoying
+iab annoyting annoying
 iab annying annoying
 iab annyoing annoying
 iab annyong annoying
@@ -2186,6 +2196,7 @@ iab anythignt anything
 iab anythinb anything
 iab anythiong anything
 iab anythnign anything
+iab anytihign anything
 iab anyting anything
 iab anytinng anything
 iab anytnign anything
@@ -2767,6 +2778,7 @@ iab barohterb brother
 iab barriesrs barriers
 iab bary vary
 iab barying varying
+iab bascilaly basically
 iab basck back
 iab baseilne baseline
 iab basially basically
@@ -3819,6 +3831,9 @@ iab componsents components
 iab compooients components
 iab compoonents components
 iab compoonets components
+iab comporimined compromised
+iab comporismied compromised
+iab comporoimoiesed compromised
 iab compoteur computer
 iab compount compound
 iab compouter computer
@@ -3827,9 +3842,11 @@ iab compplex complex
 iab compputer computer
 iab comprehened comprehend
 iab comprensions comprehensions
+iab compriminsed compromised
 iab comprimise compromise
 iab comprimised compromised
 iab comprimising compromising
+iab comproimised compromised
 iab compromoised compromised
 iab compter computer
 iab compters computers
@@ -4203,6 +4220,7 @@ iab copmmand command
 iab copmound compound
 iab copmpleeintg completing
 iab copmputers computers
+iab copmroomonsed compromised
 iab copmtuers computers
 iab copmtueyr computer
 iab copmutesr computers
@@ -4824,6 +4842,7 @@ iab dififciult difficult
 iab dififcult difficult
 iab dififculty difficulty
 iab dififcutl difficult
+iab difrrent different
 iab diget digest
 iab digets digest
 iab digiral digital
@@ -4945,6 +4964,7 @@ iab distaccted distracted
 iab distacti distract
 iab distancrss distances
 iab distande distance
+iab distannnt distant
 iab distarcetgd distracted
 iab distarcted distracted
 iab distarfcted distracted
@@ -5903,6 +5923,8 @@ iab everywwhere everywhere
 iab evetyrthinhg everything
 iab evewrything everything
 iab eveyone everyone
+iab eveyrhitng everything
+iab eveyrthing everything
 iab eveything everything
 iab eveytthign everything
 iab eveywehre everywhere
@@ -6872,6 +6894,7 @@ iab headhones headphones
 iab headrd header
 iab headres headers
 iab headsset headset
+iab healhty healthy
 iab healwth health
 iab heardrs headers
 iab heards hearts
@@ -7256,6 +7279,8 @@ iab illminated illuminated
 iab imageine imagine
 iab imagesa images
 iab imaghne imagine
+iab imaginalble imaginable
+iab imagineed imagined
 iab imagingin imagining
 iab imaginging imagining
 iab imagintion imagination
@@ -8142,6 +8167,7 @@ iab lgiths lights
 iab lgo log
 iab lgoic logic
 iab lhave have
+iab lhealthy healthy
 iab lhiglhighted highlighted
 iab lhorizontal horizontal
 iab liaghing laughing
@@ -8830,6 +8856,7 @@ iab moorninp morning
 iab moouse mouse
 iab mopoiints points
 iab morbing morning
+iab morem more
 iab moreo more
 iab moreq more
 iab moringin mooring in
@@ -9051,6 +9078,7 @@ iab nenoguh enough
 iab nenojoyable enjoyable
 iab nenough enough
 iab nentry entry
+iab neoguh enough
 iab neothing nothing
 iab neough enough
 iab nerarly nearly
@@ -9172,6 +9200,7 @@ iab ntesxy testy
 iab ntey need
 iab nthing thing
 iab nto not
+iab ntohging nothing
 iab ntohing nothing
 iab ntohting nothing
 iab ntoicing noticing
@@ -9291,6 +9320,8 @@ iab ocmpletel complete
 iab ocmpletely completely
 iab ocmpleting completing
 iab ocmptuer computer
+iab ocmptuers computers
+iab ocmptuyer computer
 iab ocmputer computer
 iab ocmputers computers
 iab ocmpuyter computer
@@ -9373,6 +9404,7 @@ iab omterset intersect
 iab onChnage onChange
 iab onece once
 iab onee one
+iab oneslef oneself
 iab onews ones
 iab ong on
 iab onliune online
@@ -9588,9 +9620,12 @@ iab ovrly overly
 iab ovservation observation
 iab ovserving observing
 iab ovuerturend overturned
+iab owith with
+iab owkring working
 iab owno own
 iab oworlds worlds
 iab owould would
+iab owrd word
 iab owrds words
 iab owrk work
 iab owrkas works
@@ -10076,6 +10111,7 @@ iab posessing possessing
 iab posible possible
 iab posiotnio position
 iab posisble possible
+iab posisblity possibility
 iab positibe positive
 iab positin position
 iab positoin position
@@ -10088,6 +10124,7 @@ iab possesion possession
 iab possessin possession
 iab possibibilties possibilities
 iab possibilties possibilities
+iab possibiltiy possibility
 iab possibilty possibility
 iab possibily possibly
 iab possiblble possible
@@ -10414,6 +10451,7 @@ iab progrms programs
 iab prohgram program
 iab proiding providing
 iab projcets projects
+iab projecdtes projects
 iab projecdts projects
 iab projecft project
 iab projext project
@@ -11209,6 +11247,7 @@ iab returnsed returned
 iab retuyrn return
 iab retyrb return
 iab reuest request
+iab reuiqquire require
 iab reuire require
 iab reuired required
 iab reulaible reliable
@@ -11337,6 +11376,7 @@ iab rpeating repeating
 iab rpesentatuin presentation
 iab rpessssssure pressure
 iab rpobably probably
+iab rpojecdets projects
 iab rpomise promise
 iab rprespsentations representations
 iab rprison prison
@@ -11667,6 +11707,7 @@ iab seocnr second
 iab seoconds seconds
 iab seocong second
 iab seomthign something
+iab seomthing something
 iab sepaarate separate
 iab separage separate
 iab separater separator
@@ -11819,6 +11860,7 @@ iab sicne sine
 iab sidewlak sidewalk
 iab sidews sides
 iab sidxty sixty
+iab sieren siren
 iab siet site
 iab sietting sitting
 iab siginificant significant
@@ -12096,6 +12138,7 @@ iab somme some
 iab somple simple
 iab somsewhere somewhere
 iab somtimes sometimes
+iab somwethign something
 iab somwewher somewhere
 iab somwewhere somewhere
 iab sonce since
@@ -12104,6 +12147,7 @@ iab soneone someone
 iab songriter songwriter
 iab sonmeone someone
 iab soomethign something
+iab sooon soon
 iab sopeed speed
 iab sopent spent
 iab sopmethign something
@@ -12414,6 +12458,7 @@ iab styandard standard
 iab stydy study
 iab styel style
 iab stylel styler
+iab styroy story
 iab stystem system
 iab suage usage
 iab sually usually
@@ -14177,6 +14222,7 @@ iab whereever wherever
 iab whererver wherever
 iab wherew where
 iab wherhe where
+iab wherhter whether
 iab wherrever wherever
 iab wherver wherever
 iab wherwe where
@@ -14689,3 +14735,8 @@ iab zooom zoom
 iab ztart start
 iab ztaships starships
 
+iab Downlaiding Downloading
+iab Downloadign Downloading
+iab satrtes starts
+iab juast just
+iab fillying filling
