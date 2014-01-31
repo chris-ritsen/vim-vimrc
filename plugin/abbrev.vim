@@ -1988,6 +1988,9 @@ iab aidio audio
 iab ajust just
 iab ajvascript javascript
 iab aksed asked
+iab akwae awake
+iab akwaek awake
+iab akwwake awake
 iab alaid laid
 iab alalogies analogies
 iab alaredy already
@@ -2773,9 +2776,11 @@ iab awardsed awarded
 iab awarning warning
 iab awatned wanted
 iab awatwer water
+iab aweaske awake
 iab aweay away
 iab awebsolyutely absolutely
 iab aweful awful
+iab awekae awake
 iab aweome awesome
 iab aweosm awesome
 iab aweosme awesome
@@ -2783,6 +2788,9 @@ iab aweosmwe awesome
 iab awesomet awesome
 iab awhat what
 iab awithout without
+iab awkaaae awake
+iab awkae awake
+iab awkake awake
 iab awkknowledge acknowledge
 iab awknowledge acknowledge
 iab awknowledged acknowledged
@@ -12615,6 +12623,7 @@ iab spliy split
 iab spockj Spock
 iab spoekn spoken
 iab sponic sonic
+iab spontanenously spontaneously
 iab spoot spot
 iab spostroophe apostrophe
 iab sppeed speed
