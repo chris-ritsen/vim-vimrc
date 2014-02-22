@@ -661,6 +661,7 @@ iab Helllo Hello
 iab Hellow Hello
 iab Henfdrix Hendrix
 iab Henfrix Hendrix
+iab Hewlet Hewlett
 iab Hhave Have
 iab Hilariopus Hilarious
 iab Hisd His
@@ -4170,6 +4171,7 @@ iab cmoe come
 iab cmompare compare
 iab cmopatability compatibility
 iab cmopmany company
+iab cmopotuer computer
 iab cmoptuer computer
 iab cmoptyer computer
 iab cmoputers computers
@@ -4895,6 +4897,7 @@ iab copmtuers computers
 iab copmtueyr computer
 iab copmtyer computer
 iab copmutesr computers
+iab copmuyer computer
 iab copnany company
 iab copnposiited composited
 iab coproarate corporate
@@ -5246,6 +5249,7 @@ iab decresae decrease
 iab decrsing decreasing
 iab decsterity dexterity
 iab decterity dexterity
+iab decvice device
 iab decvices devices
 iab decxetirty dexterity
 iab deductable deductible
@@ -5388,6 +5392,7 @@ iab despaertly desperately
 iab desparaltey desperately
 iab desparate desperate
 iab desparately desperately
+iab despoite despite
 iab desprerate desperate
 iab desptroy destroy
 iab desrbie describe
@@ -8554,6 +8559,7 @@ iab imporatnat important
 iab imporatnce importance
 iab imporatnly importantly
 iab imporatnt important
+iab imporessed impressed
 iab imporntant important
 iab imporoive improve
 iab imporove improve
@@ -8593,6 +8599,7 @@ iab improvments improvements
 iab imprtance importance
 iab imprtant important
 iab imprtantly importantly
+iab imprwessaed impressed
 iab impsosible impossible
 iab impule impulse
 iab imroving improving
@@ -8863,6 +8870,7 @@ iab instinclyvely instinctively
 iab instinctible instinctively
 iab instlal install
 iab instlaled installed
+iab instlaling installing
 iab instnacdes instances
 iab instnace instance
 iab instnaces instances
@@ -9077,6 +9085,8 @@ iab ipmlemetnt implement
 iab ipmlications implications
 iab ipmolications implications
 iab ipmortnat important
+iab ipmressed impressed
+iab ipmresseedd impressed
 iab iponeo iphone
 iab ipossible possible
 iab iprotant important
@@ -9221,6 +9231,7 @@ iab jsdut stud
 iab jse use
 iab jst just
 iab jstu just
+iab jsuet just
 iab jsust just
 iab jsut just
 iab jsutw just
@@ -9772,6 +9783,7 @@ iab machiene machine
 iab machiens machines
 iab machiner machine
 iab macigally magically
+iab macine machine
 iab macnook macbook
 iab macsques macaques
 iab macxbook macbook
@@ -10294,6 +10306,7 @@ iab mometn moment
 iab momeybt moment
 iab momind mind
 iab momment moment
+iab momnet moment
 iab momoent moment
 iab momoery memory
 iab momrnign morning
@@ -15578,6 +15591,7 @@ iab tordando tornado
 iab tornados tornadoes
 iab torpue troupe
 iab torrentiyional torrential
+iab toruble trouble
 iab tosady toady
 iab tosay today
 iab totadl total
