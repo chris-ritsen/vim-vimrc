@@ -356,6 +356,7 @@ iab DOing Doing
 iab DOn Don
 iab DOne Done
 iab DOnna Donna
+iab DRiving Driving
 iab DRussell Russell
 iab DSuddenly Suddenly
 iab DUck Duck
@@ -2521,6 +2522,7 @@ iab anthynng anything
 iab antining anything
 iab antipciapting anticipating
 iab antiyng anything
+iab antoehr another
 iab antoher another
 iab antygbing anything
 iab antyhgin anything
@@ -2870,6 +2872,7 @@ iab aroiund around
 iab aroudn around
 iab aroung around
 iab arparentment apartment
+iab arparmtnet apartment
 iab arramged arranged
 iab arrangment arrangement
 iab arreas areas
@@ -5258,6 +5261,7 @@ iab cyou you
 iab cytccle cycle
 iab d4creasing decreasing
 iab dDeveloper developer
+iab daaamged damaged
 iab daaaylight daylight
 iab daays days
 iab daed dead
@@ -6116,6 +6120,7 @@ iab drifiting drifting
 iab drifvers drivers
 iab drijnking drinking
 iab drilll drill
+iab drinkign drinking
 iab drinkk drink
 iab driveawy driveway
 iab drivft drift
@@ -6457,6 +6462,7 @@ iab eithe either
 iab eithebr either
 iab eitself itself
 iab eiwht with
+iab eiwther either
 iab eixtisting existing
 iab ekbyardo keyboard
 iab ekep keep
@@ -7588,6 +7594,7 @@ iab financinal financial
 iab fincances finances
 iab findi find
 iab findially finally
+iab findign finding
 iab findinign finding
 iab fingerds fingers
 iab fingerse fingers
@@ -10342,6 +10349,7 @@ iab metnioned mentioned
 iab metnioning mentioning
 iab metnionng mentioning
 iab metorite meteorite
+iab meyself myself
 iab mfree free
 iab mfself myself
 iab mgiht might
@@ -12722,6 +12730,7 @@ iab purcahsing purchasing
 iab purcasde purchase
 iab purchages purchases
 iab purchas3 purchase
+iab purchasde purchase
 iab purchase3 purchase
 iab purdchaes purchases
 iab purhase purchase
@@ -15817,6 +15826,7 @@ iab thorw throw
 iab thos those
 iab thosae those
 iab thoseee those
+iab thoseo those
 iab thoser those
 iab thosuands thousands
 iab thougbht thought
@@ -16943,6 +16953,7 @@ iab weill will
 iab weindow window
 iab weke week
 iab wekeend weekend
+iab wekeened weekend
 iab wekees weeks
 iab wekened weekend
 iab wekes weeks
