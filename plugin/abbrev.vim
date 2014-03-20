@@ -2024,6 +2024,7 @@ iab acetion action
 iab acetominiphen acetaminophen
 iab acfessing accessing
 iab acfuracy accuracy
+iab acheive achieve
 iab acheived achieved
 iab acheivements achievements
 iab achieveable achievable
@@ -2442,6 +2443,7 @@ iab amanu many
 iab amatuer amateur
 iab ambidexrioutrs ambidextrous
 iab ambidextrious ambidextrous
+iab ambiguious ambiguous
 iab amek make
 iab amercica america
 iab amgixally magically
@@ -4748,6 +4750,7 @@ iab conceealed concealed
 iab conceedes concedes
 iab concenrs concerns
 iab conceppets concepts
+iab conceptes concepts
 iab concered concerned
 iab concerend concerned
 iab concerened concerned
@@ -5549,6 +5552,7 @@ iab defiinte definite
 iab defineed defined
 iab definiatley definitely
 iab definitaltely definitely
+iab definiteions definitions
 iab defintely definitely
 iab defintiely definitely
 iab defintiions definitions
@@ -7319,6 +7323,7 @@ iab exampole example
 iab examsple example
 iab exanmples examples
 iab exapmle example
+iab exapmlle example
 iab exasct exact
 iab exasctly exactly
 iab exasm exams
@@ -8948,6 +8953,7 @@ iab imagingin imagining
 iab imaginging imagining
 iab imaginiary imaginary
 iab imagintion imagination
+iab imagninative imaginative
 iab imagrery imagery
 iab imagry imagery
 iab imagyinary imaginary
@@ -9564,6 +9570,7 @@ iab investivgate investigate
 iab invetion invention
 iab invidisdual individual
 iab invilving involving
+iab inviolved involved
 iab inviolves involves
 iab invislbe invisible
 iab invitiing inviting
@@ -11020,6 +11027,7 @@ iab msitmaken mistaken
 iab mstaken mistaken
 iab mstkane mistaken
 iab msuci music
+iab msucnele muscle
 iab msuic music
 iab msut must
 iab msutashe mustache
@@ -17241,6 +17249,7 @@ iab visibilty visibility
 iab visibuility visibility
 iab visiion vision
 iab visistors visitors
+iab visiual visual
 iab visuble visible
 iab visuion vision
 iab vith with
