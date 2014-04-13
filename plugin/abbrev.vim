@@ -18571,7 +18571,43 @@ iab zooom zoom
 iab ztart start
 iab ztaships starships
 
+<<<<<<< HEAD
 iab Conssciousness Consciousness
 iab evernts events
 iab undserstand understand
 iab furethr further
+=======
+iab pheone phone
+iab cdomeptuters computers
+iab trlak talk
+iab leasdtg least
+iab boredf bored
+iab ikleyu likely
+iab liklye likely
+iab liklly likely
+iab lkikley likely
+iab lkiolkey likely
+iab lkileky likely
+iab likikely likely
+iab likekley likely
+iab capitlaise capitalise
+iab foruth fourth
+iab rtasks tasks
+iab aparmtnets apartments
+iab aparmtents apartments
+iab aaprtmneds apartments
+iab aaprmtnets apartments
+iab apamrtents apartments
+iab aparmtnemts apartments
+iab apamrtnemtes apartments
+iab apamrntens apartments
+iab aparmtntes apartments
+iab apartmnetesz apartments
+iab apartmntes apartments
+iab apartmentes apartments
+iab aprtments apartments
+iab apartmnetes apartments
+iab apartmnets apartments
+iab apartmnests apartments
+iab bluye blue
+>>>>>>> 60858f8705d29414793a6c734b0d338b910aa03e
