@@ -333,6 +333,7 @@ iab Congtratulations Congratulations
 iab Conrrad Conrad
 iab Consequ3ence Consequence
 iab Considder Consider
+iab Conssciousness Consciousness
 iab Constawnt Constant
 iab Constgnzwnt Constant
 iab Constnant Constant
@@ -3440,6 +3441,7 @@ iab bakclight backlight
 iab bakground background
 iab balaalance balance
 iab balasncing balancing
+iab balck black
 iab balckented blackened
 iab balnaket blanket
 iab balrey barley
@@ -3769,8 +3771,10 @@ iab blowking blowing
 iab blox block
 iab bloxk block
 iab blumy blimey
+iab bluye blue
 iab blyetooth bluetooth
 iab blynt blunt
+iab blyue blue
 iab bne be
 iab bneed need
 iab bneing being
@@ -4636,6 +4640,7 @@ iab collosal colossal
 iab collpases collapses
 iab colocoking clocking
 iab colone clone
+iab colro color
 iab coluomn column
 iab com3e come
 iab comamnd command
@@ -7395,6 +7400,7 @@ iab everhbody everybody
 iab everhhing everything
 iab everhthing everything
 iab everhything everything
+iab evernts events
 iab everntually eventually
 iab everoyne everyone
 iab everoyone everyone
@@ -8327,6 +8333,7 @@ iab funxstions functions
 iab funxtdion function
 iab funxtion function
 iab funy funny
+iab furethr further
 iab furhter further
 iab furiniture furniture
 iab furnature furniture
@@ -17335,6 +17342,7 @@ iab undre under
 iab undreground underground
 iab undresantd understand
 iab undsersanding understanding
+iab undserstand understand
 iab undsure unsure
 iab uneable unable
 iab unecessary unnecessary
@@ -18571,46 +18579,3 @@ iab zooom zoom
 iab ztart start
 iab ztaships starships
 
-<<<<<<< HEAD
-iab Conssciousness Consciousness
-iab evernts events
-iab undserstand understand
-iab furethr further
-=======
-iab pheone phone
-iab cdomeptuters computers
-iab trlak talk
-iab leasdtg least
-iab boredf bored
-iab ikleyu likely
-iab liklye likely
-iab liklly likely
-iab lkikley likely
-iab lkiolkey likely
-iab lkileky likely
-iab likikely likely
-iab likekley likely
-iab capitlaise capitalise
-iab foruth fourth
-iab rtasks tasks
-iab aparmtnets apartments
-iab aparmtents apartments
-iab aaprtmneds apartments
-iab aaprmtnets apartments
-iab apamrtents apartments
-iab aparmtnemts apartments
-iab apamrtnemtes apartments
-iab apamrntens apartments
-iab aparmtntes apartments
-iab apartmnetesz apartments
-iab apartmntes apartments
-iab apartmentes apartments
-iab aprtments apartments
-iab apartmnetes apartments
-iab apartmnets apartments
-iab apartmnests apartments
-iab bluye blue
->>>>>>> 60858f8705d29414793a6c734b0d338b910aa03e
-iab colro color
-iab blyue blue
-iab balck black
