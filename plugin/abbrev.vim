@@ -5046,6 +5046,7 @@ iab congtract contract
 iab conifguration configuration
 iab conineced convinced
 iab conirfugured configured
+iab conistnsntly consistently
 iab conistraingin constraining
 iab conistraining constraining
 iab conitnuiong continuing
@@ -5107,6 +5108,7 @@ iab consieer consider
 iab consier consider
 iab consierable considerable
 iab consiered considered
+iab consiistnalty consistently
 iab consilidation consolidation
 iab consiouce conscious
 iab consiouness consciousness
@@ -5120,6 +5122,9 @@ iab consisdering considering
 iab consise concise
 iab consisered considered
 iab consisetnet consistent
+iab consisitanlty consistently
+iab consisitanntly consistently
+iab consisitantly consistently
 iab consissts consists
 iab consistancy consistency
 iab consistant consistent
@@ -5127,6 +5132,8 @@ iab consistantely consistently
 iab consistantly consistently
 iab consisteantly consistently
 iab consistnency consistency
+iab consitistnalty consistently
+iab consitnantly consistently
 iab consitrainign constraining
 iab consitraining constraining
 iab consitutent constituent
@@ -6104,6 +6111,7 @@ iab difficlilht difficult
 iab difficlitu difficult
 iab difficliyt difficulty
 iab difficlut difficult
+iab difficluyt difficult
 iab difficudlt difficult
 iab difficudtl difficult
 iab difficultiy difficulty
@@ -7117,6 +7125,7 @@ iab enethsuiastic enthusiastic
 iab enetmies enemies
 iab enetry entry
 iab enforacable enforceable
+iab engagign engaging
 iab engaingng engaging
 iab engergize energize
 iab engergy energy
@@ -8211,6 +8220,7 @@ iab foth forth
 iab foucs focus
 iab foudn found
 iab foundre founder
+iab fountin fountain
 iab foutnain fountain
 iab foward forward
 iab foxus focus
@@ -10496,6 +10506,7 @@ iab likek like
 iab likekley likely
 iab likeley likely
 iab likeluy likely
+iab likeyl likely
 iab likghts lights
 iab likikely likely
 iab likleluy likely
@@ -10652,6 +10663,7 @@ iab lsight slight
 iab lsit list
 iab lsited listed
 iab lsiten listen
+iab lsitened listened
 iab lsitenign listening
 iab lsitening listening
 iab lsits lists
@@ -10755,6 +10767,7 @@ iab maintianng maintaining
 iab maintinaing maintaining
 iab maintined maintained
 iab maintiniagin maintaining
+iab maintnenahce maintenance
 iab maitnainable maintainable
 iab maitnained maintained
 iab maitnaining maintaining
@@ -10808,6 +10821,7 @@ iab manualy manually
 iab manueveers maneuvers
 iab manuever maneuver
 iab manuevers maneuvers
+iab manufacgtuer manufacturer
 iab manufacturr manufacturer
 iab manufacuring manufacturing
 iab manufacutuer manufacturer
@@ -14650,6 +14664,7 @@ iab saense sense
 iab saerch search
 iab safastedst fastest
 iab safete safety
+iab safter safer
 iab sahdow shadow
 iab sailers sailors
 iab saing saying
@@ -15042,6 +15057,7 @@ iab seriousluy seriously
 iab seriousy seriously
 iab serioys serious
 iab serivce service
+iab serivces services
 iab serivec service
 iab servce service
 iab servces services
@@ -15254,6 +15270,7 @@ iab simultaenously simultaneously
 iab simultanelously simultaneously
 iab simultaneus simultaneous
 iab simultanteotulsy simultaneously
+iab sincd since
 iab sincde since
 iab sinfrequenlty infrequently
 iab singalrs signals
@@ -15417,6 +15434,7 @@ iab snetnence sentence
 iab snetnencing sentencing
 iab snetnende sentence
 iab snew new
+iab sniice since
 iab sniippets snippets
 iab snking sinking
 iab snnow snow
@@ -16831,6 +16849,7 @@ iab thorughout throughout
 iab thorughtout throughout
 iab thorugout throughout
 iab thoruhg through
+iab thoruoully thoroughly
 iab thorw throw
 iab thos those
 iab thosae those
@@ -16852,7 +16871,9 @@ iab thougth thought
 iab thougthful thoughtful
 iab thougths thoughts
 iab thougts thoughts
+iab thouraoulgy thoroughly
 iab thourgh though
+iab thourhougly thoroughly
 iab thourlylh thoroughly
 iab thourough thorough
 iab thouroughly thoroughly
@@ -17014,6 +17035,7 @@ iab todya today
 iab todyan today
 iab todysa today
 iab toeay today
+iab toegether together
 iab toeghether together
 iab toehgrwisde otherwise
 iab toehr other
@@ -17231,6 +17253,7 @@ iab triyng trying
 iab trlak talk
 iab trnaitions transitions
 iab trnasition transition
+iab tro to
 iab trobule trouble
 iab tropue troupe
 iab trpoue troupe
@@ -17468,6 +17491,7 @@ iab undetecteable undetectable
 iab undetrstand understand
 iab undispilined undisciplined
 iab undiverse universe
+iab undoubtably undoubtedly
 iab undr under
 iab undre under
 iab undreground underground
@@ -18081,6 +18105,7 @@ iab whcih which
 iab whcihs which
 iab wheele wheel
 iab wheelled wheeled
+iab wheenver whenever
 iab wheere where
 iab whehn when
 iab whelel wheel
