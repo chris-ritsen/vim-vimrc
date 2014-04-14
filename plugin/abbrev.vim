@@ -1880,6 +1880,7 @@ iab abbreiations abbreviations
 iab abbreivation abbreviation
 iab abbrevation abbreviation
 iab abbrevations abbreviations
+iab abbrevatioqtns abbreviations
 iab abbreviaions abbreviations
 iab abbreviateion abbreviation
 iab abbrevisaiosn abbreviations
@@ -3262,6 +3263,7 @@ iab audion audio
 iab audiotory auditory
 iab audlts adults
 iab audocorections autocorrections
+iab auido audio
 iab aulity quality
 iab ausre sure
 iab aut0matically automatically
@@ -4665,6 +4667,7 @@ iab comand command
 iab comandeered commandeered
 iab comapny company
 iab combiations combinations
+iab combinationsa combination
 iab combinding combining
 iab combinie combine
 iab comdoments condiments
@@ -12561,6 +12564,7 @@ iab pereieved perceived
 iab perepare prepare
 iab perf per
 iab perfcdeet perfect
+iab perfcdrt4 perfect
 iab perfcet perfect
 iab perfecdt perfect
 iab perfecdtion perfection
@@ -13827,6 +13831,7 @@ iab recelrnlty recently
 iab receltnoy recently
 iab recenlty recently
 iab recenly recently
+iab recenrtgn recent
 iab recenrtly recently
 iab recentely recently
 iab recept receipt
@@ -13845,6 +13850,8 @@ iab recird record
 iab recirdign recording
 iab recitre recite
 iab reclently recently
+iab recnent recent
+iab recnernt recent
 iab recoerd record
 iab recogfnize recognize
 iab recognation recognition
@@ -14415,6 +14422,7 @@ iab reuquest request
 iab reuquired required
 iab reuquirements requirements
 iab reuslts results
+iab reustlt result
 iab reutnr return
 iab reutrn return
 iab revalation revelation
@@ -17343,6 +17351,7 @@ iab typlically typically
 iab typnig typing
 iab typoes typos
 iab typoing typing
+iab typoses typos
 iab typoucally typically
 iab typping typing
 iab typso typos
@@ -18607,6 +18616,7 @@ iab ylu you
 iab ylur your
 iab ynfriendly unfriendly
 iab ynit unit
+iab yogrygut yogurt
 iab yohng young
 iab yoiu you
 iab yojhng young
@@ -18626,11 +18636,13 @@ iab yorusfgelf yourself
 iab yoruslef yourself
 iab yotube youtube
 iab yotubue youtube
+iab yougturt yogurt
 iab youl you
 iab youmnger younger
 iab yourc your
 iab youre you're
 iab yourf your
+iab yourgurt yogurt
 iab yoursalef yourself
 iab yoursefl yourself
 iab yourseflf yourself
