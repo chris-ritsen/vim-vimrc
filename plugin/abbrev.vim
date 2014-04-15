@@ -15960,7 +15960,7 @@ iab stimyuli stimuli
 iab stinrg string
 iab stiop stop
 iab stiorage storage
-iab stirng sting
+iab stirng string
 iab stiyle style
 iab stlye style
 iab stlyel style
