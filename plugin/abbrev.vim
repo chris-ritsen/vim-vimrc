@@ -9289,6 +9289,7 @@ iab ihstalled installed
 iab iimportant important
 iab iin in
 iab iis is
+iab iisistannce isinstance
 iab iit it
 iab iithis this
 iab iits its
@@ -10043,6 +10044,16 @@ iab irrevlevent irrelevant
 iab irt it
 iab isd is
 iab isdea idea
+iab isiisntance isinstance
+iab isiitannce isinstance
+iab isinsntance isinstance
+iab isinstnace isinstance
+iab isisintancde isinstance
+iab isisintance isinstance
+iab isisintane isinstance
+iab isisisntance isinstance
+iab isisitnance isinstance
+iab isistance isinstance
 iab isisues issues
 iab isnce since
 iab isnert insert
