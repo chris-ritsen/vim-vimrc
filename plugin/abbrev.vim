@@ -10065,8 +10065,14 @@ iab isnteead instead
 iab isnterad instead
 iab isntewad instead
 iab isochronism isochronous
+iab isogprah isograph
 iab isoloated isolated
 iab isonlated isolated
+iab isopgrah isograph
+iab ispgrahp isograph
+iab ispgraoph isograph
+iab ispgrha isograph
+iab ispograph isograph
 iab iss is
 iab isssue issue
 iab issuesa issues
