@@ -38,6 +38,7 @@ iab ARch Arch
 iab ARcitic Arctic
 iab ARe Are
 iab ARlgiht Alright
+iab ARray Array
 iab ATtention Attention
 iab AVerage Average
 iab Aamazing Amazing
@@ -132,6 +133,8 @@ iab Aritst Artist
 iab Aritsts Artists
 iab Arlgith Alright
 iab Arlight Alright
+iab Arrayh Array
+iab Arrya Array
 iab Arxh Arch
 iab Ascii ASCII
 iab Asisde Aside
@@ -11849,6 +11852,7 @@ iab ntoicing noticing
 iab nuber number
 iab nubmer number
 iab nubmers numbers
+iab nubmrerw number
 iab nucelar nuclear
 iab nuetruon neutron
 iab nuews news
@@ -13887,6 +13891,7 @@ iab readuing reading
 iab readuly readily
 iab readwy ready
 iab reaerach research
+iab reagularly regularly
 iab reails rails
 iab reailty reality
 iab reakl real
@@ -15704,6 +15709,7 @@ iab sopt stop
 iab sordt sort
 iab sorteded sorted
 iab sortware software
+iab soruce source
 iab sosmeone someone
 iab sotfawtre software
 iab sotopped stopped
@@ -18894,4 +18900,3 @@ iab zooom zoom
 iab ztart start
 iab ztaships starships
 
-iab reagularly regularly
