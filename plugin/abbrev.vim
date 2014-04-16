@@ -40,6 +40,7 @@ iab ARe Are
 iab ARlgiht Alright
 iab ARray Array
 iab ATtention Attention
+iab ATtribute Attribute
 iab AVerage Average
 iab Aamazing Amazing
 iab Aamazon Amazon
@@ -896,6 +897,7 @@ iab Itemd Items
 iab Itg It
 iab Itt It
 iab Iw I
+iab JOghn John
 iab JOin Join
 iab JOsh Josh
 iab JUst Just
@@ -907,6 +909,7 @@ iab Javacript Javascript
 iab JavasSCript JavaScript
 iab Javscript Javascript
 iab Jermey Jeremey
+iab Joghn John
 iab Jogn John
 iab Jsut Just
 iab Judgenment Judgment
@@ -919,6 +922,7 @@ iab KNowign Knowing
 iab KNowing Knowing
 iab KNowledge Knowledge
 iab KRoger Kroger
+iab KeyErorr KeyError
 iab Kinecdt Kinect
 iab Klonkike Klondike
 iab Knolwedge Knowledge
@@ -1265,11 +1269,13 @@ iab QWe We
 iab Qhat What
 iab Qualty Quality
 iab Qyiut Quit
+iab RAnge Range
 iab RAspberry Raspberry
 iab REad Read
 iab REalise Realise
 iab REally Really
 iab REaly Really
+iab REange Range
 iab REcall Recall
 iab REcently Recently
 iab REcompile Recompile
@@ -1305,6 +1311,7 @@ iab REvolution Revolution
 iab REwwriting Rewriting
 iab RIght Right
 iab RItsen Ritsen
+iab RNage Range
 iab RObert Robert
 iab ROlling Rolling
 iab RTherefore Therefore
@@ -1315,6 +1322,7 @@ iab Rahter Rather
 iab Randm Random
 iab Rasberry Raspberry
 iab Raspbeery Raspberry
+iab Rawnge Range
 iab Recend Recent
 iab Recentely Recently
 iab Redilbery Redelivery
@@ -1349,6 +1357,7 @@ iab Richeard Richard
 iab Righ Right
 iab Ritsne Ritsen
 iab Rnadom Random
+iab Rnage Range
 iab Roayal Royal
 iab Rodeneberry Roddenberry
 iab Rohy Roy
@@ -1388,6 +1397,7 @@ iab SHure Shure
 iab SIlicate Silicate
 iab SImply Simply
 iab SInce Since
+iab SMith Smith
 iab SOMETHIGN SOMETHING
 iab SOMeone Someone
 iab SOMeting Something
@@ -1478,7 +1488,11 @@ iab Sio So
 iab Sitill Still
 iab Sitll Still
 iab Slielence Silence
+iab Smoth Smith
+iab Smtih Smith
 iab Snesible Sensible
+iab Snith Smith
+iab Snoewing Snowing
 iab Snyway Anyway
 iab Soem Some
 iab Soemone Someone
@@ -1684,9 +1698,11 @@ iab Typinhg Typing
 iab Typunfg Typing
 iab UNivsere Universe
 iab UNless Unless
+iab UPdating Updating
 iab URl URL
 iab UYes Eyes
 iab UYou You
+iab Udiopating Updating
 iab Uisjng Using
 iab Uisnging Using
 iab Unbeleivable Unbelievable
@@ -4031,6 +4047,9 @@ iab butotns buttons
 iab butoton button
 iab buttion button
 iab buttojh button
+iab buttter butter
+iab buttuer butter
+iab bututer butter
 iab buuildings buildings
 iab buvkets buckets
 iab buyffalo buffalo
@@ -5115,6 +5134,7 @@ iab conpatuyer computer
 iab conphehension comprehension
 iab conpleted completed
 iab conptyeur computer
+iab conrtinue continue
 iab consceptualize conceptualize
 iab conscienceness consciousness
 iab consciosu conscious
@@ -8194,7 +8214,9 @@ iab fixds fixes
 iab fixign fixing
 iab fkae fake
 iab flalwlessly flawlessly
+iab flase false
 iab flasgs flasks
+iab flaswe false
 iab flecible flexible
 iab flet felt
 iab flgith flight
@@ -8519,6 +8541,7 @@ iab gbiggest biggest
 iab gboht both
 iab gbothered bothered
 iab gbut but
+iab gbutter butter
 iab gcan can
 iab gcar car
 iab gcategorizing categorizing
@@ -14729,6 +14752,7 @@ iab rreview review
 iab rright right
 iab rroad road
 iab rsee see
+iab rsuaeme resume
 iab rsulting resulting
 iab rsume resume
 iab rtaking taking
@@ -16715,6 +16739,7 @@ iab tesxst text
 iab tesxt text
 iab teszsting testing
 iab tething tethering
+iab teure true
 iab teurn turn
 iab tewam team
 iab tewhnical technical
@@ -17159,6 +17184,7 @@ iab todasy today
 iab todaty today
 iab todauy today
 iab todayq today
+iab todayu today
 iab todday today
 iab todeay today
 iab todl told
@@ -17374,6 +17400,7 @@ iab treinyg trying
 iab treplaced replaced
 iab tresspassing trespassing
 iab treturn return
+iab treu true
 iab trid tried
 iab triewst tries
 iab triger trigger
@@ -18503,6 +18530,7 @@ iab wolrd world
 iab wonamn woman
 iab wonce wonce
 iab wone one
+iab woorking working
 iab wordl world
 iab wordld world
 iab wordldy worldly
