@@ -1321,6 +1321,7 @@ iab RItsen Ritsen
 iab RNage Range
 iab RObert Robert
 iab ROlling Rolling
+iab RThansks Thanks
 iab RTherefore Therefore
 iab RTired Tired
 iab RUn Run
@@ -1362,6 +1363,7 @@ iab Rgiut Right
 iab Riber River
 iab Richeard Richard
 iab Righ Right
+iab Ristne Ritsen
 iab Ritsne Ritsen
 iab Rnadom Random
 iab Rnage Range
@@ -1373,8 +1375,11 @@ iab Royksopp Röyksopp
 iab Rpeeaea Repeal
 iab Rpepat Repeat
 iab Rriten Ritsen
+iab Rsitsdne Ritsen
+iab Rsitsne Ritsen
 iab Rsnick Resnick
 iab Rsponding Responding
+iab Rtisne Ritsen
 iab Ruight Right
 iab Rutheless Ruthless
 iab Rvival Rival
@@ -1599,6 +1604,7 @@ iab TWrerying Trying
 iab TYhe The
 iab TYhere There
 iab Tahnks Thanks
+iab Tahsnk Thanks
 iab Tallking Talking
 iab Talluying Tallying
 iab Targetting Targeting
@@ -1630,6 +1636,9 @@ iab Tgey They
 iab Tghis This
 iab Tgus This
 iab Thanksd Thanks
+iab Thansk Thanks
+iab Thaskns Thanks
+iab Thasnks Thanks
 iab Thatg That
 iab Thatnk Thank
 iab Thatw That
@@ -1669,6 +1678,7 @@ iab Thrusay Thruway
 iab Thsat That
 iab Thse These
 iab Thsi This
+iab Thsnsks Thanks
 iab Thsu Thus
 iab Thurdsay Thursday
 iab Thyping Hyping
@@ -9244,6 +9254,7 @@ iab iPohne iPhone
 iab iPohone iPhone
 iab iPone iPhone
 iab iPoness iPhones
+iab iRntse Ritsen
 iab iStream stream
 iab iall all
 iab iamge image
@@ -14003,6 +14014,7 @@ iab receivef received
 iab receivevd received
 iab recelrnlty recently
 iab receltnoy recently
+iab recenetlgy recently
 iab recenlty recently
 iab recenly recently
 iab recenrtgn recent
