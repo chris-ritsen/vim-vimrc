@@ -1608,6 +1608,7 @@ iab Tahsnk Thanks
 iab Tallking Talking
 iab Talluying Tallying
 iab Targetting Targeting
+iab Tbanks Thanks
 iab Tben Then
 iab Tbhis This
 iab Tdakers Takers
@@ -1635,6 +1636,8 @@ iab Tgese These
 iab Tgey They
 iab Tghis This
 iab Tgus This
+iab Thainsk Thanks
+iab Thaisnsk Thanks
 iab Thanksd Thanks
 iab Thansk Thanks
 iab Thaskns Thanks
@@ -1642,6 +1645,7 @@ iab Thasnks Thanks
 iab Thatg That
 iab Thatnk Thank
 iab Thatw That
+iab Thbasnk Thanks
 iab Theer There
 iab Thegse These
 iab Thehy They
@@ -1687,6 +1691,11 @@ iab Tjhs This
 iab Tkae Take
 iab Tkling Talking
 iab Tlaked Talked
+iab Tnaknks Thanks
+iab Tnaksks Thanks
+iab Tnasknks Thanks
+iab Tnasnks Thanks
+iab Tnbahkns Thanks
 iab Tobasco Tabasco
 iab Todau Today
 iab Tongitht Tonight
@@ -12936,8 +12945,8 @@ iab piostions positions
 iab piostionso positions
 iab pipline pipeline
 iab pisperceive misperceive
-iab pistion piston
-iab pistoin piston
+iab pistion position
+iab pistoin position
 iab pitcure picture
 iab pkacards placards
 iab pkeep keep
