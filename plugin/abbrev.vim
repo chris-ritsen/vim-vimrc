@@ -18579,3 +18579,16 @@ iab zooom zoom
 iab ztart start
 iab ztaships starships
 
+iab atatcghecd attached
+iab ensurte ensure
+iab cpopy copy
+iab PLease Please
+iab PLeaswe Please
+iab PLEzsde Please
+iab Atatch3d Attached
+iab ATtaached Attached
+iab ATtached Attached
+iab Oralcle Oracle
+iab devleopmer developer
+iab RIstne Ritsen
+iab Rriten Ritsen
