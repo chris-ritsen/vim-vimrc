@@ -2453,6 +2453,7 @@ iab ahappening happening
 iab ahardly hardly
 iab ahave have
 iab ahbitable habitable
+iab ahck hack
 iab ahctive active
 iab ahd had
 iab ahdn and
@@ -7839,6 +7840,7 @@ iab exmplain explain
 iab exmple example
 iab exmsaple example
 iab expaceted expected
+iab expadning expanding
 iab expain explain
 iab expaing explain
 iab expalin explain
@@ -8364,6 +8366,7 @@ iab framewokrs frameworks
 iab framewoork framework
 iab framewrokrs frameworks
 iab framwoekr framework
+iab framwork framework
 iab framworks frameworks
 iab framwwork framework
 iab frankyly frankly
@@ -8421,6 +8424,7 @@ iab frined friend
 iab frinendship friendship
 iab frist first
 iab frlm from
+iab frmaework framework
 iab frnech french
 iab frnotend frontend
 iab froce force
@@ -8976,6 +8980,7 @@ iab hiepfuylly hopefully
 iab hieracrchy hierarchy
 iab hierarcy hierarchy
 iab higest hugest
+iab highlght highlight
 iab highlgighetdd highlighted
 iab highlguth highlight
 iab highlighing highlighting
@@ -9464,6 +9469,7 @@ iab implemneted implemented
 iab implemneting implementing
 iab implemntation implementation
 iab implemtation implementation
+iab implemtenetgd implemented
 iab implenent implement
 iab implicityl implicitly
 iab implict implicit
@@ -12278,6 +12284,7 @@ iab operoating operating
 iab opersistance persistence
 iab operspective perspective
 iab opetaering operating
+iab opetions options
 iab opetrarating operating
 iab opewr opener
 iab opical optical
