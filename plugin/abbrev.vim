@@ -152,6 +152,7 @@ iab Atch Arch
 iab Atempt Attempt
 iab Atetention Attention
 iab Atlast Atlas
+iab Atlthoguh Although
 iab Atmoic Atomic
 iab Attachbed Attached
 iab Attacheed Attached
@@ -3263,6 +3264,7 @@ iab atributes attributes
 iab atributess attributes
 iab atrributes attributes
 iab attachc attach
+iab attachec attached
 iab attachement attachment
 iab attachements attachments
 iab attacments attachments
@@ -7858,6 +7860,7 @@ iab expercises exercises
 iab expereicneing experiencing
 iab expereinced experienced
 iab experet expert
+iab experiece experience
 iab experiecing experiencing
 iab experiecnes experiences
 iab experiecnews experiences
@@ -10365,6 +10368,7 @@ iab knolwledge knowledge
 iab knoriw know
 iab knotes notes
 iab knowldge knowledge
+iab knowledgew knowledge
 iab knowlege knowledge
 iab knowlesdg3e knowledge
 iab knowlesdge knowledge
