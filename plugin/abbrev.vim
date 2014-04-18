@@ -234,6 +234,7 @@ iab CHanges Changes
 iab CHeck Check
 iab CHecking Checking
 iab CHildren Children
+iab CHirs Chris
 iab CHris Chris
 iab CHristianity Christianity
 iab CHristiopher Christopher
@@ -405,6 +406,7 @@ iab Cpontinually Continually
 iab Creats Creates
 iab Crhis Chris
 iab Crhisropiher Christopher
+iab Crhris Chris
 iab Crights Christ
 iab Cuirrently Currently
 iab Cultaured Cultured
@@ -1082,6 +1084,7 @@ iab NOtice Notice
 iab NOtihng Nothing
 iab NOtni9ng Nothing
 iab NOtning Nothing
+iab NOvi Novi
 iab NOw Now
 iab NUmber Number
 iab Naturalloy Naturally
@@ -1393,6 +1396,7 @@ iab Ryna Ryan
 iab Rythem Rhythm
 iab SAtyrdasy Saturday
 iab SAvely Safely
+iab SCHris Chris
 iab SCience Science
 iab SCreaming Screaming
 iab SCrum Scrum
@@ -8144,6 +8148,7 @@ iab featuyre feature
 iab featyures features
 iab feawture feature
 iab feawtures features
+iab feeback feedback
 iab feedbadck feedback
 iab feeel feel
 iab feeleing feeling
@@ -8280,6 +8285,7 @@ iab firnd friend
 iab firndss friends
 iab firnge fringe
 iab firset first
+iab firt fit
 iab firzst first
 iab fishort short
 iab fisniehd finished
@@ -8927,6 +8933,7 @@ iab hcild child
 iab hcip chip
 iab hcnage change
 iab hcooose choose
+iab hcris chris
 iab hdml html
 iab hdtml html
 iab headest headset
@@ -9850,6 +9857,7 @@ iab inpressing impressing
 iab inpspiration inspiration
 iab inpuyt input
 iab inpyt input
+iab inrested interested
 iab inrldgbluy incredibly
 iab inrterval interval
 iab insaert insert
@@ -10108,6 +10116,7 @@ iab invidisdual individual
 iab invilving involving
 iab inviolved involved
 iab inviolves involves
+iab inviolving involving
 iab invislbe invisible
 iab invitiing inviting
 iab invkoking invoking
@@ -10630,6 +10639,7 @@ iab learnes learns
 iab learnign learning
 iab learnws learns
 iab learther leather
+iab learzn learn
 iab leasder leader
 iab leasdtg least
 iab leasvfe leave
@@ -12379,6 +12389,7 @@ iab oproper proper
 iab oproperluy properly
 iab oproportioning proportioning
 iab oprts ports
+iab opsoition position
 iab opssible possible
 iab opther other
 iab optiizgin optimizing
@@ -12940,6 +12951,7 @@ iab perspectacity perspicacity
 iab perspectime perspective
 iab perspon person
 iab perston person
+iab persue pursue
 iab persuing pursuing
 iab pessessing possessing
 iab peview preview
@@ -13175,6 +13187,7 @@ iab poistioned positioned
 iab poistions positions
 iab poistionsd positions
 iab poistionss positions
+iab poistiosn position
 iab poistiosnas positions
 iab poistiosns positions
 iab poistisons positions
@@ -13807,6 +13820,7 @@ iab psated pasted
 iab psent spent
 iab psiostions positions
 iab psiostiosns positions
+iab psitison position
 iab psoible possible
 iab psoiiotsions positions
 iab psoiostiosn positions
@@ -13917,6 +13931,7 @@ iab qmount amount
 iab qmy my
 iab qork work
 iab qould could
+iab qquickly quickly
 iab qquiet quiet
 iab qquite quite
 iab qquotes quotes
@@ -14044,6 +14059,7 @@ iab razied raised
 iab rbeself oneself
 iab rcompletely completely
 iab rcomputer computer
+iab reaceivec received
 iab reacently recently
 iab reacreate recreate
 iab reacrtive reactive
