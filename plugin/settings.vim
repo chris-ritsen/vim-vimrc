@@ -20,6 +20,7 @@ set history=10000
 set hlsearch
 set ignorecase
 set incsearch
+set iskeyword-=_
 set laststatus=0
 set linebreak
 set listchars=eol:$,tab:>-,trail:~ ",extends:>,precedes:<
