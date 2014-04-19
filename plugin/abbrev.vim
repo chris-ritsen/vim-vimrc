@@ -2396,11 +2396,8 @@ iab adssociated associated
 iab adtivitiyes activities
 iab adueince audience
 iab aduio audio
-<<<<<<< HEAD
-iab advacned advanced
-=======
 iab adujusting adjusting
->>>>>>> 8e13e2f161974282bf07333785fd9979f169805a
+iab advacned advanced
 iab advancted advanced
 iab advangagtes advantages
 iab advangate advantage
