@@ -109,6 +109,7 @@ iab Anyh Ankh
 iab Anyinthin Anything
 iab Anyithgk Anything
 iab Anyqway Anyway
+iab Anytbing Anything
 iab Anythony Anthony
 iab Anytihngi Anything
 iab Anywqy Anyway
@@ -460,6 +461,7 @@ iab Desription Description
 iab Destrohy Destroy
 iab Desulrtrory Desultory
 iab Detatching Detaching
+iab Detorit Detroit
 iab Developmenet Development
 iab Devember December
 iab Devisingh Devising
@@ -982,6 +984,7 @@ iab Loondon London
 iab Luagh Laugh
 iab Lumnch Lunch
 iab Luncbh Lunch
+iab Lunux Linux
 iab Lwet Let
 iab MCruelly Cruelly
 iab MIchael Michael
@@ -1328,7 +1331,10 @@ iab REvolution Revolution
 iab REwwriting Rewriting
 iab RIght Right
 iab RIstne Ritsen
+iab RItnse Ritsen
 iab RItsen Ritsen
+iab RItsn Ritsen
+iab RItsne Ritsen
 iab RNage Range
 iab RObert Robert
 iab ROlling Rolling
@@ -1375,8 +1381,11 @@ iab Riber River
 iab Richeard Richard
 iab Righ Right
 iab Ristne Ritsen
+iab Ritnsen Ritsen
 iab Ritsen4 Ritsen
 iab Ritsne Ritsen
+iab Ritsnee Ritsen
+iab Ritsnen Ritsen
 iab Rnadom Random
 iab Rnage Range
 iab Roayal Royal
@@ -1391,7 +1400,9 @@ iab Rsitsdne Ritsen
 iab Rsitsne Ritsen
 iab Rsnick Resnick
 iab Rsponding Responding
+iab Rtisen Ritsen
 iab Rtisne Ritsen
+iab Rtisnen Ritsen
 iab Ruight Right
 iab Rutheless Ruthless
 iab Rvival Rival
@@ -2036,6 +2047,10 @@ iab abuility ability
 iab abvailble available
 iab abvoe above
 iab aby by
+iab acadaembic academic
+iab academncic academic
+iab acadmemci academic
+iab acamcemic academic
 iab acampagins campaigns
 iab acan can
 iab acar car
@@ -2174,6 +2189,7 @@ iab acdtion action
 iab acdtivation activation
 iab acdtivities activities
 iab acdtually actually
+iab aceadmeic academic
 iab acetaminiphen acetaminophen
 iab acetaminpehn acetaminophen
 iab acetaminpen acetaminophen
@@ -2319,6 +2335,7 @@ iab acutlaised actualised
 iab acutlaluy actually
 iab acvisable advisable
 iab acvoid avoid
+iab adademic academic
 iab adain again
 iab adaparin aspirin
 iab adaptaions adaptations
@@ -2777,11 +2794,13 @@ iab anthibgng anything
 iab anthign anything
 iab anthigng anything
 iab anthing anything
+iab anthitng anything
 iab anthnng anything
 iab anthoether another
 iab anthother another
 iab anthying anything
 iab anthynng anything
+iab anthyring anything
 iab antining anything
 iab antipciapting anticipating
 iab antiyng anything
@@ -2851,6 +2870,7 @@ iab anythinb anything
 iab anythiong anything
 iab anythnign anything
 iab anythrign anything
+iab anytign anything
 iab anytihign anything
 iab anytihng anything
 iab anyting anything
@@ -4229,6 +4249,7 @@ iab cannonical canonical
 iab caopitalise capitalise
 iab capabilityh capability
 iab capabillty capability
+iab capabple capable
 iab capabyity capability
 iab capaicty capacity
 iab capanbiliteis capabilities
@@ -4383,6 +4404,7 @@ iab challeenges challenges
 iab challegned challenged
 iab challendges challenges
 iab challengding challenging
+iab challengeing challenging
 iab champber chamber
 iab champiionships championships
 iab champitions champions
@@ -4892,6 +4914,7 @@ iab compaany company
 iab compaghyn company
 iab compahy company
 iab compahyu company
+iab compaly company
 iab compamy company
 iab companhuyies companies
 iab companhy company
@@ -5459,6 +5482,7 @@ iab copboards cupboards
 iab coplete complete
 iab copmalct compact
 iab copmany company
+iab copmay company
 iab copmcact compact
 iab copmetency competency
 iab copmeting competing
@@ -5938,6 +5962,7 @@ iab delivred delivered
 iab delivredred delivered
 iab deltee delete
 iab deltet delete
+iab delveiopment development
 iab delvepoermnet development
 iab delvier deliver
 iab delviered delivered
@@ -6228,6 +6253,7 @@ iab dierction direction
 iab dierctories directories
 iab dierctory directory
 iab dieseses diereses
+iab diesng design
 iab diferent different
 iab diffciyglty difficulty
 iab diffectne different
@@ -6840,6 +6866,7 @@ iab eaosnable reasonable
 iab eapplealing appealing
 iab earbn earn
 iab earch each
+iab eare are
 iab earilier earlier
 iab earklpier earlier
 iab earleier earlier
@@ -8607,6 +8634,7 @@ iab furtehr further
 iab furtherr further
 iab furthger further
 iab furtther further
+iab furtuerh further
 iab furtune fortune
 iab furtyer further
 iab furutehr further
@@ -9457,6 +9485,7 @@ iab illgoically illogically
 iab illiad iliad
 iab illminated illuminated
 iab ilvonved involved
+iab ilvonvign involving
 iab im0portant important
 iab imagedsa images
 iab imageery imagery
@@ -9543,6 +9572,7 @@ iab implementaiton implementation
 iab implementated implemented
 iab implementating implementation
 iab implementatioh implementation
+iab implemetaiton implementation
 iab implemetation implementation
 iab implemetnation implementation
 iab implemmentations implementations
@@ -9553,6 +9583,7 @@ iab implemneting implementing
 iab implemntation implementation
 iab implemtation implementation
 iab implemtenetgd implemented
+iab implenenation implementation
 iab implenent implement
 iab implicityl implicitly
 iab implict implicit
@@ -10152,6 +10183,7 @@ iab involes insoles
 iab involunetary involuntary
 iab involuntarely involuntarily
 iab involvef involve
+iab involvign involving
 iab invompetent incompetent
 iab invomves involves
 iab invoolved involved
@@ -10836,9 +10868,11 @@ iab littl little
 iab littlb little
 iab littleb little
 iab livews lives
+iab livign living
 iab livin living
 iab livingt living
 iab livnig living
+iab livoign living
 iab lkeaving leaving
 iab lkely likely
 iab lkike like
@@ -10973,6 +11007,7 @@ iab luyandry laundry
 iab lveo love
 iab lvie live
 iab lvies lives
+iab lviign living
 iab lvoe love
 iab lwer lower
 iab lyandry laundry
@@ -12248,6 +12283,7 @@ iab oconsousness consciousness
 iab oconstreuctor constructor
 iab ocould could
 iab ocpmaliablity compatibility
+iab ocpmay company
 iab ocpmotuer computer
 iab oculd could
 iab ocurring occurring
@@ -13216,13 +13252,16 @@ iab poiont point
 iab poisined poisoned
 iab poisioned poisoned
 iab poisiostions positions
+iab poisiotiosn positions
 iab poisiotsions positions
 iab poisitions positions
+iab poisitiosn positions
 iab poisitiosns positions
 iab poisitoions positions
 iab poisitoiosns positions
 iab poisiton position
 iab poisitona position
+iab poisitons positions
 iab poisitooins positions
 iab poisitosinos positions
 iab poisitosions positions
@@ -13290,6 +13329,8 @@ iab posesses possesses
 iab posessing possessing
 iab posiblble possible
 iab posible possible
+iab posiiotiosn positions
+iab posiitions positions
 iab posiling spoiling
 iab posined poisoned
 iab posiostions positions
@@ -13300,6 +13341,7 @@ iab posiotnio position
 iab posiotsions positions
 iab posisble possible
 iab posisblity possibility
+iab posisitosi positions
 iab posislbe possible
 iab posistions positions
 iab positgiosn positions
@@ -13311,9 +13353,11 @@ iab positiong positioning
 iab positiongin positioning
 iab positionss positions
 iab positiosions positions
+iab positiosn positions
 iab positiosns positions
 iab positiosnws positions
 iab positoin position
+iab positoisn positions
 iab positon position
 iab positosions positions
 iab positsionds positions
@@ -13356,6 +13400,7 @@ iab posssible possible
 iab postiion position
 iab postiions positions
 iab postioions positions
+iab postioiosn positions
 iab postion position
 iab postione position
 iab postions positions
@@ -13556,6 +13601,7 @@ iab preventingh preventing
 iab preventted prevented
 iab previals prevails
 iab previes preview
+iab previolusy previously
 iab previosu previous
 iab previosuly previously
 iab previoulsy previously
@@ -13827,6 +13873,7 @@ iab protecdt protect
 iab protectes protects
 iab protet protect
 iab protext protect
+iab protgrmamign programming
 iab protheses prostheses
 iab protien protein
 iab protions protons
@@ -13880,9 +13927,11 @@ iab psoisiotnss positions
 iab psoisiotsins positions
 iab psoitions positions
 iab psoitiosions positions
+iab psoitiosn positions
 iab psoitiosns positions
 iab psoitisons positions
 iab psoitnin positing
+iab psoitsions positions
 iab psorst sports
 iab psosbile possible
 iab psosbily possibly
@@ -14102,6 +14151,7 @@ iab rapidograph rapidograph
 iab rapidogrpah rapidograph
 iab raprely rarely
 iab rareified rarefied
+iab rarley rarley
 iab rased raised
 iab rasied raised
 iab rathewr rather
@@ -14340,6 +14390,7 @@ iab regardlessl regardless
 iab regardlkess regardless
 iab regardlless regardless
 iab regardlyess regardless
+iab regareds regards
 iab regars regards
 iab regeister register
 iab regeiter register
@@ -14765,6 +14816,7 @@ iab restrictiojns restrictions
 iab restricxted restricted
 iab restrivted restricted
 iab restrookm restroom
+iab resuem resume
 iab resuest request
 iab resuqested requested
 iab resutl result
@@ -14812,7 +14864,9 @@ iab reuqiure require
 iab reuquest request
 iab reuquired required
 iab reuquirements requirements
+iab reusem resume
 iab reuslts results
+iab reusme resume
 iab reustlt result
 iab reutnr return
 iab reutrn return
@@ -14853,6 +14907,7 @@ iab rewiveiwng reviewing
 iab rewquest request
 iab rewqvienw rewoven
 iab rewsponsiblity responsibility
+iab rewsuem resume
 iab rewviivewing reviewing
 iab rewwriting rewriting
 iab rexample example
@@ -14985,7 +15040,9 @@ iab rreview review
 iab rright right
 iab rroad road
 iab rsee see
+iab rseume resume
 iab rsuaeme resume
+iab rsuem resume
 iab rsulting resulting
 iab rsume resume
 iab rtaking taking
@@ -15851,6 +15908,8 @@ iab softaer softer
 iab softare software
 iab softawre software
 iab softeaware software
+iab softewaare software
+iab softewae software
 iab softeware software
 iab softqare software
 iab softts sorts
@@ -18683,6 +18742,7 @@ iab wil will
 iab willc will
 iab wille will
 iab willh will
+iab willign willing
 iab williong willing
 iab wilpl will
 iab windo wind
@@ -18751,6 +18811,7 @@ iab wlal wall
 iab wlealthy wealthy
 iab wlecome welcome
 iab wlel well
+iab wlling willing
 iab wmy my
 iab wnader wander
 iab wnat want
