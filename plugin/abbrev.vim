@@ -405,6 +405,7 @@ iab Creats Creates
 iab Crhis Chris
 iab Crhisropiher Christopher
 iab Crights Christ
+iab Critsn Ritsen
 iab Cuirrently Currently
 iab Cultaured Cultured
 iab Currenlty Currently
@@ -427,6 +428,7 @@ iab DOing Doing
 iab DOn Don
 iab DOne Done
 iab DOnna Donna
+iab DRive Drive
 iab DRiving Driving
 iab DRussell Russell
 iab DSuddenly Suddenly
@@ -1365,6 +1367,7 @@ iab Riber River
 iab Richeard Richard
 iab Righ Right
 iab Ristne Ritsen
+iab Ritsen4 Ritsen
 iab Ritsne Ritsen
 iab Rnadom Random
 iab Rnage Range
@@ -1822,6 +1825,7 @@ iab Wehenver Whenever
 iab Wehn When
 iab Weiting Waiting
 iab Welecome Welcome
+iab Wellinton Wellington
 iab Werite Write
 iab Wgere Where
 iab Whas What
@@ -2379,6 +2383,7 @@ iab adssociated associated
 iab adtivitiyes activities
 iab adueince audience
 iab aduio audio
+iab advacned advanced
 iab advancted advanced
 iab advangagtes advantages
 iab advangate advantage
@@ -2584,6 +2589,7 @@ iab alternativce alternative
 iab alterted alerted
 iab altetrnative alternative
 iab altheltes athletes
+iab althoguh although
 iab althoguht although
 iab althoguth although
 iab althought although
@@ -5891,6 +5897,7 @@ iab delivred delivered
 iab delivredred delivered
 iab deltee delete
 iab deltet delete
+iab delvepoermnet development
 iab delvier deliver
 iab delviered delivered
 iab delviers delivers
@@ -8282,6 +8289,7 @@ iab foatehr father
 iab foatherless fatherless
 iab focer force
 iab focued focused
+iab focusisingg focusing
 iab focuus focus
 iab focux focus
 iab focuys focus
@@ -13351,6 +13359,7 @@ iab predicatesd predicates
 iab predispoistion predisposition
 iab preerably preferably
 iab preerences preferences
+iab preferece preference
 iab preferrable preferable
 iab preferrably preferably
 iab preffered preferred
@@ -13382,6 +13391,7 @@ iab preparationa preparation
 iab preparationn preparation
 iab prepareee prepare
 iab prepartation preparation
+iab preparted prepared
 iab preparting preparing
 iab preperation preparation
 iab preports reports
@@ -13594,6 +13604,7 @@ iab prograaaaxtination procrastination
 iab prograc4tionatin procrastination
 iab programatically programmatically
 iab programm program
+iab programmign programming
 iab programminh programming
 iab programmiung programming
 iab programmmign programming
@@ -13751,6 +13762,7 @@ iab psossibility possibility
 iab psossibiltiy possibility
 iab psossible possible
 iab psossibly possibly
+iab psostion position
 iab psostiosns positions
 iab psot post
 iab psoted posted
