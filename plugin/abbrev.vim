@@ -19395,3 +19395,10 @@ iab zooom zoom
 iab ztart start
 iab ztaships starships
 
+iab Karne Karen
+iab Pleasde Please
+iab exstra extra
+iab THansk Thanks
+iab Thaisnks Thanks
+iab Thnasnks Thanks
+iab Tbahnsks Thanks
