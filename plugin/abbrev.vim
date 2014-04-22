@@ -930,6 +930,7 @@ iab Jalapeno Jalapeños
 iab Jalapenos Jalapeños
 iab JavaSCript JavaScript
 iab JavaScipt JavaScript
+iab JavaScirpt JavaScript
 iab JavaScrit JavaScript
 iab Javacript Javascript
 iab JavasSCript JavaScript
@@ -3899,6 +3900,7 @@ iab beteween between
 iab betewen between
 iab betewwn between
 iab betr better
+iab betteer better
 iab betweeeen between
 iab betweeen between
 iab betweene between
@@ -5963,6 +5965,7 @@ iab deatails details
 iab deawl deal
 iab deawling dealing
 iab deawth death
+iab debeopment development
 iab debiug debug
 iab debuggin debugging
 iab decalare declare
@@ -6261,6 +6264,7 @@ iab devie device
 iab deviec device
 iab devieces devices
 iab deviecs devices
+iab devies devices
 iab devlekopment development
 iab devlelpers developers
 iab devleop develop
@@ -6938,6 +6942,7 @@ iab dvelopers developers
 iab dvelopment development
 iab dvevelope develop
 iab dvevlopers developers
+iab dvleopemnt development
 iab dvleopment development
 iab dwardfs dwarfs
 iab dwebugger debugger
@@ -8969,6 +8974,7 @@ iab graviy gravity
 iab grealty greatly
 iab greaster greater
 iab greatley greatly
+iab greawt great
 iab greeater greater
 iab greemn green
 iab gretest greatest
@@ -9328,6 +9334,7 @@ iab holeck holodeck
 iab holess holes
 iab homogenous homogeneous
 iab homwe home
+iab honeslty honestly
 iab honestlf honestly
 iab honly only
 iab honsesty honesty
