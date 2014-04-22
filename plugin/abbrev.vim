@@ -963,6 +963,7 @@ iab LaTex LaTeX
 iab Laborartory Laboratory
 iab Labpor Labor
 iab Lakcing Lacking
+iab Langueage Language
 iab Lasagana Lasagna
 iab Lasanage Lasagna
 iab Lasanga Lasagna
@@ -1932,6 +1933,7 @@ iab Wiriting Writing
 iab Wiritnighn Writing
 iab Wirte Write
 iab Withini Within
+iab Witht With
 iab Wjat What
 iab Wjy Why
 iab Wlemcome Welcome
@@ -2698,6 +2700,8 @@ iab alwayss always
 iab alwyas always
 iab alwys always
 iab amaerica america
+iab amaing amazing
+iab amamzing amazing
 iab amanged managed
 iab amanger manger
 iab amanu many
@@ -3727,6 +3731,7 @@ iab beauase because
 iab beaucse because
 iab beause beaus
 iab beause because
+iab beautifylly beautifully
 iab beautyfil beauty
 iab beavfsue because
 iab beaysue because
@@ -3818,6 +3823,7 @@ iab beigin begin
 iab beiginnings beginnings
 iab beign being
 iab beigns begins
+iab beiing being
 iab beijng being
 iab beilieve believe
 iab bein being
@@ -4369,6 +4375,7 @@ iab carew cares
 iab cariables variables
 iab carosel carousel
 iab carreer career
+iab carreis carries
 iab carrorts carrots
 iab carryiw carry
 iab cartetgories categories
@@ -4886,6 +4893,7 @@ iab com3e come
 iab comamnd command
 iab comand command
 iab comandeered commandeered
+iab comany company
 iab comapny company
 iab combiations combinations
 iab combinationsa combination
@@ -4922,6 +4930,7 @@ iab commaand command
 iab commamnds commands
 iab commant command
 iab commasnds commands
+iab commendary commentary
 iab commetawtor commentator
 iab comminicate communicate
 iab commited committed
@@ -5296,10 +5305,13 @@ iab connecdts connects
 iab connecetors connectors
 iab connecftion connection
 iab connecftions connections
+iab connecgs connects
 iab connecgted connected
 iab conneciting connecting
 iab conneciton connection
+iab connecteivity connectivity
 iab connectionn connection
+iab connectiosn connections
 iab connet connect
 iab conneting connecting
 iab connext connect
@@ -6218,6 +6230,7 @@ iab develope develop
 iab developement development
 iab developemnt development
 iab developemtn development
+iab developersin developers
 iab developmenet development
 iab developmente development
 iab developmetn development
@@ -7491,6 +7504,7 @@ iab entitiy entity
 iab entitties entities
 iab entrace entrance
 iab entrepenurial entrepreneurial
+iab entrepreuners entrepreneurs
 iab entriresd entries
 iab entusiiastic enthusiastic
 iab entyr entry
@@ -10864,6 +10878,7 @@ iab leeds leads
 iab leevel level
 iab leeveled leveled
 iab lefft left
+iab legaciyy legacy
 iab legandardy legendary
 iab legibilty legibility
 iab legiible legible
@@ -11074,6 +11089,7 @@ iab logn long
 iab logner longer
 iab lognn long
 iab lohical logical
+iab loieks likes
 iab loistem listen
 iab lokc lock
 iab loke like
@@ -11249,6 +11265,7 @@ iab managemnet management
 iab managesd managed
 iab managin managing
 iab managmeent management
+iab managmenet management
 iab managment management
 iab mananguer manager
 iab mandadoryt mandatory
@@ -11639,6 +11656,7 @@ iab miuch much
 iab miuscellaneus miscellaneous
 iab miuscles muscles
 iab mivoing moving
+iab mixede mixed
 iab miy my
 iab mjobile mobile
 iab mjor major
@@ -11668,6 +11686,7 @@ iab mlong long
 iab mmaazed amazed
 iab mmay may
 iab mmeloduy melody
+iab mmeloom memloom
 iab mmemory memory
 iab mmeory memory
 iab mmerge merge
@@ -12662,6 +12681,7 @@ iab orgaised organised
 iab organiasing organising
 iab organiso organise
 iab organixing organizing
+iab organizaed organized
 iab organizaiton organization
 iab organizef organized
 iab organizems organisms
@@ -12977,6 +12997,7 @@ iab passsionate passionate
 iab passw pass
 iab passwored password
 iab pasys pays
+iab patcheowkr patchwork
 iab patehtic pathetic
 iab pateneted patented
 iab patha path
@@ -13065,6 +13086,7 @@ iab peorson person
 iab peple people
 iab peplle people
 iab pepooooel people
+iab perasls pearls
 iab percaution precaution
 iab perccetion perception
 iab perceied perceived
@@ -13742,6 +13764,7 @@ iab presense presence
 iab presentaiton presentation
 iab presentationj presentation
 iab presentlable presentable
+iab preserrved preserved
 iab preservce preserve
 iab presetns presents
 iab preseve preserve
@@ -14135,6 +14158,7 @@ iab puerilie puerile
 iab pugin plugin
 iab punchign punching
 iab punctiation punctuation
+iab puncutuate punctuate
 iab pungching punching
 iab puraaase purchase
 iab purachases purchases
@@ -15582,6 +15606,7 @@ iab semicunductor semiconductor
 iab semicundutcot semiconductor
 iab semicuonductor semiconductor
 iab semidconductor semiconductor
+iab semilcolons semicolons
 iab semothing something
 iab sencarios scenarios
 iab sencence sentence
@@ -16213,6 +16238,7 @@ iab sortware software
 iab soruce source
 iab sosmeone someone
 iab sotfawtre software
+iab sotires stories
 iab sotopped stopped
 iab sotops stops
 iab sotp stop
@@ -16287,6 +16313,7 @@ iab speec speech
 iab speedf speed
 iab spefications specifications
 iab speficied specified
+iab speical special
 iab speling spelling
 iab spellcehck spellcheck
 iab spellcheckign spellchecking
@@ -16457,6 +16484,7 @@ iab stewp step
 iab stewps stops
 iab stfuf stuff
 iab stgill still
+iab stgnrehg strength
 iab sthat that
 iab sthe the
 iab sthem them
@@ -16484,6 +16512,7 @@ iab stimyuli stimuli
 iab stinrg string
 iab stiop stop
 iab stiorage storage
+iab stireies stories
 iab stirng string
 iab stiyle style
 iab stlye style
@@ -16496,6 +16525,8 @@ iab stnading standing
 iab stnencesn sentences
 iab stnenghting strengthening
 iab stnrage storage
+iab stnregbh strength
+iab stnreht strength
 iab stoarage storage
 iab stocastic stochastic
 iab stoel stole
@@ -16515,6 +16546,7 @@ iab storagew storage
 iab storave storage
 iab storeagae storage
 iab storeies stories
+iab storeis stories
 iab storign storing
 iab storiogn storing
 iab stotrage storage
@@ -16540,8 +16572,12 @@ iab streessing stressing
 iab streetl street
 iab strema stream
 iab stremas streams
+iab strendght strength
+iab strengh strength
 iab strenghening strengthening
+iab strenghrt strength
 iab strenght strength
+iab strenghten strengthen
 iab strenghtening strengthening
 iab strenghting strengthening
 iab strenghts strengths
@@ -16550,6 +16586,7 @@ iab strengthhening strengthening
 iab strengthhinening strengthening
 iab strengthing strengthening
 iab strenous strenuous
+iab strenth strength
 iab stressfeul stressful
 iab streteched stretched
 iab streteches stretches
@@ -16561,6 +16598,9 @@ iab stright straight
 iab striken stricken
 iab strkiing striking
 iab strkiking striking
+iab strnegh strength
+iab strneht strength
+iab strneth strength
 iab strogfing storing
 iab strrange strange
 iab strt start
@@ -17708,6 +17748,7 @@ iab todyan today
 iab todysa today
 iab toeay today
 iab toegehther together
+iab toegerther together
 iab toegether together
 iab toeghether together
 iab toehgrwisde otherwise
