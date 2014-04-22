@@ -19402,3 +19402,5 @@ iab THansk Thanks
 iab Thaisnks Thanks
 iab Thnasnks Thanks
 iab Tbahnsks Thanks
+iab exeternal external
+iab oepn open
