@@ -519,6 +519,7 @@ iab ELDGER LEDGER
 iab ENgine Engine
 iab ENgineering Engineering
 iab ENglish English
+iab ERitsen Ritsen
 iab ESee See
 iab ESessntially Essentially
 iab EVen Even
@@ -691,6 +692,7 @@ iab Follwoing Following
 iab Foloow Follow
 iab Folow Follow
 iab Forewward Foreword
+iab Fransiciso Fransisco
 iab Frequienetly Frequently
 iab Functoins Functions
 iab GBut But
@@ -1105,6 +1107,7 @@ iab Mornign Morning
 iab Mozardt Mozart
 iab MsacBook Macbook
 iab Myabe Maybe
+iab Myu My
 iab NAnother Another
 iab NExt Next
 iab NIce Nice
@@ -1961,6 +1964,7 @@ iab Wiritnighn Writing
 iab Wirte Write
 iab Withini Within
 iab Witht With
+iab Wjaht What
 iab Wjat What
 iab Wjy Why
 iab Wlemcome Welcome
@@ -5066,6 +5070,7 @@ iab compentsatie compensate
 iab compes comes
 iab competely completely
 iab compforable comfortable
+iab compforatsble comfortable
 iab compfortable comfortable
 iab compguers computers
 iab comphrenension comprehension
@@ -5946,6 +5951,7 @@ iab dauy day
 iab daydraem daydream
 iab dayh day
 iab daysdream daydream
+iab dayu day
 iab dayus days
 iab dbeing being
 iab dbenefit benefit
@@ -6867,6 +6873,7 @@ iab dr4ive drive
 iab dr8ink drink
 iab drafgon dragon
 iab dramwoatic dramatic
+iab drasitcally drastically
 iab drawinsgs drawings
 iab drawking drawing
 iab dreasm dreams
@@ -6911,6 +6918,7 @@ iab dsee see
 iab dsekt desk
 iab dselveopment development
 iab dsevies devices
+iab dsevleopment development
 iab dshould should
 iab dsidetracked sidetracked
 iab dsifferent different
@@ -6974,6 +6982,7 @@ iab dvelopers developers
 iab dvelopment development
 iab dvevelope develop
 iab dvevlopers developers
+iab dvleopment development
 iab dwardfs dwarfs
 iab dwebugger debugger
 iab dwith with
@@ -8623,6 +8632,7 @@ iab foutnain fountain
 iab foward forward
 iab foxus focus
 iab fpoint point
+iab fpor for
 iab fpr for
 iab fprefer prefer
 iab fqr5 far
@@ -9539,6 +9549,7 @@ iab hwcih which
 iab hwem when
 iab hwen when
 iab hwenver whenever
+iab hwere where
 iab hwhen when
 iab hwhtie white
 iab hwich which
@@ -10737,6 +10748,7 @@ iab knoweledge knowledge
 iab knowesdt knowest
 iab knowldge knowledge
 iab knowledgew knowledge
+iab knowledgfe knowledge
 iab knowlege knowledge
 iab knowlesdg3e knowledge
 iab knowlesdge knowledge
@@ -12515,6 +12527,7 @@ iab ocurring occurring
 iab oddysy odyssey 
 iab odecades decades
 iab odesn doesn
+iab odler older
 iab odll doll
 iab odoin doing
 iab oealrier earlier
@@ -12758,6 +12771,7 @@ iab oribt orbit
 iab oricingall original
 iab oridinary ordinary
 iab origainl original
+iab origanized organized
 iab oright right
 iab origianl original
 iab origianlly originally
@@ -12867,6 +12881,7 @@ iab ovenn oven
 iab ovennn oven
 iab overahul overhaul
 iab overalyed overplayed
+iab overhail overhaul
 iab overheasrs overhears
 iab overlyay overlay
 iab overrturend overturned
@@ -13737,6 +13752,7 @@ iab practiving practicing
 iab practivve practice
 iab practivvve practice
 iab practixse practise
+iab pradcticed practiced
 iab praditce practice
 iab pragmaic pragmatic
 iab pragmatisim pragmatism
@@ -13784,6 +13800,7 @@ iab predicatesd predicates
 iab predispoistion predisposition
 iab preerably preferably
 iab preerences preferences
+iab prefereannce preference
 iab preferece preference
 iab preferrable preferable
 iab preferrably preferably
@@ -14648,6 +14665,7 @@ iab refrigrerator refrigerator
 iab refrring referring
 iab refruns reruns
 iab refuilled refilled
+iab regaqrds regards
 iab regardlessl regardless
 iab regardlkess regardless
 iab regardlless regardless
@@ -16203,6 +16221,7 @@ iab softwaer software
 iab softwarew software
 iab softwarwe software
 iab softweare software
+iab softwrewa software
 iab sofware software
 iab sofwtare software
 iab sohhould should
@@ -16390,6 +16409,7 @@ iab speedf speed
 iab spefications specifications
 iab speficied specified
 iab speical special
+iab speicdifilaly specifically
 iab speling spelling
 iab spellcehck spellcheck
 iab spellcheckign spellchecking
@@ -17165,6 +17185,7 @@ iab techinque technique
 iab techinuqes techniques
 iab techiquyes techniques
 iab techniclogy technology
+iab techniolgoies technologies
 iab techniolgy technology
 iab techniollgy technology
 iab techniq technique
@@ -17176,6 +17197,7 @@ iab technizue technique
 iab technlogy technology
 iab technoclogy technology
 iab technolgies technologies
+iab technolgoies technologies
 iab technolgoy technology
 iab technolhogy technology
 iab technollgies technologies
@@ -17609,6 +17631,7 @@ iab thlusands thousands
 iab thmub thumb
 iab thmumb thumb
 iab thmumx thumb
+iab thne then
 iab thnink think
 iab thnk think
 iab thnking thinking
