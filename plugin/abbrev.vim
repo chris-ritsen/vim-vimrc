@@ -511,6 +511,7 @@ iab ELDGER LEDGER
 iab ENgine Engine
 iab ENgineering Engineering
 iab ENglish English
+iab ERitsen Ritsen
 iab ESee See
 iab ESessntially Essentially
 iab EVen Even
@@ -680,6 +681,7 @@ iab Follwoing Following
 iab Foloow Follow
 iab Folow Follow
 iab Forewward Foreword
+iab Fransiciso Fransisco
 iab Frequienetly Frequently
 iab Functoins Functions
 iab GBut But
@@ -944,6 +946,7 @@ iab KNowign Knowing
 iab KNowing Knowing
 iab KNowledge Knowledge
 iab KRoger Kroger
+iab Karne Karen
 iab KeyErorr KeyError
 iab Kinecdt Kinect
 iab Klonkike Klondike
@@ -1082,6 +1085,7 @@ iab Mornign Morning
 iab Mozardt Mozart
 iab MsacBook Macbook
 iab Myabe Maybe
+iab Myu My
 iab NAnother Another
 iab NExt Next
 iab NIce Nice
@@ -1248,6 +1252,7 @@ iab PlaySTation PlayStation
 iab PlayStaiton PlayStation
 iab Playform Platform
 iab Playlisdt Playlist
+iab Pleasde Please
 iab Plusing Pulsing
 iab Poeople People
 iab Poeple People
@@ -1620,6 +1625,7 @@ iab TExt Text
 iab TGhere There
 iab THank Thank
 iab THanks Thanks
+iab THansk Thanks
 iab THat That
 iab THe The
 iab THeft Theft
@@ -1666,6 +1672,7 @@ iab Tahsnk Thanks
 iab Tallking Talking
 iab Talluying Tallying
 iab Targetting Targeting
+iab Tbahnsks Thanks
 iab Tbanks Thanks
 iab Tben Then
 iab Tbhis This
@@ -1696,6 +1703,7 @@ iab Tgey They
 iab Tghis This
 iab Tgus This
 iab Thainsk Thanks
+iab Thaisnks Thanks
 iab Thaisnsk Thanks
 iab Thanksd Thanks
 iab Thansk Thanks
@@ -1732,6 +1740,7 @@ iab Thiss This
 iab Thius This
 iab Thiz This
 iab Thje The
+iab Thnasnks Thanks
 iab Thoguth Thought
 iab Thois This
 iab Thomoas Thomas
@@ -1921,6 +1930,7 @@ iab Wiriting Writing
 iab Wiritnighn Writing
 iab Wirte Write
 iab Withini Within
+iab Wjaht What
 iab Wjat What
 iab Wjy Why
 iab Wlemcome Welcome
@@ -5002,6 +5012,7 @@ iab compentsatie compensate
 iab compes comes
 iab competely completely
 iab compforable comfortable
+iab compforatsble comfortable
 iab compfortable comfortable
 iab compguers computers
 iab comphrenension comprehension
@@ -5875,6 +5886,7 @@ iab dauy day
 iab daydraem daydream
 iab dayh day
 iab daysdream daydream
+iab dayu day
 iab dayus days
 iab dbeing being
 iab dbenefit benefit
@@ -6789,6 +6801,7 @@ iab dr4ive drive
 iab dr8ink drink
 iab drafgon dragon
 iab dramwoatic dramatic
+iab drasitcally drastically
 iab drawinsgs drawings
 iab drawking drawing
 iab dreasm dreams
@@ -6831,6 +6844,7 @@ iab dsearch search
 iab dsee see
 iab dsekt desk
 iab dselveopment development
+iab dsevleopment development
 iab dshould should
 iab dsidetracked sidetracked
 iab dsifferent different
@@ -6894,6 +6908,7 @@ iab dvelopers developers
 iab dvelopment development
 iab dvevelope develop
 iab dvevlopers developers
+iab dvleopment development
 iab dwardfs dwarfs
 iab dwebugger debugger
 iab dwith with
@@ -8125,6 +8140,7 @@ iab exrrcise exercise
 iab exsample example
 iab exsatly exactly
 iab exsmple example
+iab exstra extra
 iab exstract extract
 iab exstravagnetly extravagantly
 iab exta extra
@@ -8533,6 +8549,7 @@ iab foutnain fountain
 iab foward forward
 iab foxus focus
 iab fpoint point
+iab fpor for
 iab fpr for
 iab fprefer prefer
 iab fqr5 far
@@ -9444,6 +9461,7 @@ iab hwcih which
 iab hwem when
 iab hwen when
 iab hwenver whenever
+iab hwere where
 iab hwhen when
 iab hwhtie white
 iab hwich which
@@ -10628,6 +10646,7 @@ iab knotes notes
 iab knowesdt knowest
 iab knowldge knowledge
 iab knowledgew knowledge
+iab knowledgfe knowledge
 iab knowlege knowledge
 iab knowlesdg3e knowledge
 iab knowlesdge knowledge
@@ -12391,6 +12410,7 @@ iab ocurring occurring
 iab oddysy odyssey 
 iab odecades decades
 iab odesn doesn
+iab odler older
 iab odll doll
 iab odoin doing
 iab oealrier earlier
@@ -12629,6 +12649,7 @@ iab oribt orbit
 iab oricingall original
 iab oridinary ordinary
 iab origainl original
+iab origanized organized
 iab oright right
 iab origianl original
 iab origianlly originally
@@ -12735,6 +12756,7 @@ iab ovenn oven
 iab ovennn oven
 iab overahul overhaul
 iab overalyed overplayed
+iab overhail overhaul
 iab overheasrs overhears
 iab overlyay overlay
 iab overrturend overturned
@@ -13596,6 +13618,7 @@ iab practiving practicing
 iab practivve practice
 iab practivvve practice
 iab practixse practise
+iab pradcticed practiced
 iab praditce practice
 iab pragmaic pragmatic
 iab pragmatisim pragmatism
@@ -13640,6 +13663,7 @@ iab predicatesd predicates
 iab predispoistion predisposition
 iab preerably preferably
 iab preerences preferences
+iab prefereannce preference
 iab preferece preference
 iab preferrable preferable
 iab preferrably preferably
@@ -14497,6 +14521,7 @@ iab refrigrerator refrigerator
 iab refrring referring
 iab refruns reruns
 iab refuilled refilled
+iab regaqrds regards
 iab regardlessl regardless
 iab regardlkess regardless
 iab regardlless regardless
@@ -16040,6 +16065,7 @@ iab softwaer software
 iab softwarew software
 iab softwarwe software
 iab softweare software
+iab softwrewa software
 iab sofware software
 iab sofwtare software
 iab sohhould should
@@ -16224,6 +16250,7 @@ iab speec speech
 iab speedf speed
 iab spefications specifications
 iab speficied specified
+iab speicdifilaly specifically
 iab speling spelling
 iab spellcehck spellcheck
 iab spellcheckign spellchecking
@@ -16980,6 +17007,7 @@ iab techinque technique
 iab techinuqes techniques
 iab techiquyes techniques
 iab techniclogy technology
+iab techniolgoies technologies
 iab techniolgy technology
 iab techniollgy technology
 iab techniq technique
@@ -16991,6 +17019,7 @@ iab technizue technique
 iab technlogy technology
 iab technoclogy technology
 iab technolgies technologies
+iab technolgoies technologies
 iab technolgoy technology
 iab technolhogy technology
 iab technollgies technologies
@@ -17424,6 +17453,7 @@ iab thlusands thousands
 iab thmub thumb
 iab thmumb thumb
 iab thmumx thumb
+iab thne then
 iab thnink think
 iab thnk think
 iab thnking thinking
@@ -19394,33 +19424,3 @@ iab zooom zoom
 iab ztart start
 iab ztaships starships
 
-iab Karne Karen
-iab Pleasde Please
-iab exstra extra
-iab THansk Thanks
-iab Thaisnks Thanks
-iab Thnasnks Thanks
-iab Tbahnsks Thanks
-iab Wjaht What
-iab dayu day
-iab hwere where
-iab thne then
-iab technolgoies technologies
-iab prefereannce preference
-iab odler older
-iab ERitsen Ritsen
-iab techniolgoies technologies
-iab Fransiciso Fransisco
-iab regaqrds regards
-iab overhail overhaul
-iab drasitcally drastically
-iab fpor for
-iab origanized organized
-iab compforatsble comfortable
-iab Myu My
-iab dvleopment development
-iab softwrewa software
-iab knowledgfe knowledge
-iab pradcticed practiced
-iab speicdifilaly specifically
-iab dsevleopment development
