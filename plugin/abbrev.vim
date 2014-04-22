@@ -92,6 +92,7 @@ iab Alsll Also
 iab Alswo Also
 iab Altenreateively Alternatively
 iab Althoguh Although
+iab Althoguht Although
 iab Althought Although
 iab Althrough Although
 iab Amzzign Amazing
@@ -769,6 +770,7 @@ iab Henfdrix Hendrix
 iab Henfrix Hendrix
 iab Hewlet Hewlett
 iab Hhave Have
+iab Higggins Higgins
 iab Hilariopus Hilarious
 iab Hisa His
 iab Hisd His
@@ -944,6 +946,7 @@ iab KNowign Knowing
 iab KNowing Knowing
 iab KNowledge Knowledge
 iab KRoger Kroger
+iab Karne Karen
 iab KeyErorr KeyError
 iab Kinecdt Kinect
 iab Klonkike Klondike
@@ -996,6 +999,7 @@ iab Litened Listened
 iab Lniux Linux
 iab Lnks Links
 iab Londom London
+iab Looiking Looking
 iab Loondon London
 iab Luagh Laugh
 iab Lumnch Lunch
@@ -1248,6 +1252,7 @@ iab PlaySTation PlayStation
 iab PlayStaiton PlayStation
 iab Playform Platform
 iab Playlisdt Playlist
+iab Pleasde Please
 iab Plusing Pulsing
 iab Poeople People
 iab Poeple People
@@ -1620,6 +1625,7 @@ iab TExt Text
 iab TGhere There
 iab THank Thank
 iab THanks Thanks
+iab THansk Thanks
 iab THat That
 iab THe The
 iab THeft Theft
@@ -1666,6 +1672,7 @@ iab Tahsnk Thanks
 iab Tallking Talking
 iab Talluying Tallying
 iab Targetting Targeting
+iab Tbahnsks Thanks
 iab Tbanks Thanks
 iab Tben Then
 iab Tbhis This
@@ -1696,6 +1703,7 @@ iab Tgey They
 iab Tghis This
 iab Tgus This
 iab Thainsk Thanks
+iab Thaisnks Thanks
 iab Thaisnsk Thanks
 iab Thanksd Thanks
 iab Thansk Thanks
@@ -1732,6 +1740,7 @@ iab Thiss This
 iab Thius This
 iab Thiz This
 iab Thje The
+iab Thnasnks Thanks
 iab Thoguth Thought
 iab Thois This
 iab Thomoas Thomas
@@ -5018,6 +5027,7 @@ iab complemenatary complementary
 iab complementatry complementary
 iab complesx complex
 iab complet complete
+iab completedd completed
 iab completeing completing
 iab completeld completed
 iab completesly completely
@@ -6249,6 +6259,7 @@ iab devloper developer
 iab devlopers developers
 iab devloping developing
 iab devlopment development
+iab devlopo develop
 iab devlops develops
 iab devloved devolved
 iab devlpment development
@@ -6793,6 +6804,7 @@ iab drawinsgs drawings
 iab drawking drawing
 iab dreasm dreams
 iab dresearch research
+iab drian drain
 iab driectly directly
 iab driere drier
 iab driferer drifter
@@ -7968,6 +7980,7 @@ iab exersice exercise
 iab exerxiseing exercising
 iab exesrises exercises
 iab exetcises exercises
+iab exeternal external
 iab exetrcises exercises
 iab exfceedingly exceedingly
 iab exhamined examined
@@ -8125,6 +8138,7 @@ iab exrrcise exercise
 iab exsample example
 iab exsatly exactly
 iab exsmple example
+iab exstra extra
 iab exstract extract
 iab exstravagnetly extravagantly
 iab exta extra
@@ -8784,6 +8798,7 @@ iab gcomments comments
 iab geals goals
 iab geather gather
 iab geetting getting
+iab genearate generate
 iab genearlly generally
 iab geneeric generic
 iab geneitics genetics
@@ -10532,6 +10547,7 @@ iab kebyoard keyboard
 iab keein Kean
 iab keeing keeping
 iab keeop keep
+iab keepig keeping
 iab keepign keeping
 iab keepo keep
 iab keepung keeping
@@ -11817,6 +11833,9 @@ iab mreo more
 iab mrequests requests
 iab mro more
 iab mroe more
+iab mroening morning
+iab mrongig morning
+iab mrongin morning
 iab mronign morning
 iab mruderers murderers
 iab msall small
@@ -12402,6 +12421,7 @@ iab oelling selling
 iab oemthign something
 iab oemthithign something
 iab oens ones
+iab oepn open
 iab oepopel people
 iab oepratinog operating
 iab oer or
@@ -13435,6 +13455,7 @@ iab posessing possessing
 iab posiblble possible
 iab posible possible
 iab posiiotiosn positions
+iab posiition position
 iab posiitions positions
 iab posiling spoiling
 iab posined poisoned
@@ -13524,11 +13545,13 @@ iab potatoe potatoe
 iab potatto potato
 iab poteiontailly potentially
 iab poteiontial potential
+iab poteiontl potential
 iab potenail potential
 iab potenetially potentially
 iab potentaiolly potentially
 iab potentiually potentially
 iab potentual potential
+iab potieianl potential
 iab potioentooal potential
 iab poudn pound
 iab pouplar popular
@@ -14350,6 +14373,7 @@ iab reasrarch research
 iab reasson reason
 iab reast rest
 iab reate rate
+iab reather rather
 iab reauires requires
 iab reaul real
 iab reaward reward
@@ -16977,6 +17001,7 @@ iab teastes tastes
 iab teawms teams
 iab tecdt text
 iab tecgbikigy technology
+iab techincal technical
 iab techinque technique
 iab techinuqes techniques
 iab techiquyes techniques
@@ -18205,6 +18230,7 @@ iab unparallenled unparalleled
 iab unpredicable unpredictable
 iab unprepated unprepared
 iab unquaual unusual
+iab unrealisticlaly unrealistically
 iab unrecogniseable unrecognisable
 iab unregisterd unregistered
 iab unregistrerd unregistered
@@ -18235,6 +18261,7 @@ iab unyeilding unyielding
 iab uop up
 iab upate update
 iab updaated updated
+iab updaates updates
 iab updatg update
 iab upddates updates
 iab updlloaded uploaded
@@ -18246,6 +18273,7 @@ iab upgrad3 upgrade
 iab upgrad43 upgrade
 iab upgrae upgrade
 iab upgrdae upgrade
+iab upgright upright
 iab uplaoded uploaded
 iab upoin upon
 iab uproductive productive
@@ -19063,6 +19091,7 @@ iab wouild would
 iab woul would
 iab woulc would
 iab woulcd would
+iab wouldb would
 iab woulf would
 iab woulfd would
 iab woulod would
@@ -19395,12 +19424,3 @@ iab zooom zoom
 iab ztart start
 iab ztaships starships
 
-iab Karne Karen
-iab Pleasde Please
-iab exstra extra
-iab THansk Thanks
-iab Thaisnks Thanks
-iab Thnasnks Thanks
-iab Tbahnsks Thanks
-iab exeternal external
-iab oepn open
