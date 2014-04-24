@@ -248,6 +248,7 @@ iab CHristiopher Christopher
 iab CHristopjher Christopher
 iab CHrmoium Chromium
 iab CHrome Chrome
+iab CHrtis Chris
 iab CLothes Clothes
 iab CLoud Cloud
 iab CONSTANTLy CONSTANTLY
@@ -737,6 +738,7 @@ iab Guidlines Guidelines
 iab Guuild Guild
 iab Guven Given
 iab HCineexe Chinese
+iab HCirs Chris
 iab HEre Here
 iab HIgh High
 iab HIghlander Highlander
@@ -2175,6 +2177,7 @@ iab accelearated accelerated
 iab accellerated accelerated
 iab accelrate accelerate
 iab accepetd accepted
+iab accepeted accepted
 iab acceprtable acceptable
 iab acces access
 iab accesible accessible
@@ -8424,6 +8427,7 @@ iab eyhtrm system
 iab eyletrocnics electronics
 iab eyour your
 iab eys eyes
+iab eystedray yesterday
 iab eysterady yesterday
 iab eysterday yesterday
 iab eysterdsay yesterday
@@ -19687,6 +19691,7 @@ iab yearsl years
 iab yearts years
 iab yeasdterday yesterday
 iab yeasr years
+iab yeasterdasy yesterday
 iab yeasterday yesterday
 iab yeat yet
 iab yeawr year
