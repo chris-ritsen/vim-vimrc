@@ -1374,6 +1374,7 @@ iab REgardleess Regardless
 iab REgardless Regardless
 iab REgister Register
 iab RElated Related
+iab RElationships Relationships
 iab RElativitiy Relativity
 iab REleated Related
 iab REmember Remember
@@ -1432,6 +1433,7 @@ iab Reember Remember
 iab Referneces References
 iab Refrences References
 iab Regeret Regret
+iab Relatiopnsshiops Relationships
 iab Remakrable Remarkable
 iab Remeber Remember
 iab Remebmerr Remember
@@ -3731,7 +3733,7 @@ iab balckented blackened
 iab balnaket blanket
 iab balrey barley
 iab balswance balance
-iab balue blue
+iab balue value
 iab bananaa banana
 iab banasds bananas
 iab bandwtith bandwidth
@@ -4001,6 +4003,7 @@ iab bgest best
 iab bgood good
 iab bgrab grab
 iab biarual binaural
+iab bicondiotional biconditional
 iab bidngins bindings
 iab bidnign binding
 iab bieng being
@@ -4071,7 +4074,7 @@ iab bluss bliss
 iab bluye blue
 iab blyetooth bluetooth
 iab blynt blunt
-iab blyue blue
+iab blyue value
 iab bne be
 iab bneed need
 iab bneing being
@@ -5291,6 +5294,7 @@ iab condiction condition
 iab condisidering considering
 iab conditaions conditions
 iab conditinoning conditioning
+iab conditioanl conditional
 iab conditiona condition
 iab conditiosn conditions
 iab conditon condition
@@ -5395,6 +5399,7 @@ iab conneciton connection
 iab connecteivity connectivity
 iab connectionn connection
 iab connectiosn connections
+iab connedtion connection
 iab connet connect
 iab conneting connecting
 iab connext connect
@@ -5529,6 +5534,7 @@ iab contditioning conditioning
 iab contecdt context
 iab contecxts contexts
 iab contenbt content
+iab conteninget contingent
 iab contenst contest
 iab contente content
 iab contentes contents
@@ -5543,13 +5549,16 @@ iab contibnue continue
 iab contidiotns conditions 
 iab contiditonsa conditions 
 iab contidtion condition
+iab contignet contingent
 iab contiitons conditions
 iab contin8ue continue
 iab contineu continue
 iab continous continuous
 iab continously continuously
+iab contintgent contingent
 iab contintions conditions
 iab continueed continued
+iab continugetnt contingent
 iab continuiously continuously
 iab continuiysly continuously
 iab continuoally continually
@@ -5590,6 +5599,9 @@ iab contracfting contracting
 iab contracition contraction
 iab contracry contrary
 iab contractoin contraction
+iab contradivtion contradiction
+iab contraduction contradiction
+iab contraduiction contradiction
 iab contrain constrain
 iab contraining constraining
 iab contrains constraints
@@ -5600,6 +5612,7 @@ iab contrect concrete
 iab contrecte concrete
 iab contributs contributes
 iab contridict contradict
+iab contridiction contradiction
 iab contridictory contradictory
 iab contrl control
 iab contro control
@@ -7170,6 +7183,7 @@ iab ecpert expert
 iab ecpetations expectations
 iab ecplained explained
 iab ectremly extremely
+iab ecvaluates evaluates
 iab ecvept except
 iab ecxat exact
 iab ecxcellenet excellent
@@ -8067,6 +8081,7 @@ iab ewverything everything
 iab exaclt exactly
 iab exacltly exactly
 iab exaclty exactly
+iab exaclyt exactly
 iab exactl exactly
 iab exactlyy exactly
 iab exagegeration exaggeration
@@ -8689,8 +8704,11 @@ iab follwoign following
 iab follwos follows
 iab foloating floating
 iab foloow follow
+iab folrmula formula
+iab fomlrula formula
 iab fomrat format
 iab fomrs forms
+iab fomrula formula
 iab fonncetion connection
 iab fonsistently consistently
 iab foolows follows
@@ -8719,6 +8737,7 @@ iab forht forth
 iab formhlate formulate
 iab formiong forming
 iab formosts foremost
+iab formual formula
 iab formulat formulate
 iab formwards forwards
 iab formwat format
@@ -8895,6 +8914,7 @@ iab functdiosn functions
 iab functiaonl functional
 iab functino function
 iab functioN function
+iab functioanl functional
 iab functionab functional
 iab functionalbity functionality
 iab functionaluity functionality
@@ -11269,6 +11289,7 @@ iab localstoerage localStorage
 iab localstorage localStorage
 iab locationsl locations
 iab locatiopn location
+iab locgic logic
 iab locical logical
 iab locically logically
 iab locsation location
@@ -11621,6 +11642,7 @@ iab meetin meeting
 iab meetnig meeting
 iab megabyes megabytes
 iab mehtod method
+iab mehtods methods
 iab melee mêlée
 iab meloncholy melancholy
 iab memberts members
@@ -13939,6 +13961,7 @@ iab preciceley precisely
 iab precicely precisely
 iab precicesly precisely
 iab preciecely precisely
+iab preciely precisely
 iab preciosion precision
 iab preciscely precisely
 iab precison precision
@@ -13994,6 +14017,7 @@ iab prepration preparation
 iab presaentaiont presentation
 iab prescece presence
 iab prescence presence
+iab prescisley precisely
 iab presense presence
 iab presentaiton presentation
 iab presentationj presentation
@@ -14275,6 +14299,7 @@ iab propelry properly
 iab properlty properly
 iab properuly properly
 iab propery properly
+iab propisoitional propositional
 iab propjedts projects
 iab proplery properly
 iab propmpts prompts
@@ -14282,6 +14307,7 @@ iab propmt prompt
 iab propmtps prompts
 iab propoerly properly
 iab proportiionate proportionate
+iab propositioanl propositional
 iab propriertary proprietary
 iab proprietart proprietary
 iab proprotion proportion
@@ -15600,6 +15626,9 @@ iab satisfacftion satisfaction
 iab satisfaciton satisfaction
 iab satisfcation satisfaction
 iab satisgying satisfying
+iab satisifable satisfiable
+iab satisifiable3 satisfiable
+iab satisifieable satisfiable
 iab satisyfing satisfying
 iab satrtes starts
 iab saturdsay saturday
@@ -17316,6 +17345,7 @@ iab tatment statement
 iab tatoo tattoo
 iab tatus status
 iab taughht taught
+iab tautologyu tautology
 iab tawk task
 iab tbeing being
 iab tbest best
@@ -17588,6 +17618,7 @@ iab tfurther further
 iab tgat that
 iab tge the
 iab tgec the
+iab tgeh the
 iab tgerrible terrible
 iab tget get
 iab tgets gets
@@ -18315,6 +18346,8 @@ iab ttowards towards
 iab ttwo two
 iab ttypes types
 iab tuaght taught
+iab tuaotology tautology
+iab tuatology tautology
 iab tubew tubes
 iab tubge tube
 iab tueday tuesday
@@ -18329,6 +18362,7 @@ iab turened turned
 iab turjed turned
 iab turly truly
 iab turst trust
+iab turth truth
 iab tuseday tuesday
 iab tuture future
 iab tuyping typing
@@ -18775,7 +18809,9 @@ iab validatino validation
 iab validatiopn validation
 iab valualbe valuable
 iab valueable valuable
+iab valueation valuation
 iab valuefs values
+iab valuesa values
 iab valuid valid
 iab valuue value
 iab valuye value
@@ -19114,6 +19150,7 @@ iab weveryone everyone
 iab weverything everything
 iab weverywhere everywhere
 iab wevsite website
+iab wexacly exactly
 iab wexpecfted expected
 iab wexperience experience
 iab wexplores explores
