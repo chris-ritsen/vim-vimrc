@@ -1086,7 +1086,11 @@ iab Meetign Meeting
 iab Metephor Metaphor
 iab Mhommad Mohammad
 iab Micehvois Mischevious
+iab Michaael Michael
+iab Michale Michael
 iab Michevious Mischievous
+iab Michgael Michael
+iab Michiael Michael
 iab Michigna Michigan
 iab Microfoft Microsoft
 iab Microsfoft Microsoft
@@ -8407,6 +8411,7 @@ iab eyour your
 iab eys eyes
 iab eysterady yesterday
 iab eysterday yesterday
+iab eysterdsay yesterday
 iab eysterdyay yesterday
 iab eyt yet
 iab eyye eye
@@ -19678,6 +19683,7 @@ iab yesterdeay yesterday
 iab yesterdfsay yesterday
 iab yesterdsady yesterday
 iab yesterdsay yesterday
+iab yesterdsya yesterday
 iab yesterdyay yesterday
 iab yesterfday yesterday
 iab yestersdya yesterday
