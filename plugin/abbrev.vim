@@ -5138,6 +5138,7 @@ iab complaing complain
 iab complaingin complaining
 iab complanu company
 iab complciated complicated
+iab compleete complete
 iab compleitng completing
 iab complemenatary complementary
 iab complementatry complementary
@@ -6179,6 +6180,7 @@ iab delivredred delivered
 iab deltee delete
 iab deltet delete
 iab delveiopment development
+iab delveopmetn development
 iab delvepoermnet development
 iab delvier deliver
 iab delviered delivered
@@ -6836,6 +6838,7 @@ iab dleicate delicate
 iab dleievered delivered
 iab dleiverable deliverable
 iab dlete delete
+iab dleveopment development
 iab dlievered delivered
 iab dlike like
 iab dmake make
@@ -7064,6 +7067,7 @@ iab dveelpment development
 iab dveloper developer
 iab dvelopers developers
 iab dvelopment development
+iab dvelpment development
 iab dvevelope develop
 iab dvevlopers developers
 iab dvleopemnt development
@@ -12213,6 +12217,7 @@ iab mytholigies mythologies
 iab mytt mutt
 iab myu my
 iab myusefl myself
+iab myuself myself
 iab myutation mutation
 iab myxelf myself
 iab myy my
@@ -19876,8 +19881,3 @@ iab zooom zoom
 iab ztart start
 iab ztaships starships
 
-iab compleete complete
-iab dvelpment development
-iab delveopmetn development
-iab dleveopment development
-iab myuself myself
