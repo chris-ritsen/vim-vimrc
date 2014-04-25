@@ -41,7 +41,9 @@ iab ARe Are
 iab ARlgiht Alright
 iab ARray Array
 iab ATtaached Attached
+iab ATtacdhed Attached
 iab ATtached Attached
+iab ATtachedk Attached
 iab ATtention Attention
 iab ATtribute Attribute
 iab AVerage Average
@@ -160,8 +162,12 @@ iab Atetention Attention
 iab Atlast Atlas
 iab Atlthoguh Although
 iab Atmoic Atomic
+iab Attacdhed Attached
 iab Attachbed Attached
+iab Attachedd Attached
 iab Attacheed Attached
+iab Attadched Attached
+iab Attasched Attached
 iab Attentioh Attention
 iab Auguest August
 iab Austraillia Australia
@@ -1410,6 +1416,7 @@ iab REviews Reviews
 iab REvolution Revolution
 iab REwwriting Rewriting
 iab RIght Right
+iab RIsne Ritsen
 iab RIstne Ritsen
 iab RItnse Ritsen
 iab RItsen Ritsen
@@ -1698,6 +1705,7 @@ iab THink Think
 iab THird Third
 iab THis This
 iab THne Then
+iab THnkas Thanks
 iab THoguht Thought
 iab THoguhts Thoughts
 iab THoguth Thought
@@ -2129,6 +2137,7 @@ iab abrubtly abruptly
 iab absolte absolute
 iab absolteuyly absolutely
 iab absolteyly absolutely
+iab absoltueley absolutely
 iab absoltuely absolutely
 iab absoltutely absolutely
 iab absoltyely absolutely
@@ -2169,6 +2178,7 @@ iab acccessible accessible
 iab accciplsiehd accomplished
 iab acccording according
 iab acccounts accounts
+iab acccpeted accepted
 iab accdiuentally accidentally
 iab accecring affecting
 iab acceessed accessed
@@ -3477,14 +3487,17 @@ iab atribute attribute
 iab atributes attributes
 iab atributess attributes
 iab atrributes attributes
+iab attacdhed attached
 iab attachc attach
 iab attachec attached
 iab attachement attachment
 iab attachements attachments
 iab attacments attachments
+iab attadched attached
 iab attahcmenet attachment
 iab attainted attained
 iab attaioned attained
+iab attascdhed attached
 iab attatchement attachment
 iab atteiont attention
 iab attemp attempt
@@ -10395,6 +10408,7 @@ iab interesacting interacting
 iab intereseting interesting
 iab interesitng interesting
 iab intereste interest
+iab interestedd interested
 iab interestes interests
 iab interestesing interesting
 iab interestesting interesting
@@ -13791,6 +13805,7 @@ iab positiosions positions
 iab positiosn positions
 iab positiosns positions
 iab positiosnws positions
+iab positison position
 iab positoin position
 iab positoisn positions
 iab positon position
@@ -14749,6 +14764,7 @@ iab recird record
 iab recirdign recording
 iab recitre recite
 iab reclently recently
+iab recnelty recently
 iab recnent recent
 iab recnernt recent
 iab recoerd record
@@ -16743,6 +16759,7 @@ iab statrt start
 iab statyus status
 iab stawrt start
 iab stawrted started
+iab stayrtup startup
 iab stayu stay
 iab stchools schools
 iab steaddied steadied
