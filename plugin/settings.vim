@@ -34,7 +34,7 @@ set noerrorbells
 set nolazyredraw
 set nomodeline
 set nonumber
-set noruler 
+set noruler
 set noshowcmd
 set novisualbell
 set nowrap
@@ -44,7 +44,7 @@ set shiftwidth=2
 set shortmess=filmnwxstToOI
 set showmatch
 set showtabline=0
-set sidescroll=0
+set sidescroll=1
 set sidescrolloff=0
 set smartcase
 set softtabstop=2

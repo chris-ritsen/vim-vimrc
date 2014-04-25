@@ -82,9 +82,14 @@ vnoremap <silent> <Left> <Esc>:bp<CR>
 vnoremap <silent> gv :call VisualSearch('gv')<CR>
 vnoremap <up> <nop>
 
+nnoremap <silent> <C-h> 1zh
+nnoremap <silent> <C-l> 1zl
+
 if maparg('<C-L>', 'n') ==# ''
   nnoremap <silent> <C-L> :nohlsearch<CR><C-L>
 endif
+
+nnoremap <silent> <Leader>e :vsplit<bar>wincmd l<bar>exe "norm! Ljz<c-v><cr>"<cr>:set scb<cr>:wincmd h<cr> :set scb<cr>
 
 " inoremap <leader>r viwg?
 " inoremap <silent> <C-S-j> <cr><esc>:r !date -u +"\%Y-\%m-\%dT\%H:\%M:\%SZ"<CR>zt A — 
