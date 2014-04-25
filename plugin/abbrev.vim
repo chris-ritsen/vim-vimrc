@@ -19876,3 +19876,8 @@ iab zooom zoom
 iab ztart start
 iab ztaships starships
 
+iab compleete complete
+iab dvelpment development
+iab delveopmetn development
+iab dleveopment development
+iab myuself myself
