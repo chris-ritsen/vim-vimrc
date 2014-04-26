@@ -1,5 +1,8 @@
 
 let $GROFF_NO_SGR = 1
+let g:unite_source_rec_min_cache_files = 100
+let g:unite_source_rec_max_cache_files = 20000
+let g:unite_source_rec_unit = 2000
 let @/ = ""
 let MRU_Max_Entries = 400
 let NERDTreeHijackNetrw= 1

@@ -48,16 +48,28 @@ nnoremap K <nop>
 nnoremap Y y$
 noremap <2-LeftMouse> :execute 'normal gf'<cr>
 noremap <3-LeftMouse> zA<cr>
-noremap <C-j> <C-W>j<C-W>_
-noremap <C-k> <C-W>k<C-W>_
+" noremap <C-j> <C-W>j<C-W>_
+" noremap <C-k> <C-W>k<C-W>_
 noremap <RightMouse> 
 noremap <down> <nop>
-noremap <leader>b :CommandTBuffer<cr>
-noremap <leader>f :CommandTJump<cr>
+
+" noremap <leader>t :CommandT<cr>
+" noremap <leader>b :CommandTBuffer<cr>
+" noremap <leader>f :CommandTJump<cr>
+
+
+noremap <leader>b :<C-u>Unite -no-split -start-insert -buffer-name=buffer buffer<cr>
+noremap <leader>f :<C-u>Unite -no-split -start-insert -buffer-name=files file<cr>
+
+let g:unite_source_rec_max_cache_files = 0
+call unite#custom#source('file_rec,file_rec/async', 'max_candidates', 0)
+call unite#filters#matcher_default#use(['matcher_fuzzy'])
+
+noremap <leader>t :<C-u>Unite -no-split -start-insert -buffer-name=files file_rec/async:!<cr>
+
 noremap <leader>g :vimgrep // **/*.<left><left><left><left><left><left><left>
 noremap <leader>gf :e <cfile><cr>
 noremap <leader>m :MRU<CR>
-noremap <leader>t :CommandT<cr>
 noremap <leader>w <esc>:w!<cr>
 noremap <silent> <F2> :NERDTreeToggle<CR>
 noremap <silent> <F3> :TagbarToggle<CR>
@@ -82,9 +94,14 @@ vnoremap <silent> <Left> <Esc>:bp<CR>
 vnoremap <silent> gv :call VisualSearch('gv')<CR>
 vnoremap <up> <nop>
 
+nnoremap <silent> <C-h> 1zh
+nnoremap <silent> <C-l> 1zl
+
 if maparg('<C-L>', 'n') ==# ''
   nnoremap <silent> <C-L> :nohlsearch<CR><C-L>
 endif
+
+nnoremap <silent> <Leader>e :vsplit<bar>wincmd l<bar>exe "norm! Ljz<c-v><cr>"<cr>:set scb<cr>:wincmd h<cr> :set scb<cr>
 
 " inoremap <leader>r viwg?
 " inoremap <silent> <C-S-j> <cr><esc>:r !date -u +"\%Y-\%m-\%dT\%H:\%M:\%SZ"<CR>zt A — 

@@ -41,7 +41,9 @@ iab ARe Are
 iab ARlgiht Alright
 iab ARray Array
 iab ATtaached Attached
+iab ATtacdhed Attached
 iab ATtached Attached
+iab ATtachedk Attached
 iab ATtention Attention
 iab ATtribute Attribute
 iab AVerage Average
@@ -160,8 +162,12 @@ iab Atetention Attention
 iab Atlast Atlas
 iab Atlthoguh Although
 iab Atmoic Atomic
+iab Attacdhed Attached
 iab Attachbed Attached
+iab Attachedd Attached
 iab Attacheed Attached
+iab Attadched Attached
+iab Attasched Attached
 iab Attentioh Attention
 iab Auguest August
 iab Austraillia Australia
@@ -248,6 +254,7 @@ iab CHristiopher Christopher
 iab CHristopjher Christopher
 iab CHrmoium Chromium
 iab CHrome Chrome
+iab CHrtis Chris
 iab CLothes Clothes
 iab CLoud Cloud
 iab CONSTANTLy CONSTANTLY
@@ -742,6 +749,7 @@ iab Guidlines Guidelines
 iab Guuild Guild
 iab Guven Given
 iab HCineexe Chinese
+iab HCirs Chris
 iab HEre Here
 iab HIgh High
 iab HIghlander Highlander
@@ -1091,7 +1099,11 @@ iab Meetign Meeting
 iab Metephor Metaphor
 iab Mhommad Mohammad
 iab Micehvois Mischevious
+iab Michaael Michael
+iab Michale Michael
 iab Michevious Mischievous
+iab Michgael Michael
+iab Michiael Michael
 iab Michigna Michigan
 iab Microfoft Microsoft
 iab Microsfoft Microsoft
@@ -1409,6 +1421,7 @@ iab REviews Reviews
 iab REvolution Revolution
 iab REwwriting Rewriting
 iab RIght Right
+iab RIsne Ritsen
 iab RIstne Ritsen
 iab RItnse Ritsen
 iab RItsen Ritsen
@@ -1698,6 +1711,7 @@ iab THink Think
 iab THird Third
 iab THis This
 iab THne Then
+iab THnkas Thanks
 iab THoguht Thought
 iab THoguhts Thoughts
 iab THoguth Thought
@@ -2131,6 +2145,7 @@ iab abrubtly abruptly
 iab absolte absolute
 iab absolteuyly absolutely
 iab absolteyly absolutely
+iab absoltueley absolutely
 iab absoltuely absolutely
 iab absoltutely absolutely
 iab absoltyely absolutely
@@ -2171,6 +2186,7 @@ iab acccessible accessible
 iab accciplsiehd accomplished
 iab acccording according
 iab acccounts accounts
+iab acccpeted accepted
 iab accdiuentally accidentally
 iab accecring affecting
 iab acceessed accessed
@@ -2179,6 +2195,7 @@ iab accelearated accelerated
 iab accellerated accelerated
 iab accelrate accelerate
 iab accepetd accepted
+iab accepeted accepted
 iab acceprtable acceptable
 iab acces access
 iab accesible accessible
@@ -3478,15 +3495,18 @@ iab atribute attribute
 iab atributes attributes
 iab atributess attributes
 iab atrributes attributes
+iab attacdhed attached
 iab attacdhedd attached
 iab attachc attach
 iab attachec attached
 iab attachement attachment
 iab attachements attachments
 iab attacments attachments
+iab attadched attached
 iab attahcmenet attachment
 iab attainted attained
 iab attaioned attained
+iab attascdhed attached
 iab attatchement attachment
 iab atteiont attention
 iab attemp attempt
@@ -5127,6 +5147,7 @@ iab complaing complain
 iab complaingin complaining
 iab complanu company
 iab complciated complicated
+iab compleete complete
 iab compleitng completing
 iab complemenatary complementary
 iab complementatry complementary
@@ -6171,6 +6192,7 @@ iab delivredred delivered
 iab deltee delete
 iab deltet delete
 iab delveiopment development
+iab delveopmetn development
 iab delvepoermnet development
 iab delvier deliver
 iab delviered delivered
@@ -6828,6 +6850,7 @@ iab dleicate delicate
 iab dleievered delivered
 iab dleiverable deliverable
 iab dlete delete
+iab dleveopment development
 iab dlievered delivered
 iab dlike like
 iab dmake make
@@ -7057,6 +7080,7 @@ iab dveelpment development
 iab dveloper developer
 iab dvelopers developers
 iab dvelopment development
+iab dvelpment development
 iab dvevelope develop
 iab dvevlopers developers
 iab dvleopemnt development
@@ -7494,6 +7518,7 @@ iab emittted emitted
 iab emmorable memorable
 iab emmorization memorization
 iab emmory memory
+iab emnetioend mentioned
 iab emnployeed employed
 iab emoerge emerge
 iab emoment moment
@@ -8434,8 +8459,10 @@ iab eyhtrm system
 iab eyletrocnics electronics
 iab eyour your
 iab eys eyes
+iab eystedray yesterday
 iab eysterady yesterday
 iab eysterday yesterday
+iab eysterdsay yesterday
 iab eysterdyay yesterday
 iab eyt yet
 iab eyye eye
@@ -10402,6 +10429,7 @@ iab interesacting interacting
 iab intereseting interesting
 iab interesitng interesting
 iab intereste interest
+iab interestedd interested
 iab interestes interests
 iab interestesing interesting
 iab interestesting interesting
@@ -11654,6 +11682,9 @@ iab meetnig meeting
 iab megabyes megabytes
 iab mehtod method
 iab mehtods methods
+iab meionted mentioned
+iab meiontied mentioned
+iab meition mention
 iab melee mêlée
 iab meloncholy melancholy
 iab memberts members
@@ -11685,8 +11716,11 @@ iab menantuful meaningful
 iab menas means
 iab meneat meant
 iab mentawl mental
+iab menteion mention
 iab menteioned mentioned
 iab mentiniong mentioning
+iab mentioend mentioned
+iab mentiond mentioned
 iab mentionded mentioned
 iab mentioneing mentioning
 iab mentiouned mentioned
@@ -11697,6 +11731,7 @@ iab menyu menu
 iab meomories memories
 iab meomries memories
 iab meomry memory
+iab meonteiond mentioned
 iab meothdo method
 iab meothodsw methods
 iab mepmey money
@@ -11717,6 +11752,7 @@ iab metarial material
 iab metehodilogy methodology
 iab methadologiest methodologies
 iab meticoulously meticulously
+iab metiond mentioned
 iab metioned mentioned
 iab metioning mentioning
 iab metjhod method
@@ -12197,6 +12233,7 @@ iab mytholigies mythologies
 iab mytt mutt
 iab myu my
 iab myusefl myself
+iab myuself myself
 iab myutation mutation
 iab myxelf myself
 iab myy my
@@ -12929,6 +12966,7 @@ iab orgahnized organized
 iab orgainizing organizing
 iab orgaised organised
 iab organiasing organising
+iab organinigzing organizing
 iab organiso organise
 iab organixing organizing
 iab organizaed organized
@@ -13799,6 +13837,7 @@ iab positiosions positions
 iab positiosn positions
 iab positiosns positions
 iab positiosnws positions
+iab positison position
 iab positoin position
 iab positoisn positions
 iab positon position
@@ -14103,6 +14142,7 @@ iab priovoing proving
 iab pripherals peripherals
 iab prirotize prioritize
 iab prision prison
+iab pritn print
 iab priunciple principle
 iab prject project
 iab pro3tect protect
@@ -14761,6 +14801,7 @@ iab recird record
 iab recirdign recording
 iab recitre recite
 iab reclently recently
+iab recnelty recently
 iab recnent recent
 iab recnernt recent
 iab recoerd record
@@ -15064,6 +15105,7 @@ iab replacerd replaced
 iab replae replace
 iab replaement replacement
 iab replfection reflection
+iab replu reply
 iab repoistories repositories
 iab repond respond
 iab reporduced reproduced
@@ -16755,6 +16797,7 @@ iab statrt start
 iab statyus status
 iab stawrt start
 iab stawrted started
+iab stayrtup startup
 iab stayu stay
 iab stchools schools
 iab steaddied steadied
@@ -18213,6 +18256,7 @@ iab traist traits
 iab traiter traitor
 iab traithts traits
 iab trakc track
+iab trakcers trackers
 iab trakcing tracking
 iab trakcpad trackpad
 iab tralveling traveling
@@ -19714,6 +19758,7 @@ iab yearsl years
 iab yearts years
 iab yeasdterday yesterday
 iab yeasr years
+iab yeasterdasy yesterday
 iab yeasterday yesterday
 iab yeat yet
 iab yeawr year
@@ -19747,6 +19792,7 @@ iab yesterdeay yesterday
 iab yesterdfsay yesterday
 iab yesterdsady yesterday
 iab yesterdsay yesterday
+iab yesterdsya yesterday
 iab yesterdyay yesterday
 iab yesterfday yesterday
 iab yestersdya yesterday
