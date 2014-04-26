@@ -648,7 +648,11 @@ iab Exactluy Exactly
 iab Exampine Examine
 iab Exasmple Example
 iab Excaliber Excalibur
+iab Excgrusiating Excruciating
 iab Excherquer Exchequer
+iab Excrusiating Excruciating
+iab Excrusiationg Excruciating
+iab Excrutiating Excruciating
 iab Exhauyse Exhaust
 iab Existance Existence
 iab Expecation Expectation
@@ -671,6 +675,7 @@ iab FOcus Focus
 iab FOllow Follow
 iab FOr For
 iab FOrmatted Formatted
+iab FOrmulas Formulas
 iab FOrtunarely Fortunately
 iab FOrward Forward
 iab FOur Four
@@ -1678,6 +1683,7 @@ iab THe The
 iab THeft Theft
 iab THeme Theme
 iab THen Then
+iab THeorem Theorem
 iab THere There
 iab THerefore Therefore
 iab THerwe There
@@ -1696,6 +1702,7 @@ iab THoguht Thought
 iab THoguhts Thoughts
 iab THoguth Thought
 iab THose Those
+iab THougbh Though
 iab THough Though
 iab THree Three
 iab THroughout Throughout
@@ -2005,6 +2012,7 @@ iab Yedsterery Yesterday
 iab Yeha Yeah
 iab Yerdterday Yesterday
 iab Yesdgtarday Yesterday
+iab Yesterdaty Yesterday
 iab Yesterdrady Yesterday
 iab Yestersady Yesterday
 iab Yime Time
@@ -3470,6 +3478,7 @@ iab atribute attribute
 iab atributes attributes
 iab atributess attributes
 iab atrributes attributes
+iab attacdhedd attached
 iab attachc attach
 iab attachec attached
 iab attachement attachment
@@ -5592,8 +5601,10 @@ iab contoujnously continuously
 iab contracdt contract
 iab contracdtions contractions
 iab contracfting contracting
+iab contracidct contradict
 iab contracition contraction
 iab contracry contrary
+iab contractidoties contradictories
 iab contractoin contraction
 iab contradivtion contradiction
 iab contraduction contradiction
@@ -6128,6 +6139,7 @@ iab degbts debts
 iab degreaasted decreased
 iab deicided decided
 iab deicied deiced
+iab deifniatley definitely
 iab deisgn design
 iab deither either
 iab deivceis devices
@@ -6824,6 +6836,7 @@ iab dmemory memory
 iab dmeo demo
 iab dmeocractic democratic
 iab dmeonstrated demonstrated
+iab dministration administration
 iab dmoninent dominant
 iab dnever never
 iab dnevvver never
@@ -8097,6 +8110,7 @@ iab examsple example
 iab exanmples examples
 iab exapmle example
 iab exapmlle example
+iab exasclty exactly
 iab exasct exact
 iab exasctly exactly
 iab exasm exams
@@ -8743,6 +8757,7 @@ iab forntal frontal
 iab forntend frontend
 iab forsee foresee
 iab forumhlates formulates
+iab forumla formula
 iab foruth fourth
 iab forwardss forwards
 iab forwarsd forward
@@ -9691,6 +9706,7 @@ iab hwiel while
 iab hwill will
 iab hwizzzing whizzing
 iab hwne when
+iab hwnever whenever
 iab hwo how
 iab hwoevefer however
 iab hwoever however
@@ -12867,6 +12883,7 @@ iab opportinuty opportunity
 iab opportiunity opportunity
 iab opportuniies opportunities
 iab opportunuty opportunity
+iab oppposite opposite
 iab oppritunity opportunity
 iab oppurtunities opportunities
 iab opraring operating
@@ -13837,6 +13854,7 @@ iab postiosnis positions
 iab postiosno positions
 iab postiosns positions
 iab postiosonis positions
+iab posuitin position
 iab posuitoin position
 iab posution position
 iab posutiosnas positions
@@ -14301,8 +14319,11 @@ iab propmpts prompts
 iab propmt prompt
 iab propmtps prompts
 iab propoerly properly
+iab propoositional propositional
 iab proportiionate proportionate
 iab propositioanl propositional
+iab propplositional propositional
+iab proppsitional propositional
 iab propriertary proprietary
 iab proprietart proprietary
 iab proprotion proportion
@@ -18297,6 +18318,7 @@ iab trrying trying
 iab trty try
 iab trtying trying
 iab truch truck
+iab trugth truth
 iab trumpests trumpets
 iab trumphets trumpets
 iab trunch trunk
@@ -18342,7 +18364,9 @@ iab ttwo two
 iab ttypes types
 iab tuaght taught
 iab tuaotology tautology
+iab tuatoalogy tautology
 iab tuatology tautology
+iab tuatologyu tautology
 iab tubew tubes
 iab tubge tube
 iab tueday tuesday
@@ -18812,6 +18836,8 @@ iab valuue value
 iab valuye value
 iab valye value
 iab valyualbe valuable
+iab valyuations valuations
+iab valyue value
 iab varaibles variables
 iab varaition variation
 iab varations variations
@@ -18833,6 +18859,7 @@ iab vaucuuming vacuuming
 iab vauge vague
 iab vavoid avoid
 iab vbackground background
+iab vbaseed based
 iab vbiew view
 iab vbiolent violent
 iab vbision vision
@@ -18879,6 +18906,7 @@ iab vetearan veteran
 iab vety very
 iab vevn even
 iab vewry very
+iab vfalse false
 iab vhanged changed
 iab vhat what
 iab vibraritons vibrations
@@ -19188,6 +19216,7 @@ iab wheelled wheeled
 iab wheenver whenever
 iab wheere where
 iab whehn when
+iab whehnever whenever
 iab whehter whether
 iab whelel wheel
 iab wheleled wheeled
@@ -19196,11 +19225,13 @@ iab whendc when
 iab whene when
 iab whenefer whenever
 iab whenen when
+iab whenenver whenever
 iab wheneve whenever
 iab whenevfr whenever
 iab whenevr whenever
 iab whenewver whenever
 iab whenfver whenever
+iab whennever whenever
 iab whent when
 iab whenveer whenever
 iab whenver whenever
@@ -19223,6 +19254,7 @@ iab whetherh whether
 iab whetyher whether
 iab whewn when
 iab whewnever whenever
+iab whewnver whenever
 iab whewr where
 iab whewre where
 iab whewther whether
