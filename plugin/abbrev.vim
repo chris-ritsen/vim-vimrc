@@ -3723,6 +3723,7 @@ iab backewards backwards
 iab backfgroudn background
 iab backgorund background
 iab backgorundc background
+iab backgoruned background
 iab backgriohgn background
 iab backgriong background
 iab backgrliund background
@@ -3733,6 +3734,7 @@ iab backgrong background
 iab backgroudn background
 iab backgroujnd background
 iab backgrounbd background
+iab backjgorund background
 iab backpace backspace
 iab backrgrounds backgrounds
 iab backspaxe backspace
@@ -3748,9 +3750,11 @@ iab bae be
 iab baid bait
 iab bakc back
 iab bakcend backend
+iab bakcground background
 iab bakclight backlight
 iab bakend backend
 iab bakground background
+iab bakxcgourng background
 iab balaalance balance
 iab balasncing balancing
 iab balck black
@@ -16901,6 +16905,7 @@ iab storeies stories
 iab storeis stories
 iab storign storing
 iab storiogn storing
+iab storng strong
 iab stotrage storage
 iab stps steps
 iab straained strained
