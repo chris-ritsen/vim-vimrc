@@ -40,6 +40,7 @@ iab ARcitic Arctic
 iab ARe Are
 iab ARlgiht Alright
 iab ARray Array
+iab ASrbor Arbor
 iab ATtaached Attached
 iab ATtacdhed Attached
 iab ATtached Attached
@@ -1266,6 +1267,7 @@ iab PRoject Project
 iab PRojects Projects
 iab PUlling Pulling
 iab Pacckard Packard
+iab Packarx Packard
 iab Parenets Parents
 iab Parikinson Parkinson
 iab Particaipants Participants
@@ -1548,6 +1550,7 @@ iab SQuiggly Squiggly
 iab SSOmething Something
 iab SSQL SQL
 iab STPO STOP
+iab STandard Standard
 iab STart Start
 iab STarting Starting
 iab STates States
@@ -5458,6 +5461,7 @@ iab consideraytion consideration
 iab considerd consider
 iab consideried considered
 iab considerin considering
+iab consideringa considering
 iab considiering considering
 iab considre considser
 iab considreed considered
@@ -6187,6 +6191,7 @@ iab deliberatley deliberately
 iab delibery delivery
 iab delicous delicious
 iab delierverd delivered
+iab delieverd delivered
 iab delievered delivered
 iab delievred delivered
 iab deliocate delicate
@@ -6284,6 +6289,7 @@ iab deservign deserving
 iab desfribe describe
 iab desfribed described
 iab desicess decides
+iab desicions decisions
 iab designe designed
 iab designesd designed
 iab desingers designers
@@ -6767,6 +6773,7 @@ iab distaccted distracted
 iab distacdtion distraction
 iab distacted distracted
 iab distacti distract
+iab distainction distinction
 iab distancne distance
 iab distancrss distances
 iab distande distance
@@ -7122,6 +7129,7 @@ iab ealrier earlier
 iab ealruuer earlier
 iab ealruyer earlier
 iab ealry early
+iab ealryer earlier
 iab ealsiy easily
 iab eamail email
 iab eamcs emacs
@@ -7570,6 +7578,7 @@ iab emy my
 iab enacs emacs
 iab enalbed enabled
 iab encapuslates encapsulates
+iab encessary necessary
 iab encointered encountered
 iab encolsed enclosed
 iab encouaged encouraged
@@ -8166,6 +8175,7 @@ iab excell excel
 iab excellencing excellencies
 iab exceot except
 iab excercise exercise
+iab excexsive excessive
 iab exchagned exchanged
 iab exchaust exhaust
 iab exchausted exhausted
@@ -9374,6 +9384,7 @@ iab healwth health
 iab heapdohnes headphones
 iab heardrs headers
 iab heards hearts
+iab hearricut haricut
 iab hearsd heard
 iab heasd heads
 iab heasdhset headset
@@ -11210,6 +11221,7 @@ iab lifesignes lifesigns
 iab lifestlyels lifestyles
 iab lifitng lifting
 iab ligering lingering
+iab ligher lighter
 iab lightining lightning
 iab lightwight lightweight
 iab lightying lighting
@@ -12086,6 +12098,7 @@ iab monring morning
 iab monrning morning
 iab monther mother
 iab montioning motioning
+iab montiros monitors
 iab montsh months
 iab monye money
 iab mooment moment
@@ -12172,6 +12185,7 @@ iab msucnele muscle
 iab msuic music
 iab msut must
 iab msutashe mustache
+iab msyefl myself
 iab msyself myself
 iab mthe the
 iab mthem them
@@ -12926,6 +12940,7 @@ iab opportuniies opportunities
 iab opportunuty opportunity
 iab oppposite opposite
 iab oppritunity opportunity
+iab opprootunty opportunity
 iab oppurtunities opportunities
 iab opraring operating
 iab oprograms programs
@@ -13032,6 +13047,7 @@ iab ostrategies strategies
 iab ot to
 iab otday today
 iab otdayd today
+iab otdya today
 iab oteher other
 iab otehr other
 iab otehrs others
@@ -13386,6 +13402,7 @@ iab peplle people
 iab pepooooel people
 iab perasls pearls
 iab percaution precaution
+iab percautionary precautionary
 iab perccetion perception
 iab perceied perceived
 iab perceieve perceive
@@ -13433,6 +13450,7 @@ iab perfomred performed
 iab perfomring performing
 iab perforance performance
 iab performane performance
+iab performedd performed
 iab perfpheral peripheral
 iab perhiperhalls peripherals
 iab perhipherals peripherals
@@ -15046,6 +15064,7 @@ iab remever remember
 iab remiander remainder
 iab remiangin remaining
 iab remianing remaining
+iab remians remains
 iab remidners reminders
 iab remindsers reminders
 iab remindws reminds
@@ -15410,6 +15429,7 @@ iab revcord record
 iab reve3al reveal
 iab revealsed revealed
 iab reveaul reveal
+iab reveicve receive
 iab reveived received
 iab revenghe revenge
 iab revent recent
@@ -16088,6 +16108,7 @@ iab setnencing sentencing
 iab setnencning sentencing
 iab setnendnecing sentencing
 iab setnene sentence
+iab setps steps
 iab setteings settings
 iab settigns settings
 iab settimeout setTimeout
@@ -18261,6 +18282,7 @@ iab traist traits
 iab traiter traitor
 iab traithts traits
 iab trakc track
+iab trakcer tracker
 iab trakcers trackers
 iab trakcing tracking
 iab trakcpad trackpad
@@ -19387,6 +19409,7 @@ iab wietihin within
 iab wihcih which
 iab wihd wish
 iab wihich which
+iab wihndows windows
 iab wiht with
 iab wihthout without
 iab wihtin within
