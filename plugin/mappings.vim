@@ -97,9 +97,9 @@ vnoremap <up> <nop>
 nnoremap <silent> <C-h> 1zh
 nnoremap <silent> <C-l> 1zl
 
-if maparg('<C-L>', 'n') ==# ''
-  nnoremap <silent> <C-L> :nohlsearch<CR><C-L>
-endif
+" if maparg('<C-L>', 'n') ==# ''
+"   nnoremap <silent> <C-L> :nohlsearch<CR><C-L>
+" endif
 
 nnoremap <silent> <Leader>e :vsplit<bar>wincmd l<bar>exe "norm! Ljz<c-v><cr>"<cr>:set scb<cr>:wincmd h<cr> :set scb<cr>
 
