@@ -4806,6 +4806,7 @@ iab cleawlry clearly
 iab cleawlryh clearly
 iab cleawned cleaned
 iab cleawning cleaning
+iab cleawr clear
 iab clel cell
 iab clenaing cleaning
 iab clenaingg cleaning
@@ -5556,6 +5557,8 @@ iab consumingh consuming
 iab consuminmg consuming
 iab consumtion consumption
 iab consumung consuming
+iab contaier container
+iab contaierr container
 iab containeres containers
 iab containersa containers
 iab containsers containers 
@@ -16346,6 +16349,7 @@ iab siystem system
 iab siz six
 iab sizedf sized
 iab sizeth sixth
+iab sizig sizing
 iab sizsed sized
 iab sizties sixties
 iab sizty sixty
