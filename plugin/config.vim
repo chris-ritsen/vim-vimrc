@@ -1,8 +1,5 @@
 
 let $GROFF_NO_SGR = 1
-let g:unite_source_rec_min_cache_files = 100
-let g:unite_source_rec_max_cache_files = 20000
-let g:unite_source_rec_unit = 2000
 let @/ = ""
 let MRU_Max_Entries = 400
 let NERDTreeHijackNetrw= 1
@@ -88,6 +85,10 @@ let g:syntastic_mode_map = { 'mode': 'active', 'active_filetypes': ['lisp', 'php
 let g:tagbar_compact = 1
 let g:tagbar_width = 30
 let g:tex_flavor='latex'
+let g:unite_source_history_yank_enable = 1
+let g:unite_source_rec_max_cache_files = 20000
+let g:unite_source_rec_min_cache_files = 100
+let g:unite_source_rec_unit = 2000
 let g:vitality_always_assume_iterm = 0
 let g:vitality_fix_cursor = 1
 let g:vitality_fix_focus = 1
