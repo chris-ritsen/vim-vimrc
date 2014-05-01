@@ -3742,6 +3742,7 @@ iab backpace backspace
 iab backrgrounds backgrounds
 iab backspaxe backspace
 iab backwareds backwards
+iab backyp backup
 iab bacteteria bacteria
 iab bacvk back
 iab badck back
@@ -4388,6 +4389,7 @@ iab cahn can
 iab cahnce chance
 iab cahnge change
 iab cahnged changed
+iab cahnging changing
 iab cahnnel channel
 iab cahnnels channels
 iab cahracterised characterised
@@ -4590,6 +4592,7 @@ iab chagnesa changes
 iab chagngin changing
 iab chagning changing
 iab chaigng changing
+iab chainging changing
 iab challeenges challenges
 iab challegned challenged
 iab challendges challenges
@@ -4929,6 +4932,7 @@ iab cnanot cannot
 iab cnceived conceived
 iab cncerrn concern
 iab cnerter center
+iab cneter center
 iab cnetral central
 iab cnjugations conjugations
 iab cnosle console
@@ -5004,6 +5008,7 @@ iab collosal colossal
 iab collpases collapses
 iab colocoking clocking
 iab colone clone
+iab colosrs colors
 iab colro color
 iab coluomn column
 iab com3e come
@@ -5554,6 +5559,7 @@ iab consuing consuming
 iab consultiign consulting
 iab consultting consulting
 iab consumingh consuming
+iab consuminging consuming
 iab consuminmg consuming
 iab consumtion consumption
 iab consumung consuming
@@ -5662,6 +5668,7 @@ iab controllera controller
 iab controllerb controller
 iab controllinh controlling
 iab controversal controversial
+iab contrrols controls
 iab contrubute contribute
 iab contsnat constant
 iab contstraining constraining
@@ -6029,6 +6036,7 @@ iab dasys days
 iab databae database
 iab databasdes databases
 iab databasews databases
+iab databasswe database
 iab databdases databases
 iab databdindind databinding
 iab databsaae databases
@@ -7336,6 +7344,7 @@ iab efverythign everything
 iab efverything everything
 iab efverytthing everything
 iab efveyone everyone
+iab efw few
 iab egen even
 iab eglue glue
 iab ehalth health
@@ -8535,6 +8544,7 @@ iab fasiob fashion
 iab fasioh fashion
 iab fasioho fashion
 iab fasion fashion
+iab faste fast
 iab fatehr father
 iab fatigure fatigue
 iab fauth faith
@@ -8575,6 +8585,7 @@ iab feelt felt
 iab feesible feasible
 iab fefatuers features
 iab fefine define
+iab feils files
 iab feirfcely fiercely
 iab fele feel
 iab feleling feeling
@@ -8620,6 +8631,7 @@ iab fieels feels
 iab fiel file
 iab fielkd field
 iab fiels files
+iab fielz files
 iab fiferences differences
 iab fiftyu fifty
 iab figets fidgets
@@ -8633,6 +8645,7 @@ iab fihgts fights
 iab fijnished finished
 iab filded filed
 iab fileds fields
+iab filesa files
 iab filess files
 iab filetuype filetype
 iab filexs files
@@ -9367,6 +9380,7 @@ iab hcip chip
 iab hcnage change
 iab hcooose choose
 iab hcris chris
+iab hdiden hidden
 iab hdml html
 iab hdtml html
 iab headest headset
@@ -9458,6 +9472,7 @@ iab hgot got
 iab hhave have
 iab hhhas has
 iab hhighly highly
+iab hhjiden hidden
 iab hhour hour
 iab hhow how
 iab hiccupping hiccuping
@@ -9579,6 +9594,7 @@ iab hoopefully hopefully
 iab hooutsand thousand
 iab hopefpully hopefully
 iab hopefull hopefully
+iab hopefulluy hopefully
 iab hopefulyl hopefully
 iab hoppocamoous hippocampus
 iab hopythoseised hypothesised
@@ -9633,6 +9649,7 @@ iab hpythosised hypothesised
 iab hqve have
 iab hrad hard
 iab hraphic graphic
+iab hrtis this
 iab hruts hurts
 iab hsa has
 iab hsbinh using
@@ -9879,6 +9896,7 @@ iab illminated illuminated
 iab ilvonved involved
 iab ilvonvign involving
 iab im0portant important
+iab imageds images
 iab imagedsa images
 iab imageery imagery
 iab imageine imagine
@@ -10781,6 +10799,8 @@ iab javqscript javascript
 iab javqsipt javascript
 iab javscript javascript
 iab jbo job
+iab jcariousel jcarousel
+iab jcsarousel jcarousel
 iab jept kept
 iab jere here
 iab jetpaci jetpack
@@ -12161,6 +12181,7 @@ iab movime movie
 iab movmenet movement
 iab movment movement
 iab movments movements
+iab movved moved
 iab mowstly mostly
 iab moy my
 iab mpanic panic
@@ -12333,6 +12354,7 @@ iab nealry nearly
 iab nearluing pearling
 iab nearlyu nearly
 iab neaver never
+iab neawrly nearly
 iab necassary necessary
 iab neccessary necessary
 iab necedssary necessary
@@ -13117,10 +13139,12 @@ iab ov of
 iab ov3erturend overturned
 iab ovefr over
 iab ovejn oven
+iab ovelrfow overflow
 iab ovenn oven
 iab ovennn oven
 iab overahul overhaul
 iab overalyed overplayed
+iab overfow overflow
 iab overhail overhaul
 iab overheasrs overhears
 iab overlyay overlay
@@ -13194,6 +13218,7 @@ iab padid paid
 iab paerhapo perhaps
 iab paernts parents
 iab pageer pager
+iab pagionation pagination
 iab pagniation pagination
 iab pagpers pampers
 iab pahge page
@@ -13921,6 +13946,7 @@ iab postiosnis positions
 iab postiosno positions
 iab postiosns positions
 iab postiosonis positions
+iab postition position
 iab posuitin position
 iab posuitoin position
 iab posution position
@@ -15075,6 +15101,7 @@ iab remidners reminders
 iab remindsers reminders
 iab remindws reminds
 iab reminiscense reminiscence
+iab remlutoely remotely
 iab remmber remember
 iab remmeber remember
 iab remmebmer remember
@@ -15086,11 +15113,14 @@ iab remoaping remapping
 iab remoeving removing
 iab remomving removing
 iab remooval removal
+iab remoutely remotely
 iab removeable removable
 iab removec remove
 iab removeing removing
 iab removingin removing
 iab rempaping remapping
+iab remplately remotely
+iab rempotely remotely
 iab remvbever revolver
 iab remvoing removing
 iab rend4ered rendered
@@ -16193,6 +16223,7 @@ iab shofed shoved
 iab shofrtrtuct shortcut
 iab shohld should
 iab shoip ship
+iab shoiudl should
 iab shoiuld should
 iab shoiws shows
 iab sholew sholes
@@ -16254,6 +16285,7 @@ iab silennced silenced
 iab silhousetts silhouettes
 iab silmpy simply
 iab silocon silicon
+iab simeulatensously simultaneously
 iab similaryly similarly
 iab similation simulation
 iab similiar similar
@@ -16288,12 +16320,42 @@ iab simpy simply
 iab simpyl simply
 iab simualtion simulation
 iab simualtions simulations 
+iab simuatelnlusy simultaneously
 iab simuation simulation
+iab simulaneooyusly simultaneously
+iab simulataensouyly simultaneously
+iab simulataneiously simultaneously
+iab simulatanelously simultaneously
+iab simulataneously simultaneously
+iab simulateanously simultaneously
+iab simulateno7ylysy simultaneously
+iab simulatenoulsy simultaneously
+iab simulatenoyusly simultaneously
 iab simulationl simulation
+iab simulatnamseoysly simultaneously
+iab simulatneously simultaneously
+iab simulatneoysly simultaneously
+iab simulatnetioylys simultaneously
 iab simultaenously simultaneously
 iab simultanelously simultaneously
+iab simultanelsyly simultaneously
+iab simultaneosuly simultaneously
+iab simultaneosuyly simultaneously
+iab simultaneosyly simultaneously
+iab simultaneouslhy simultaneously
+iab simultaneouyslhy simultaneously
+iab simultaneouysliy simultaneously
+iab simultaneouysly simultaneously
+iab simultaneoysly simultaneously
+iab simultanesouly simultaneously
+iab simultanesouyly simultaneously
+iab simultanesoyl simultaneously
 iab simultaneus simultaneous
 iab simultanteotulsy simultaneously
+iab simulteansoyuly simultaneously
+iab simuyltaneosyly simultaneously
+iab simyltandously simultaneously
+iab simyltanesouyuly simultaneously
 iab sincd since
 iab sincde since
 iab sinfrequenlty infrequently
@@ -16338,6 +16400,7 @@ iab sittin sitting
 iab situaiotions situations
 iab situatioun situation
 iab situtations situations
+iab siumylatensoyly simultaneously
 iab sivee sieve
 iab siwthc switch
 iab sixm six
@@ -16431,6 +16494,7 @@ iab smelel smell
 iab smemiconcudtor semiconductor
 iab smething something
 iab smetohing something
+iab smimlyanelysly simultaneously
 iab smimulation simulation
 iab smistakes mistakes
 iab smithereans smithereens
@@ -17120,6 +17184,7 @@ iab suggesitng suggesting
 iab suggestioj suggestion
 iab suggggesting suggesting
 iab suibmitting submitting
+iab suimulateniuylsy simultaneously
 iab suitbile suitable
 iab suitiable suitable
 iab suitible suitable
@@ -17357,6 +17422,7 @@ iab sytax syntax
 iab sytay stay
 iab sytem system
 iab sytlye style
+iab sytmem system
 iab sytntax syntax
 iab sytsemes systems
 iab sytsme system
@@ -18182,6 +18248,7 @@ iab toinen token
 iab toingiht tonight
 iab toingith tonight
 iab toinight tonight
+iab toip top
 iab toixns toxins
 iab tokme token
 iab tokmenn token
@@ -18769,6 +18836,7 @@ iab uop up
 iab upate update
 iab updaated updated
 iab updaates updates
+iab updatesa updates
 iab updatg update
 iab updatse updates
 iab upddates updates
@@ -19190,6 +19258,7 @@ iab webi web
 iab webistes websites
 iab webscsokets websockets
 iab webserfver webserver
+iab websever webserver
 iab websswites websites
 iab webstie website
 iab websties websites
@@ -19954,31 +20023,3 @@ iab zooom zoom
 iab ztart start
 iab ztaships starships
 
-iab fielz files
-iab filesa files
-iab feils files
-iab websever webserver
-iab remplately remotely
-iab rempotely remotely
-iab remoutely remotely
-iab remlutoely remotely
-iab hrtis this
-iab consuminging consuming
-iab updatesa updates
-iab faste fast
-iab hopefulluy hopefully
-iab backyp backup
-iab shoiudl should
-iab databasswe database
-iab sytmem system
-iab overfow overflow
-iab ovelrfow overflow
-iab hhjiden hidden
-iab hdiden hidden
-iab postition position
-iab jcsarousel jcarousel
-iab jcariousel jcarousel
-iab contrrols controls
-iab pagionation pagination
-iab cneter center
-iab toip top
