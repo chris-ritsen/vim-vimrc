@@ -818,9 +818,11 @@ iab Hourk Hour
 iab Howeever However
 iab Howeover However
 iab Howevefr However
+iab Howevfer However
 iab Howlett Hewlett
 iab Howveer However
 iab Howver However
+iab Howver2 However
 iab Howvere However
 iab Hpasers Phasers
 iab Hpw How
@@ -1080,6 +1082,7 @@ iab Maintainaed Maintained
 iab Maintained Maintainer
 iab Mainteneance Maintenance
 iab Maintianed Maintained
+iab Maintinenance Maintenance
 iab Makreting Marketing
 iab Makrieting Marketing
 iab Mangetic Magnetic
@@ -1909,6 +1912,7 @@ iab Vitims Victims
 iab Voilenece Violence
 iab Vruce Bruce
 iab Vulnderable Vulnerable
+iab WAht What
 iab WAitign Waiting
 iab WAking Waking
 iab WEbseter Webster
@@ -2320,6 +2324,7 @@ iab acdtivation activation
 iab acdtivities activities
 iab acdtually actually
 iab aceadmeic academic
+iab acecess access
 iab acetaminiphen acetaminophen
 iab acetaminpehn acetaminophen
 iab acetaminpen acetaminophen
@@ -3080,6 +3085,7 @@ iab aparmtnent apartment
 iab aparmtnet apartment
 iab aparmtnets apartments
 iab aparmtntes apartments
+iab apartent apartment
 iab apartmen apartment
 iab apartmenet apartment
 iab apartmentes apartments
@@ -3973,6 +3979,7 @@ iab beraks breaks
 iab berause because
 iab berfore before
 iab berkas breaks
+iab bersion version
 iab bertween between
 iab bery very
 iab besaidies besides
@@ -6881,7 +6888,9 @@ iab dmake make
 iab dmeentia dementia
 iab dmemory memory
 iab dmeo demo
+iab dmeocdraphic demographic
 iab dmeocractic democratic
+iab dmeogrpahic demographic
 iab dmeonstrated demonstrated
 iab dministration administration
 iab dmoninent dominant
@@ -9192,6 +9201,7 @@ iab gorpup group
 iab gorund ground
 iab gorup group
 iab goruped grouped
+iab gorups groups
 iab gorwn grown
 iab gorwth growth
 iab gothink think
@@ -9231,6 +9241,7 @@ iab griowth growth
 iab grippuing gripping
 iab gronw grown
 iab gropu group
+iab gropup group
 iab groupo group
 iab growin growing
 iab grreatlhy greatly
@@ -12739,6 +12750,7 @@ iab occuring occurring
 iab occurrance occurrence
 iab ocde code
 iab ocdes codes
+iab ocer over
 iab ocffee coffee
 iab ocme come
 iab ocmeb come
@@ -13678,6 +13690,7 @@ iab plaain plain
 iab plaan plan
 iab plaayers players
 iab placce place
+iab placde place
 iab placehoder placeholder
 iab placememnt placement
 iab placewd placed
@@ -16187,6 +16200,7 @@ iab sgreat great
 iab sgtart start
 iab sguessing guessing
 iab shadowly shadowy
+iab shairing sharing
 iab shakingl shaking
 iab shappened happened
 iab shatered shattered
@@ -16441,6 +16455,7 @@ iab slect select
 iab slection selection
 iab sledction selection
 iab sleecft select
+iab sleect select
 iab sleected selected
 iab sleection selection
 iab sleections selections
@@ -17247,6 +17262,7 @@ iab surfvice survive
 iab surpfiginly surprisingly
 iab surpoerimopsed superimposed
 iab surporise surprise
+iab surpress suppress
 iab surprisae surprise
 iab surprisingl surprisingly
 iab surprisuingly surprisingly
@@ -19024,6 +19040,7 @@ iab veersions versions
 iab veeryday everyday
 iab vefifying verifying
 iab vefiified verified
+iab vefirosn version
 iab vehivcles vehicles
 iab veify verify
 iab velictity velocity
@@ -19032,14 +19049,19 @@ iab venefits benefits
 iab venetable vegetable
 iab verablly verbally
 iab verifiy verify
+iab verion version
 iab veriosn version
 iab verious various
 iab verision version
 iab verison version
+iab verisons versions
 iab verry very
 iab versino version
 iab versiona version
+iab versionds versions
+iab versionwr version
 iab versiosn version
+iab versiosn versions
 iab versitile versatile
 iab versoin version
 iab versuions versions
@@ -19051,6 +19073,7 @@ iab veru very
 iab veryone everyone
 iab verywhere everywhere
 iab vesrion version
+iab vesrions versions
 iab vetearan veteran
 iab vety very
 iab vevn even
@@ -19143,6 +19166,7 @@ iab vots votes
 iab vould would
 iab vovws vows
 iab vrazzy crazy
+iab vresions versions
 iab vriting writing
 iab vrsion version
 iab vverything everything
