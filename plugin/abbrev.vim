@@ -184,6 +184,7 @@ iab Ayter After
 iab BEcause Because
 iab BEfore Before
 iab BEing Being
+iab BLue Blue
 iab BNecause Because
 iab BOlleawn Boolean
 iab BOoks Books
@@ -196,6 +197,7 @@ iab Bacj Back
 iab Bacvk Back
 iab Bakc Back
 iab Baklawa Baklava
+iab Balck Black
 iab Baraack Barack
 iab Bascially Basically
 iab Bcaked Backed
@@ -353,6 +355,7 @@ iab Collegause Colleagues
 iab Comeplteyl Completely
 iab Comigng Coming
 iab Comitted Committed
+iab Compatability Compatibility
 iab Compesation Compensation
 iab Compoutesr Computers
 iab Comprompise Compromise
@@ -711,6 +714,7 @@ iab Folow Follow
 iab Forewward Foreword
 iab Fransiciso Fransisco
 iab Frequienetly Frequently
+iab Frozyen Frozen
 iab Functoins Functions
 iab GBut But
 iab GBy Gaby
@@ -744,6 +748,7 @@ iab Gprahics Graphics
 iab Grabitation Gravitation
 iab Grabity Gravity
 iab Gradident Gradient
+iab Greenes Greens
 iab Grpahics Graphics
 iab Guideliunes Guidelines
 iab Guidlines Guidelines
@@ -783,6 +788,7 @@ iab Hahq Haha
 iab Haibng Having
 iab Haing Having
 iab Hareware Hardware
+iab Harvewtst Harvest
 iab Haveing Having
 iab Haviging Having
 iab Havigng Having
@@ -943,7 +949,9 @@ iab Instlalling Installing
 iab Insude Inside
 iab Intead Instead
 iab Integeration Integration
+iab Intenet Internet
 iab Intenralise Internalise
+iab Intenrnet Internet
 iab Interaft Interact
 iab Interenet Internet
 iab Intetnet Internet
@@ -995,6 +1003,7 @@ iab KNowing Knowing
 iab KNowledge Knowledge
 iab KRoger Kroger
 iab Karne Karen
+iab Ketchupe Ketchup
 iab KeyErorr KeyError
 iab Kinecdt Kinect
 iab Klonkike Klondike
@@ -1244,6 +1253,7 @@ iab Optonal Optional
 iab Oragnizign Organizing
 iab Oralcle Oracle
 iab Orb9it Orbit
+iab Orderedd Ordered
 iab Orthodoc Orthodox
 iab Otherwide Otherwise
 iab Outiside Outside
@@ -1392,6 +1402,7 @@ iab REange Range
 iab REareuimernts Requirements
 iab REcall Recall
 iab REcently Recently
+iab REcieved Received
 iab REcompile Recompile
 iab REcords Records
 iab REcreate Recreate
@@ -1514,6 +1525,7 @@ iab Ruight Right
 iab Rutheless Ruthless
 iab Rvival Rival
 iab Ryna Ryan
+iab Ryoayl Royal
 iab Rythem Rhythm
 iab SAtyrdasy Saturday
 iab SAvely Safely
@@ -1555,6 +1567,7 @@ iab SOmetimes Sometimes
 iab SOrry Sorry
 iab SOuth South
 iab SPecialties Specialties
+iab SPrusce Spruce
 iab SQaure Square
 iab SQuiggly Squiggly
 iab SSOmething Something
@@ -1897,6 +1910,7 @@ iab Univiersity University
 iab Univsere Universe
 iab Unquestionalable Unquestionable
 iab Upgradign Upgrading
+iab Upgradingin Upgrading
 iab Usign Using
 iab Usin Using
 iab Usuallu Usually
@@ -2062,6 +2076,7 @@ iab aaaas as
 iab aaalimimgnet alignment
 iab aaamplitute amplitude
 iab aaask ask
+iab aable able
 iab aabout about
 iab aabove above
 iab aaction action
@@ -2902,6 +2917,7 @@ iab anmore anymore
 iab anmy any
 iab anmymore anymore
 iab annd and
+iab annoayncdes annoyances
 iab annoint anoint
 iab annonmous anonymous
 iab annooyed annoyed
@@ -4442,6 +4458,7 @@ iab camoflage camouflage
 iab campaighns campaigns
 iab campaigsn campaigns
 iab camreas cameras
+iab canb can
 iab cancelling canceling
 iab cancidate candidate
 iab candiate candidate
@@ -4573,6 +4590,7 @@ iab ceonsensus consensus
 iab cepressed depressed
 iab cerain certain
 iab ceratain certain
+iab cerate create
 iab ceratifadtions certifications
 iab ceratin certain
 iab cereation creation
@@ -4749,6 +4767,7 @@ iab chriopsthoer christopher
 iab chriosptoihper christopher
 iab christioher christopher
 iab christopner christoper
+iab chroem chrome
 iab chromicles chronicles
 iab chromicsles chronicles
 iab chronicleer chronicler
@@ -4959,6 +4978,7 @@ iab cnosle console
 iab cnosnle console
 iab cnosole console
 iab cnsider consider
+iab cnsole console
 iab coarbon carbon
 iab coce code
 iab cocern concern
@@ -5708,6 +5728,7 @@ iab conversatoin conversation
 iab conversatyions conversations
 iab conversitaont conversation
 iab converstion conversion
+iab convertes converts
 iab converup coverup
 iab convery convey
 iab convesation conversation
@@ -5961,6 +5982,7 @@ iab cscrolling scrolling
 iab cshift shift
 iab cslhtoes clothes
 iab csna can
+iab csonoele console
 iab csot cost
 iab ctasy crazy
 iab ctrieteria criteria
@@ -6515,6 +6537,7 @@ iab dfurtherst furthest
 iab dhave have
 iab dhcahnges changes
 iab dhcip chip
+iab dhownlaoed downloaded
 iab diable disable
 iab diaglntes diagnose
 iab diagnotese diagnose
@@ -7014,6 +7037,7 @@ iab downloadign downloading
 iab downoader downloader
 iab downoaoding downloading
 iab downoasd download
+iab downoload download
 iab downt down
 iab dpeendecey dependency
 iab dpeendecy dependency
@@ -8387,6 +8411,7 @@ iab experiece experience
 iab experiecing experiencing
 iab experiecnes experiences
 iab experiecnews experiences
+iab experieinc3e experience
 iab experieinces experiences
 iab experiemental experimental
 iab experiements experiments
@@ -8587,6 +8612,7 @@ iab faste fast
 iab fatehr father
 iab fatigure fatigue
 iab fauth faith
+iab faviroite favorite
 iab favoriat favorite
 iab fcocxused focused
 iab fcome come
@@ -8778,6 +8804,7 @@ iab flet felt
 iab flgith flight
 iab fliipped flipped
 iab fliying flying
+iab fllor floor
 iab fluctiations fluctuations
 iab fluctioation fluctuation
 iab fluctionations fluctuations
@@ -9909,6 +9936,7 @@ iab iexcept except
 iab ifinsihed finished
 iab ifles files
 iab ifmrmoaiotn information
+iab ifnreuyqlty infrequently
 iab ifnroawmtion information
 iab ifnromation information
 iab ifor for
@@ -10126,6 +10154,7 @@ iab incerdlcbly incredibly
 iab inceredible incredible
 iab incessently incessantly
 iab incfedfbly incredibly
+iab incfrequqenlty infrequently
 iab inciment inclement
 iab incivudal individual
 iab incldue include
@@ -10280,6 +10309,7 @@ iab infamllatory inflammatory
 iab infbovnvees involves
 iab infecteed infected
 iab inferier inferior
+iab inferqnuelty infrequently
 iab inffected infected
 iab infflcuenced influenced
 iab infidvusual individual
@@ -10311,9 +10341,31 @@ iab informatoinal informational
 iab informawtion information
 iab inframiootonal informational
 iab inframtoin information
+iab infrenqutluy infrequently
+iab infreqnllllyt infrequently
+iab infreqnnuelnty infrequently
+iab infreqnuelnty infrequently
+iab infreqnuenlty infrequently
+iab infreqnuently infrequently
+iab infreqnunetly infrequently
+iab infreqnunleyt infrequently
+iab infreqnutnenlty infrequently
+iab infreqnuynelty infrequently
+iab infreqnyutly infrequently
+iab infreqtnuenlty infrequently
+iab infreqtulently infrequently
+iab infreqtunely infrequently
+iab infrequenelty infrequently
+iab infrequenetly infrequently
+iab infrequenlty infrequently
 iab infrequennt infrequent
+iab infrequnetly infrequently
 iab infrerace interface
 iab infreuewnly infrequently
+iab infreuqnelty infrequently
+iab infreuqnlety infrequently
+iab infreuqnlty infrequently
+iab infreuqunelty infrequently
 iab infrmaotjn information
 iab infrmmatoin information
 iab infroaered infrared
@@ -10323,7 +10375,10 @@ iab infromation information
 iab infromational informational
 iab infromationational information
 iab infromsation information
+iab infrqeuently infrequently
+iab infruenqlty infrequently
 iab infuential influential
+iab infurenqlty infrequently
 iab ingegration integration
 iab ingegrity integrity
 iab ingjured injured
@@ -10376,6 +10431,7 @@ iab inpuyt input
 iab inpyt input
 iab inrested interested
 iab inrldgbluy incredibly
+iab inrreqnuelty infrequently
 iab inrterval interval
 iab insaert insert
 iab insantity insanity
@@ -13265,6 +13321,7 @@ iab packagfes packages
 iab packcheck paycheck
 iab paclage package
 iab padid paid
+iab padidng padding
 iab paerhapo perhaps
 iab paernts parents
 iab pageer pager
@@ -14503,6 +14560,7 @@ iab provblem problem
 iab provcesses processes
 iab provdie provide
 iab provessing processing
+iab providesa provides
 iab providign providing
 iab providung providing
 iab proviees provides
@@ -18451,6 +18509,7 @@ iab transfeerred transferred
 iab transferered transferred
 iab transfomration transformation
 iab transformatino transformation
+iab transforrming transforming
 iab transfpromation transformation
 iab translateions translations
 iab translqtion translation
@@ -18581,6 +18640,7 @@ iab tueday tuesday
 iab tuicked tucked
 iab tumbingl tumbling
 iab tunells tunnels
+iab tup up
 iab tupe type
 iab tuped typed
 iab ture true
@@ -18675,6 +18735,7 @@ iab udner under
 iab udnersannnd understand
 iab udnerstand understand
 iab udnerstanding understanding
+iab udpate update
 iab udpated updated
 iab uears years
 iab uername username
@@ -18684,6 +18745,7 @@ iab ueyawrs years
 iab ufnction function
 iab ufnortunately unfortunately
 iab ugniring ignoring
+iab ugprade upgrade
 iab ugpraded upgraded
 iab uhave have
 iab uicckly quickly
@@ -18865,6 +18927,7 @@ iab unparallenled unparalleled
 iab unpredicable unpredictable
 iab unprepated unprepared
 iab unquaual unusual
+iab unrealdistic unrealistic
 iab unrealisticlaly unrealistically
 iab unrecogniseable unrecognisable
 iab unregisterd unregistered
@@ -18938,6 +19001,7 @@ iab usaully usually
 iab usble usable
 iab uscle muscle
 iab usded used
+iab usdeful useful
 iab usding using
 iab useage usage
 iab useed used
@@ -19154,6 +19218,7 @@ iab viewwd viewed
 iab vifew view
 iab vill will
 iab vilume volume
+iab vioice voice
 iab violen violin
 iab virbration vibration
 iab virtaul virtual
