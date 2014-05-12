@@ -1010,6 +1010,7 @@ iab Klonkike Klondike
 iab Knolwedge Knowledge
 iab Knowlege Knowledge
 iab Krogrer Kroger
+iab LIEK LIKE
 iab LInuz Linux
 iab LIving Living
 iab LOcation Location
@@ -1330,6 +1331,7 @@ iab Poeple People
 iab Pontaic Pontiac
 iab Ponteiac Pontiac
 iab Popele People
+iab Populat Populate
 iab Porojcts Projects
 iab Posisbly Possibly
 iab Postion Position
@@ -2096,6 +2098,7 @@ iab aarchitercutre architecture
 iab aare are
 iab aarea area
 iab aas as
+iab aassoticated associated
 iab aat at
 iab aattacik attack
 iab aaware aware
@@ -3465,6 +3468,7 @@ iab assitants assistants
 iab assk ask
 iab assmeble assemble
 iab assmebly assembly
+iab assocdieated associated
 iab assocoialtion association
 iab assosiate associate
 iab assosiated associated
@@ -3977,6 +3981,7 @@ iab believf believe
 iab belifs beliefs
 iab beliong belong
 iab belive believe
+iab beloingng belonging
 iab ben been
 iab benath beneath
 iab bene been
@@ -17110,6 +17115,7 @@ iab storave storage
 iab storeagae storage
 iab storeies stories
 iab storeis stories
+iab storiesd stories
 iab storign storing
 iab storiogn storing
 iab storng strong
@@ -19117,6 +19123,7 @@ iab varaibles variables
 iab varaition variation
 iab varations variations
 iab varations variations 
+iab varialbe variable
 iab variaous various
 iab variatn variant
 iab varierty variety
