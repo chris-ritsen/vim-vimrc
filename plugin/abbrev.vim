@@ -20164,3 +20164,16 @@ iab zooom zoom
 iab ztart start
 iab ztaships starships
 
+iab Ifnally Finally
+iab aroaund around
+iab cfirst first
+iab databaswe database
+iab euyar year
+iab morngin morning
+iab morntign morning
+iab omrnig morning
+iab sscrew screw
+iab startginn starting
+iab startign starting
+iab wokt work
+iab informatino information
