@@ -18666,7 +18666,6 @@ iab tueday tuesday
 iab tuicked tucked
 iab tumbingl tumbling
 iab tunells tunnels
-iab tup up
 iab tupe type
 iab tuped typed
 iab ture true
@@ -20192,3 +20191,11 @@ iab zooom zoom
 iab ztart start
 iab ztaships starships
 
+iab linutes lines
+iab builduing building
+iab dhnaged changed
+iab futyre future
+iab Invilsible Invisible
+iab proprieter proprietor
+iab stupudyly stupidly
+iab askeeed asked
