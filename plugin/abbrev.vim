@@ -959,6 +959,7 @@ iab Intetnet Internet
 iab Intimiate Intimate
 iab Intrest Interest
 iab Invalud Invalid
+iab Invilsible Invisible
 iab Ipmortant Important
 iab Iright Right
 iab Isaabella Isabella
@@ -1069,6 +1070,7 @@ iab Luncbh Lunch
 iab Lunux Linux
 iab Luxyry Luxury
 iab Lwet Let
+iab MATXCHES MATCHES
 iab MCruelly Cruelly
 iab MIchael Michael
 iab MIght Might
@@ -1967,6 +1969,7 @@ iab WOn Won
 iab WOnder Wonder
 iab WOrdPress WordPress
 iab WOrkgin Working
+iab WOrkign Working
 iab WOrking Working
 iab WOuld Would
 iab WOw Wow
@@ -3136,6 +3139,7 @@ iab aplify amplify
 iab apllicaiton application
 iab apllication application
 iab apllicationu application
+iab apllpeied applied
 iab aplpication application
 iab aplpications applications
 iab aplplication application
@@ -3435,6 +3439,7 @@ iab ashouls should
 iab asic basic
 iab asisgnements assignments
 iab asjusting adjusting
+iab askeeed asked
 iab askign asking
 iab aslalaried salaried
 iab aslepp asleep
@@ -4329,6 +4334,7 @@ iab buildigns buildings
 iab buildimng building
 iab buildnigs buildings
 iab buildsaR builds
+iab builduing building
 iab builit built
 iab builkdign building
 iab buiodl build
@@ -4848,6 +4854,8 @@ iab clas class
 iab clases classes
 iab clasisic classic
 iab classamic classic
+iab classees classes
+iab classses classes
 iab classssic classic
 iab clcoked clocked
 iab cldan clean
@@ -5576,6 +5584,7 @@ iab consoe console
 iab consoel console
 iab consoiousness consciousness
 iab consoiusness consciousness
+iab consolel console
 iab consous conscious
 iab consouse conscious
 iab consously consciously
@@ -5827,6 +5836,7 @@ iab corerctyion correction
 iab corerdcdt correct
 iab coretions corrections
 iab corffee coffee
+iab corlo color
 iab coroect correct
 iab coroerct correct
 iab cororedct correct
@@ -6550,6 +6560,7 @@ iab dfurtherst furthest
 iab dhave have
 iab dhcahnges changes
 iab dhcip chip
+iab dhnaged changed
 iab dhownlaoed downloaded
 iab diable disable
 iab diaglntes diagnose
@@ -7138,6 +7149,7 @@ iab dstill still
 iab dstroyed destroyed
 iab dstudent student
 iab dstuffing stuffing
+iab dstyle style
 iab dsuggestws suggests
 iab dswecond second
 iab dswign design
@@ -7530,6 +7542,7 @@ iab eleminate eliminate
 iab elemnet element
 iab elemnets elements
 iab elemnt element
+iab elemntes elements
 iab elemtns elements
 iab eles else
 iab eletrco electro
@@ -7669,6 +7682,7 @@ iab enalbed enabled
 iab encapuslates encapsulates
 iab encessary necessary
 iab encointered encountered
+iab encolosed enclosed
 iab encolsed enclosed
 iab encouaged encouraged
 iab encounterd encountered
@@ -8188,6 +8202,7 @@ iab evoltuoin evolution
 iab evolutionsry evolutionary
 iab evolv3ed evolved
 iab evreyone everyone
+iab evrythign everything
 iab evrything everything
 iab evver ever
 iab evyerohne everyone
@@ -9115,6 +9130,7 @@ iab futgure future
 iab futher further
 iab futuer future
 iab futurte future
+iab futyre future
 iab fuull full
 iab fuyn fun
 iab fuynction function
@@ -9933,6 +9949,7 @@ iab iditiot idiot
 iab idito idiot
 iab idlea ideal
 iab idleal ideal
+iab idnesx index
 iab idnetidal identical
 iab idnviviaul individual
 iab idoes does
@@ -10130,6 +10147,7 @@ iab impriving improving
 iab improbing improving
 iab improbment improvement
 iab improced improved
+iab improrperly improperly
 iab improtant important
 iab improvce improve
 iab improvemnet improvement
@@ -10470,6 +10488,7 @@ iab insistant insistent
 iab insitincitlybvely instinctively
 iab insjectiopn injection
 iab inspectes inspects
+iab inspeoct inspect
 iab inspirted inspired
 iab inspriation inspiration
 iab inspriration inspiration
@@ -11409,6 +11428,7 @@ iab linjk link
 iab linkjing linking
 iab linsk links
 iab linuc linux
+iab linutes lines
 iab linxu linux
 iab liong long
 iab liquit liquid
@@ -11455,7 +11475,9 @@ iab lkocation location
 iab llamma llama
 iab lleast least
 iab lllast last
+iab llog log
 iab llogn long
+iab llogner longer
 iab llok look
 iab lloking looking
 iab lloks looks
@@ -12630,6 +12652,7 @@ iab nnot not
 iab nnubmer number
 iab noather another
 iab nobile noble
+iab nodews nodes
 iab nodjes nodejs
 iab noeed need
 iab noething nothing
@@ -12865,6 +12888,7 @@ iab ocde code
 iab ocdes codes
 iab ocer over
 iab ocffee coffee
+iab oclor color
 iab ocme come
 iab ocmeb come
 iab ocmes comes
@@ -14531,10 +14555,12 @@ iab prooperyly properly
 iab propductuve productive
 iab propegate propagate
 iab propell propel
+iab propelrty property
 iab propelry properly
 iab properlty properly
 iab properuly properly
 iab propery properly
+iab properyt property
 iab propisoitional propositional
 iab propjedts projects
 iab proplery properly
@@ -14549,6 +14575,7 @@ iab propplositional propositional
 iab proppsitional propositional
 iab propriertary proprietary
 iab proprietart proprietary
+iab proprieter proprietor
 iab proprotion proportion
 iab propt prompt
 iab proram program
@@ -15785,9 +15812,12 @@ iab rthought thought
 iab rtime time
 iab rto to
 iab rtoo too
+iab rueles rules
 iab rugelar regular
 iab rughly roughly
 iab rujnning running
+iab rulesa rules
+iab rulres rules
 iab runinng running
 iab runjning running
 iab runnign running
@@ -16106,6 +16136,7 @@ iab seive sieve
 iab selcection selection
 iab selcet select
 iab selct select
+iab selctor selector
 iab seldem seldom
 iab selecdt select
 iab selecdtion selection
@@ -17020,6 +17051,7 @@ iab starying straying
 iab stasrt start
 iab stasying staying
 iab statees states
+iab statemetn statement
 iab statemetns statements
 iab statemnet statement
 iab statemnts statements
@@ -17222,6 +17254,7 @@ iab stukc stuck
 iab stumuluis stimulus
 iab stupisd stupid
 iab stupiud stupid
+iab stupudyly stupidly
 iab sturcdt struct
 iab sturday saturday
 iab sturfct struct
@@ -17236,6 +17269,7 @@ iab styleesheets stylesheets
 iab stylel styler
 iab styroy story
 iab stystem system
+iab styyles styles
 iab suage usage
 iab sually usually
 iab subconsious subconscious
@@ -17974,6 +18008,7 @@ iab theickness thickness
 iab theier their
 iab theire there
 iab theis this
+iab themesa themes
 iab themeselves themselves
 iab themesfvles themselves
 iab themesleves themselves
@@ -19122,6 +19157,7 @@ iab vacuumming vacuuming
 iab vacuunmig vacuuming
 iab vaguge vague
 iab vailable available
+iab valeu value
 iab valeus values
 iab validateds validated
 iab validatino validation
@@ -20191,15 +20227,3 @@ iab zooom zoom
 iab ztart start
 iab ztaships starships
 
-iab linutes lines
-iab builduing building
-iab dhnaged changed
-iab futyre future
-iab Invilsible Invisible
-iab proprieter proprietor
-iab stupudyly stupidly
-iab askeeed asked
-iab inspeoct inspect
-iab MATXCHES MATCHES
-iab improrperly improperly
-iab evrythign everything
