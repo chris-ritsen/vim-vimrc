@@ -702,6 +702,7 @@ iab FRankenmuth Frankenmuth
 iab FRom From
 iab FUNTION FUNCTION
 iab FUck Fuck
+iab Facbook Facebook
 iab Fbonacci Fibonacci
 iab Fibonacchi Fibonacci
 iab Fided Fixed
@@ -1015,6 +1016,7 @@ iab KNowing Knowing
 iab KNowledge Knowledge
 iab KRoger Kroger
 iab Karne Karen
+iab Kenrle Kernel
 iab Ketchupe Ketchup
 iab KeyErorr KeyError
 iab Kinecdt Kinect
@@ -1119,6 +1121,7 @@ iab Manufacituring Manufacturing
 iab Manufcaturing Manufacturing
 iab Maoning Moaning
 iab Matbe Maybe
+iab Mathcing Matching
 iab Maube Maybe
 iab MaxOS MacOS
 iab Maxx Max
@@ -3168,6 +3171,7 @@ iab apartmnets apartments
 iab apartmntes apartments
 iab apartnment apartment
 iab apcplicadtions applications
+iab apdding padding
 iab apear appear
 iab apge page
 iab aplicaiton application
@@ -4680,6 +4684,7 @@ iab certificatae certificate
 iab certificayte certificate
 iab certififations certifications
 iab certina certain
+iab cetner center
 iab cetnruty century
 iab cetnury century
 iab cetrain certain
@@ -5745,6 +5750,7 @@ iab contiunuum continuum
 iab contiunyous continuous
 iab contiuous continuous
 iab contiyually continually
+iab contnetn content
 iab contorl control
 iab contorlled controlled
 iab contorller controller
@@ -6212,6 +6218,7 @@ iab ddicated dedicated
 iab ddid did
 iab ddin didn
 iab ddind didn
+iab ddisplay display
 iab ddition addition
 iab ddkestop desktop
 iab ddoign doing
@@ -6819,6 +6826,7 @@ iab disablve disable
 iab disaeas disease
 iab disagerementt disagreement
 iab disalbed disabled
+iab disalble disable
 iab disallowes disallows
 iab disambugating disambiguating
 iab disappoined disappointed
@@ -7627,6 +7635,7 @@ iab elewtrical electrical
 iab elexctronic electronic
 iab elextronic electronic
 iab elextronids electronics
+iab elft left
 iab elimiate eliminate
 iab elimiated eliminated
 iab eliminiated eliminated
@@ -7739,6 +7748,7 @@ iab empoyment employment
 iab empplyer employer
 iab emprty empty
 iab emptyied emptied
+iab emtpy empty
 iab emululators emulators
 iab emy my
 iab enacs emacs
@@ -8666,6 +8676,7 @@ iab fIgure figure
 iab faborite favorite
 iab fabrig fabric
 iab faccinating fascinating
+iab facebbook facebook
 iab faceboeok facebook
 iab facehook facebook
 iab facevbook facebook
@@ -8696,6 +8707,7 @@ iab falat flat
 iab fallying falling
 iab falmcons falcons
 iab falres flares
+iab falsde false
 iab famiiliar familiar
 iab familar familiar
 iab familiy familia
@@ -8712,6 +8724,7 @@ iab fasiob fashion
 iab fasioh fashion
 iab fasioho fashion
 iab fasion fashion
+iab fasle false
 iab faste fast
 iab fatehr father
 iab fatigure fatigue
@@ -10545,6 +10558,7 @@ iab innivation innovation
 iab innntelligent intelligent
 iab innoctent innocent
 iab innovateive innovative
+iab inpect inspect
 iab inplementation implementation
 iab inportant important
 iab inpressing impressing
@@ -10566,6 +10580,7 @@ iab insdtall install
 iab insdtances instances
 iab insdtead instead
 iab insdtsall install
+iab insepect inspect
 iab insepection inspection
 iab insescts insects
 iab insidght insight
@@ -10576,6 +10591,8 @@ iab insipriation inspiration
 iab insistant insistent
 iab insitincitlybvely instinctively
 iab insjectiopn injection
+iab inspecet inspect
+iab inspecft inspect
 iab inspectes inspects
 iab inspeoct inspect
 iab inspirted inspired
@@ -11599,6 +11616,7 @@ iab lnnowledsge knowledge
 iab lnoger longer
 iab lnot not
 iab lnow know
+iab loadede loaded
 iab loaundry laundry
 iab loawded loaded
 iab locadtion location
@@ -11850,6 +11868,7 @@ iab maoutn amount
 iab marbel marble
 iab marbeles marbles
 iab marco macro
+iab marign margin
 iab markedw marked
 iab marketabilty marketability
 iab marketting marketing
@@ -12697,6 +12716,7 @@ iab newarly nearly
 iab newert newer
 iab newetowrk network
 iab nework network
+iab newsfoed newsfeed
 iab newsleteter newsletter
 iab newtwork network
 iab newwel newel
@@ -12727,6 +12747,7 @@ iab nicrley nicely
 iab nicsnse incense
 iab nightl night
 iab nigth night
+iab nimage image
 iab ninsudries industries
 iab nintenies nineties
 iab nist most
@@ -13133,6 +13154,7 @@ iab onece once
 iab onee one
 iab oneslef oneself
 iab onews ones
+iab onewsfeeds newsfeeds
 iab ong on
 iab onlcick onclick
 iab onliune online
@@ -13182,6 +13204,7 @@ iab opehraingn operating
 iab opend upend
 iab opende opened
 iab opene open
+iab openeing opening
 iab openning opening
 iab opeople people
 iab opeple people
@@ -13360,6 +13383,7 @@ iab othetr other
 iab othewrise otherwise
 iab othings things
 iab othyer other
+iab oticed noticed
 iab otime time
 iab otion motion
 iab otmorrow tomorrow
@@ -13473,6 +13497,8 @@ iab packagesd packages
 iab packagfes packages
 iab packcheck paycheck
 iab paclage package
+iab paddgin padding
+iab paddign padding
 iab padid paid
 iab padidng padding
 iab paerhapo perhaps
@@ -16336,6 +16362,7 @@ iab sendenece sentence
 iab sendsa sends
 iab sendse sense
 iab sene seen
+iab seneding sending
 iab senetencign sentencing
 iab senough enough
 iab senquencing sequencing
@@ -17757,6 +17784,7 @@ iab sysytesm systems
 iab sytax syntax
 iab sytay stay
 iab sytem system
+iab sytle style
 iab sytlesss styles
 iab sytlye style
 iab sytmem system
@@ -20320,6 +20348,7 @@ iab yonger younger
 iab yooul you
 iab yopr your
 iab yor your
+iab yoru your
 iab yorusdlewf yourself
 iab yoruself yourself
 iab yorusfgelf yourself
@@ -20406,22 +20435,3 @@ iab zooom zoom
 iab ztart start
 iab ztaships starships
 
-iab backgorund background
-iab wieght weight
-iab marign margin
-iab contnetn content
-iab falsde false
-iab fasle false
-iab newsfoed newsfeed
-iab Facbook Facebook
-iab ddisplay display
-iab onewsfeeds newsfeeds
-iab facebbook facebook
-iab nimage image
-iab yoru your
-iab marign margin
-iab cetner center
-iab apdding padding
-iab paddgin padding
-iab paddign padding
-iab elft left
