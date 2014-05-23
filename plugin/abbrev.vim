@@ -20406,3 +20406,22 @@ iab zooom zoom
 iab ztart start
 iab ztaships starships
 
+iab backgorund background
+iab wieght weight
+iab marign margin
+iab contnetn content
+iab falsde false
+iab fasle false
+iab newsfoed newsfeed
+iab Facbook Facebook
+iab ddisplay display
+iab onewsfeeds newsfeeds
+iab facebbook facebook
+iab nimage image
+iab yoru your
+iab marign margin
+iab cetner center
+iab apdding padding
+iab paddgin padding
+iab paddign padding
+iab elft left
