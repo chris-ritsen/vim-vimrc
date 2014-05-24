@@ -20435,3 +20435,20 @@ iab zooom zoom
 iab ztart start
 iab ztaships starships
 
+iab artcile article
+iab articlde article
+iab artciel article
+iab arltidcle article
+iab artlicle article
+iab sharwe share
+iab privacty privacy
+iab emssage message
+iab cehck check
+iab inlnei inline
+iab widht width
+iab sizse size
+iab tesxt text
+iab intial initial
+iab secftion section
+iab slef self
+iab psace space
