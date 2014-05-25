@@ -2231,6 +2231,7 @@ iab absoultely absolutely
 iab absouplte absolute
 iab absouslytly absolutely
 iab absoutely absolutely
+iab abstarction abstraction
 iab abstracte abstract
 iab abstration abstraction
 iab absulte absolute
@@ -3852,6 +3853,7 @@ iab badsed based
 iab badvkspacing backspacing
 iab bae be
 iab baeck back
+iab baetter better
 iab baid bait
 iab bakc back
 iab bakcend backend
@@ -5069,6 +5071,7 @@ iab cocern concern
 iab cocerns concerns
 iab coddlying coddling
 iab codign coding
+iab codmptuers computers
 iab codmptyer computer
 iab codw code
 iab coe code
@@ -15712,6 +15715,7 @@ iab responsiiblities responsibilities
 iab responsisbiliteis responsibilities
 iab responsisbilities responsibilities
 iab responsisiblies responsibilities
+iab responsivet responsive
 iab responslbiel responsible
 iab respoond respond
 iab resposibile responsible
@@ -19296,6 +19300,7 @@ iab usermame username
 iab usersnames usernames
 iab usesd used
 iab useually usually
+iab useufl useful
 iab useuless useless
 iab usew use
 iab usewful useful
@@ -19585,6 +19590,7 @@ iab walready already
 iab walso also
 iab wanat want
 iab wangint wanting
+iab wannnt want
 iab wante wanted
 iab wantint wanting
 iab wantt want
@@ -20006,6 +20012,7 @@ iab wnats wants
 iab wnehenver whenever
 iab wnet went
 iab wnzt want
+iab woahtewver whatever
 iab woant want
 iab woants wants
 iab woater water
