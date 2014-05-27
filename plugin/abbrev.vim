@@ -1132,6 +1132,7 @@ iab Mayhble Maybe
 iab Maynbe Maybe
 iab Mcicighan Michigan
 iab Meetign Meeting
+iab Memloomm Memloom
 iab Memmloom Memloom
 iab Metephor Metaphor
 iab Mhommad Mohammad
@@ -14654,6 +14655,7 @@ iab prograaaaxtination procrastination
 iab prograc4tionatin procrastination
 iab programatically programmatically
 iab programm program
+iab programmier programmer
 iab programmign programming
 iab programminh programming
 iab programmiung programming
@@ -15316,6 +15318,7 @@ iab regioan region
 iab regisrter register
 iab registerd registered
 iab registewred registered
+iab registr register
 iab registsers registers
 iab registwer register
 iab registyry registry
@@ -15696,6 +15699,7 @@ iab responisiblites responsibilities
 iab responisilbiites responsibilities
 iab responsaiblilites responsibilities
 iab responsiablyt responsibly
+iab responsibiilites responsibilities
 iab responsibiliites responsibilities
 iab responsibiliteis responsibilities
 iab responsibilites responsibilities
@@ -19053,6 +19057,8 @@ iab unceessseary unnecessary
 iab uncencceary unnecessary
 iab uncenssaesary unnecessary
 iab uncertinty uncertainty
+iab unchekc uncheck
+iab unckeck uncheck
 iab uncnecessary unnecessary
 iab uncober uncover
 iab uncomforatable uncomfortable
@@ -19369,6 +19375,7 @@ iab uyp up
 iab uysing using
 iab v3erify verify
 iab v4ersion version
+iab vactaion vacation
 iab vactation vacation
 iab vacujuming vacuuming
 iab vacuuimng vacuuming
@@ -20378,6 +20385,7 @@ iab yoruslef yourself
 iab yotube youtube
 iab yotubue youtube
 iab yotuh youth
+iab youfr your
 iab yougturt yogurt
 iab youl you
 iab youmnger younger
