@@ -1132,6 +1132,7 @@ iab Mayhble Maybe
 iab Maynbe Maybe
 iab Mcicighan Michigan
 iab Meetign Meeting
+iab Memloomm Memloom
 iab Memmloom Memloom
 iab Metephor Metaphor
 iab Mhommad Mohammad
@@ -2231,6 +2232,7 @@ iab absoultely absolutely
 iab absouplte absolute
 iab absouslytly absolutely
 iab absoutely absolutely
+iab abstarction abstraction
 iab abstracte abstract
 iab abstration abstraction
 iab absulte absolute
@@ -3430,6 +3432,7 @@ iab arive arrive
 iab arleady already
 iab arleday already
 iab arlready already
+iab arltidcle article
 iab armture armature
 iab arnaomly anomaly
 iab aroaund around
@@ -3446,11 +3449,14 @@ iab arrowo arrows
 iab arrray array
 iab arruratelu accurately
 iab arsien arisen
+iab artciel article
+iab artcile article
 iab articdle article
 iab articel article
 iab articels articles
 iab articile article
 iab articl4 article
+iab articlde article
 iab artiests artists
 iab artificail artificial
 iab artificual artificial
@@ -3461,6 +3467,7 @@ iab artitds artists
 iab artithmetic arithmetic
 iab artits artists
 iab artixcle article
+iab artlicle article
 iab artsis artists
 iab artsit artist
 iab artsits artists
@@ -3847,6 +3854,7 @@ iab badsed based
 iab badvkspacing backspacing
 iab bae be
 iab baeck back
+iab baetter better
 iab baid bait
 iab bakc back
 iab bakcend backend
@@ -4643,6 +4651,7 @@ iab cealn clean
 iab cealry clearly
 iab ceepeneidng depending
 iab ceffeine caffeine
+iab cehck check
 iab cehcked  checked
 iab cehckign checking
 iab cehkcing checking
@@ -5063,6 +5072,7 @@ iab cocern concern
 iab cocerns concerns
 iab coddlying coddling
 iab codign coding
+iab codmptuers computers
 iab codmptyer computer
 iab codw code
 iab coe code
@@ -7748,6 +7758,7 @@ iab empoyment employment
 iab empplyer employer
 iab emprty empty
 iab emptyied emptied
+iab emssage message
 iab emtpy empty
 iab emululators emulators
 iab emy my
@@ -10549,6 +10560,7 @@ iab injeted injected
 iab injhect inject
 iab injitialice initialize
 iab inlcidnations inclinations
+iab inlnei inline
 iab inmages images
 iab inmpants implants
 iab innacurate inaccurate
@@ -10793,6 +10805,7 @@ iab intetion intention
 iab inteval interval
 iab intewresting interesting
 iab intewrsting interesting
+iab intial initial
 iab intibitying inhibiting
 iab intiitive intuitive
 iab intio into
@@ -14503,6 +14516,7 @@ iab prirotize prioritize
 iab prision prison
 iab pritn print
 iab priunciple principle
+iab privacty privacy
 iab prject project
 iab pro3tect protect
 iab proablby probably
@@ -14641,6 +14655,7 @@ iab prograaaaxtination procrastination
 iab prograc4tionatin procrastination
 iab programatically programmatically
 iab programm program
+iab programmier programmer
 iab programmign programming
 iab programminh programming
 iab programmiung programming
@@ -14787,6 +14802,7 @@ iab pruspoe3 purpose
 iab prved proved
 iab prvileneged privileged
 iab prvoed proved
+iab psace space
 iab psaec space
 iab psanish spanish
 iab psart part
@@ -15302,6 +15318,7 @@ iab regioan region
 iab regisrter register
 iab registerd registered
 iab registewred registered
+iab registr register
 iab registsers registers
 iab registwer register
 iab registyry registry
@@ -15682,6 +15699,7 @@ iab responisiblites responsibilities
 iab responisilbiites responsibilities
 iab responsaiblilites responsibilities
 iab responsiablyt responsibly
+iab responsibiilites responsibilities
 iab responsibiliites responsibilities
 iab responsibiliteis responsibilities
 iab responsibilites responsibilities
@@ -15701,6 +15719,7 @@ iab responsiiblities responsibilities
 iab responsisbiliteis responsibilities
 iab responsisbilities responsibilities
 iab responsisiblies responsibilities
+iab responsivet responsive
 iab responslbiel responsible
 iab respoond respond
 iab resposibile responsible
@@ -16272,6 +16291,7 @@ iab secdtion section
 iab secdtions sections
 iab secenario scenario
 iab secene scene
+iab secftion section
 iab secfton Sefton
 iab secionds seconds
 iab seciotn section
@@ -16531,6 +16551,7 @@ iab shairing sharing
 iab shakingl shaking
 iab shappened happened
 iab sharedd shared
+iab sharwe share
 iab shatered shattered
 iab shavign shaving
 iab shchool school
@@ -16762,6 +16783,7 @@ iab siz six
 iab sizedf sized
 iab sizeth sixth
 iab sizig sizing
+iab sizse size
 iab sizsed sized
 iab sizties sixties
 iab sizty sixty
@@ -19035,6 +19057,8 @@ iab unceessseary unnecessary
 iab uncencceary unnecessary
 iab uncenssaesary unnecessary
 iab uncertinty uncertainty
+iab unchekc uncheck
+iab unckeck uncheck
 iab uncnecessary unnecessary
 iab uncober uncover
 iab uncomforatable uncomfortable
@@ -19282,6 +19306,7 @@ iab usermame username
 iab usersnames usernames
 iab usesd used
 iab useually usually
+iab useufl useful
 iab useuless useless
 iab usew use
 iab usewful useful
@@ -19350,6 +19375,7 @@ iab uyp up
 iab uysing using
 iab v3erify verify
 iab v4ersion version
+iab vactaion vacation
 iab vactation vacation
 iab vacujuming vacuuming
 iab vacuuimng vacuuming
@@ -19571,6 +19597,7 @@ iab walready already
 iab walso also
 iab wanat want
 iab wangint wanting
+iab wannnt want
 iab wante wanted
 iab wantint wanting
 iab wantt want
@@ -19879,6 +19906,7 @@ iab widgests widgets
 iab widgetsss widgets
 iab widghets widgets
 iab widgtet widget
+iab widht width
 iab widley widely
 iab widsgets widgets
 iab widsh wish
@@ -19991,6 +20019,7 @@ iab wnats wants
 iab wnehenver whenever
 iab wnet went
 iab wnzt want
+iab woahtewver whatever
 iab woant want
 iab woants wants
 iab woater water
@@ -20356,6 +20385,7 @@ iab yoruslef yourself
 iab yotube youtube
 iab yotubue youtube
 iab yotuh youth
+iab youfr your
 iab yougturt yogurt
 iab youl you
 iab youmnger younger
