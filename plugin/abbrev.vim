@@ -791,6 +791,7 @@ iab HOwevver However
 iab HOwver However
 iab HOwverer Hoverer
 iab HPaseers Phasers
+iab HTMDL HTML
 iab HTe The
 iab HTen Then
 iab HTere There
@@ -4127,6 +4128,7 @@ iab betweene between
 iab betwen between
 iab betwewen between
 iab betwween between
+iab betwwween between
 iab beuauwe because
 iab beucause because
 iab beuild build
@@ -4475,6 +4477,7 @@ iab bwetween between
 iab bwloe below
 iab bwteeen between
 iab bwteen between
+iab bwtewen between
 iab bwwn been
 iab byffer buffer
 iab byh by
@@ -4533,6 +4536,7 @@ iab cahracterse characters
 iab cahrge charge
 iab cahsing cashing
 iab cahteacters characters
+iab calcculated calculated
 iab calcualte calculate
 iab calcualtions calculations
 iab calculatesion calculations
@@ -4598,6 +4602,7 @@ iab capittalise3 capitalise
 iab capitualate capitulate
 iab capitualet capitulate
 iab capoiitalisee capitalise
+iab cappabillity capability
 iab capsble capable
 iab captable capable
 iab captaion captain
@@ -5151,6 +5156,7 @@ iab collegues colleagues
 iab colletion collection
 iab collisons collisions
 iab collor color
+iab collors colors
 iab collosal colossal
 iab collpases collapses
 iab colocoking clocking
@@ -6700,6 +6706,7 @@ iab didstractin distracting
 iab diea idea
 iab dieal ideal
 iab dieas ideas
+iab dieaw idea
 iab diecide decide
 iab dierction direction
 iab dierctories directories
@@ -8825,6 +8832,7 @@ iab felth felt
 iab felx flex
 iab femal female
 iab femeine feminine
+iab feor for
 iab ferquency frequency
 iab ferquent frequent
 iab feruquency frequency
@@ -9489,6 +9497,7 @@ iab guaratnees guarantees
 iab guarentee guarantee
 iab guarenteed guaranteed
 iab guarentees guarantees
+iab guesas guess
 iab guesssing guessing
 iab guide3 guide
 iab guidenace guidance
@@ -9736,6 +9745,7 @@ iab highlgighetdd highlighted
 iab highlguth highlight
 iab highlighing highlighting
 iab highlighiting highlighting
+iab highlightying highlighting
 iab highlioghting highlighting
 iab highlught highlight
 iab highluighting highlighting
@@ -9992,6 +10002,7 @@ iab hundre hundred
 iab hundredd hundred
 iab hundredss hundreds
 iab hundres hundred
+iab hundresd hundreds
 iab hunfred hundred 
 iab hunrdesd hundred
 iab hunrdred hundred
@@ -16595,6 +16606,7 @@ iab severl several
 iab severla several
 iab severley severely
 iab severly severely
+iab severoal several
 iab seves server
 iab sevewal several
 iab sevewral several
@@ -19486,6 +19498,8 @@ iab varaibles variables
 iab varaition variation
 iab varations variations
 iab varations variations 
+iab variablesa variables
+iab variablges variables
 iab varialbe variable
 iab variaous various
 iab variatn variant
@@ -20552,18 +20566,3 @@ iab zooom zoom
 iab ztart start
 iab ztaships starships
 
-iab highlightying highlighting
-iab variablesa variables
-iab betwwween between
-iab variablesa variables
-iab guesas guess
-iab calcculated calculated
-iab severoal several
-iab variablges variables
-iab feor for
-iab HTMDL HTML
-iab collors colors
-iab hundresd hundreds
-iab dieaw idea
-iab bwtewen between
-iab cappabillity capability
