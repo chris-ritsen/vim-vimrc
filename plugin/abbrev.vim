@@ -4259,6 +4259,7 @@ iab bookw books
 iab bootabl bootable
 iab bopoks books
 iab boradly broadly
+iab bordder border
 iab bords birds
 iab boredf bored
 iab boreed bored
@@ -5677,6 +5678,7 @@ iab consoicue conscious
 iab consoiousness consciousness
 iab consoiusness consciousness
 iab consolel console
+iab consooe console
 iab consooooele console
 iab consous conscious
 iab consouse conscious
@@ -5743,6 +5745,7 @@ iab contenvitional conventional
 iab conteracting contracting
 iab conterianed constrained
 iab contexsts contexts
+iab contgact contact
 iab contianers containers
 iab contianing containing
 iab contians contains
@@ -5978,6 +5981,7 @@ iab cosmose cosmos
 iab cosmost cosmos
 iab cosnidered considered
 iab cosnoel console
+iab cosnoelle console
 iab cosnole console
 iab cosntants constants
 iab cosntrucdtion construction
@@ -6828,6 +6832,7 @@ iab direcdtion direction
 iab direcdtory directory
 iab direcgt direct
 iab direciton direction
+iab direcitonpi direction
 iab direcltly directly
 iab direclty directly
 iab direcoverty directory
@@ -10585,6 +10590,7 @@ iab inidicuaal identical
 iab inifinte infinite
 iab iniicadte indicate
 iab iniital initial
+iab iniitla initial
 iab ininitalize initialize
 iab inistalling installing
 iab initail initial
@@ -10594,6 +10600,7 @@ iab initiaited initiated
 iab initital initial
 iab initlaize initialize
 iab initliaize initialize
+iab inituail initial
 iab injecdtion injection
 iab injeciton injection
 iab injectinoi injecting
@@ -11160,6 +11167,7 @@ iab jusdt just
 iab jusgment judgment
 iab jusit just
 iab justfying justifying
+iab justoiify justify
 iab justy just
 iab jusyt just
 iab juyst just
@@ -15090,6 +15098,7 @@ iab r3egardlless regardless
 iab rScienctist Scientist
 iab racre race
 iab radious radius
+iab radisu radius
 iab radisus radius
 iab radiys radius
 iab raeading reading
