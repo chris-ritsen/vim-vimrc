@@ -20543,3 +20543,18 @@ iab zooom zoom
 iab ztart start
 iab ztaships starships
 
+iab highlightying highlighting
+iab variablesa variables
+iab betwwween between
+iab variablesa variables
+iab guesas guess
+iab calcculated calculated
+iab severoal several
+iab variablges variables
+iab feor for
+iab HTMDL HTML
+iab collors colors
+iab hundresd hundreds
+iab dieaw idea
+iab bwtewen between
+iab cappabillity capability
