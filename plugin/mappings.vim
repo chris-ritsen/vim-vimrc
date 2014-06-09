@@ -46,7 +46,7 @@ nnoremap <up> <nop>
 nnoremap J mzJ`z
 nnoremap K <nop>
 nnoremap Y y$
-noremap <2-LeftMouse> :execute 'normal gf'<cr>
+noremap <2-LeftMouse> :execute 'normal gF'<cr>
 noremap <3-LeftMouse> zA<cr>
 " noremap <C-j> <C-W>j<C-W>_
 " noremap <C-k> <C-W>k<C-W>_
@@ -79,7 +79,7 @@ noremap <silent> <F7> :set list!<CR>
 noremap <silent> <F8> :setlocal spell! spelllang=en_us <CR>
 noremap <silent> <Left> <Esc>:bp<CR>
 noremap <silent> <Right> <Esc>:bn<CR>
-noremap <silent> <leader>y :Git commit -am'update' && git push && git pull<CR>
+noremap <silent> <leader>y :Git commit -am'update' && git push<CR>
 noremap <up> <nop>
 noremap [Down] gj
 noremap [Up] gk
