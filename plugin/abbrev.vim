@@ -20571,3 +20571,21 @@ iab zooom zoom
 iab ztart start
 iab ztaships starships
 
+iab imnsert insert
+iab objecrts objects
+iab seelctor selector
+iab conteinue continue
+iab cnitnue continue
+iab Woriking Working
+iab cnintonue continue
+iab consoole console
+iab ucrrent current
+iab lengdtH length
+iab selectoro selector
+iab eidtable editable
+iab exiwsting existing
+iab conteact contact
+iab functiuon function
+iab perfrect perfect
+iab wehel wheel
+iab perfoect perfect
