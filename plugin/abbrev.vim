@@ -1269,6 +1269,7 @@ iab Occasionallly Occasionally
 iab Odysset Odyssey
 iab Oferring Offering
 iab Ofifce Office
+iab Oject Object
 iab Onlu Only
 iab Onluy Only
 iab Ontyo Onto
@@ -2004,6 +2005,7 @@ iab WHoa Whoa
 iab WHois Whois
 iab WHy Why
 iab WIDFI WIFI
+iab WINDOWE WINDOW
 iab WIlliam William
 iab WIndow Window
 iab WIndows Windows
@@ -2084,6 +2086,7 @@ iab Wlemcome Welcome
 iab Wnidows Windows
 iab Woithout Without
 iab Wokrs Works
+iab Woriking Working
 iab Workgin Working
 iab Workign Working
 iab Workpalce Workplace
@@ -5084,6 +5087,8 @@ iab cncerrn concern
 iab cnerter center
 iab cneter center
 iab cnetral central
+iab cnintonue continue
+iab cnitnue continue
 iab cnjugations conjugations
 iab cnosle console
 iab cnosnle console
@@ -5686,6 +5691,7 @@ iab consoiousness consciousness
 iab consoiusness consciousness
 iab consolel console
 iab consooe console
+iab consoole console
 iab consooooele console
 iab consous conscious
 iab consouse conscious
@@ -5741,8 +5747,10 @@ iab contats contacts
 iab contaxdt contact
 iab contcrete concrete
 iab contditioning conditioning
+iab conteact contact
 iab contecdt context
 iab contecxts contexts
+iab conteinue continue
 iab contenbt content
 iab conteninget contingent
 iab contenst contest
@@ -5994,6 +6002,7 @@ iab cosntants constants
 iab cosntrucdtion construction
 iab costsa costs
 iab costss costs
+iab cotact contact
 iab cotinue continue
 iab cotninue continue
 iab cotnorl control
@@ -6137,6 +6146,7 @@ iab curbature curvature
 iab curbe curve
 iab curcuit circuit
 iab curent current
+iab curernt current
 iab curicial crucial
 iab curiousities curiosities
 iab curiousity curiosity
@@ -7573,6 +7583,7 @@ iab eideas ideas
 iab eiditn edit
 iab eidotr editor
 iab eidt edit
+iab eidtable editable
 iab eidting editing
 iab eidtiosn editions
 iab eidtor editor
@@ -8508,6 +8519,7 @@ iab exitst exist
 iab exitstance existance
 iab exitsted existed
 iab exiwsitn existing
+iab exiwsting existing
 iab exixtance existence
 iab exloring exploring
 iab exmample example
@@ -9147,6 +9159,7 @@ iab frewrriting freewriting
 iab frewwriting freewriting
 iab frgabments fragments
 iab frictoin friction
+iab friebd friend
 iab friedly friendly
 iab friendf friend
 iab friendshiip friendship
@@ -9240,6 +9253,7 @@ iab functionaly functionality
 iab functiosn functions
 iab functioun function
 iab functiun function
+iab functiuon function
 iab functoin function
 iab functoins functions
 iab fundamentatlly fundamentally
@@ -9915,6 +9929,7 @@ iab hsa has
 iab hsares shares
 iab hsbinh using
 iab hshlef shelf
+iab hsho show
 iab hshould should
 iab hsi his
 iab hsitorty history
@@ -10221,6 +10236,7 @@ iab immunte immune
 iab imn in
 iab imnages images
 iab imnfomration information
+iab imnsert insert
 iab imnspection inspection
 iab imonologue monologue
 iab imopllants implants
@@ -11512,6 +11528,7 @@ iab leittle little
 iab lendgth length
 iab lenegth length
 iab leneses lenses
+iab lengdtH length
 iab lenghht length
 iab lenghrh length
 iab lenght length
@@ -12992,6 +13009,7 @@ iab objecdtives objectives
 iab objecdts objects
 iab objecf object
 iab objecft object
+iab objecrts objects
 iab objecteives objectives
 iab objectional objectionable
 iab objectionalbe objectionable
@@ -13846,6 +13864,7 @@ iab perferably preferably
 iab perfextly perfectly
 iab perffece perfect
 iab perfformed performed
+iab perfoect perfect
 iab perfoectly perfectly
 iab perfoemce perfume
 iab perfomr perform
@@ -13857,6 +13876,7 @@ iab perforance performance
 iab performane performance
 iab performedd performed
 iab perfpheral peripheral
+iab perfrect perfect
 iab perhiperhalls peripherals
 iab perhipherals peripherals
 iab perifpherals peripherals
@@ -16284,6 +16304,7 @@ iab scompuyter computer
 iab sconstant constant
 iab scool school
 iab scopres scores
+iab scorll scroll
 iab scould could
 iab scratech scratch
 iab scrdipt script
@@ -16398,6 +16419,7 @@ iab sedonds seconds
 iab seeasoned seasoned
 iab seee see
 iab seeeing seeing
+iab seelctor selector
 iab seemps seems
 iab seemsl seems
 iab seeon seen
@@ -16425,6 +16447,7 @@ iab selecitons selections
 iab selecs selects
 iab selecsted selected
 iab selecteing selecting
+iab selectoro selector
 iab selectrively selectively
 iab selep sleep
 iab selete delete
@@ -17467,6 +17490,7 @@ iab storeis stories
 iab storiesd stories
 iab storign storing
 iab storiogn storing
+iab storires stories
 iab storng strong
 iab storuy story
 iab stotrage storage
@@ -19102,6 +19126,7 @@ iab uailityh quality
 iab uasers users
 iab ubnix unix
 iab ucklyngs ducklings
+iab ucrrent current
 iab uderstand understand
 iab udnefined undefined
 iab udner under
@@ -19805,6 +19830,7 @@ iab wegbsites websites
 iab wegbstie website
 iab wehate what
 iab wehb web
+iab wehel wheel
 iab wehen when
 iab wehereby whereby
 iab wehjther whether
@@ -20567,10 +20593,3 @@ iab zooom zoom
 iab ztart start
 iab ztaships starships
 
-iab storires stories
-iab cotact contact
-iab hsho show
-iab scorll scroll
-iab friebd friend
-iab WINDOWE WINDOW
-iab curernt current
