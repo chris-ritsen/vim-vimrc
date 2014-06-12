@@ -20570,3 +20570,7 @@ iab ztaships starships
 iab storires stories
 iab cotact contact
 iab hsho show
+iab scorll scroll
+iab friebd friend
+iab WINDOWE WINDOW
+iab curernt current
