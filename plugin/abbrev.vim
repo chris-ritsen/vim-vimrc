@@ -2587,6 +2587,7 @@ iab addistional additional
 iab additaional additional
 iab additaionl additional
 iab additeion addition
+iab additiaonl additional
 iab additio addition
 iab additioanl additional
 iab additiojnal additional
@@ -4907,6 +4908,7 @@ iab cinsoiering considering
 iab cinsoxtent consistent
 iab cinstructor constructor
 iab cintinue continue
+iab ciolor color
 iab ciommandss commands
 iab cionsider consider
 iab cionsierable considerable
@@ -6979,6 +6981,7 @@ iab displacmdent displacement
 iab displacmetn displacement
 iab displaeyd displayed
 iab displasy displays
+iab displau display
 iab displauy display
 iab displayu display
 iab displayus displays
@@ -8021,6 +8024,7 @@ iab epxecially especially
 iab epxectd expected
 iab epxected expected
 iab epxecting expecting
+iab epxedcted expected
 iab epxerience experience
 iab epxermeiments experiments
 iab epxetcted Expected
@@ -8991,6 +8995,7 @@ iab flasgs flasks
 iab flaswe false
 iab flecible flexible
 iab flet felt
+iab flext flex
 iab flgith flight
 iab fliipped flipped
 iab fliying flying
@@ -9693,6 +9698,7 @@ iab heawr hear
 iab heealth health
 iab heeelp help
 iab heere here
+iab hehight height
 iab hehre here
 iab heigher higher
 iab heihgh height
@@ -9700,6 +9706,7 @@ iab heihgt height
 iab heir3ss heiress
 iab heirarchy hierarchy
 iab heisenbuer heisenberg
+iab heiught height
 iab helaht health
 iab helath health
 iab helathy healthy
@@ -11352,6 +11359,7 @@ iab lIt It
 iab lThe the
 iab lThere there
 iab laate late
+iab labe3l label
 iab labellled labeled
 iab lable label
 iab labrl label
@@ -13383,6 +13391,7 @@ iab opwer power
 iab oraganising organising
 iab oragnize organize
 iab ordanize organize
+iab ordder order
 iab ordinarty ordinary
 iab ordinry ordinary
 iab ordre order
@@ -16240,6 +16249,7 @@ iab scdript script
 iab scdroll scroll
 iab scdsript script
 iab scdtip script
+iab sceciotn section
 iab sceduling scheduling
 iab sceenarios scenarios
 iab scell cell
@@ -16389,6 +16399,7 @@ iab seawrhc search
 iab seaxojl season
 iab secanario scenario
 iab secction section
+iab secdetion section
 iab secdtion section
 iab secdtions sections
 iab secenario scenario
@@ -16396,6 +16407,7 @@ iab secene scene
 iab secftion section
 iab secfton Sefton
 iab secionds seconds
+iab seciont section
 iab seciotn section
 iab seciotns seconds
 iab secirutyy security
@@ -20100,6 +20112,7 @@ iab wirtiing writing
 iab wirting writing
 iab wirtten written
 iab wirttten written
+iab wisth width
 iab witgh with
 iab withdrawl withdrawal
 iab withh with
@@ -20593,14 +20606,3 @@ iab zooom zoom
 iab ztart start
 iab ztaships starships
 
-iab flext flex
-iab hehight height
-iab ciolor color
-iab ordder order
-iab heiught height
-iab seciont section
-iab sceciotn section
-iab secdetion section
-iab labe3l label
-iab displau display
-iab wisth width
