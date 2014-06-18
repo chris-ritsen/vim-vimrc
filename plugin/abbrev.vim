@@ -640,6 +640,7 @@ iab Euqla Equal
 iab Evenetually Eventually
 iab EventualLY Eventually
 iab Eventuallu Eventually
+iab Eventyually Eventually
 iab Everbody Everybody
 iab Evereyone Everyone
 iab Everhrone Everyone
@@ -1325,6 +1326,7 @@ iab Paswword Password
 iab Pefect Perfect
 iab Peopl People
 iab Peple People
+iab Perfomred Performed
 iab Perhappes Perhapses
 iab Perioheral Peripheral
 iab Periopheral Peripheral
@@ -1798,6 +1800,7 @@ iab TIgers Tigers
 iab TIme Time
 iab TOOD TODO
 iab TOday Today
+iab TOitanfall Titanfall
 iab TOkens Tokens
 iab TOld Told
 iab TOm Tom
@@ -3477,6 +3480,7 @@ iab articels articles
 iab articile article
 iab articl4 article
 iab articlde article
+iab articlre article
 iab artiests artists
 iab artificail artificial
 iab artificual artificial
@@ -3679,6 +3683,7 @@ iab ausre sure
 iab aut0matically automatically
 iab autcorrections autocorrections
 iab autdio audio
+iab autgo auto
 iab authetntication authentication
 iab authfor author
 iab authoization authorization
@@ -4248,6 +4253,7 @@ iab bnucnh bunch
 iab bnut but
 iab boces boxes
 iab bocses boxes
+iab bodey body
 iab bodyies bodies
 iab boefore before
 iab boexes boxes
@@ -5727,6 +5733,7 @@ iab consturct construct
 iab consturcts constructs
 iab consturcuted constructed
 iab consuing consuming
+iab consukmmming consuming
 iab consultiign consulting
 iab consultting consulting
 iab consumingh consuming
@@ -6331,6 +6338,7 @@ iab decrase decrease
 iab decrasing decreasing
 iab decreating decreasing
 iab decresae decrease
+iab decresase decrease
 iab decrsing decreasing
 iab decsterity dexterity
 iab decterity dexterity
@@ -6379,6 +6387,7 @@ iab deither either
 iab deivceis devices
 iab dejcected dejected
 iab delaidgns dealings
+iab delas deals
 iab delcar declare
 iab delcaration declaration
 iab delciate delicate
@@ -11452,6 +11461,7 @@ iab lbowing blowing
 iab lbue blue
 iab lcddoleldt collect
 iab lceaning cleaning
+iab lcelaning cleaning
 iab lcients clients
 iab lcientside clientside
 iab lcinets clients
@@ -16654,6 +16664,7 @@ iab sevurely securely
 iab sewat sweat
 iab sewating sweating
 iab sewatshirt sweatshirt
+iab sewems seems
 iab sewitdgched switched
 iab sewrver server
 iab sexrice exercise
@@ -17311,6 +17322,7 @@ iab srewing screwing
 iab srintg spring
 iab sript script
 iab sroll scroll
+iab srpouts sprouts
 iab srreen screen
 iab sruvive survive
 iab srver server
@@ -17754,6 +17766,7 @@ iab surfacezs surfaces
 iab surfae surface
 iab surfive survive
 iab surfvice survive
+iab suriviver surviver
 iab surpfiginly surprisingly
 iab surpoerimopsed superimposed
 iab surporise surprise
@@ -17774,6 +17787,7 @@ iab surpruiseid surprised
 iab surprupseds surprises
 iab surprused surprised
 iab surroudnign surrounding
+iab surroundede surrounded
 iab surroundign surrounding
 iab survace surface
 iab survfac surface
@@ -17840,6 +17854,7 @@ iab swhticed switched
 iab swictched switched
 iab swigly squiggly
 iab swiling swilling
+iab swining swinging
 iab switced switched
 iab switch3ed switched
 iab switchded switched
