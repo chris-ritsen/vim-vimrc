@@ -4253,6 +4253,7 @@ iab bnucnh bunch
 iab bnut but
 iab boces boxes
 iab bocses boxes
+iab bocx box
 iab bodey body
 iab bodyies bodies
 iab boefore before
@@ -5100,9 +5101,12 @@ iab cnitnue continue
 iab cnjugations conjugations
 iab cnosle console
 iab cnosnle console
+iab cnosoelll console
 iab cnosole console
+iab cnosooe console
 iab cnsider consider
 iab cnsole console
+iab cnsoole console
 iab cnsoolel console
 iab coarbon carbon
 iab coce code
@@ -5619,6 +5623,7 @@ iab conntection connection
 iab conole console
 iab conolse console
 iab conosle console
+iab conosole console
 iab conosuhiosuness consciousness
 iab conpatuyer computer
 iab conphehension comprehension
@@ -5699,6 +5704,7 @@ iab consoiousness consciousness
 iab consoiusness consciousness
 iab consolel console
 iab consooe console
+iab consooel console
 iab consoole console
 iab consooooele console
 iab consous conscious
@@ -6992,6 +6998,7 @@ iab displaeyd displayed
 iab displasy displays
 iab displau display
 iab displauy display
+iab displayh display
 iab displayu display
 iab displayus displays
 iab displyas displays
@@ -9004,6 +9011,7 @@ iab flasgs flasks
 iab flaswe false
 iab flecible flexible
 iab flet felt
+iab flexc flex
 iab flext flex
 iab flgith flight
 iab fliipped flipped
@@ -10176,6 +10184,7 @@ iab ignornace ignorance
 iab ihas has
 iab ihere here
 iab ihighe higher
+iab ihoriginal original
 iab ihstalled installed
 iab iimportant important
 iab iin in
@@ -10311,6 +10320,7 @@ iab imporance importance
 iab imporant important
 iab imporatant important
 iab imporatn important
+iab imporatna important
 iab imporatnat important
 iab imporatnce importance
 iab imporatnly importantly
@@ -10365,6 +10375,7 @@ iab imprwessaed impressed
 iab impsosible impossible
 iab impule impulse
 iab imroving improving
+iab imrporatn important
 iab imrpove improve
 iab imrpovemtn improvement
 iab imrpvoe improve
@@ -10656,6 +10667,7 @@ iab inlcidnations inclinations
 iab inlnei inline
 iab inmages images
 iab inmpants implants
+iab inmportant important
 iab innacurate inaccurate
 iab inneumerable innumerable
 iab innfinite infinite
@@ -11190,6 +11202,7 @@ iab jsuet just
 iab jsust just
 iab jsut just
 iab jsutification justification
+iab jsutify justify
 iab jsutw just
 iab jto jot
 iab jtryin trying
@@ -12043,6 +12056,7 @@ iab maximse maximise
 iab maxinu maximum
 iab maxinuunm maximum
 iab maxiumm maximum
+iab maxlenght maxlength
 iab maynbe maybe
 iab mbash bash
 iab mbeeen been
@@ -13165,6 +13179,7 @@ iab ocnfiguration configuration
 iab ocnfiruration configuration
 iab ocnfuse confuse
 iab ocnsintraing constraining
+iab ocnsoel console
 iab ocntinues continues
 iab ocntorlelr controller
 iab ocomlaints complaints
@@ -13270,6 +13285,8 @@ iab omre more
 iab omrnig morning
 iab omterset intersect
 iab onChnage onChange
+iab oncsoel console
+iab oncsole console
 iab onece once
 iab onee one
 iab oneslef oneself
@@ -13393,6 +13410,7 @@ iab optinos options
 iab optioacal optical
 iab optiocal optical
 iab optionsl options
+iab optn open
 iab optoins options
 iab optuidal optical
 iab optuion option
@@ -13409,6 +13427,7 @@ iab ordser order
 iab oreder order
 iab oredr order
 iab oreiented oriented
+iab oreturn return
 iab orgahnized organized
 iab orgainizing organizing
 iab orgaised organised
@@ -13440,8 +13459,10 @@ iab origianlly originally
 iab originl original
 iab origiunal original
 iab orignal original
+iab orignial original
 iab orignis origins
 iab orioginal original
+iab oriognal original
 iab oritineted oriented
 iab orldwide worldwide
 iab orle role
@@ -14587,6 +14608,7 @@ iab previoulsy previously
 iab previwe preview
 iab previwes previews
 iab previws previews
+iab prevnet prevent
 iab prevoisluly previously
 iab prevoius previous
 iab prevous previous
@@ -15278,6 +15300,7 @@ iab rebister register
 iab recaching reaching
 iab recards regards
 iab recdent recent
+iab recdtangle rectangle
 iab receied received
 iab receieve receive
 iab receieved received
@@ -15350,6 +15373,8 @@ iab recration recreation
 iab recrational recreational
 iab recrationtal recreational
 iab recriotedr recruiter
+iab rectalcngle rectangle
+iab rectangel rectangle
 iab recularly regularly
 iab recursibley recursively
 iab redaing reading
@@ -15584,6 +15609,7 @@ iab remvbever revolver
 iab remvoe remove
 iab remvoed removed
 iab remvoing removing
+iab remvow remove
 iab rend4ered rendered
 iab renderd rendered
 iab renderere renderer
@@ -15897,6 +15923,7 @@ iab retrived retrieved
 iab retunr return
 iab retunred returned
 iab returend returned
+iab returhn return
 iab returnign returning
 iab returnsed returned
 iab returnxs returns
@@ -15926,6 +15953,7 @@ iab reuslts results
 iab reusme resume
 iab reustlt result
 iab reutnr return
+iab reutrbn return
 iab reutrn return
 iab revalation revelation
 iab revcoeringds recordings
@@ -15960,6 +15988,7 @@ iab revolutiohn revolution
 iab rewally really
 iab rewaosn reason
 iab rewareds rewards
+iab rewctacnlge rectangle
 iab rewflext reflect
 iab rewiveiwng reviewing
 iab rewquest request
@@ -15967,6 +15996,7 @@ iab rewquiremnet requirement
 iab rewqvienw rewoven
 iab rewsponsiblity responsibility
 iab rewsuem resume
+iab rewturn return
 iab rewviivewing reviewing
 iab rewwriting rewriting
 iab rexample example
@@ -16112,6 +16142,7 @@ iab rsulting resulting
 iab rsume resume
 iab rtaking taking
 iab rtasks tasks
+iab rtecdtangle rectangle
 iab rtesting testing
 iab rthat that
 iab rthater rather
@@ -18021,6 +18052,7 @@ iab tarnsformation transformation
 iab tarnsistors transistors
 iab tarnslate translate
 iab tarnslational translational
+iab tarnsparent transparent
 iab tarnsposition transposition
 iab tarveling traveling
 iab tasest tastes
@@ -18940,6 +18972,7 @@ iab transpacencies transparencies
 iab transpaerencesi transparencies
 iab transpaerncies transparencies
 iab transpareencies transparencies
+iab transpareent transparent
 iab transpareiencies transparencies
 iab transparemencies transparencies
 iab transparencdies transparencies
@@ -19014,6 +19047,7 @@ iab trunch trunk
 iab trup trip
 iab truply truly
 iab trupmets trumpets
+iab truye true
 iab truyly truly
 iab trviial trivial
 iab tryifng trying
@@ -19404,6 +19438,7 @@ iab upgrad43 upgrade
 iab upgrae upgrade
 iab upgrdae upgrade
 iab upgright upright
+iab uplados uploads
 iab uplaoded uploaded
 iab upoin upon
 iab uproductive productive
@@ -20621,34 +20656,3 @@ iab zooom zoom
 iab ztart start
 iab ztaships starships
 
-iab jsutify justify
-iab consooel console
-iab ocnsoel console
-iab oncsole console
-iab inmportant important
-iab cnosoelll console
-iab oncsoel console
-iab returhn return
-iab rewctacnlge rectangle
-iab rectalcngle rectangle
-iab recdtangle rectangle
-iab rectangel rectangle
-iab rtecdtangle rectangle
-iab oreturn return
-iab bocx box
-iab improtant important
-iab imrporatn important
-iab tarnsparent transparent
-iab oriognal original
-iab orignial original
-iab cnosooe console
-iab ihoriginal original
-iab prevnet prevent
-iab reutrbn return
-iab rewturn return
-iab conosole console
-iab remvow remove
-iab cnsoole console
-iab truye true
-iab optn open
-iab maxlenght maxlength
