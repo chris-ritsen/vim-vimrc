@@ -11295,6 +11295,7 @@ iab keyobardw keyboard
 iab keyrboard keyboard
 iab keystroke3 keystroke
 iab keyuboahrsd keyboard
+iab keyyp keyup
 iab kiccking kicking
 iab kicthen kitchen
 iab kiddy kiddie
@@ -12114,6 +12115,7 @@ iab mechbanical mechanical
 iab medai media
 iab medcical medical
 iab medecine medicine
+iab mediaq media
 iab medicall medical
 iab medidate meditate
 iab medidiaate meditate
@@ -14627,6 +14629,7 @@ iab previwe preview
 iab previwes previews
 iab previws previews
 iab prevnet prevent
+iab prevnetDefault preventDefault
 iab prevoisluly previously
 iab prevoius previous
 iab prevous previous
@@ -20605,6 +20608,7 @@ iab yourgurt yogurt
 iab yoursalef yourself
 iab yoursefl yourself
 iab yourseflf yourself
+iab yourseklf yourself
 iab yourslef yourself
 iab youtbe youtube
 iab youtbube youtube
