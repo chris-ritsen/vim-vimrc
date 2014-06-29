@@ -20733,3 +20733,4 @@ iab remvew remove
 iab cloen clone
 iab preventDfeault preventDefault
 iab attributres attributes
+iab Purached Purchased
