@@ -30,6 +30,7 @@ augroup filetypes
 
   autocmd! BufEnter * if &filetype == "" | setlocal filetype=text | endif
   autocmd! BufNewFile,BufRead *.c,*.cpp set foldmethod=syntax
+  autocmd! BufNewFile,BufRead *.vim set commentstring=" %s
   autocmd! BufNewFile,BufRead *.css,*.scss set foldmethod=marker fmr={,}
   autocmd! BufNewFile,BufRead *.ldg,*.ledger setf ledger
   autocmd! BufRead,BufNewFile *.aspx,*.asmx,*.ascx set filetype=aspnet 

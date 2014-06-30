@@ -4,6 +4,7 @@ set backspace=eol,start,indent
 set cmdheight=1
 set completeopt=menuone,menu,longest,preview
 set cpoptions=aABceFsJ "+=J
+set commentstring=#\ %s
 set dictionary+=/usr/share/dict/words
 set dir=~/.vim/swap//,/tmp//,.
 set encoding=utf-8
