@@ -13598,6 +13598,7 @@ iab oughht ought
 iab ouit out
 iab oultiple multiple
 iab ounter counter
+iab ouptut output
 iab oustanding outstanding
 iab outcside outside
 iab outght ought
