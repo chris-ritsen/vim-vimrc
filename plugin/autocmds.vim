@@ -55,10 +55,12 @@ augroup filetypes
   autocmd! FileType json setlocal nowrap
   autocmd! FileType lynx setlocal commentstring=#\ %s
   autocmd! FileType nginx setlocal commentstring=#\ %s
+  autocmd! FileType fstab setlocal commentstring=#\ %s
   autocmd! FileType scss setlocal nowrap
   autocmd! FileType slrnrc setlocal commentstring=%\ %s
   autocmd! FileType svnannotate cmap <buffer> q bwipeout
   autocmd! FileType text setlocal commentstring=%s 
+  autocmd! FileType haskell setlocal commentstring=--\ %s 
   autocmd! FileType text setlocal textwidth=78
   autocmd! FileType tmux setlocal commentstring=#\ %s
   autocmd! FileType vb setlocal commentstring='\ %s

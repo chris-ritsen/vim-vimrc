@@ -20737,3 +20737,7 @@ iab zooom zoom
 iab ztart start
 iab ztaships starships
 
+iab miniumum minimum
+iab cnosoel console
+iab circlec circle
+iab fuinction function
