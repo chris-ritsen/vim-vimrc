@@ -3668,6 +3668,7 @@ iab attmeptign attempting
 iab attntetnion attention
 iab attribles attributes
 iab attributesa attributes
+iab attributres attributes
 iab attribuytes attributes
 iab attriduted attributed
 iab attrubte attribute
@@ -5021,6 +5022,7 @@ iab clmaps clamps
 iab clnsomle console
 iab cloduay cloudy
 iab cloehts clothes
+iab cloen clone
 iab cloene clone
 iab cloer closer
 iab cloese close
@@ -5830,6 +5832,7 @@ iab contiunuum continuum
 iab contiunyous continuous
 iab contiuous continuous
 iab contiyually continually
+iab contnet content
 iab contnetn content
 iab contorl control
 iab contorlled controlled
@@ -9283,6 +9286,7 @@ iab funcoin function
 iab functdion function
 iab functdionalyt functionality
 iab functdiosn functions
+iab functgion function
 iab functiaonl functional
 iab functino function
 iab functioN function
@@ -14651,6 +14655,7 @@ iab preteurved perturbed
 iab prettty pretty
 iab prettyy pretty
 iab prety pretty
+iab preventDfeault preventDefault
 iab preventingh preventing
 iab preventted prevented
 iab previals prevails
@@ -15664,6 +15669,7 @@ iab rempaping remapping
 iab remplately remotely
 iab rempotely remotely
 iab remvbever revolver
+iab remvew remove
 iab remvoe remove
 iab remvoed removed
 iab remvoing removing
@@ -20728,8 +20734,3 @@ iab zomibnes zombies
 iab zooom zoom
 iab ztart start
 iab ztaships starships
-
-iab remvew remove
-iab cloen clone
-iab preventDfeault preventDefault
-iab attributres attributes
