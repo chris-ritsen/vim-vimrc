@@ -4312,6 +4312,7 @@ iab botherd bothers
 iab bothg both
 iab bothj both
 iab botyh both
+iab boudning bounding
 iab bougth bought
 iab boun bound
 iab bourden burden
@@ -4939,6 +4940,7 @@ iab cioudld could
 iab ciousdl could
 iab cipies copies
 iab circcles circles
+iab circlec circle
 iab circuilates circulates
 iab circut circuit
 iab cirppled crippled
@@ -5115,6 +5117,7 @@ iab cnitnue continue
 iab cnjugations conjugations
 iab cnosle console
 iab cnosnle console
+iab cnosoel console
 iab cnosoelll console
 iab cnosole console
 iab cnosooe console
@@ -5719,6 +5722,7 @@ iab consoicue conscious
 iab consoiousness consciousness
 iab consoiusness consciousness
 iab consolel console
+iab consoloe console
 iab consooe console
 iab consooel console
 iab consoole console
@@ -9265,6 +9269,7 @@ iab fuflling fulfilling
 iab fufulling fulfilling
 iab fuile file
 iab fuilter filter
+iab fuinction function
 iab fukcing fucking
 iab fuled fueled
 iab fulful fulfil
@@ -12796,6 +12801,7 @@ iab nayting anything
 iab nbeside beside
 iab nciesly nicely
 iab ncludes includes
+iab ncosole console
 iab ndoe node
 iab ndownloaded downloaded
 iab neabled enabled
@@ -20737,7 +20743,3 @@ iab zooom zoom
 iab ztart start
 iab ztaships starships
 
-iab miniumum minimum
-iab cnosoel console
-iab circlec circle
-iab fuinction function
