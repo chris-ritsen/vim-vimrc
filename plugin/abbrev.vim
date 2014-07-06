@@ -4218,6 +4218,7 @@ iab bisiting visiting
 iab biuld build
 iab biuldings buildings
 iab biuldpack buildpack
+iab bkac back
 iab bkinding binding
 iab blaance balance
 iab blabn blab
@@ -7688,8 +7689,11 @@ iab elecrodd2 electrode
 iab electeroinic electronic
 iab electic electric
 iab electical electrical
+iab electirciyt electricity
 iab electonic electronic
 iab electornic electronic
+iab electriciyt electricity
+iab electricty electricity
 iab electricyt electricity
 iab electrocde electrode
 iab electroed electrode
@@ -7712,6 +7716,7 @@ iab eleft left
 iab eleictrical electrical
 iab eleids eyelids
 iab elelcation elevation
+iab elelctriicity electricity
 iab elemenbts elements
 iab elementaery elementary
 iab elementayr elementary
@@ -7727,6 +7732,7 @@ iab eles else
 iab eletrco electro
 iab eletric electric
 iab eletrical electrical
+iab eletricity electricity
 iab eletro electro
 iab eletrode electrode
 iab eletrodes electrodes
@@ -11469,6 +11475,7 @@ iab latleyt lately
 iab latotu layout
 iab latout layout
 iab latpop laptop
+iab latselty lately
 iab latyout layout
 iab laucnh launch
 iab laudnry laundry
@@ -15505,6 +15512,7 @@ iab reflet reflect
 iab reflexes Reflexes
 iab reflext reflect
 iab reflextion reflection
+iab refreidgerator refrigerator
 iab refrences references
 iab refresdhed refreshed
 iab refridgerator refrigerator
@@ -18466,6 +18474,7 @@ iab thayg that
 iab thbought thought
 iab theat that
 iab theb them
+iab thedse these
 iab theee the
 iab theem them
 iab theemsleves themselves
@@ -20743,3 +20752,14 @@ iab zooom zoom
 iab ztart start
 iab ztaships starships
 
+iab phtoos photos
+iab marign margin
+iab noticebluy noticeably
+iab cosnoele console
+iab cosole console
+iab prurchaced purchased
+iab latelsy lately
+iab onluien online
+iab bottole bottle
+iab ENtertained Entertained
+iab evangalissts evangelists
