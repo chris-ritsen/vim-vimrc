@@ -545,6 +545,7 @@ iab ELDGER LEDGER
 iab ENgine Engine
 iab ENgineering Engineering
 iab ENglish English
+iab ENtertained Entertained
 iab ERitsen Ritsen
 iab ESee See
 iab ESessntially Essentially
@@ -4312,7 +4313,10 @@ iab botheirjing bothering
 iab botherd bothers
 iab bothg both
 iab bothj both
+iab bottole bottle
 iab botyh both
+iab boudngin bounding
+iab boudnign bounding
 iab boudning bounding
 iab bougth bought
 iab boun bound
@@ -6033,10 +6037,12 @@ iab cosmose cosmos
 iab cosmost cosmos
 iab cosnidered considered
 iab cosnoel console
+iab cosnoele console
 iab cosnoelle console
 iab cosnole console
 iab cosntants constants
 iab cosntrucdtion construction
+iab cosole console
 iab costsa costs
 iab costss costs
 iab cotact contact
@@ -7353,6 +7359,7 @@ iab duplciagtes duplicates
 iab duplicatoin duplication
 iab dupslay display
 iab duraction duration
+iab duratiuon duration
 iab dureaciotn duration
 iab dureation duration
 iab duresation duration
@@ -8246,6 +8253,7 @@ iab euyar year
 iab evaaluated evaluated
 iab evaltuated evaluated
 iab evalyate evaluate
+iab evangalissts evangelists
 iab evasice evasive
 iab evauluate evaluate
 iab evealutate evaluate
@@ -8827,6 +8835,7 @@ iab fallying falling
 iab falmcons falcons
 iab falres flares
 iab falsde false
+iab falwe false
 iab famiiliar familiar
 iab familar familiar
 iab familiy familia
@@ -10682,6 +10691,7 @@ iab inidicuaal identical
 iab inifinte infinite
 iab iniicadte indicate
 iab iniital initial
+iab iniitalize initialize
 iab iniitla initial
 iab ininitalize initialize
 iab inistalling installing
@@ -11466,6 +11476,7 @@ iab lastg last
 iab lasyout layout
 iab lateldty lately
 iab lateley lately
+iab latelsy lately
 iab laterb later
 iab latere later
 iab laters later
@@ -11728,6 +11739,7 @@ iab listewn listen
 iab listewnds listeners
 iab listewners listeners
 iab listne listen
+iab listneers listeners
 iab listneing listening
 iab listnining listening
 iab litearlly literally
@@ -13014,6 +13026,7 @@ iab nothign nothing
 iab nothiong nothing
 iab nothiung nothing
 iab noticably noticeably
+iab noticebluy noticeably
 iab noticebly noticeably
 iab noticlable noticeable
 iab notifiations notifications
@@ -13365,6 +13378,7 @@ iab onlly only
 iab onlmy only
 iab onlnys only
 iab onlu only
+iab onluien online
 iab onluy only
 iab onlyh only
 iab onlyt only
@@ -14152,6 +14166,7 @@ iab phsyioulogically physiologically
 iab phsysical physical
 iab phsysics physics
 iab phtoo photo
+iab phtoos photos
 iab phtoto photo
 iab phuysocal physical
 iab phyches psyches
@@ -14220,6 +14235,7 @@ iab plastivf plastic
 iab platfomr platform
 iab platforma platform
 iab platying playing
+iab plauer player
 iab plawdce placed
 iab playedch played
 iab playetr player
@@ -15008,6 +15024,7 @@ iab pruposes purposes
 iab prupses purposes
 iab prupsoe propose
 iab prupsssoe purpose
+iab prurchaced purchased
 iab prurpose purpose
 iab pruspoe3 purpose
 iab prved proved
@@ -20752,14 +20769,3 @@ iab zooom zoom
 iab ztart start
 iab ztaships starships
 
-iab phtoos photos
-iab marign margin
-iab noticebluy noticeably
-iab cosnoele console
-iab cosole console
-iab prurchaced purchased
-iab latelsy lately
-iab onluien online
-iab bottole bottle
-iab ENtertained Entertained
-iab evangalissts evangelists
