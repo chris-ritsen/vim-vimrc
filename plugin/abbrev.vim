@@ -2812,6 +2812,7 @@ iab alignmetn alignment
 iab alignmmetn alignment
 iab alikas alias
 iab alingment alignment
+iab alirgn align
 iab alitteration alliteration
 iab allarming alarming
 iab alliow allow
@@ -3758,6 +3759,7 @@ iab automaticyll automatically
 iab automatiion automation
 iab automatoin automaton
 iab automonmously autonomously
+iab autop auto
 iab autopmatically automatically
 iab autorization authorization
 iab autovcorredctions autocorrections
@@ -4150,6 +4152,7 @@ iab beteter better
 iab betetr better
 iab beteween between
 iab betewen between
+iab betewwen between
 iab betewwn between
 iab betr better
 iab betteer better
@@ -4759,6 +4762,7 @@ iab cetnruty century
 iab cetnury century
 iab cetrain certain
 iab cevlver clever
+iab cewnter center
 iab cfirst first
 iab cgateroy category
 iab cguide guide
@@ -5121,6 +5125,7 @@ iab cnan can
 iab cnanot cannot
 iab cnceived conceived
 iab cncerrn concern
+iab cnenter center
 iab cnerter center
 iab cneter center
 iab cnetral central
@@ -5800,6 +5805,7 @@ iab contecxts contexts
 iab conteinue continue
 iab contenbt content
 iab conteninget contingent
+iab contenr content
 iab contenst contest
 iab contente content
 iab contentes contents
@@ -6768,6 +6774,7 @@ iab didnt didn't
 iab didsabled disabled
 iab didsntance distance
 iab didsovered discovered
+iab didsplau display
 iab didsplay display
 iab didsplaying displaying
 iab didstractin distracting
@@ -6895,6 +6902,7 @@ iab dipslayed displayed
 iab dipslaying displaying
 iab dipslpay display
 iab diration duration
+iab dircction direction
 iab dircdt direct
 iab dircdtion direction
 iab dircftive directive
@@ -7015,6 +7023,7 @@ iab disintrested disinterested
 iab disitionction distinction
 iab disitunusiehd distinguished
 iab diskliek dislike
+iab dislpay display
 iab disocnnecdted disconnected
 iab disocnnected disconnected
 iab disocnnendcsgted disconnected
@@ -10390,6 +10399,7 @@ iab imporoving improving
 iab importane importance
 iab importanfe importance
 iab importnce importance
+iab importyant important
 iab imporve improve
 iab imporved improved
 iab imporveo improve
@@ -10726,6 +10736,7 @@ iab inlcidnations inclinations
 iab inlnei inline
 iab inmages images
 iab inmpants implants
+iab inmporatnat important
 iab inmportant important
 iab innacurate inaccurate
 iab inneumerable innumerable
@@ -11264,6 +11275,7 @@ iab jstu just
 iab jsuet just
 iab jsust just
 iab jsut just
+iab jsutifhy justify
 iab jsutification justification
 iab jsutify justify
 iab jsutw just
@@ -11284,9 +11296,11 @@ iab jusat just
 iab jusdge judge
 iab jusdging judging
 iab jusdt just
+iab jusdtify justify
 iab jusgment judgment
 iab jusit just
 iab justfying justifying
+iab justifu justify
 iab justoiify justify
 iab justy just
 iab jusyt just
@@ -20021,6 +20035,7 @@ iab wegb web
 iab wegbbsites websites
 iab wegbcam webcam
 iab wegbdav webdav
+iab wegbkit webkit
 iab wegbsite website
 iab wegbsites websites
 iab wegbstie website
@@ -20793,23 +20808,3 @@ iab zooom zoom
 iab ztart start
 iab ztaships starships
 
-iab jsutify justify
-iab justifu justify
-iab dislpay display
-iab autop auto
-iab alirgn align
-iab jsutifhy justify
-iab bewteen between
-iab contenr content
-iab betewwen between
-iab contenr content
-iab jusdtify justify
-iab bwetween between
-iab dircction direction
-iab cewnter center
-iab cnenter center
-iab importyant important
-iab didsplau display
-iab wegbkit webkit
-iab inmporatnat important
-iab felx flex
