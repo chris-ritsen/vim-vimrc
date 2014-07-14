@@ -188,6 +188,7 @@ iab Ayter After
 iab BEcause Because
 iab BEfore Before
 iab BEing Being
+iab BLock Block
 iab BLue Blue
 iab BNecause Because
 iab BOlleawn Boolean
@@ -746,6 +747,7 @@ iab GOd God
 iab GOign Going
 iab GOod Good
 iab GOodbye Goodbye
+iab GOodnight Goodnight
 iab GOogle Google
 iab GOt Got
 iab GReat Great
@@ -1087,6 +1089,7 @@ iab Listning Listening
 iab Litened Listened
 iab Lniux Linux
 iab Lnks Links
+iab Loafd Load
 iab Londom London
 iab Looiking Looking
 iab Loondon London
@@ -1258,6 +1261,8 @@ iab OPtional Optional
 iab OPtions Options
 iab OPtioonal Optional
 iab OSometimes Sometimes
+iab OTDO TODO
+iab OTOD TODO
 iab OTher Other
 iab OTherwise Otherwise
 iab OUr Our
@@ -1371,6 +1376,7 @@ iab Ponteiac Pontiac
 iab Popele People
 iab Populat Populate
 iab Porojcts Projects
+iab Poseter Poster
 iab Posisbly Possibly
 iab Postion Position
 iab Potatos Potatoes
@@ -2252,6 +2258,7 @@ iab absolutley absolutely
 iab absoluytely absolutely
 iab absolyte absolute
 iab absolytely absolutely
+iab absolyute absolute
 iab absolyutely absolutely
 iab absorebed absorbed
 iab absoulte absolute
@@ -6068,6 +6075,7 @@ iab counteruulture counterculture
 iab countriers countries
 iab countriess countries
 iab coupl3ed coupled
+iab coupole couple
 iab coutnrty country
 iab coutnry country
 iab coutnryt country
@@ -6249,6 +6257,7 @@ iab dahysdream daydream
 iab dailay daily
 iab dailf daily
 iab dailog dialog
+iab dailyu daily
 iab daioly daily
 iab dalso also
 iab damagie damage
@@ -6400,6 +6409,7 @@ iab defineed defined
 iab definiatley definitely
 iab definitaltely definitely
 iab definiteions definitions
+iab definitelyl definitely
 iab defintely definitely
 iab defintiely definitely
 iab defintiions definitions
@@ -6837,6 +6847,7 @@ iab diffilcydtu difficulty
 iab diffilcyt difficulty
 iab diffilcyty difficulty
 iab diffiuclty difficulty
+iab diffiucltyies difficulties
 iab diffiuclut difficult
 iab diffiucluty difficulty
 iab diffklicypty difficulty
@@ -10690,6 +10701,7 @@ iab inidan indian
 iab inidicuaal identical
 iab inifinte infinite
 iab iniicadte indicate
+iab iniitailization initialization
 iab iniital initial
 iab iniitalize initialize
 iab iniitla initial
@@ -11771,6 +11783,7 @@ iab lkiolkey likely
 iab lkocation location
 iab llamma llama
 iab lleast least
+iab llg log
 iab lllast last
 iab llog log
 iab llogn long
@@ -12613,6 +12626,7 @@ iab mormning morning
 iab morngin morning
 iab mornig morning
 iab mornign morning
+iab mornnig morning
 iab morntign morning
 iab moroign morning
 iab mosat most
@@ -13365,6 +13379,7 @@ iab omre more
 iab omrnig morning
 iab omterset intersect
 iab onChnage onChange
+iab oncde once
 iab oncsoel console
 iab oncsole console
 iab onece once
@@ -13578,6 +13593,7 @@ iab osmething something
 iab osmewhat somewhat
 iab osmthing something
 iab osocket socket
+iab ospter poster
 iab ostrategies strategies
 iab ot to
 iab otday today
@@ -14243,6 +14259,7 @@ iab playetr player
 iab playform platform
 iab playgin playing
 iab playh play
+iab playher player
 iab playhing playing
 iab playinh playing
 iab plcae place
@@ -14446,6 +14463,7 @@ iab possbily possibly
 iab possbly possibly
 iab possesion possession
 iab possessin possession
+iab possetr poster
 iab possibel possible
 iab possibibilties possibilities
 iab possibilties possibilities
@@ -15328,6 +15346,7 @@ iab reagularly regularly
 iab reails rails
 iab reailty reality
 iab reakl real
+iab realated related
 iab realating relating
 iab realeased released
 iab realely really
@@ -17326,6 +17345,7 @@ iab sordt sort
 iab sorteded sorted
 iab sortware software
 iab soruce source
+iab soruces sources
 iab sosmeone someone
 iab sotfawtre software
 iab sotires stories
@@ -17736,6 +17756,7 @@ iab stuepping stepping
 iab stuf stuff
 iab stufcte struct
 iab stukc stuck
+iab stule style
 iab stumuluis stimulus
 iab stupisd stupid
 iab stupiud stupid
@@ -19998,6 +20019,7 @@ iab weeknd weekend
 iab wefverying everything
 iab wegb web
 iab wegbbsites websites
+iab wegbcam webcam
 iab wegbdav webdav
 iab wegbsite website
 iab wegbsites websites
@@ -20480,6 +20502,7 @@ iab writnignn writing
 iab writsts wrists
 iab writtten written
 iab writw write
+iab wriute write
 iab wriwte write
 iab wrkecking wrecking
 iab wrld world
