@@ -4744,6 +4744,7 @@ iab cenrter center
 iab censorshup censorship
 iab centarllized centralized
 iab centeral central
+iab centrer center
 iab centry century
 iab ceonsensus consensus
 iab cepressed depressed
@@ -5228,6 +5229,7 @@ iab colone clone
 iab colosrs colors
 iab coloumn column
 iab colro color
+iab colummn column
 iab coluomn column
 iab com3e come
 iab comamnd command
@@ -20045,6 +20047,7 @@ iab weberver webserver
 iab webi web
 iab webikit webkit
 iab webistes websites
+iab webkity webkit
 iab webkiut webkit
 iab webscsokets websockets
 iab webserfver webserver
