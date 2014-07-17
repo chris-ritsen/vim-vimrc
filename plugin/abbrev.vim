@@ -1627,6 +1627,7 @@ iab SOmetimes Sometimes
 iab SOrry Sorry
 iab SOuth South
 iab SPecialties Specialties
+iab SPent Spent
 iab SPrusce Spruce
 iab SQaure Square
 iab SQuiggly Squiggly
@@ -18070,6 +18071,7 @@ iab switchded switched
 iab switcheds switched
 iab switchign switching
 iab switchindg switching
+iab switdch switch
 iab switdghed switched
 iab switfly swiftly
 iab switfyl swiftly
