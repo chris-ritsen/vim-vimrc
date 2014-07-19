@@ -971,6 +971,7 @@ iab Innovatyion Innovation
 iab Insatead Instead
 iab Insitutute Institute
 iab Instagaram Instagram
+iab Instaleld Installed
 iab Instaling Installing
 iab Insteawd Instead
 iab Instincitivlye Instinctively
@@ -1413,6 +1414,7 @@ iab Probaly Probably
 iab Probles Problem
 iab Probles Problems
 iab Procesing Processing
+iab Procrastianting Procrastinating
 iab Produvt Product
 iab Proeducts Products
 iab Profesionals Professionals
@@ -1795,6 +1797,7 @@ iab THen Then
 iab THeorem Theorem
 iab THere There
 iab THerefore Therefore
+iab THermos Thermos
 iab THerwe There
 iab THese These
 iab THesh These
@@ -2768,6 +2771,7 @@ iab ahrd hard
 iab ahrdly hardly
 iab ahs has
 iab ahtat that
+iab ahteavefr whatever
 iab ahve have
 iab ahven haven
 iab aibvlable available
@@ -2844,6 +2848,7 @@ iab alnong along
 iab alnternately alternately
 iab aloen alone
 iab alos also
+iab alotted allotted
 iab alow allow
 iab alphabeltically alphabetically
 iab alphabetaiclaly alphabetically
@@ -3172,6 +3177,7 @@ iab aobve above
 iab aobyut about
 iab aoccount account
 iab aoften often
+iab aog ago
 iab aoht about
 iab aonther another
 iab aoroudn around
@@ -3710,6 +3716,7 @@ iab audictory auditory
 iab audilt adult
 iab audion audio
 iab audiotory auditory
+iab audjio audio
 iab audlts adults
 iab audocorections autocorrections
 iab auido audio
@@ -5369,6 +5376,7 @@ iab compatability compatibility
 iab compauter computer
 iab compayn company
 iab compbine combine
+iab compeleted completed
 iab compeleting completing
 iab compelluing compelling
 iab compelte complete
@@ -6109,6 +6117,7 @@ iab countriers countries
 iab countriess countries
 iab coupl3ed coupled
 iab coupole couple
+iab coutnertops countertops
 iab coutnrty country
 iab coutnry country
 iab coutnryt country
@@ -7991,6 +8000,7 @@ iab enoough enough
 iab enot not
 iab enothing nothing
 iab enougbh enough
+iab enougha enough
 iab enoughb enough
 iab enought enough
 iab enouigh enough
@@ -11789,6 +11799,8 @@ iab linutes lines
 iab linxu linux
 iab liong long
 iab liquit liquid
+iab lisaten listen
+iab liset list
 iab listeining listening
 iab listend listen
 iab listeniers listeners
@@ -11924,6 +11936,7 @@ iab lplanetary planetary
 iab lplaying playing
 iab lqasers lasers
 iab lquid liquid
+iab lready already
 iab lsbel label
 iab lsight slight
 iab lsit list
@@ -12349,6 +12362,7 @@ iab miantain maintain
 iab miantennceane maintenance
 iab micdrhophe microphone
 iab micdrophne microphone
+iab micdrophones microphones
 iab micdros micros
 iab micdrpohne microphone
 iab micellanous miscellaneous
@@ -12887,6 +12901,7 @@ iab naythign anything
 iab naything anything
 iab nayting anything
 iab nbeside beside
+iab ncie nice
 iab nciesly nicely
 iab ncludes includes
 iab ncosole console
@@ -13085,9 +13100,11 @@ iab notbeoo notebook
 iab notbeooks notebooks
 iab notbuihg nothing
 iab notebooksd notebooks
+iab notecrd notecard
 iab noteiced noticed
 iab notejs nodejs
 iab notesa notes
+iab notesbooks notebooks
 iab notghing nothing
 iab noth not
 iab nothging nothing
@@ -13221,6 +13238,7 @@ iab obsesdsed obsessed
 iab obsessibely obsessively
 iab obsessibley obsessively
 iab obsessibly obsessively
+iab obsessivley obsessively
 iab obsessivly obsessively
 iab obsewrver observer
 iab obsoltete obsolete
@@ -13314,6 +13332,7 @@ iab ocmpleted completed
 iab ocmpletel complete
 iab ocmpletely completely
 iab ocmpleting completing
+iab ocmpteyur computer
 iab ocmptuer computer
 iab ocmptuers computers
 iab ocmptuyer computer
@@ -13625,6 +13644,7 @@ iab orning morning
 iab oroiginal original
 iab oroiginally originally
 iab orphRUnanage orphanage
+iab orphananage orphanage
 iab orphaniage orphanage
 iab orprocesses processes
 iab orrecdt correct
@@ -13790,6 +13810,7 @@ iab pRobably Probably
 iab paassword password
 iab paathetic pathetic
 iab paaying paying
+iab pacakgeds packages
 iab pacebar spacebar
 iab paceholder placeholder
 iab packageing packaging
@@ -15413,6 +15434,7 @@ iab reallly really
 iab reallu really
 iab realluy really
 iab reallyh really
+iab reallyu really
 iab reaload reload
 iab realted related
 iab realting relating
@@ -16781,6 +16803,7 @@ iab seprate separate
 iab seprator separator
 iab seprattley separately
 iab sequal sequel
+iab sequnce sequence
 iab serach search
 iab serarch search
 iab serbice service
@@ -16984,6 +17007,7 @@ iab sidxty sixty
 iab sieren siren
 iab siet site
 iab sietting sitting
+iab sigfnificant significant
 iab siginificant significant
 iab signel single
 iab signifcant significant
@@ -18145,6 +18169,7 @@ iab synrrome syndrome
 iab syntehsize synthesize
 iab syntehtic synthetic
 iab syntethesia synaesthesia
+iab synthesiser synthesiser
 iab syou you
 iab syour your
 iab syperficialyy superficially
@@ -19196,6 +19221,7 @@ iab trasure treasure
 iab trat treat
 iab travellign traveling
 iab travelling traveling
+iab travle travel
 iab travleling traveling
 iab treally really
 iab treatuer treasure
@@ -19517,6 +19543,7 @@ iab unempoyable unemployable
 iab unempoyment unemployment
 iab unerstand understand
 iab unexepected unexpected
+iab unexpecetddly unexpectedly
 iab unexpecierineced unexperienced
 iab unfamiilayr unfamiliar
 iab unfamiliy unfamiliar
@@ -20846,6 +20873,7 @@ iab yuo you
 iab yuorsdlf yourself
 iab yuou you
 iab yuour your
+iab yur your
 iab yuse use
 iab yused used
 iab yusing using
