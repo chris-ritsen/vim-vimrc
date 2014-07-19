@@ -435,6 +435,7 @@ iab Counsoler Consoler
 iab Courney Courtney
 iab Cpntinally Continually
 iab Cpontinually Continually
+iab Craete Create
 iab Creats Creates
 iab Crhis Chris
 iab Crhisropiher Christopher
@@ -3078,6 +3079,7 @@ iab anthitng anything
 iab anthnng anything
 iab anthoether another
 iab anthother another
+iab anthyhing anything
 iab anthying anything
 iab anthynng anything
 iab anthyring anything
@@ -7985,6 +7987,7 @@ iab enojoy enjoy
 iab enojoyed enjoyed
 iab enojy enjoy
 iab enojyed enjoyed
+iab enoough enough
 iab enot not
 iab enothing nothing
 iab enougbh enough
@@ -11279,6 +11282,7 @@ iab jeylly jelly
 iab jhad had
 iab jhavascript javascript
 iab jhave have
+iab jheight height
 iab jhifden hidden
 iab jion join
 iab jions joins
@@ -12415,7 +12419,9 @@ iab mintues minutes
 iab minubtues minutes
 iab minuites minutes
 iab minut minute
+iab minutesw minutes
 iab minutnes minutes
+iab minuts minutes
 iab minuyte minute
 iab miocrohpne microphone
 iab mionutes minutes
@@ -17733,6 +17739,7 @@ iab storiogn storing
 iab storires stories
 iab storng strong
 iab storuy story
+iab storyes stories
 iab stotrage storage
 iab stoyp stop
 iab stoyr story
@@ -17874,6 +17881,7 @@ iab substantilaly substantially
 iab substatial substantial
 iab substational substantial
 iab substationally substantially
+iab substatnially substantially
 iab subsysstm subsystem
 iab subtroutine subroutine
 iab subtyhpes subtypes
