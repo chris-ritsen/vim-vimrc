@@ -366,6 +366,7 @@ iab Comeplteyl Completely
 iab Comigng Coming
 iab Comitted Committed
 iab Compatability Compatibility
+iab Compelted Completed
 iab Compesation Compensation
 iab Compoutesr Computers
 iab Comprompise Compromise
@@ -435,6 +436,7 @@ iab Counsoler Consoler
 iab Courney Courtney
 iab Cpntinally Continually
 iab Cpontinually Continually
+iab Craete Create
 iab Creats Creates
 iab Crhis Chris
 iab Crhisropiher Christopher
@@ -937,6 +939,7 @@ iab Immediatley Immediately
 iab Imoprove Improve
 iab Implmeented Implemented
 iab Implmeneted Implemented
+iab Importanty Important
 iab Imppulse Impulse
 iab Improvemnets Improvements
 iab Improvemtn Improvement
@@ -3084,6 +3087,7 @@ iab anthitng anything
 iab anthnng anything
 iab anthoether another
 iab anthother another
+iab anthyhing anything
 iab anthying anything
 iab anthynng anything
 iab anthyring anything
@@ -4305,6 +4309,7 @@ iab boces boxes
 iab bocses boxes
 iab bocx box
 iab bodey body
+iab bodu body
 iab bodyies bodies
 iab boefore before
 iab boexes boxes
@@ -4529,6 +4534,7 @@ iab buttojh button
 iab buttter butter
 iab buttuer butter
 iab bututer butter
+iab butyton button
 iab buuildings buildings
 iab buvkets buckets
 iab buyffalo buffalo
@@ -4755,6 +4761,7 @@ iab cememtary cemetery
 iab cemetawry cemetery
 iab cenfere center
 iab cenmtered centered
+iab cennter center
 iab cenrter center
 iab censorshup censorship
 iab centarllized centralized
@@ -5157,6 +5164,7 @@ iab cnenter center
 iab cnerter center
 iab cneter center
 iab cnetral central
+iab cnewnter center
 iab cnewter center
 iab cnintonue continue
 iab cnitnue continue
@@ -7407,6 +7415,7 @@ iab dtying trying
 iab duaghter daughter
 iab duather father
 iab dudds duds
+iab duisplay display
 iab duisryupt disrupt
 iab dulplicated duplicated
 iab dumn dumb
@@ -7997,6 +8006,7 @@ iab enojoy enjoy
 iab enojoyed enjoyed
 iab enojy enjoy
 iab enojyed enjoyed
+iab enoough enough
 iab enot not
 iab enothing nothing
 iab enougbh enough
@@ -10438,8 +10448,10 @@ iab imporoive improve
 iab imporove improve
 iab imporoved improved
 iab imporoving improving
+iab importanat important
 iab importane importance
 iab importanfe importance
+iab importanty important
 iab importnaet important
 iab importnce importance
 iab importyant important
@@ -11293,6 +11305,7 @@ iab jeylly jelly
 iab jhad had
 iab jhavascript javascript
 iab jhave have
+iab jheight height
 iab jhifden hidden
 iab jion join
 iab jions joins
@@ -11320,6 +11333,7 @@ iab jst just
 iab jstu just
 iab jsuet just
 iab jsust just
+iab jsustify justify
 iab jsut just
 iab jsutifhy justify
 iab jsutification justification
@@ -12433,7 +12447,9 @@ iab mintues minutes
 iab minubtues minutes
 iab minuites minutes
 iab minut minute
+iab minutesw minutes
 iab minutnes minutes
+iab minuts minutes
 iab minuyte minute
 iab miocrohpne microphone
 iab mionutes minutes
@@ -14522,6 +14538,7 @@ iab positiosn positions
 iab positiosns positions
 iab positiosnws positions
 iab positison position
+iab positiuon position
 iab positoin position
 iab positoisn positions
 iab positon position
@@ -17761,6 +17778,7 @@ iab storiogn storing
 iab storires stories
 iab storng strong
 iab storuy story
+iab storyes stories
 iab stotrage storage
 iab stoyp stop
 iab stoyr story
@@ -17902,6 +17920,7 @@ iab substantilaly substantially
 iab substatial substantial
 iab substational substantial
 iab substationally substantially
+iab substatnially substantially
 iab subsysstm subsystem
 iab subtroutine subroutine
 iab subtyhpes subtypes
