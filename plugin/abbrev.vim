@@ -1947,6 +1947,7 @@ iab Tranining Training
 iab Transcrdibing Transcribing
 iab Transcripbing Transcribing
 iab Transerring Transferring
+iab Trasnscribing Transcribing
 iab Triyn Trying
 iab Tryign Trying
 iab Tryrign Trying
@@ -4608,6 +4609,7 @@ iab cahracterse characters
 iab cahrge charge
 iab cahsing cashing
 iab cahteacters characters
+iab calbe cable
 iab calcculated calculated
 iab calcualte calculate
 iab calcualtions calculations
@@ -7007,6 +7009,7 @@ iab disciplnine discipline
 iab discocered discovered
 iab discogerd discover
 iab discoiurage discourage
+iab disconencted disconnected
 iab disconenetedl disconnected
 iab disconnecdtd disconnected
 iab disconnecdted disconnected
@@ -9702,6 +9705,7 @@ iab haope hope
 iab haove have
 iab hapahzardly haphazardly
 iab hapbit habit
+iab hapen happen
 iab hapepens happens
 iab hapepn happen
 iab hapepning happening
