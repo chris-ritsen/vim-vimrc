@@ -3522,6 +3522,7 @@ iab aritst artist
 iab arive arrive
 iab arleady already
 iab arleday already
+iab arlgiht alright
 iab arlready already
 iab arltidcle article
 iab armture armature
@@ -3868,6 +3869,7 @@ iab awarew aware
 iab awarning warning
 iab awatned wanted
 iab awatwer water
+iab awau away
 iab aweaske awake
 iab aweay away
 iab awebsolyutely absolutely
@@ -9437,6 +9439,14 @@ iab fthe the
 iab fto to
 iab ftricky tricky
 iab ftuure future
+iab fucikmkgin fucking
+iab fuckgin fucking
+iab fuckging fucking
+iab fuckgiun fucking
+iab fuckifngg fucking
+iab fuckign fucking
+iab fuckigun fucking
+iab fuckkkkgin fucking
 iab fucndtion function
 iab fucndtionaltity functionality
 iab fucndtions functions
@@ -9447,6 +9457,7 @@ iab fucntions functions
 iab fucntoin function
 iab fucosuisng focusing
 iab fuctiuonations fluctuations
+iab fucxkgin fucking
 iab fueatures features
 iab fuffer buffer
 iab fufilling fulfilling
@@ -9455,6 +9466,7 @@ iab fufulling fulfilling
 iab fuile file
 iab fuilter filter
 iab fuinction function
+iab fukcgin fucking
 iab fukcing fucking
 iab fuled fueled
 iab fulful fulfil
@@ -9536,6 +9548,11 @@ iab futuer future
 iab futurte future
 iab futyre future
 iab fuull full
+iab fuxckgin fucking
+iab fuxckinug fucking
+iab fuxkfing fucking
+iab fuxkgin fucking
+iab fuxking fucking
 iab fuyn fun
 iab fuynction function
 iab fuyrther further
@@ -9669,6 +9686,7 @@ iab gneerkoius generous
 iab goaal goal
 iab goalsl goals
 iab goasl goals
+iab goddman goddamn
 iab godlen golden
 iab goeal goal
 iab goesa goes
@@ -11708,6 +11726,7 @@ iab laugbhing laughing
 iab laughes laughs
 iab launcdry laundry
 iab laundery laundry
+iab laundrhy laundry
 iab laundruy laundry
 iab laundryh laundry
 iab laundryu laundry
