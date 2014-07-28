@@ -20937,3 +20937,10 @@ iab zooom zoom
 iab ztart start
 iab ztaships starships
 
+iab fucling fucking
+iab goddammmit goddammit
+iab musaicd music
+iab muswic music
+iab siome some
+iab alreaydd already
+iab fux fix
