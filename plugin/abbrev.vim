@@ -1306,6 +1306,7 @@ iab Optonal Optional
 iab Oragnizign Organizing
 iab Oralcle Oracle
 iab Orb9it Orbit
+iab Orderddd Ordered
 iab Orderedd Ordered
 iab Oridered Ordered
 iab Orthodoc Orthodox
@@ -2902,6 +2903,7 @@ iab alreasdy already
 iab alreaxdy already
 iab alreay already
 iab alreayd already
+iab alreaydd already
 iab alreday already
 iab alredayd already
 iab alredfy already
@@ -9447,6 +9449,7 @@ iab fuckifngg fucking
 iab fuckign fucking
 iab fuckigun fucking
 iab fuckkkkgin fucking
+iab fucling fucking
 iab fucndtion function
 iab fucndtionaltity functionality
 iab fucndtions functions
@@ -9548,6 +9551,7 @@ iab futuer future
 iab futurte future
 iab futyre future
 iab fuull full
+iab fux fix
 iab fuxckgin fucking
 iab fuxckinug fucking
 iab fuxkfing fucking
@@ -9686,6 +9690,7 @@ iab gneerkoius generous
 iab goaal goal
 iab goalsl goals
 iab goasl goals
+iab goddammmit goddammit
 iab goddman goddamn
 iab godlen golden
 iab goeal goal
@@ -12960,6 +12965,7 @@ iab multopple multiple
 iab multuple multiple
 iab muoucs mucous
 iab musaic music
+iab musaicd music
 iab musc misc
 iab muscellenus miscellaneous
 iab musch much
@@ -12970,6 +12976,7 @@ iab musscles muscles
 iab mustahe mustache
 iab mustaiekes mistakes
 iab mustashe mustache
+iab muswic music
 iab mutal mutual
 iab mutally mutually
 iab mutiation mutation
@@ -17357,6 +17364,7 @@ iab sintead instead
 iab sinxe since
 iab sinxece since
 iab sinze since
+iab siome some
 iab siomply simply
 iab siple simple
 iab siplmly simply
@@ -21179,10 +21187,3 @@ iab zooom zoom
 iab ztart start
 iab ztaships starships
 
-iab fucling fucking
-iab goddammmit goddammit
-iab musaicd music
-iab muswic music
-iab siome some
-iab alreaydd already
-iab fux fix
