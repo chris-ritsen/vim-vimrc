@@ -14961,6 +14961,7 @@ iab preffered preferred
 iab prefgerences preferences
 iab prefixds prefixes
 iab pregerred preferred
+iab pregvent prevent
 iab preiopsitions prepositions
 iab preiouvlulsy previously
 iab preivoulsy previously
@@ -16968,9 +16969,11 @@ iab selcection selection
 iab selcet select
 iab selct select
 iab selctor selector
+iab seldcltor selector
 iab seldem seldom
 iab selecdt select
 iab selecdtion selection
+iab selecdtor selector
 iab selecetd selected
 iab seleceted selected
 iab selecfiton selection
@@ -16983,6 +16986,7 @@ iab selectedd selected
 iab selecteing selecting
 iab selectoro selector
 iab selectrively selectively
+iab seledtor selector
 iab selep sleep
 iab selete delete
 iab selexdt select
