@@ -2843,6 +2843,7 @@ iab alibe alive
 iab alient alien
 iab alients aliens
 iab aligh align
+iab aligin align
 iab alignement alignment
 iab alignmetn alignment
 iab alignmmetn alignment
@@ -4805,6 +4806,7 @@ iab cenrter center
 iab censorshup censorship
 iab centarllized centralized
 iab centeral central
+iab centert center
 iab centrer center
 iab centry century
 iab ceonsensus consensus
@@ -5911,6 +5913,7 @@ iab conteracting contracting
 iab conterianed constrained
 iab contexsts contexts
 iab contgact contact
+iab contianer container
 iab contianers containers
 iab contianing containing
 iab contians contains
@@ -6502,6 +6505,7 @@ iab decresase decrease
 iab decrsing decreasing
 iab decsterity dexterity
 iab decterity dexterity
+iab dectoriation decoration
 iab decvice device
 iab decvices devices
 iab decxetirty dexterity
@@ -7269,6 +7273,7 @@ iab disvoered discovered
 iab disvovered discovered
 iab disvovering discovering
 iab dit did
+iab diusplay display
 iab divieded divided
 iab dixtracted distracted
 iab dleeted deleted
@@ -9575,6 +9580,7 @@ iab gaasses gasses
 iab gabout about
 iab galdyly gladly
 iab galliym gallium
+iab gallleries galleries
 iab galss glass
 iab galvaanizing galvanizing
 iab galvanizign galvanizing
