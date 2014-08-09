@@ -3762,6 +3762,7 @@ iab audlts adults
 iab audocorections autocorrections
 iab auido audio
 iab aulity quality
+iab auot auto
 iab ausre sure
 iab aut0matically automatically
 iab autcorrections autocorrections
@@ -5228,6 +5229,7 @@ iab cnosole console
 iab cnosooe console
 iab cnsider consider
 iab cnsole console
+iab cnsooel console
 iab cnsoole console
 iab cnsoolel console
 iab coarbon carbon
@@ -7378,6 +7380,7 @@ iab dorpped dropped
 iab dosen doesn
 iab doslike dislike
 iab dostrawted distracted
+iab dottoed dotted
 iab doubhgt doubt
 iab doubtfyl doubtful
 iab doucment document
@@ -13327,6 +13330,7 @@ iab nothign nothing
 iab nothiong nothing
 iab nothiung nothing
 iab noticably noticeably
+iab notication notification
 iab noticebluy noticeably
 iab noticebly noticeably
 iab noticlable noticeable
@@ -13799,6 +13803,7 @@ iab optinos options
 iab optioacal optical
 iab optiocal optical
 iab optionsl options
+iab optipons options
 iab optn open
 iab optoins options
 iab optuidal optical
@@ -20752,6 +20757,7 @@ iab withdrawl withdrawal
 iab withh with
 iab withhin within
 iab withihn within
+iab withing within
 iab withinn within
 iab withoin within
 iab withot without
