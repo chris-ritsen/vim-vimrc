@@ -1327,7 +1327,6 @@ iab PHsysiscty Physicist
 iab PLEzsde Please
 iab PLan Plan
 iab PLanets Planets
-iab PLay Play
 iab PLease Please
 iab PLeaswe Please
 iab PLot Plot
@@ -1438,7 +1437,6 @@ iab Projecdets Projects
 iab Projecdts Projects
 iab Promoote Promote
 iab Propegating Propagating
-iab Propegation Propagation
 iab Protfolio Portfolio
 iab Protien Protein
 iab Providided Provided
@@ -2729,7 +2727,6 @@ iab aexplaination explanation
 iab afagin again
 iab afct fact
 iab afer after
-iab afeter after
 iab afetr after
 iab affecdt affect
 iab affecdtes affects
@@ -2851,7 +2848,6 @@ iab alibe alive
 iab alient alien
 iab alients aliens
 iab aligh align
-iab aligin align
 iab alignement alignment
 iab alignmetn alignment
 iab alignmmetn alignment
@@ -3350,7 +3346,6 @@ iab apparntly apparently
 iab appartenly apparently
 iab appartnely apparently
 iab appaths paths
-iab appeaerance appearance
 iab appealingh appealing
 iab appearanche appearance
 iab appearss appears
@@ -4004,7 +3999,6 @@ iab bankj bank
 iab bankrupcy bankruptcy
 iab baords boards
 iab baoubt about
-iab baqckground background
 iab baragsained bargained
 iab barbaque barbecue
 iab barohterb brother
@@ -4322,8 +4316,6 @@ iab blatheriing blathering
 iab blcok block
 iab blcoked blocked
 iab blcoking blocking
-iab blcokkk block
-iab blcoks blocks
 iab bleieve believe
 iab bleieving believing
 iab bleifs beliefs
@@ -4823,7 +4815,6 @@ iab cenrter center
 iab censorshup censorship
 iab centarllized centralized
 iab centeral central
-iab centert center
 iab centrer center
 iab centry century
 iab ceonsensus consensus
@@ -5934,7 +5925,6 @@ iab conteracting contracting
 iab conterianed constrained
 iab contexsts contexts
 iab contgact contact
-iab contianer container
 iab contianers containers
 iab contianing containing
 iab contians contains
@@ -6528,7 +6518,6 @@ iab decresase decrease
 iab decrsing decreasing
 iab decsterity dexterity
 iab decterity dexterity
-iab dectoriation decoration
 iab decvice device
 iab decvices devices
 iab decxetirty dexterity
@@ -7299,7 +7288,6 @@ iab disvoered discovered
 iab disvovered discovered
 iab disvovering discovering
 iab dit did
-iab diusplay display
 iab divieded divided
 iab dixtracted distracted
 iab dleeted deleted
@@ -7737,7 +7725,6 @@ iab eenemeies enemies
 iab eenergy energy
 iab eerors errors
 iab eessentially essentially
-iab eevent event
 iab eevery every
 iab eevnriomtent environment
 iab eexcept except
@@ -7793,7 +7780,6 @@ iab eficiently efficiently
 iab efificentcy efficiency
 iab eflat flat
 iab efor for
-iab efrfect effect
 iab efven even
 iab efvent event
 iab efventually eventually
@@ -8443,7 +8429,6 @@ iab etwetween between
 iab etxst text
 iab euations equations
 iab euerope europe
-iab eunded ended
 iab euqaloly equally
 iab euqiuopment equipment
 iab euqwoipemtn equipment
@@ -9616,7 +9601,6 @@ iab gaasses gasses
 iab gabout about
 iab galdyly gladly
 iab galliym gallium
-iab gallleries galleries
 iab galss glass
 iab galvaanizing galvanizing
 iab galvanizign galvanizing
@@ -9845,7 +9829,6 @@ iab hacen haven
 iab hackign hacking
 iab hackneyeyed hackneyed
 iab hactually actually
-iab hadn hand
 iab hadnd hand
 iab hadndling handling
 iab hadnds hands
@@ -11311,7 +11294,6 @@ iab ionstead instead
 iab ionto onto
 iab ionviolved involved
 iab ioptical optical
-iab ioptions options
 iab iosteram iostream
 iab iot it
 iab iother other
@@ -11626,7 +11608,6 @@ iab keyrboard keyboard
 iab keystroke3 keystroke
 iab keyuboahrsd keyboard
 iab keyyp keyup
-iab keyyup keyup
 iab kiccking kicking
 iab kicthen kitchen
 iab kiddy kiddie
@@ -11721,7 +11702,6 @@ iab labellled labeled
 iab lable label
 iab labrl label
 iab labrls labels
-iab labvel label
 iab lackquier lacquer
 iab ladoign loading
 iab laenght length
@@ -13356,7 +13336,6 @@ iab noticebly noticeably
 iab noticlable noticeable
 iab notifiations notifications
 iab notificatiopn notification
-iab notificatioun notification
 iab notifidations notifications
 iab notifyin notifying
 iab notiiced noticed
@@ -14587,9 +14566,7 @@ iab platforma platform
 iab platimum platinum
 iab platying playing
 iab plauer player
-iab plauy play
 iab plawdce placed
-iab playbakc playback
 iab playedch played
 iab playetr player
 iab playform platform
@@ -15062,7 +15039,6 @@ iab previoulsy previously
 iab previwe preview
 iab previwes previews
 iab previws previews
-iab prevneft prevent
 iab prevnet prevent
 iab prevnetDefault preventDefault
 iab prevoisluly previously
@@ -15876,7 +15852,6 @@ iab reducded reduced
 iab reducte reduce
 iab redudancy redundancy
 iab redunddant redundant
-iab reeaches reaches
 iab reeicvers receivers
 iab reeleases releases
 iab reembele resemble
@@ -15986,7 +15961,6 @@ iab relateions relations
 iab relatibely relatively
 iab relatibity relativity
 iab relatife relative
-iab relatige relative
 iab relatiity relativity
 iab relatinship relationship
 iab relationhsip relationship
@@ -15995,7 +15969,6 @@ iab relationshiop relationship
 iab relativly relatively
 iab relavant relevant
 iab relavation relaxation
-iab relavite relative
 iab relaxying relaxing
 iab relcects reelects
 iab releaaased released
@@ -16968,7 +16941,6 @@ iab secitons sections
 iab secon second
 iab seconaary secondary
 iab seconcds seconds
-iab secone second
 iab seconf second
 iab seconfardy secondary
 iab secong second
@@ -17323,7 +17295,6 @@ iab sidxty sixty
 iab sieren siren
 iab siet site
 iab sietting sitting
-iab siew size
 iab sigfnificant significant
 iab siginificant significant
 iab signel single
@@ -17485,7 +17456,6 @@ iab sizse size
 iab sizsed sized
 iab sizties sixties
 iab sizty sixty
-iab sizwe size
 iab sizx six
 iab sjobs jobs
 iab sjouild should
@@ -17891,7 +17861,6 @@ iab srevers servers
 iab sreves serves
 iab srevice service
 iab srewing screwing
-iab srhink shrink
 iab srintg spring
 iab sript script
 iab sroll scroll
@@ -18210,7 +18179,6 @@ iab subehects subjects
 iab subejcdt subject
 iab subejdct subject
 iab subhect subject
-iab subit submit
 iab subjecddts subjects
 iab subjecdt subject
 iab subjecdyt subject
@@ -18296,7 +18264,6 @@ iab suitiable suitable
 iab suitible suitable
 iab suitilble suitable
 iab sultuoins solutions
-iab sumissiion submission
 iab sumobulde submodule
 iab sunddenly suddenly
 iab sunds sounds
@@ -19962,7 +19929,6 @@ iab unknowningly unknowingly
 iab unknwon unknown
 iab unknwone unknown
 iab unkown unknown
-iab unkownking unknowing
 iab unles unless
 iab unliekly unlikely
 iab unlik unlike
@@ -20308,7 +20274,6 @@ iab visibale visible
 iab visibible visible
 iab visibile visible
 iab visibilty visibility
-iab visibliity visibility
 iab visibuility visibility
 iab visiion vision
 iab visistors visitors
@@ -21050,7 +21015,6 @@ iab wtowards towards
 iab wtown town
 iab wtwice twice
 iab wuality quality
-iab wudth width
 iab wuiality equally
 iab wuich which
 iab wuick quick
