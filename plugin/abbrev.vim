@@ -2035,6 +2035,7 @@ iab Vulnderable Vulnerable
 iab WAht What
 iab WAitign Waiting
 iab WAking Waking
+iab WAsting Wasting
 iab WEbseter Webster
 iab WEbsetr Webster
 iab WEbster Webster
@@ -2423,6 +2424,7 @@ iab accoundts accounts
 iab accoung account
 iab accoutn account
 iab accoutns accounts
+iab accpet accept
 iab accpetable acceptable
 iab accpetlable acceptable
 iab accplish accomplish
@@ -2481,6 +2483,7 @@ iab acetion action
 iab acetominiphen acetaminophen
 iab acfessing accessing
 iab acfuracy accuracy
+iab acgive active
 iab acheive achieve
 iab acheived achieved
 iab acheivements achievements
@@ -3463,6 +3466,7 @@ iab approptirate appropriate
 iab approptriate appropriate
 iab approriate appropriate
 iab approvach approach
+iab approvla approval
 iab approxiation approximation
 iab approximage approximate
 iab approximatley approximately
@@ -4274,6 +4278,7 @@ iab biarual binaural
 iab bicondiotional biconditional
 iab bidngins bindings
 iab bidnign binding
+iab bidning binding
 iab bieng being
 iab biesides besides
 iab biever bieber
@@ -5076,6 +5081,7 @@ iab classamic classic
 iab classees classes
 iab classses classes
 iab classssic classic
+iab clcik click
 iab clcoked clocked
 iab cldan clean
 iab cleabes cleaves
@@ -6570,6 +6576,7 @@ iab delas deals
 iab delcar declare
 iab delcaration declaration
 iab delciate delicate
+iab delciened declined
 iab delected deleted
 iab deleiverd delivered
 iab deleriously deliriously
@@ -9985,6 +9992,7 @@ iab heawlth health
 iab heawr hear
 iab heealth health
 iab heeelp help
+iab heelp help
 iab heere here
 iab hehight height
 iab hehre here
@@ -10342,6 +10350,7 @@ iab hwenenver whenever
 iab hwenver whenever
 iab hwere where
 iab hwhen when
+iab hwhich which
 iab hwhtie white
 iab hwich which
 iab hwiel while
@@ -13337,6 +13346,7 @@ iab noticlable noticeable
 iab notifiations notifications
 iab notificatiopn notification
 iab notifidations notifications
+iab notifiy notify
 iab notifyin notifying
 iab notiiced noticed
 iab notingt noting
@@ -15159,6 +15169,7 @@ iab prodocol protocol
 iab produc produce
 iab produccts products
 iab producde produce
+iab producded produced
 iab producdt product
 iab producdtuive productive
 iab producec produced
@@ -15900,6 +15911,7 @@ iab refridgerator refrigerator
 iab refrigrerator refrigerator
 iab refrring referring
 iab refruns reruns
+iab refruse refuse
 iab refuilled refilled
 iab regaqrds regards
 iab regardlessl regardless
@@ -16246,6 +16258,7 @@ iab reseraunt restaurant
 iab reserverd reserved
 iab reseverved reserved
 iab resillient resilient
+iab resipes recipes
 iab resisable resizable
 iab resisstance resistance
 iab resistawnce resistance
@@ -16906,6 +16919,7 @@ iab sdo do
 iab sdoemthign something
 iab sdoimple simple
 iab sdone done
+iab sdoudn sound
 iab sdowdnloads downloads
 iab sdtarted started
 iab sdtartgign starting
@@ -21257,6 +21271,3 @@ iab zooom zoom
 iab ztart start
 iab ztaships starships
 
-iab refruse refuse
-iab heelp help
-iab WAsting Wasting
