@@ -1388,6 +1388,7 @@ iab Pleasde Please
 iab Plusing Pulsing
 iab Poeople People
 iab Poeple People
+iab Poitns Points
 iab Pontaic Pontiac
 iab Ponteiac Pontiac
 iab Popele People
@@ -1490,6 +1491,8 @@ iab REleated Related
 iab REmember Remember
 iab REmemberomng Remembering
 iab REmove Remove
+iab REmovew Remove
+iab REmvoew Remove
 iab REnder Render
 iab REndezvous Rendezvous
 iab REnowned Renowned
@@ -1515,6 +1518,8 @@ iab REturn Return
 iab REturning Returning
 iab REvicewing Reviewing
 iab REviews Reviews
+iab REvmoew Remove
+iab REvmovew Remove
 iab REvolution Revolution
 iab REwwriting Rewriting
 iab RIght Right
@@ -4288,6 +4293,7 @@ iab bilding building
 iab billboardd billboard
 iab billiino billion
 iab bindging binding
+iab bindgings bindings
 iab bindinf binding
 iab bindingi binding
 iab binoculare binocular
@@ -7911,6 +7917,7 @@ iab elementayr elementary
 iab elementes elements
 iab elemetns elements
 iab eleminate eliminate
+iab elemneets elements
 iab elemnet element
 iab elemnets elements
 iab elemnt element
@@ -8624,6 +8631,7 @@ iab ewhenever whenever
 iab ewhether whether
 iab ewhne when
 iab ewhre where
+iab ewidth width
 iab ewihtout without
 iab ework work
 iab ewvents events
@@ -13652,6 +13660,7 @@ iab oimprtantly importantly
 iab oincreasing increasing
 iab oinstead instead
 iab oipen open
+iab oir or
 iab oiriginally originally
 iab oiriginated originated
 iab oiroginal original
@@ -14101,6 +14110,7 @@ iab paplications applications
 iab paplying applying
 iab papparatus apparatus
 iab papre paper
+iab paprovoal approval
 iab parachgarphs paragraphs
 iab paractice practice
 iab parady parody
@@ -15864,6 +15874,7 @@ iab reducte reduce
 iab redudancy redundancy
 iab redunddant redundant
 iab reeicvers receivers
+iab reejct reject
 iab reeleases releases
 iab reembele resemble
 iab reerrign referring
@@ -15958,6 +15969,8 @@ iab reivew review
 iab reiviewgin reviewing
 iab reivivewng reviewing
 iab reivvieng reviewing
+iab rejecdt reject
+iab rejejct reject
 iab rela real
 iab relacation relaxation
 iab relacing relaxing
@@ -19982,6 +19995,7 @@ iab unsderstantd understand
 iab unsertaion uncertain
 iab unsisable unusable
 iab unsuabble unusable
+iab unsuable unusable
 iab unsubstational unsubstantial
 iab unsupporrted unsupported
 iab unsurprosiging unsurprising
@@ -21271,3 +21285,5 @@ iab zooom zoom
 iab ztart start
 iab ztaships starships
 
+iab initiail initial
+iab uplaod upload
