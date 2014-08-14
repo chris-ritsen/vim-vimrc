@@ -10958,6 +10958,7 @@ iab inistalling installing
 iab initail initial
 iab initailize initialize
 iab inital initial
+iab initiail initial
 iab initiailize initialize
 iab initiaited initiated
 iab initital initial
@@ -20035,6 +20036,7 @@ iab upgrdae upgrade
 iab upgreaded upgraded
 iab upgright upright
 iab uplados uploads
+iab uplaod upload
 iab uplaoded uploaded
 iab upoin upon
 iab uproductive productive
@@ -21285,5 +21287,3 @@ iab zooom zoom
 iab ztart start
 iab ztaships starships
 
-iab initiail initial
-iab uplaod upload
