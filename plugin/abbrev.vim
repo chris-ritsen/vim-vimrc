@@ -21288,3 +21288,13 @@ iab zooom zoom
 iab ztart start
 iab ztaships starships
 
+iab bordre border
+iab transparente transparent
+iab heieght height
+iab inoyut input
+iab todawy today
+iab oblicgations obligations
+iab oblvcigations obligations
+iab oblidgtations obligations
+iab obligtations obligations
+iab oblictgaions obligations
