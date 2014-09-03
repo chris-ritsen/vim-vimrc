@@ -1198,6 +1198,7 @@ iab Miscihoevious Mischievous
 iab Misciohevious Mischievous
 iab Misciouevisu Mischievous
 iab Miscvhevious Mischievous
+iab Mjaesty Majesty
 iab Mkae Make
 iab Mkreting Marketing
 iab Mmaybe Maybe
@@ -1786,6 +1787,7 @@ iab Ssome Some
 iab Sstill Still
 iab Staedler Staedtler
 iab Steragetgy Strategy
+iab Stgarting Starting
 iab Stirng String
 iab Stocasticity Stochasticity
 iab Stoiciism Stoicism
@@ -5263,6 +5265,7 @@ iab cnsooel console
 iab cnsoole console
 iab cnsoolel console
 iab coarbon carbon
+iab cocde code
 iab coce code
 iab cocern concern
 iab cocerns concerns
@@ -7573,6 +7576,7 @@ iab dureaciotn duration
 iab dureation duration
 iab duresation duration
 iab durinfg during
+iab duringa during
 iab dusplay display
 iab dustracted distracted
 iab dutring during
@@ -11347,6 +11351,7 @@ iab ionstead instead
 iab ionto onto
 iab ionviolved involved
 iab ioptical optical
+iab ioptions options
 iab iosteram iostream
 iab iot it
 iab iother other
@@ -16027,6 +16032,7 @@ iab reindering rendering
 iab reinfocements reinforcements
 iab reisk risk
 iab reisntalled reinstalled
+iab reitrun return
 iab reivew review
 iab reiviewgin reviewing
 iab reivivewng reviewing
@@ -17051,6 +17057,7 @@ iab seeasoned seasoned
 iab seee see
 iab seeeing seeing
 iab seelctor selector
+iab seelected selected
 iab seemps seems
 iab seemsl seems
 iab seeon seen
