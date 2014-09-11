@@ -5336,6 +5336,7 @@ iab collors colors
 iab collosal colossal
 iab collpases collapses
 iab colocoking clocking
+iab coloe color
 iab colone clone
 iab colosrs colors
 iab coloumn column
@@ -6559,6 +6560,7 @@ iab decresase decrease
 iab decrsing decreasing
 iab decsterity dexterity
 iab decterity dexterity
+iab dectoriation decoration
 iab decvice device
 iab decvices devices
 iab decxetirty dexterity
@@ -10651,6 +10653,7 @@ iab implmeented implemented
 iab implmenentations implementations
 iab implmenet implement
 iab implmeneted implemented
+iab implmeneteed implemented
 iab implment implement
 iab impoartant important
 iab impoirtant important
