@@ -959,6 +959,7 @@ iab Imoprove Improve
 iab Implmeented Implemented
 iab Implmeneted Implemented
 iab Importanty Important
+iab Importnat Important
 iab Imppulse Impulse
 iab Improvemnets Improvements
 iab Improvemtn Improvement
@@ -5315,6 +5316,7 @@ iab colaborate collaborate
 iab colecrivley collectively
 iab colelcted collected
 iab colelctions collections
+iab colior color
 iab collapseable collapsible
 iab collaspe collapse
 iab colleages colleagues
@@ -10044,6 +10046,7 @@ iab heealth health
 iab heeelp help
 iab heelp help
 iab heere here
+iab hegiht height
 iab hehight height
 iab hehre here
 iab heieght height
@@ -21396,4 +21399,3 @@ iab zooom zoom
 iab ztart start
 iab ztaships starships
 
-iab colior color
