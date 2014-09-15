@@ -4390,6 +4390,7 @@ iab bocx box
 iab bodey body
 iab bodu body
 iab bodyies bodies
+iab bodyu body
 iab boefore before
 iab boexes boxes
 iab boguht bought
@@ -4544,6 +4545,7 @@ iab budilgins buildings
 iab budjet budget
 iab budnlded bundled
 iab budnled bundled
+iab buecause because
 iab bufafla buffalo
 iab bufalo buffalo
 iab buffallo buffalo
@@ -7554,6 +7556,7 @@ iab dswign design
 iab dtaht that
 iab dtake take
 iab dtalked talked
+iab dtay day
 iab dtermine determine
 iab dthat that
 iab dthose those
@@ -10348,6 +10351,7 @@ iab htisi this
 iab htisoe those
 iab htiws this
 iab htme them
+iab htmk html
 iab html5MOde html5Mode
 iab htoguh though
 iab htoguhts thoughts
@@ -10639,6 +10643,7 @@ iab implemetnation implementation
 iab implemetned implemented
 iab implemmentations implementations
 iab implemmented implemented 
+iab implemnentation implementation
 iab implemnetations implementations
 iab implemneted implemented
 iab implemneting implementing
@@ -13340,6 +13345,7 @@ iab niceyl nicely
 iab nicley nicely
 iab nicrley nicely
 iab nicsnse incense
+iab nighits nights
 iab nightl night
 iab nigth night
 iab nimage image
@@ -14653,6 +14659,7 @@ iab plaes places
 iab plaeyd played
 iab plaf play
 iab plahy play
+iab plahying playing
 iab plaibnu plain
 iab plalnning planning
 iab plannign planning
@@ -15895,6 +15902,7 @@ iab recognation recognition
 iab recogniseing recognising
 iab recognizeable recognizable
 iab recoikgning recognizing
+iab recoiuperating recuperating
 iab recolection recollection
 iab recollecft recollect
 iab reconized recognized
@@ -17149,6 +17157,7 @@ iab senetencign sentencing
 iab senough enough
 iab senquencing sequencing
 iab senrtewnces sentences
+iab sensde sense
 iab sensiteive sensitive
 iab sensoury sensory
 iab senstyion sensation
@@ -18484,6 +18493,7 @@ iab sustaion sustain
 iab sustaionable sustainable
 iab sustaioned sustained
 iab sustaiotned sustained
+iab sustaminable sustainable
 iab sustatined sustained
 iab sustatinted sustained
 iab sustationable sustainable
@@ -20273,6 +20283,7 @@ iab vacuumming vacuuming
 iab vacuunmig vacuuming
 iab vaguge vague
 iab vailable available
+iab vailyable valuable
 iab valeu value
 iab valeus values
 iab validateds validated
@@ -21032,6 +21043,7 @@ iab worsds words
 iab worsk works
 iab wortheless worthless
 iab worthelss worthless
+iab worthelsws worthless
 iab wortthy worthy
 iab wortwhile worthwhile
 iab wortyhy worthy
@@ -21100,6 +21112,7 @@ iab writinp writing
 iab writintg writing
 iab writnignn writing
 iab writre write
+iab writring writing
 iab writsts wrists
 iab writtten written
 iab writw write
@@ -21279,6 +21292,7 @@ iab yestewrdsay yesterday
 iab yestrday yesterday
 iab yestreday yesterday
 iab yeszterday yesterday
+iab yewar year
 iab yewars years
 iab yewt yet
 iab yeytes eyes
@@ -21399,11 +21413,3 @@ iab zooom zoom
 iab ztart start
 iab ztaships starships
 
-iab nighits nights
-iab sustaminable sustainable
-iab vailyable valuable
-iab sensde sense
-iab recoiuperating recuperating
-iab writring writing
-iab worthelsws worthless
-iab yewar year
