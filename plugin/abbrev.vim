@@ -21414,3 +21414,9 @@ iab zooom zoom
 iab ztart start
 iab ztaships starships
 
+iab whatching watching
+iab Distragcted Distracted
+iab optiosn options
+iab optiuons options
+iab Rogder Roger
+iab aftrer after
