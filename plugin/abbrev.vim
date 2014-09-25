@@ -530,6 +530,7 @@ iab Discipines Disciplines
 iab Discources Discourses
 iab Discoverd Discovered
 iab Discvoverd Discovered
+iab Distragcted Distracted
 iab Disvoerd Discord
 iab Disvovered Discovered
 iab Docotor Doctor
@@ -1452,6 +1453,7 @@ iab Projecdets Projects
 iab Projecdts Projects
 iab Promoote Promote
 iab Propegating Propagating
+iab Propegation Propagation
 iab Protfolio Portfolio
 iab Protien Protein
 iab Providided Provided
@@ -1605,6 +1607,7 @@ iab Rnadom Random
 iab Rnage Range
 iab Roayal Royal
 iab Rodeneberry Roddenberry
+iab Rogder Roger
 iab Rohy Roy
 iab Roling Rolling
 iab Royksopp Röyksopp
@@ -2765,6 +2768,7 @@ iab afraaid afraid
 iab afriad afraid
 iab aftere after
 iab afternoono afternoon
+iab aftrer after
 iab aftually actually
 iab agagain again
 iab agaibn again
@@ -5269,6 +5273,7 @@ iab cnsole console
 iab cnsooel console
 iab cnsoole console
 iab cnsoolel console
+iab cnter center
 iab coarbon carbon
 iab cocde code
 iab coce code
@@ -11006,6 +11011,7 @@ iab iniicadte indicate
 iab iniitailization initialization
 iab iniital initial
 iab iniitalize initialize
+iab iniitialisation initialisation
 iab iniitla initial
 iab ininitalize initialize
 iab inistalling installing
@@ -11615,6 +11621,7 @@ iab justfying justifying
 iab justifu justify
 iab justoiify justify
 iab justy just
+iab justyfi justify
 iab jusyt just
 iab juyst just
 iab jwork work
@@ -13906,7 +13913,9 @@ iab optinos options
 iab optioacal optical
 iab optiocal optical
 iab optionsl options
+iab optiosn options
 iab optipons options
+iab optiuons options
 iab optn open
 iab optoins options
 iab optuidal optical
@@ -14079,6 +14088,7 @@ iab overalyed overplayed
 iab overfow overflow
 iab overhail overhaul
 iab overheasrs overhears
+iab overlfow overflow
 iab overlyay overlay
 iab overrturend overturned
 iab overturend overturned
@@ -20681,6 +20691,7 @@ iab whaetver whatever
 iab whaever whoever
 iab whagever whatever
 iab whagtewver whatever
+iab whatching watching
 iab whate what
 iab whateever whatever
 iab whatefver whatever
@@ -21414,10 +21425,3 @@ iab zooom zoom
 iab ztart start
 iab ztaships starships
 
-iab whatching watching
-iab Distragcted Distracted
-iab optiosn options
-iab optiuons options
-iab Rogder Roger
-iab aftrer after
-iab Propegation Propagation
