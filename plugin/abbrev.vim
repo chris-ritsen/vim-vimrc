@@ -192,6 +192,7 @@ iab Awknowledged Acknowledged
 iab Awsome Awesome
 iab Aygust August
 iab Ayter After
+iab BAchelor Bachelor
 iab BAck Back
 iab BEcause Because
 iab BEfore Before
@@ -207,6 +208,7 @@ iab BUster Buster
 iab BUt But
 iab Bachelir Bachelor
 iab Bacj Back
+iab Backeholr Bachelor
 iab Bacvk Back
 iab Bakc Back
 iab Baklawa Baklava
@@ -247,6 +249,7 @@ iab Boroignn Boring
 iab Bouldevard Boulevard
 iab Bouleveard Boulevard
 iab Braek Break
+iab Branberry Cranberry
 iab Brazillian Brazilian
 iab Brindge Bridge
 iab Broadcase Broadcast
@@ -491,6 +494,7 @@ iab Debgree Degree
 iab Decelopers Developers
 iab Decomal Decimal
 iab Dedficits Deficits
+iab Deliusion Delusion
 iab Demonstarted Demonstrated
 iab Depribved Deprived
 iab Deque Dequeue
@@ -749,6 +753,7 @@ iab Firstlyy Firstly
 iab Flordia Florida
 iab FoPutting Putting
 iab Focysing Focusing
+iab Fofficer Officer
 iab Followig Following
 iab Follwoing Following
 iab Foloow Follow
@@ -784,8 +789,11 @@ iab Genoisues Geniuses
 iab Genouses Geniuses
 iab Gesuenheit Gesundheit
 iab Gettinmg Getting
+iab Giod Good
 iab Glalery Gallery
 iab Glboal Global
+iab Gmabling Gambling
+iab Gneral General
 iab Goign Going
 iab Goodbte Goodbye
 iab Gorup Group
@@ -1061,6 +1069,7 @@ iab KNowledge Knowledge
 iab KRoger Kroger
 iab Karne Karen
 iab Kenrle Kernel
+iab Kentuckly Kentucky
 iab Ketchupe Ketchup
 iab KeyErorr KeyError
 iab Kinecdt Kinect
@@ -1434,6 +1443,7 @@ iab Pricvacy Privacy
 iab Prinrtingt Printing
 iab Prioertiy Priority
 iab Priofile Profile
+iab Privbate Private
 iab Privcay Privacy
 iab Privicy Privacy
 iab Proably Probably
@@ -1596,6 +1606,7 @@ iab Rewpeat Repeat
 iab Rewward Reward
 iab Rgiut Right
 iab Riber River
+iab Ribght Right
 iab Richeard Richard
 iab Righ Right
 iab Ristne Ritsen
@@ -2991,6 +3002,7 @@ iab amintenence maintenance
 iab amitious ambitious
 iab amke make
 iab amker maker
+iab amking making
 iab amlmost almost
 iab amm am
 iab ammend amend
@@ -5356,6 +5368,7 @@ iab colummn column
 iab colun column
 iab coluomn column
 iab com3e come
+iab comabat combat
 iab comamnd command
 iab comand command
 iab comandeered commandeered
@@ -5439,6 +5452,7 @@ iab communciate communicate
 iab communcuation communication
 iab communicafion communication
 iab communicatieding communicating
+iab communicationg communications
 iab communicatyor communicator
 iab communitcate communicate
 iab communitity community
@@ -6594,6 +6608,7 @@ iab defiend defined
 iab defiinte definite
 iab defineed defined
 iab definiatley definitely
+iab definiitive definitive
 iab definitaltely definitely
 iab definiteions definitions
 iab definitelyl definitely
@@ -7663,10 +7678,20 @@ iab earklpier earlier
 iab earleier earlier
 iab earlieset earliest
 iab earlkier earlier
+iab earlpgus earplugs
+iab earlpugs earplugs
 iab earluer earlier
 iab earluier earlier
 iab earlyer earlier
 iab earosion erosion
+iab earplgus earplugs
+iab earpliuds earplugs
+iab earpllllugs earplugs
+iab earplughs earplugs
+iab earplugis earplugs
+iab earpluygsl earplugs
+iab earplygs earplugs
+iab earplygus earplugs
 iab earray array
 iab easablished established
 iab easch each
@@ -9213,6 +9238,7 @@ iab fiels files
 iab fielz files
 iab fiferences differences
 iab fiftyu fifty
+iab figbht fight
 iab figets fidgets
 iab fighrt fight
 iab figther fighter
@@ -9454,6 +9480,7 @@ iab freendom freedom
 iab freenodee freenode
 iab freewringing freewriting
 iab freewritinga freewriting
+iab freh free
 iab freiend friend
 iab freiends friends
 iab freinds friends
@@ -10093,6 +10120,7 @@ iab heprahps perhaps
 iab heqre here
 iab herad heard
 iab heree here
+iab hereos heroes
 iab heretite heritage
 iab herhe here
 iab heritige heritage
@@ -12320,6 +12348,7 @@ iab mahichine machine
 iab mahny many
 iab mahu many
 iab mahy may
+iab maikes makes
 iab mainaers maintainers
 iab mainfarmesa mainframes
 iab mainhood manhood
@@ -12711,6 +12740,7 @@ iab milleseonds milliseconds
 iab millicsecondfs milliseconds
 iab millicseconds milliseconds
 iab millino million
+iab millinos millions
 iab millioin million
 iab milliseceonds milliseconds
 iab millisecionds milliseconds
@@ -14321,6 +14351,7 @@ iab paycejcjk paycheck
 iab paychkeck paycheck
 iab payckech paycheck
 iab payckechk paycheck
+iab paygoinb playing
 iab payign paying
 iab paymenet payment
 iab paymment payment
@@ -14868,6 +14899,7 @@ iab posisblity possibility
 iab posisitosi positions
 iab posislbe possible
 iab posistions positions
+iab positgion position
 iab positgiosn positions
 iab positibe positive
 iab positiioning positioning
@@ -15135,6 +15167,7 @@ iab preservce preserve
 iab presetn present
 iab presetns presents
 iab preseve preserve
+iab presewnt present
 iab presewnted presented
 iab presewtned presented
 iab presice precise
@@ -16310,6 +16343,7 @@ iab reqason reason
 iab reqeust request
 iab reqquisite requisite
 iab reqrite rewrite
+iab reqruit recruit
 iab requapment equipment
 iab requeast request
 iab requesdt request
@@ -16475,6 +16509,7 @@ iab responsisbilities responsibilities
 iab responsisiblies responsibilities
 iab responsivet responsive
 iab responslbiel responsible
+iab responwsible responsible
 iab respoond respond
 iab resposibile responsible
 iab respositories repositories
@@ -17059,6 +17094,7 @@ iab searcha search
 iab searchign searching
 iab searchis searches
 iab searfch search
+iab seargent sargent
 iab seasily easily
 iab seasion season
 iab seawrhc search
@@ -17070,6 +17106,7 @@ iab secdtion section
 iab secdtions sections
 iab secenario scenario
 iab secene scene
+iab seceretary secretary
 iab secftion section
 iab secfton Sefton
 iab sechecule schedule
@@ -18450,6 +18487,7 @@ iab supplieds supplied
 iab supplmenets supplements
 iab suppor supper
 iab supporitng supporting
+iab supporsed supposed
 iab supporsessed suppressed
 iab supportign supporting
 iab supposewd supposed
@@ -20353,6 +20391,8 @@ iab vbiolent violent
 iab vbision vision
 iab vboring boring
 iab vborwser browser
+iab vccufflings cufflings
+iab vccufflings cufflinks
 iab vdevelopment development
 iab vdido video
 iab vdieo video
@@ -21321,12 +21361,14 @@ iab yewar year
 iab yewars years
 iab yewt yet
 iab yeytes eyes
+iab yezr year
 iab yezsterday yesterday
 iab yform form
 iab yhat that
 iab yhave have
 iab yhere there
 iab yhet yet
+iab yhoiuyr your
 iab yhou you
 iab yhour your
 iab ylimiately ultimately
