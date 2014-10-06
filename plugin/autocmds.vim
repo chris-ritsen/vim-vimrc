@@ -35,6 +35,7 @@ augroup filetypes
   autocmd! BufNewFile,BufRead *.ldg,*.ledger setf ledger
   autocmd! BufRead,BufNewFile *.aspx,*.asmx,*.ascx set filetype=aspnet 
   autocmd! BufRead,BufNewFile *.json set filetype=json
+  autocmd! BufRead,BufNewFile *.css.map set filetype=json
   autocmd! BufRead,BufNewFile *.tex set filetype=tex
   autocmd! BufRead,BufNewFile .lynxrc set filetype=lynx
   autocmd! BufRead,BufNewFile .offlineimaprc setlocal commentstring=#\ %s
