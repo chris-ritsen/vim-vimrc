@@ -466,6 +466,7 @@ iab Cyrrently Currently
 iab DAnce Dance
 iab DAvison Davison
 iab DELTE DELETE
+iab DESCFRIPTION DESCRIPTION
 iab DEcide Decide
 iab DEscribe Describe
 iab DEvelolping Developing
@@ -907,6 +908,10 @@ iab IMagine Imagine
 iab IMplemeneted Implemented
 iab IMprovigin Improving
 iab IMprovment Improvement
+iab INTEFEACE INTERFACE
+iab INTERFACRE INTERFACE
+iab INTERFAFCE INTERFACE
+iab INTERFEACE INTERFACE
 iab INcompatability Incompatibility
 iab INcreasing Increasing
 iab INdeed Indeed
@@ -1832,6 +1837,7 @@ iab Switcihg Switching
 iab Syatem System
 iab Syhnopsis Synopsis
 iab Systmes Systems
+iab TECHNCIAL TECHNICAL
 iab TESting Testing
 iab TEchnical Technical
 iab TEchnique Technique
@@ -1840,6 +1846,7 @@ iab TEchnology Technology
 iab TExt Text
 iab TGe The
 iab TGhere There
+iab THIs This
 iab THank Thank
 iab THanks Thanks
 iab THansk Thanks
@@ -2830,6 +2837,7 @@ iab ahinderence hindrance
 iab ahjax ajax
 iab ahnd hand
 iab ahnded handed
+iab ahndles handles
 iab ahndling handling
 iab ahng hang
 iab ahnwyerhe anywhere
@@ -6588,6 +6596,7 @@ iab decliend declined
 iab decnt decent
 iab decomishon decommission
 iab decoupoled decoupled
+iab decoyupled decoupled
 iab decrase decrease
 iab decrasing decreasing
 iab decreating decreasing
@@ -7808,6 +7817,7 @@ iab editingew editing
 iab editng editing
 iab edn end
 iab edtiign editing
+iab edtiro editor
 iab edxlpode explode
 iab edxtend extend
 iab eeach each
@@ -10545,6 +10555,7 @@ iab ideaws ideas
 iab idefinitely indefinitely
 iab ideiot idiot
 iab idela ideal
+iab idenfitifes identifies
 iab identeifed identified
 iab identeifier identifier
 iab idential identical
@@ -10629,6 +10640,7 @@ iab imagintion imagination
 iab imagninative imaginative
 iab imagrery imagery
 iab imagry imagery
+iab imagwe image
 iab imagyinary imaginary
 iab imaigne imagine
 iab imaignen imagine
@@ -12778,6 +12790,7 @@ iab millliseconds milliseconds
 iab miltary military
 iab mimiking mimicking
 iab mindeste mindset
+iab miniamlly minimally
 iab minillion million
 iab minior minor
 iab miniror minor
@@ -13980,6 +13993,7 @@ iab optionsl options
 iab optiosn options
 iab optipons options
 iab optiuons options
+iab optkoins options
 iab optn open
 iab optoins options
 iab optuidal optical
@@ -16157,6 +16171,7 @@ iab rejejct reject
 iab rela real
 iab relacation relaxation
 iab relacing relaxing
+iab relaete relate
 iab relaiable reliable
 iab relaible reliable
 iab relaibly reliably
@@ -18882,10 +18897,12 @@ iab teawm team
 iab teawms teams
 iab tecdt text
 iab tecgbikigy technology
+iab tecghnical technical
 iab techincal technical
 iab techinque technique
 iab techinuqes techniques
 iab techiquyes techniques
+iab techncial technical
 iab techniclogy technology
 iab techniolgoies technologies
 iab techniolgy technology
@@ -19092,6 +19109,8 @@ iab tething tethering
 iab teure true
 iab teurn turn
 iab tewam team
+iab tewchnical technical
+iab tewchnigal technical
 iab tewhnical technical
 iab tewnty twenty
 iab tewo two
@@ -19140,6 +19159,7 @@ iab tha that
 iab thaaat that
 iab thaat that
 iab thab than
+iab thae the
 iab thah that
 iab thais this
 iab thajt that
@@ -20264,6 +20284,7 @@ iab upgright upright
 iab uplados uploads
 iab uplaod upload
 iab uplaoded uploaded
+iab uploawded uploaded
 iab upoin upon
 iab uproductive productive
 iab upstteram upstream
@@ -20713,6 +20734,7 @@ iab webkiut webkit
 iab webscsokets websockets
 iab webserfver webserver
 iab websever webserver
+iab websie website
 iab websswites websites
 iab webstie website
 iab websties websites
