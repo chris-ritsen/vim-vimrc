@@ -280,6 +280,8 @@ iab CHrtis Chris
 iab CLose Close
 iab CLothes Clothes
 iab CLoud Cloud
+iab COMPONENTEAS COMPONENTS
+iab COMPONENTES COMPONENTS
 iab CONSTANTLy CONSTANTLY
 iab COlor Color
 iab COme Come
@@ -549,6 +551,7 @@ iab Drooop Droop
 iab Drsribe Describe
 iab Drunking Drinking
 iab Dsiable Disable
+iab Duratoin Duration
 iab Dveelopement Development
 iab Dveloped Developed
 iab Dveloper Developer
@@ -2028,6 +2031,7 @@ iab Typially Typically
 iab Typinhg Typing
 iab Typiung Typing
 iab Typunfg Typing
+iab UNder Under
 iab UNivsere Universe
 iab UNless Unless
 iab UPdating Updating
@@ -5414,6 +5418,7 @@ iab comging combing
 iab comibnation combination
 iab comicile domicile
 iab comign coming
+iab comingt coming
 iab comitted committed
 iab comiuter commuter
 iab comjuter computer
@@ -5992,6 +5997,7 @@ iab contditioner conditioner
 iab contditioning conditioning
 iab conteact contact
 iab contecdt context
+iab contect context
 iab contecxts contexts
 iab conteinue continue
 iab contenbt content
@@ -6003,6 +6009,7 @@ iab contentes contents
 iab contenvitional conventional
 iab conteracting contracting
 iab conterianed constrained
+iab contexst context
 iab contexsts contexts
 iab contgact contact
 iab contianers containers
@@ -14961,6 +14968,7 @@ iab positiosns positions
 iab positiosnws positions
 iab positison position
 iab positiuon position
+iab positkon position
 iab positoin position
 iab positoisn positions
 iab positon position
@@ -15865,6 +15873,7 @@ iab raspbeery raspberry
 iab ratehr rather
 iab rathewr rather
 iab ratigns ratings
+iab ratiio ratio
 iab rattempt attempt
 iab rauining raining
 iab razied raised
@@ -16386,6 +16395,7 @@ iab repsected respected
 iab repsectiable respectable
 iab repsectively respectively
 iab repsectiverly respectively
+iab repsoisitioned repositioned
 iab repsond respond
 iab repsonded responded
 iab repsonosible responsible
@@ -16474,6 +16484,7 @@ iab resembalnces resemblances
 iab reseqrchers researchers
 iab reseraunt restaurant
 iab reserverd reserved
+iab resetore restore
 iab reseverved reserved
 iab resillient resilient
 iab resipes recipes
@@ -19170,6 +19181,7 @@ iab thart that
 iab thate that
 iab thatl that
 iab thatnk thank
+iab thatr that
 iab thatt that
 iab thaty that
 iab thave have
@@ -19365,6 +19377,7 @@ iab thlusands thousands
 iab thmub thumb
 iab thmumb thumb
 iab thmumx thumb
+iab thnat that
 iab thne then
 iab thnink think
 iab thnk think
@@ -19748,7 +19761,9 @@ iab tranfeers transfers
 iab tranfer transfer
 iab tranfering transferring
 iab tranffer transfer
+iab tranform transform
 iab tranformation transformation
+iab tranformations transformations
 iab tranformmed transformed
 iab traning training
 iab tranpsiarmices transparencies
@@ -20266,6 +20281,7 @@ iab uopened opened
 iab upate update
 iab updaated updated
 iab updaates updates
+iab updaet update
 iab updatesa updates
 iab updatg update
 iab updatse updates
