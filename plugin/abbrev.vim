@@ -230,6 +230,7 @@ iab Behinning Beginning
 iab Beiber Bieber
 iab Beliebe Believe
 iab Bensley Bentley
+iab Berliun Berlin
 iab Besdt Best
 iab Besidses Besides
 iab Besiudes Besides
@@ -280,6 +281,8 @@ iab CHrtis Chris
 iab CLose Close
 iab CLothes Clothes
 iab CLoud Cloud
+iab COMPONENTEAS COMPONENTS
+iab COMPONENTES COMPONENTS
 iab CONSTANTLy CONSTANTLY
 iab COlor Color
 iab COme Come
@@ -549,6 +552,7 @@ iab Drooop Droop
 iab Drsribe Describe
 iab Drunking Drinking
 iab Dsiable Disable
+iab Duratoin Duration
 iab Dveelopement Development
 iab Dveloped Developed
 iab Dveloper Developer
@@ -2028,6 +2032,7 @@ iab Typially Typically
 iab Typinhg Typing
 iab Typiung Typing
 iab Typunfg Typing
+iab UNder Under
 iab UNivsere Universe
 iab UNless Unless
 iab UPdating Updating
@@ -2035,6 +2040,7 @@ iab URl URL
 iab UYes Eyes
 iab UYou You
 iab Udiopating Updating
+iab Uiniversity University
 iab Uisjng Using
 iab Uisnging Using
 iab Unbeleivable Unbelievable
@@ -4375,7 +4381,9 @@ iab blabn blab
 iab blackended blackened
 iab blakn blank
 iab blakzed blazed
+iab blaqck black
 iab blatheriing blathering
+iab blavk black
 iab blcok block
 iab blcoked blocked
 iab blcoking blocking
@@ -5414,6 +5422,7 @@ iab comging combing
 iab comibnation combination
 iab comicile domicile
 iab comign coming
+iab comingt coming
 iab comitted committed
 iab comiuter commuter
 iab comjuter computer
@@ -5979,6 +5988,7 @@ iab containeres containers
 iab containersa containers
 iab containingers containers
 iab containis contains
+iab containmenet containment
 iab containsers containers 
 iab containzers containers
 iab contaion contain
@@ -5992,6 +6002,7 @@ iab contditioner conditioner
 iab contditioning conditioning
 iab conteact contact
 iab contecdt context
+iab contect context
 iab contecxts contexts
 iab conteinue continue
 iab contenbt content
@@ -6003,6 +6014,7 @@ iab contentes contents
 iab contenvitional conventional
 iab conteracting contracting
 iab conterianed constrained
+iab contexst context
 iab contexsts contexts
 iab contgact contact
 iab contianers containers
@@ -6840,6 +6852,7 @@ iab desxterity dexterity
 iab detaail detail
 iab detaiol detail
 iab detatched detached
+iab detaul detail
 iab detcdts detects
 iab detcet detect
 iab detcetds detects
@@ -7216,6 +7229,7 @@ iab disconnestedd disconnected
 iab disconnvet disconnect
 iab discoverd discover
 iab discoverd discovered
+iab discovereies discoveries
 iab discoverfd discovered
 iab discoversy discovery
 iab discoverty discovery
@@ -7817,6 +7831,7 @@ iab editingew editing
 iab editng editing
 iab edn end
 iab edtiign editing
+iab edtior editor
 iab edtiro editor
 iab edxlpode explode
 iab edxtend extend
@@ -8032,6 +8047,8 @@ iab eletro electro
 iab eletrode electrode
 iab eletrodes electrodes
 iab eletroinics electronics
+iab eletromagnetic electromagnetic
+iab eletromagnetism electromagnetism
 iab eletronci electronic
 iab eletronic electronic
 iab eletronics electronics
@@ -8400,6 +8417,7 @@ iab equallay equally
 iab equallty equally
 iab equaly equally
 iab equiavalence equivalence
+iab equilibirum equilibrium
 iab equioment equipment
 iab equirements requirements
 iab equivalant equivalent
@@ -8572,6 +8590,7 @@ iab eveident evident
 iab eveidentally evidently
 iab eveiroyne everyone
 iab eveloper developer
+iab evenbt event
 iab eveneds evened
 iab evenet event
 iab evenetually eventually
@@ -9920,6 +9939,7 @@ iab growin growing
 iab grownth growth
 iab grreatlhy greatly
 iab gses gases
+iab gseture gesture
 iab gte get
 iab gterying getting
 iab gthat that
@@ -10638,6 +10658,7 @@ iab imaginging imagining
 iab imaginiary imaginary
 iab imagintion imagination
 iab imagninative imaginative
+iab imagre image
 iab imagrery imagery
 iab imagry imagery
 iab imagwe image
@@ -10761,6 +10782,7 @@ iab imporoving improving
 iab importanat important
 iab importane importance
 iab importanfe importance
+iab importantce importance
 iab importanty important
 iab importnaet important
 iab importnat important
@@ -11929,6 +11951,7 @@ iab lauyghing laughing
 iab lauyndryu laundry
 iab laways always
 iab lawte late
+iab lawys laws
 iab laxt last
 iab layhtouts layouts
 iab layndry laundry
@@ -13884,6 +13907,7 @@ iab onnline online
 iab onnly only
 iab onoce once
 iab onoe one
+iab onone none
 iab onotber another
 iab onow know
 iab ontain contain
@@ -14071,6 +14095,8 @@ iab orrifice orifice
 iab orther other
 iab orupuses purposes
 iab oruther further
+iab osciallator oscillator
+iab oscialllator oscillator
 iab oscillatiojs oscillations
 iab osdmethign something
 iab osemthign something
@@ -14648,6 +14674,7 @@ iab phenumnonia pneumonia
 iab pheone phone
 iab pheriherals peripherals
 iab phgrases phrases
+iab phgysicsa physics
 iab phicsal physical
 iab philisophical philosophical
 iab philosophial philosophical
@@ -14799,7 +14826,9 @@ iab pluplped pulped
 iab pluygin plugin
 iab pluynger plunger
 iab pluys plus
+iab plyg plug
 iab plynger plunger
+iab plyug plug
 iab plyunger plunger
 iab plyungger plunger
 iab plyunnger plunger
@@ -14961,6 +14990,7 @@ iab positiosns positions
 iab positiosnws positions
 iab positison position
 iab positiuon position
+iab positkon position
 iab positoin position
 iab positoisn positions
 iab positon position
@@ -15338,6 +15368,7 @@ iab procarastionattoipn procrastination
 iab procaratination procrastination
 iab procastanation procrastination
 iab procastnagtion procrastination
+iab proce4sses processes
 iab procecssing processing
 iab proceicient proficient
 iab proces process
@@ -15390,6 +15421,7 @@ iab productivyty productivity
 iab produictively productively
 iab produvt product
 iab proecess process
+iab proecesses precesses
 iab proecss process
 iab proected protected
 iab proejct project
@@ -15834,6 +15866,7 @@ iab racre race
 iab radious radius
 iab radisu radius
 iab radisus radius
+iab radiuation radiation
 iab radiys radius
 iab radtional rational
 iab raeading reading
@@ -15865,6 +15898,7 @@ iab raspbeery raspberry
 iab ratehr rather
 iab rathewr rather
 iab ratigns ratings
+iab ratiio ratio
 iab rattempt attempt
 iab rauining raining
 iab razied raised
@@ -16386,6 +16420,7 @@ iab repsected respected
 iab repsectiable respectable
 iab repsectively respectively
 iab repsectiverly respectively
+iab repsoisitioned repositioned
 iab repsond respond
 iab repsonded responded
 iab repsonosible responsible
@@ -16400,6 +16435,7 @@ iab reptition repetition
 iab repurcussions repercussions
 iab reqason reason
 iab reqeust request
+iab reqquired required
 iab reqquisite requisite
 iab reqrite rewrite
 iab reqruit recruit
@@ -16451,12 +16487,14 @@ iab rereouted rerouted
 iab reridgerate refrigerate
 iab resaearchers researchers
 iab resaerachers researchers
+iab resaerch research
 iab resaon reason
 iab resarech research
 iab resareching researching
 iab resatricttion restriction
 iab resceived received
 iab rescieved received
+iab resdearch research
 iab reseach research
 iab reseagch research
 iab researcdh research
@@ -16474,7 +16512,9 @@ iab resembalnces resemblances
 iab reseqrchers researchers
 iab reseraunt restaurant
 iab reserverd reserved
+iab resetore restore
 iab reseverved reserved
+iab resiizable resizable
 iab resillient resilient
 iab resipes recipes
 iab resisable resizable
@@ -16811,6 +16851,7 @@ iab rooom room
 iab rootEleemnt rootElement
 iab rorations rotations
 iab rortations rotations
+iab rotattoin rotation
 iab rotdsay today
 iab roughtly roughly
 iab rougly roughly
@@ -16868,6 +16909,7 @@ iab rtoo too
 iab rueles rules
 iab rugelar regular
 iab rughly roughly
+iab rught right
 iab rujnning running
 iab rulesa rules
 iab rulres rules
@@ -17072,6 +17114,7 @@ iab scool school
 iab scopres scores
 iab scorll scroll
 iab scould could
+iab scqale scale
 iab scratech scratch
 iab scrdipt script
 iab screatch scratch
@@ -17434,6 +17477,7 @@ iab sewating sweating
 iab sewatshirt sweatshirt
 iab sewems seems
 iab sewitdgched switched
+iab sewlect select
 iab sewrver server
 iab sexrice exercise
 iab sfamiliar familiar
@@ -18385,6 +18429,7 @@ iab struxture structure
 iab strying trying
 iab strztegety strategy
 iab ststus status
+iab sttep step
 iab stting setting
 iab stuats status
 iab stucl stuck
@@ -19170,6 +19215,7 @@ iab thart that
 iab thate that
 iab thatl that
 iab thatnk thank
+iab thatr that
 iab thatt that
 iab thaty that
 iab thave have
@@ -19222,6 +19268,7 @@ iab therew there
 iab therey there
 iab theri their
 iab therin therein
+iab theromdynamic thermodynamic
 iab theropy therapy
 iab theropys therapies
 iab thes these
@@ -19365,6 +19412,7 @@ iab thlusands thousands
 iab thmub thumb
 iab thmumb thumb
 iab thmumx thumb
+iab thnat that
 iab thne then
 iab thnink think
 iab thnk think
@@ -19748,7 +19796,9 @@ iab tranfeers transfers
 iab tranfer transfer
 iab tranfering transferring
 iab tranffer transfer
+iab tranform transform
 iab tranformation transformation
+iab tranformations transformations
 iab tranformmed transformed
 iab traning training
 iab tranpsiarmices transparencies
@@ -20013,6 +20063,7 @@ iab uesterdy yesterday
 iab ueyawrs years
 iab ufnction function
 iab ufnortunately unfortunately
+iab ugently urgently
 iab ugniring ignoring
 iab ugprade upgrade
 iab ugpraded upgraded
@@ -20064,6 +20115,7 @@ iab unconsouus unconscious
 iab unconvential unconventional
 iab uncopmrimising uncompromising
 iab uncosnous unconscious
+iab undbind unbind
 iab undefiend undefined
 iab undefine undefined
 iab underdantd understand
@@ -20266,6 +20318,7 @@ iab uopened opened
 iab upate update
 iab updaated updated
 iab updaates updates
+iab updaet update
 iab updatesa updates
 iab updatg update
 iab updatse updates
@@ -21557,41 +21610,3 @@ iab zooom zoom
 iab ztart start
 iab ztaships starships
 
-iab resiizable resizable
-iab rught right
-iab undbind unbind
-iab containmenet containment
-iab edtior editor
-iab rotattoin rotation
-iab discovereies discoveries
-iab phgysicsa physics
-iab resdearch research
-iab radiuation radiation
-iab reqquired required
-iab Uiniversity University
-iab Berliun Berlin
-iab resaerch research
-iab eletromagnetic electromagnetic
-iab eletromagnetism electromagnetism
-iab sttep step
-iab blavk black
-iab equilibirum equilibrium
-iab lawys laws
-iab blaqck black
-iab theromdynamic thermodynamic
-iab proecesses precesses
-iab eletromagnetic electromagnetic
-iab oscialllator oscillator
-iab osciallator oscillator
-iab importantce importance
-iab proce4sses processes
-iab ugently urgently
-iab onone none
-iab imagre image
-iab evenbt event
-iab sewlect select
-iab plyug plug
-iab plyg plug
-iab scqale scale
-iab gseture gesture
-iab detaul detail
