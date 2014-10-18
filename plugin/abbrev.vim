@@ -1110,6 +1110,7 @@ iab Leawve Leave
 iab Legos LEGOs
 iab Lenar Learn
 iab Lenght Length
+iab Leuchchterm Leuchtturm
 iab Leuchterm Leuchtturm
 iab Levellying Leveling
 iab Lgoic Logic
@@ -1309,6 +1310,7 @@ iab OPerations Operations
 iab OPtional Optional
 iab OPtions Options
 iab OPtioonal Optional
+iab ORdered Ordered
 iab OSometimes Sometimes
 iab OTDO TODO
 iab OTOD TODO
@@ -2043,6 +2045,7 @@ iab Udiopating Updating
 iab Uiniversity University
 iab Uisjng Using
 iab Uisnging Using
+iab Unbder Under
 iab Unbeleivable Unbelievable
 iab Understranding Understanding
 iab Undertansable Understandable
@@ -2713,6 +2716,7 @@ iab addtional additional
 iab addvanced advanced
 iab adeptive adaptive
 iab adequatley adequately
+iab adequeate adequate
 iab adequete adequate
 iab adffect affect
 iab adgjecties adjectives
@@ -3775,6 +3779,7 @@ iab attachec attached
 iab attacheds attaches
 iab attachement attachment
 iab attachements attachments
+iab attacjhed attached
 iab attacments attachments
 iab attadched attached
 iab attahcmenet attachment
@@ -6418,6 +6423,7 @@ iab culure culture
 iab cummutator commutator
 iab cummute commute
 iab cumpyter computer
+iab cunction function
 iab curature curvature
 iab curbature curvature
 iab curbe curve
@@ -9256,6 +9262,7 @@ iab ffew few
 iab ffirult difficult
 iab ffixingin fixing
 iab ffor for
+iab ffrction friction
 iab fginger flinger
 iab fgiving giving
 iab fgoing going
@@ -9349,6 +9356,7 @@ iab finslaly finally
 iab finxing fixing
 iab fioscud focused
 iab fiosit first
+iab firction friction
 iab firday Friday
 iab firednss friends
 iab fireinds friends
@@ -9384,6 +9392,7 @@ iab fixagtion fixation
 iab fixds fixes
 iab fixign fixing
 iab fkae fake
+iab flagas flags
 iab flalwlessly flawlessly
 iab flase false
 iab flasgs flasks
@@ -9521,6 +9530,7 @@ iab fration oration
 iab fre1quenlty frequently
 iab freaiking freaking
 iab freakign freaking
+iab frecditon friction
 iab freee free
 iab freeely freely
 iab freendom freedom
@@ -9564,6 +9574,7 @@ iab frewriting freewriting
 iab frewrriting freewriting
 iab frewwriting freewriting
 iab frgabments fragments
+iab fricdtion friction
 iab friciton friction
 iab frictoin friction
 iab friebd friend
@@ -9670,6 +9681,7 @@ iab functiaonl functional
 iab functino function
 iab functioN function
 iab functioanl functional
+iab functiojn function
 iab functionab functional
 iab functionalbity functionality
 iab functionaluity functionality
@@ -10360,6 +10372,7 @@ iab howevefr however
 iab howt how
 iab howver however
 iab hpainess happiness
+iab hpapen happen
 iab hpapens happens
 iab hpapneed happened
 iab hpapnened happened
@@ -14084,6 +14097,7 @@ iab ormed formed
 iab orngainsed organised
 iab ornganisational organisational
 iab orning morning
+iab oroginally originally
 iab oroiginal original
 iab oroiginally originally
 iab orphRUnanage orphanage
@@ -14790,6 +14804,7 @@ iab platforma platform
 iab platimum platinum
 iab platying playing
 iab plauer player
+iab plaun plain
 iab plawdce placed
 iab playedch played
 iab playetr player
@@ -16194,6 +16209,7 @@ iab reight right
 iab reimbursment reimbursement
 iab reindering rendering
 iab reinfocements reinforcements
+iab reingstalling reinstalling
 iab reisk risk
 iab reisntalled reinstalled
 iab reitrun return
@@ -21612,8 +21628,3 @@ iab zooom zoom
 iab ztart start
 iab ztaships starships
 
-iab cunction function
-iab functiojn function
-iab flagas flags
-iab ORdered Ordered
-iab hpapen happen
