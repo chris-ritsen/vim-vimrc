@@ -14073,6 +14073,7 @@ iab origiunal original
 iab orignal original
 iab orignial original
 iab orignis origins
+iab origuin origin
 iab orioginal original
 iab oriognal original
 iab oritinetation orientation
@@ -16851,6 +16852,7 @@ iab rooom room
 iab rootEleemnt rootElement
 iab rorations rotations
 iab rortations rotations
+iab rotateion rotation
 iab rotattoin rotation
 iab rotdsay today
 iab roughtly roughly
