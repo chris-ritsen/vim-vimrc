@@ -1,5 +1,4 @@
 
-
 " iab hadn hand " breaks hadn't
 cab GIt Git
 cab commmit commit
@@ -1112,7 +1111,6 @@ iab Leawve Leave
 iab Legos LEGOs
 iab Lenar Learn
 iab Lenght Length
-iab Leuchchterm Leuchtturm
 iab Leuchterm Leuchtturm
 iab Levellying Leveling
 iab Lgoic Logic
@@ -1313,7 +1311,6 @@ iab OPerations Operations
 iab OPtional Optional
 iab OPtions Options
 iab OPtioonal Optional
-iab ORdered Ordered
 iab OSometimes Sometimes
 iab OTDO TODO
 iab OTOD TODO
@@ -1739,6 +1736,7 @@ iab Scirpting Scripting
 iab Scism Schism
 iab Scoratic Socratic
 iab Scorrty Scotty
+iab Scrablble Scrabble
 iab Scremaing Screaming
 iab Screming Screaming
 iab Sderver Server
@@ -2049,7 +2047,6 @@ iab Udiopating Updating
 iab Uiniversity University
 iab Uisjng Using
 iab Uisnging Using
-iab Unbder Under
 iab Unbeleivable Unbelievable
 iab Understranding Understanding
 iab Undertansable Understandable
@@ -2484,6 +2481,7 @@ iab accounds accounts
 iab accoundts accounts
 iab accoung account
 iab accoutn account
+iab accoutning accounting
 iab accoutns accounts
 iab accpet accept
 iab accpetable acceptable
@@ -2724,7 +2722,6 @@ iab addtional additional
 iab addvanced advanced
 iab adeptive adaptive
 iab adequatley adequately
-iab adequeate adequate
 iab adequete adequate
 iab adffect affect
 iab adgjecties adjectives
@@ -3790,7 +3787,6 @@ iab attachec attached
 iab attacheds attaches
 iab attachement attachment
 iab attachements attachments
-iab attacjhed attached
 iab attacments attachments
 iab attadched attached
 iab attahcmenet attachment
@@ -6445,7 +6441,6 @@ iab culure culture
 iab cummutator commutator
 iab cummute commute
 iab cumpyter computer
-iab cunction function
 iab curature curvature
 iab curbature curvature
 iab curbe curve
@@ -6605,10 +6600,13 @@ iab deatails details
 iab deawl deal
 iab deawling dealing
 iab deawth death
+iab debbugger debugger
 iab debeopment development
 iab debiug debug
+iab debubgger debugger
 iab debuggger debugger
 iab debuggin debugging
+iab debuggter debugger
 iab decalare declare
 iab decard decade
 iab decate decade
@@ -7052,6 +7050,7 @@ iab dieal ideal
 iab dieas ideas
 iab dieaw idea
 iab diecide decide
+iab diemsnions dimensions
 iab dierction direction
 iab dierctories directories
 iab dierctory directory
@@ -9285,7 +9284,6 @@ iab ffew few
 iab ffirult difficult
 iab ffixingin fixing
 iab ffor for
-iab ffrction friction
 iab fginger flinger
 iab fgiving giving
 iab fgoing going
@@ -9380,7 +9378,6 @@ iab finslaly finally
 iab finxing fixing
 iab fioscud focused
 iab fiosit first
-iab firction friction
 iab firday Friday
 iab firednss friends
 iab fireinds friends
@@ -9416,7 +9413,6 @@ iab fixagtion fixation
 iab fixds fixes
 iab fixign fixing
 iab fkae fake
-iab flagas flags
 iab flalwlessly flawlessly
 iab flase false
 iab flasgs flasks
@@ -9554,7 +9550,6 @@ iab fration oration
 iab fre1quenlty frequently
 iab freaiking freaking
 iab freakign freaking
-iab frecditon friction
 iab freee free
 iab freeely freely
 iab freendom freedom
@@ -9598,7 +9593,6 @@ iab frewriting freewriting
 iab frewrriting freewriting
 iab frewwriting freewriting
 iab frgabments fragments
-iab fricdtion friction
 iab friciton friction
 iab frictoin friction
 iab friebd friend
@@ -9694,6 +9688,7 @@ iab funcdtions functions
 iab funciotn function
 iab funciotns functions
 iab funciton function
+iab funcitonal functional
 iab funcitons functions
 iab funck funk
 iab funcoin function
@@ -9705,7 +9700,6 @@ iab functiaonl functional
 iab functino function
 iab functioN function
 iab functioanl functional
-iab functiojn function
 iab functionab functional
 iab functionalbity functionality
 iab functionaluity functionality
@@ -10398,7 +10392,6 @@ iab howevefr however
 iab howt how
 iab howver however
 iab hpainess happiness
-iab hpapen happen
 iab hpapens happens
 iab hpapneed happened
 iab hpapnened happened
@@ -14130,7 +14123,6 @@ iab ormed formed
 iab orngainsed organised
 iab ornganisational organisational
 iab orning morning
-iab oroginally originally
 iab oroiginal original
 iab oroiginally originally
 iab orphRUnanage orphanage
@@ -14383,6 +14375,7 @@ iab parametesrs parameters
 iab paramiters parameters
 iab paramterrs parameters
 iab paramters parameters
+iab parapemter parameter
 iab parapgrah paragraph
 iab parapgrahph paragraph
 iab parapgrahps paragraphs
@@ -16249,7 +16242,6 @@ iab reight right
 iab reimbursment reimbursement
 iab reindering rendering
 iab reinfocements reinforcements
-iab reingstalling reinstalling
 iab reisk risk
 iab reisntalled reinstalled
 iab reitrun return
@@ -19295,6 +19287,7 @@ iab theem them
 iab theemsleves themselves
 iab theer There
 iab theere there
+iab theerefore therefore
 iab theese these
 iab theey they
 iab thef they
