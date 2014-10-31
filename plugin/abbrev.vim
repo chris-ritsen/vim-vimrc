@@ -1,5 +1,6 @@
 
 " iab hadn hand " breaks hadn't
+
 cab GIt Git
 cab commmit commit
 cab confifg config
@@ -2061,6 +2062,7 @@ iab Univeristy University
 iab Univiersity University
 iab Univsere Universe
 iab Unquestionalable Unquestionable
+iab Unresponsive3 Unresponsive
 iab Unsuppoorted Unsupported
 iab Upgradign Upgrading
 iab Upgradingin Upgrading
@@ -7254,6 +7256,7 @@ iab disconnesged disconnected
 iab disconnesgted disconnected
 iab disconnested disconnected
 iab disconnestedd disconnected
+iab disconnnected disconnected
 iab disconnvet disconnect
 iab discoverd discover
 iab discoverd discovered
@@ -7325,6 +7328,7 @@ iab displasy display
 iab displau display
 iab displauy display
 iab displawy display
+iab displayes displays
 iab displayh display
 iab displayu display
 iab displayus displays
@@ -12953,6 +12957,7 @@ iab mistsken mistaken
 iab misunderstod misunderstood
 iab misxclelaneus miscellaneous
 iab miuch much
+iab miuntes minutes
 iab miuscellaneus miscellaneous
 iab miuscles muscles
 iab mivoing moving
@@ -14898,6 +14903,7 @@ iab poewrful powerful
 iab pohne phone
 iab pohoene phone
 iab pohone phone
+iab pohoto photo
 iab poiece piece
 iab poihds pounds
 iab poiie piles
@@ -20345,6 +20351,7 @@ iab unrelaiable unreliable
 iab unreleated unrelated
 iab unreliabl3 unreliable
 iab unresovled unresolved
+iab unresponseive unresponsive
 iab unrestratined unrestrained
 iab unsdersatnding understanding
 iab unsderstanding understanding
@@ -21120,6 +21127,7 @@ iab windo wind
 iab windoowed windowed
 iab windw window
 iab windwo window
+iab windwos windows
 iab wineow window
 iab winnner winner
 iab winodw window
@@ -21235,6 +21243,7 @@ iab wonamn woman
 iab wonce wonce
 iab wone one
 iab woorking working
+iab woprk work
 iab wordl world
 iab wordld world
 iab wordldy worldly
@@ -21270,6 +21279,7 @@ iab workiong working
 iab workk work
 iab workld worked
 iab worknig working
+iab workoign working
 iab workring working
 iab workrry worry
 iab workstaions workstations
@@ -21671,8 +21681,3 @@ iab zooom zoom
 iab ztart start
 iab ztaships starships
 
-iab pohoto photo
-iab workoign working
-iab windwos windows
-iab woprk work
-iab Unresponsive3 Unresponsive
