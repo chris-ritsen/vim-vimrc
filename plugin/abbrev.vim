@@ -21681,3 +21681,7 @@ iab zooom zoom
 iab ztart start
 iab ztaships starships
 
+iab variabels variables
+iab difrerenty different
+iab ndoes nodes
+iab sytles styles
