@@ -1,5 +1,6 @@
 
 " iab hadn hand " breaks hadn't
+
 cab GIt Git
 cab commmit commit
 cab confifg config
@@ -1159,6 +1160,7 @@ iab MOde Mode
 iab MOdel Model
 iab MOdern Modern
 iab MOdes Modes
+iab MOdular Modular
 iab MOdule Module
 iab MOdules Modules
 iab MOnday Monday
@@ -1449,6 +1451,7 @@ iab Preseving Preserving
 iab Presnetly Presently
 iab Presntly Presently
 iab Presnwentluy Presently
+iab Prevoiusly Previously
 iab Pricicy Privacy
 iab Pricvacy Privacy
 iab Prinrtingt Printing
@@ -2061,6 +2064,7 @@ iab Univeristy University
 iab Univiersity University
 iab Univsere Universe
 iab Unquestionalable Unquestionable
+iab Unresponsive3 Unresponsive
 iab Unsuppoorted Unsupported
 iab Upgradign Upgrading
 iab Upgradingin Upgrading
@@ -7147,6 +7151,7 @@ iab dififlcutl difficult
 iab dififucdtly difficulty
 iab dififuclst difficult
 iab dififuclty difficulty
+iab difrerenty different
 iab difrrent different
 iab difrrente different
 iab diget digest
@@ -7254,6 +7259,7 @@ iab disconnesged disconnected
 iab disconnesgted disconnected
 iab disconnested disconnected
 iab disconnestedd disconnected
+iab disconnnected disconnected
 iab disconnvet disconnect
 iab discoverd discover
 iab discoverd discovered
@@ -7325,6 +7331,7 @@ iab displasy display
 iab displau display
 iab displauy display
 iab displawy display
+iab displayes displays
 iab displayh display
 iab displayu display
 iab displayus displays
@@ -7759,6 +7766,7 @@ iab earplygus earplugs
 iab earray array
 iab easablished established
 iab easch each
+iab eascpaing escaping
 iab easeir easier
 iab easieer easier
 iab easiily easily
@@ -9574,6 +9582,7 @@ iab frequeltyl frequently
 iab frequencey frequency
 iab frequencry frequency
 iab frequencty frequency
+iab frequenent frequent
 iab frequenetly frequently
 iab frequeney frequency
 iab frequenlty frequently
@@ -12349,6 +12358,7 @@ iab loook look
 iab losting losing
 iab lotz lot
 iab lousey lousy
+iab lowecase lowercase
 iab loxsing losing
 iab lpatop laptop
 iab lplaceholder placeholder
@@ -12953,6 +12963,7 @@ iab mistsken mistaken
 iab misunderstod misunderstood
 iab misxclelaneus miscellaneous
 iab miuch much
+iab miuntes minutes
 iab miuscellaneus miscellaneous
 iab miuscles muscles
 iab mivoing moving
@@ -13355,6 +13366,7 @@ iab nciesly nicely
 iab ncludes includes
 iab ncosole console
 iab ndoe node
+iab ndoes nodes
 iab ndownloaded downloaded
 iab ne4xt next
 iab neabled enabled
@@ -14898,6 +14910,7 @@ iab poewrful powerful
 iab pohne phone
 iab pohoene phone
 iab pohone phone
+iab pohoto photo
 iab poiece piece
 iab poihds pounds
 iab poiie piles
@@ -18866,6 +18879,7 @@ iab sytax syntax
 iab sytay stay
 iab sytem system
 iab sytle style
+iab sytles styles
 iab sytlesss styles
 iab sytlye style
 iab sytmem system
@@ -20345,6 +20359,7 @@ iab unrelaiable unreliable
 iab unreleated unrelated
 iab unreliabl3 unreliable
 iab unresovled unresolved
+iab unresponseive unresponsive
 iab unrestratined unrestrained
 iab unsdersatnding understanding
 iab unsderstanding understanding
@@ -20548,6 +20563,7 @@ iab varaibles variables
 iab varaition variation
 iab varations variations
 iab varations variations 
+iab variabels variables
 iab variablesa variables
 iab variablges variables
 iab varialbe variable
@@ -21120,6 +21136,7 @@ iab windo wind
 iab windoowed windowed
 iab windw window
 iab windwo window
+iab windwos windows
 iab wineow window
 iab winnner winner
 iab winodw window
@@ -21235,6 +21252,7 @@ iab wonamn woman
 iab wonce wonce
 iab wone one
 iab woorking working
+iab woprk work
 iab wordl world
 iab wordld world
 iab wordldy worldly
@@ -21270,6 +21288,7 @@ iab workiong working
 iab workk work
 iab workld worked
 iab worknig working
+iab workoign working
 iab workring working
 iab workrry worry
 iab workstaions workstations
@@ -21671,8 +21690,3 @@ iab zooom zoom
 iab ztart start
 iab ztaships starships
 
-iab pohoto photo
-iab workoign working
-iab windwos windows
-iab eascpaing escaping
-iab frequenent frequent
