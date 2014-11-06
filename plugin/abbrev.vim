@@ -7956,6 +7956,7 @@ iab efveyone everyone
 iab efw few
 iab egen even
 iab eglue glue
+iab ehader header
 iab ehalth health
 iab ehere here
 iab ehis his
