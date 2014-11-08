@@ -983,6 +983,7 @@ iab Implmeneted Implemented
 iab Importanty Important
 iab Importnat Important
 iab Imppulse Impulse
+iab Improtant Important
 iab Improvemnets Improvements
 iab Improvemtn Improvement
 iab Improvign Improving
@@ -7316,6 +7317,7 @@ iab disordrer disorder
 iab disorgainized disorganized
 iab disorgainzed disorganized
 iab disorganzied disorganized
+iab dispalu display
 iab dispaly display
 iab dispalyed displayed
 iab dispapointed disappointed
@@ -7954,6 +7956,7 @@ iab efveyone everyone
 iab efw few
 iab egen even
 iab eglue glue
+iab ehader header
 iab ehalth health
 iab ehere here
 iab ehis his
@@ -9423,6 +9426,7 @@ iab fixds fixes
 iab fixign fixing
 iab fkae fake
 iab flalwlessly flawlessly
+iab flaot float
 iab flase false
 iab flasgs flasks
 iab flaswe false
@@ -10849,6 +10853,7 @@ iab impratnt important
 iab imprerect imperfect
 iab impressses impresses
 iab impriving improving
+iab improatnt important
 iab improbing improving
 iab improbment improvement
 iab improced improved
@@ -15028,6 +15033,7 @@ iab posiotions positions
 iab posiotiosns positions
 iab posiotnio position
 iab posiotsions positions
+iab posirtion position
 iab posisbile possible
 iab posisble possible
 iab posisblity possibility
@@ -17541,6 +17547,7 @@ iab sewat sweat
 iab sewatches swatches
 iab sewating sweating
 iab sewatshirt sweatshirt
+iab sewction section
 iab sewems seems
 iab sewitdgched switched
 iab sewlect select
