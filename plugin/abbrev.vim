@@ -1,6 +1,7 @@
 
 " iab hadn hand " breaks hadn't
 
+
 cab GIt Git
 cab commmit commit
 cab confifg config
@@ -980,6 +981,7 @@ iab Immediatley Immediately
 iab Imoprove Improve
 iab Implmeented Implemented
 iab Implmeneted Implemented
+iab Imporatnt Important
 iab Importanty Important
 iab Importnat Important
 iab Imppulse Impulse
@@ -3423,6 +3425,7 @@ iab apparntelty apparently
 iab apparntley apparently
 iab apparntlu apparently
 iab apparntly apparently
+iab appartenlty apparently
 iab appartenly apparently
 iab appartnely apparently
 iab appaths paths
@@ -6007,6 +6010,7 @@ iab consumtion consumption
 iab consumung consuming
 iab contacdts contacts
 iab contacft contact
+iab contaienr container
 iab contaier container
 iab contaierr container
 iab contaiiner container
@@ -6911,6 +6915,7 @@ iab detewct detect
 iab detial detail
 iab detials details
 iab detyails details
+iab devceloping developing
 iab devekioer developer
 iab devekopers developers
 iab devel0opers developers
@@ -6929,7 +6934,9 @@ iab developmente development
 iab developmetn development
 iab developming developing
 iab developped developed
+iab develpign developing
 iab develping developing
+iab develpinging developing
 iab develpment development
 iab develpoe develop
 iab develpoemtn development
@@ -6941,6 +6948,8 @@ iab develpop develop
 iab develpor developer
 iab deveoped developed
 iab deveopers developers
+iab deveopling developing
+iab devepqing developing
 iab devestarted devastated
 iab devestated devastated
 iab devestating devastating
@@ -6967,6 +6976,7 @@ iab devleopmer developer
 iab devleopmetn development
 iab devleopoed developed
 iab devleping developing
+iab devlepinig developing
 iab devlepo develop
 iab devlepoinig developing
 iab devlepoment development
@@ -6984,6 +6994,7 @@ iab devlopment development
 iab devlopo develop
 iab devlops develops
 iab devloved devolved
+iab devlpeing developing
 iab devlpment development
 iab devlpo develop
 iab devoit devout
@@ -7527,6 +7538,7 @@ iab dorpped dropped
 iab dosen doesn
 iab doslike dislike
 iab dostrawted distracted
+iab dotteed dotted
 iab dottoed dotted
 iab doubhgt doubt
 iab doubtfyl doubtful
@@ -10812,6 +10824,8 @@ iab impoartant important
 iab impoirtant important
 iab imporance importance
 iab imporant important
+iab imporanta important
+iab imporantt important
 iab imporatant important
 iab imporatn important
 iab imporatna important
@@ -10821,16 +10835,20 @@ iab imporatnly importantly
 iab imporatnt important
 iab imporessed impressed
 iab imporivign improving
+iab impormtant important
 iab imporntant important
 iab imporoive improve
 iab imporove improve
 iab imporoved improved
 iab imporoving improving
+iab importahtn important
 iab importanat important
 iab importane importance
 iab importanfe importance
+iab importanrt important
 iab importantce importance
 iab importanty important
+iab importatn important
 iab importnaet important
 iab importnat important
 iab importnce importance
@@ -10853,12 +10871,21 @@ iab impratnt important
 iab imprerect imperfect
 iab impressses impresses
 iab impriving improving
+iab improaaarnt important
 iab improatnt important
 iab improbing improving
 iab improbment improvement
 iab improced improved
 iab improrperly improperly
+iab improtanrt important
 iab improtant important
+iab improtantn important
+iab improtantr important
+iab improtarnt important
+iab improtatnart important
+iab improtnat important
+iab improtnatrt important
+iab improtrtant important
 iab improvament improvement
 iab improvce improve
 iab improvemnet improvement
@@ -10870,17 +10897,37 @@ iab improvmenets improvements
 iab improvment improvement
 iab improvments improvements
 iab imprtance importance
+iab imprtanrt important
 iab imprtant important
 iab imprtantceeeeee importance
 iab imprtantly importantly
+iab imprtarnt important
 iab imprvoe improve
 iab imprwessaed impressed
 iab impsosible impossible
 iab impule impulse
+iab imput input
 iab imroving improving
+iab imrpoartn important
 iab imrporatn important
+iab imrporght important
+iab imrpotanrt important
+iab imrpotant important
+iab imrpotarnt important
+iab imrpotarntn important
+iab imrpotartn important
+iab imrpotartnt important
+iab imrpotnartn important
+iab imrpotratn important
+iab imrpotratnt important
+iab imrpottatn important
 iab imrpove improve
 iab imrpovemtn improvement
+iab imrptarnt important
+iab imrptartn important
+iab imrptoanrt important
+iab imrptoarnt important
+iab imrptoartn important
 iab imrpvoe improve
 iab imrpvoed improved
 iab imte time
@@ -11547,6 +11594,7 @@ iab irequires requires
 iab irequring requiring
 iab irght right
 iab iridescnet iridescent
+iab irmptarnt important
 iab irrelelevant irrelevant
 iab irrelelvant irrelevant
 iab irrelevenant irrelevant
@@ -12019,6 +12067,7 @@ iab lbaclk black
 iab lbe be
 iab lbierarty library
 iab lbinded blinded
+iab lbock block
 iab lbocks blocks
 iab lbood blood
 iab lboth both
@@ -15604,6 +15653,7 @@ iab proomotion promotion
 iab proomte promote
 iab proopagation propagation
 iab proopegation propagation
+iab prooper proper
 iab prooperty property
 iab prooperyly properly
 iab propductuve productive
@@ -20780,6 +20830,7 @@ iab waork work
 iab waorund around
 iab waould would
 iab wapr warp
+iab waqs was
 iab warapping wrapping
 iab wararnt warrant
 iab wardning warning
@@ -21697,28 +21748,3 @@ iab zooom zoom
 iab ztart start
 iab ztaships starships
 
-iab waqs was
-iab appartenlty apparently
-iab develpinging developing
-iab develpign developing
-iab devlepinig developing
-iab deveopling developing
-iab devlpeing developing
-iab devceloping developing
-iab devepqing developing
-iab importatn important
-iab flaot float
-iab importahtn important
-iab improatnt important
-iab lbock block
-iab imporantt important
-iab imporatnt important
-iab Imporatnt Important
-iab imput input
-iab impormtant important
-iab dotteed dotted
-iab Improtant Important
-iab improtnat important
-iab imrporght important
-iab imrpotant important
-iab improtnatrt important
