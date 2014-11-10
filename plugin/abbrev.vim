@@ -1,6 +1,7 @@
 
 " iab hadn hand " breaks hadn't
 
+
 cab GIt Git
 cab commmit commit
 cab confifg config
@@ -974,12 +975,14 @@ iab Iff If
 iab Ifg If
 iab Ifnally Finally
 iab Iidaes Ideas
+iab Iimportant Important
 iab Iit It
 iab ImageMacick ImageMagick
 iab Immediatley Immediately
 iab Imoprove Improve
 iab Implmeented Implemented
 iab Implmeneted Implemented
+iab Imporrtant Important
 iab Importanty Important
 iab Importnat Important
 iab Imppulse Impulse
@@ -12019,6 +12022,7 @@ iab lbaclk black
 iab lbe be
 iab lbierarty library
 iab lbinded blinded
+iab lbock block
 iab lbocks blocks
 iab lbood blood
 iab lboth both
