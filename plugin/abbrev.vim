@@ -912,6 +912,7 @@ iab ILLeaving Leaving
 iab IMage Image
 iab IMagine Imagine
 iab IMplemeneted Implemented
+iab IMportnatn Important
 iab IMprovigin Improving
 iab IMprovment Improvement
 iab INTEFEACE INTERFACE
@@ -985,8 +986,12 @@ iab Imporatnt Important
 iab Imporrtant Important
 iab Importanty Important
 iab Importnat Important
+iab Importnatl Important
+iab Importnatn Important
+iab Impotnat Important
 iab Imppulse Impulse
 iab Improtant Important
+iab Improtnat Important
 iab Improvemnets Improvements
 iab Improvemtn Improvement
 iab Improvign Improving
@@ -7334,6 +7339,7 @@ iab dispaly display
 iab dispalyed displayed
 iab dispapointed disappointed
 iab dispay display
+iab dispayu display
 iab dispcpline discipline
 iab dispimplne discipline
 iab dispkays displays
@@ -7351,6 +7357,7 @@ iab displayu display
 iab displayus displays
 iab displyas displays
 iab dispoacement displacement
+iab dispoay display
 iab disppay display
 iab disprupts disrupts
 iab disracdtiing distracting
@@ -9803,6 +9810,7 @@ iab gaasses gasses
 iab gabout about
 iab galdyly gladly
 iab galelries galleries
+iab galery gallery
 iab galliym gallium
 iab galss glass
 iab galvaanizing galvanizing
@@ -10847,11 +10855,13 @@ iab importanat important
 iab importane importance
 iab importanfe importance
 iab importanrt important
+iab importanrtn important
 iab importantce importance
 iab importanty important
 iab importatn important
 iab importnaet important
 iab importnat important
+iab importnatn important
 iab importnce importance
 iab importyant important
 iab imporve improve
@@ -10878,13 +10888,18 @@ iab improbing improving
 iab improbment improvement
 iab improced improved
 iab improrperly improperly
+iab improtanrnt important
 iab improtanrt important
+iab improtanrtn important
 iab improtant important
 iab improtantn important
 iab improtantr important
+iab improtantrt important
 iab improtarnt important
 iab improtatnart important
 iab improtnat important
+iab improtnatl important
+iab improtnatn important
 iab improtnatrt important
 iab improtrtant important
 iab improvament improvement
@@ -10912,7 +10927,9 @@ iab imroving improving
 iab imrpoartn important
 iab imrporatn important
 iab imrporght important
+iab imrportanrt important
 iab imrpotanrt important
+iab imrpotanrtn important
 iab imrpotant important
 iab imrpotarnt important
 iab imrpotarntn important
@@ -10924,6 +10941,7 @@ iab imrpotratnt important
 iab imrpottatn important
 iab imrpove improve
 iab imrpovemtn improvement
+iab imrproant important
 iab imrptarnt important
 iab imrptartn important
 iab imrptoanrt important
@@ -11583,6 +11601,7 @@ iab ipmortnat important
 iab ipmressed impressed
 iab ipmresseedd impressed
 iab iponeo iphone
+iab iportnat important
 iab ipossible possible
 iab iprotant important
 iab iptions options
@@ -20728,6 +20747,7 @@ iab viewqs views
 iab vieww view
 iab viewwd viewed
 iab vifew view
+iab viisble visible
 iab vill will
 iab vilume volume
 iab vioice voice
