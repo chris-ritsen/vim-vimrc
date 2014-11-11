@@ -1,6 +1,7 @@
 
 " iab hadn hand " breaks hadn't
 
+
 cab GIt Git
 cab commmit commit
 cab confifg config
@@ -7253,6 +7254,7 @@ iab disalble disable
 iab disallowes disallows
 iab disambugating disambiguating
 iab disappoined disappointed
+iab disappoinuting disappointing
 iab disauded dissuaded
 iab discintuictions distinctions
 iab disciplnine discipline
@@ -8479,6 +8481,7 @@ iab equaly equally
 iab equiavalence equivalence
 iab equilibirum equilibrium
 iab equioment equipment
+iab equipemenbt equipment
 iab equirements requirements
 iab equivalant equivalent
 iab equivelant equivalent
@@ -8803,6 +8806,7 @@ iab ewbsite website
 iab ewbsites websites
 iab ewditor editor
 iab ewears wears
+iab eweekene weekend
 iab eweeks weeks
 iab ewere were
 iab ewery every
@@ -20953,9 +20957,15 @@ iab weeeekend weekend
 iab weeekend weekend
 iab weejs weeks
 iab weekeend weekend
+iab weekekend weekend
+iab weekeknd weekend
+iab weekekned weekend
+iab weekendd weekend
 iab weekened weekend
 iab weekley weekly
 iab weeknd weekend
+iab weekned weekend
+iab weekneed weekend
 iab wefverying everything
 iab wegb web
 iab wegbbsites websites
@@ -20983,11 +20993,17 @@ iab weill will
 iab weindow window
 iab weither either
 iab weke week
+iab wekeekne weekend
 iab wekeend weekend
 iab wekeened weekend
 iab wekees weeks
+iab wekekend weekend
+iab wekekened weekend
+iab wekeknd weekend
+iab wekekned weekend
 iab wekened weekend
 iab wekes weeks
+iab wekneded weekend
 iab welathy wealthy
 iab wella well
 iab welwathy wealthy
@@ -21277,8 +21293,13 @@ iab wiuth with
 iab wiuthout without
 iab wjho who
 iab wjhom whom
+iab wkeekend weekend
+iab wkeekned weekend
+iab wkekend weekend
+iab wkekened weekend
 iab wkork work
 iab wkorking working
+iab wkwkened weekend
 iab wlak walk
 iab wlakign walking
 iab wlaking walking
@@ -21294,6 +21315,7 @@ iab wnader wander
 iab wnat want
 iab wnated wanted
 iab wnats wants
+iab wneekend weekend
 iab wnehenver whenever
 iab wnen when
 iab wnet went
@@ -21545,6 +21567,10 @@ iab wwbsite website
 iab wwe we
 iab wweak weak
 iab wweekend weekend
+iab wwekeeknd weekend
+iab wwekekend weekend
+iab wwekekned weekend
+iab wwekened weekend
 iab wwell well
 iab wwere were
 iab wwhat what
@@ -21555,6 +21581,7 @@ iab wwhy why
 iab wwiht with
 iab wwill will
 iab wwith with
+iab wwkekened weekend
 iab wwlak walk
 iab wword word
 iab wwrite write
@@ -21769,29 +21796,3 @@ iab zooom zoom
 iab ztart start
 iab ztaships starships
 
-iab equipemenbt equipment
-iab disappoinuting disappointing
-iab wekneded weekended
-iab wkeekend weekend
-iab wwkekened weekend
-iab wkwkened weekend
-iab wneekend weekend
-iab wekeknd weekend
-iab wkeekned weekend
-iab wkekend weekend
-iab weekeknd weekend
-iab wkekened weekend
-iab weekekend weekend
-iab weekned weekend
-iab wekeekne weekend
-iab weekneed weekend
-iab wekekened weekend
-iab wekekned weekend
-iab wekekend weekend
-iab wwekekend weekend
-iab wwekekned weekend
-iab weekendd weekend
-iab eweekene weekend
-iab wwekened weekend
-iab weekekned weekend
-iab wwekeeknd weekend
