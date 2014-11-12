@@ -21796,3 +21796,6 @@ iab zooom zoom
 iab ztart start
 iab ztaships starships
 
+iab biorder border
+iab jsutify justify
+iab didpaly display
