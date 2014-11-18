@@ -1,7 +1,4 @@
 
-" iab hadn hand " breaks hadn't
-
-
 cab GIt Git
 cab commmit commit
 cab confifg config
@@ -713,6 +710,7 @@ iab Excrusiationg Excruciating
 iab Excrutiating Excruciating
 iab Exhauyse Exhaust
 iab Existance Existence
+iab Existintg Existing
 iab Expecation Expectation
 iab Experiencde Experience
 iab Experince Experience
@@ -726,6 +724,7 @@ iab F0urth Fourth
 iab FEderal Federal
 iab FGive Five
 iab FIgure Figure
+iab FIle File
 iab FIles Files
 iab FIleter Filter
 iab FIred Fired
@@ -986,6 +985,7 @@ iab Implmeneted Implemented
 iab Imporatnt Important
 iab Imporrtant Important
 iab Importanty Important
+iab Importbnat Important
 iab Importnat Important
 iab Importnatl Important
 iab Importnatn Important
@@ -1362,6 +1362,7 @@ iab Orderedd Ordered
 iab Oridered Ordered
 iab Orthodoc Orthodox
 iab Otherwide Otherwise
+iab Ouptut Output
 iab Outiside Outside
 iab Outsaide Outside
 iab Outsid3 Outside
@@ -1772,6 +1773,7 @@ iab Serpantine Serpentine
 iab Serverice Service
 iab Sestup Setup
 iab Setvbice Service
+iab Seutp Setup
 iab Sevice Service
 iab Sfotware Software
 iab Sfstems Systems
@@ -2205,6 +2207,7 @@ iab Wjy Why
 iab Wlemcome Welcome
 iab Wnidows Windows
 iab Woithout Without
+iab Wokring Working
 iab Wokrs Works
 iab Woriking Working
 iab Workgin Working
@@ -2218,6 +2221,7 @@ iab Writihn Writing
 iab Wteleve Twelve
 iab XChecking Checking
 iab Xptiaions Captains
+iab Xuox Xbox
 iab YEsterday Yesterday
 iab YOu You
 iab YUou You
@@ -2931,6 +2935,7 @@ iab alibe alive
 iab alient alien
 iab alients aliens
 iab aligh align
+iab alighn align
 iab alignement alignment
 iab alignmetn alignment
 iab alignmmetn alignment
@@ -3446,6 +3451,7 @@ iab appeneded appended
 iab apperciation appreciation
 iab appicaiton application
 iab appication application
+iab appionitment appointment
 iab applcaiton application
 iab applcaitopn application
 iab applcation application
@@ -3602,6 +3608,7 @@ iab aready already
 iab areee are
 iab aregular regular
 iab areguments arguments
+iab areldasy already
 iab aremies armies
 iab areound around
 iab arew are
@@ -6017,6 +6024,7 @@ iab consumtion consumption
 iab consumung consuming
 iab contacdts contacts
 iab contacft contact
+iab contacteding contacting
 iab contaienr container
 iab contaier container
 iab contaierr container
@@ -8786,6 +8794,7 @@ iab evnviornment environment
 iab evoltion evolution
 iab evoltuion evolution
 iab evoltuoin evolution
+iab evolutionio evolution
 iab evolutionsry evolutionary
 iab evolutnion evolution
 iab evolv3ed evolved
@@ -8958,6 +8967,7 @@ iab exisitng existing
 iab existance existence
 iab existant existent
 iab existin existing
+iab existiung existing
 iab existnce existence
 iab existning existing
 iab existsance existence
@@ -9116,6 +9126,7 @@ iab exstravagnetly extravagantly
 iab exta extra
 iab extaordinary extraordinary
 iab extenal external
+iab extenbsion extension
 iab extendions extensions
 iab exteneral external
 iab extenral external
@@ -10007,6 +10018,7 @@ iab groudns grounds
 iab groupo group
 iab growin growing
 iab grownth growth
+iab grpahic graphic
 iab grreatlhy greatly
 iab gses gases
 iab gseture gesture
@@ -10922,6 +10934,7 @@ iab imprtant important
 iab imprtantceeeeee importance
 iab imprtantly importantly
 iab imprtarnt important
+iab imprtnat important
 iab imprvoe improve
 iab imprwessaed impressed
 iab impsosible impossible
@@ -11262,6 +11275,7 @@ iab inoyut input
 iab inpect inspect
 iab inplementation implementation
 iab inportant important
+iab inpput input
 iab inpressing impressing
 iab inpsect inspect
 iab inpspiration inspiration
@@ -11297,6 +11311,7 @@ iab insitincitlybvely instinctively
 iab insjectiopn injection
 iab inspecet inspect
 iab inspecft inspect
+iab inspecfted inspected
 iab inspectes inspects
 iab inspeoct inspect
 iab inspirted inspired
@@ -11831,6 +11846,7 @@ iab jusdt just
 iab jusdtify justify
 iab jusgment judgment
 iab jusit just
+iab jusitfy justify
 iab justfying justifying
 iab justifu justify
 iab justoiify justify
@@ -11937,6 +11953,7 @@ iab kitttnes kittens
 iab kityhchen kitchen
 iab klearn learn
 iab klike like
+iab klnew knew
 iab knaclk knack
 iab knetiuc kinetic
 iab knid kind
@@ -12657,6 +12674,7 @@ iab maoutn amount
 iab marbel marble
 iab marbeles marbles
 iab marco macro
+iab margion margin
 iab marign margin
 iab markedw marked
 iab marketabilty marketability
@@ -13089,6 +13107,7 @@ iab mmoentarily momentarily
 iab mmontior monitor
 iab mmore more
 iab mmouse mouse
+iab mmsising missing
 iab mmusble muscle
 iab mnaintainting maintaining
 iab mnarch march
@@ -13677,6 +13696,7 @@ iab nowe now
 iab nowehre nowhere
 iab nowherer nowhere
 iab nowiing knowing
+iab nowrpa nowrap
 iab npt not
 iab nromal normal
 iab nromaly normally
@@ -16626,6 +16646,7 @@ iab requwests requests
 iab reqwritten rewritten
 iab reqwuest request
 iab reqwuests requests
+iab reqwuired required
 iab rercoerced recorded
 iab rereouted rerouted
 iab reridgerate refrigerate
@@ -16930,9 +16951,11 @@ iab rigch rich
 iab righ right
 iab righbtr right
 iab righly rightly
+iab rightb right
 iab rightn right
 iab rightr right
 iab rightrj right
+iab rightt right
 iab rigit rigid
 iab rigning ringing
 iab rigth right
@@ -17056,6 +17079,7 @@ iab rueles rules
 iab rugelar regular
 iab rughly roughly
 iab rught right
+iab rugith right
 iab rujnning running
 iab rulesa rules
 iab rulres rules
@@ -17376,6 +17400,7 @@ iab secong second
 iab secons seconds
 iab secretely secretly
 iab sectino section
+iab sectoin section
 iab sectret secret
 iab sectuion section
 iab securly securely
@@ -17419,6 +17444,7 @@ iab selecs selects
 iab selecsted selected
 iab selectedd selected
 iab selecteing selecting
+iab selectes selects
 iab selectoro selector
 iab selectrively selectively
 iab seledtor selector
@@ -17559,6 +17585,7 @@ iab servefrs servers
 iab servera server
 iab serveral several
 iab serversd servers
+iab servicew service
 iab servie service
 iab serviec service
 iab servief service
@@ -18947,6 +18974,7 @@ iab systemm system
 iab systemr system
 iab systemsm systems
 iab systen system
+iab systenm system
 iab systme system
 iab systmem system
 iab systmes systems
@@ -19409,6 +19437,7 @@ iab themswelves themselves
 iab themye theme
 iab thene then
 iab thenm them
+iab thenmes themes
 iab thenmselves themselves
 iab theoropy therapy
 iab ther4e there
@@ -21444,6 +21473,7 @@ iab wousld would
 iab wouwld would
 iab wovlves wolves
 iab wowuld would
+iab woyuld would
 iab wpa wrap
 iab wqas was
 iab wqatch watch
@@ -21796,36 +21826,3 @@ iab zooom zoom
 iab ztart start
 iab ztaships starships
 
-iab woyuld would
-iab rugith right
-iab rightt right
-iab rightb right
-iab grpahic graphic
-iab servicew service
-iab evolutionio evolution
-iab selectes selects
-iab Importbnat Important
-iab margion margin
-iab jusitfy justify
-iab systenm system
-iab Xuox Xbox
-iab imprtnat important
-iab Seutp Setup
-iab sectoin section
-iab alighn align
-iab nowrpa nowrap
-iab extenbsion extension
-iab inspecfted inspected
-iab appionitment appointment
-iab contacteding contacting
-iab thenmes themes
-iab existiung existing
-iab Ouptut Output
-iab inpput input
-iab mmsising missing
-iab FIle File
-iab Wokring Working
-iab areldasy already
-iab klnew knew
-iab Existintg Existing
-iab reqwuired required
