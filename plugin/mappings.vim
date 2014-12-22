@@ -1,4 +1,7 @@
 
+" TODO: set this up
+" %!xmlformat --indent 2 --indent-char ' '  --preserve 'style foreignobject' --outencoding 'utf-8' -
+
 cmap w!! w !sudo tee % >/dev/null
 cnoremap <C-G> <C-U><BS>
 imap  <nop>

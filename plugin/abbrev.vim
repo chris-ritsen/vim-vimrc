@@ -73,6 +73,7 @@ iab Accredidation Accreditation
 iab Accrediditaion Accreditation
 iab Acedemics Academics
 iab Acqyuire Acquire
+iab Actusally Actually
 iab Acutally Actually
 iab Additinally Additionally
 iab Additioanl Additional
@@ -1439,6 +1440,8 @@ iab Plusing Pulsing
 iab Poeople People
 iab Poeple People
 iab Poitns Points
+iab Policey Policy
+iab Poluicy Policy
 iab Pontaic Pontiac
 iab Ponteiac Pontiac
 iab Popele People
@@ -2239,6 +2242,7 @@ iab Yestersady Yesterday
 iab Yime Time
 iab Yiou You
 iab Yioyu You
+iab Yopu You
 iab YouUtbue YouTube
 iab Youo You
 iab Youre You're
@@ -2796,6 +2800,7 @@ iab adversion aversion
 iab adviseds advises
 iab advive advice
 iab advoiding avoiding
+iab ady day
 iab aeen been
 iab aenough enough
 iab aer are
@@ -2945,6 +2950,7 @@ iab alingment alignment
 iab alirgn align
 iab alitteration alliteration
 iab allarming alarming
+iab alld all
 iab alliow allow
 iab alll all
 iab alllowing allowing
@@ -3255,6 +3261,7 @@ iab anwya anyway
 iab anwyeher anywhere
 iab anwyehre anywhere
 iab anwyehrere anywhere
+iab anwyerhe anywhere
 iab anwyhere anywhere
 iab anwywehre anywhere
 iab anwywerhe anywhere
@@ -4056,6 +4063,7 @@ iab backgoruned background
 iab backgriohgn background
 iab backgriong background
 iab backgrliund background
+iab backgroind background
 iab backgroiujnd background
 iab backgroiund background
 iab backgrojn background
@@ -4431,6 +4439,7 @@ iab blavk black
 iab blcok block
 iab blcoked blocked
 iab blcoking blocking
+iab blcoks blocks
 iab bleieve believe
 iab bleieving believing
 iab bleifs beliefs
@@ -5835,6 +5844,7 @@ iab confimrend confirmed
 iab confinnned confined
 iab confiounds confounds
 iab confiruation configuration
+iab confirugarion configuration
 iab confisdently confidently
 iab confiugere configure
 iab confiugraiotn configuration
@@ -5904,6 +5914,7 @@ iab conphehension comprehension
 iab conpleted completed
 iab conptyeur computer
 iab conptyuers computers
+iab conrifguration configuration
 iab conrtinue continue
 iab consceptualize conceptualize
 iab conscienceness consciousness
@@ -6851,6 +6862,8 @@ iab desdribed described
 iab deservign deserving
 iab desfribe describe
 iab desfribed described
+iab desgin design
+iab desgins designs
 iab desicess decides
 iab desicions decisions
 iab designe designed
@@ -8249,6 +8262,8 @@ iab empotioinal emotional
 iab empoyment employment
 iab empplyer employer
 iab emprty empty
+iab emptu empty
+iab emptuy empty
 iab emptyied emptied
 iab emssage message
 iab emtpy empty
@@ -9257,6 +9272,7 @@ iab familkar familiar
 iab familliar familiar
 iab familly family
 iab familuar familiar
+iab familyar familiar
 iab fards cards
 iab farenheight fahrenheit
 iab farily fairly
@@ -10538,6 +10554,7 @@ iab htme them
 iab htmk html
 iab html5MOde html5Mode
 iab htmlk html
+iab htnml html
 iab htoguh though
 iab htoguhts thoughts
 iab htois this
@@ -12378,6 +12395,7 @@ iab lleast least
 iab llg log
 iab lllapttop laptop
 iab lllast last
+iab llocation location
 iab llog log
 iab llogn long
 iab llogner longer
@@ -12862,6 +12880,7 @@ iab meonteiond mentioned
 iab meothdo method
 iab meothodsw methods
 iab mepmey money
+iab mepty empty
 iab mercaenaries mercenaries
 iab meregely merely
 iab mergesr mergers
@@ -12893,6 +12912,7 @@ iab metnioned mentioned
 iab metnioning mentioning
 iab metnionng mentioning
 iab metorite meteorite
+iab metpy empty
 iab meyself myself
 iab mfree free
 iab mfself myself
@@ -15793,6 +15813,7 @@ iab prurchaced purchased
 iab prurpose purpose
 iab pruspoe3 purpose
 iab prved proved
+iab prviacyt privacy
 iab prvileneged privileged
 iab prvoed proved
 iab psace space
@@ -16017,6 +16038,7 @@ iab quqations equations
 iab qurseiton question
 iab qusetions questions
 iab qusnaityt quantity
+iab qutoes quotes
 iab quwestions questions
 iab quyality quality
 iab quyantum quantum
@@ -16195,6 +16217,7 @@ iab recernly recently
 iab recetnly recently
 iab recevied received
 iab receving receiving
+iab recieps recipes
 iab recieve receive
 iab recieved received
 iab recieves receives
@@ -17192,6 +17215,7 @@ iab satisyfing satisfying
 iab satrtes starts
 iab saturdsay saturday
 iab satyrday saturday
+iab saud said
 iab saunder saunter
 iab savailable available
 iab savedf saved
@@ -17702,6 +17726,7 @@ iab shioyuld should
 iab shipes ships
 iab shipwors shipworms
 iab shirink shrink
+iab shirnk shrink
 iab shiup ship
 iab shlec shelf
 iab shlef shelf
@@ -18411,6 +18436,7 @@ iab starvign starving
 iab starying straying
 iab stasrt start
 iab stasrted started
+iab stastus status
 iab stasying staying
 iab statees states
 iab statemetn statement
@@ -20457,6 +20483,7 @@ iab unliktely unlikely
 iab unlimke unlike
 iab unlwilling unwilling
 iab unmiiimited unlimited
+iab unmless unless
 iab unnatrual unnatural
 iab unncecessary unnecessary
 iab unnecssary unnecessary
@@ -20983,6 +21010,7 @@ iab webkity webkit
 iab webkiut webkit
 iab webscsokets websockets
 iab webserfver webserver
+iab webservefr webserver
 iab websever webserver
 iab websie website
 iab websocvket websocket
@@ -21623,6 +21651,7 @@ iab wwill will
 iab wwith with
 iab wwkekened weekend
 iab wwlak walk
+iab wwokring working
 iab wword word
 iab wwrite write
 iab wwriting writing
@@ -21836,3 +21865,58 @@ iab zooom zoom
 iab ztart start
 iab ztaships starships
 
+iab shiow show
+iab exteranl external
+iab drinkj drink
+iab aparmtnemtn apartment
+iab dturn turn
+iab Wahht What
+iab unwelcomed unwelcome
+iab sometihgikn something
+iab Mgiht Might
+iab blwah blah
+iab shouldu should
+iab byuing buying
+iab swhtch switch
+iab rerutn return
+iab ioverwrite overwrite
+iab seeminglhy seemingly
+iab retuirn return
+iab accidentlalyt accidentally
+iab posirtion position
+iab replaqce replace
+iab hadnerlr handler
+iab involvment involvement
+iab ststens systems
+iab comapby company
+iab THe The
+iab reqyired required
+iab evenb even
+iab somehwat somewhat
+iab preerrable preferable
+iab onwared onward
+iab Unemploued Unemployed
+iab furnatire furniture
+iab furnatureue furniture
+iab furnture furniture
+iab fyranture furniture
+iab furnthure furniture
+iab furnitture furniture
+iab coimplains complaints
+iab puraching purchasing
+iab purchainsg purchasing
+iab prucahigns purchasing
+iab purachiasign purchasing
+iab blankiong blanking
+iab irrevelvant irrelevant
+iab complauin complain
+iab purcvhased purchased
+iab suspecious suspicious
+iab bandwith bandwidth
+iab betwene between
+iab ahving having
+iab surprsiign surprising
+iab connecteed connected
+iab infrequentyly infrequently
+iab previoyus previous
+iab modled molded
