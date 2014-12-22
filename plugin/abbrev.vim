@@ -3840,6 +3840,7 @@ iab attiwrubtes attributes
 iab attmeptign attempting
 iab attntetnion attention
 iab attribles attributes
+iab attriburtes attributes
 iab attributesa attributes
 iab attributres attributes
 iab attribuytes attributes
@@ -4208,6 +4209,7 @@ iab bedcause because
 iab beddause because
 iab bedgroom bedroom
 iab beefits befits
+iab beefore before
 iab beeing being
 iab beend been
 iab beenefits benefits
@@ -9641,6 +9643,7 @@ iab freuqnecdy frequency
 iab freuqnet frequent
 iab freuqnetly frequently
 iab freuwencrety frequency
+iab frewquently frequently
 iab frewqyentky frequently
 iab frewriting freewriting
 iab frewrriting freewriting
@@ -10578,6 +10581,7 @@ iab hvae have
 iab hvave have
 iab hve have
 iab hveee have
+iab hvoer hover
 iab hvqe have
 iab hvsae have
 iab hwant want
@@ -15252,6 +15256,7 @@ iab ppunds pounds
 iab ppurspose purpose
 iab pracdtice3 practice
 iab pracdtife practice
+iab praceticde practice
 iab praceticing practicing
 iab praciced practiced
 iab pracicticed practiced
