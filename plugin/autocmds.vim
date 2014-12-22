@@ -31,6 +31,7 @@ augroup filetypes
 
   autocmd! BufEnter * if &filetype == "" | setlocal filetype=text | endif
   autocmd! BufNewFile,BufRead *.c,*.cpp set foldmethod=syntax
+  autocmd! BufNewFile,BufRead *.svg set foldmethod=syntax
   autocmd! BufNewFile,BufRead *.vim set commentstring=" %s
   autocmd! BufNewFile,BufRead *.css,*.scss set foldmethod=marker fmr={,}
   autocmd! BufNewFile,BufRead *.ldg,*.ledger setf ledger
@@ -45,7 +46,7 @@ augroup filetypes
   autocmd! BufRead,BufNewFile /tmp/mutt* if &filetype == '' | setfiletype mail | endif 
   autocmd! BufRead,BufNewFile ~/.config/mailcap setlocal nowrap
   autocmd! BufRead,BufNewFile ~/.config/mutt/* if &filetype == '' | setfiletype muttrc | endif " would also like nowrap
-  autocmd! BufRead,BufNewFile ~/.config/tmux/*,~/.config/tmux/sessions setfiletype tmux
+  autocmd! BufRead,BufNewFile *.config/tmux/*,*.config/tmux/sessions/* setfiletype tmux
   autocmd! BufRead,BufNewFile ~/.irssi/config setfiletype conf
   autocmd! BufRead,BufNewFile ~/.mail/* if &filetype == '' | setfiletype mail | endif 
   autocmd! BufRead,BufNewFile ~/mail/* if &filetype == '' | setfiletype mail | endif 
