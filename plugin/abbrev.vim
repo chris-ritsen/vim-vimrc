@@ -21995,3 +21995,5 @@ iab ztaships starships
 iab Nhisance Nuisance
 iab nusiance nuisance
 iab bnusiance nuisance
+iab headpbones headphones
+iab requiqres requires
