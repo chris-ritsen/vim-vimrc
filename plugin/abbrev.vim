@@ -1,5 +1,4 @@
 
-
 cab GIt Git
 cab commmit commit
 cab confifg config
@@ -1293,6 +1292,7 @@ iab Netwokr Network
 iab Newpoirt Newport
 iab Nexdt Next
 iab Nexst Next
+iab Nhisance Nuisance
 iab Niola Nickla
 iab Nnot Not
 iab Nnow Now
@@ -4496,6 +4496,7 @@ iab bneed need
 iab bneing being
 iab bnottomless bottomless
 iab bnucnh bunch
+iab bnusiance nuisance
 iab bnut but
 iab boces boxes
 iab bocses boxes
@@ -10259,6 +10260,7 @@ iab headacehe headache
 iab headest headset
 iab headet headset
 iab headhones headphones
+iab headpbones headphones
 iab headphens headphones
 iab headpheosn headphones
 iab headphoens headphones
@@ -13831,6 +13833,7 @@ iab numver number
 iab numvers numbers
 iab nunbmer number
 iab nused newsed
+iab nusiance nuisance
 iab nutil until
 iab nutirition nutrition
 iab nutron neutron
@@ -16746,6 +16749,7 @@ iab requierd required
 iab requiers requires
 iab requiest request
 iab requiqred required
+iab requiqres requires
 iab requirea require
 iab requireas requires
 iab requiredt required
@@ -21992,8 +21996,3 @@ iab zooom zoom
 iab ztart start
 iab ztaships starships
 
-iab Nhisance Nuisance
-iab nusiance nuisance
-iab bnusiance nuisance
-iab headpbones headphones
-iab requiqres requires
