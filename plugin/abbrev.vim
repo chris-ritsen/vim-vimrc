@@ -355,6 +355,7 @@ iab Christe Christie
 iab Christiopher Christopher
 iab Christipoher Christopher
 iab Christoipher Christopher
+iab Chrix Chris
 iab Chrsitopher Christopher
 iab Chyckles Chuckles
 iab Cihese Chinese
@@ -6381,6 +6382,7 @@ iab couldd could
 iab couldf could
 iab couldnt couldn't
 iab coule could
+iab coulld could
 iab couls could
 iab coumpany company
 iab cound count
@@ -6522,6 +6524,7 @@ iab curicial crucial
 iab curiousities curiosities
 iab curiousity curiosity
 iab curise cruise
+iab curle cruel
 iab curlture culture
 iab curmmy crummy
 iab curnrelty currently
@@ -13444,6 +13447,7 @@ iab musc misc
 iab muscellenus miscellaneous
 iab musch much
 iab musci music
+iab musicions musicians
 iab musicsion musician
 iab muslcles muscles
 iab musscles muscles
@@ -15048,6 +15052,7 @@ iab plahying playing
 iab plaibnu plain
 iab plalnning planning
 iab plannign planning
+iab plaqy play
 iab plastesd placed
 iab plastivf plastic
 iab platfomr platform
@@ -21996,11 +22001,3 @@ iab zooom zoom
 iab ztart start
 iab ztaships starships
 
-iab plaqy play
-iab coulld could
-iab musicions musicians
-<<<<<<< HEAD
-iab Chrix Chris
-=======
-iab curle cruel
->>>>>>> 23f9c172515f0cba1b33a0b9d47216368c863828
