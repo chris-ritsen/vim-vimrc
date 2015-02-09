@@ -1,4 +1,5 @@
 
+
 cab GIt Git
 cab commmit commit
 cab confifg config
@@ -11337,6 +11338,7 @@ iab initiaited initiated
 iab initital initial
 iab initlaize initialize
 iab initliaize initialize
+iab initsrc initscr
 iab inituail initial
 iab inituuition intuition
 iab injecdtion injection

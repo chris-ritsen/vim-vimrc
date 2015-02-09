@@ -72,7 +72,8 @@ noremap <leader>t :<C-u>Unite -no-split -start-insert -buffer-name=files file_re
 
 noremap <leader>g :vimgrep // **/*.<left><left><left><left><left><left><left>
 noremap <leader>gf :e <cfile><cr>
-noremap <leader>m :MRU<CR>
+"noremap <leader>m :MRU<CR>
+noremap <silent> <leader>m :make<CR>
 noremap <leader>w <esc>:w!<cr>
 noremap <silent> <F2> :NERDTreeToggle<CR>
 noremap <silent> <F3> :TagbarToggle<CR>
