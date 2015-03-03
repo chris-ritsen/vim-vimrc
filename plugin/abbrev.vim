@@ -63,6 +63,7 @@ iab Abnd And
 iab Aboslutely Absolutely
 iab Abosoltyely Absolutely
 iab Absoultely Absolutely
+iab Accessavbility Accessibility
 iab Accewsories Accessories
 iab Accirodign According
 iab Accomidation Accommodation
@@ -687,6 +688,7 @@ iab Enttities Entities
 iab Episoddic Episodic
 iab Equlally Equally
 iab Eqwual Equal
+iab Erectiopn Erection
 iab Eriik Erik
 iab Esablishing Establishing
 iab Eseesentially Essentially
@@ -1811,6 +1813,9 @@ iab Sefver Server
 iab Semes Seems
 iab Sendiung Sending
 iab Senese Sense
+iab Sepcically Specifically
+iab Sepcifically Specifically
+iab Sepcififically Specifically
 iab Sercive Service
 iab Serer Sever
 iab Serfver Server
@@ -1869,8 +1874,12 @@ iab Soo So
 iab Sorrhy Sorry
 iab Sotuh South
 iab Southh South
+iab Specicfally Specifically
 iab Specificially Specifically
 iab Specifiically Specifically
+iab Speciically Specifically
+iab Speciiffilyaly Specifically
+iab Speciifially Specifically
 iab Spellchevk Spellcheck
 iab Splcie Splice
 iab Srriong Sarong
@@ -2969,6 +2978,7 @@ iab akwaek awake
 iab akwwake awake
 iab alaid laid
 iab alalogies analogies
+iab alaready already
 iab alaredy already
 iab alaways always
 iab alays always
@@ -3815,6 +3825,7 @@ iab assosiate associate
 iab assosiated associated
 iab asssets assets
 iab asssociated associated
+iab asssuming assuming
 iab assukentaion assumption
 iab assumet assumed
 iab assumingh assuming
@@ -4797,6 +4808,7 @@ iab bututer butter
 iab butyton button
 iab buuild build
 iab buuildings buildings
+iab buuying buying
 iab buvkets buckets
 iab buyffalo buffalo
 iab buyt but
@@ -5065,6 +5077,7 @@ iab cetnury century
 iab cetrain certain
 iab cevlver clever
 iab cewnter center
+iab cfalse false
 iab cfirst first
 iab cgateroy category
 iab cguide guide
@@ -6226,6 +6239,7 @@ iab contiuous continuous
 iab contiyually continually
 iab contnet content
 iab contnetn content
+iab contnnnnue continue
 iab contorl control
 iab contorlled controlled
 iab contorller controller
@@ -7341,6 +7355,7 @@ iab dipslayed displayed
 iab dipslaying displaying
 iab dipslays displays
 iab dipslpay display
+iab diraction direction
 iab diration duration
 iab dircction direction
 iab dircdt direct
@@ -7355,6 +7370,7 @@ iab direcdteions directions
 iab direcdtion direction
 iab direcdtory directory
 iab direcgt direct
+iab direcitn direction
 iab direciton direction
 iab direcitonpi direction
 iab direcltly directly
@@ -7632,6 +7648,7 @@ iab dnever never
 iab dnevvver never
 iab dnot not
 iab dobjeserv observe
+iab dobugt doubt
 iab dobut doubt
 iab dobuting doubting
 iab docmmunciation communication
@@ -7856,6 +7873,7 @@ iab duratiuon duration
 iab duratoin duration
 iab dureaciotn duration
 iab dureation duration
+iab dureciotn direction
 iab duresation duration
 iab durinfg during
 iab duringa during
@@ -8066,6 +8084,7 @@ iab eelse else
 iab eement element
 iab eending ending
 iab eenemeies enemies
+iab eenemy enemy
 iab eenergy energy
 iab eerors errors
 iab eessentially essentially
@@ -9266,6 +9285,7 @@ iab expldoes explodes
 iab expliciltly explicitly
 iab explicilty explicitly
 iab explicity explicitly
+iab explicityly explicitly
 iab explide explode
 iab exploerd explored
 iab explorign exploring
@@ -9280,6 +9300,7 @@ iab exposuer exposure
 iab expousre exposure
 iab exprected expected
 iab expreieicn3e experience
+iab expreience experience
 iab expremelty extremely
 iab expres express
 iab expresiion expression
@@ -9884,6 +9905,7 @@ iab fuckign fucking
 iab fuckigun fucking
 iab fuckkkkgin fucking
 iab fucling fucking
+iab fuclker fucker
 iab fucndtion function
 iab fucndtionaltity functionality
 iab fucndtions functions
@@ -10989,6 +11011,7 @@ iab immedaltyel immediately
 iab immedalytly immediately
 iab immedateily immediately
 iab immedately immediately
+iab immedatiate immediate
 iab immediaately immediately
 iab immediacty immediacy
 iab immedialtey immediately
@@ -11213,6 +11236,7 @@ iab inciment inclement
 iab incivudal individual
 iab incldue include
 iab incldues includes
+iab inclided inclined
 iab incliding including
 iab incliment inclement
 iab inclmenet inclement
@@ -11630,6 +11654,7 @@ iab inteesting interesting
 iab intefaces interfaces
 iab intefval interval
 iab intefview interview
+iab intefviews interviews
 iab integratied integrated
 iab inteintonally intentionally
 iab inteliigent intelligent
@@ -11721,9 +11746,11 @@ iab intervew interview
 iab intervier interview
 iab intervievw interview
 iab intervieww interview
+iab interviiew interview
 iab intervivew interview
 iab intervivewing interviewing
 iab intervivews interviews
+iab interviw interview
 iab interviwe interview
 iab interwtung interesting
 iab intesaresting interesting
@@ -13059,6 +13086,7 @@ iab medicide medicine
 iab medidate meditate
 iab medidiaate meditate
 iab meditaiomn meditation
+iab meditatoin meditation
 iab meditiate meditate
 iab medittaiont meditation
 iab mediyum medium
@@ -13219,6 +13247,7 @@ iab micrpohen microphone
 iab micxrohpne microphone
 iab middl3 middle
 iab midlde middle
+iab midpouint midpoint
 iab mighbt might
 iab mighr might
 iab migth might
@@ -22264,18 +22293,4 @@ iab zomibnes zombies
 iab zooom zoom
 iab ztart start
 iab ztaships starships
-iab meditatoin meditation
-iab asssuming assuming
-iab alaready already
-iab buuying buying
-iab dobugt doubt
-iab expreience experience
-iab immedatiate immediate
-iab explicityly explicitly
-iab diraction direction
-iab eenemy enemy
-iab midpouint midpoint
-iab dureciotn direction
-iab direcitn direction
-iab contnnnnue continue
-iab Accessavbility Accessibility
+
