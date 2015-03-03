@@ -11236,6 +11236,7 @@ iab inciment inclement
 iab incivudal individual
 iab incldue include
 iab incldues includes
+iab incldye include
 iab inclided inclined
 iab incliding including
 iab incliment inclement
@@ -19660,6 +19661,7 @@ iab temoprary temporary
 iab temorary temporary
 iab tempalte template
 iab tempaltes templates
+iab tempaltex templates
 iab temparature temperature
 iab tempate template
 iab temperateur temperature
