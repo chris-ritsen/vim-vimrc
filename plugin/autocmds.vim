@@ -40,6 +40,7 @@ augroup filetypes
   autocmd! BufRead,BufNewFile *.css.map set filetype=json
   autocmd! BufRead,BufNewFile *.tex set filetype=tex
   autocmd! BufRead,BufNewFile .lynxrc set filetype=lynx
+  autocmd! BufRead,BufNewFile .eslintrc set filetype=json
   autocmd! BufRead,BufNewFile .offlineimaprc setlocal commentstring=#\ %s
   autocmd! BufRead,BufNewFile /etc/nginx/nginx.conf,/usr/local/nginx/conf/* setfiletype nginx
   autocmd! BufRead,BufNewFile /etc/X11/xorg.conf.d/* setfiletype xf86conf

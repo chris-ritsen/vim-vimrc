@@ -109,6 +109,7 @@ iab Althoguh Although
 iab Althoguht Although
 iab Althought Although
 iab Althrough Although
+iab Ameritrad4 Ameritrade
 iab Amzzign Amazing
 iab Anchoivies Anchovies
 iab Andg And
@@ -3251,6 +3252,7 @@ iab anomyore anymore
 iab anorther another
 iab anotehr another
 iab anotehrh another
+iab anoterh another
 iab anothber another
 iab anothe another
 iab anotherh another
@@ -5570,6 +5572,7 @@ iab comdtpuyer computer
 iab comee come
 iab comef come
 iab coment comment
+iab comeplte complete
 iab comeptuyer computer
 iab comex comes
 iab comfiroting comforting
@@ -5684,8 +5687,10 @@ iab compauter computer
 iab compay company
 iab compayn company
 iab compbine combine
+iab compelete complete
 iab compeleted completed
 iab compeleting completing
+iab compelgte complete
 iab compelltely completely
 iab compelluing compelling
 iab compelte complete
@@ -5717,6 +5722,7 @@ iab complanu company
 iab complauin complain
 iab complciated complicated
 iab compleete complete
+iab complege complete
 iab compleitng completing
 iab complemenatary complementary
 iab complementatry complementary
@@ -6760,6 +6766,7 @@ iab dealiny dealing
 iab dealking dealing
 iab dealsb deals
 iab dealth dealt
+iab dealy delay
 iab dearxh search
 iab deatails details
 iab deawl deal
@@ -7625,6 +7632,7 @@ iab disvovering discovering
 iab dit did
 iab divieded divided
 iab dixtracted distracted
+iab dleay delay
 iab dleeted deleted
 iab dleeteed deleted
 iab dleicate delicate
@@ -8619,6 +8627,7 @@ iab epiddoe episode
 iab epiphony epiphany
 iab episdode episode
 iab episdodfes episodes
+iab episdoeeees episodes
 iab episeodes episodes
 iab episoce episode
 iab episode4 episode
@@ -11658,15 +11667,18 @@ iab intefview interview
 iab intefviews interviews
 iab integratied integrated
 iab inteintonally intentionally
+iab inteion intention
 iab inteliigent intelligent
 iab intellgent intelligent
 iab intendend intended
 iab intendnetgd intended
 iab intenet internet
+iab intenition intention
 iab intenrantional international
 iab intenrelally internally
 iab intented indented
 iab intentity intensity
+iab intentnion intention
 iab interace interface
 iab interacf5t interact
 iab interacfe interface
@@ -12080,6 +12092,7 @@ iab jheight height
 iab jhifden hidden
 iab jion join
 iab jions joins
+iab jkoin join
 iab jnew new
 iab jnot not
 iab jnow know
@@ -14578,6 +14591,7 @@ iab orprocesses processes
 iab orrecdt correct
 iab orrecdted corrected
 iab orrifice orifice
+iab ort or
 iab orther other
 iab orupuses purposes
 iab oruther further
@@ -19012,6 +19026,7 @@ iab striaght straight
 iab stricdt strict
 iab stright straight
 iab striken stricken
+iab strioct strict
 iab strkiing striking
 iab strkiking striking
 iab strnegh strength
@@ -20239,6 +20254,7 @@ iab tnothign nothing
 iab tnow now
 iab tnowa now
 iab tnrascvtion transaction
+iab toStting toString
 iab toadsy today
 iab tob to
 iab tocgether together
@@ -20348,6 +20364,7 @@ iab torubleshoot troubleshoot
 iab tosady toady
 iab tosay today
 iab tosday today
+iab tostring toString
 iab totadl total
 iab totla total
 iab touchest toughest
@@ -21420,6 +21437,7 @@ iab weant want
 iab wearly early
 iab wearth earth
 iab weatched watched
+iab weatching watching
 iab weays ways
 iab webcame webcam
 iab webd web
@@ -21695,6 +21713,7 @@ iab wieght weight
 iab wieghtk weights
 iab wieghts weights
 iab wieithn within
+iab wiether whether
 iab wiethin within
 iab wietihin within
 iab wihcih which
@@ -22296,7 +22315,3 @@ iab zooom zoom
 iab ztart start
 iab ztaships starships
 
-iab toStting toString
-iab tostring toString
-iab strioct strict
-iab nnot not
