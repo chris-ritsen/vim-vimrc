@@ -22329,3 +22329,15 @@ iab zooom zoom
 iab ztart start
 iab ztaships starships
 
+iab difficvulty difficulty
+iab Ameritrawde Ameritrade
+iab setuting setting
+iab misuc music
+iab muscoi music
+iab muisuci music
+iab surprisign surprising
+iab surprsiginly surprisingly
+iab eiach each
+iab ceratl cereal
+iab instrumaentals instrumentals
+iab Extreactibgn Extracting
