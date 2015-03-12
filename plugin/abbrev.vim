@@ -4589,6 +4589,7 @@ iab bnottomless bottomless
 iab bnucnh bunch
 iab bnusiance nuisance
 iab bnut but
+iab bny by
 iab boces boxes
 iab bocses boxes
 iab bocx box
