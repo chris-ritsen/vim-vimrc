@@ -60,7 +60,6 @@ noremap <down> <nop>
 " noremap <leader>b :CommandTBuffer<cr>
 " noremap <leader>f :CommandTJump<cr>
 
-
 noremap <leader>b :<C-u>Unite -no-split -start-insert -buffer-name=buffer buffer<cr>
 noremap <leader>f :<C-u>Unite -no-split -start-insert -buffer-name=files file<cr>
 
@@ -105,7 +104,8 @@ nnoremap <silent> <C-l> 1zl
 "   nnoremap <silent> <C-L> :nohlsearch<CR><C-L>
 " endif
 
-nnoremap <silent> <Leader>e :vsplit<bar>wincmd l<bar>exe "norm! Ljz<c-v><cr>"<cr>:set scb<cr>:wincmd h<cr> :set scb<cr>
+" nnoremap <silent> <Leader>e :vsplit<bar>wincmd l<bar>exe "norm! Ljz<c-v><cr>"<cr>:set scb<cr>:wincmd h<cr> :set scb<cr>
+nnoremap <silent> <Leader>e :e<CR>
 
 " inoremap <leader>r viwg?
 " inoremap <silent> <C-S-j> <cr><esc>:r !date -u +"\%Y-\%m-\%dT\%H:\%M:\%SZ"<CR>zt A — 
