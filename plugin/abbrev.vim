@@ -19444,6 +19444,7 @@ iab synatpics synaptics
 iab synax syntax
 iab synched synced
 iab synchornously synchronously
+iab synchretic syncretic
 iab syncohornpouslf synchronous
 iab syncrhonise synchronise
 iab syncrhonize synchronize

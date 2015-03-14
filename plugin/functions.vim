@@ -48,12 +48,11 @@ function! AddAbbrev()
     silent! exec 'normal' 'ciw' . correct_word
   endif
 
-  " TODO: Use a env variable for the abbreviation file instead
-  let a:abbrev_file = '/home/chris/.config/vim/bundle/vimrc/plugin/abbrev.vim'
+  let a:abbrev_file = expand('$VIMRC_PLUGIN_DIR/abbrev.vim')
   let a:lines = [abbrev_entry]
 
   " TODO: Check for a faster way of doing this
-  call writefile(readfile(a:abbrev_file)+a:lines, a:abbrev_file)
+  call writefile(uniq(sort(readfile(a:abbrev_file)+a:lines)), a:abbrev_file)
   execute 'iab ' incorrect_word . ' ' . correct_word
 
   call inputrestore()
