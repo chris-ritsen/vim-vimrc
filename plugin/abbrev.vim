@@ -5648,6 +5648,7 @@ iab commnicatopins communications
 iab commnucation communication
 iab commnuicate communicate
 iab commnuicating communicating
+iab commnuity community
 iab commnunities communities
 iab commomn common
 iab commonplade commonplace
@@ -7133,6 +7134,7 @@ iab develping developing
 iab develpinging developing
 iab develpment development
 iab develpoe develop
+iab develpoed developed
 iab develpoemtn development
 iab develpoer developer
 iab develpoers developers
@@ -8516,6 +8518,7 @@ iab englush english
 iab engneer engineer
 iab engrosssing engrossing
 iab enhancmenet enhancement
+iab enjouy enjoy
 iab enjoyalbge enjoyable
 iab enlightenmment enlightenment
 iab enlugh enough
@@ -8753,6 +8756,7 @@ iab esaiest easiest
 iab esaily easily
 iab esaitmate estimate
 iab esales sales
+iab esasily easily
 iab esasy easy
 iab esatern eastern
 iab esatly exactly
@@ -9111,6 +9115,7 @@ iab exchaust exhaust
 iab exchausted exhausted
 iab exchnage exchange
 iab excieted excited
+iab excisted existed
 iab excisting existing
 iab exciteda excited
 iab excitemnet excitement
@@ -9606,6 +9611,7 @@ iab figurout figure
 iab figuyre figure
 iab figyrue figure
 iab figyure figure
+iab figyuring figuring
 iab fihgts fights
 iab fijnished finished
 iab filded filed
@@ -14362,6 +14368,7 @@ iab ofh of
 iab oflder folder
 iab ofrever forever
 iab oftain obtain
+iab oftending offending
 iab oftne often
 iab ofund found
 iab ogf of
@@ -15511,6 +15518,7 @@ iab populatio population
 iab porblem problem
 iab porblems problems
 iab porduction production
+iab porgrammer programmer
 iab porition portion
 iab poritions portions
 iab porject project
@@ -15524,6 +15532,7 @@ iab portariat portrait
 iab portiion portion
 iab portiions portions
 iab portino portion
+iab portioin portion
 iab portsa ports
 iab posble possible
 iab posessed possessed
@@ -16113,6 +16122,7 @@ iab promniss promises
 iab promnote promote
 iab promopt prompt
 iab promopted prompted
+iab promosing promising
 iab promot prompt
 iab promotinug prompting
 iab promotp prompt
@@ -17025,6 +17035,7 @@ iab represetned represented
 iab represetnt represent
 iab represxsents represents
 iab reprocuded reproduced
+iab reproducable reproducible
 iab reprort report
 iab reprorted reported
 iab reprot report
@@ -18786,6 +18797,7 @@ iab spexific specific
 iab spiigot spigot
 iab spindel spindle
 iab spirirted spirited
+iab spirutal spiritual
 iab splelling spelling
 iab splendit splendid
 iab spliut split
@@ -19122,6 +19134,7 @@ iab stuf stuff
 iab stufcte struct
 iab stukc stuck
 iab stule style
+iab stumblining stumbling
 iab stumuluis stimulus
 iab stupisd stupid
 iab stupiud stupid
@@ -20902,6 +20915,7 @@ iab undr4stand understand
 iab undre under
 iab undreground underground
 iab undresantd understand
+iab undresstanding understanding
 iab undsersanding understanding
 iab undserstand understand
 iab undsure unsure
@@ -20909,6 +20923,7 @@ iab uneable unable
 iab unecessary unnecessary
 iab unecr4tainty uncertainty
 iab unedxsary unnecessary
+iab uneffible ineffable
 iab unelss unless
 iab unelsss unless
 iab unemmployed unemployed
@@ -21264,6 +21279,7 @@ iab veloicity velocity
 iab venefits benefits
 iab venetable vegetable
 iab verablly verbally
+iab verifiuablye verifiable
 iab verifiy verify
 iab verion version
 iab veriosn version
