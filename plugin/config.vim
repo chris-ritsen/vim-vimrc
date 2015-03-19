@@ -78,14 +78,14 @@ let g:sparkup = "sparkup"
 let g:sparkupArgs = "--no-last-newline"
 let g:sparkupExecuteMapping = ""
 let g:sparkupNextMapping = ""
-let g:syntastic_cpp_compiler_options = '-std=c++11'
 let g:syntastic_c_compiler_options = '-std=c11 -include stdio.h'
+let g:syntastic_cpp_compiler_options = '-std=c++11'
 let g:syntastic_enable_signs = 1
+let g:syntastic_exit_checks = 0
+let g:syntastic_full_redraws = 1
 let g:syntastic_javascript_checkers = ["eslint", "jshint"]
 let g:syntastic_javascript_eslint_exec = 'eslint'
 let g:syntastic_javascript_jshint_exec = 'jshint'
-let g:syntastic_exit_checks = 0
-let g:syntastic_full_redraws = 1
 let g:syntastic_mode_map = { 'mode': 'active', 'active_filetypes': ['lisp', 'php', 'javascript', 'ruby'], 'passive_filetypes': ['html'] }
 let g:tagbar_compact = 1
 let g:tagbar_width = 30

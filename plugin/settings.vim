@@ -1,9 +1,9 @@
 
 set autoindent
-set updatetime=1000
 set autoread
 set backspace=eol,start,indent
 set cmdheight=1
+set comments+=fb:•
 set commentstring=#\ %s
 set completeopt=menuone,menu,longest,preview
 set cpoptions=aABceFsJ "+=J
@@ -71,6 +71,7 @@ set undolevels=1000
 set undolevels=10000
 set undoreload=10000
 set undoreload=9999
+set updatetime=1000
 set viminfo=!,'100,\"100,:20,<50,s10,h,n~/.viminfo
 set virtualedit=all
 set whichwrap+=<,>,h,l

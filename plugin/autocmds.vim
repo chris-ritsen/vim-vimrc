@@ -3,9 +3,13 @@
 " endif
 
 autocmd BufReadPost *.jshintrc setf json
+autocmd BufWritePre *.js :%s/\s\+$//e
+autocmd CursorHold * checktime
 autocmd FileType html,markdown setlocal omnifunc=htmlcomplete#CompleteTags
 autocmd FileType javascript setlocal foldmethod=syntax
 autocmd FileType xml setlocal foldmethod=syntax
+autocmd FileType text let b:vcm_tab_complete = "exe
+
 
 augroup Binary           
   " TODO - Make this also work without matching filenames
@@ -31,23 +35,23 @@ augroup filetypes
 
   autocmd! BufEnter * if &filetype == "" | setlocal filetype=text | endif
   autocmd! BufNewFile,BufRead *.c,*.cpp set foldmethod=syntax
-  autocmd! BufNewFile,BufRead *.svg set foldmethod=syntax
-  autocmd! BufNewFile,BufRead *.vim set commentstring=" %s
   autocmd! BufNewFile,BufRead *.css,*.scss set foldmethod=marker fmr={,}
   autocmd! BufNewFile,BufRead *.ldg,*.ledger setf ledger
+  autocmd! BufNewFile,BufRead *.svg set foldmethod=syntax
+  autocmd! BufNewFile,BufRead *.vim set commentstring=" %s
   autocmd! BufRead,BufNewFile *.aspx,*.asmx,*.ascx set filetype=aspnet 
-  autocmd! BufRead,BufNewFile *.json set filetype=json
+  autocmd! BufRead,BufNewFile *.config/tmux/*,*.config/tmux/sessions/* setfiletype tmux
   autocmd! BufRead,BufNewFile *.css.map set filetype=json
+  autocmd! BufRead,BufNewFile *.json set filetype=json
   autocmd! BufRead,BufNewFile *.tex set filetype=tex
-  autocmd! BufRead,BufNewFile .lynxrc set filetype=lynx
   autocmd! BufRead,BufNewFile .eslintrc set filetype=json
+  autocmd! BufRead,BufNewFile .lynxrc set filetype=lynx
   autocmd! BufRead,BufNewFile .offlineimaprc setlocal commentstring=#\ %s
-  autocmd! BufRead,BufNewFile /etc/nginx/nginx.conf,/usr/local/nginx/conf/* setfiletype nginx
   autocmd! BufRead,BufNewFile /etc/X11/xorg.conf.d/* setfiletype xf86conf
+  autocmd! BufRead,BufNewFile /etc/nginx/nginx.conf,/usr/local/nginx/conf/* setfiletype nginx
   autocmd! BufRead,BufNewFile /tmp/mutt* if &filetype == '' | setfiletype mail | endif 
   autocmd! BufRead,BufNewFile ~/.config/mailcap setlocal nowrap
   autocmd! BufRead,BufNewFile ~/.config/mutt/* if &filetype == '' | setfiletype muttrc | endif " would also like nowrap
-  autocmd! BufRead,BufNewFile *.config/tmux/*,*.config/tmux/sessions/* setfiletype tmux
   autocmd! BufRead,BufNewFile ~/.irssi/config setfiletype conf
   autocmd! BufRead,BufNewFile ~/.mail/* if &filetype == '' | setfiletype mail | endif 
   autocmd! BufRead,BufNewFile ~/mail/* if &filetype == '' | setfiletype mail | endif 
@@ -57,15 +61,15 @@ augroup filetypes
   autocmd! BufReadPre,FileReadPre *.gpg,*.asc set noswapfile
   autocmd! FileType apache setlocal commentstring=#\ %s
   autocmd! FileType css setlocal nowrap
+  autocmd! FileType fstab setlocal commentstring=#\ %s
+  autocmd! FileType haskell setlocal commentstring=--\ %s 
   autocmd! FileType json setlocal nowrap
   autocmd! FileType lynx setlocal commentstring=#\ %s
   autocmd! FileType nginx setlocal commentstring=#\ %s
-  autocmd! FileType fstab setlocal commentstring=#\ %s
   autocmd! FileType scss setlocal nowrap
   autocmd! FileType slrnrc setlocal commentstring=%\ %s
   autocmd! FileType svnannotate cmap <buffer> q bwipeout
   autocmd! FileType text setlocal commentstring=%s 
-  autocmd! FileType haskell setlocal commentstring=--\ %s 
   autocmd! FileType text setlocal textwidth=78
   autocmd! FileType tmux setlocal commentstring=#\ %s
   autocmd! FileType vb setlocal commentstring='\ %s
@@ -118,10 +122,19 @@ augroup END
 "autocmd BufWinEnter * if &fdm == 'indent' | setlocal foldmethod=manual | endif
 "autocmd BufWinEnter *.* if expand("%") != "" | loadview | endif
 "autocmd BufWinLve *.* if expand("%") != "" | mkview! | endif
+"autocmd CursorHold * if getcmdwintype() == '' | checktime | endif
 "autocmd CursorMoved * exe printf('match IncSearch /\V\<%s\>/', escape(expand('<cword>'), '/\'))
+"autocmd FileChangedShell * if getcmdwintype() == '' | checktime | endif  
+"autocmd FileChangedShellPost * if getcmdwintype() == '' | checktime | endif 
 "autocmd FileType php set omnifunc=phpcomplete#CompletePHP
 "autocmd WinEnter * setlocal cursorline
 "autocmd WinLeave * setlocal nocursorline
 
-autocmd BufWritePre *.js :%s/\s\+$//e
+augroup automatic_noeol
+  autocmd!
+  autocmd BufWritePre  * call <SID>TempSetBinaryForNoeol()
+  autocmd BufWritePost * call <SID>TempRestoreBinaryForNoeol()
+augroup END
+
+autocmd FileType unite call s:unite_settings()
 

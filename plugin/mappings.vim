@@ -134,3 +134,12 @@ nnoremap <silent> <Leader>e :e<CR>
 "nnoremap n nzz
 "nnoremap } }zz
 
+" disable omnifunc; TODO: only if unset
+imap <C-x><C-o> <nop>
+nmap <MiddleMouse> <nop>
+nmap <s-k> <nop>
+nmap <s-k> <nop>
+vmap <s-k> <nop>
+
+inoremap <expr> <CR> pumvisible() ? "\<C-y>" : "\<C-g>u\<CR>"
+
