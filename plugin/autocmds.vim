@@ -8,8 +8,6 @@ autocmd CursorHold * checktime
 autocmd FileType html,markdown setlocal omnifunc=htmlcomplete#CompleteTags
 autocmd FileType javascript setlocal foldmethod=syntax
 autocmd FileType xml setlocal foldmethod=syntax
-autocmd FileType text let b:vcm_tab_complete = "exe
-
 
 augroup Binary           
   " TODO - Make this also work without matching filenames
@@ -129,12 +127,4 @@ augroup END
 "autocmd FileType php set omnifunc=phpcomplete#CompletePHP
 "autocmd WinEnter * setlocal cursorline
 "autocmd WinLeave * setlocal nocursorline
-
-augroup automatic_noeol
-  autocmd!
-  autocmd BufWritePre  * call <SID>TempSetBinaryForNoeol()
-  autocmd BufWritePost * call <SID>TempRestoreBinaryForNoeol()
-augroup END
-
-autocmd FileType unite call s:unite_settings()
 

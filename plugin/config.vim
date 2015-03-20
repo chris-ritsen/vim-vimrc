@@ -110,6 +110,8 @@ let sh_fold_enabled = 1
 let vimsyn_folding = 'af'
 let xml_syntax_folding = 1
 
+let g:vcm_default_maps = 0
+
 " let g:Powerline_loaded = 1
 " let g:airline#extensions#csv#column_display = 'Name'
 " let g:airline_detect_whitespace=0 "disabled
