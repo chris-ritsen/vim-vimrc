@@ -38,7 +38,7 @@ function! AddAbbrev()
       set nospell
     endif
 
-    return
+    "return
   endif
 
   " TODO: Replace word under cursor with user's final correction
