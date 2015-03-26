@@ -16411,6 +16411,7 @@ iab quesiotn question
 iab quesiotns questions
 iab quesiton question
 iab quesitons questions
+iab questionas questions
 iab questiones questions
 iab questiosn questions
 iab quetsion question
@@ -17844,6 +17845,7 @@ iab sdoimple simple
 iab sdone done
 iab sdoudn sound
 iab sdowdnloads downloads
+iab sdsession session
 iab sdtarted started
 iab sdtartgign starting
 iab sdvhool school
@@ -18938,6 +18940,7 @@ iab stawrted started
 iab stayrtup startup
 iab stayu stay
 iab stchools schools
+iab stck stick
 iab steaddied steadied
 iab steaff staff
 iab steaths deaths
@@ -20249,6 +20252,7 @@ iab thwo who
 iab thwye they
 iab thyey they
 iab thyumb thumb
+iab tickety ticket
 iab tidyied tidied
 iab tiem time
 iab tiembase timebase
@@ -22408,6 +22412,3 @@ iab zooom zoom
 iab ztart start
 iab ztaships starships
 
-iab questionas questions
-iab tickety ticket
-iab tickety ticket
