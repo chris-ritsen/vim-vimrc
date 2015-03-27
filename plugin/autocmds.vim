@@ -2,12 +2,12 @@
 " if v:version >= 700
 " endif
 
-autocmd BufReadPost *.jshintrc setf json
-autocmd BufWritePre *.js :%s/\s\+$//e
-autocmd CursorHold * checktime
-autocmd FileType html,markdown setlocal omnifunc=htmlcomplete#CompleteTags
-autocmd FileType javascript setlocal foldmethod=syntax
-autocmd FileType xml setlocal foldmethod=syntax
+autocmd! BufReadPost *.jshintrc setf json
+autocmd! BufWritePre *.js :%s/\s\+$//e
+"autocmd! CursorHold * silent checktime
+autocmd! FileType html,markdown setlocal omnifunc=htmlcomplete#CompleteTags
+autocmd! FileType javascript setlocal foldmethod=syntax
+autocmd! FileType xml setlocal foldmethod=syntax
 
 augroup Binary           
   " TODO - Make this also work without matching filenames

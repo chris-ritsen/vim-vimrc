@@ -22,6 +22,8 @@ function! AddAbbrev()
   let correct_word = input(s_prompt, possible_correct_word)
   let abbrev_entry = 'iab ' . incorrect_word . ' ' . correct_word
 
+  " TODO: I doubt the reliability of this function
+
   if empty(correct_word)
     silent! exec 'u'
 
