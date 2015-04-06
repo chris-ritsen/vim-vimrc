@@ -60,14 +60,14 @@ noremap <down> <nop>
 " noremap <leader>b :CommandTBuffer<cr>
 " noremap <leader>f :CommandTJump<cr>
 
-noremap <leader>b :<C-u>Unite -no-split -start-insert -buffer-name=buffer buffer<cr>
-noremap <leader>f :<C-u>Unite -no-split -start-insert -buffer-name=files file<cr>
+"noremap <leader>b :<C-u>Unite -no-split -start-insert -buffer-name=buffer buffer<cr>
+"noremap <leader>f :<C-u>Unite -no-split -start-insert -buffer-name=files file<cr>
 
 let g:unite_source_rec_max_cache_files = 0
-call unite#custom#source('file_rec,file_rec/async', 'max_candidates', 0)
-call unite#filters#matcher_default#use(['matcher_fuzzy'])
+"call unite#custom#source('file_rec,file_rec/async', 'max_candidates', 0)
+"call unite#filters#matcher_default#use(['matcher_fuzzy'])
 
-noremap <leader>t :<C-u>Unite -no-split -start-insert -buffer-name=files file_rec/async:!<cr>
+"noremap <leader>t :<C-u>Unite -no-split -start-insert -buffer-name=files file_rec/async:!<cr>
 
 noremap <leader>g :vimgrep // **/*.<left><left><left><left><left><left><left>
 noremap <leader>gf :e <cfile><cr>

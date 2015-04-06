@@ -353,11 +353,11 @@ endfu
 "}}}
 
 
-augroup automatic_noeol
-  autocmd!
-  autocmd BufWritePre  * call <SID>TempSetBinaryForNoeol()
-  autocmd BufWritePost * call <SID>TempRestoreBinaryForNoeol()
-augroup END
+" augroup automatic_noeol
+"   autocmd!
+"   autocmd BufWritePre  * call <SID>TempSetBinaryForNoeol()
+"   autocmd BufWritePost * call <SID>TempRestoreBinaryForNoeol()
+" augroup END
 
 autocmd FileType unite call s:unite_settings()
 
