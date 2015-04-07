@@ -810,6 +810,7 @@ iab Forewward Foreword
 iab Fransiciso Fransisco
 iab Frequienetly Frequently
 iab Frozyen Frozen
+iab Fuction Function
 iab Functoins Functions
 iab GBut But
 iab GBy Gaby
@@ -825,6 +826,7 @@ iab GOogle Google
 iab GOt Got
 iab GReat Great
 iab GUy Guy
+iab Garnat Garant
 iab Gbecause Because
 iab Geinius Genius
 iab Geinus Genius
@@ -1373,6 +1375,7 @@ iab OPerations Operations
 iab OPtional Optional
 iab OPtions Options
 iab OPtioonal Optional
+iab OPtonal Optional
 iab OSometimes Sometimes
 iab OTDO TODO
 iab OTOD TODO
@@ -1404,6 +1407,7 @@ iab OperatingA Operating
 iab Opiniions Opinions
 iab Opportunties Opportunities
 iab Optinal Optional
+iab Optoinal Optional
 iab Optonal Optional
 iab Oragnizign Organizing
 iab Oralcle Oracle
@@ -1510,6 +1514,7 @@ iab Prbioably Probably
 iab Predictbly Predictably
 iab Preferrably Preferably
 iab Preluede Prelude
+iab Premoum Premium
 iab Prerevcorded Prerecorded
 iab Presentky Presently
 iab Preseriving Preserving
@@ -2175,6 +2180,7 @@ iab Visisble Visible
 iab Visualzation Visualization
 iab Visusally Visually
 iab Vitims Victims
+iab Vlaue Value
 iab Voilenece Violence
 iab Vruce Bruce
 iab Vulnderable Vulnerable
@@ -3000,6 +3006,7 @@ iab alaredy already
 iab alaways always
 iab alays always
 iab albe alba
+iab albel label
 iab albumb album
 iab alcholic alcoholic
 iab alchool alcohol
@@ -3980,6 +3987,7 @@ iab audjio audio
 iab audlts adults
 iab audocorections autocorrections
 iab auido audio
+iab auio auto
 iab aulity quality
 iab auot auto
 iab ausre sure
@@ -4338,6 +4346,7 @@ iab beend been
 iab beenefits benefits
 iab beeneft benefit
 iab beenfit benefit
+iab beenm been
 iab beenp been
 iab befause because
 iab befcause because
@@ -5119,6 +5128,7 @@ iab chacatecter character
 iab chacne chance
 iab chaeply cheaply
 iab chagce chance
+iab chageset changeset
 iab chaghne change
 iab chagne change
 iab chagned changed
@@ -5500,6 +5510,7 @@ iab cnsoole console
 iab cnsoolel console
 iab cnter center
 iab coarbon carbon
+iab cobntrol control
 iab cocde code
 iab coce code
 iab cocern concern
@@ -6279,6 +6290,7 @@ iab contiyually continually
 iab contnet content
 iab contnetn content
 iab contnnnnue continue
+iab contoerl control
 iab contorl control
 iab contorlled controlled
 iab contorller controller
@@ -11446,6 +11458,7 @@ iab ineveitably inevitably
 iab inevitalby inevitably
 iab inevitalyby inevitably
 iab inevitialby inevitably
+iab inex index
 iab inexeperienced inexperienced
 iab infamllatory inflammatory
 iab infbovnvees involves
@@ -11587,6 +11600,7 @@ iab innoctent innocent
 iab innovateive innovative
 iab inoyut input
 iab inpect inspect
+iab inpit input
 iab inplementation implementation
 iab inportant important
 iab inpput input
@@ -12153,6 +12167,7 @@ iab jkoin join
 iab jnew new
 iab jnot not
 iab jnow know
+iab jobn job
 iab jode code
 iab joealous jealous
 iab joiking joking
@@ -12918,6 +12933,7 @@ iab magenetic magnetic
 iab magenets magnets
 iab magents magnets
 iab maghic magic
+iab magicla magical
 iab magjority majority
 iab magneetic magnetic
 iab magnitize magnetize
@@ -14140,6 +14156,7 @@ iab numberous numerous
 iab numbr number
 iab numbrers numbers
 iab numbrs numbers
+iab numiber number
 iab numver number
 iab numvers numbers
 iab nunbmer number
@@ -14770,10 +14787,12 @@ iab ovenn oven
 iab ovennn oven
 iab overahul overhaul
 iab overalyed overplayed
+iab overflw overflow
 iab overfow overflow
 iab overhail overhaul
 iab overheasrs overhears
 iab overlfow overflow
+iab overlow overflow
 iab overlyay overlay
 iab overrturend overturned
 iab overturend overturned
@@ -15646,6 +15665,7 @@ iab posslibly possibly
 iab posssible possible
 iab postiion position
 iab postiions positions
+iab postioin position
 iab postioions positions
 iab postioiosn positions
 iab postion position
@@ -17319,6 +17339,7 @@ iab reterive retrieve
 iab reternn return
 iab retetion retention
 iab retiina retina
+iab retnr return
 iab retpye retype
 iab retpyed Retyped
 iab retractec retracted
@@ -18930,6 +18951,7 @@ iab starnge strange
 iab starngers strangers
 iab startd started
 iab startes starts
+iab startewd started
 iab startginn starting
 iab startign starting
 iab startp start
@@ -19565,6 +19587,9 @@ iab tHuman human
 iab tThis this
 iab taaking taking
 iab taalk talk
+iab tabidex tabindex
+iab tabidnex tabindex
+iab tabinddx tabindex
 iab tachistoscopic tachistoscopic
 iab tackel tackle
 iab tackeled tackled
@@ -20876,6 +20901,7 @@ iab uncopmrimising uncompromising
 iab uncoscoiuslyy unconsciously
 iab uncosnous unconscious
 iab undbind unbind
+iab undefied undefined
 iab undefiend undefined
 iab undefine undefined
 iab underdantd understand
@@ -22186,6 +22212,7 @@ iab wuality quality
 iab wuiality equally
 iab wuich which
 iab wuick quick
+iab wuidth width
 iab wuit quit
 iab wuith with
 iab wundow window
@@ -22437,26 +22464,3 @@ iab zooom zoom
 iab ztart start
 iab ztaships starships
 
-iab magicla magical
-iab magicla magical
-iab contoerl control
-iab cobntrol control
-iab beenm been
-iab postioin position
-iab startewd started
-iab jobn job
-iab Garnat Garant
-iab Optoinal Optional
-iab OPtonal Optional
-iab Premoum Premium
-iab auio auto
-iab overlow overflow
-iab wuidth width
-iab overflw overflow
-iab lable label
-iab albel label
-iab inpit input
-
-iab undefied undefined
-iab inex index
-iab numiber number
