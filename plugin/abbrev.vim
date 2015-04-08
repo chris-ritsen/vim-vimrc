@@ -1611,6 +1611,7 @@ iab THese These
 iab THesh These
 iab THey They
 iab THidrd Third
+iab THids This
 iab THie The
 iab THing Thing
 iab THings Things
@@ -1623,6 +1624,7 @@ iab THoguht Thought
 iab THoguhts Thoughts
 iab THoguth Thought
 iab THogutsh Thoughts
+iab THos9t Those
 iab THose Those
 iab THougbh Though
 iab THough Though
@@ -1632,6 +1634,7 @@ iab THrowing Throwing
 iab THursdasy Thursday
 iab TIgers Tigers
 iab TIme Time
+iab TJhsi This
 iab TOOD TODO
 iab TOday Today
 iab TOitanfall Titanfall
@@ -1644,8 +1647,10 @@ iab TRhis Tris
 iab TVf TV
 iab TWo Two
 iab TWrerying Trying
+iab TYHose Those
 iab TYhe The
 iab TYhere There
+iab TYhsis This
 iab Tahnks Thanks
 iab Tahsnk Thanks
 iab Tallking Talking
@@ -1693,6 +1698,7 @@ iab Thatg That
 iab Thatnk Thank
 iab Thatw That
 iab Thbasnk Thanks
+iab Thbsi This
 iab Theer There
 iab Thegse These
 iab Thehy They
@@ -1709,6 +1715,7 @@ iab Thge The
 iab Thgen Then
 iab Thgere There
 iab Thgerefore Therefore
+iab Thgis This
 iab Thias This
 iab Thie The
 iab Thign Thing
@@ -1719,6 +1726,7 @@ iab Thios This
 iab Thisa This
 iab Thiss This
 iab Thius This
+iab Thixs This
 iab Thiz This
 iab Thje The
 iab Thnasnks Thanks
@@ -1734,12 +1742,19 @@ iab Thse These
 iab Thsi This
 iab Thsnsks Thanks
 iab Thsu Thus
+iab Thsui This
+iab Thuis This
 iab Thurdsay Thursday
 iab Thuyrday Thursday
 iab Thyping Hyping
 iab Thznsk Thanks
 iab Tje The
+iab Tjhis This
+iab Tjhiso This
 iab Tjhs This
+iab Tjhsi This
+iab Tjhsij This
+iab Tjshi This
 iab Tkae Take
 iab Tkling Talking
 iab Tlaked Talked
