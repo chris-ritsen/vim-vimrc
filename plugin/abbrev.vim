@@ -1,3 +1,4 @@
+
 iab Chicjkelds Chuckles
 iab Chickles Chuckles
 iab Chiense Chinese
@@ -10464,6 +10465,7 @@ iab htew thew
 iab htey they
 iab hteyse these
 iab hthis this
+iab hthsi this
 iab htigsn things
 iab hting thing
 iab htings things
@@ -10477,6 +10479,7 @@ iab htird third
 iab htis this
 iab htisi this
 iab htisoe those
+iab htiss this
 iab htiws this
 iab htme them
 iab htmk html
@@ -10499,6 +10502,7 @@ iab htrough through
 iab htrought thought
 iab htroughtout throughout
 iab htsi this
+iab htsk this
 iab httpBacken httpBackend
 iab httpbackend httpBackend
 iab htttp http
@@ -17887,6 +17891,7 @@ iab shipes ships
 iab shipwors shipworms
 iab shirink shrink
 iab shirnk shrink
+iab shithis this
 iab shiup ship
 iab shlec shelf
 iab shlef shelf
@@ -17936,6 +17941,7 @@ iab shreding shredding
 iab shrot short
 iab shroter shorter
 iab shrts shirts
+iab shthis this
 iab shuch such
 iab shuft shift
 iab shulffle shuffle
@@ -19799,6 +19805,7 @@ iab thinksg things
 iab thinksk thinks
 iab thinm think
 iab thinmking thinking
+iab thios this
 iab thirdtheen thirteen
 iab thirdty thirty
 iab thirdy thirty
@@ -19815,7 +19822,7 @@ iab thirtyu thirty
 iab thisSS this
 iab thisa this
 iab thisd this
-iab thise these
+iab thise this
 iab thisk this
 iab thisl this
 iab thisng thing
@@ -19923,6 +19930,7 @@ iab thsi this
 iab thsia this
 iab thsis this
 iab thsise these
+iab thsit this
 iab thsoe those
 iab thsouand thousand
 iab thsuuuuaurs thesaurus
@@ -20349,6 +20357,8 @@ iab tsadoy today
 iab tsdaoy today
 iab tsdoya today
 iab tseting testing
+iab tshi this
+iab tshis this
 iab tsmoothly smoothly
 iab tsome some
 iab tst test
