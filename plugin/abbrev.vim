@@ -458,6 +458,7 @@ iab Forewward Foreword
 iab Fransiciso Fransisco
 iab Frequienetly Frequently
 iab Frozyen Frozen
+iab Fuction Function
 iab Functoins Functions
 iab GBut But
 iab GBy Gaby
@@ -1827,6 +1828,7 @@ iab Visisble Visible
 iab Visualzation Visualization
 iab Visusally Visually
 iab Vitims Victims
+iab Vlaue Value
 iab Voilenece Violence
 iab Vruce Bruce
 iab Vulnderable Vulnerable
@@ -4774,6 +4776,7 @@ iab chacatecter character
 iab chacne chance
 iab chaeply cheaply
 iab chagce chance
+iab chageset changeset
 iab chaghne change
 iab chagne change
 iab chagned changed
@@ -16984,6 +16987,7 @@ iab reterive retrieve
 iab reternn return
 iab retetion retention
 iab retiina retina
+iab retnr return
 iab retpye retype
 iab retpyed Retyped
 iab retractec retracted
@@ -19231,6 +19235,9 @@ iab tHuman human
 iab tThis this
 iab taaking taking
 iab taalk talk
+iab tabidex tabindex
+iab tabidnex tabindex
+iab tabinddx tabindex
 iab tachistoscopic tachistoscopic
 iab tackel tackle
 iab tackeled tackled
