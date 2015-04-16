@@ -171,6 +171,7 @@ iab DOt Dot
 iab DRive Drive
 iab DRiving Driving
 iab DRussell Russell
+iab DSead Dead
 iab DSuddenly Suddenly
 iab DUck Duck
 iab DVorak Dvorak
@@ -244,6 +245,7 @@ iab Dvelopment Development
 iab Dvorakv Dvorak
 iab Dvorask Dvorak
 iab EAch Each
+iab EAdch Each
 iab EArht Earth
 iab EArlier Earlier
 iab EArth Earth
@@ -1038,6 +1040,7 @@ iab OTDO TODO
 iab OTOD TODO
 iab OTher Other
 iab OTherwise Otherwise
+iab OTther Other
 iab OUr Our
 iab OUt Out
 iab OUtlook Outlook
@@ -1232,7 +1235,9 @@ iab QUality Quality
 iab QWe We
 iab Qhat What
 iab Qualty Quality
+iab Quanitty Quantity
 iab Quantm Quantum
+iab Quiantity Quantity
 iab Qyiut Quit
 iab RAnge Range
 iab RAspberry Raspberry
@@ -1842,6 +1847,7 @@ iab Uubntu Ubuntu
 iab Uusinh Using
 iab Uusually Usually
 iab VArying Varying
+iab VErsion Version
 iab VEry Very
 iab VIdoes Videos
 iab VIm Vim
@@ -3422,6 +3428,7 @@ iab argumenst arguments
 iab argumentive argumentative
 iab argumetn argument
 iab argumetns arguments
+iab argumetnts arguments
 iab arhc arch
 iab arhcive archive
 iab arious various
@@ -3865,6 +3872,7 @@ iab backawards backwards
 iab backened backend
 iab backewards backwards
 iab backfgroudn background
+iab backgorun background
 iab backgorund background
 iab backgorundc background
 iab backgoruned background
@@ -5192,6 +5200,7 @@ iab cncerrn concern
 iab cnenter center
 iab cnerter center
 iab cneter center
+iab cnetner center
 iab cnetral central
 iab cnewnter center
 iab cnewter center
@@ -5783,6 +5792,7 @@ iab conphehension comprehension
 iab conpleted completed
 iab conptyeur computer
 iab conptyuers computers
+iab conrfig config
 iab conrifguration configuration
 iab conrtinue continue
 iab consceptualize conceptualize
@@ -6315,8 +6325,10 @@ iab critera criteria
 iab critereria criteria
 iab criteriion criterion
 iab critifcisms criticisms
+iab crpyyut crypt
 iab crrections corrections
 iab crstyalline crystalline
+iab crtyot crypt
 iab crubmling crumbling
 iab crucibble crucible
 iab crudshed crushed
@@ -6325,9 +6337,14 @@ iab cruiase cruise
 iab cruicuial crucial
 iab cruize cruise
 iab crumpole crumple
+iab crupy crypt
 iab crusdhed crushed
 iab cruxdhed crushed
 iab cruxshed crushed
+iab cryptuy crypt
+iab crypty crypt
+iab crypytu crypt
+iab crytp crypt
 iab crzy crazy
 iab csalculated calculated
 iab csaptain captain
@@ -6407,6 +6424,7 @@ iab cvreen screen
 iab cwriting writing
 iab cyberspacde cyberspace
 iab cyou you
+iab cyrotp crypt
 iab cytccle cycle
 iab d3erived derived
 iab d3esirable desirable
@@ -8314,6 +8332,7 @@ iab enthusiaxstic enthusiastic
 iab enthusiiastic enthusiastic
 iab enthusoiaistic enthusiastic
 iab enthusuaxstic enthusiastic
+iab entires entries
 iab entiteies entities
 iab entitiy entity
 iab entitties entities
@@ -9709,6 +9728,7 @@ iab fucntion function
 iab fucntions functions
 iab fucntoin function
 iab fucosuisng focusing
+iab fuction function
 iab fuctiuonations fluctuations
 iab fucxkgin fucking
 iab fueatures features
@@ -9721,6 +9741,7 @@ iab fuile file
 iab fuilter filter
 iab fuinction function
 iab fuinds finds
+iab fuinisdhed finished
 iab fukcgin fucking
 iab fukcing fucking
 iab fuled fueled
@@ -9736,6 +9757,7 @@ iab funcdtional functional
 iab funcdtionality functionality
 iab funcdtionalytg functionality
 iab funcdtions functions
+iab funcdton function
 iab funciotn function
 iab funciotns functions
 iab funciton function
@@ -9780,6 +9802,7 @@ iab funxstions functions
 iab funxtdion function
 iab funxtion function
 iab funy funny
+iab fuonction function
 iab furethr further
 iab furhter further
 iab furiniture furniture
@@ -9818,6 +9841,7 @@ iab fuxckinug fucking
 iab fuxkfing fucking
 iab fuxkgin fucking
 iab fuxking fucking
+iab fuxntio function
 iab fuyn fun
 iab fuynction function
 iab fuyrther further
@@ -10312,6 +10336,7 @@ iab hhow how
 iab hiccupping hiccuping
 iab hiccuppnig hiccuping
 iab hich which
+iab hiddeb hidden
 iab hideuous hideous
 iab hiefght height
 iab hieght height
@@ -10562,6 +10587,7 @@ iab htisi this
 iab htisoe those
 iab htiss this
 iab htiws this
+iab htlm html
 iab htme them
 iab htmk html
 iab html5MOde html5Mode
@@ -11929,6 +11955,7 @@ iab jsuet just
 iab jsust just
 iab jsustify justify
 iab jsut just
+iab jsutiffgy justify
 iab jsutifhy justify
 iab jsutification justification
 iab jsutify justify
@@ -12439,6 +12466,7 @@ iab linxu linux
 iab liong long
 iab liquit liquid
 iab lisaten listen
+iab lisdt list
 iab liset list
 iab listeining listening
 iab listend listen
@@ -12457,6 +12485,7 @@ iab listneers listeners
 iab listneign listening
 iab listneing listening
 iab listnining listening
+iab lists lists
 iab litearlly literally
 iab literall literal
 iab litght light
@@ -12548,6 +12577,7 @@ iab loginc login
 iab logn long
 iab logner longer
 iab lognn long
+iab loguin login
 iab lohical logical
 iab loieks likes
 iab loistem listen
@@ -12589,6 +12619,7 @@ iab lquid liquid
 iab lready already
 iab lsbel label
 iab lseeping sleeping
+iab lsidtt list
 iab lsight slight
 iab lsit list
 iab lsited listed
@@ -12936,6 +12967,7 @@ iab mediyum medium
 iab medtaition meditation
 iab medtation meditation
 iab medtetyaiotn meditation
+iab medthod method
 iab medtitaiotn meditation
 iab meduium medium
 iab mee me
@@ -13201,6 +13233,7 @@ iab mispelling misspelling
 iab mispellings misspellings
 iab misperceiing misperceive
 iab mispercieved misperceived
+iab missign missing
 iab missin missing
 iab misslepplling misspelling
 iab misspeleled misspelled
@@ -15186,6 +15219,9 @@ iab plesase please
 iab pletny plenty
 iab plgague plague
 iab plguin plugin
+iab plguy plug
+iab plgy plug
+iab plgyh plug
 iab plhgin plugin
 iab plibraries libraries
 iab plkan plan
@@ -15194,6 +15230,7 @@ iab plolices polices
 iab plqaay player
 iab plroblem problem
 iab pluging plugging
+iab plugis plugins
 iab pluguins plugins
 iab plundge plunge
 iab pluplped pulped
@@ -15920,6 +15957,7 @@ iab prologoned prolonged
 iab prominemtly prominently
 iab prominnnetly prominently
 iab promisihng promising
+iab promiswes promises
 iab promiting promoting
 iab prommootion promotion
 iab promnises promises
@@ -16591,6 +16629,7 @@ iab refresdhed refreshed
 iab refridgerator refrigerator
 iab refrigrerator refrigerator
 iab refrring referring
+iab refrseh refresh
 iab refruns reruns
 iab refruse refuse
 iab refuilled refilled
@@ -16677,6 +16716,7 @@ iab releaase release
 iab releared relearned
 iab releasew release
 iab releasign releasing
+iab releat repeat
 iab releatdd related
 iab releated related
 iab releatesd released
@@ -17136,6 +17176,7 @@ iab returhn return
 iab returnign returning
 iab returnsed returned
 iab returnxs returns
+iab retutn return
 iab retuyrn return
 iab retyrb return
 iab reuest request
@@ -18012,15 +18053,18 @@ iab shhall shall
 iab shie she
 iab shiftwed shifted
 iab shiop ship
+iab shiopnemtn shipment
 iab shioudl should
 iab shiow show
 iab shioyuld should
 iab shipes ships
+iab shipmewnt shipment
 iab shipwors shipworms
 iab shirink shrink
 iab shirnk shrink
 iab shithis this
 iab shiup ship
+iab shiupment shipment
 iab shlec shelf
 iab shlef shelf
 iab shlev shelf
@@ -19137,6 +19181,7 @@ iab suppor supper
 iab supporitng supporting
 iab supporsed supposed
 iab supporsessed suppressed
+iab supporst supports
 iab supportign supporting
 iab supposewd supposed
 iab suppply supply
@@ -19668,6 +19713,7 @@ iab terriblie terrible
 iab terrigble terrible
 iab tersters testers
 iab teryign trying
+iab tese these
 iab tesging testing
 iab tesginn testing
 iab tesginng testing
@@ -19965,6 +20011,7 @@ iab thisSS this
 iab thisa this
 iab thisd this
 iab thise this
+iab thises these
 iab thisk this
 iab thisl this
 iab thisng thing
@@ -21206,6 +21253,7 @@ iab viewqs views
 iab vieww view
 iab viewwd viewed
 iab vifew view
+iab viim vim
 iab viisble visible
 iab vill will
 iab vilume volume
@@ -21235,6 +21283,7 @@ iab viusal visual
 iab viwwer viewer
 iab vlaleu value
 iab vlaue value
+iab vlaues values
 iab vlauye value
 iab vlaye value
 iab vlayue value
@@ -21601,6 +21650,7 @@ iab whidhch which
 iab whieght weight
 iab whiel while
 iab whien when
+iab whiet white
 iab whif whiff
 iab whih which
 iab whihc which
@@ -22277,21 +22327,4 @@ iab zomibnes zombies
 iab zooom zoom
 iab ztart start
 iab ztaships starships
-iab viim vim
 
-iab lists lists
-iab crupy crypt
-iab crypytu crypt
-iab crpyyut crypt
-iab cryptuy crypt
-iab crypty crypt
-iab crytp crypt
-iab crtyot crypt
-iab cyrotp crypt
-iab plugis plugins
-iab plgy plug
-iab plgyh plug
-iab plguy plug
-iab supporst supports
-iab DSead Dead
-iab OTther Other
