@@ -1,16 +1,20 @@
 
-" {{{1
+" Web Development {{{1
+
 autocmd! BufReadPost *.jshintrc setf json
 autocmd! BufWritePre *.js :%s/\s\+$//e
 
 " {{{2
+"
 autocmd! FileType html,markdown setlocal omnifunc=htmlcomplete#CompleteTags
 autocmd! FileType javascript setlocal foldmethod=syntax
 autocmd! FileType xml setlocal foldmethod=syntax
+
 " }}}2
 " }}}1
 
 " {{{1
+
 augroup Binary           
   " TODO: - Make this also work without matching filenames
   autocmd!
@@ -26,9 +30,33 @@ augroup Binary
   autocmd! BufWritePost *.exe if &bin | silent %!xxd -c 16
   autocmd! BufWritePost *.exe set nomod | endif
 augroup END
+
+" }}}1
+
+" Work {{{1
+
+augroup Work           
+
+  " Use four spaces, conceal as two {{{2
+
+  autocmd! BufRead,BufNewFile *.js setlocal softtabstop=4 tabstop=4 shiftwidth=4 concealcursor=nvi conceallevel=1
+
+  " }}}2
+
+  " Syntax to conceal spaces{{{2
+
+  autocmd! BufRead,BufNewFile *.js syntax clear Spaces
+  autocmd! BufRead,BufNewFile *.js hi clear Conceal
+  autocmd! BufRead,BufNewFile *.js syntax match Spaces "  " conceal cchar= " trailing space
+
+  " }}}2
+
+augroup END
+
 " }}}1
 
 " {{{1
+
 augroup filetypes 
 
   " {{{2
@@ -69,6 +97,7 @@ augroup filetypes
   autocmd! BufReadPost *.css,*scss silent! g/base64.\+/normal zc " close base64 images
   autocmd! BufReadPre,FileReadPre *.gpg,*.asc set noswapfile
 
+  autocmd! FileType vim setlocal commentstring=#\ %s
   autocmd! FileType apache setlocal commentstring=#\ %s
   autocmd! FileType css setlocal nowrap
   autocmd! FileType fstab setlocal commentstring=#\ %s
@@ -87,26 +116,36 @@ augroup filetypes
   autocmd! FileType xml setlocal equalprg=xmllint\ --format\ --recover\ -\ 2>/dev/null
   autocmd! FileType xpm set nowrap
 
-  autocmd! Syntax c,cpp,javascript,php,vim,java,xml,html,xhtml setlocal foldmethod=syntax
-  autocmd! Syntax c,cpp,javascript,php,vim,xml,html,xhtml,perl normal zR
+  autocmd! Syntax vim setlocal foldmethod=marker
+  autocmd! Syntax c,cpp,javascript,php,xml,html,xhtml,perl normal zC
+
+  " TODO: Not happy with this
+  autocmd! Syntax c,cpp,javascript,php,java,xml,html,xhtml setlocal foldmethod=syntax
+  autocmd! Syntax c,cpp,javascript,php,xml,html,xhtml,perl normal zR
+
   autocmd! Syntax javascript setlocal makeprg=yeoman\ build
 
   "}}}2
 
   " {{{2
+
   " This doesn't work all that well
   autocmd! BufRead,BufNewFile *.js setlocal makeprg=yeoman\ build
   autocmd! BufRead,BufNewFile *.json setlocal equalprg=python\ -mjson.tool\ 2>/dev/null 
   autocmd! FileType json setlocal equalprg=python\ -mjson.tool\ 2>/dev/null 
+
   " }}}2
 
 augroup END 
+
 " }}}1
 
 " {{{1
+
 augroup misc 
 
   " {{{2
+
   autocmd! BufEnter * if exists('b:winview') | call winrestview(b:winview) | endif
   autocmd! BufLeave * let b:winview = winsaveview()
   autocmd! BufReadPost *.doc %!antiword "%"
@@ -118,9 +157,11 @@ augroup misc
   autocmd! FocusLost * :
   autocmd! FocusLost * silent! wa
   autocmd! bufenter * if (winnr("$") == 1 && exists("b:NERDTreeType") && b:NERDTreeType == "primary") | q | endif
+
   " }}}2
 
 augroup END
+
 " }}}1
 
 " {{{1
