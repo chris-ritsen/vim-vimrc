@@ -1,5 +1,4 @@
 
-<<<<<<< HEAD
 cab GIt Git
 iab ABout About
 iab BUt But
