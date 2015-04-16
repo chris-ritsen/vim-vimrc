@@ -1,5 +1,5 @@
 
-function! AddAbbrev()
+function! AddAbbrev() " {{{1 
   call inputsave()
   let incorrect_word = expand('<cword>')
 
@@ -63,18 +63,18 @@ function! AddAbbrev()
   if has_spell == 'false'
     set nospell
   endif
-endfunction
+endfunction " }}}1 
 
-function! s:unite_settings()
+function! s:unite_settings() " {{{1  
   let b:SuperTabDisabled = 1
   " Enable navigation with control-j and control-k in insert mode
   " imap <buffer> <C-j>   <Plug>(unite_select_next_line)
   " imap <buffer> <C-j>   <Plug>(unite_do_default_action)
   " imap <buffer> <C-k>   <Plug>(unite_select_previous_line)
   " nnoremap <silent><buffer> <C-j> <Plug>(unite_do_default_action) 
-endfunction
+endfunction " }}}1 
 
-function! s:TempSetBinaryForNoeol()
+function! s:TempSetBinaryForNoeol() " {{{1  
 
   let s:save_binary = &binary
 
@@ -93,9 +93,9 @@ function! s:TempSetBinaryForNoeol()
     endif
   endif
 
-endfunction
+endfunction " }}}1 
  
-function! s:TempRestoreBinaryForNoeol()
+function! s:TempRestoreBinaryForNoeol() " {{{1  
 
   if ! &eol && ! s:save_binary
     if &ff == "dos"
@@ -111,24 +111,17 @@ function! s:TempRestoreBinaryForNoeol()
 
   endif
 
-endfunction
+endfunction " }}}1 
 
-"    File: $HOME/etc/functions.vim
-"  Author: Magnus Woldrich <m@japh.se>
-" Updated: 2012-01-23 09:11:36
-
-". do stuff with lines matching pattern
-" :g/\v^#\w+/let @" .= getline('.')."\n"|d _
-
-fu! Set(what)
+function! Set(what) " {{{1 
   exe 'set ' . substitute(a:what, '\v.+', '\L&', 'g')
-endfu
+endfunction " }}}1 
 
-fu! Sort_By_Number()
+function! Sort_By_Number() " {{{1 
   :sort n /\%V[.]r/
-endfu
-" Vidir - sanitize filenames                                                 {{{
-fu! Vidir_Sanitize(content)
+endfunction " }}}1 
+
+function! Vidir_Sanitize(content) " {{{1  
   mark z
 
   "silent! %s/\(\_^[ ]*\)\@<![ ]\+/_/g
@@ -166,59 +159,14 @@ fu! Vidir_Sanitize(content)
 
   'z
   delmark z
-endfu
-"}}}
+endfunction " }}}1 
 
-" Vidir - sort-of-TitleCase helper                                           {{{
-fu! Vidir_SmartUC()
+" Vidir - sort-of-TitleCase helper                                           {{{1
+function! Vidir_SmartUC()
   :s/\w\@<=\ze\u/_/g
   :s/\v_+/_/g
   ":s/\<\@<![A-Z]/_&/g
-endfu
-"}}}
-
-"" highlights - hl match under cursor differently from Search                 {{{
-"fu! HL_Search_Cword()
-"  let s:old_cpo = &cpo
-"  set cpo&vim
-"
-"'
-"    let s:search_cword_cursor_modified='red'
-"  endif
-"
-"  if exists('b:search_cword_item')
-"    try
-"      call matchdelete(b:search_cword_item)
-"    catch /^Vim\%((\a\+\)\=:E/ " ignore E802,E803
-"    endtry
-"  endif
-"
-"  " :silent !printf '\e]12;\#242424\a'
-"  hi Search       ctermfg=196 cterm=bold  ctermbg=232
-"  hi search_cword ctermfg=232 ctermbg=196 cterm=underline
-"
-"  let b:search_cword_item = matchadd('search_cword', (&ic ? '\c' : '') . '\%#' . @/, 1)
-"
-"  let &cpo = s:old_cpo
-"  "let &t_EI = '\  if ! exists('s:search_cword_cursor_modified')
-"    silent !printf ghlights - hl every even/odd line                                        {{{
-"fu! OddEvenHL()
-"  syn match oddEven /^.*$\n/ nextgroup=oddOdd
-"  syn match oddOdd  /^.*$\n/ nextgroup=oddEven
-"
-"  hi oddEven ctermbg=233
-"  hi oddOdd  ctermbg=234
-"endfu
-""}}}
-"" cabs - less stupidity                                                      {{{
-"fu! Single_quote(str)
-"  return "'" . substitute(copy(a:str), "'", "''", 'g') . "'"
-"endfu
-""fu! Cabbrev(key, value)
-""  exe printf('cabbrev <expr> %s (getcmdtype() == ":" && getcmdpos() <= %d) ? %s : %s',
-""    \ a:key, 1+len(a:key), Single_quote(a:value), Single_quote(a:key))
-""endfu
-""}}}
+endfunction " }}}1 
 
 " sub - TitleCase word                                                       {{{
 fu! TitleCaseCenter()
@@ -228,6 +176,7 @@ fu! TitleCaseCenter()
   echo "Word under cursor was " . word
 endfu
 "}}}
+
 " sub - trailing trash                                                       {{{
 fu! RemoveTrailingCrap()
   if search('\s\+$', 'n')
@@ -238,11 +187,13 @@ fu! RemoveTrailingCrap()
   endif
 endfu
 "}}}
+
 " toggle number/relativenumber                                               {{{
 fu! ToggleRelativeAbsoluteNumber()
   exe 'set ' . (&number ? 'relativenumber' : 'number')
 endfu
 "}}}
+
 " toggle spell                                                               {{{
 fu! ToggleSpell()
   exe 'set ' . (&spell ? 'nospell' : 'spell')
@@ -352,6 +303,7 @@ fu! FileSize()
 endfu
 "}}}
 
+" Dead {{{1
 
 " augroup automatic_noeol
 "   autocmd!
@@ -359,5 +311,50 @@ endfu
 "   autocmd BufWritePost * call <SID>TempRestoreBinaryForNoeol()
 " augroup END
 
-autocmd FileType unite call s:unite_settings()
+
+"" highlights - hl match under cursor differently from Search                 {{{
+"fu! HL_Search_Cword()
+"  let s:old_cpo = &cpo
+"  set cpo&vim
+"
+"'
+"    let s:search_cword_cursor_modified='red'
+"  endif
+"
+"  if exists('b:search_cword_item')
+"    try
+"      call matchdelete(b:search_cword_item)
+"    catch /^Vim\%((\a\+\)\=:E/ " ignore E802,E803
+"    endtry
+"  endif
+"
+"  " :silent !printf '\e]12;\#242424\a'
+"  hi Search       ctermfg=196 cterm=bold  ctermbg=232
+"  hi search_cword ctermfg=232 ctermbg=196 cterm=underline
+"
+"  let b:search_cword_item = matchadd('search_cword', (&ic ? '\c' : '') . '\%#' . @/, 1)
+"
+"  let &cpo = s:old_cpo
+"  "let &t_EI = '\  if ! exists('s:search_cword_cursor_modified')
+"    silent !printf ghlights - hl every even/odd line                                        {{{
+"fu! OddEvenHL()
+"  syn match oddEven /^.*$\n/ nextgroup=oddOdd
+"  syn match oddOdd  /^.*$\n/ nextgroup=oddEven
+"
+"  hi oddEven ctermbg=233
+"  hi oddOdd  ctermbg=234
+"endfu
+""}}}
+"" cabs - less stupidity                                                      {{{
+"fu! Single_quote(str)
+"  return "'" . substitute(copy(a:str), "'", "''", 'g') . "'"
+"endfu
+""fu! Cabbrev(key, value)
+""  exe printf('cabbrev <expr> %s (getcmdtype() == ":" && getcmdpos() <= %d) ? %s : %s',
+""    \ a:key, 1+len(a:key), Single_quote(a:value), Single_quote(a:key))
+""endfu
+""}}}
+""}}}
+
+" }}}1
 

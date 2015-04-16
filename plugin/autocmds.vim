@@ -1,18 +1,20 @@
 
-" if v:version >= 700
-" endif
-
+" {{{1
 autocmd! BufReadPost *.jshintrc setf json
 autocmd! BufWritePre *.js :%s/\s\+$//e
-"autocmd! CursorHold * silent checktime
+
+" {{{2
 autocmd! FileType html,markdown setlocal omnifunc=htmlcomplete#CompleteTags
 autocmd! FileType javascript setlocal foldmethod=syntax
 autocmd! FileType xml setlocal foldmethod=syntax
+" }}}2
+" }}}1
 
+" {{{1
 augroup Binary           
-  " TODO - Make this also work without matching filenames
+  " TODO: - Make this also work without matching filenames
   autocmd!
-  " TODO - Check return value of xdd for errors
+  " TODO: - Check return value of xdd for errors
   autocmd! BufReadPre *.exe let &bin=1
 
   autocmd! BufReadPost *.exe if &bin | silent %!xxd -c 16
@@ -24,14 +26,15 @@ augroup Binary
   autocmd! BufWritePost *.exe if &bin | silent %!xxd -c 16
   autocmd! BufWritePost *.exe set nomod | endif
 augroup END
+" }}}1
 
+" {{{1
 augroup filetypes 
 
-  " autocmd! BufEnter *.org call org#SetOrgFileType()
-  " autocmd! BufRead,BufNewFile ~/.gnupg/* if &filetype == 'conf' | setfiletype gpg | endif 
-  " autocmd! BufRead,BufWrite,BufWritePost,BufNewFile *.org 
-
+  " {{{2
   autocmd! BufEnter * if &filetype == "" | setlocal filetype=text | endif
+  autocmd! BufNewFile,BufRead *.zsh set foldmethod=marker
+
   autocmd! BufNewFile,BufRead *.c,*.cpp set foldmethod=syntax
   autocmd! BufNewFile,BufRead *.css,*.scss set foldmethod=marker fmr={,}
   autocmd! BufNewFile,BufRead *.ldg,*.ledger setf ledger
@@ -50,13 +53,22 @@ augroup filetypes
   autocmd! BufRead,BufNewFile /tmp/mutt* if &filetype == '' | setfiletype mail | endif 
   autocmd! BufRead,BufNewFile ~/.config/mailcap setlocal nowrap
   autocmd! BufRead,BufNewFile ~/.config/mutt/* if &filetype == '' | setfiletype muttrc | endif " would also like nowrap
+
+  autocmd! BufRead,BufNewFile ~/.config/mpd/mpd.conf setfiletype conf
+  autocmd! BufRead,BufNewFile ~/.config/mpd/mpd.conf set foldmethod=marker foldmarker={,}
+
   autocmd! BufRead,BufNewFile ~/.irssi/config setfiletype conf
+  autocmd! BufRead,BufNewFile ~/.irssi/config set foldmethod=marker fmr={,} 
+
+  autocmd! BufRead,BufNewFile ~/.config/vim/plugins/pathogen/autoload/pathogen.vim set foldmethod=marker
+  autocmd! BufRead,BufNewFile ~/.offlineimaprc setfiletype conf
   autocmd! BufRead,BufNewFile ~/.mail/* if &filetype == '' | setfiletype mail | endif 
   autocmd! BufRead,BufNewFile ~/mail/* if &filetype == '' | setfiletype mail | endif 
   autocmd! BufRead,BufWrite *.inc,*.php,*.hs if ! &bin | silent! %s/\s\+$//ge | endif
   autocmd! BufRead,BufWrite *.inc,*.php,*.hs if ! &bin | silent! :%s/ \+\ze\t//ge | endif
   autocmd! BufReadPost *.css,*scss silent! g/base64.\+/normal zc " close base64 images
   autocmd! BufReadPre,FileReadPre *.gpg,*.asc set noswapfile
+
   autocmd! FileType apache setlocal commentstring=#\ %s
   autocmd! FileType css setlocal nowrap
   autocmd! FileType fstab setlocal commentstring=#\ %s
@@ -68,24 +80,33 @@ augroup filetypes
   autocmd! FileType slrnrc setlocal commentstring=%\ %s
   autocmd! FileType svnannotate cmap <buffer> q bwipeout
   autocmd! FileType text setlocal commentstring=%s 
+  autocmd! FileType unite call s:unite_settings()
   autocmd! FileType text setlocal textwidth=78
   autocmd! FileType tmux setlocal commentstring=#\ %s
   autocmd! FileType vb setlocal commentstring='\ %s
   autocmd! FileType xml setlocal equalprg=xmllint\ --format\ --recover\ -\ 2>/dev/null
   autocmd! FileType xpm set nowrap
+
   autocmd! Syntax c,cpp,javascript,php,vim,java,xml,html,xhtml setlocal foldmethod=syntax
   autocmd! Syntax c,cpp,javascript,php,vim,xml,html,xhtml,perl normal zR
   autocmd! Syntax javascript setlocal makeprg=yeoman\ build
 
+  "}}}2
+
+  " {{{2
   " This doesn't work all that well
   autocmd! BufRead,BufNewFile *.js setlocal makeprg=yeoman\ build
   autocmd! BufRead,BufNewFile *.json setlocal equalprg=python\ -mjson.tool\ 2>/dev/null 
   autocmd! FileType json setlocal equalprg=python\ -mjson.tool\ 2>/dev/null 
+  " }}}2
 
 augroup END 
+" }}}1
 
+" {{{1
 augroup misc 
 
+  " {{{2
   autocmd! BufEnter * if exists('b:winview') | call winrestview(b:winview) | endif
   autocmd! BufLeave * let b:winview = winsaveview()
   autocmd! BufReadPost *.doc %!antiword "%"
@@ -97,19 +118,27 @@ augroup misc
   autocmd! FocusLost * :
   autocmd! FocusLost * silent! wa
   autocmd! bufenter * if (winnr("$") == 1 && exists("b:NERDTreeType") && b:NERDTreeType == "primary") | q | endif
+  " }}}2
 
 augroup END
+" }}}1
 
+" {{{1
 augroup json_autocmd 
 
+  " {{{2
   autocmd! FileType json set autoindent 
   autocmd! FileType json set expandtab 
   autocmd! FileType json set foldmethod=syntax 
   autocmd! FileType json set formatoptions=tcq2l 
   autocmd! FileType json set softtabstop=2 tabstop=2 
   autocmd! FileType json set textwidth=78 shiftwidth=2 
+  " }}}2
 
 augroup END 
+" }}}1
+
+" Dead {{{1
 
 " augroup vimrc_autocmds
 "   autocmd BufEnter * highlight OverLength ctermbg=darkgrey guibg=#592929
@@ -127,4 +156,19 @@ augroup END
 "autocmd FileType php set omnifunc=phpcomplete#CompletePHP
 "autocmd WinEnter * setlocal cursorline
 "autocmd WinLeave * setlocal nocursorline
+
+" if v:version >= 700
+" endif
+
+" autocmd! BufEnter *.org call org#SetOrgFileType()
+" autocmd! BufRead,BufNewFile ~/.gnupg/* if &filetype == 'conf' | setfiletype gpg | endif 
+" autocmd! BufRead,BufWrite,BufWritePost,BufNewFile *.org 
+
+" autocmd! BufEnter *.org call org#SetOrgFileType()
+" autocmd! BufRead,BufNewFile ~/.gnupg/* if &filetype == 'conf' | setfiletype gpg | endif 
+" autocmd! BufRead,BufWrite,BufWritePost,BufNewFile *.org 
+
+"autocmd! CursorHold * silent checktime
+
+" }}}1
 

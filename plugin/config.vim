@@ -1,4 +1,5 @@
 
+" let{{{1
 let $GROFF_NO_SGR = 1
 let @/ = ""
 let MRU_Max_Entries = 400
@@ -91,9 +92,11 @@ let g:tagbar_compact = 1
 let g:tagbar_width = 30
 let g:tex_flavor='latex'
 let g:unite_source_history_yank_enable = 1
+let g:unite_source_rec_max_cache_files = 0
 let g:unite_source_rec_max_cache_files = 20000
 let g:unite_source_rec_min_cache_files = 100
 let g:unite_source_rec_unit = 2000
+let g:vcm_default_maps = 0
 let g:vitality_always_assume_iterm = 0
 let g:vitality_fix_cursor = 1
 let g:vitality_fix_focus = 1
@@ -109,9 +112,9 @@ let ruby_fold = 1
 let sh_fold_enabled = 1
 let vimsyn_folding = 'af'
 let xml_syntax_folding = 1
+" }}}1
 
-let g:vcm_default_maps = 0
-
+" Dead code {{{1
 " let g:Powerline_loaded = 1
 " let g:airline#extensions#csv#column_display = 'Name'
 " let g:airline_detect_whitespace=0 "disabled
@@ -155,4 +158,5 @@ let g:vcm_default_maps = 0
 " let w:airline_section_a = 'MyPlugin'
 " let w:airline_section_b = '%f'
 " let w:airline_section_c = '%{MyPlugin#function()}'
+" " }}}1
 

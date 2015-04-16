@@ -1,4 +1,16 @@
 
+" Settings {{{1
+
+" Guard {{{2
+
+if &tabpagemax < 50
+  set tabpagemax=50
+endif
+
+"}}}2
+
+" General Settings {{{2
+
 set autoindent
 set autoread
 set backspace=eol,start,indent
@@ -15,6 +27,7 @@ set fileformats+=mac
 set fillchars=
 set foldlevel=20
 set foldlevelstart=20
+set foldmethod=marker
 set foldminlines=1
 set formatoptions+=nj
 set guiheadroom=0
@@ -80,10 +93,14 @@ set wildmenu
 set wildmode=list:longest,full
 set wmh=0
 
-if &tabpagemax < 50
-  set tabpagemax=50
-endif
+" }}}2
+
+"}}}1
+
+" Dead {{{1
 
 " set t_Co=256
 " set ttimeoutlen=50
+
+"}}}1
 
