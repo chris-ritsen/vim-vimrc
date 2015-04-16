@@ -119,8 +119,10 @@ augroup filetypes
   autocmd! FileType xml setlocal equalprg=xmllint\ --format\ --recover\ -\ 2>/dev/null
   autocmd! FileType xpm set nowrap
 
-  autocmd! Syntax vim setlocal foldmethod=marker
-  " autocmd! Syntax c,cpp,javascript,php,xml,html,xhtml,perl normal zC
+  autocmd! Syntax vim setlocal foldmethod=marker | normal zM
+  " autocmd! BufEnter vim setlocal foldmethod=marker | normal zM 
+
+  autocmd! Syntax c,cpp,javascript,php,xml,html,xhtml,perl normal zC
 
   " TODO: Not happy with this
   " autocmd! Syntax c,cpp,javascript,php,java,xml,html,xhtml setlocal foldmethod=syntax
