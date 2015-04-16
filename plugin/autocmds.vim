@@ -5,9 +5,9 @@ autocmd! BufReadPost *.jshintrc setf json
 autocmd! BufWritePre *.js :%s/\s\+$//e
 
 " {{{2
-"
-autocmd! FileType html,markdown setlocal omnifunc=htmlcomplete#CompleteTags
-autocmd! FileType javascript setlocal foldmethod=syntax
+
+autocmd! FileType html,markdown setlocal omnifunc=htmlcomplete#CompleteTags foldmethod=indent
+autocmd! FileType javascript setlocal foldmethod=marker foldmarker={,}
 autocmd! FileType xml setlocal foldmethod=syntax
 
 " }}}2
@@ -16,6 +16,7 @@ autocmd! FileType xml setlocal foldmethod=syntax
 " {{{1
 
 augroup Binary           
+
   " TODO: - Make this also work without matching filenames
   autocmd!
   " TODO: - Check return value of xdd for errors
@@ -29,6 +30,7 @@ augroup Binary
 
   autocmd! BufWritePost *.exe if &bin | silent %!xxd -c 16
   autocmd! BufWritePost *.exe set nomod | endif
+
 augroup END
 
 " }}}1
@@ -39,15 +41,13 @@ augroup Work
 
   " Use four spaces, conceal as two {{{2
 
-  autocmd! BufRead,BufNewFile *.js setlocal softtabstop=4 tabstop=4 shiftwidth=4 concealcursor=nvi conceallevel=1
+  let g:hostname = substitute(system('hostname'), "\n", "", "")
+  let g:hostname_work = 'work_vm'
 
-  " }}}2
+  autocmd! BufRead,BufNewFile *.cshtml if g:hostname == g:hostname_work | setlocal filetype=html commentstring=@*%s*@ | source $VIMRC_PLUGIN_DIR/conceal.vim | endif
+  autocmd! BufRead,BufNewFile *.js,*cs if g:hostname == g:hostname_work | source $VIMRC_PLUGIN_DIR/conceal.vim | endif
 
-  " Syntax to conceal spaces{{{2
-
-  autocmd! BufRead,BufNewFile *.js syntax clear Spaces
-  autocmd! BufRead,BufNewFile *.js hi clear Conceal
-  autocmd! BufRead,BufNewFile *.js syntax match Spaces "  " conceal cchar= " trailing space
+  autocmd! Syntax html source $VIMRC_PLUGIN_DIR/conceal.vim
 
   " }}}2
 
@@ -120,11 +120,11 @@ augroup filetypes
   autocmd! FileType xpm set nowrap
 
   autocmd! Syntax vim setlocal foldmethod=marker
-  autocmd! Syntax c,cpp,javascript,php,xml,html,xhtml,perl normal zC
+  " autocmd! Syntax c,cpp,javascript,php,xml,html,xhtml,perl normal zC
 
   " TODO: Not happy with this
-  autocmd! Syntax c,cpp,javascript,php,java,xml,html,xhtml setlocal foldmethod=syntax
-  autocmd! Syntax c,cpp,javascript,php,xml,html,xhtml,perl normal zR
+  " autocmd! Syntax c,cpp,javascript,php,java,xml,html,xhtml setlocal foldmethod=syntax
+  " autocmd! Syntax c,cpp,javascript,php,xml,html,xhtml,perl normal zR
 
   autocmd! Syntax javascript setlocal makeprg=yeoman\ build
 
@@ -133,7 +133,7 @@ augroup filetypes
   " {{{2
 
   " This doesn't work all that well
-  autocmd! BufRead,BufNewFile *.js setlocal makeprg=yeoman\ build
+  " autocmd! BufRead,BufNewFile *.js setlocal makeprg=yeoman\ build
   autocmd! BufRead,BufNewFile *.json setlocal equalprg=python\ -mjson.tool\ 2>/dev/null 
   autocmd! FileType json setlocal equalprg=python\ -mjson.tool\ 2>/dev/null 
 
@@ -186,7 +186,7 @@ augroup END
 
 " augroup vimrc_autocmds
 "   autocmd BufEnter * highlight OverLength ctermbg=darkgrey guibg=#592929
-"   autocmd BufEnter * match OverLength /\%82v.*/
+"   autocmd BufEnter * match OverLength /\%82v/
 " augroup END
 
 "autocmd BufReadPre * setlocal foldmethod=indent
