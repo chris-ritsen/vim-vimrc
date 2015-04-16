@@ -82,6 +82,9 @@ augroup filetypes
   autocmd! BufRead,BufNewFile ~/.config/mailcap setlocal nowrap
   autocmd! BufRead,BufNewFile ~/.config/mutt/* if &filetype == '' | setfiletype muttrc | endif " would also like nowrap
 
+  autocmd! BufRead,BufNewFile ~/.ssh/config setfiletype conf
+  autocmd! BufRead,BufNewFile ~/.ssh/config set foldmethod=indent
+
   autocmd! BufRead,BufNewFile ~/.config/mpd/mpd.conf setfiletype conf
   autocmd! BufRead,BufNewFile ~/.config/mpd/mpd.conf set foldmethod=marker foldmarker={,}
 
