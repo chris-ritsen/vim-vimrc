@@ -1,5 +1,5 @@
 
-execute pathogen#infect('bundle/{}', "~/.config/vim/bundle/{}")
+execute pathogen#infect('bundle/{}', "$HOME/.config/vim/bundle/{}")
 execute pathogen#helptags()
 
 syntax on

@@ -22329,3 +22329,7 @@ iab ztart start
 iab ztaships starships
 
 iab souyrce source
+iab exiot exit
+iab ubstitute substitute
+iab endfunctino endfunction
+iab exosts exists
