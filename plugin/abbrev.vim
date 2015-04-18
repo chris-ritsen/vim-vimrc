@@ -8234,6 +8234,7 @@ iab encrpyted encrypted
 iab encrytped encrypted
 iab encticing enticing
 iab endevaor endeavor
+iab endfunctino endfunction
 iab endleslly endlessly
 iab endo end
 iab endpoit endpoint
@@ -8947,6 +8948,7 @@ iab exhivits exhibits
 iab exiccted exacted
 iab exiccted excited
 iab exicting existing
+iab exiot exit
 iab exisitign existing
 iab exisiting existing
 iab exisitnace existence
@@ -8981,6 +8983,7 @@ iab exmpale example
 iab exmplain explain
 iab exmple example
 iab exmsaple example
+iab exosts exists
 iab expaceted expected
 iab expadning expanding
 iab expain explain
@@ -12455,6 +12458,7 @@ iab limittations limitations
 iab limosie limosine
 iab line0height line-height
 iab linesa lines
+iab linesd lines
 iab lingerong lingering
 iab linik link
 iab linjk link
@@ -12710,6 +12714,7 @@ iab magenets magnets
 iab magents magnets
 iab maghic magic
 iab magicla magical
+iab maginification magnification
 iab magjority majority
 iab magneetic magnetic
 iab magnitize magnetize
@@ -17333,6 +17338,7 @@ iab rmouse mouse
 iab rnadom random
 iab rnadomly randomly
 iab rnaking ranking
+iab rnaodm random
 iab rneed need
 iab rnning running
 iab roadmpa roadmap
@@ -17575,6 +17581,7 @@ iab scensees scenes
 iab scentece sentence
 iab scentral central
 iab sceren screen
+iab scerens screens
 iab scertain certain
 iab scetch sketch
 iab scetion section
@@ -18603,6 +18610,7 @@ iab sourde soure
 iab sourece source
 iab sourround surround
 iab sousrce source
+iab souyrce source
 iab sovel solve
 iab sovle solve
 iab sovled solved
@@ -20676,6 +20684,7 @@ iab uailityh quality
 iab uanble unable
 iab uasers users
 iab ubnix unix
+iab ubstitute substitute
 iab ucklyngs ducklings
 iab ucrrent current
 iab uderstand understand
@@ -21374,6 +21383,7 @@ iab wasehr washer
 iab wasetdw wasted
 iab wasiting waiting
 iab waske wake
+iab wass was
 iab wastedw wasted
 iab wastedwd wasted
 iab wasteing wasting
@@ -22328,8 +22338,3 @@ iab zooom zoom
 iab ztart start
 iab ztaships starships
 
-iab souyrce source
-iab exiot exit
-iab ubstitute substitute
-iab endfunctino endfunction
-iab exosts exists
