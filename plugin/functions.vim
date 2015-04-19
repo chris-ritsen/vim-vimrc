@@ -54,7 +54,7 @@ function! AddAbbrev()
   " {{{2
 
   if empty(correct_word)
-    jilent! exec 'u'
+    silent! exec 'u'
 
     if has_spell == 'false'
       set nospell
