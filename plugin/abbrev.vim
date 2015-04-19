@@ -2385,7 +2385,6 @@ iab acoutn account
 iab acpcpetlable acceptable
 iab acqauinted acquainted
 iab acquiare acquire
-iab acquiare acquire 
 iab acreate create
 iab acreoss across
 iab acrhicve archive
@@ -2719,6 +2718,7 @@ iab aliaes alias
 iab aliaesd aliased
 iab aliaese aliases
 iab aliaesses aliases
+iab aliasesw aliases
 iab alibe alive
 iab alient alien
 iab alients aliens
@@ -2911,7 +2911,7 @@ iab ancientn ancient
 iab anda and
 iab andd and
 iab andedotaly anecdotally
-iab andfter after 
+iab andfter after
 iab andh and
 iab andr and
 iab andswer answer
@@ -3370,7 +3370,7 @@ iab approvla approval
 iab approxiation approximation
 iab approximage approximate
 iab approximatley approximately
-iab approximatly  approximately
+iab approximatly approximately
 iab approxipmately approximately
 iab approxmiate approximate
 iab aprarntbet apartment
@@ -3388,7 +3388,7 @@ iab aqll all
 iab aqn an
 iab aquianted acquainted
 iab aquicre acquire
-iab aquire acquire 
+iab aquire acquire
 iab aquired acquired
 iab aquisition acquisition
 iab arabicv arabic
@@ -4773,7 +4773,7 @@ iab cealry clearly
 iab ceepeneidng depending
 iab ceffeine caffeine
 iab cehck check
-iab cehcked  checked
+iab cehcked checked
 iab cehckign checking
 iab cehkcing checking
 iab celbratiging celebrating
@@ -5930,7 +5930,7 @@ iab containersa containers
 iab containingers containers
 iab containis contains
 iab containmenet containment
-iab containsers containers 
+iab containsers containers
 iab containzers containers
 iab contaion contain
 iab contaionment containment
@@ -5962,8 +5962,8 @@ iab contianers containers
 iab contianing containing
 iab contians contains
 iab contibnue continue
-iab contidiotns conditions 
-iab contiditonsa conditions 
+iab contidiotns conditions
+iab contiditonsa conditions
 iab contidtion condition
 iab contifurign configuring
 iab contignet contingent
@@ -5987,7 +5987,7 @@ iab contirbuting contributing
 iab contirbuturer contributer
 iab contiributing contributing
 iab contitiion condition
-iab contitional conditional 
+iab contitional conditional
 iab contitions conditions
 iab contiue continue
 iab contiuinuing continuing
@@ -6122,7 +6122,7 @@ iab copmltetd completed
 iab copmmand command
 iab copmound compound
 iab copmpleeintg completing
-iab copmptouer computer 
+iab copmptouer computer
 iab copmputers computers
 iab copmroomonsed compromised
 iab copmterur computer
@@ -6501,8 +6501,8 @@ iab dcompare compare
 iab dcomputers computers
 iab dcompuyter computer
 iab dconfifuation configuration
-iab dcontorl control 
-iab dcontroller controller 
+iab dcontorl control
+iab dcontroller controller
 iab dcordations decorations
 iab dcrive drive
 iab dcurrently currently
@@ -7513,7 +7513,7 @@ iab doucment document
 iab doucmentaiton documentation
 iab doucmentation documentation
 iab doucmenting documenting
-iab doucmntiaontn documentation 
+iab doucmntiaontn documentation
 iab dould could
 iab doulw would
 iab dout out
@@ -7521,7 +7521,7 @@ iab doverhal overhaul
 iab dowb down
 iab dowdntown downtown
 iab dowen down
-iab downa down 
+iab downa down
 iab downaloding downloading
 iab downl down
 iab downla9df downland
@@ -7810,7 +7810,6 @@ iab ecendtric eccentric
 iab ecept except
 iab eception exception
 iab ecercise exercise
-iab ecercise exercise 
 iab ecercises exercises
 iab ecet except
 iab ecistewd existed
@@ -7988,7 +7987,6 @@ iab einviorment environment
 iab einvirnoemnt environment
 iab einvolve involve
 iab einvorment environment
-iab einvorment environment 
 iab eipisode episode
 iab eipsode episode
 iab eist exist
@@ -8170,7 +8168,7 @@ iab emnetioend mentioned
 iab emnployeed employed
 iab emoerge emerge
 iab emoment moment
-iab emoon moon 
+iab emoon moon
 iab emoployeees employees
 iab emore more
 iab emorning morning
@@ -8370,11 +8368,11 @@ iab enviornoemtn environment
 iab enviorokment environment
 iab envioronment environment
 iab enviorument environment
-iab envirioentn environment 
+iab envirioentn environment
 iab envirionemtb environment
 iab envirionment environment
-iab envirmoent environment  
-iab envirmonetnt environment 
+iab envirmoent environment
+iab envirmonetnt environment
 iab envirmpoment environment
 iab envirnment environment
 iab envirnoment environment
@@ -8386,6 +8384,7 @@ iab environemnt environment
 iab environemtn environment
 iab environent environment
 iab environentmnt environment
+iab environmeent environment
 iab environmenet environment
 iab environmmnt environment
 iab envirotnment environment
@@ -8554,7 +8553,7 @@ iab especally especially
 iab especific specific
 iab especiially especially
 iab espeicailly especially
-iab espeically especially 
+iab espeically especially
 iab espeicially especially
 iab espeiciially especially
 iab espeiclaly especially
@@ -10629,7 +10628,7 @@ iab hundredd hundred
 iab hundredss hundreds
 iab hundres hundred
 iab hundresd hundreds
-iab hunfred hundred 
+iab hunfred hundred
 iab hunrdesd hundred
 iab hunrdred hundred
 iab hunred hundred
@@ -10899,7 +10898,7 @@ iab implemetation implementation
 iab implemetnation implementation
 iab implemetned implemented
 iab implemmentations implementations
-iab implemmented implemented 
+iab implemmented implemented
 iab implemnentation implementation
 iab implemnetations implementations
 iab implemneted implemented
@@ -11623,7 +11622,7 @@ iab intesrnally internally
 iab intesrseting interesting
 iab intesrstign interesting
 iab intesrsting interesting
-iab intesrt interest 
+iab intesrt interest
 iab intesrted interested
 iab intesrting interesting
 iab intesrtings interesting
@@ -11974,7 +11973,7 @@ iab juist just
 iab jujmp jump
 iab jujst just
 iab jumna jamuna
-iab jumnk junk 
+iab jumnk junk
 iab junt just
 iab jupmp jump
 iab jusat just
@@ -13445,7 +13444,7 @@ iab morem more
 iab morening morning
 iab moreo more
 iab moreq more
-iab moringin mooring in
+iab moringin morning
 iab morining morning
 iab morinning morning
 iab morket market
@@ -14163,7 +14162,7 @@ iab ocpmay company
 iab ocpmotuer computer
 iab oculd could
 iab ocurring occurring
-iab oddysy odyssey 
+iab oddysy odyssey
 iab odecades decades
 iab odesn doesn
 iab odler older
@@ -14318,7 +14317,7 @@ iab oout out
 iab ooutline outline
 iab oparts parts
 iab opbtain obtain
-iab opbuvosuuluy obviously 
+iab opbuvosuuluy obviously
 iab opearitng operating
 iab opeen open
 iab opeend opened
@@ -14675,7 +14674,6 @@ iab pahge page
 iab pahragrpah paragraph
 iab pahtetic pathetic
 iab paised paused
-iab paised paused 
 iab paitent patient
 iab pakistan Pakistan
 iab palaesdkj placed
@@ -16302,7 +16300,7 @@ iab quilcy quickly
 iab quiqckets quickest
 iab quiqcly quickly
 iab quirck quick
-iab quiremetns requirements 
+iab quiremetns requirements
 iab quiscker quicker
 iab quit4e quite
 iab quixkly quickly
@@ -16530,7 +16528,7 @@ iab recollecft recollect
 iab reconized recognized
 iab reconsgtriucting reconstructing
 iab recopu recoup
-iab recordding recording 
+iab recordding recording
 iab recordied recorded
 iab recordign recording
 iab recordinds recordings
@@ -17329,7 +17327,7 @@ iab rmemeber remember
 iab rmemerber remember
 iab rmemever remember
 iab rmemevmberd remembered
-iab rmental mental 
+iab rmental mental
 iab rmeomving removing
 iab rmeove remove
 iab rmeoved removed
@@ -18165,7 +18163,7 @@ iab similation simulation
 iab similiar similar
 iab simlations simulations
 iab simluatineonsly simultaneously
-iab simluation simulation 
+iab simluation simulation
 iab simmilar similar
 iab simmply simply
 iab simoilar similar
@@ -18195,7 +18193,7 @@ iab simpppply simply
 iab simpy simply
 iab simpyl simply
 iab simualtion simulation
-iab simualtions simulations 
+iab simualtions simulations
 iab simuatelnlusy simultaneously
 iab simuation simulation
 iab simulaneooyusly simultaneously
@@ -18543,7 +18541,7 @@ iab sometohing something
 iab sometohitn something
 iab sometone someone
 iab sometwhere somewhere
-iab somew some 
+iab somew some
 iab somewehre somewhere
 iab somewher somewhere
 iab somewhewre somewhere
@@ -18924,7 +18922,6 @@ iab stoppesd stopped
 iab stoppign stopping
 iab stoppiung stopping
 iab stoppped stopped
-iab stoppped stopped 
 iab stoppping stopping
 iab stoppss stops
 iab storagew storage
@@ -19342,7 +19339,7 @@ iab swomething something
 iab swpellings spellings
 iab swpet swept
 iab swrever server
-iab swriting writing 
+iab swriting writing
 iab swtomach stomach
 iab swutch switch
 iab swweep sweep
@@ -19835,7 +19832,7 @@ iab thatr that
 iab thatt that
 iab thaty that
 iab thave have
-iab thaving having 
+iab thaving having
 iab thawt that
 iab thayg that
 iab thbought thought
@@ -21153,7 +21150,6 @@ iab valyue value
 iab varaibles variables
 iab varaition variation
 iab varations variations
-iab varations variations 
 iab variabels variables
 iab variablesa variables
 iab variablges variables
@@ -22339,5 +22335,6 @@ iab zooom zoom
 iab ztart start
 iab ztaships starships
 
-iab environmeent environment
-iab aliasesw aliases
+iab thjen then
+iab Eexpected Expected
+iab ehco echo
