@@ -46,7 +46,7 @@ augroup Work
   let g:hostname_work = 'work_vm'
 
   autocmd! BufRead,BufNewFile *.cshtml if g:hostname == g:hostname_work | setlocal filetype=html commentstring=@*%s*@ | source $VIMRC_PLUGIN_DIR/conceal.vim | endif
-  autocmd! BufRead,BufNewFile *.js,*cs if g:hostname == g:hostname_work | source $VIMRC_PLUGIN_DIR/conceal.vim | endif
+  autocmd! BufRead,BufNewFile *cs if g:hostname == g:hostname_work | source $VIMRC_PLUGIN_DIR/conceal.vim | endif
 
   autocmd! Syntax html source $VIMRC_PLUGIN_DIR/conceal.vim
 
