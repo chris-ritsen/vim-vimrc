@@ -293,6 +293,7 @@ iab Eeinstein Einstein
 iab Eelctric Electric
 iab Eeldctric Electric
 iab Eelectric Electric
+iab Eexpected Expected
 iab Efen Even
 iab Effecsts Effects
 iab Egnlisyu English
@@ -1663,6 +1664,7 @@ iab TVf TV
 iab TWo Two
 iab TWrerying Trying
 iab TYHose Those
+iab TYbuis This
 iab TYhe The
 iab TYhere There
 iab TYhsis This
@@ -1701,6 +1703,7 @@ iab Tgese These
 iab Tgey They
 iab Tghis This
 iab Tgus This
+iab Tgusi This
 iab Thainsk Thanks
 iab Thaisnks Thanks
 iab Thaisnsk Thanks
@@ -1731,6 +1734,7 @@ iab Thgen Then
 iab Thgere There
 iab Thgerefore Therefore
 iab Thgis This
+iab Thgisa This
 iab Thias This
 iab Thie The
 iab Thign Thing
@@ -1741,6 +1745,7 @@ iab Thios This
 iab Thisa This
 iab Thiss This
 iab Thius This
+iab Thix This
 iab Thixs This
 iab Thiz This
 iab Thje The
@@ -1753,6 +1758,7 @@ iab Thougths Thoughts
 iab Threateneed Threatened
 iab Thrusay Thruway
 iab Thsat That
+iab Thsdi This
 iab Thse These
 iab Thsi This
 iab Thsnsks Thanks
@@ -7950,6 +7956,7 @@ iab egen even
 iab eglue glue
 iab ehader header
 iab ehalth health
+iab ehco echo
 iab ehere here
 iab ehight height
 iab ehis his
@@ -8403,6 +8410,7 @@ iab envrironmetn environment
 iab envuroment environment
 iab envuromernt environment
 iab enxt next
+iab enxyt next
 iab eopelp people
 iab eopeple people
 iab eopisode episode
@@ -13682,6 +13690,7 @@ iab ndoe node
 iab ndoes nodes
 iab ndownloaded downloaded
 iab ne4xt next
+iab ne4xt6 next
 iab neabled enabled
 iab nealry nearly
 iab nearluing pearling
@@ -13768,6 +13777,7 @@ iab networkeed networked
 iab networsk networks
 iab networsks networks
 iab netwrok network
+iab netxt next
 iab neurla neural
 iab neutrl neutral
 iab neutrophic neurotrophic
@@ -13794,9 +13804,14 @@ iab newwel newel
 iab newwer newer
 iab newww new
 iab newxt next
+iab newxyt next
 iab nexdt next
+iab nexdy next
 iab nexst next
+iab next6 next
 iab nextg next
+iab nexty next
+iab nexy next
 iab neyrons neurons
 iab nezst next
 iab nezt next
@@ -20028,6 +20043,7 @@ iab thiw this
 iab thiws this
 iab thix this
 iab thjat that
+iab thjen then
 iab thjis this
 iab thlusands thousands
 iab thmub thumb
@@ -22335,6 +22351,3 @@ iab zooom zoom
 iab ztart start
 iab ztaships starships
 
-iab thjen then
-iab Eexpected Expected
-iab ehco echo
