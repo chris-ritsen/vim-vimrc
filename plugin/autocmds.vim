@@ -11,6 +11,7 @@ autocmd! FileType javascript setlocal foldmethod=marker foldmarker={,}
 autocmd! FileType xml setlocal foldmethod=syntax
 
 " }}}2
+
 " }}}1
 
 " {{{1
@@ -60,6 +61,16 @@ augroup END
 augroup filetypes 
 
   " {{{2
+
+  " Misc {{{3
+
+  " autocmd! Syntax c,cpp,javascript,php,xml,html,xhtml,perl normal zC
+
+  " TODO: Not happy with this
+  " autocmd! Syntax c,cpp,javascript,php,java,xml,html,xhtml setlocal foldmethod=syntax
+  " autocmd! Syntax c,cpp,javascript,php,xml,html,xhtml,perl normal zR
+
+  autocmd! Syntax javascript setlocal makeprg=yeoman\ build
   autocmd! BufEnter * if &filetype == "" | setlocal filetype=text | endif
   autocmd! BufNewFile,BufRead *.zsh set foldmethod=marker
 
@@ -67,9 +78,8 @@ augroup filetypes
   autocmd! BufNewFile,BufRead *.css,*.scss set foldmethod=marker fmr={,}
   autocmd! BufNewFile,BufRead *.ldg,*.ledger setf ledger
   autocmd! BufNewFile,BufRead *.svg set foldmethod=syntax
-  autocmd! BufNewFile,BufRead *.vim set commentstring=" %s
   autocmd! BufRead,BufNewFile *.aspx,*.asmx,*.ascx set filetype=aspnet 
-  autocmd! BufRead,BufNewFile *.config/tmux/*,*.config/tmux/sessions/* setfiletype tmux
+  autocmd! BufRead,BufNewFile ~/.config/tmux/* setfiletype tmux
   autocmd! BufRead,BufNewFile *.css.map set filetype=json
   autocmd! BufRead,BufNewFile *.json set filetype=json
   autocmd! BufRead,BufNewFile *.tex set filetype=tex
@@ -82,16 +92,9 @@ augroup filetypes
   autocmd! BufRead,BufNewFile ~/.config/mailcap setlocal nowrap
   autocmd! BufRead,BufNewFile ~/.config/mutt/* if &filetype == '' | setfiletype muttrc | endif " would also like nowrap
 
-  autocmd! BufRead,BufNewFile ~/.ssh/config setfiletype conf
-  autocmd! BufRead,BufNewFile ~/.ssh/config set foldmethod=indent
-
   autocmd! BufRead,BufNewFile ~/.config/mpd/mpd.conf setfiletype conf
   autocmd! BufRead,BufNewFile ~/.config/mpd/mpd.conf set foldmethod=marker foldmarker={,}
 
-  autocmd! BufRead,BufNewFile ~/.irssi/config setfiletype conf
-  autocmd! BufRead,BufNewFile ~/.irssi/config set foldmethod=marker fmr={,} 
-
-  autocmd! BufRead,BufNewFile ~/.config/vim/plugins/pathogen/autoload/pathogen.vim set foldmethod=marker
   autocmd! BufRead,BufNewFile ~/.offlineimaprc setfiletype conf
   autocmd! BufRead,BufNewFile ~/.mail/* if &filetype == '' | setfiletype mail | endif 
   autocmd! BufRead,BufNewFile ~/mail/* if &filetype == '' | setfiletype mail | endif 
@@ -100,7 +103,6 @@ augroup filetypes
   autocmd! BufReadPost *.css,*scss silent! g/base64.\+/normal zc " close base64 images
   autocmd! BufReadPre,FileReadPre *.gpg,*.asc set noswapfile
 
-  autocmd! FileType vim setlocal commentstring=#\ %s
   autocmd! FileType apache setlocal commentstring=#\ %s
   autocmd! FileType css setlocal nowrap
   autocmd! FileType fstab setlocal commentstring=#\ %s
@@ -114,7 +116,7 @@ augroup filetypes
   autocmd! FileType text setlocal commentstring=%s 
   autocmd! FileType unite call s:unite_settings()
   autocmd! FileType text setlocal textwidth=78
-  autocmd! FileType tmux setlocal commentstring=#\ %s
+  autocmd! FileType tmux setlocal commentstring=#\ %s foldmethod=marker
   autocmd! FileType vb setlocal commentstring='\ %s
   autocmd! FileType xml setlocal equalprg=xmllint\ --format\ --recover\ -\ 2>/dev/null
   autocmd! FileType xpm set nowrap
@@ -123,13 +125,50 @@ augroup filetypes
   autocmd! Syntax javascript,vim setlocal foldmethod=marker | normal zM
   autocmd! Syntax xml,html,xhtml setlocal foldmethod=indent | normal zM
 
-  " TODO: Not happy with this
-  " autocmd! Syntax c,cpp,javascript,php,java,xml,html,xhtml setlocal foldmethod=syntax
-  " autocmd! Syntax c,cpp,javascript,php,xml,html,xhtml,perl normal zR
+  " }}}3
 
-  autocmd! Syntax javascript setlocal makeprg=yeoman\ build
+  " xmonad {{{3
 
-  "}}}2
+  autocmd! BufRead,BufNewFile ~/.xmonad/xmonad.hs setfiletype haskell | set foldmethod=indent commentstring=--\ %s
+
+  " }}}3
+
+  " xmodmap {{{3
+
+  autocmd! BufRead,BufNewFile ~/.xmodmap setfiletype xmodmap | set foldmethod=marker commentstring=!\ %s 
+
+  " }}}3
+
+  " xbindkeys {{{3
+
+  autocmd! BufRead,BufNewFile ~/.xbindkeys setfiletype conf | set foldmethod=indent commentstring=#\ %s 
+
+  " }}}3
+
+  " irssi {{{3
+
+  autocmd! BufRead,BufNewFile ~/.irssi/config,~/.irssi/default.theme setfiletype conf | set foldmethod=marker fmr={,} 
+
+  " }}}3
+
+  " SSH {{{3
+
+  autocmd! BufRead,BufNewFile ~/.ssh/config setfiletype sshconfig
+  autocmd! FileType sshconfig set nowrap foldmethod=indent
+
+  " }}}3
+
+  " vim {{{3
+
+  " autocmd! BufEnter vim setlocal foldmethod=marker | normal zM 
+  autocmd! BufNewFile,BufRead *.vim 
+  autocmd! BufRead,BufNewFile ~/.config/vim/plugins/pathogen/autoload/pathogen.vim set foldmethod=marker
+  autocmd! FileType vim setlocal commentstring=\"\ %s 
+  autocmd! Syntax vim setlocal foldmethod=marker | normal zM
+
+  " }}}3
+
+  " }}}2
 
   " {{{2
 

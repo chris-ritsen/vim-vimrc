@@ -1,12 +1,31 @@
 
-function! AddAbbrev() " {{{1 
+" AddAbbrev {{{1
+
+function! AddAbbrev()
+
+  " TODO: I doubt the reliability of this function
+
+  " {{{2
+
   call inputsave()
+
+  " }}}2
+
+  " {{{2
+
   let incorrect_word = expand('<cword>')
 
-  " Preserve initial spell setting
+  " }}}2
+
+  " {{{2
+
   silent! redir @a
   silent! set spell?
   silent! redir END
+
+  " }}}2
+
+  " {{{2
 
   if match(@a, 'no') == -1
     let has_spell = 'true'
@@ -14,15 +33,25 @@ function! AddAbbrev() " {{{1
     let has_spell = 'false'
   endif
 
+  " }}}2
+
+  " {{{2
+
   set spell
   normal 1z=
+
+  " }}}2
+
+  " Preserve initial spell setting {{{2
 
   let s_prompt = 'iab ' . incorrect_word . ' '
   let possible_correct_word = expand('<cword>')
   let correct_word = input(s_prompt, possible_correct_word)
   let abbrev_entry = 'iab ' . incorrect_word . ' ' . correct_word
 
-  " TODO: I doubt the reliability of this function
+  " }}}2
+
+  " {{{2
 
   if empty(correct_word)
     silent! exec 'u'
@@ -34,8 +63,13 @@ function! AddAbbrev() " {{{1
     return
   endif
 
+  " }}}2
+
+  " {{{2
+
   if correct_word == possible_correct_word
     " Some nonsense was selected, such as punctuation
+
     if has_spell == 'false'
       set nospell
     endif
@@ -43,18 +77,32 @@ function! AddAbbrev() " {{{1
     "return
   endif
 
+  " }}}2
+
+  " {{{2
+
   " TODO: Replace word under cursor with user's final correction
   if correct_word != possible_correct_word
     " Sample word was not the desired correction
+
     silent! exec 'u'
     silent! exec 'normal' 'ciw' . correct_word
   endif
 
-  " TODO: Use a env variable for the abbreviation file instead
+  " }}}2
+
+  " {{{2
+
+  " let a:abbrev_file = '$VIMRC_PLUGIN_DIR/abbrev.vim'
   let a:abbrev_file = '/home/chris/.config/vim/bundle/vimrc/plugin/abbrev.vim'
   let a:lines = [abbrev_entry]
 
+  " }}}2
+
+  " {{{2
+
   " TODO: Check for a faster way of doing this
+
   call writefile(readfile(a:abbrev_file)+a:lines, a:abbrev_file)
   execute 'iab ' incorrect_word . ' ' . correct_word
 
@@ -63,18 +111,39 @@ function! AddAbbrev() " {{{1
   if has_spell == 'false'
     set nospell
   endif
-endfunction " }}}1 
 
-function! s:unite_settings() " {{{1  
+  " }}}2
+
+endfunction
+
+" }}}1
+
+" {{{1
+function! s:unite_settings()
+
+  " {{{2
+
   let b:SuperTabDisabled = 1
+
+  " {{{3
+
   " Enable navigation with control-j and control-k in insert mode
   " imap <buffer> <C-j>   <Plug>(unite_select_next_line)
   " imap <buffer> <C-j>   <Plug>(unite_do_default_action)
   " imap <buffer> <C-k>   <Plug>(unite_select_previous_line)
-  " nnoremap <silent><buffer> <C-j> <Plug>(unite_do_default_action) 
-endfunction " }}}1 
+  " nnoremap <silent><buffer> <C-j> <Plug>(unite_do_default_action)
 
-function! s:TempSetBinaryForNoeol() " {{{1  
+  " }}}3
+
+  " }}}2
+
+endfunction
+
+" }}}1
+
+" {{{1
+
+function! s:TempSetBinaryForNoeol()
 
   let s:save_binary = &binary
 
@@ -93,9 +162,11 @@ function! s:TempSetBinaryForNoeol() " {{{1
     endif
   endif
 
-endfunction " }}}1 
- 
-function! s:TempRestoreBinaryForNoeol() " {{{1  
+endfunction " }}}1
+
+" {{{1
+
+function! s:TempRestoreBinaryForNoeol()
 
   if ! &eol && ! s:save_binary
     if &ff == "dos"
@@ -111,21 +182,46 @@ function! s:TempRestoreBinaryForNoeol() " {{{1
 
   endif
 
-endfunction " }}}1 
+endfunction
 
-function! Set(what) " {{{1 
+" }}}1
+
+" {{{1
+
+function! Set(what)
   exe 'set ' . substitute(a:what, '\v.+', '\L&', 'g')
-endfunction " }}}1 
+endfunction
 
-function! Sort_By_Number() " {{{1 
+" }}}1
+
+" {{{1
+
+function! Sort_By_Number()
+
+" {{{2
+
   :sort n /\%V[.]r/
-endfunction " }}}1 
 
-function! Vidir_Sanitize(content) " {{{1  
+" }}}2
+
+endfunction
+
+" }}}1
+
+" Vidir Sanitize {{{1
+
+function! Vidir_Sanitize(content)
+
+  " {{{2
+
   mark z
 
   "silent! %s/\(\_^[ ]*\)\@<![ ]\+/_/g
   "%s/\(\_^\s*\|\_^\s\+\d\+\)\@<!\s/_/g
+
+  " }}}2
+
+  " Rules {{{2
 
   silent! %s/\v[åä]/a/g
   silent! %s/\v[ö]/o/g
@@ -142,131 +238,242 @@ function! Vidir_Sanitize(content) " {{{1
   silent! %s/\v_(Feat|The|It|Of|At)_/\L&/ig
   silent! %s/\v_(Och|N[åa]n)_/\L&/g
 
+  " }}}2
+
+  " {{{2
+
   if (a:content == 'music') || (a:content == 'mvid')
-    "silent! %s/\v./\L&/g
-    silent! %s/\v^\s*[0-9]+\s+\zs\s+/_/g
-    silent! %s/\(\_^[ ]*\)\@<![ ]\+/_/g
+
+    " {{{3
+
+    :silent! %s/\v^\s*[0-9]+\s+\zs\s+/_/g
+    :silent! %s/\(\_^[ ]*\)\@<![ ]\+/_/g
     :silent! %s/\v[&]/feat/g
     :silent! %s/\v(_[el]p[_]?)/\U\1/ig
     :silent! %s/\v([_-]?cd[sm][_-]?|flac|[_-]demo|vinyl|[_-](web|pcb|osv))/\U\1/ig
+
+    " }}}3
+
   elseif (a:content == 'tv')
+
+    " {{{3
+
     :silent! %s/\v^\s*[0-9]+\s+\zs\s+/./g
-    silent! %s/\(\_^[ ]*\)\@<![ ]\+/./g
-    silent! %s/\v[.]-[.]/./g
+    :silent! %s/\(\_^[ ]*\)\@<![ ]\+/./g
+    :silent! %s/\v[.]-[.]/./g
+
+    " }}}3
+
   else
+
+    " {{{3
+
     :silent! %s/\v[&]/and/g
+
+    " }}}3
+
   endif
+
+  " }}}2
+
+  " {{{2
 
   'z
   delmark z
-endfunction " }}}1 
 
-" Vidir - sort-of-TitleCase helper                                           {{{1
+  " }}}2
+
+endfunction
+
+" }}}1
+
+" Vidir - sort-of-TitleCase helper {{{1
+
 function! Vidir_SmartUC()
+
+" substitute {{{2
+
   :s/\w\@<=\ze\u/_/g
   :s/\v_+/_/g
   ":s/\<\@<![A-Z]/_&/g
-endfunction " }}}1 
 
-" sub - TitleCase word                                                       {{{
-fu! TitleCaseCenter()
+" }}}2
+
+endfunction
+
+" }}}1
+
+" sub - TitleCase word {{{1
+
+function! TitleCaseCenter()
+
   let word = expand('<cword>')
   s/\w\+/\u&/g
   center
   echo "Word under cursor was " . word
-endfu
-"}}}
 
-" sub - trailing trash                                                       {{{
-fu! RemoveTrailingCrap()
+endfunction
+
+" }}}1
+
+" sub - trailing trash {{{1
+
+function! RemoveTrailingCrap()
+
   if search('\s\+$', 'n')
     :%s/\s\+$//
   endif
+
   if search( nr2char(182) . '$' )
     :execute ":%s/" . nr2char(182) . "//"
   endif
-endfu
-"}}}
 
-" toggle number/relativenumber                                               {{{
-fu! ToggleRelativeAbsoluteNumber()
+endfunction
+
+" }}}1
+
+" toggle number/relativenumber {{{
+
+function! ToggleRelativeAbsoluteNumber()
   exe 'set ' . (&number ? 'relativenumber' : 'number')
-endfu
-"}}}
+endfunction
 
-" toggle spell                                                               {{{
-fu! ToggleSpell()
+" }}}
+
+" toggle spell {{{
+
+function! ToggleSpell()
+
   exe 'set ' . (&spell ? 'nospell' : 'spell')
-endfu
-"}}}
 
-" toggle paste                                                               {{{
+endfunction
+
+" }}}
+
+" toggle paste {{{
+
 fun! TogglePaste()
+
   echohl Number
   exe 'set ' . (&paste ? 'nopaste' : 'paste')
   echo &paste
+
 endfun
-"}}}
 
-" preview markdown                                                           {{{
-fu! Markdown_Preview()
+" }}}
+
+" preview markdown {{{1
+
+function! Markdown_Preview()
+
+" {{{2
+
   :silent exe '!markdown_preview ' . expand('%:p')
-endfu
-"}}}
 
-" ls(1) colors                                                               {{{
-fu! LS()
+" }}}2
+
+endfu
+
+" }}}1
+
+" ls(1) colors {{{
+
+function! LS()
+
   " :source /home/scp1/dev/vim-lscolors/plugin/lscolors.vim
-endfu
-"}}}
 
-" shorten cwd                                                                {{{
-fu! CurDir()
+endfu
+
+" }}}
+
+" shorten cwd {{{1
+
+function! CurDir()
+
   let curdir = substitute(getcwd(), '/home/scp1/', '~/', '')
   return curdir
-endfu
-"}}}
+  za
 
-" syn group for item under cursor                                            {{{
+endfunction
+
+" }}}1
+
+" syn group for item under cursor {{{1
+
 " nmap <C-e> :call SynStack()<CR>
-fu! SynStack()
-  if !exists("*synstack")
-    return
-  endif
-  echo map(synstack(line('.'), col('.')), 'synIDattr(v:val, "name")')
-endfu
-"}}}
 
-" folding - add markers                                                      {{{
-fu! AddFoldMarkers()
-  setl virtualedit=all
+function! SynStack()
+
+  " Guard {{{2
+
+  if !exists("*synstack")
+
+    return
+
+  endif
+
+  " }}}
+
+  " echo {{{2
+
+  echo map(synstack(line('.'), col('.')), 'synIDattr(v:val, "name")')
+
+  " }}}
+
+endfunction
+
+" }}}1
+
+" folding - add markers {{{1
+
+function! AddFoldMarkers()
+
+" {{{2
 
   let comment_char = '#'
-  if(&ft == 'vim')
+  let fold_marker_end   = '}}}'
+  let fold_marker_start = '{{{'
+
+  if (&ft == 'vim')
+
     let comment_char = '"'
-  elseif(&ft == 'xdefaults')
+
+  elseif (&ft == 'xdefaults')
+
     let comment_char = '!'
-  elseif(&ft == 'lisp')
+
+  elseif (&ft == 'lisp')
+
     let comment_char = ';;'
+
   endif
 
-  let fold_marker_start = '{{{'
-  let fold_marker_end   = '}}}'
+  setlocal formatoptions=
+  setlocal virtualedit=all
 
-  setl formatoptions=
   normal ^77li{{{
+
   " to close the unexpected fold :) }}}
+
   normal o
   normal o
   normal o
 
   put = comment_char . fold_marker_end
   normal kkk
-endfu
-"}}}
 
-" sort - by line length                                                      {{{
-fu! SortLen()
+" }}}2
+
+endfunction
+
+" }}}1
+
+" sort - by line length {{{1
+
+function! SortLen()
+
+" {{{2
+
   mark z
   %s/\v^/\=len(getline('.')) . '↑'/
   sort n
@@ -274,33 +481,51 @@ fu! SortLen()
   normal G
   'z
   delmark z
-endfu
-"}}}
 
-" viminfo - save cursor position                                             {{{
+" }}}2
+
+endfu
+
+" }}}1
+
+" viminfo - save cursor position {{{1
+
 autocmd BufReadPost * call SetCursorPosition()
-fu! SetCursorPosition()
+
+function! SetCursorPosition()
+
+" viminfo - save cursor position {{{2
+
   if &filetype !~ 'svn\|commit\c'
     if line("'\"") > 0 && line("'\"") <= line("$")
       exe "normal! g`\""
       normal! zz
     endif
   end
-endfu
-"}}}
 
-" % filesize                                                                 {{{
-fu! FileSize()
+" }}}2
+
+endfunction
+
+" }}}1
+
+" % filesize {{{
+function! FileSize()
+
   let bytes = getfsize(expand("%:p"))
+
   if bytes <= 0
     return "0"
   endif
+
   if bytes < 1024
     return bytes
   else
     return (bytes / 1024) . "K"
   endif
-endfu
+
+endfunction
+
 "}}}
 
 " Dead {{{1
@@ -310,7 +535,6 @@ endfu
 "   autocmd BufWritePre  * call <SID>TempSetBinaryForNoeol()
 "   autocmd BufWritePost * call <SID>TempRestoreBinaryForNoeol()
 " augroup END
-
 
 "" highlights - hl match under cursor differently from Search                 {{{
 "fu! HL_Search_Cword()
@@ -344,11 +568,14 @@ endfu
 "  hi oddEven ctermbg=233
 "  hi oddOdd  ctermbg=234
 "endfu
+"
 ""}}}
+
 "" cabs - less stupidity                                                      {{{
 "fu! Single_quote(str)
 "  return "'" . substitute(copy(a:str), "'", "''", 'g') . "'"
 "endfu
+
 ""fu! Cabbrev(key, value)
 ""  exe printf('cabbrev <expr> %s (getcmdtype() == ":" && getcmdpos() <= %d) ? %s : %s',
 ""    \ a:key, 1+len(a:key), Single_quote(a:value), Single_quote(a:key))
