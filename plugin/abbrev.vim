@@ -1115,6 +1115,7 @@ iab Pacckard Packard
 iab Packarx Packard
 iab Parenets Parents
 iab Parikinson Parkinson
+iab Partas Parts
 iab Particaipants Participants
 iab Passsiontate Passionate
 iab Paswword Password
@@ -2071,6 +2072,7 @@ iab abbrevations abbreviations
 iab abbrevatioqtns abbreviations
 iab abbreviaions abbreviations
 iab abbreviateion abbreviation
+iab abbreviatiosn abbreviations
 iab abbrevisaiosn abbreviations
 iab abbrevtioainos abbreviations
 iab abe be
@@ -3427,8 +3429,16 @@ iab areldasy already
 iab aremies armies
 iab areound around
 iab arew are
+iab arghuemtns arguments
+iab arghumetns arguments
 iab argment argument
+iab argmnuemtns arguments
+iab argmuemtns arguments
+iab argmuetnns arguments
 iab arguemnts arguments
+iab arguemtns arguments
+iab arguemtsn arguments
+iab arguenmtenss arguments
 iab arguetn argument
 iab argumably arguably
 iab argumen argument
@@ -3469,6 +3479,9 @@ iab arsien arisen
 iab arsising arising
 iab artciel article
 iab artcile article
+iab artguemtns arguments
+iab artguments arguments
+iab artgumetns arguments
 iab articdle article
 iab articel article
 iab articels articles
@@ -3491,8 +3504,11 @@ iab artsis artists
 iab artsit artist
 iab artsits artists
 iab artst artist
+iab arugemtns arguments
+iab arugmenets arguments
 iab arugments arguments
 iab arugmetns arguments
+iab aruguments arguments
 iab aruments arguments
 iab arwe are
 iab asactions actions
@@ -6520,6 +6536,7 @@ iab dcordations decorations
 iab dcrive drive
 iab dcurrently currently
 iab ddaitional additional
+iab ddbugger debugger
 iab ddddoing doing
 iab ddditional additional
 iab ddefault default
@@ -6639,6 +6656,7 @@ iab defvides devices
 iab defvise devise
 iab degbts debts
 iab degreaasted decreased
+iab degugger debugger
 iab deicided decided
 iab deicied deiced
 iab deifniatley definitely
@@ -6724,6 +6742,7 @@ iab depper deeper
 iab depsoitg deposit
 iab deptenedds depends
 iab depxlictily explicitly
+iab derbugger debugger
 iab dercived derived
 iab dericed derived
 iab derire desire
@@ -14808,7 +14827,9 @@ iab parmaeters parameters
 iab parmeters parameters
 iab parnters partners
 iab parserw parser
+iab parst parts
 iab partW part
+iab partaxs parts
 iab partehtic pathetic
 iab particals particles
 iab particapant participant
@@ -14835,10 +14856,12 @@ iab particutlar particular
 iab partihg parting
 iab partitionnn partition
 iab partk park
+iab partsLsit partsList
 iab partsf parts
 iab partucular particular
 iab partyl partly
 iab partyly partly
+iab parws parts
 iab pary party
 iab pased passed
 iab pasge page
@@ -17118,6 +17141,7 @@ iab respionsible responsible
 iab respnisbilites responsibilities
 iab respnoisbilitesi responsibilities
 iab respnonsiblities responsibilities
+iab respnose response
 iab respnosibilities responsibilities
 iab respnosible responsible
 iab respnse response
@@ -17460,6 +17484,7 @@ iab rright right
 iab rroad road
 iab rsee see
 iab rseume resume
+iab rsponse response
 iab rsuaeme resume
 iab rsuem resume
 iab rsulting resulting
@@ -18119,6 +18144,7 @@ iab shioudl should
 iab shiow show
 iab shioyuld should
 iab shipes ships
+iab shipmentREsponsde shipmentResponse
 iab shipmewnt shipment
 iab shipwors shipworms
 iab shirink shrink
@@ -22401,4 +22427,3 @@ iab zooom zoom
 iab ztart start
 iab ztaships starships
 
-iab abbreviatiosn abbreviations
