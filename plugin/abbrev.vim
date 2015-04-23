@@ -6935,6 +6935,7 @@ iab devies devices
 iab deviiate deviate
 iab deviiiiate deviate
 iab devive device
+iab devives devices
 iab devlekopment development
 iab devlelpers developers
 iab devleoiper developer
@@ -7708,6 +7709,7 @@ iab dveam dream
 iab dveeloper developer
 iab dveelpeoped developed
 iab dveelpment development
+iab dveices devices
 iab dveleopre developer
 iab dveloper developer
 iab dvelopers developers
@@ -18388,6 +18390,7 @@ iab sjouild should
 iab sjsut just
 iab sjust just
 iab skae sake
+iab skateboaredindg skateboarding
 iab skelatal skeletal
 iab skeptecism skepticism
 iab skillfyl skillful
@@ -22427,4 +22430,3 @@ iab zooom zoom
 iab ztart start
 iab ztaships starships
 
-iab skateboaredindg skateboarding
