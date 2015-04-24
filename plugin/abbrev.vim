@@ -190,6 +190,7 @@ iab Derver Server
 iab Desccretes Desecrates
 iab Descdribe Describe
 iab Descreibing Describing
+iab Descripotion Description
 iab Descriptin Description
 iab Descriptioun Description
 iab Descroption Description
@@ -202,6 +203,7 @@ iab Desription Description
 iab Destrohy Destroy
 iab Desulrtrory Desultory
 iab Detatching Detaching
+iab Detials Details
 iab Detorit Detroit
 iab Devekopment Development
 iab Developmenet Development
@@ -244,6 +246,7 @@ iab Dveloper Developer
 iab Dvelopment Development
 iab Dvorakv Dvorak
 iab Dvorask Dvorak
+iab Dysnamuic Dynamic
 iab EAch Each
 iab EAdch Each
 iab EArht Earth
@@ -1516,6 +1519,8 @@ iab Sevice Service
 iab Sfotware Software
 iab Sfstems Systems
 iab Sharte Share
+iab Shipmemnt Shipment
+iab Shipmetn Shipment
 iab Shoudl Should
 iab Shovitng Shoving
 iab Shphinx Sphinx
@@ -3715,6 +3720,7 @@ iab autgo auto
 iab authetntication authentication
 iab authfor author
 iab authoization authorization
+iab authoriation authorization
 iab authorizatkon authorization
 iab autio audio
 iab autioamted automated
@@ -3943,6 +3949,24 @@ iab balancoy balcony
 iab balasncing balancing
 iab balck black
 iab balckented blackened
+iab ballpint ballpoint
+iab ballpioint ballpoint
+iab ballpiont ballpoint
+iab ballpitn ballpoint
+iab ballpoibnt ballpoint
+iab ballpoinbg ballpoint
+iab ballpoing ballpoint
+iab ballpoinot ballpoint
+iab ballpointy ballpoint
+iab ballpoiont ballpoint
+iab ballpoitn ballpoint
+iab ballpont ballpoint
+iab ballpount ballpoint
+iab ballpping ballpoint
+iab ballppint ballpoint
+iab ballppinty ballpoint
+iab ballppopng ballpoint
+iab ballpunint ballpoint
 iab balnaket blanket
 iab balrey barley
 iab balswance balance
@@ -4282,6 +4306,7 @@ iab blabn blab
 iab blackended blackened
 iab blakn blank
 iab blakzed blazed
+iab blalpint ballpoint
 iab blankiong blanking
 iab blaqck black
 iab blatent blatant
@@ -4398,6 +4423,7 @@ iab boutton button
 iab bouttons buttons
 iab bowql bowl
 iab box3se boxes
+iab bpallpoint ballpoint
 iab bperson person
 iab bpody body
 iab bpothers bothers
@@ -4486,6 +4512,7 @@ iab brwoser browser
 iab brwosers browsers
 iab bsack back
 iab bsaed based
+iab bsallpoiont ballpoint
 iab bservatio observation
 iab bserverd observed
 iab bthe the
@@ -5278,6 +5305,7 @@ iab coiding coding
 iab coidulk could
 iab coimplains complaints
 iab coimpletion completion
+iab coinfig config
 iab coinstant constant
 iab coinstraining constraining
 iab coinstrianing constraining
@@ -6450,6 +6478,7 @@ iab cuystomer customer
 iab cventer center
 iab cvould could
 iab cvreen screen
+iab cwpenvil pencil
 iab cwriting writing
 iab cyberspacde cyberspace
 iab cyou you
@@ -6505,6 +6534,7 @@ iab databses databases
 iab databsew database
 iab dataqbase database
 iab dataqbases databases
+iab datavdswe database
 iab datbase database
 iab daughtor daughter
 iab dauy day
@@ -6935,6 +6965,7 @@ iab devies devices
 iab deviiate deviate
 iab deviiiiate deviate
 iab devive device
+iab devives devices
 iab devlekopment development
 iab devlelpers developers
 iab devleoiper developer
@@ -7056,6 +7087,7 @@ iab diffciyglty difficulty
 iab diffectne different
 iab diffeence difference
 iab diffeences differences
+iab diffeerence difference
 iab diffeernet different
 iab diffencge difference
 iab diffenence difference
@@ -7689,6 +7721,7 @@ iab dunction function
 iab duntil until
 iab dupdate update
 iab duplciagtes duplicates
+iab duplicatewd duplicated
 iab duplicatoin duplication
 iab dupslay display
 iab duraction duration
@@ -7708,6 +7741,7 @@ iab dveam dream
 iab dveeloper developer
 iab dveelpeoped developed
 iab dveelpment development
+iab dveices devices
 iab dveleopre developer
 iab dveloper developer
 iab dvelopers developers
@@ -8524,6 +8558,7 @@ iab eralier earlier
 iab eralire earlier
 iab erally really
 iab eralyt early
+iab erasewr eraser
 iab erason reason
 iab erespectively respectively
 iab erified verified
@@ -9034,6 +9069,7 @@ iab expecation exception
 iab expecation expectation
 iab expecations expectations
 iab expeccting expecting
+iab expecddtd expected
 iab expecdt expect
 iab expecdting expecting
 iab expecet expect
@@ -9327,11 +9363,14 @@ iab featiring featuring
 iab featr fear
 iab featuer feature
 iab featuers features
+iab featuesr features
 iab featuirng featuring
+iab featuresx features
 iab featurez features
 iab featuyre feature
 iab featuyres features
 iab featyures features
+iab feaver fever
 iab feawture feature
 iab feawtures features
 iab feawtureus features
@@ -9965,6 +10004,7 @@ iab geologiests geologists
 iab geomerty geometry
 iab gerat great
 iab getBoundingClientREct getBoundingClientRect
+iab getShipmetn getShipment
 iab geting getting
 iab getitng getting
 iab gett get
@@ -10177,6 +10217,7 @@ iab handleREsponsde handleResponse
 iab handleREsponse handleResponse
 iab handleREsposne handleResponse
 iab handleResponde handleResponse
+iab handleRespondse handleResponse
 iab handleResponsde handleResponse
 iab handleResponxdse handleResponse
 iab handleResposnde handleResponse
@@ -13682,6 +13723,7 @@ iab nagtraully naturally
 iab nagtrually naturally
 iab naighty naughty
 iab naive naïve
+iab nallpointy ballpoint
 iab namake make
 iab nameas names
 iab namek name
@@ -14767,6 +14809,7 @@ iab paly play
 iab palying playing
 iab palylist playlist
 iab panet planet
+iab paninting painting
 iab paoper paper
 iab paplicaiton application
 iab paplications applications
@@ -14939,8 +14982,11 @@ iab pemranlntly permanently
 iab pemranntly permanently
 iab pemremnantly permanently
 iab penalyty penalty
+iab penceil pencil
+iab penci4l pencil
 iab pencial pencil
 iab pencisl pencils
+iab penciul pencil
 iab peneeetrate penetrate
 iab penellayty penalty
 iab penetracting penetrating
@@ -15325,6 +15371,7 @@ iab plyunnger plunger
 iab plyus plus
 iab pmotivator motivator
 iab pnael panel
+iab pnecil pencil
 iab poast past
 iab poastic plastic
 iab poblem problem
@@ -15416,6 +15463,7 @@ iab polinating pollinating
 iab politicain politician
 iab pollices polices
 iab pollled polled
+iab pon on
 iab ponit point
 iab ponitless pointless
 iab pont point
@@ -15709,6 +15757,7 @@ iab prefixds prefixes
 iab pregerred preferred
 iab pregvent prevent
 iab preice price
+iab preimim premium
 iab preiopsitions prepositions
 iab preiouvlulsy previously
 iab preivoius previous
@@ -17001,6 +17050,7 @@ iab reptillian reptilian
 iab reptition repetition
 iab repurcussions repercussions
 iab reqason reason
+iab reqeuest request
 iab reqeust request
 iab reqlly really
 iab reqquired required
@@ -17009,9 +17059,11 @@ iab reqrite rewrite
 iab reqruit recruit
 iab requapment equipment
 iab requeast request
+iab requeist request
 iab requesdt request
 iab requets requests
 iab requewts requests
+iab requezts request
 iab requiaite requisite
 iab requiare require
 iab requiatre require
@@ -17021,6 +17073,7 @@ iab requier require
 iab requierd required
 iab requiers requires
 iab requiest request
+iab requiested requested
 iab requiqred required
 iab requiqres requires
 iab requirea require
@@ -17040,13 +17093,17 @@ iab requirezs requires
 iab requirmeents requirements
 iab requirment requirement
 iab requisidte requisite
+iab requist request
 iab requitrre require
+iab requitrsyt request
 iab requiwre require
 iab requred required
 iab requried required
 iab requrign requiring
 iab requring requiring
 iab reqursts requests
+iab reqursty request
+iab requsetit request
 iab requsets requests
 iab requsite requisite
 iab requst request
@@ -17112,6 +17169,7 @@ iab resonaable reasonable
 iab resonable reasonable
 iab resond respond
 iab resonnance resonance
+iab resonse response
 iab resonses responses
 iab resonsibilites responsibilities
 iab resopond respond
@@ -17168,6 +17226,7 @@ iab responisibliteis responsibilities
 iab responisiblites responsibilities
 iab responisilbiites responsibilities
 iab responsaiblilites responsibilities
+iab responsde response
 iab responsiablyt responsibly
 iab responsibiilites responsibilities
 iab responsibiliites responsibilities
@@ -17196,6 +17255,7 @@ iab respoond respond
 iab resposibile responsible
 iab respositories repositories
 iab resposnbiel responsible
+iab resposne response
 iab resposnibel responsible
 iab resposnilsbl3 responsible
 iab resposnlibe responsible
@@ -17254,6 +17314,7 @@ iab retunr return
 iab retunred returned
 iab returend returned
 iab returhn return
+iab returnb return
 iab returnign returning
 iab returnsed returned
 iab returnxs returns
@@ -17278,6 +17339,7 @@ iab reuqiure require
 iab reuquest request
 iab reuquired required
 iab reuquirements requirements
+iab reurtrn return
 iab reusem resume
 iab reusiable reusable
 iab reuslts results
@@ -17476,6 +17538,7 @@ iab rprison prison
 iab rproduced produced
 iab rqually equally
 iab rqueoplment equipment
+iab rquest request
 iab rquire require
 iab rquired required
 iab rresults results
@@ -18145,6 +18208,7 @@ iab shiow show
 iab shioyuld should
 iab shipes ships
 iab shipmentREsponsde shipmentResponse
+iab shipmetn shipment
 iab shipmewnt shipment
 iab shipwors shipworms
 iab shirink shrink
@@ -18388,6 +18452,7 @@ iab sjouild should
 iab sjsut just
 iab sjust just
 iab skae sake
+iab skateboaredindg skateboarding
 iab skelatal skeletal
 iab skeptecism skepticism
 iab skillfyl skillful
@@ -21628,6 +21693,7 @@ iab werid weird
 iab werite write
 iab weriting writing
 iab werwe were
+iab wesather weather
 iab wetahter weather
 iab wevbsite website
 iab weven even
@@ -22427,34 +22493,3 @@ iab zooom zoom
 iab ztart start
 iab ztaships starships
 
-iab duplicatewd duplicated
-iab diffeerence difference
-iab handleRespondse handleResponse
-iab getShipmetn getShipment
-iab responsde response
-iab resposne response
-iab resonse response
-iab Dysnamuic Dynamic
-iab rquest request
-iab Shipmetn Shipment
-iab preimim premium
-iab reurtrn return
-iab authoriation authorization
-iab Shipmemnt Shipment
-iab requiest request
-iab reqursty request
-iab shipmetn shipment
-iab coinfig config
-iab datavdswe database
-iab requiested requested
-iab featuresx features
-iab featuesr features
-iab returnb return
-iab Detials Details
-iab requezts request
-iab requsetit request
-iab requist request
-iab requeist request
-iab requitrsyt request
-iab reqeuest request
-iab Descripotion Description
