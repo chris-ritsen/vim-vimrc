@@ -179,6 +179,8 @@ augroup filetypes
 
   " }}}2
 
+  autocmd! BufRead,BufNewFile * if &fileformat == 'unix' | syntax match Invisible /\r$/ conceal | setlocal conceallevel=2 | endif
+
 augroup END 
 
 " }}}1
