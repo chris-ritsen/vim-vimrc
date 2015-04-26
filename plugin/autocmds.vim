@@ -84,6 +84,9 @@ augroup filetypes
   autocmd! BufRead,BufNewFile *.json set filetype=json
   autocmd! BufRead,BufNewFile *.tex set filetype=tex
   autocmd! BufRead,BufNewFile .eslintrc set filetype=json
+
+  autocmd! BufRead,BufNewFile /tmp/zshecl* set filetype=zsh tw=0
+
   autocmd! BufRead,BufNewFile .lynxrc set filetype=lynx
   autocmd! BufRead,BufNewFile .offlineimaprc setlocal commentstring=#\ %s
   autocmd! BufRead,BufNewFile /etc/X11/xorg.conf.d/* setfiletype xf86conf
