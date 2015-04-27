@@ -7,6 +7,13 @@ if &tabpagemax < 50
   set tabpagemax=50
 endif
 
+if has('mouse_urxvt') && $TMUX == ''
+  " TODO: Interferes with tmux
+  set ttymouse=urxvt
+else
+  set ttymouse=xterm2
+endif
+
 "}}}2
 
 " General Settings {{{2
@@ -77,7 +84,6 @@ set tags=~/.git/tags,./tags,./TAGS,tags,TAGS,./tags,/usr/include/tags
 set textwidth=78
 set timeoutlen=500
 set ttyfast
-set ttymouse=xterm2
 set undodir=~/.vim/undo
 set undofile
 set undolevels=1000

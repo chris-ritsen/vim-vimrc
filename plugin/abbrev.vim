@@ -22512,3 +22512,6 @@ iab erasewr eraser
 iab erasewr eraser
 iab ifnally finally
 iab mpklayer mplayer
+iab evferything everything
+iab pytohon python
+iab optisons options
