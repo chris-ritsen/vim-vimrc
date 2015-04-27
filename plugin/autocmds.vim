@@ -107,6 +107,7 @@ augroup filetypes
   autocmd! BufReadPre,FileReadPre *.gpg,*.asc set noswapfile
 
   autocmd! FileType apache setlocal commentstring=#\ %s
+  autocmd! FileType cs setlocal commentstring=//\ %s
   autocmd! FileType css setlocal nowrap
   autocmd! FileType fstab setlocal commentstring=#\ %s
   autocmd! FileType haskell setlocal commentstring=--\ %s 
