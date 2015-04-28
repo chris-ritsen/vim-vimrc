@@ -7,7 +7,7 @@ if &tabpagemax < 50
   set tabpagemax=50
 endif
 
-if has('mouse_urxvt') && $TMUX == ''
+if has('mouse_urxvt') && $TERM == 'rxvt-unicode-256color' && $TMUX == ''
   " TODO: Interferes with tmux
   set ttymouse=urxvt
 else
