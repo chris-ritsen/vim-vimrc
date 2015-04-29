@@ -22519,3 +22519,6 @@ iab subs4equent subsequent
 iab whtawever whatever
 iab necexssary necessary
 iab gmae game
+iab LIke Like
+iab punctuartion punctuation
+iab pyt put
