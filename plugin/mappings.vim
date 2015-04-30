@@ -86,7 +86,7 @@ nnoremap <expr> <2-LeftMouse> foldclosed(line('.')) == -1 ? "\<2-LeftMouse>" : '
 nnoremap <leader>c :NERDTreeFind<CR>
 nnoremap <leader>d :call AddAbbrev()<cr>
 nnoremap <leader>n :NERDTreeToggle<CR>
-nnoremap <leader>s viw"0pb
+" nnoremap <leader>s viw"0pb
 nnoremap <silent> <C-h> 1zh
 nnoremap <silent> <C-l> 1zl
 nnoremap <silent> <Leader>e :e<CR>
@@ -121,7 +121,7 @@ noremap <down> <nop>
 
 " {{{2
 
-noremap <leader>g :vimgrep // **/*.<left><left><left><left><left><left><left>
+" noremap <leader>g :vimgrep // **/*.<left><left><left><left><left><left><left>
 noremap <leader>gf :e <cfile><cr>
 noremap <leader>w <esc>:w!<cr>
 noremap <silent> <F2> :NERDTreeToggle<CR>
@@ -155,7 +155,7 @@ vmap <s-k> <nop>
 
 vnoremap <Right> <Esc>:bn<CR>
 vnoremap <down> <nop>
-vnoremap <leader>s "+p
+" vnoremap <leader>s "+p
 vnoremap <silent> # :call VisualSearch('b')<CR>
 vnoremap <silent> * :call VisualSearch('f')<CR>
 vnoremap <silent> <Left> <Esc>:bp<CR>

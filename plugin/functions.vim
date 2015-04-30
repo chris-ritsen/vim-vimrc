@@ -3,7 +3,9 @@
 
 function! AddAbbrev()
 
-  " TODO: I doubt the reliability of this function
+  " TODO: I doubt the reliability of this function.
+
+  " TODO: Handle <c-c> and restore spell setting, <cword>.
 
   " {{{2
 

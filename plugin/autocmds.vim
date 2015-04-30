@@ -45,10 +45,10 @@ augroup Work
   let g:hostname = substitute(system('hostname'), "\n", "", "")
   let g:hostname_work = 'work_vm'
 
-  autocmd! BufRead,BufNewFile *.cshtml if g:hostname == g:hostname_work | setlocal filetype=html commentstring=@*%s*@ | source $VIMRC_PLUGIN_DIR/conceal.vim | endif
-  autocmd! BufRead,BufNewFile *cs if g:hostname == g:hostname_work | source $VIMRC_PLUGIN_DIR/conceal.vim | endif
+  " autocmd! BufRead,BufNewFile *.cshtml if g:hostname == g:hostname_work | setlocal filetype=html commentstring=@*%s*@ | source $VIMRC_PLUGIN_DIR/conceal.vim | endif
+  " autocmd! BufRead,BufNewFile *cs if g:hostname == g:hostname_work | source $VIMRC_PLUGIN_DIR/conceal.vim | endif
 
-  autocmd! Syntax html source $VIMRC_PLUGIN_DIR/conceal.vim
+  " autocmd! Syntax html source $VIMRC_PLUGIN_DIR/conceal.vim
 
   " }}}2
 
