@@ -166,11 +166,11 @@ let g:tagbar_width = 30
 
 " unite {{{2
 
-let g:unite_source_history_yank_enable = 1
-let g:unite_source_rec_max_cache_files = 0
-let g:unite_source_rec_max_cache_files = 20000
-let g:unite_source_rec_min_cache_files = 100
-let g:unite_source_rec_unit = 2000
+" let g:unite_source_history_yank_enable = 1
+" let g:unite_source_rec_max_cache_files = 0
+" let g:unite_source_rec_max_cache_files = 20000
+" let g:unite_source_rec_min_cache_files = 100
+" let g:unite_source_rec_unit = 2000
 
 " }}}2
 

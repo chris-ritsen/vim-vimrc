@@ -118,7 +118,7 @@ augroup filetypes
   autocmd! FileType slrnrc setlocal commentstring=%\ %s
   autocmd! FileType svnannotate cmap <buffer> q bwipeout
   autocmd! FileType text setlocal commentstring=%s 
-  autocmd! FileType unite call s:unite_settings()
+  " autocmd! FileType unite call s:unite_settings()
   autocmd! FileType text setlocal textwidth=78
   autocmd! FileType tmux setlocal commentstring=#\ %s foldmethod=marker
   autocmd! FileType vb setlocal commentstring='\ %s

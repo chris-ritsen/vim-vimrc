@@ -476,6 +476,7 @@ iab Functoins Functions
 iab GBut But
 iab GBy Gaby
 iab GEt Get
+iab GHere Here
 iab GIt Git
 iab GIven Given
 iab GOd God
@@ -1606,7 +1607,11 @@ iab Swigly Squiggly
 iab Switcihg Switching
 iab Syatem System
 iab Syhnopsis Synopsis
+iab Synatax Syntax
+iab Syntaax Syntax
+iab Syntaix Syntax
 iab Systmes Systems
+iab Sytnax Syntax
 iab TECHNCIAL TECHNICAL
 iab TESting Testing
 iab TEchnical Technical
@@ -5286,6 +5291,7 @@ iab codmptuers computers
 iab codmptyer computer
 iab codw code
 iab coe code
+iab coee code
 iab coeeficient coefficient
 iab coefefificent coefficient
 iab coefiicient coefficient
@@ -5407,6 +5413,7 @@ iab commasnds commands
 iab commencde commence
 iab commendary commentary
 iab commetawtor commentator
+iab commewnts comments
 iab comminicate communicate
 iab commited committed
 iab commitemnets commitments
@@ -6138,6 +6145,7 @@ iab convuluted convoluted
 iab cooffee coffee
 iab cookeis cookies
 iab cookines cookies
+iab coommentsa comments
 iab coompooents components
 iab coomputer computer
 iab coontainer container
@@ -7720,6 +7728,7 @@ iab dumpung dumping
 iab dunction function
 iab duntil until
 iab dupdate update
+iab duplaiced duplicated
 iab duplciagtes duplicates
 iab duplicatewd duplicated
 iab duplicatoin duplication
@@ -8820,6 +8829,7 @@ iab eveywhere everywhere
 iab evferthingm everything
 iab evfery every
 iab evferyone everyone
+iab evferything everything
 iab evffective effective
 iab evfforts efforts
 iab evicence evidence
@@ -10446,14 +10456,19 @@ iab highlgighetdd highlighted
 iab highlguth highlight
 iab highlighing highlighting
 iab highlighiting highlighting
+iab highlighitnign highlighting
 iab highlightying highlighting
 iab highlioghting highlighting
 iab highlithed highlighted
+iab highltiing highlighting
 iab highlught highlight
 iab highluighting highlighting
 iab higholight highlight
+iab hightling highlighting
 iab hightlit highlight
 iab hightlithgesd highlighted
+iab hightlithing highlighting
+iab hightliting highlighting
 iab hightly highly
 iab higlhighted highlighted
 iab higlhy highly
@@ -10858,6 +10873,7 @@ iab iexcept except
 iab ifinsihed finished
 iab ifles files
 iab ifmrmoaiotn information
+iab ifnally finally
 iab ifnreuyqlty infrequently
 iab ifnroawmtion information
 iab ifnromation information
@@ -10872,6 +10888,8 @@ iab ignornace ignorance
 iab ihas has
 iab ihere here
 iab ihighe higher
+iab ihighliting highlighting
+iab ihighltinig highlighting
 iab ihoriginal original
 iab ihstalled installed
 iab iimportant important
@@ -11487,6 +11505,7 @@ iab insepection inspection
 iab insescts insects
 iab insidght insight
 iab insidhgt insight
+iab insidse inside
 iab insiert insert
 iab insigh insight
 iab insipired inspired
@@ -13600,6 +13619,7 @@ iab mowstly mostly
 iab moy my
 iab mpanic panic
 iab mpeople people
+iab mpklayer mplayer
 iab mpore more
 iab mpre more
 iab mreember remember
@@ -14515,6 +14535,7 @@ iab optiocal optical
 iab optionsl options
 iab optiosn options
 iab optipons options
+iab optisons options
 iab optiuons options
 iab optkoins options
 iab optn open
@@ -16333,6 +16354,7 @@ iab pysical physical
 iab pysiologically physiologically
 iab pythonm python
 iab pythono python
+iab pytohon python
 iab pyton python
 iab pyupil pupil
 iab pyupul pupil
@@ -22492,26 +22514,3 @@ iab zooom zoom
 iab ztart start
 iab ztaships starships
 
-iab insidse inside
-iab coommentsa comments
-iab coee code
-iab ihighltinig highlighting
-iab Synatax Syntax
-iab highlighitnign highlighting
-iab Syntaix Syntax
-iab hightlithing highlighting
-iab highltiing highlighting
-iab GHere Here
-iab commewnts comments
-iab hightling highlighting
-iab Sytnax Syntax
-iab ihighliting highlighting
-iab Syntaax Syntax
-iab hightliting highlighting
-iab erasewr eraser
-iab erasewr eraser
-iab ifnally finally
-iab mpklayer mplayer
-iab evferything everything
-iab pytohon python
-iab optisons options
