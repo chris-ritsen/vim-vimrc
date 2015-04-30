@@ -808,6 +808,7 @@ iab Knolwedge Knowledge
 iab Knowlege Knowledge
 iab Krogrer Kroger
 iab LIEK LIKE
+iab LIke Like
 iab LInuz Linux
 iab LIving Living
 iab LOcation Location
@@ -10063,6 +10064,7 @@ iab glboal global
 iab glibal global
 iab glvoe glove
 iab glwoing glowing
+iab gmae game
 iab gmial gmail
 iab gmonye money
 iab gneerate generate
@@ -12299,6 +12301,7 @@ iab laoptop laptop
 iab laouts layouts
 iab laquer lacquer
 iab laquuer laquer
+iab laready already
 iab larealy largely
 iab larelgy largely
 iab largeley largely
@@ -13825,6 +13828,7 @@ iab necessaryily necessarily
 iab necessay necessary
 iab necessayr necessary
 iab necewsary necessary
+iab necexssary necessary
 iab necglect neglect
 iab nect next
 iab necxt next
@@ -16295,6 +16299,7 @@ iab puerilie puerile
 iab pugin plugin
 iab punchign punching
 iab punctiation punctuation
+iab punctuartion punctuation
 iab puncutuate punctuate
 iab pungching punching
 iab puraaase purchase
@@ -16352,6 +16357,7 @@ iab pysche psyche
 iab pysh push
 iab pysical physical
 iab pysiologically physiologically
+iab pyt put
 iab pythonm python
 iab pythono python
 iab pytohon python
@@ -19244,6 +19250,7 @@ iab submoduels submodules
 iab submsssion submission
 iab submuit submit
 iab subnscription subscription
+iab subs4equent subsequent
 iab subscfription subscription
 iab subscouuys subconscious
 iab subscrioption subscription
@@ -21871,6 +21878,7 @@ iab wholre whole
 iab whooses whooshes
 iab whoute white
 iab whowefver however
+iab whtawever whatever
 iab whtehre whether
 iab whterer whether
 iab whty why
