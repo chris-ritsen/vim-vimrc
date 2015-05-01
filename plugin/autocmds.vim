@@ -70,6 +70,8 @@ augroup filetypes
   " autocmd! Syntax c,cpp,javascript,php,java,xml,html,xhtml setlocal foldmethod=syntax
   " autocmd! Syntax c,cpp,javascript,php,xml,html,xhtml,perl normal zR
 
+  autocmd! FileType make setlocal noexpandtab
+
   autocmd! Syntax javascript setlocal makeprg=yeoman\ build
   autocmd! BufEnter * if &filetype == "" | setlocal filetype=text | endif
   autocmd! BufNewFile,BufRead *.zsh set foldmethod=marker

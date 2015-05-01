@@ -14,6 +14,10 @@ else
   set ttymouse=xterm2
 endif
 
+if &diff
+  set diffopt+=iwhite
+endif
+
 "}}}2
 
 " General Settings {{{2
