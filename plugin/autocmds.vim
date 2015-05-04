@@ -6,9 +6,9 @@ autocmd! BufWritePre *.js :%s/\s\+$//e
 
 " {{{2
 
-autocmd! FileType html,markdown setlocal omnifunc=htmlcomplete#CompleteTags foldmethod=indent
+autocmd! FileType markdown setlocal omnifunc=htmlcomplete#CompleteTags foldmethod=indent
 autocmd! FileType javascript setlocal foldmethod=marker foldmarker={,}
-autocmd! FileType xml setlocal foldmethod=syntax
+" autocmd! FileType xml setlocal foldmethod=syntax commentstring=\<!--\ %s\ -->
 
 " }}}2
 
@@ -129,7 +129,7 @@ augroup filetypes
 
   autocmd! Syntax c,cpp,php,perl setlocal foldmethod=syntax | normal zM
   autocmd! Syntax javascript,vim setlocal foldmethod=marker | normal zM
-  autocmd! Syntax xml,html,xhtml setlocal foldmethod=indent | normal zM
+  autocmd! Syntax xml,html,xhtml setlocal foldmethod=indent commentstring=\<!--\ %s\ --> | normal zM
 
   " }}}3
 
