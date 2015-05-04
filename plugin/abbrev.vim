@@ -1704,6 +1704,7 @@ iab Tehrefore Therefore
 iab Tehse These
 iab Tehsse These
 iab Telk Tell
+iab Tempaltes Templates
 iab Temporarf Temporary
 iab Terrible3 Terrible
 iab Tesitng Testing
@@ -5720,6 +5721,7 @@ iab conculusion conclusion
 iab condesning condensing
 iab condiction condition
 iab condisidering considering
+iab conditaionlly conditionally
 iab conditaions conditions
 iab conditinoning conditioning
 iab conditioanl conditional
@@ -12443,6 +12445,7 @@ iab ledgendaryu legendary
 iab ledgendayr legendary
 iab ledgennndardy legendary
 iab ledgerg ledger
+iab ledt left
 iab leeaves leaves
 iab leecticity electricity
 iab leectric electric
@@ -13463,6 +13466,7 @@ iab mobnile mobile
 iab mocern modern
 iab modafininal modafinil
 iab modafinuil modafinil
+iab modalTempalte modalTemplate
 iab modfiy modify
 iab modicied modified
 iab modifcations modifications
@@ -16528,6 +16532,7 @@ iab rbeself oneself
 iab rcecordings recordings
 iab rcompletely completely
 iab rcomputer computer
+iab rcope scope
 iab reaal real
 iab reaceivec received
 iab reacently recently
@@ -17146,6 +17151,7 @@ iab reqyired required
 iab rercoerced recorded
 iab rereouted rerouted
 iab reridgerate refrigerate
+iab rerturend returned
 iab rerutn return
 iab resaearchers researchers
 iab resaerachers researchers
@@ -17805,6 +17811,7 @@ iab sconstant constant
 iab scool school
 iab scopres scores
 iab scorll scroll
+iab scorp scope
 iab scould could
 iab scqale scale
 iab scratchning scratching
@@ -18295,6 +18302,7 @@ iab shthis this
 iab shuch such
 iab shuft shift
 iab shulffle shuffle
+iab shumpment shipment
 iab shup ship
 iab shurely surely
 iab shxousl should
@@ -22522,10 +22530,3 @@ iab zooom zoom
 iab ztart start
 iab ztaships starships
 
-iab modalTempalte modalTemplate
-iab shumpment shipment
-iab rerturend returned
-iab Tempaltes Templates
-iab rcope scope
-iab scorp scope
-iab ledt left
