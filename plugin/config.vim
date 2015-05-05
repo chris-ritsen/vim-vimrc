@@ -30,7 +30,7 @@ let mapleader = "\\"
 let NERDTreeHijackNetrw= 1
 let NERDTreeMinimalUI = 1
 let NERDTreeShowLineNumbers = 1
-let g:NERDTreeIgnore = ['\.o$', '\.fixed\.svg$']
+let g:NERDTreeIgnore = ['\.o$', '\.fixed\.svg$', '\.git/']
 let g:NERDTreeShowLineNumbers = 0
 let g:NERDTreeWinSize='22'
 
