@@ -22535,3 +22535,9 @@ iab zooom zoom
 iab ztart start
 iab ztaships starships
 
+iab righ5 right
+iab varaibels variables
+iab styels styles
+iab presetnationn presentation
+iab separtinag separating
+iab eelmetns elements
