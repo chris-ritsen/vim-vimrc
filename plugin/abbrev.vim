@@ -481,6 +481,7 @@ iab GIt Git
 iab GIven Given
 iab GOd God
 iab GOign Going
+iab GOing Going
 iab GOod Good
 iab GOodbye Goodbye
 iab GOodnight Goodnight
@@ -838,6 +839,7 @@ iab Lgoic Logic
 iab Lieutenent Lieutenant
 iab Lihnux Linux
 iab Lijnux Linux
+iab Likley Likely
 iab Limzu Linuz
 iab Linuc Linux
 iab Linuxs Linux
@@ -1462,6 +1464,7 @@ iab STrand Strand
 iab STrategist Strategist
 iab SUch Such
 iab SUper Super
+iab SYstem System
 iab Safelu Safely
 iab Samage Damage
 iab Samatha Samantha
@@ -11465,6 +11468,7 @@ iab injeted injected
 iab injhect inject
 iab injitialice initialize
 iab inlcidnations inclinations
+iab inlie inline
 iab inlnei inline
 iab inmages images
 iab inmpants implants
@@ -21914,6 +21918,7 @@ iab widsgets widgets
 iab widsh wish
 iab widsth width
 iab widteg widget
+iab widwth width
 iab wiebstes websites
 iab wiedgets widgets
 iab wieght weight
@@ -22530,6 +22535,3 @@ iab zooom zoom
 iab ztart start
 iab ztaships starships
 
-iab SYstem System
-iab inlie inline
-iab widwth width
