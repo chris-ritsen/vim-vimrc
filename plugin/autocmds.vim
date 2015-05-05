@@ -109,7 +109,7 @@ augroup filetypes
   autocmd! BufReadPre,FileReadPre *.gpg,*.asc set noswapfile
 
   autocmd! FileType apache setlocal commentstring=#\ %s
-  autocmd! FileType cs setlocal commentstring=//\ %s
+  autocmd! FileType cs setlocal commentstring=//\ %s softtabstop=4 tabstop=4 shiftwidth=4
   autocmd! FileType css setlocal nowrap
   autocmd! FileType fstab setlocal commentstring=#\ %s
   autocmd! FileType haskell setlocal commentstring=--\ %s 
