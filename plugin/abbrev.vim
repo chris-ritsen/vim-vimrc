@@ -948,6 +948,11 @@ iab Miek Mike
 iab Mihcigan Michigan
 iab Mikke Mike
 iab Minainted Maintained
+iab Miscelelanious Miscellaneous
+iab Miscellaneoius Miscellaneous
+iab Miscellanoius Miscellaneous
+iab Miscellanous Miscellaneous
+iab Miscellanoyus Miscellaneous
 iab Mischevious Mischievous
 iab Mischoevious Mischievous
 iab Miscihoevious Mischievous
@@ -6551,6 +6556,7 @@ iab dataqbase database
 iab dataqbases databases
 iab datavdswe database
 iab datbase database
+iab datepuicker datepicker
 iab daughtor daughter
 iab dauy day
 iab daydraem daydream
@@ -8147,6 +8153,7 @@ iab elemenbts elements
 iab elementaery elementary
 iab elementayr elementary
 iab elementes elements
+iab elementsa elements
 iab elemetn element
 iab elemetns elements
 iab eleminate eliminate
@@ -8192,6 +8199,7 @@ iab elllft left
 iab elmeent element
 iab elmeents elements
 iab elmeinated eliminated
+iab elmenet element
 iab elment element
 iab elments elements
 iab elmiate eliminate
@@ -12111,6 +12119,7 @@ iab jusit just
 iab jusitfy justify
 iab justfying justifying
 iab justifu justify
+iab justofy justify
 iab justoiify justify
 iab justy just
 iab justyfi justify
@@ -13352,6 +13361,7 @@ iab miscleannies miscellanies
 iab misclelaneties miscellanies
 iab misclelanneties miscellanies
 iab misclelanouys miscellaneous
+iab misclellaneous miscellaneous
 iab miscllanneus miscellaneous
 iab misclleanous miscellaneous
 iab misclleneus miscellaneous
@@ -21535,6 +21545,7 @@ iab vrazzy crazy
 iab vresions versions
 iab vriting writing
 iab vrsion version
+iab vslaue value
 iab vverything everything
 iab vvisible visible
 iab waapon weapon
@@ -22543,27 +22554,3 @@ iab zooom zoom
 iab ztart start
 iab ztaships starships
 
-<<<<<<< HEAD
-=======
-iab righ5 right
-iab varaibels variables
-iab styels styles
-iab presetnationn presentation
-iab separtinag separating
-iab eelmetns elements
-iab WOrkflow Workflow
-iab fielset fieldset
-iab misclellaneous miscellaneous
-iab Miscellaneoius Miscellaneous
-iab Miscellanoius Miscellaneous
-iab Miscelelanious Miscellaneous
-iab Miscellanous Miscellaneous
-iab Miscellanoyus Miscellaneous
-iab elementsa elements
-iab gorup group
-iab justofy justify
-iab vslaue value
-iab OTDO TODO
-iab datepuicker datepicker
-iab elmenet element
->>>>>>> ec92a5c490976e7c45f305d913a266972390b7bc
