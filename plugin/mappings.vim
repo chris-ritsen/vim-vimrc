@@ -133,7 +133,9 @@ noremap <silent> <F8> :setlocal spell! spelllang=en_us <CR>
 noremap <silent> <Left> <Esc>:bp<CR>
 noremap <silent> <Right> <Esc>:bn<CR>
 noremap <silent> <leader>m :make!<CR>
+
 noremap <silent> <leader>y :wa! \| Git commit -am'updated everything blindly.' && git push<CR>
+
 noremap [Down] gj
 noremap [Up] gk
 noremap j gj
@@ -167,6 +169,10 @@ vnoremap <up> <nop>
 
 " TODO: {{{1
 " TODO: set this up {{{2
+
+" cmap <c-j> <esc>
+imap <c-j> <esc>
+nmap <c-j> :
 
 " %!xmlformat --indent 2 --indent-char ' '  --preserve 'style foreignobject' --outencoding 'utf-8' -
 
