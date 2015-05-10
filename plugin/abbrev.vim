@@ -22577,3 +22577,4 @@ iab comtpuer computer
 iab tmyx tmux
 iab easiler easier
 iab haeadings headings
+iab ceho echo
