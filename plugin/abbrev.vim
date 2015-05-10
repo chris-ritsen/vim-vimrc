@@ -22568,3 +22568,12 @@ iab Retn Rent
 iab CHeck Check
 iab tilte title
 iab enviromentmentt environment
+iab arrau array
+iab asuync async
+iab oranized organized
+iab orgnaised organised
+iab comtpuers computers
+iab comtpuer computer
+iab tmyx tmux
+iab easiler easier
+iab haeadings headings
