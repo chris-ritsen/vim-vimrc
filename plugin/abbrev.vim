@@ -22624,3 +22624,4 @@ iab fomrming forming
 iab sysnctronise synchronise
 iab locok lock
 iab xmonawd xmonad
+iab syuper super
