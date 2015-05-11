@@ -22627,3 +22627,5 @@ iab ztart start
 iab ztaships starships
 
 iab margniu margin
+iab necesasary necessary
+iab inptu input
