@@ -8,6 +8,7 @@ autocmd! BufWritePre *.js :%s/\s\+$//e
 
 autocmd! FileType markdown setlocal omnifunc=htmlcomplete#CompleteTags foldmethod=indent
 autocmd! FileType javascript setlocal foldmethod=marker foldmarker={,}
+autocmd! FileType lisp setlocal foldmethod=syntax commentstring=;\ %s
 " autocmd! FileType xml setlocal foldmethod=syntax commentstring=\<!--\ %s\ -->
 
 " }}}2
