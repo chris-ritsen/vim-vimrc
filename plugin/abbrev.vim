@@ -22629,3 +22629,9 @@ iab ztaships starships
 iab margniu margin
 iab necesasary necessary
 iab inptu input
+iab contionue continue
+iab idewa idea
+iab tryinig trying
+iab hesitatite hesitate
+iab Typuing Typing
+iab aned and
