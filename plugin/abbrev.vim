@@ -951,6 +951,7 @@ iab Miek Mike
 iab Mihcigan Michigan
 iab Mikke Mike
 iab Minainted Maintained
+iab Mintues Minutes
 iab Miscelelanious Miscellaneous
 iab Miscellaneoius Miscellaneous
 iab Miscellanoius Miscellaneous
@@ -1841,6 +1842,7 @@ iab Tyoing Typing
 iab Typially Typically
 iab Typinhg Typing
 iab Typiung Typing
+iab Typuing Typing
 iab Typunfg Typing
 iab UNder Under
 iab UNivsere Universe
@@ -2815,6 +2817,7 @@ iab alrday already
 iab alrdya already
 iab alread already
 iab alreaddy already
+iab alreadey already
 iab alreadgy already
 iab alreadhy already
 iab alreadt already
@@ -2956,6 +2959,7 @@ iab andr and
 iab andswer answer
 iab andt and
 iab aneabled enabled
+iab aned and
 iab anem name
 iab anems names
 iab aneuysm aneurysm
@@ -3465,6 +3469,7 @@ iab argmnuemtns arguments
 iab argmuemtns arguments
 iab argmuetnns arguments
 iab arguemnts arguments
+iab arguemtnes arguments
 iab arguemtns arguments
 iab arguemtsn arguments
 iab arguenmtenss arguments
@@ -4517,6 +4522,7 @@ iab broight brought
 iab brokjne broken
 iab brokne broken
 iab brophter brother
+iab brosaers browsers
 iab broser browser
 iab broswer browser
 iab broubght brought
@@ -4787,6 +4793,7 @@ iab captiainu captain
 iab captial capital
 iab captian captain
 iab captiojn caption
+iab caqble cable
 iab caracter character
 iab carbed carved
 iab cardboarc cardboard
@@ -4908,6 +4915,7 @@ iab cevlver clever
 iab cewnter center
 iab cfalse false
 iab cfirst first
+iab cgabge change
 iab cgateroy category
 iab cguide guide
 iab chaanel channel
@@ -5864,6 +5872,7 @@ iab connecteed connected
 iab connecteivity connectivity
 iab connectionn connection
 iab connectiosn connections
+iab connectory connector
 iab connedtion connection
 iab connet connect
 iab conneting connecting
@@ -6071,6 +6080,7 @@ iab continuiysly continuously
 iab continuoally continually
 iab continuoing continuing
 iab continyous continuous
+iab contionue continue
 iab contiously continuously
 iab contirbutaion contribution
 iab contirbuting contributing
@@ -6545,6 +6555,7 @@ iab damagie damage
 iab damamged damaged
 iab damamging damaging
 iab damange damage
+iab damanged damaged
 iab damoen daemon
 iab damqged damaged
 iab dancesrs dancers
@@ -7066,6 +7077,7 @@ iab dfefined defined
 iab dfevleoped developed
 iab dfid did
 iab dfinding finding
+iab dfireceive directive
 iab dfirst first
 iab dfo do
 iab dfrom from
@@ -7266,6 +7278,8 @@ iab direcrtory directory
 iab directated directed
 iab directes directs
 iab directiory directory
+iab directiveTEmplates directiveTemplates
+iab directiveTemplaets directiveTemplates
 iab directlyh directly
 iab directorty directory
 iab direcxting directing
@@ -9065,6 +9079,7 @@ iab exhivits exhibits
 iab exiccted exacted
 iab exiccted excited
 iab exicting existing
+iab exiesting existing
 iab exiot exit
 iab exisitign existing
 iab exisiting existing
@@ -9848,6 +9863,7 @@ iab fuclker fucker
 iab fucndtion function
 iab fucndtionaltity functionality
 iab fucndtions functions
+iab fucnftion function
 iab fucnntion function
 iab fucntiojn function
 iab fucntioms functions
@@ -10384,6 +10400,7 @@ iab headacehe headache
 iab headest headset
 iab headet headset
 iab headhones headphones
+iab headiphones headphones
 iab headpbones headphones
 iab headphens headphones
 iab headpheosn headphones
@@ -10401,6 +10418,7 @@ iab headsset headset
 iab healhty healthy
 iab healwth health
 iab heapdohnes headphones
+iab heapdones headphones
 iab heardrs headers
 iab heards hearts
 iab hearricut haricut
@@ -10467,6 +10485,7 @@ iab heritige heritage
 iab heros heroes
 iab hersefl herself
 iab hesistate hesitate
+iab hesitatite hesitate
 iab hestitate hesitate
 iab hestitations hesitations
 iab hewre here
@@ -10889,6 +10908,7 @@ iab identitcal identical
 iab identlfiying identifying
 iab identuify identify
 iab idet diet
+iab idewa idea
 iab idfeas ideas
 iab idfifuclt difficult
 iab idgiitized digitized
@@ -12750,6 +12770,7 @@ iab loggic logic
 iab loggin login
 iab logicallly logically
 iab logicatio logically
+iab logicd logic
 iab logicial logical
 iab logijn login
 iab loginc login
@@ -13883,6 +13904,7 @@ iab neceesary necessary
 iab neceessary necessary
 iab necesaarilty necessarily
 iab necesarrily necessarily
+iab necesary necessary
 iab necesasary necessary
 iab necesasry necessary
 iab necessaary necessary
@@ -14312,6 +14334,7 @@ iab ocdes codes
 iab ocer over
 iab ocffee coffee
 iab oclor color
+iab ocmaptiable compatible
 iab ocme come
 iab ocmeb come
 iab ocmes comes
@@ -14625,6 +14648,7 @@ iab ordre order
 iab ordred ordered
 iab ordser order
 iab oreder order
+iab orederd ordered
 iab oredr order
 iab oreiented oriented
 iab orer order
@@ -14991,6 +15015,7 @@ iab partihg parting
 iab partitionnn partition
 iab partk park
 iab partsLsit partsList
+iab partsd parts
 iab partsf parts
 iab partucular particular
 iab partyl partly
@@ -16969,6 +16994,7 @@ iab relfections reflections
 iab relfects reflects
 iab relfelctions reflections
 iab reliabilty reliability
+iab reliablitiy reliability
 iab reliablity reliability
 iab reliabluilty reliability
 iab relide relied
@@ -17088,6 +17114,7 @@ iab repetetive repetitive
 iab repetiotion repetition
 iab repettitive repetitive
 iab replacemnet replacement
+iab replacemten replacement
 iab replacemtn replacement
 iab replacerd replaced
 iab replae replace
@@ -20447,6 +20474,9 @@ iab tihs this
 iab tije time
 iab tijme time
 iab tilte title
+iab timepicekr timepicker
+iab timepicket timepicker
+iab timepickre timepicker
 iab timess times
 iab timestmaps timestamps
 iab timet time
@@ -20826,6 +20856,7 @@ iab tryifng trying
 iab tryign trying
 iab tryin trying
 iab tryingh trying
+iab tryinig trying
 iab tryly truly
 iab tryting trying
 iab tryu try
@@ -21026,6 +21057,7 @@ iab uncenssaesary unnecessary
 iab uncertinty uncertainty
 iab unchekc uncheck
 iab unckeck uncheck
+iab uncliockable unclickable
 iab uncnecessary unnecessary
 iab uncober uncover
 iab uncomforatable uncomfortable
@@ -21616,6 +21648,7 @@ iab vould would
 iab vovws vows
 iab vrazzy crazy
 iab vresions versions
+iab vriables variables
 iab vriting writing
 iab vrsion version
 iab vslaue value
@@ -22630,18 +22663,3 @@ iab zooom zoom
 iab ztart start
 iab ztaships starships
 
-iab timepickre timepicker
-iab timepicekr timepicker
-iab fucnftion function
-iab brosaers browsers
-iab uncliockable unclickable
-iab timepicket timepicker
-iab cgabge change
-iab arguemtnes arguments
-iab cnosoel console
-iab Mintues Minutes
-iab logicd logic
-iab necesary necessary
-iab dfireceive directive
-iab directiveTEmplates directiveTemplates
-iab directiveTemplaets directiveTemplates
