@@ -3674,6 +3674,7 @@ iab atract attract
 iab atre are
 iab atribute attribute
 iab atributes attributes
+iab atributesa attribute
 iab atributess attributes
 iab atrribute attribute
 iab atrributes attributes
@@ -4780,6 +4781,7 @@ iab capitalksie capitalise
 iab capitiswe capitalise
 iab capitlaise capitalise
 iab capitlise capitalise
+iab capitralize capitalize
 iab capittalise3 capitalise
 iab capitualate capitulate
 iab capitualet capitulate
@@ -5096,6 +5098,7 @@ iab cinfined confined
 iab cinsisted consisted
 iab cinsistent consistent
 iab cinsoiering considering
+iab cinsole console
 iab cinsoxtent consistent
 iab cinstructor constructor
 iab cintinue continue
@@ -5199,6 +5202,7 @@ iab clled called
 iab cllhotes clothes
 iab clmaps clamps
 iab clnsomle console
+iab clocl clock
 iab cloduay cloudy
 iab cloehts clothes
 iab cloen clone
@@ -5300,6 +5304,7 @@ iab cnjugations conjugations
 iab cnosle console
 iab cnosnle console
 iab cnosnoel console
+iab cnosoe console
 iab cnosoel console
 iab cnosoelll console
 iab cnosole console
@@ -6964,6 +6969,7 @@ iab detewct detect
 iab detial detail
 iab detials details
 iab detyails details
+iab deubgger debugger
 iab devceloping developing
 iab devekioer developer
 iab devekopers developers
@@ -8000,6 +8006,7 @@ iab eending ending
 iab eenemeies enemies
 iab eenemy enemy
 iab eenergy energy
+iab eenvenet event
 iab eerors errors
 iab eessentially essentially
 iab eeven even
@@ -8580,6 +8587,7 @@ iab epxlaination explanation
 iab epxlajin explain
 iab epxlorer explorer
 iab epxoerience experience
+iab epxortds exports
 iab eqaillly equally
 iab eqalully equally
 iab eqasyt easy
@@ -9240,6 +9248,7 @@ iab expoeiure experience
 iab exporitng exporting
 iab exporlation exportation
 iab exporst exports
+iab exporsts exports
 iab exposuer exposure
 iab expousre exposure
 iab exprected expected
@@ -9883,6 +9892,7 @@ iab fuhirst first
 iab fuile file
 iab fuilter filter
 iab fuinction function
+iab fuinctiuno function
 iab fuinds finds
 iab fuinisdhed finished
 iab fukcgin fucking
@@ -10218,6 +10228,7 @@ iab guaratnees guarantees
 iab guarentee guarantee
 iab guarenteed guaranteed
 iab guarentees guarantees
+iab guart guard
 iab guesas guess
 iab guesssing guessing
 iab guide3 guide
@@ -10665,6 +10676,7 @@ iab houseohldl household
 iab housr hours
 iab housrs hours
 iab houw how
+iab houyr hour
 iab hovernement government
 iab hovwering hovering
 iab hovwring hovering
@@ -13747,6 +13759,7 @@ iab mucsic music
 iab mugh much
 iab mught might
 iab muindane mundane
+iab muinutes minutes
 iab muisuci music
 iab multidimenational multidimensional
 iab multidutedes multitudes
@@ -14787,6 +14800,7 @@ iab outide outside
 iab outl out
 iab outlineed outlined
 iab outpiut output
+iab outpline outline
 iab outsidse outside
 iab outsiourced outsourced
 iab outsisde outside
@@ -15376,6 +15390,7 @@ iab physiucs physics
 iab physuical physical
 iab physuicsl physics
 iab phyucail physical
+iab picekr picker
 iab pictuer picture
 iab pictuere picture
 iab picuture picture
@@ -17469,6 +17484,7 @@ iab reuqiure require
 iab reuquest request
 iab reuquired required
 iab reuquirements requirements
+iab reurtnr return
 iab reurtrn return
 iab reusem resume
 iab reusiable reusable
@@ -17697,6 +17713,7 @@ iab rthought thought
 iab rtime time
 iab rto to
 iab rtoo too
+iab rturen return
 iab rueles rules
 iab rugelar regular
 iab rughly roughly
@@ -21453,6 +21470,7 @@ iab valueable valuable
 iab valueation valuation
 iab valuefs values
 iab valuesa values
+iab valuey value
 iab valuid valid
 iab valuue value
 iab valuye value
@@ -21639,6 +21657,7 @@ iab volitiale volatile
 iab volitile volatile
 iab volymes volumes
 iab vomputret computer
+iab vondolr console
 iab vop cop
 iab vords words
 iab vork work
