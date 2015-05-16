@@ -168,7 +168,6 @@ autocmd! Syntax xml,html,xhtml setlocal foldmethod=indent commentstring=\<!--\ %
 " autocmd! Syntax c,cpp,javascript,php,xml,html,xhtml,perl normal zC
 " autocmd! Syntax c,cpp,javascript,php,xml,html,xhtml,perl normal zR
 
-
 " }}}
 
 
