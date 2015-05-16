@@ -82,7 +82,7 @@ augroup filetypes
   autocmd! BufNewFile,BufRead *.ldg,*.ledger setf ledger
   autocmd! BufNewFile,BufRead *.svg set foldmethod=syntax
   autocmd! BufRead,BufNewFile *.aspx,*.asmx,*.ascx set filetype=aspnet 
-  autocmd! BufRead,BufNewFile ~/.config/tmux/* setfiletype tmux
+
   autocmd! BufRead,BufNewFile *.css.map set filetype=json
   autocmd! BufRead,BufNewFile *.json set filetype=json
   autocmd! BufRead,BufNewFile *.tex set filetype=tex
@@ -123,7 +123,6 @@ augroup filetypes
   autocmd! FileType text setlocal commentstring=%s 
   " autocmd! FileType unite call s:unite_settings()
   autocmd! FileType text setlocal textwidth=78
-  autocmd! FileType tmux setlocal commentstring=#\ %s foldmethod=marker
   autocmd! FileType vb setlocal commentstring='\ %s
   autocmd! FileType xml setlocal equalprg=xmllint\ --format\ --recover\ -\ 2>/dev/null
   autocmd! FileType xpm set nowrap
@@ -131,6 +130,13 @@ augroup filetypes
   autocmd! Syntax c,cpp,php,perl setlocal foldmethod=syntax | normal zM
   autocmd! Syntax javascript,vim setlocal foldmethod=marker | normal zM
   autocmd! Syntax xml,html,xhtml setlocal foldmethod=indent commentstring=\<!--\ %s\ --> | normal zM
+
+  " tmux {{{
+
+  autocmd! BufRead,BufNewFile ~/.config/tmux/* setfiletype tmux
+  autocmd! FileType tmux setlocal commentstring=#\ %s foldmethod=marker tw=0
+
+  " }}}4
 
   " }}}3
 
