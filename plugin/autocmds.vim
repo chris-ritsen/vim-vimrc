@@ -108,7 +108,13 @@ autocmd! BufRead,BufNewFile *.tex set filetype=tex
 
 autocmd! BufRead,BufNewFile .lynxrc set filetype=lynx
 autocmd! BufRead,BufNewFile .offlineimaprc setlocal commentstring=#\ %s
+
+autocmd! BufRead,BufNewFile ~/.config/X11/* setlocal filetype=xdefaults
+autocmd! BufRead,BufNewFile ~/.Xresources setlocal filetype=xdefaults
+autocmd! FileType xdefaults setlocal commentstring=/*\ %s\ */
+
 autocmd! BufRead,BufNewFile /etc/X11/xorg.conf.d/* setfiletype xf86conf
+
 autocmd! BufRead,BufNewFile /etc/nginx/nginx.conf,/usr/local/nginx/conf/* setfiletype nginx
 
 " Email {{{
@@ -181,6 +187,12 @@ autocmd! FileType tmux setlocal commentstring=#\ %s foldmethod=marker tw=0
 " }}}4
 
 " }}}3
+
+
+" lircd
+
+autocmd! BufRead,BufNewFile /usr/local/etc/lirc/lircd.conf.d/lircd.conf setlocal foldmethod=marker commentstring=#\ %s
+autocmd! BufRead,BufNewFile /usr/local/etc/lirc/lircd.conf.d/*.conf setlocal foldmethod=marker commentstring=#\ %s
 
 " xmonad {{{3
 
