@@ -42,7 +42,6 @@ inoremap <F6> <nop>
 inoremap <F7> <nop>
 inoremap <F8> <nop>
 inoremap <F9> <nop>
-inoremap <MouseMiddle> "*p
 inoremap <down> <nop>
 inoremap <expr> <CR> pumvisible() ? "\<C-y>" : "\<C-g>u\<CR>"
 inoremap <silent> <C-S-j> <cr>
@@ -67,7 +66,6 @@ map Q <nop>
 
 nmap <space> \
 nmap [z zM
-nmap <MiddleMouse> <nop>
 nmap <s-k> <nop>
 nmap <s-k> <nop>
 nmap ]z zR
@@ -82,7 +80,6 @@ nnoremap <C-c> <nop>
 nnoremap <F6> :!vlock<cr>
 nnoremap <Q <nop>
 nnoremap <down> <nop>
-nnoremap <expr> <2-LeftMouse> foldclosed(line('.')) == -1 ? "\<2-LeftMouse>" : 'zo'
 nnoremap <leader>c :NERDTreeFind<CR>
 nnoremap <leader>d :call AddAbbrev()<cr>
 nnoremap <leader>n :NERDTreeToggle<CR>
@@ -104,13 +101,6 @@ nnoremap Y y$
 " }}}1
 
 " noremap {{{1
-" {{{2
-
-noremap <2-LeftMouse> :execute 'normal gF'<cr>
-noremap <3-LeftMouse> zA<cr>
-noremap <RightMouse> 
-
-" }}}2
 
 " {{{2
 "
@@ -177,6 +167,19 @@ nmap <c-j> :
 " %!xmlformat --indent 2 --indent-char ' '  --preserve 'style foreignobject' --outencoding 'utf-8' -
 
 " }}}2
+" }}}1
+
+" Mouse {{{1
+
+" noremap <RightMouse> 
+
+inoremap <MouseMiddle> "*p
+nmap <MiddleMouse> <nop>
+nnoremap <expr> <2-LeftMouse> foldclosed(line('.')) == -1 ? "\<2-LeftMouse>" : 'zo'
+noremap <2-LeftMouse> :execute 'normal gF'<cr>
+noremap <3-LeftMouse> zA<cr>
+noremap <RightMouse> <nop>
+
 " }}}1
 
 " Dead Code {{{1
