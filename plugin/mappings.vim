@@ -1,21 +1,26 @@
 
 " cmap {{{1
+
 " {{{2
 
 cmap w!! w !sudo tee % >/dev/null
 
 " }}}2
+
 " }}}1
 
 " cnoremap {{{1
+
 " {{{2
 
 cnoremap <C-G> <C-U><BS>
 
 " }}}2
+
 " }}}1
 
 " imap {{{1
+
 " {{{2
 
 imap  <nop>
@@ -24,9 +29,11 @@ imap <C-Space> <C-x><C-o>
 imap <C-x><C-o> <nop>
 
 " }}}2
+
 " }}}1
 
 " inoremap {{{1
+
 " {{{2
 
 inoremap <F10> <nop>
@@ -50,18 +57,22 @@ inoremap <silent> <Right> <Esc>:bn<CR>gg
 inoremap <up> <nop>
 
 " }}}2
+
 " }}}1
 
 " map {{{1
+
 " {{{2
 
 map <F1> <nop>
 map Q <nop>
 
 " }}}2
+
 " }}}1
 
 " nmap {{{1
+
 " {{{2
 
 nmap <space> \
@@ -71,10 +82,14 @@ nmap <s-k> <nop>
 nmap ]z zR
 
 " }}}2
+
 " }}}1
 
 " nnoremap {{{1
+
 " {{{2
+
+" nnoremap <leader>s viw"0pb
 
 nnoremap <C-c> <nop>
 nnoremap <F6> :!vlock<cr>
@@ -83,13 +98,11 @@ nnoremap <down> <nop>
 nnoremap <leader>c :NERDTreeFind<CR>
 nnoremap <leader>d :call AddAbbrev()<cr>
 nnoremap <leader>n :NERDTreeToggle<CR>
-" nnoremap <leader>s viw"0pb
 nnoremap <silent> <C-h> 1zh
 nnoremap <silent> <C-l> 1zl
 nnoremap <silent> <Leader>e :e<CR>
 nnoremap <silent> <Left> <Esc>:bp<CR>
 nnoremap <silent> <Right> <Esc>:bn<CR>
-nnoremap <silent> <leader>l :r !date -u +"\%Y-\%m-\%dT\%H:\%M:\%SZ"<CR>zt A — 
 nnoremap <silent><leader>h :noh<CR>
 nnoremap <silent>x x:call Redefine_x_ForVirtualEdit()<CR>
 nnoremap <up> <nop>
@@ -98,12 +111,13 @@ nnoremap K <nop>
 nnoremap Y y$
 
 " }}}2
+
 " }}}1
 
 " noremap {{{1
 
 " {{{2
-"
+
 noremap <up> <nop>
 noremap <down> <nop>
 
@@ -112,6 +126,7 @@ noremap <down> <nop>
 " {{{2
 
 " noremap <leader>g :vimgrep // **/*.<left><left><left><left><left><left><left>
+
 noremap <leader>gf :e <cfile><cr>
 noremap <leader>w <esc>:w!<cr>
 noremap <silent> <F2> :NERDTreeToggle<CR>
@@ -132,22 +147,27 @@ noremap j gj
 noremap k gk
 
 " }}}2
+
 " }}}1
 
 " vmap {{{1
+
 " {{{2
 
 vmap <s-k> <nop>
 
 " }}}2
+
 " }}}1
 
 " vnoremap {{{1
+
 " {{{2
+
+" vnoremap <leader>s "+p
 
 vnoremap <Right> <Esc>:bn<CR>
 vnoremap <down> <nop>
-" vnoremap <leader>s "+p
 vnoremap <silent> # :call VisualSearch('b')<CR>
 vnoremap <silent> * :call VisualSearch('f')<CR>
 vnoremap <silent> <Left> <Esc>:bp<CR>
@@ -155,18 +175,22 @@ vnoremap <silent> gv :call VisualSearch('gv')<CR>
 vnoremap <up> <nop>
 
 " }}}2
+
 " }}}1
 
 " TODO: {{{1
+
 " TODO: set this up {{{2
 
 " cmap <c-j> <esc>
+
 imap <c-j> <esc>
 nmap <c-j> :
 
 " %!xmlformat --indent 2 --indent-char ' '  --preserve 'style foreignobject' --outencoding 'utf-8' -
 
 " }}}2
+
 " }}}1
 
 " Mouse {{{1

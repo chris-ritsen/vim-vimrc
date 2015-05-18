@@ -220,7 +220,6 @@ autocmd! BufRead,BufNewFile ~/.irssi/config,~/.irssi/default.theme setfiletype c
 
 " SSH {{{3
 
-autocmd! BufRead,BufNewFile ~/.ssh/config setfiletype sshconfig
 autocmd! FileType sshconfig set nowrap foldmethod=indent
 
 " }}}3
@@ -291,6 +290,12 @@ autocmd! FileType json set textwidth=78 shiftwidth=2
 augroup END 
 
 " }}}1
+
+" Notes {{{
+
+autocmd! BufRead,BufNewFile ~/Documents/notes nnoremap <silent> <leader>l :r !date -u +"\%Y-\%m-\%dT\%H:\%M:\%SZ"<CR>zt A — 
+
+" }}}
 
 " Dead {{{1
 
