@@ -83,7 +83,6 @@ autocmd! BufNewFile,BufRead *.zsh set foldmethod=marker
 
 " }}}4
 
-autocmd! BufNewFile,BufRead *.css,*.scss set foldmethod=marker fmr={,}
 autocmd! BufNewFile,BufRead *.ldg,*.ledger setf ledger
 
 " Dot Net {{{
@@ -97,9 +96,10 @@ autocmd! FileType vb setlocal commentstring='\ %s
 " Stylesheets {{{
 
 autocmd! BufRead,BufNewFile *.css.map set filetype=json
-autocmd! BufReadPost *.css,*scss silent! g/base64.\+/normal zc " close base64 images
-autocmd! FileType css setlocal nowrap
-autocmd! FileType scss setlocal nowrap
+autocmd! FileType css, scss, less setlocal nowrap foldmethod=indent fmr={,}
+
+" Intent being to close folds overbase64 images.
+autocmd! BufReadPost *.css,*scss silent! g/base64.\+/normal zc
 
 " }}}4
 
