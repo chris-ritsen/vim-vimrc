@@ -96,7 +96,10 @@ autocmd! FileType vb setlocal commentstring='\ %s
 " Stylesheets {{{
 
 autocmd! BufRead,BufNewFile *.css.map set filetype=json
-autocmd! FileType css, scss, less setlocal nowrap foldmethod=indent fmr={,}
+
+autocmd! FileType css setlocal nowrap foldmethod=indent fmr={,} 
+autocmd! FileType less setlocal nowrap foldmethod=indent fmr={,}
+autocmd! FileType scss setlocal nowrap foldmethod=indent fmr={,} 
 
 " Intent being to close folds overbase64 images.
 autocmd! BufReadPost *.css,*scss silent! g/base64.\+/normal zc
