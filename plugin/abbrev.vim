@@ -22706,3 +22706,22 @@ iab zooom zoom
 iab ztart start
 iab ztaships starships
 
+iab omdel model
+iab Vakye Value
+iab scropt scope
+iab sciopet scope
+iab sopce scope
+iab scopde scope
+iab reutirn return
+iab ncosle console
+iab objct object
+iab realdly really
+iab iut it
+iab niull null
+iab wowrk work
+iab rutentr return
+iab detials details
+iab wisth width
+iab repsonsive responsive
+iab paddingL padding
+iab bototm bottom
