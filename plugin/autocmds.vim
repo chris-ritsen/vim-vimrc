@@ -1,37 +1,22 @@
 
-" Web Development {{{1
-
-autocmd! BufReadPost *.jshintrc setf json
-autocmd! BufWritePre *.js :%s/\s\+$//e
-
-" {{{2
-
-autocmd! FileType markdown setlocal omnifunc=htmlcomplete#CompleteTags foldmethod=indent
-autocmd! FileType javascript setlocal foldmethod=marker foldmarker={,}
-autocmd! FileType lisp setlocal foldmethod=syntax commentstring=;\ %s
-" autocmd! FileType xml setlocal foldmethod=syntax commentstring=\<!--\ %s\ -->
-
-" }}}2
-
-" }}}1
-
-" {{{1
+" Binary {{{1
 
 augroup Binary           
 
-  " TODO: - Make this also work without matching filenames
-  autocmd!
-  " TODO: - Check return value of xdd for errors
-  autocmd! BufReadPre *.exe let &bin=1
+" TODO: - Make this also work without matching filenames
+autocmd!
 
-  autocmd! BufReadPost *.exe if &bin | silent %!xxd -c 16
-  autocmd! BufReadPost *.exe set ft=xxd | endif
+" TODO: - Check return value of xdd for errors
+autocmd! BufReadPre *.exe let &bin=1
 
-  autocmd! BufWritePre *.exe if &bin | silent %!xxd -r -c 16
-  autocmd! BufWritePre *.exe endif
+autocmd! BufReadPost *.exe if &bin | silent %!xxd -c 16
+autocmd! BufReadPost *.exe set ft=xxd | endif
 
-  autocmd! BufWritePost *.exe if &bin | silent %!xxd -c 16
-  autocmd! BufWritePost *.exe set nomod | endif
+autocmd! BufWritePre *.exe if &bin | silent %!xxd -r -c 16
+autocmd! BufWritePre *.exe endif
+
+autocmd! BufWritePost *.exe if &bin | silent %!xxd -c 16
+autocmd! BufWritePost *.exe set nomod | endif
 
 augroup END
 
@@ -41,195 +26,281 @@ augroup END
 
 augroup Work           
 
-  " Use four spaces, conceal as two {{{2
+" Use four spaces, conceal as two {{{2
 
-  let g:hostname = substitute(system('hostname'), "\n", "", "")
-  let g:hostname_work = 'work_vm'
+let g:hostname = substitute(system('hostname'), "\n", "", "")
+let g:hostname_work = 'work_vm'
 
-  " autocmd! BufRead,BufNewFile *.cshtml if g:hostname == g:hostname_work | setlocal filetype=html commentstring=@*%s*@ | source $VIMRC_PLUGIN_DIR/conceal.vim | endif
-  " autocmd! BufRead,BufNewFile *cs if g:hostname == g:hostname_work | source $VIMRC_PLUGIN_DIR/conceal.vim | endif
+" autocmd! BufRead,BufNewFile *.cshtml if g:hostname == g:hostname_work | setlocal filetype=html commentstring=@*%s*@ | source $VIMRC_PLUGIN_DIR/conceal.vim | endif
+" autocmd! BufRead,BufNewFile *cs if g:hostname == g:hostname_work | source $VIMRC_PLUGIN_DIR/conceal.vim | endif
 
-  " autocmd! Syntax html source $VIMRC_PLUGIN_DIR/conceal.vim
+" autocmd! Syntax html source $VIMRC_PLUGIN_DIR/conceal.vim
 
-  " }}}2
+" }}}2
 
 augroup END
 
 " }}}1
 
-" {{{1
+" filetypes {{{1
 
 augroup filetypes 
 
-  " {{{2
+" {{{2
 
-  " Misc {{{3
+" Misc {{{3
 
-  " autocmd! Syntax c,cpp,javascript,php,xml,html,xhtml,perl normal zC
+" c {{{
 
-  " TODO: Not happy with this
-  " autocmd! Syntax c,cpp,javascript,php,java,xml,html,xhtml setlocal foldmethod=syntax
-  " autocmd! Syntax c,cpp,javascript,php,xml,html,xhtml,perl normal zR
+autocmd! BufNewFile,BufRead *.c,*.cpp set foldmethod=syntax
+autocmd! Syntax c,cpp,php,perl setlocal foldmethod=syntax | normal zM
 
-  autocmd! FileType make setlocal noexpandtab
+" }}}4
 
-  autocmd! Syntax javascript setlocal makeprg=yeoman\ build
-  autocmd! BufEnter * if &filetype == "" | setlocal filetype=text | endif
-  autocmd! BufNewFile,BufRead *.zsh set foldmethod=marker
+" {{{
 
-  autocmd! BufNewFile,BufRead *.c,*.cpp set foldmethod=syntax
-  autocmd! BufNewFile,BufRead *.css,*.scss set foldmethod=marker fmr={,}
-  autocmd! BufNewFile,BufRead *.ldg,*.ledger setf ledger
-  autocmd! BufNewFile,BufRead *.svg set foldmethod=syntax
-  autocmd! BufRead,BufNewFile *.aspx,*.asmx,*.ascx set filetype=aspnet 
-  autocmd! BufRead,BufNewFile ~/.config/tmux/* setfiletype tmux
-  autocmd! BufRead,BufNewFile *.css.map set filetype=json
-  autocmd! BufRead,BufNewFile *.json set filetype=json
-  autocmd! BufRead,BufNewFile *.tex set filetype=tex
-  autocmd! BufRead,BufNewFile .eslintrc set filetype=json
+autocmd! FileType markdown setlocal omnifunc=htmlcomplete#CompleteTags foldmethod=indent
+autocmd! FileType lisp setlocal foldmethod=syntax commentstring=;\ %s
 
-  autocmd! BufRead,BufNewFile /tmp/zshecl* set filetype=zsh tw=0
+" }}}
 
-  autocmd! BufRead,BufNewFile .lynxrc set filetype=lynx
-  autocmd! BufRead,BufNewFile .offlineimaprc setlocal commentstring=#\ %s
-  autocmd! BufRead,BufNewFile /etc/X11/xorg.conf.d/* setfiletype xf86conf
-  autocmd! BufRead,BufNewFile /etc/nginx/nginx.conf,/usr/local/nginx/conf/* setfiletype nginx
-  autocmd! BufRead,BufNewFile /tmp/mutt* if &filetype == '' | setfiletype mail | endif 
-  autocmd! BufRead,BufNewFile ~/.config/mailcap setlocal nowrap
-  autocmd! BufRead,BufNewFile ~/.config/mutt/* if &filetype == '' | setfiletype muttrc | endif " would also like nowrap
+autocmd! FileType make setlocal noexpandtab
 
-  autocmd! BufRead,BufNewFile ~/.config/mpd/mpd.conf setfiletype conf
-  autocmd! BufRead,BufNewFile ~/.config/mpd/mpd.conf set foldmethod=marker foldmarker={,}
+" JavaScript {{{
 
-  autocmd! BufRead,BufNewFile ~/.offlineimaprc setfiletype conf
-  autocmd! BufRead,BufNewFile ~/.mail/* if &filetype == '' | setfiletype mail | endif 
-  autocmd! BufRead,BufNewFile ~/mail/* if &filetype == '' | setfiletype mail | endif 
-  autocmd! BufRead,BufWrite *.inc,*.php,*.hs if ! &bin | silent! %s/\s\+$//ge | endif
-  autocmd! BufRead,BufWrite *.inc,*.php,*.hs if ! &bin | silent! :%s/ \+\ze\t//ge | endif
-  autocmd! BufReadPost *.css,*scss silent! g/base64.\+/normal zc " close base64 images
-  autocmd! BufReadPre,FileReadPre *.gpg,*.asc set noswapfile
+autocmd! BufRead,BufNewFile .eslintrc set filetype=json
+autocmd! BufReadPost *.jshintrc setf json
+autocmd! BufWritePre *.js :%s/\s\+$//e
+autocmd! FileType javascript setlocal foldmethod=marker foldmarker={,}
+autocmd! Syntax javascript,vim setlocal foldmethod=marker | normal zM
 
-  autocmd! FileType apache setlocal commentstring=#\ %s
-  autocmd! FileType cs setlocal commentstring=//\ %s softtabstop=4 tabstop=4 shiftwidth=4
-  autocmd! FileType css setlocal nowrap
-  autocmd! FileType fstab setlocal commentstring=#\ %s
-  autocmd! FileType haskell setlocal commentstring=--\ %s 
-  autocmd! FileType json setlocal nowrap
-  autocmd! FileType lynx setlocal commentstring=#\ %s
-  autocmd! FileType nginx setlocal commentstring=#\ %s
-  autocmd! FileType scss setlocal nowrap
-  autocmd! FileType slrnrc setlocal commentstring=%\ %s
-  autocmd! FileType svnannotate cmap <buffer> q bwipeout
-  autocmd! FileType text setlocal commentstring=%s 
-  " autocmd! FileType unite call s:unite_settings()
-  autocmd! FileType text setlocal textwidth=78
-  autocmd! FileType tmux setlocal commentstring=#\ %s foldmethod=marker
-  autocmd! FileType vb setlocal commentstring='\ %s
-  autocmd! FileType xml setlocal equalprg=xmllint\ --format\ --recover\ -\ 2>/dev/null
-  autocmd! FileType xpm set nowrap
+" }}}4
 
-  autocmd! Syntax c,cpp,php,perl setlocal foldmethod=syntax | normal zM
-  autocmd! Syntax javascript,vim setlocal foldmethod=marker | normal zM
-  autocmd! Syntax xml,html,xhtml setlocal foldmethod=indent commentstring=\<!--\ %s\ --> | normal zM
+" zsh {{{
 
-  " }}}3
+autocmd! BufRead,BufNewFile /tmp/zshecl* set filetype=zsh tw=0
+autocmd! BufNewFile,BufRead *.zsh set foldmethod=marker
 
-  " xmonad {{{3
+" }}}4
 
-  autocmd! BufRead,BufNewFile ~/.xmonad/xmonad.hs setfiletype haskell | set foldmethod=indent commentstring=--\ %s
+autocmd! BufNewFile,BufRead *.ldg,*.ledger setf ledger
 
-  " }}}3
+" Dot Net {{{
 
-  " xmodmap {{{3
+autocmd! BufRead,BufNewFile *.aspx,*.asmx,*.ascx set filetype=aspnet 
+autocmd! FileType cs setlocal commentstring=//\ %s softtabstop=4 tabstop=4 shiftwidth=4
+autocmd! FileType vb setlocal commentstring='\ %s
 
-  autocmd! BufRead,BufNewFile ~/.xmodmap setfiletype xmodmap | set foldmethod=marker commentstring=!\ %s 
+" }}}4
 
-  " }}}3
+" Stylesheets {{{
 
-  " xbindkeys {{{3
+autocmd! BufRead,BufNewFile *.css.map set filetype=json
 
-  autocmd! BufRead,BufNewFile ~/.xbindkeys setfiletype conf | set foldmethod=indent commentstring=#\ %s 
+autocmd! FileType css setlocal nowrap foldmethod=indent fmr={,} 
+autocmd! FileType less setlocal nowrap foldmethod=indent fmr={,}
+autocmd! FileType scss setlocal nowrap foldmethod=indent fmr={,} 
 
-  " }}}3
+" Intent being to close folds overbase64 images.
+autocmd! BufReadPost *.css,*scss silent! g/base64.\+/normal zc
 
-  " irssi {{{3
+" }}}4
 
-  autocmd! BufRead,BufNewFile ~/.irssi/config,~/.irssi/default.theme setfiletype conf | set foldmethod=marker fmr={,} 
+autocmd! BufRead,BufNewFile *.json set filetype=json
+autocmd! BufRead,BufNewFile *.tex set filetype=tex
 
-  " }}}3
+autocmd! BufRead,BufNewFile .lynxrc set filetype=lynx
+autocmd! BufRead,BufNewFile .offlineimaprc setlocal commentstring=#\ %s
 
-  " SSH {{{3
+autocmd! BufRead,BufNewFile ~/.config/X11/* setlocal filetype=xdefaults
+autocmd! BufRead,BufNewFile ~/.Xresources setlocal filetype=xdefaults
+autocmd! FileType xdefaults setlocal commentstring=/*\ %s\ */
 
-  autocmd! BufRead,BufNewFile ~/.ssh/config setfiletype sshconfig
-  autocmd! FileType sshconfig set nowrap foldmethod=indent
+autocmd! BufRead,BufNewFile /etc/X11/xorg.conf.d/* setfiletype xf86conf
 
-  " }}}3
+autocmd! BufRead,BufNewFile /etc/nginx/nginx.conf,/usr/local/nginx/conf/* setfiletype nginx
 
-  " vim {{{3
+" Email {{{
 
-  " autocmd! BufEnter vim setlocal foldmethod=marker | normal zM 
-  autocmd! BufNewFile,BufRead *.vim 
-  autocmd! BufRead,BufNewFile ~/.config/vim/plugins/pathogen/autoload/pathogen.vim set foldmethod=marker
-  autocmd! FileType vim setlocal commentstring=\"\ %s 
-  autocmd! Syntax vim setlocal foldmethod=marker | normal zM
+autocmd! BufRead,BufNewFile ~/.config/mailcap setlocal nowrap
+autocmd! BufRead,BufNewFile ~/.mail/* if &filetype == '' | setfiletype mail | endif 
+autocmd! BufRead,BufNewFile ~/mail/* if &filetype == '' | setfiletype mail | endif 
 
-  " }}}3
+" mutt {{{
 
-  " }}}2
+autocmd! BufRead,BufNewFile ~/.config/mutt/* if &filetype == '' | setfiletype muttrc | endif " would also like nowrap
+autocmd! BufRead,BufNewFile /tmp/mutt* if &filetype == '' | setfiletype mail | endif 
 
-  " {{{2
+" }}}5
 
-  " This doesn't work all that well
-  " autocmd! BufRead,BufNewFile *.js setlocal makeprg=yeoman\ build
-  autocmd! BufRead,BufNewFile *.json setlocal equalprg=python\ -mjson.tool\ 2>/dev/null 
-  autocmd! FileType json setlocal equalprg=python\ -mjson.tool\ 2>/dev/null 
+" }}}4
 
-  " }}}2
+autocmd! BufRead,BufNewFile ~/.config/mpd/mpd.conf setfiletype conf
+autocmd! BufRead,BufNewFile ~/.config/mpd/mpd.conf set foldmethod=marker foldmarker={,}
 
-  autocmd! BufRead,BufNewFile * if &fileformat == 'unix' | syntax match Invisible /\r$/ conceal | setlocal conceallevel=2 | endif
+autocmd! BufRead,BufNewFile ~/.offlineimaprc setfiletype conf
+autocmd! BufRead,BufWrite *.inc,*.php,*.hs if ! &bin | silent! %s/\s\+$//ge | endif
+autocmd! BufRead,BufWrite *.inc,*.php,*.hs if ! &bin | silent! :%s/ \+\ze\t//ge | endif
+autocmd! BufReadPre,FileReadPre *.gpg,*.asc set noswapfile
+
+" Web servers {{{
+
+autocmd! FileType apache setlocal commentstring=#\ %s
+autocmd! FileType nginx setlocal commentstring=#\ %s
+
+" }}}
+
+autocmd! FileType fstab setlocal commentstring=#\ %s
+autocmd! FileType haskell setlocal commentstring=--\ %s 
+autocmd! FileType json setlocal nowrap
+autocmd! FileType lynx setlocal commentstring=#\ %s
+autocmd! FileType slrnrc setlocal commentstring=%\ %s
+autocmd! FileType svnannotate cmap <buffer> q bwipeout
+
+" text {{{
+
+autocmd! FileType text setlocal commentstring=%s 
+autocmd! BufEnter * if &filetype == "" | setlocal filetype=text | endif
+autocmd! FileType text setlocal textwidth=78
+
+ " }}}
+
+" xml {{{
+
+autocmd! BufNewFile,BufRead *.svg set foldmethod=syntax
+autocmd! FileType xml setlocal equalprg=xmllint\ --format\ --recover\ -\ 2>/dev/null
+autocmd! FileType xpm set nowrap
+autocmd! Syntax xml,html,xhtml setlocal foldmethod=indent commentstring=\<!--\ %s\ --> | normal zM
+
+" autocmd! FileType xml setlocal foldmethod=syntax commentstring=\<!--\ %s\ -->
+" autocmd! Syntax c,cpp,javascript,php,java,xml,html,xhtml setlocal foldmethod=syntax
+" autocmd! Syntax c,cpp,javascript,php,xml,html,xhtml,perl normal zC
+" autocmd! Syntax c,cpp,javascript,php,xml,html,xhtml,perl normal zR
+
+" }}}
+
+
+" autocmd! FileType unite call s:unite_settings()
+
+" tmux {{{
+
+autocmd! BufRead,BufNewFile ~/.config/tmux/* setfiletype tmux
+autocmd! FileType tmux setlocal commentstring=#\ %s foldmethod=marker tw=0
+
+" }}}4
+
+" }}}3
+
+
+" lircd
+
+autocmd! BufRead,BufNewFile /usr/local/etc/lirc/lircd.conf.d/lircd.conf setlocal foldmethod=marker commentstring=#\ %s
+autocmd! BufRead,BufNewFile /usr/local/etc/lirc/lircd.conf.d/*.conf setlocal foldmethod=marker commentstring=#\ %s
+
+" xmonad {{{3
+
+autocmd! BufRead,BufNewFile ~/.xmonad/xmonad.hs setfiletype haskell | set foldmethod=indent commentstring=--\ %s
+
+" }}}3
+
+" xmodmap {{{3
+
+autocmd! BufRead,BufNewFile ~/.xmodmap setfiletype xmodmap | set foldmethod=marker commentstring=!\ %s 
+
+" }}}3
+
+" xbindkeys {{{3
+
+autocmd! BufRead,BufNewFile ~/.xbindkeys setfiletype conf | set foldmethod=indent commentstring=#\ %s 
+
+" }}}3
+
+" irssi {{{3
+
+autocmd! BufRead,BufNewFile ~/.irssi/config,~/.irssi/default.theme setfiletype conf | set foldmethod=marker fmr={,} 
+
+" }}}3
+
+" SSH {{{3
+
+autocmd! FileType sshconfig set nowrap foldmethod=indent
+
+" }}}3
+
+" vim {{{3
+
+autocmd! BufNewFile,BufRead *.vim 
+autocmd! BufRead,BufNewFile ~/.config/vim/plugins/pathogen/autoload/pathogen.vim set foldmethod=marker
+autocmd! FileType vim setlocal commentstring=\"\ %s 
+autocmd! Syntax vim setlocal foldmethod=marker | normal zM
+
+" }}}3
+
+" }}}2
+
+" {{{2
+
+autocmd! BufRead,BufNewFile *.json setlocal equalprg=python\ -mjson.tool\ 2>/dev/null 
+autocmd! FileType json setlocal equalprg=python\ -mjson.tool\ 2>/dev/null 
+
+" }}}2
+
+autocmd! BufRead,BufNewFile * if &fileformat == 'unix' | syntax match Invisible /\r$/ conceal | setlocal conceallevel=2 | endif
 
 augroup END 
 
 " }}}1
 
-" {{{1
+" Misc {{{1
 
 augroup misc 
 
-  " {{{2
+" {{{2
 
-  autocmd! BufEnter * if exists('b:winview') | call winrestview(b:winview) | endif
-  autocmd! BufLeave * let b:winview = winsaveview()
-  autocmd! BufReadPost *.doc %!antiword "%"
-  autocmd! BufReadPost *.pdf silent %!pdftotext -layout -nopgbrk "%" -
-  autocmd! BufReadPre *.doc set hlsearch!
-  autocmd! BufReadPre *.doc set ro
-  autocmd! BufWritePre /tmp/* setlocal noundofile
-  autocmd! FocusGained * :
-  autocmd! FocusLost * :
-  autocmd! FocusLost * silent! wa
-  autocmd! bufenter * if (winnr("$") == 1 && exists("b:NERDTreeType") && b:NERDTreeType == "primary") | q | endif
+autocmd! BufEnter * if exists('b:winview') | call winrestview(b:winview) | endif
+autocmd! BufLeave * let b:winview = winsaveview()
+autocmd! BufReadPost *.doc %!antiword "%"
+autocmd! BufReadPost *.pdf silent %!pdftotext -layout -nopgbrk "%" -
+autocmd! BufReadPre *.doc set hlsearch!
+autocmd! BufReadPre *.doc set ro
+autocmd! BufWritePre /tmp/* setlocal noundofile
+autocmd! FocusGained * :
+autocmd! FocusLost * :
+autocmd! FocusLost * silent! wa
+autocmd! bufenter * if (winnr("$") == 1 && exists("b:NERDTreeType") && b:NERDTreeType == "primary") | q | endif
 
-  " }}}2
+" }}}2
 
 augroup END
 
 " }}}1
 
-" {{{1
+" JSON {{{1
+
 augroup json_autocmd 
 
-  " {{{2
-  autocmd! FileType json set autoindent 
-  autocmd! FileType json set expandtab 
-  autocmd! FileType json set foldmethod=syntax 
-  autocmd! FileType json set formatoptions=tcq2l 
-  autocmd! FileType json set softtabstop=2 tabstop=2 
-  autocmd! FileType json set textwidth=78 shiftwidth=2 
-  " }}}2
+" json filetype {{{2
+
+autocmd! FileType json set autoindent 
+autocmd! FileType json set expandtab 
+autocmd! FileType json set foldmethod=syntax 
+autocmd! FileType json set formatoptions=tcq2l 
+autocmd! FileType json set softtabstop=2 tabstop=2 
+autocmd! FileType json set textwidth=78 shiftwidth=2 
+
+" }}}2
 
 augroup END 
+
 " }}}1
+
+" Notes {{{
+"
+autocmd! FileType vidir-ls setlocal tw=0
+
+autocmd! BufRead,BufNewFile ~/Documents/notes nnoremap <silent> <leader>l :r !date -u +"\%Y-\%m-\%dT\%H:\%M:\%SZ"<CR>zt A — 
+
+" }}}
 
 " Dead {{{1
 
