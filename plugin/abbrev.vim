@@ -22797,3 +22797,11 @@ iab Sjhazam Shazam
 iab zsswh zsh
 iab asweomse awesome
 iab rpabably probably
+iab posisible possible
+iab windsow window
+iab switchdign switching
+iab becfore before
+iab werbsites websites
+iab INtereesting Interesting
+iab fuinctions functions
+iab interfedrred interfered
