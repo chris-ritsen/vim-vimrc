@@ -42,6 +42,8 @@ set foldmethod=marker
 set foldminlines=1
 set formatoptions+=nj
 set guiheadroom=0
+set sessionoptions-=localoptions
+set sessionoptions-=options
 set hidden
 set history=10000
 set nohlsearch
