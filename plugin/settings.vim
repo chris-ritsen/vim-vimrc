@@ -44,7 +44,7 @@ set formatoptions+=nj
 set guiheadroom=0
 set hidden
 set history=10000
-set hlsearch
+set nohlsearch
 set ignorecase
 set incsearch
 set iskeyword-=_
