@@ -3,6 +3,7 @@ cab GIt Git
 iab ABout About
 iab BROWSEWR BROWSER
 iab BUt But
+iab Bevause Because
 iab CHeck Check
 iab CHris Chris
 iab CHristttopoher Christopher
@@ -633,6 +634,7 @@ iab IMage Image
 iab IMagine Imagine
 iab IMplemeneted Implemented
 iab IMportnatn Important
+iab IMprotant Important
 iab IMprovigin Improving
 iab IMprovment Improvement
 iab INTEFEACE INTERFACE
@@ -713,6 +715,8 @@ iab Importnatl Important
 iab Importnatn Important
 iab Impotnat Important
 iab Imppulse Impulse
+iab Improatnt Important
+iab Improtan Important
 iab Improtant Important
 iab Improtnat Important
 iab Improvemnets Improvements
@@ -721,6 +725,7 @@ iab Improvign Improving
 iab Improvment Improvement
 iab Improvments Improvements
 iab Imrivoving Improving
+iab Imrpoatnt Important
 iab Imrporiving Improving
 iab Imrprovign Improving
 iab Imrpvogin Improving
@@ -1123,11 +1128,15 @@ iab PHase Phase
 iab PHaseers Phasers
 iab PHasers Phasers
 iab PHsysiscty Physicist
+iab PLEsaews Pleases
 iab PLEzsde Please
 iab PLan Plan
 iab PLanets Planets
 iab PLease Please
+iab PLeases Pleases
+iab PLeasews Pleases
 iab PLeaswe Please
+iab PLeswes Pleases
 iab PLot Plot
 iab PPHP PHP
 iab PROjdts Projects
@@ -1154,6 +1163,11 @@ iab Passsiontate Passionate
 iab Paswword Password
 iab Pefect Perfect
 iab Peices Pieces
+iab Pelase Please
+iab Pelases Pleases
+iab Pelasews Pleases
+iab Pelaswes Pleases
+iab Pelsaes Pleases
 iab Peopl People
 iab Peple People
 iab Perfomred Performed
@@ -1186,11 +1200,25 @@ iab PlaySTation PlayStation
 iab PlayStaiton PlayStation
 iab Playform Platform
 iab Playlisdt Playlist
+iab Pleasase Please
+iab Pleasd4 Please
 iab Pleasde Please
+iab Pleasesa Pleases
+iab Pleasews Pleases
+iab Pleasses Pleases
+iab Pleaswes Pleases
+iab Pleaxes Pleases
+iab Plesae Please
+iab Plesaes Pleases
+iab Plesases Pleases
+iab Plewsases Pleases
+iab Plewsawes Pleases
+iab Plsdeees Please
 iab Plusing Pulsing
 iab Poeople People
 iab Poeple People
 iab Poitns Points
+iab Polase Please
 iab Policey Policy
 iab Poluicy Policy
 iab Pontaic Pontiac
@@ -1652,6 +1680,7 @@ iab Syntaix Syntax
 iab Systmes Systems
 iab Sytnax Syntax
 iab TECHNCIAL TECHNICAL
+iab TESITNG TESTING
 iab TESting Testing
 iab TEchnical Technical
 iab TEchnique Technique
@@ -1702,6 +1731,7 @@ iab THursdasy Thursday
 iab TIgers Tigers
 iab TIme Time
 iab TJhsi This
+iab TOIDO TODO
 iab TOOD TODO
 iab TOday Today
 iab TOitanfall Titanfall
@@ -2116,6 +2146,7 @@ iab abalanced balanced
 iab abank bank
 iab abanonded abandoned
 iab abarely barely
+iab abbbreviation abbreviation
 iab abberations aberrations
 iab abberviations abbreviations
 iab abbout about
@@ -2748,6 +2779,7 @@ iab aibvlable available
 iab aidio audio
 iab aiewed viewed
 iab airshoip airship
+iab aisde aside
 iab ajust just
 iab ajvascript javascript
 iab aksed asked
@@ -3589,6 +3621,7 @@ iab asfter after
 iab ashared shared
 iab ashouls should
 iab asic basic
+iab asisde aside
 iab asisgnements assignments
 iab asjusting adjusting
 iab askeeed asked
@@ -3946,6 +3979,7 @@ iab ayting anything
 iab aytionation automation
 iab aytociorrections autocorrections
 iab ayutmatically automatically
+iab ayuto auto
 iab ayutocorrect autocorrect
 iab azctivity activity
 iab bBecause Because
@@ -4373,6 +4407,7 @@ iab blakzed blazed
 iab blalpint ballpoint
 iab blankiong blanking
 iab blaqck black
+iab blasck black
 iab blatent blatant
 iab blatheriing blathering
 iab blavk black
@@ -4380,6 +4415,7 @@ iab blcok block
 iab blcoked blocked
 iab blcoking blocking
 iab blcoks blocks
+iab blcol block
 iab bleieve believe
 iab bleieving believing
 iab bleifs beliefs
@@ -4405,6 +4441,7 @@ iab blooodport bloodsport
 iab blowking blowing
 iab blox block
 iab bloxk block
+iab blpck block
 iab blumy blimey
 iab bluss bliss
 iab bluye blue
@@ -4416,6 +4453,7 @@ iab bne be
 iab bneed need
 iab bneing being
 iab bnottomless bottomless
+iab bnox box
 iab bnucnh bunch
 iab bnuffer buffer
 iab bnusiance nuisance
@@ -4469,6 +4507,7 @@ iab borubhgt brought
 iab borught brought
 iab borwser browser
 iab borying boring
+iab botdert border
 iab botheirjing bothering
 iab botherd bothers
 iab bothg both
@@ -6748,6 +6787,7 @@ iab deepend deepen
 iab deeping deeply
 iab deeprer deeper
 iab deetail detail
+iab defauolt default
 iab defautls defaults
 iab defecdts defects
 iab defelopment development
@@ -7471,6 +7511,7 @@ iab displayes displays
 iab displayh display
 iab displayu display
 iab displayus displays
+iab disply display
 iab displyas displays
 iab dispoacement displacement
 iab dispoay display
@@ -8332,6 +8373,7 @@ iab eme me
 iab emebed embed
 iab emeeerge emerge
 iab emelemnetary elementary
+iab emelemtns elements
 iab emember remember
 iab emergyency emergency
 iab emiails emails
@@ -11231,6 +11273,7 @@ iab improtant important
 iab improtantn important
 iab improtantr important
 iab improtantrt important
+iab improtantt important
 iab improtarnt important
 iab improtatnart important
 iab improtnat important
@@ -11262,6 +11305,8 @@ iab impule impulse
 iab imput input
 iab imroving improving
 iab imrpoartn important
+iab imrpoatnrt important
+iab imrpoatnt important
 iab imrporatn important
 iab imrporght important
 iab imrportanrt important
@@ -12001,6 +12046,7 @@ iab ipmresseedd impressed
 iab iponeo iphone
 iab iportnat important
 iab ipossible possible
+iab iprmtpoatn important
 iab iprotant important
 iab iptions options
 iab irdser order
@@ -12012,6 +12058,7 @@ iab irequires requires
 iab irequring requiring
 iab irght right
 iab iridescnet iridescent
+iab irmpotaarnt important
 iab irmptarnt important
 iab irrelelevant irrelevant
 iab irrelelvant irrelevant
@@ -12100,6 +12147,7 @@ iab itlised utilised
 iab itlsef itself
 iab itme time
 iab itmestamps timestamps
+iab itnerepreation interpretation
 iab itnerest interest
 iab itnerested interested
 iab itnerface interface
@@ -12765,6 +12813,7 @@ iab littery lottery
 iab littl little
 iab littlb little
 iab littleb little
+iab liune line
 iab liunk link
 iab liuve live
 iab livews lives
@@ -12883,9 +12932,13 @@ iab lousey lousy
 iab lowecase lowercase
 iab loxsing losing
 iab lpatop laptop
+iab lpease please
+iab lpeasew please
+iab lpeawse please
 iab lplaceholder placeholder
 iab lplanetary planetary
 iab lplaying playing
+iab lplease please
 iab lqasers lasers
 iab lquid liquid
 iab lready already
@@ -13035,6 +13088,7 @@ iab maintined maintained
 iab maintinence maintenance
 iab maintiniagin maintaining
 iab maintnenahce maintenance
+iab mairng margin
 iab maitching matching
 iab maitnainable maintainable
 iab maitnained maintained
@@ -13331,6 +13385,7 @@ iab mesdsage message
 iab mesmarising mesmerising
 iab messagess messages
 iab messaggenrs messengers
+iab messdgy messy
 iab messgage message
 iab messsage message
 iab messsages messages
@@ -13597,6 +13652,7 @@ iab mnarch march
 iab mnaula manual
 iab mnay many
 iab mnch much
+iab mnecessary necessary
 iab mneed need
 iab mnenu menu
 iab mnetal mental
@@ -13911,6 +13967,7 @@ iab nallpointy ballpoint
 iab namake make
 iab nameas names
 iab namek name
+iab namepsace namespace
 iab namiung naming
 iab nanies nannies
 iab nanoying nannying
@@ -14215,6 +14272,7 @@ iab nowe now
 iab nowehre nowhere
 iab nowherer nowhere
 iab nowiing knowing
+iab nowpra nowrap
 iab nowrpa nowrap
 iab npt not
 iab nromal normal
@@ -14262,6 +14320,7 @@ iab nwant want
 iab nwat want
 iab nwes news
 iab nwo now
+iab nwrap nowrap
 iab nwwton newton
 iab nymber number
 iab nyunbmvers numbers
@@ -14911,6 +14970,7 @@ iab ovennn oven
 iab overahul overhaul
 iab overalyed overplayed
 iab overflw overflow
+iab overflwo overflow
 iab overfow overflow
 iab overhail overhaul
 iab overheasrs overhears
@@ -14988,6 +15048,8 @@ iab packagesd packages
 iab packagfes packages
 iab packcheck paycheck
 iab paclage package
+iab padddding padding
+iab paddding padding
 iab paddgin padding
 iab paddign padding
 iab paddingL padding
@@ -15152,6 +15214,7 @@ iab patte4rnbs patterns
 iab pattersn patterns
 iab pauase pause
 iab pauchekc paycheck
+iab pawdding padding
 iab pawge page
 iab paycejcjk paycheck
 iab paychkeck paycheck
@@ -15195,7 +15258,9 @@ iab peiopel people
 iab peiople people
 iab peiple people
 iab peipole people
+iab pelasde please
 iab pelase please
+iab pelase4 please
 iab pelaseure pleasure
 iab pemranlntly permanently
 iab pemranntly permanently
@@ -15554,14 +15619,26 @@ iab playiong playing
 iab plcae place
 iab plcaec place
 iab plces places
+iab pleaaasw please
+iab pleaase please
+iab pleaasse please
+iab pleadw please
+iab pleasde please
 iab pleasent pleasant
 iab pleasently pleasantly
 iab pleaseurable pleasurable
+iab pleasse please
+iab pleaswe please
+iab pleawse please
 iab plecostomous plecostomus
 iab plenety plenty
 iab plents planets
+iab plepase please
+iab plesae please
 iab plesase please
 iab pletny plenty
+iab plewaaae please
+iab plewase please
 iab plgague plague
 iab plguin plugin
 iab plguy plug
@@ -15570,6 +15647,8 @@ iab plgyh plug
 iab plhgin plugin
 iab plibraries libraries
 iab plkan plan
+iab plkweaaae please
+iab pllease please
 iab ploicies policies
 iab plolices polices
 iab plqaay player
@@ -15582,6 +15661,9 @@ iab pluplped pulped
 iab pluygin plugin
 iab pluynger plunger
 iab pluys plus
+iab plwaswe please
+iab plwease please
+iab plwewasew please
 iab plyg plug
 iab plynger plunger
 iab plyug plug
@@ -17256,6 +17338,7 @@ iab represetnation representation
 iab represetned represented
 iab represetnt represent
 iab represxsents represents
+iab repritn reprint
 iab reprocuded reproduced
 iab reproducable reproducible
 iab reprort report
@@ -17481,6 +17564,7 @@ iab responsibliites responsibilities
 iab responsibliitieis responsibilities
 iab responsiblities responsibilities
 iab responsiblity responsibility
+iab responsigve responsive
 iab responsiibiliteis responsibilities
 iab responsiiblites responsibilities
 iab responsiiblities responsibilities
@@ -17765,6 +17849,7 @@ iab rpboably probably
 iab rpeat repeat
 iab rpeating repeating
 iab rpeeat repeat
+iab rpefix prefix
 iab rpesentatuin presentation
 iab rpesenteeed presented
 iab rpessssssure pressure
@@ -18110,6 +18195,7 @@ iab sdsession session
 iab sdtandard standard
 iab sdtarted started
 iab sdtartgign starting
+iab sdtuff stuff
 iab sdvhool school
 iab seach each
 iab sealled sealed
@@ -18884,6 +18970,7 @@ iab soimethign something
 iab soimply simply
 iab soiunds sounds
 iab soldi solid
+iab soldid solid
 iab solition solution
 iab soltijon solution
 iab soltion solution
@@ -19454,6 +19541,7 @@ iab sturday saturday
 iab sturfct struct
 iab stustantioned sustained
 iab stuydy study
+iab stwart start
 iab stwitghc switch
 iab stya stay
 iab styandard standard
@@ -19563,6 +19651,7 @@ iab suitiable suitable
 iab suitible suitable
 iab suitilble suitable
 iab sultuoins solutions
+iab sumamry summary
 iab sumobulde submodule
 iab sunddenly suddenly
 iab sunds sounds
@@ -21366,6 +21455,7 @@ iab unkept unkempt
 iab unklikely unlikely
 iab unknon unknown
 iab unknonw unknown
+iab unknowne unknown
 iab unknowningly unknowingly
 iab unknwon unknown
 iab unknwone unknown
@@ -22324,6 +22414,7 @@ iab wneekend weekend
 iab wnehenver whenever
 iab wnen when
 iab wnet went
+iab wnorap nowrap
 iab wnzt want
 iab woahtewver whatever
 iab woant want
@@ -22383,6 +22474,7 @@ iab workeda worked
 iab workedd worked
 iab workeers workers
 iab workeres workers
+iab workflwo workflow
 iab workgin working
 iab workging working
 iab workginu working
@@ -22820,55 +22912,4 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab Pleasd4 Please
-iab Plesae Please
-iab Pelase Please
-iab Plsdeees Please
-iab Pleasase Please
-iab Pleasses Pleases
-iab Pelases Pleases
-iab Plesases Pleases
-iab Pelsaes Pleases
-iab Pleasesa Pleases
-iab Pleaswes Pleases
-iab Plesaes Pleases
-iab Pelaswes Pleases
-iab PLEsaews Pleases
-iab PLeswes Pleases
-iab Plewsawes Pleases
-iab Plewsases Pleases
-iab Pleasews Pleases
-iab PLeases Pleases
-iab PLeasews Pleases
-iab Pleaxes Pleases
-iab Pelasews Pleases
-iab Polase Please
-iab pleaase please
-iab pelase4 please
-iab lplease please
-iab lpeawse please
-iab pleasse please
-iab plewase please
-iab pleawse please
-iab plesae please
-iab plepase please
-iab pelasde please
-iab plewaaae please
-iab pllease please
-iab pleasde please
-iab lpease please
-iab pleaaasw please
-iab plwewasew please
-iab lpeasew please
-iab plkweaaae please
-iab pleaswe please
-iab pleaasse please
-iab plwaswe please
-iab pleadw please
-iab plwease please
-iab itnerepreation interpretation
-iab messdgy messy
-iab liune line
-iab stwart start
-iab abbbreviation abbreviation
-iab TOIDO TODO
+iab cinfig config

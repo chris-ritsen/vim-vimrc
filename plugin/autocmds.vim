@@ -294,6 +294,12 @@ augroup END
 
 " }}}1
 
+" Classic ASP {{{
+
+autocmd! FileType aspvbs setlocal noexpandtab
+
+" }}}1
+
 " Notes {{{
 "
 autocmd! FileType vidir-ls setlocal tw=0
