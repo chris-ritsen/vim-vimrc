@@ -273,6 +273,7 @@ iab ENgine Engine
 iab ENgineering Engineering
 iab ENglish English
 iab ENtertained Entertained
+iab ENtirely Entirely
 iab ERitsen Ritsen
 iab ESee See
 iab ESessntially Essentially
@@ -1475,6 +1476,7 @@ iab SEfveraal Several
 iab SEfveral Several
 iab SEnding Sending
 iab SErfvral Several
+iab SErver Server
 iab SEt Set
 iab SEtup Setup
 iab SEveral Several
@@ -4498,6 +4500,7 @@ iab borken broken
 iab borned born
 iab borother brother
 iab borowser browser
+iab borrer border
 iab borrw borrow
 iab borther brother
 iab borthesr brothers
@@ -9532,6 +9535,7 @@ iab featurez features
 iab featuyre feature
 iab featuyres features
 iab featyures features
+iab feautes features
 iab feaver fever
 iab feawture feature
 iab feawtures features
@@ -9749,6 +9753,7 @@ iab focux focus
 iab focuys focus
 iab focyusing focusing
 iab fodo food
+iab foeregot forgot
 iab fogive forgive
 iab foinsih finish
 iab foirst first
@@ -10840,6 +10845,7 @@ iab hteir their
 iab hteirs theirs
 iab hteis this
 iab htem them
+iab htema them
 iab hteme theme
 iab htemese themes
 iab htemselves themselves
@@ -11262,6 +11268,7 @@ iab impressses impresses
 iab impriving improving
 iab improaaarnt important
 iab improatnt important
+iab improatnty important
 iab improbing improving
 iab improbment improvement
 iab improced improved
@@ -12167,6 +12174,7 @@ iab itslelf itself
 iab ittile title
 iab ittle little
 iab itw it
+iab ity it
 iab iunfolding unfolding
 iab iunnder under
 iab iuntil until
@@ -14430,6 +14438,7 @@ iab obviousl obvious
 iab obviouslkuy obviously
 iab obviouslky obviously
 iab obviouslu obviously
+iab obviouslys obviously
 iab obviousylky obviously
 iab obviouysly obviously
 iab obviovuly obviously
@@ -15119,6 +15128,7 @@ iab paramaters parameters
 iab parameeter parameter
 iab parameneter parameter
 iab paramererts parameters
+iab parameterse parameters
 iab parametesr parameters
 iab parametesrs parameters
 iab paramiters parameters
@@ -17437,6 +17447,7 @@ iab requwests requests
 iab reqwritten rewritten
 iab reqwuest request
 iab reqwuests requests
+iab reqwuestws requests
 iab reqwuire require
 iab reqwuired required
 iab reqyired required
@@ -17712,6 +17723,7 @@ iab rewctacnlge rectangle
 iab rewflext reflect
 iab rewiveiwng reviewing
 iab rewquest request
+iab rewquests requests
 iab rewquiremnet requirement
 iab rewqvienw rewoven
 iab rewsponsiblity responsibility
@@ -17777,6 +17789,7 @@ iab rigthbrj righters
 iab rihgt right
 iab rining ringing
 iab rinterrupt interrupt
+iab risten ritsen
 iab ritght right
 iab riting writing
 iab ritsne ritsen
@@ -18455,6 +18468,7 @@ iab sesison session
 iab sessing session
 iab sessino session
 iab sessinos sessions
+iab sessionpotions sessionoptions
 iab sessoin session
 iab sessoun session
 iab setINterval setInterval
@@ -19984,6 +19998,7 @@ iab talki talk
 iab talkinag talking
 iab talkingt talking
 iab talmost almost
+iab tanble table
 iab tand tend
 iab tansclude transclude
 iab taought taught
@@ -21119,6 +21134,7 @@ iab tstreet street
 iab tstuff stuff
 iab tswitch switch
 iab ttask task
+iab ttesting testing
 iab tthat that
 iab tthe the
 iab ttheeya they
@@ -21250,6 +21266,7 @@ iab udpate update
 iab udpated updated
 iab uears years
 iab uername username
+iab ues yes
 iab ueseless useless
 iab uesterdy yesterday
 iab ueyawrs years
@@ -21484,6 +21501,7 @@ iab unntil until
 iab unobbious unobvious
 iab unoffocial unofficial
 iab unofical unofficial
+iab unote unite
 iab unparallenled unparalleled
 iab unpredicable unpredictable
 iab unprepated unprepared
@@ -21782,6 +21800,8 @@ iab versuions versions
 iab versy very
 iab vertain certain
 iab vertialcally vertically
+iab verticadl vertical
+iab verticdal vertical
 iab verticdally vertically
 iab verty very
 iab veru very
@@ -22556,6 +22576,7 @@ iab wqatch watch
 iab wqhat what
 iab wqill will
 iab wqual equal
+iab wquestion question
 iab wquestions questions
 iab wram warm
 iab wrandom random
@@ -22915,20 +22936,4 @@ iab zshj zsh
 iab zsswh zsh
 iab ztart start
 iab ztaships starships
-iab SErver Server
-iab sessionpotions sessionoptions
-iab improatnty important
-iab borrer border
-iab verticdal vertical
-iab verticadl vertical
-iab tanble table
-iab risten ritsen
-iab ues yes
-iab ttesting testing
-iab tseting testing
-iab ENtirely Entirely
-iab rewquests requests
-iab obviouslys obviously
-iab reqwuestws requests
-iab feautes features
-iab parameterse parameters
+
