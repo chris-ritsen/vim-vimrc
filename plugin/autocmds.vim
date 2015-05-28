@@ -135,8 +135,7 @@ autocmd! BufRead,BufNewFile /tmp/mutt* if &filetype == '' | setfiletype mail | e
 
 " }}}4
 
-autocmd! BufRead,BufNewFile ~/.config/mpd/mpd.conf setfiletype conf
-autocmd! BufRead,BufNewFile ~/.config/mpd/mpd.conf set foldmethod=marker foldmarker={,}
+autocmd! BufRead,BufNewFile ~/.config/mpd/mpd.conf setfiletype conf set foldmethod=marker foldmarker={,}
 
 autocmd! BufRead,BufNewFile ~/.offlineimaprc setfiletype conf
 autocmd! BufRead,BufWrite *.inc,*.php,*.hs if ! &bin | silent! %s/\s\+$//ge | endif
@@ -179,18 +178,17 @@ autocmd! Syntax xml,html,xhtml setlocal foldmethod=indent commentstring=\<!--\ %
 
 " }}}
 
-
 " autocmd! FileType unite call s:unite_settings()
 
 " tmux {{{
 
-autocmd! BufRead,BufNewFile ~/.config/tmux/* setfiletype tmux
+autocmd! BufRead,BufNewFile ~/.config/tmux/* set filetype=tmux
+autocmd! BufRead,BufNewFile ~/.config/tmux/**/* set filetype=tmux
 autocmd! FileType tmux setlocal commentstring=#\ %s foldmethod=marker tw=0
 
 " }}}4
 
 " }}}3
-
 
 " lircd
 

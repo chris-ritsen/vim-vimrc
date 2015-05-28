@@ -22937,3 +22937,5 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
+iab commadnd command
+iab yser user
