@@ -22940,3 +22940,6 @@ iab ztaships starships
 iab commadnd command
 iab yser user
 iab Ritsne Ritsen
+iab Asusmptions Assumptions
+iab funcdetion function
+iab xession session
