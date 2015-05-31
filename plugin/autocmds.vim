@@ -227,7 +227,8 @@ autocmd! FileType sshconfig set nowrap foldmethod=indent
 
 " vim {{{3
 
-autocmd! BufNewFile,BufRead *.vim 
+autocmd! BufNewFile,BufRead *.vim setf vim
+
 autocmd! BufRead,BufNewFile ~/.config/vim/plugins/pathogen/autoload/pathogen.vim set foldmethod=marker
 autocmd! FileType vim setlocal commentstring=\"\ %s 
 autocmd! Syntax vim setlocal foldmethod=marker | normal zM

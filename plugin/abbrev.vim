@@ -22957,3 +22957,7 @@ iab toob too
 iab Doign Doing
 iab batthroom bathroom
 iab asyunc async
+iab pattenrs patterns
+iab letteer letter
+iab elinsk elinks
+iab hideen hidden
