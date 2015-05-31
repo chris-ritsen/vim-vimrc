@@ -139,7 +139,7 @@ noremap <silent> <Left> <Esc>:bp<CR>
 noremap <silent> <Right> <Esc>:bn<CR>
 noremap <silent> <leader>m :make!<CR>
 
-noremap <silent> <leader>y :wa! \| Git commit -am'updated everything blindly.' && git push<CR>
+noremap <silent> <leader>y <esc>:wa! \| Git commit -am'updated everything blindly.' && git push<CR>
 
 noremap [Down] gj
 noremap [Up] gk
