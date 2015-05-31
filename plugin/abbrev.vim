@@ -1,6 +1,7 @@
 
 cab GIt Git
 iab ABout About
+iab Asusmptions Assumptions
 iab BROWSEWR BROWSER
 iab BUt But
 iab Bevause Because
@@ -1564,6 +1565,7 @@ iab Secuitrty Security
 iab Securuty Security
 iab Sefver Server
 iab Selct Select
+iab Selet Select
 iab Semes Seems
 iab Sendiung Sending
 iab Senese Sense
@@ -5523,6 +5525,7 @@ iab comlicated compicated
 iab comloment comment
 iab commaand command
 iab commadn command
+iab commadnd command
 iab commamnds commands
 iab commant command
 iab commasnds commands
@@ -10003,6 +10006,7 @@ iab fulleset fullest
 iab funalmentally fundamentally
 iab funamental fundamental
 iab funcamantela fundamental
+iab funcdetion function
 iab funcdtion function
 iab funcdtional functional
 iab funcdtionality functionality
@@ -11012,6 +11016,7 @@ iab idefinitely indefinitely
 iab ideiot idiot
 iab idela ideal
 iab idenfitifes identifies
+iab identeically identically
 iab identeifed identified
 iab identeifier identifier
 iab idential identical
@@ -21598,6 +21603,7 @@ iab usaer user
 iab usaernames usernames
 iab usaes uses
 iab usagble usable
+iab usaubel usable
 iab usaully usually
 iab usble usable
 iab uscle muscle
@@ -22736,6 +22742,7 @@ iab xcclip xclip
 iab xcript script
 iab xdexribed described
 iab xepdct expect
+iab xession session
 iab xhanged changed
 iab xhanges changes
 iab xiexie xièxie
@@ -22890,6 +22897,7 @@ iab ypu you
 iab yree tree
 iab yse use
 iab ysed used
+iab yser user
 iab ysing using
 iab yslaully usually
 iab ysstme system
@@ -22937,12 +22945,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab commadnd command
-iab yser user
-iab Ritsne Ritsen
-iab Asusmptions Assumptions
-iab funcdetion function
-iab xession session
-iab Selet Select
-iab identeically identically
-iab usaubel usable
