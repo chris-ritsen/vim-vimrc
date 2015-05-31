@@ -95,20 +95,31 @@ nnoremap <C-c> <nop>
 nnoremap <F6> :!vlock<cr>
 nnoremap <Q <nop>
 nnoremap <down> <nop>
-nnoremap <leader>c :NERDTreeFind<CR>
+nnoremap <silent> <leader>N :NERDTreeToggle<CR>
 nnoremap <leader>d :call AddAbbrev()<cr>
-nnoremap <leader>n :NERDTreeToggle<CR>
+nnoremap <silent> <leader>n :NERDTreeFind<CR>
 nnoremap <silent> <C-h> 1zh
 nnoremap <silent> <C-l> 1zl
 nnoremap <silent> <Leader>e :e<CR>
-nnoremap <silent> <Left> <Esc>:bp<CR>
-nnoremap <silent> <Right> <Esc>:bn<CR>
 nnoremap <silent><leader>h :noh<CR>
 nnoremap <silent>x x:call Redefine_x_ForVirtualEdit()<CR>
 nnoremap <up> <nop>
 nnoremap J mzJ`z
 nnoremap K <nop>
 nnoremap Y y$
+
+" Stay away from that side of the keyboard!
+
+nnoremap <silent> <Delete> <nop>
+nnoremap <silent> <End> <nop>
+nnoremap <silent> <Home> <nop>
+nnoremap <silent> <Left> <Esc>:bp<CR>
+nnoremap <silent> <Left> <nop>
+nnoremap <silent> <PageDown> <nop>
+nnoremap <silent> <PageUp> <nop>
+nnoremap <silent> <Right> <Esc>:bn<CR>
+nnoremap <silent> <Right> <nop>
+
 
 " }}}2
 
@@ -125,8 +136,6 @@ noremap <down> <nop>
 
 " {{{2
 
-" noremap <leader>g :vimgrep // **/*.<left><left><left><left><left><left><left>
-
 noremap <leader>gf :e <cfile><cr>
 noremap <leader>w <esc>:w!<cr>
 noremap <silent> <F2> :NERDTreeToggle<CR>
@@ -135,8 +144,7 @@ noremap <silent> <F4> :GundoToggle<CR>
 noremap <silent> <F5> :set wrap! <CR>
 noremap <silent> <F7> :set list!<CR>
 noremap <silent> <F8> :setlocal spell! spelllang=en_us <CR>
-noremap <silent> <Left> <Esc>:bp<CR>
-noremap <silent> <Right> <Esc>:bn<CR>
+
 noremap <silent> <leader>m :make!<CR>
 
 noremap <silent> <leader>y <esc>:wa! \| Git commit -am'updated everything blindly.' && git push<CR>
@@ -207,48 +215,6 @@ noremap <RightMouse> <nop>
 " }}}1
 
 " Dead Code {{{1
-
-" if maparg('<C-L>', 'n') ==# ''
-"   nnoremap <silent> <C-L> :nohlsearch<CR><C-L>
-" endif
-
-" inoremap <leader>r viwg?
-" inoremap <silent> <C-S-j> <cr><esc>:r !date -u +"\%Y-\%m-\%dT\%H:\%M:\%SZ"<CR>zt A — 
-" inoremap <silent> <leader>l <cr><esc>:r !date -u +"\%Y-\%m-\%dT\%H:\%M:\%SZ"<CR>zt A —
-" kmap <leader>s ysiw"
-" kmap <silent> <F10> <CR>
-" kmap <silent> <F11> <CR>
-" kmap <silent> <F12> <CR>
-" kmap <silent> <F4> <CR>
-" kmap <silent> <F8> <CR>
-" kmap <silent> <F9> <CR>
-" knmap <leader>d :b#<bar>bd#<CR>
-" knmap K :Man <cword><CR>
-" knnoremap n nzz
-" map <ScrollWheelDown> <C-E>
-" map <ScrollWheelUp> <C-Y>
-" map <silent> <F12> :!php -l %<CR>
-" nmap <leader>y vip :write !ssh macbook say -r250&<cr><cr>
-" nnoremap  :!vlock<cr>
-" nnoremap <C-S-J> Go<esc>:r !date -u +"\%Y-\%m-\%dT\%H:\%M:\%SZ"<CR>zt A - 
-" nnoremap <F8> :vertical wincmd f<CR> 
-" nnoremap <leader><space> :noh<cr>
-" nnoremap <silent> <Leader>e :vsplit<bar>wincmd l<bar>exe "norm! Ljz<c-v><cr>"<cr>:set scb<cr>:wincmd h<cr> :set scb<cr>
-" nnoremap } }zz
-" noremap <3-LeftMouse> <esc>vip :write !ssh macbook say -r275&<cr><cr>
-" noremap <C-j> <C-W>j<C-W>_
-" noremap <C-k> <C-W>k<C-W>_
-" noremap <leader>b :CommandTBuffer<cr>
-" noremap <leader>f :CommandTJump<cr>
-" noremap <leader>m :MRU<CR>
-" noremap <leader>t :CommandT<cr>
-" noremap <leader>y :CommandTFlush<cr>
-" vmap <leader>y :write !ssh macbook say -r275&<cr><cr>
-"call unite#custom#source('file_rec,file_rec/async', 'max_candidates', 0)
-"call unite#filters#matcher_default#use(['matcher_fuzzy'])
-"noremap <leader>b :<C-u>Unite -no-split -start-insert -buffer-name=buffer buffer<cr>
-"noremap <leader>f :<C-u>Unite -no-split -start-insert -buffer-name=files file<cr>
-"noremap <leader>t :<C-u>Unite -no-split -start-insert -buffer-name=files file_rec/async:!<cr>
 
 " }}}1
 

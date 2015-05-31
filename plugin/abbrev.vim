@@ -22950,3 +22950,9 @@ iab impossibdle impossible
 iab currentley currently
 iab Onlyu Only
 iab iwndows windows
+iab conditionaer conditioner
+iab COudl Could
+iab apramrtnet apartment
+iab toob too
+iab Doign Doing
+iab batthroom bathroom
