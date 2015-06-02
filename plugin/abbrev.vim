@@ -9,6 +9,7 @@ iab CHeck Check
 iab CHris Chris
 iab CHristttopoher Christopher
 iab COmread Comrade
+iab COudl Could
 iab COuld Could
 iab Carefyl Careful
 iab Causdes Causes
@@ -245,6 +246,7 @@ iab Docotr Doctor
 iab Docuemnts Documents
 iab Docvumebnts Documents
 iab Doen Done
+iab Doign Doing
 iab Downlaiding Downloading
 iab Downloadign Downloading
 iab Dringking Drinking
@@ -659,6 +661,7 @@ iab INside Inside
 iab INstagram Instagram
 iab INstall Install
 iab INstallation Installation
+iab INstalled Installed
 iab INstead Instead
 iab INsteda Instead
 iab INstitute Institute
@@ -1104,6 +1107,7 @@ iab Ofifce Office
 iab Oject Object
 iab Onlu Only
 iab Onluy Only
+iab Onlyu Only
 iab Ontyo Onto
 iab OperatingA Operating
 iab Opiniions Opinions
@@ -1331,6 +1335,7 @@ iab RElated Related
 iab RElationships Relationships
 iab RElativitiy Relativity
 iab REleated Related
+iab RElese Release
 iab REmember Remember
 iab REmemberomng Remembering
 iab REmove Remove
@@ -1946,6 +1951,7 @@ iab VEry Very
 iab VIdoes Videos
 iab VIm Vim
 iab Vakye Value
+iab Valeuy Value
 iab Vancoiver Vancouver
 iab Verty Very
 iab Veryu Very
@@ -3480,6 +3486,7 @@ iab approximatley approximately
 iab approximatly approximately
 iab approxipmately approximately
 iab approxmiate approximate
+iab apramrtnet apartment
 iab aprarntbet apartment
 iab aproaches approaches
 iab aproximation approximation
@@ -3700,6 +3707,7 @@ iab asynchonous asynchronous
 iab asynchrouns asynchrony
 iab asyncoronus asynchronous
 iab asyncronous asynchronous
+iab asyunc async
 iab atain attain
 iab ataking taking
 iab atalbe table
@@ -4099,6 +4107,7 @@ iab basrely barely
 iab bathromo bathroom
 iab batteryy battery
 iab batteyr battery
+iab batthroom bathroom
 iab battieres batteries
 iab battires batteries
 iab battlezs battles
@@ -5848,6 +5857,7 @@ iab conditiaonl conditional
 iab conditinoning conditioning
 iab conditioanl conditional
 iab conditiona condition
+iab conditionaer conditioner
 iab conditiosn conditions
 iab conditon condition
 iab condiuit conduit
@@ -6592,6 +6602,7 @@ iab currenlty currently
 iab currenluy currently
 iab currenly currently
 iab currentl current
+iab currentley currently
 iab currentlu currently
 iab currentlyu currently
 iab currenty currently
@@ -7482,6 +7493,7 @@ iab disintigrate disintegrate
 iab disintrest disinterest
 iab disintrested disinterested
 iab disitionction distinction
+iab disitribution distribution
 iab disitunusiehd distinguished
 iab diskliek dislike
 iab dislbed disabled
@@ -7904,6 +7916,7 @@ iab dvleopemnt development
 iab dvleopment development
 iab dwardfs dwarfs
 iab dwebugger debugger
+iab dwifferent different
 iab dwith with
 iab dxjact exact
 iab dya day
@@ -8326,6 +8339,7 @@ iab eliminiated eliminated
 iab elimnate eliminate
 iab elimnating eliminating
 iab elininating eliminating
+iab elinsk elinks
 iab eliquient eloquent
 iab eljiminate eliminate
 iab elllft left
@@ -8890,6 +8904,7 @@ iab eventhaly eventually
 iab eventuallity eventuality
 iab eventualy eventually
 iab eventulaly eventually
+iab eventuyally eventually
 iab eventws events
 iab eventyally eventually
 iab eventyually eventually
@@ -10345,6 +10360,7 @@ iab gyrus gyrus
 iab gyruys gyrus
 iab gyrys gyrus
 iab h5ml html
+iab hTML HTML
 iab habanaeros habanero
 iab habe have
 iab habenero habanero
@@ -10620,6 +10636,7 @@ iab hiccupping hiccuping
 iab hiccuppnig hiccuping
 iab hich which
 iab hiddeb hidden
+iab hideen hidden
 iab hideuous hideous
 iab hiefght height
 iab hieght height
@@ -11260,6 +11277,7 @@ iab imporving improving
 iab imporvoed improved
 iab imposibdlbe impossible
 iab imposible impossible
+iab impossibdle impossible
 iab impossibel impossible
 iab impossiblity impossibility
 iab imposter impostor
@@ -12137,6 +12155,7 @@ iab ispgraoph isograph
 iab ispgrha isograph
 iab ispograph isograph
 iab iss is
+iab issies issues
 iab issiues issues
 iab isssue issue
 iab issuesa issues
@@ -12203,6 +12222,7 @@ iab iwith with
 iab iwithin within
 iab iwll will
 iab iwndow window
+iab iwndows windows
 iab iwnodw window
 iab iworked worked
 iab iworld world
@@ -12684,6 +12704,7 @@ iab lerngth length
 iab lesast least
 iab lesat least
 iab leters letters
+iab letteer letter
 iab lettesr letters
 iab lettters letters
 iab leusiyre leisure
@@ -15228,6 +15249,7 @@ iab pathetix pathetic
 iab patienc patience
 iab patinet patient
 iab patte4rnbs patterns
+iab pattenrs patterns
 iab pattersn patterns
 iab pauase pause
 iab pauchekc paycheck
@@ -16508,6 +16530,7 @@ iab provoing proving
 iab prpblems problems
 iab prperly properly
 iab prroduces produces
+iab prset preset
 iab prseume presume
 iab pruahced purchased
 iab prucahigns purchasing
@@ -17018,6 +17041,7 @@ iab rectangel rectangle
 iab recuirtment recruitment
 iab recularly regularly
 iab recursibley recursively
+iab recurxibe recursive
 iab redaing reading
 iab reday ready
 iab redfeine redefine
@@ -17399,6 +17423,7 @@ iab requapment equipment
 iab requeast request
 iab requeist request
 iab requesdt request
+iab requesite requisite
 iab requets requests
 iab requewts requests
 iab requezts request
@@ -18450,6 +18475,7 @@ iab serioyus serious
 iab serivce service
 iab serivces services
 iab serivec service
+iab serparate separate
 iab servce service
 iab serve4 server
 iab servearla several
@@ -19054,6 +19080,7 @@ iab sometihng something
 iab sometim sometime
 iab someting something
 iab sometiohgn something
+iab sometjhign something
 iab sometjhing something
 iab sometohign something
 iab sometohing something
@@ -20077,6 +20104,7 @@ iab teadoy today
 iab teahcings teachings
 iab tealents talents
 iab teamm team
+iab teamplet template
 iab teask task
 iab teasks tasks
 iab teastes tastes
@@ -20181,6 +20209,7 @@ iab telll tell
 iab telveigion television
 iab telvelvision television
 iab tema team
+iab temaplate template
 iab temeprautres temperatures
 iab temerparature temperature
 iab temokateYUrl templateUrl
@@ -20885,6 +20914,7 @@ iab tonigth tonight
 iab tonke token
 iab tonogiht tonight
 iab tontorl control
+iab toob too
 iab tooilet toilet
 iab toolf tool
 iab tooll tool
@@ -21268,6 +21298,7 @@ iab udnerstand understand
 iab udnerstanding understanding
 iab udnestanding understanding
 iab udpate update
+iab udpatead updated
 iab udpated updated
 iab uears years
 iab uername username
@@ -22945,31 +22976,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab requesite requisite
-iab impossibdle impossible
-iab currentley currently
-iab Onlyu Only
-iab iwndows windows
-iab conditionaer conditioner
-iab COudl Could
-iab apramrtnet apartment
-iab toob too
-iab Doign Doing
-iab batthroom bathroom
-iab asyunc async
-iab pattenrs patterns
-iab letteer letter
-iab elinsk elinks
-iab hideen hidden
-iab dirfferent different
-iab sometjhign something
-iab RElese Release
-iab recurxibe recursive
-iab eventuyally eventually
-iab Valeuy Value
-iab prset preset
-iab hTML HTML
-iab teamplet template
-iab temaplate template
-iab disitribution distribution
-iab INstalled Installed
