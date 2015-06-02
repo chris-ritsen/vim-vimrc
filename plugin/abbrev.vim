@@ -1478,6 +1478,7 @@ iab SCreaming Screaming
 iab SCreen Screen
 iab SCrum Scrum
 iab SEVeral Several
+iab SEarchign Searching
 iab SEfveraal Several
 iab SEfveral Several
 iab SEnding Sending
@@ -4438,6 +4439,7 @@ iab blidness blindness
 iab blindily blindly
 iab blindlenss blindness
 iab blindles blindness
+iab blissfyllyt blissfully
 iab bliue blue
 iab blkanket blanket
 iab bllood blood
@@ -12545,6 +12547,7 @@ iab latelyl lately
 iab laterb later
 iab latere later
 iab laters later
+iab latewly lately
 iab latice lattice
 iab latley lately
 iab latleyt lately
@@ -12906,6 +12909,7 @@ iab lnoger longer
 iab lnot not
 iab lnow know
 iab loadede loaded
+iab loadign loading
 iab loaundry laundry
 iab loawded loaded
 iab locadtion location
@@ -17657,6 +17661,7 @@ iab resuqested requested
 iab resutl result
 iab resutls results
 iab resutlsed resulted
+iab resutlts results
 iab reterive retrieve
 iab reternn return
 iab retetion retention
@@ -18248,6 +18253,7 @@ iab sealled sealed
 iab seaoson season
 iab seaqsin season
 iab searcha search
+iab searchd search
 iab searchign searching
 iab searchis searches
 iab searfch search
@@ -20989,6 +20995,7 @@ iab traciekr tracker
 iab tracitional traditional
 iab trackgin tracking
 iab trackign tracking
+iab trackingh tracking
 iab trackpac trackpad
 iab trackpawd trackpad
 iab tracpkad trackpad
@@ -22976,5 +22983,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab latewly lately
-iab blissfyllyt blissfully
