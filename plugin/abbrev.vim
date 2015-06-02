@@ -22971,3 +22971,8 @@ iab prset preset
 iab hTML HTML
 iab teamplet template
 iab temaplate template
+iab udpatead updated
+iab issies issues
+iab serparate separate
+iab standrd standard
+iab dwifferent different
