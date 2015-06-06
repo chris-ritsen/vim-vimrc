@@ -1978,6 +1978,7 @@ iab WAht What
 iab WAitign Waiting
 iab WAking Waking
 iab WAsting Wasting
+iab WAtchign Watching
 iab WEbseter Webster
 iab WEbsetr Webster
 iab WEbster Webster
@@ -8148,6 +8149,7 @@ iab eevnriomtent environment
 iab eexcept except
 iab eeyes eyes
 iab efeecdt effect
+iab efeect effect
 iab efents events
 iab effct effect
 iab effecdt effect
@@ -8489,6 +8491,7 @@ iab emululators emulators
 iab emy my
 iab enacs emacs
 iab enalbed enabled
+iab enbd end
 iab encapuslates encapsulates
 iab encessary necessary
 iab encointered encountered
@@ -9722,6 +9725,7 @@ iab finsidhed finished
 iab finsiehd finished
 iab finsih finish
 iab finsihed finished
+iab finsiheiing finishing
 iab finsihes finishes
 iab finsihewd finished
 iab finsihiing finishing
@@ -10962,6 +10966,7 @@ iab htttp http
 iab htus huts
 iab huamn human
 iab hudnred hundred
+iab hudrennd hundred
 iab huim him
 iab humanss humans
 iab hunddred hundred
@@ -10970,6 +10975,7 @@ iab hundered hundred
 iab hundre hundred
 iab hundredd hundred
 iab hundredss hundreds
+iab hundren hundred
 iab hundres hundred
 iab hundresd hundreds
 iab hunfred hundred
@@ -15909,6 +15915,7 @@ iab posirtion position
 iab posisbile possible
 iab posisble possible
 iab posisblity possibility
+iab posisgble possible
 iab posisible possible
 iab posisitosi positions
 iab posislbe possible
@@ -16212,6 +16219,7 @@ iab presnetable presentable
 iab preson person
 iab presonal personal
 iab presumtion presumption
+iab presviouysly previously
 iab pretendning pretending
 iab pretent pretend
 iab preteurved perturbed
@@ -16642,6 +16650,7 @@ iab psotion position
 iab psotsions positions
 iab psring spring
 iab pssible possible
+iab pssobile possible
 iab psuedo pseudo
 iab psuedoscience pseudoscience
 iab psychcih psychic
@@ -18307,6 +18316,7 @@ iab searchis searches
 iab searfch search
 iab seargent sargent
 iab searh search
+iab seartch search
 iab seasily easily
 iab seasion season
 iab seawrhc search
@@ -19087,6 +19097,7 @@ iab solutoin solution
 iab soluton solution
 iab solveds solved
 iab solvign solving
+iab some3 some
 iab somee some
 iab someeething something
 iab someething something
@@ -21814,6 +21825,7 @@ iab valeus values
 iab validateds validated
 iab validatino validation
 iab validatiopn validation
+iab valouable valuable
 iab valualbe valuable
 iab valueable valuable
 iab valueation valuation
@@ -22725,6 +22737,7 @@ iab writnignn writing
 iab writre write
 iab writring writing
 iab writsts wrists
+iab writtetn written
 iab writtten written
 iab writw write
 iab writwe write
