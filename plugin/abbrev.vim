@@ -1759,6 +1759,7 @@ iab TYbuis This
 iab TYhe The
 iab TYhere There
 iab TYhsis This
+iab TYpical Typical
 iab Tahnks Thanks
 iab Tahsnk Thanks
 iab Tallking Talking
@@ -2016,6 +2017,7 @@ iab WYou You
 iab Waaaaast Waste
 iab Wahht What
 iab Waht What
+iab Wahwt What
 iab Waitging Waiting
 iab Walley Wally
 iab Wante Want
@@ -2038,6 +2040,7 @@ iab Welecome Welcome
 iab Wellinton Wellington
 iab Werite Write
 iab Wgere Where
+iab Whaat What
 iab Whas What
 iab Whateber Whatever
 iab Whaterver Whatever
@@ -2908,6 +2911,7 @@ iab alredfy already
 iab alredsy already
 iab alredy already
 iab alredya already
+iab alreight alright
 iab alreydz already
 iab alseep asleep
 iab alsways always
@@ -3987,6 +3991,7 @@ iab awy any
 iab awya away
 iab axtually actually
 iab aynthing anything
+iab aynway anyway
 iab aysync async
 iab ayting anything
 iab aytionation automation
@@ -8490,6 +8495,7 @@ iab enemey enemy
 iab enemiead enemies
 iab enemiees enemies
 iab eneny enemy
+iab eneregey energy
 iab energe energy
 iab energgizing energizing
 iab energiy energy
@@ -9280,6 +9286,7 @@ iab expeiernce experience
 iab expeirece experience
 iab expeireince experience
 iab expeirence experience
+iab expeirenceing experiencing
 iab expeirences experiences
 iab expeirnecde experience
 iab expendible expendable
@@ -9566,6 +9573,7 @@ iab feeel feel
 iab feeleing feeling
 iab feelig feeling
 iab feelign feeling
+iab feeligns feelings
 iab feeliing feeling
 iab feeliong feeling
 iab feell feel
@@ -10438,6 +10446,7 @@ iab hapbit habit
 iab hapen happen
 iab hapepens happens
 iab hapepn happen
+iab hapepnign happening
 iab hapepning happening
 iab hapepns happens
 iab hapinees happiness
@@ -10554,6 +10563,7 @@ iab heardrs headers
 iab heards hearts
 iab hearricut haricut
 iab hearsd heard
+iab hearsts hearts
 iab heasd heads
 iab heasdhset headset
 iab heasdset headset
@@ -12041,6 +12051,7 @@ iab invomves involves
 iab invoolved involved
 iab invovle involve
 iab invovled involved
+iab invovleds involves
 iab invovles involves
 iab invvocations invocations
 iab inw in
@@ -12105,6 +12116,7 @@ iab irreveltant irrelevant
 iab irrevelvant irrelevant
 iab irreversable irreversible
 iab irrevlevent irrelevant
+iab irritiating irritating
 iab irt it
 iab isd is
 iab isdea idea
@@ -12684,6 +12696,7 @@ iab leeveled leveled
 iab lefft left
 iab legaciyy legacy
 iab legandardy legendary
+iab leggs legs
 iab legibilty legibility
 iab legiible legible
 iab legt left
@@ -15296,6 +15309,7 @@ iab pefrecdtion perfection
 iab pefrecting perfecting
 iab peice piece
 iab peices pieces
+iab peicezs pieces
 iab peioepl people
 iab peiopel people
 iab peiople people
@@ -16736,6 +16750,7 @@ iab quesiton question
 iab quesitons questions
 iab questionas questions
 iab questiones questions
+iab questionsg questions
 iab questiosn questions
 iab quetsion question
 iab quetty query
@@ -17590,6 +17605,7 @@ iab respomsible responsible
 iab responbilbe responsible
 iab respondse response
 iab responidble responsible
+iab responisbile responsible
 iab responisbiliets responsibilities
 iab responisbiltes responsibilities
 iab responisibliteis responsibilities
@@ -18572,6 +18588,7 @@ iab sfamily family
 iab sfotware software
 iab sgreat great
 iab sgtart start
+iab sgtrange strange
 iab sguessing guessing
 iab shadowly shadowy
 iab shaer share
@@ -19243,6 +19260,7 @@ iab spliut split
 iab spliy split
 iab spockj Spock
 iab spoekn spoken
+iab spogne sponge
 iab spoiles spoils
 iab spome some
 iab sponic sonic
@@ -19514,6 +19532,7 @@ iab strategeies strategies
 iab strateggy strategy
 iab strategty strategy
 iab strategye strategy
+iab strech stretch
 iab streelamps streetlamps
 iab streessing stressing
 iab streetl street
@@ -20163,6 +20182,7 @@ iab tedoius tedious
 iab teeh teeth
 iab teeht teeth
 iab teehth teeth
+iab teelevision television
 iab teelvision television
 iab teenahger teenager
 iab teenavhers teenagers
@@ -22619,6 +22639,7 @@ iab wqas was
 iab wqatch watch
 iab wqhat what
 iab wqill will
+iab wqinsdow window
 iab wqual equal
 iab wquestion question
 iab wquestions questions
@@ -22983,24 +23004,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab wqinsdow window
-iab expeirenceing experiencing
-iab Wahwt What
-iab questionsg questions
-iab Whaat What
-iab aynway anyway
-iab irritiating irritating
-iab TYpical Typical
-iab feeligns feelings
-iab invovleds involves
-iab teelevision television
-iab peicezs pieces
-iab alreight alright
-iab hapepnign happening
-iab sgtrange strange
-iab responisbile responsible
-iab hearsts hearts
-iab spogne sponge
-iab eneregey energy
-iab leggs legs
-iab strech stretch
