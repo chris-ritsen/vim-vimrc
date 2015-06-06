@@ -1,5 +1,6 @@
 
 cab GIt Git
+iab ... …
 iab ABout About
 iab Asusmptions Assumptions
 iab BROWSEWR BROWSER
@@ -280,6 +281,7 @@ iab ENtirely Entirely
 iab ERitsen Ritsen
 iab ESee See
 iab ESessntially Essentially
+iab EVErytihng Everything
 iab EVen Even
 iab EVent Event
 iab EVentEmitter EventEmitter
@@ -504,6 +506,7 @@ iab GOodbye Goodbye
 iab GOodnight Goodnight
 iab GOogle Google
 iab GOt Got
+iab GREat Great
 iab GReat Great
 iab GUy Guy
 iab Garnat Garant
@@ -1452,6 +1455,7 @@ iab Rodeneberry Roddenberry
 iab Rogder Roger
 iab Rohy Roy
 iab Roling Rolling
+iab Roplling Rolling
 iab Royksopp Röyksopp
 iab Rpeeaea Repeal
 iab Rpepat Repeat
@@ -1646,6 +1650,7 @@ iab Specifiically Specifically
 iab Speciically Specifically
 iab Speciiffilyaly Specifically
 iab Speciifially Specifically
+iab Speeidng Speeding
 iab Spellchevk Spellcheck
 iab Splcie Splice
 iab Srriong Sarong
@@ -3028,6 +3033,7 @@ iab ancientn ancient
 iab anda and
 iab andd and
 iab andedotaly anecdotally
+iab andf and
 iab andfter after
 iab andh and
 iab andr and
@@ -3089,6 +3095,7 @@ iab anothe another
 iab anotherh another
 iab anotner another
 iab anotuher another
+iab anotyihug anything
 iab anout about
 iab anoyene anyone
 iab anoymyyous anonymous
@@ -3661,6 +3668,7 @@ iab aspirnk aspirin
 iab asprin aspirin
 iab aspurin aspirin
 iab aspyrin aspirin
+iab asre are
 iab assaets assets
 iab assaociated associated
 iab asseessment assessment
@@ -3960,6 +3968,7 @@ iab aweosme awesome
 iab aweosmew awesome
 iab aweosmwe awesome
 iab awesomet awesome
+iab awesomse awesome
 iab awewome awesome
 iab awhat what
 iab awithout without
@@ -4097,6 +4106,7 @@ iab baragsained bargained
 iab barbaque barbecue
 iab barohterb brother
 iab barrent barren
+iab barriar barrier
 iab barriesrs barriers
 iab bary vary
 iab barying varying
@@ -4326,6 +4336,7 @@ iab beteeer better
 iab beteer better
 iab beteert better
 iab beter better
+iab betersd better
 iab beteter better
 iab betetr better
 iab beteween between
@@ -4559,6 +4570,7 @@ iab braina brain
 iab braind brain
 iab braing brain
 iab brakcet bracket
+iab brakdes brakes
 iab brcausae because
 iab brcausr because
 iab bre be
@@ -4567,6 +4579,7 @@ iab breahting breathing
 iab breain brain
 iab breaing breaking
 iab breajs breaks
+iab breakes brakes
 iab breakin breaking
 iab breakss breaks
 iab breaktghorugh breakthrough
@@ -4585,6 +4598,7 @@ iab breifly briefly
 iab breka break
 iab brekafast breakfast
 iab brekaing breaking
+iab brekas brakes
 iab brered breed
 iab bretaks breaks
 iab brian brain
@@ -4607,6 +4621,8 @@ iab brisushes brushes
 iab britain britain
 iab brithday birthday
 iab briticsh british
+iab brkaexzs brakes
+iab brkasesa brakes
 iab broard broad
 iab broekn broken
 iab broher brother
@@ -6045,6 +6061,7 @@ iab consisdering considering
 iab consise concise
 iab consisered considered
 iab consisetnet consistent
+iab consisinedering considering
 iab consisitanlty consistently
 iab consisitanntly consistently
 iab consisitant consistent
@@ -6520,6 +6537,8 @@ iab creeate create
 iab creen screen
 iab creens screens
 iab creidt credit
+iab creidtt credit
+iab creitdet credit
 iab crelax relax
 iab cresatewd created
 iab cressent crescent
@@ -7925,6 +7944,7 @@ iab dwardfs dwarfs
 iab dwebugger debugger
 iab dwifferent different
 iab dwith with
+iab dwown down
 iab dxjact exact
 iab dya day
 iab dymaic dynamic
@@ -8814,6 +8834,7 @@ iab espeicially especially
 iab espeiciially especially
 iab espeiclaly especially
 iab espewriemental experimental
+iab espisode episode
 iab espose espouse
 iab essenetially essentially
 iab essense essence
@@ -9581,6 +9602,7 @@ iab feelling feeling
 iab feellings feelings
 iab feelsw feels
 iab feelt felt
+iab feelung feeling
 iab feesible feasible
 iab fefatuers features
 iab fefine define
@@ -9767,6 +9789,7 @@ iab fluk3 fluke
 iab flushin flushing
 iab flyusahes flushes
 iab fmaily family
+iab fmaimily family
 iab fnish finish
 iab fnished finished
 iab fnisinng finishing
@@ -9945,6 +9968,7 @@ iab friensd friends
 iab frightented frightened
 iab frilvolous frivolous
 iab frind friend
+iab frinds friends
 iab frined friend
 iab frinendship friendship
 iab frist first
@@ -12028,6 +12052,7 @@ iab investmnet investment
 iab invetion invention
 iab invidisdual individual
 iab invilving involving
+iab invincilvbe invincible
 iab inviolved involved
 iab inviolves involves
 iab inviolving involving
@@ -12567,6 +12592,7 @@ iab latotu layout
 iab latout layout
 iab latpop laptop
 iab latselty lately
+iab latser later
 iab latyel lately
 iab latyout layout
 iab laucnh launch
@@ -12913,6 +12939,7 @@ iab lmiunte minute
 iab lnad land
 iab lnaguages languages
 iab lnaguuages languages
+iab lnch lunch
 iab lngo long
 iab lni3n linen
 iab lnking linking
@@ -13017,6 +13044,7 @@ iab lsusts lusts
 iab ltater later
 iab lthe the
 iab lttiel little
+iab lttile little
 iab luaght laugh
 iab luandry laundry
 iab lubryicating lubricating
@@ -17014,6 +17042,7 @@ iab recnelty recently
 iab recnent recent
 iab recnernt recent
 iab recnet recent
+iab recnetrly recently
 iab recoerd record
 iab recogfnize recognize
 iab recognation recognition
@@ -17908,6 +17937,7 @@ iab routinne routine
 iab rouyndabout roundabout
 iab rovk rock
 iab rpabably probably
+iab rpaboably probably
 iab rpactice practice
 iab rpactices practices
 iab rpactivde practice
@@ -17979,6 +18009,7 @@ iab ruoutine routine
 iab rusht rush
 iab rusn runs
 iab russua russia
+iab rusyty rusty
 iab rutentr return
 iab ruvby ruby
 iab ruynning running
@@ -18330,6 +18361,7 @@ iab sefveral several
 iab sefverly severely
 iab seindg sending
 iab seiroulsy seriously
+iab seirouys serious
 iab seitnningcing sentencing
 iab seive sieve
 iab selcdt select
@@ -19144,6 +19176,7 @@ iab sopmethign something
 iab soports sports
 iab sopt stop
 iab sordt sort
+iab sorryb sorry
 iab sorteded sorted
 iab sortware software
 iab sorucde source
@@ -19933,6 +19966,7 @@ iab symboloic symbolic
 iab symbosl symbols
 iab symlnks symlinks
 iab symnbols symbols
+iab symoposiym symposium
 iab symoptons symptoms
 iab symtomatic symptomatic
 iab synatpics synaptics
@@ -20220,6 +20254,7 @@ iab telecscope telescope
 iab telegraphgic telegraphic
 iab telegraphuc telegraphic
 iab teleivion television
+iab teleivsiion television
 iab teleivsion television
 iab telelvision television
 iab telelvisoin television
@@ -20620,6 +20655,7 @@ iab thisa this
 iab thisd this
 iab thise this
 iab thises these
+iab thisg this
 iab thisk this
 iab thisl this
 iab thisng thing
@@ -20644,6 +20680,7 @@ iab thnk think
 iab thnking thinking
 iab thnkw think
 iab thnmb thumb
+iab tho8guh though
 iab thoght thought
 iab thoghts thoughts
 iab thoghtts thoughts
@@ -21553,6 +21590,7 @@ iab unlikleyly unlikely
 iab unlikly unlikely
 iab unliktely unlikely
 iab unlimke unlike
+iab unltil until
 iab unlwilling unwilling
 iab unmiiimited unlimited
 iab unmless unless
@@ -21680,6 +21718,7 @@ iab usefuul useful
 iab useing using
 iab uselelss useless
 iab useles useless
+iab uselses useless
 iab uselyoess useless
 iab userds users
 iab useri user
@@ -21823,6 +21862,7 @@ iab vbiolent violent
 iab vbision vision
 iab vboring boring
 iab vborwser browser
+iab vbrekase brakes
 iab vccufflings cufflings
 iab vccufflings cufflinks
 iab vdevelopment development
@@ -21973,6 +22013,7 @@ iab vondolr console
 iab vop cop
 iab vords words
 iab vork work
+iab vortext vortex
 iab vorthy worthy
 iab vots votes
 iab vould would
@@ -22059,6 +22100,7 @@ iab watewr water
 iab wathc watch
 iab wathch watch
 iab wathching watching
+iab wathcidng watching
 iab wathcign watching
 iab wathcignn watching
 iab wathcing watching
@@ -22360,6 +22402,7 @@ iab whwn when
 iab whwneever whenever
 iab wiWindows Windows
 iab wiat wait
+iab wiatcdh watch
 iab wiatching watching
 iab wiater waiter
 iab wiating waiting
@@ -23004,3 +23047,4 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
+iab Ored3erd Ordered
