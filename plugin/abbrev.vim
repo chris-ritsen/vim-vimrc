@@ -22984,3 +22984,23 @@ iab ztart start
 iab ztaships starships
 
 iab wqinsdow window
+iab expeirenceing experiencing
+iab Wahwt What
+iab questionsg questions
+iab Whaat What
+iab aynway anyway
+iab irritiating irritating
+iab TYpical Typical
+iab feeligns feelings
+iab invovleds involves
+iab teelevision television
+iab peicezs pieces
+iab alreight alright
+iab hapepnign happening
+iab sgtrange strange
+iab responisbile responsible
+iab hearsts hearts
+iab spogne sponge
+iab eneregey energy
+iab leggs legs
+iab strech stretch
