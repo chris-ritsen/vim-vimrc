@@ -4038,6 +4038,7 @@ iab awords words
 iab awoul would
 iab awould would
 iab awre are
+iab awsaits awaits
 iab awseom awesome
 iab awsking awaking
 iab awward awkward
@@ -5890,6 +5891,7 @@ iab concerened concerned
 iab concerneda concerned
 iab concerneed concerned
 iab concernes concerns
+iab concerntarte concentrate
 iab concferenc3 conference
 iab concice concise
 iab concider consider
@@ -7501,6 +7503,7 @@ iab dirextories directories
 iab dirfferent different
 iab dirivng driving
 iab dirnk drink
+iab dirnking drinking
 iab dirstacted distracted
 iab dirtyy dirty
 iab diryty dirty
@@ -7566,6 +7569,7 @@ iab discvoered discovered
 iab discvoery discovery
 iab discvovered discovered
 iab disdablve disable
+iab disdalbed disabled
 iab disdpaly display
 iab disdpalys displays
 iab disdpatched dispatched
@@ -7588,6 +7592,7 @@ iab disintrest disinterest
 iab disintrested disinterested
 iab disitionction distinction
 iab disitribution distribution
+iab disitrzsctdd distracted
 iab disitunusiehd distinguished
 iab diskliek dislike
 iab dislbed disabled
@@ -12839,6 +12844,7 @@ iab learzn learn
 iab leasder leader
 iab leasdt least
 iab leasdtg least
+iab leaset least
 iab leasvfe leave
 iab leater later
 iab leato learn
@@ -15188,6 +15194,7 @@ iab otime time
 iab otion motion
 iab otmorrow tomorrow
 iab otnigh tonight
+iab otoiphion option
 iab otop top
 iab otp top
 iab otpical topical
@@ -16090,6 +16097,7 @@ iab posirtion position
 iab posisbile possible
 iab posisble possible
 iab posisblity possibility
+iab posisbly possibly
 iab posisgble possible
 iab posisible possible
 iab posisitosi positions
@@ -18027,6 +18035,7 @@ iab rewareds rewards
 iab rewctacnlge rectangle
 iab rewflext reflect
 iab rewiveiwng reviewing
+iab rewqrd reward
 iab rewquest request
 iab rewquests requests
 iab rewquiremnet requirement
@@ -18054,6 +18063,7 @@ iab rhalf half
 iab rhather rather
 iab rhe the
 iab rhins ruins
+iab rhptyhnm rhythm
 iab rhte rate
 iab rhtere there
 iab rhythem rhythm
@@ -21483,6 +21493,7 @@ iab trupmets trumpets
 iab truye true
 iab truyly truly
 iab trviial trivial
+iab try8ng trying
 iab tryied tried
 iab tryifng trying
 iab tryign trying
@@ -23047,6 +23058,7 @@ iab wroks works
 iab wrold world
 iab wronhg wrong
 iab wront wrong
+iab wroote wrote
 iab wrorg wrong
 iab wrorry worry
 iab wrory worry
