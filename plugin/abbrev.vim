@@ -2431,7 +2431,9 @@ iab accuraltely accurately
 iab accuraltey accurately
 iab accurancy accuracy
 iab accurarelty accurately
+iab accurarely accurately
 iab accuratelyu accurately
+iab accuratenly accurately
 iab accuration accurate
 iab accuratly accurately
 iab accuratlye accurately
@@ -2704,6 +2706,7 @@ iab adversion aversion
 iab adviseds advises
 iab advive advice
 iab advoiding avoiding
+iab adws as
 iab ady day
 iab aeen been
 iab aenough enough
@@ -3454,6 +3457,7 @@ iab appliction application
 iab applictiopn application
 iab applidations applications
 iab appliee applied
+iab appliucation application
 iab applixations applications
 iab applixcations applications
 iab applkcaiton application
@@ -6414,6 +6418,7 @@ iab copyijng copying
 iab copys copies
 iab coreated created
 iab corecte correct
+iab corected corrected
 iab corections corrections
 iab coredct correct
 iab corerct correct
@@ -6688,6 +6693,7 @@ iab custoimer customer
 iab customres customers
 iab cuystomer customer
 iab cventer center
+iab cvomptuer computer
 iab cvould could
 iab cvreen screen
 iab cwpenvil pencil
@@ -8664,6 +8670,7 @@ iab entrace entrance
 iab entrepenurial entrepreneurial
 iab entrepreuners entrepreneurs
 iab entriresd entries
+iab entriy entry
 iab entusiiastic enthusiastic
 iab entyirey entirely
 iab entyr entry
@@ -8783,6 +8790,7 @@ iab epxoerience experience
 iab epxortds exports
 iab eqaillly equally
 iab eqalully equally
+iab eqasier easier
 iab eqasyt easy
 iab eqaully equally
 iab eqcuse excuse
@@ -9026,6 +9034,7 @@ iab evertygthinnn everything
 iab evertyhing everything
 iab evertyhthing everything
 iab evertyhting everything
+iab evertyhuing everything
 iab evertyig everything
 iab evertyihg everything
 iab evertyihgn everything
@@ -9088,6 +9097,7 @@ iab evfery every
 iab evferyone everyone
 iab evferything everything
 iab evffective effective
+iab evffort effort
 iab evfforts efforts
 iab evicence evidence
 iab evidenlty evidently
@@ -9783,6 +9793,7 @@ iab finisahed finished
 iab finishewd finished
 iab finlaly finally
 iab finnessing finessing
+iab finsd find
 iab finsh finish
 iab finsidhed finished
 iab finsiehd finished
@@ -10126,6 +10137,7 @@ iab fulful fulfil
 iab fulfull fulfill
 iab fulfulling fulfilling
 iab fulleset fullest
+iab funally finally
 iab funalmentally fundamentally
 iab funamental fundamental
 iab funcamantela fundamental
@@ -10935,6 +10947,7 @@ iab hpappneed happened
 iab hpe hope
 iab hphazer phaser
 iab hphone phone
+iab hping hoping
 iab hpocamous hippocampus
 iab hpoe hope
 iab hpoeps hopes
@@ -11962,6 +11975,7 @@ iab inteiotn intention
 iab inteitnoin intention
 iab inteliigent intelligent
 iab intellgent intelligent
+iab intelliginble intelligible
 iab intendend intended
 iab intendnetgd intended
 iab intenet internet
@@ -12512,6 +12526,7 @@ iab keybard keyboard
 iab keybarod keyboard
 iab keybboard keyboard
 iab keybeard keyboard
+iab keybiaord keyboard
 iab keybiard keyboard
 iab keybindigns keybindings
 iab keybioard keyboard
@@ -12763,6 +12778,7 @@ iab ldenghth length
 iab ldength length
 iab ldly idly
 iab ldneght length
+iab le4ss less
 iab leaadershoioip leadership
 iab leaarned learned
 iab leaerning learning
@@ -14397,6 +14413,7 @@ iab nmy my
 iab nnight night
 iab nnormal normal
 iab nnot not
+iab nnow now
 iab nnubmer number
 iab no0w now
 iab noather another
@@ -16499,6 +16516,7 @@ iab producdtuive productive
 iab producec produced
 iab producesd produced
 iab producett product
+iab produciung producing
 iab producongi producing
 iab producrively productively
 iab producted produced
@@ -16506,6 +16524,7 @@ iab productes products
 iab productibely productively
 iab productibvely productively
 iab productifgity productivity
+iab producting producing
 iab productiuno production
 iab productiveee productive
 iab productivigy productivity
@@ -16987,6 +17006,7 @@ iab qworking working
 iab qwustions questions
 iab qyanitities quantities
 iab qyit quit
+iab qyucjly quickly
 iab qyucly quickly
 iab qyuiclly quickly
 iab qyuicluy quickly
@@ -17044,6 +17064,7 @@ iab rcope scope
 iab reaal real
 iab reaceivec received
 iab reacently recently
+iab reacll recall
 iab reacreate recreate
 iab reacrtive reactive
 iab reacticee reactive
@@ -17055,6 +17076,7 @@ iab readd read
 iab readign reading
 iab readignt reading
 iab readin reading
+iab readinb reading
 iab readingt reading
 iab readiocative radioactive
 iab readmone readme
@@ -17235,6 +17257,7 @@ iab recrationtal recreational
 iab recriotedr recruiter
 iab rectalcngle rectangle
 iab rectangel rectangle
+iab recuction reduction
 iab recuirtment recruitment
 iab recularly regularly
 iab recursibley recursively
@@ -18606,6 +18629,7 @@ iab sensde sense
 iab sensiteive sensitive
 iab sensoury sensory
 iab senstyion sensation
+iab senteance sentence
 iab senteence sentence
 iab sentencdes sentences
 iab sentencdet sentence
@@ -20224,6 +20248,7 @@ iab syuppoised supposed
 iab syupport support
 iab syystem system
 iab t0 to
+iab t4extr text
 iab t4hat that
 iab tHuman human
 iab tThis this
@@ -20629,6 +20654,7 @@ iab tghrough through
 iab tghuis this
 iab tgiven given
 iab tgoal goal
+iab tgouched touched
 iab tgus this
 iab th3eir their
 iab th4eir their
@@ -21676,6 +21702,7 @@ iab understsnd understand
 iab undertand understand
 iab underwheliming underwhelming
 iab undesdrtand understand
+iab undesirabole undesirable
 iab undesireable undesirable
 iab undesrand understand
 iab undesranging understanding
@@ -22430,6 +22457,7 @@ iab welll well
 iab welwathy wealthy
 iab wemt went
 iab wensure ensure
+iab weokrt work
 iab wepaosns weapons
 iab werath wreath
 iab werbsites websites
@@ -23151,6 +23179,7 @@ iab yhlou you
 iab yhoiuyr your
 iab yhou you
 iab yhour your
+iab yiu you
 iab ylimiately ultimately
 iab ylu you
 iab ylur your
