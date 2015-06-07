@@ -2119,6 +2119,7 @@ iab Yeha Yeah
 iab Yerdterday Yesterday
 iab Yesderady Yesterday
 iab Yesdgtarday Yesterday
+iab Yessterday Yesterday
 iab Yesterdaty Yesterday
 iab Yesterdrady Yesterday
 iab Yestersady Yesterday
@@ -2212,6 +2213,7 @@ iab ablilty ability
 iab ablr able
 iab ablsoluytely absolutely
 iab abnd and
+iab abnle able
 iab abnout about
 iab aboanodoned abandoned
 iab aboce above
@@ -2882,6 +2884,7 @@ iab almignment alignment
 iab almingment alignment
 iab almingmnet alignment
 iab almosat almost
+iab almosdt almost
 iab almowt almost
 iab almsot almost
 iab alngles angles
@@ -3587,6 +3590,7 @@ iab aritisds artists
 iab aritss artist
 iab aritst artist
 iab arive arrive
+iab arivvedf arrived
 iab arleady already
 iab arleday already
 iab arlgiht alright
@@ -9309,6 +9313,7 @@ iab exmpale example
 iab exmplain explain
 iab exmple example
 iab exmsaple example
+iab exoperience experience
 iab exosts exists
 iab expaceted expected
 iab expadning expanding
@@ -9741,6 +9746,7 @@ iab filmn film
 iab filpmlmakers filmmakers
 iab filtesr filters
 iab fimmalkers filmmakers
+iab fimnmd find
 iab finacial financial
 iab finacnes finances
 iab finallly finally
@@ -9968,6 +9974,7 @@ iab freendom freedom
 iab freenodee freenode
 iab freewringing freewriting
 iab freewritinga freewriting
+iab freewritingh freewriting
 iab freh free
 iab freiend friend
 iab freiends friends
@@ -10360,6 +10367,7 @@ iab gokgnt going
 iab gonig going
 iab gonigt going
 iab goning going
+iab gooooooooing going
 iab gorceryies groceries
 iab gorcieres groceries
 iab gorgginess grogginess
@@ -13645,6 +13653,7 @@ iab mimiking mimicking
 iab mindeste mindset
 iab miniamlly minimally
 iab minillion million
+iab minind mind
 iab minior minor
 iab miniror minor
 iab minites minutes
@@ -13785,6 +13794,7 @@ iab mkstakne mistaken
 iab mkstanken mistaken
 iab mkstianek mistaken
 iab mlilk milk
+iab mlilkshake milkshake
 iab mlong long
 iab mmaazed amazed
 iab mmay may
@@ -14326,6 +14336,7 @@ iab ngitht night
 iab ngoufh enough
 iab nhaturally naturally
 iab nhave have
+iab nhor hour
 iab nhowver however
 iab nhumsan human
 iab nicelny nicely
@@ -14402,6 +14413,7 @@ iab notavle notable
 iab notbeoo notebook
 iab notbeooks notebooks
 iab notbuihg nothing
+iab notebooki notebook
 iab notebooksd notebooks
 iab noteboook notebook
 iab notecrd notecard
@@ -14822,6 +14834,7 @@ iab onow know
 iab ontain contain
 iab ontastnly constantly
 iab onths months
+iab ontinue continue
 iab ontorl control
 iab ontp onto
 iab ontroller controller
@@ -15174,6 +15187,7 @@ iab owkr work
 iab owkring working
 iab owman woman
 iab owno own
+iab owork work
 iab oworlds worlds
 iab owould would
 iab owrd word
@@ -17062,6 +17076,7 @@ iab reaquire require
 iab reareahch research
 iab rearely rarely
 iab rearfy rarefy
+iab reasarch research
 iab reasd read
 iab reasder reader
 iab reasdon reason
@@ -17069,6 +17084,13 @@ iab reasearch research
 iab reasearfch research
 iab reaseearchign researching
 iab reasen reason
+iab reaserhcx research
+iab reasertch research
+iab reasesfch research
+iab reasesrhc research
+iab reasesxhrch research
+iab reashdersrhc research
+iab reasherdh research
 iab reasl real
 iab reaslise realise
 iab reasno reason
@@ -17638,13 +17660,17 @@ iab resaearch research
 iab resaearchers researchers
 iab resaerachers researchers
 iab resaerch research
+iab resaergch research
 iab resaon reason
 iab resarech research
 iab resareching researching
 iab resatricttion restriction
 iab resceived received
 iab rescieved received
+iab resdaeach research
+iab resdaqrch research
 iab resdearch research
+iab resdeargch research
 iab reseach research
 iab reseagch research
 iab researcdh research
@@ -17654,13 +17680,17 @@ iab researcing researching
 iab researdch research
 iab researfch research
 iab researhing researching
+iab researtch research
 iab resefrvations reservations
 iab reseiver receiver
 iab reseivers receivers
 iab reselmbalnce resemblance
 iab resembalnce resemblance
 iab resembalnces resemblances
+iab reseqarch research
 iab reseqrchers researchers
+iab reserach research
+iab reseracth research
 iab reseraunt restaurant
 iab reserverd reserved
 iab resetore restore
@@ -18328,6 +18358,7 @@ iab scren screen
 iab screne screen
 iab screnen screen
 iab screnplay screenplay
+iab scribblling scribbling
 iab scrilll scroll
 iab scriopt script
 iab scripot script
@@ -20894,6 +20925,7 @@ iab thtat that
 iab thte the
 iab thtem them
 iab thtis this
+iab thuis this
 iab thumbail thumbnail
 iab thumbails thumbnails
 iab thumntails thumbnails
