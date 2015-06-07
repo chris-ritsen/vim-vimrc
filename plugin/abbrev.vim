@@ -7515,6 +7515,7 @@ iab disconnested disconnected
 iab disconnestedd disconnected
 iab disconnnected disconnected
 iab disconnvet disconnect
+iab discoursive discursive
 iab discoverd discover
 iab discoverd discovered
 iab discovereies discoveries
@@ -8009,6 +8010,7 @@ iab eafdtly exactly
 iab eago ago
 iab eah each
 iab eahc each
+iab eailly equally
 iab eaiser easier
 iab eaislpy easily
 iab eaisly easily
@@ -9340,6 +9342,7 @@ iab expeccting expecting
 iab expecddtd expected
 iab expecdt expect
 iab expecdting expecting
+iab expecefted expected
 iab expecet expect
 iab expecetations expectations
 iab expecetd expected
@@ -14097,6 +14100,7 @@ iab mutplme multiple
 iab muxh much
 iab muy my
 iab muych much
+iab muyself myself
 iab muystery mystery
 iab mvoe move
 iab mwho who
@@ -19399,6 +19403,7 @@ iab spcifically specifically
 iab speacde space
 iab speach speech
 iab spearate separate
+iab spearated separated
 iab spearator separator
 iab speash speech
 iab speawk speak
@@ -19647,6 +19652,7 @@ iab stilll still
 iab stillnetss stillness
 iab stimiulus stimulus
 iab stimulands stimulants
+iab stimuluant stimulant
 iab stimumulate stimulate
 iab stimuslus stimulus
 iab stimuus stimulus
