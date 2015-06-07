@@ -118,6 +118,8 @@ autocmd! FileType xdefaults setlocal commentstring=/*\ %s\ */
 
 autocmd! BufRead,BufNewFile /etc/X11/xorg.conf.d/* setfiletype xf86conf
 
+autocmd! BufRead,BufNewFile ~/.festivalrc setfiletype lisp
+
 autocmd! BufRead,BufNewFile /etc/nginx/nginx.conf,/usr/local/nginx/conf/* setfiletype nginx
 
 " Email {{{
