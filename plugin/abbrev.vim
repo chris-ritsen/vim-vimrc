@@ -1808,6 +1808,7 @@ iab Tgey They
 iab Tghis This
 iab Tgus This
 iab Tgusi This
+iab Th8is This
 iab Thainsk Thanks
 iab Thaisnks Thanks
 iab Thaisnsk Thanks
@@ -3107,6 +3108,7 @@ iab anoterh another
 iab anothber another
 iab anothe another
 iab anotherh another
+iab anothger another
 iab anotner another
 iab anotuher another
 iab anotyihug anything
@@ -3156,6 +3158,7 @@ iab antipciapting anticipating
 iab antiyng anything
 iab antoehr another
 iab antoher another
+iab anty8hg anything
 iab antygbing anything
 iab antyghin anything
 iab antygning anything
@@ -3229,6 +3232,7 @@ iab anythignt anything
 iab anythihgn anything
 iab anythinb anything
 iab anythiong anything
+iab anythiungh anything
 iab anythnign anything
 iab anythrign anything
 iab anytign anything
@@ -6710,6 +6714,7 @@ iab dailog dialog
 iab dailyu daily
 iab daioly daily
 iab dalso also
+iab damageed damaged
 iab damagie damage
 iab damamged damaged
 iab damamging damaging
@@ -7295,6 +7300,7 @@ iab dierctory directory
 iab diescrpotn discription
 iab dieseses diereses
 iab diesng design
+iab diesribable desirable
 iab diferent different
 iab diffciyglty difficulty
 iab diffectne different
@@ -9083,6 +9089,7 @@ iab evicence evidence
 iab evidenlty evidently
 iab evidentally evidently
 iab evidentlally evidently
+iab evidfenced evidenced
 iab evisible visible
 iab evither either
 iab evleotion evolution
@@ -9819,6 +9826,7 @@ iab fiuther further
 iab fixagtion fixation
 iab fixds fixes
 iab fixign fixing
+iab fixiing fixing
 iab fkae fake
 iab flalwlessly flawlessly
 iab flaot float
@@ -9847,6 +9855,7 @@ iab flushin flushing
 iab flyusahes flushes
 iab fmaily family
 iab fmaimily family
+iab fmind mind
 iab fnish finish
 iab fnished finished
 iab fnisinng finishing
@@ -10530,6 +10539,7 @@ iab haove have
 iab hapahzardly haphazardly
 iab hapbit habit
 iab hapen happen
+iab hapepening happening
 iab hapepens happens
 iab hapepn happen
 iab hapepnign happening
@@ -11124,6 +11134,7 @@ iab icompptuer computer
 iab iconinc iconic
 iab iconmic iconic
 iab iconoic iconic
+iab icould could
 iab idae idea
 iab idae3 idea
 iab idaeas ideas
@@ -11828,6 +11839,7 @@ iab insecnse incense
 iab insepect inspect
 iab insepection inspection
 iab insescts insects
+iab insgtead instead
 iab insidght insight
 iab insidhgt insight
 iab insidse inside
@@ -14042,6 +14054,7 @@ iab mthem them
 iab mtytologied mythologies
 iab mtyx tmux
 iab mucdrpooohpe microphone
+iab mucg much
 iab muchb much
 iab muchd much
 iab mucht must
@@ -15638,6 +15651,7 @@ iab perspon person
 iab perston person
 iab persue pursue
 iab persuing pursuing
+iab pertmisabble permissible
 iab pessessing possessing
 iab peview preview
 iab pfocess process
@@ -16117,6 +16131,7 @@ iab ppareiciatedc appreciated
 iab pparition apparition
 iab pperformances performances
 iab pperson person
+iab ppisdde episode
 iab ppissible possible
 iab pplan plan
 iab ppoind pound
@@ -16267,6 +16282,7 @@ iab preocesses processes
 iab preocessing processing
 iab preoduce produce
 iab preofious previous
+iab preopertyy property
 iab preopisitions prepositions
 iab preoposiotins prepositions
 iab preopositions prepositions
@@ -18397,6 +18413,7 @@ iab sdays days
 iab sdcheduling scheduling
 iab sdcripts scripts
 iab sdcripty script
+iab sdeason season
 iab sdeciede decide
 iab sdeisgn design
 iab sdelected selected
@@ -18413,6 +18430,7 @@ iab sdevleopemnt development
 iab sdevliopmetn development
 iab sdimply simply
 iab sdistinct distinct
+iab sdistractions distractions
 iab sdite site
 iab sdleepign sleeping
 iab sdo do
@@ -18897,6 +18915,7 @@ iab simmilar similar
 iab simmply simply
 iab simoilar similar
 iab simol similar
+iab simoply simply
 iab simpilar similar
 iab simpke simple
 iab simplation simulation
@@ -19658,6 +19677,7 @@ iab stoarage storage
 iab stocastic stochastic
 iab stoel stole
 iab stoerd stored
+iab stoip stop
 iab stooorage storage
 iab stoorayge storage
 iab stopedt stopped
@@ -20186,6 +20206,7 @@ iab syuper super
 iab syuppoised supposed
 iab syupport support
 iab syystem system
+iab t0 to
 iab t4hat that
 iab tHuman human
 iab tThis this
@@ -20979,6 +21000,7 @@ iab tinstead instead
 iab tio to
 iab tiol tool
 iab tirals trials
+iab tiredf tired
 iab tirgger trigger
 iab tiringu tiring
 iab tirinug tiring
@@ -22344,6 +22366,7 @@ iab weeknd weekend
 iab weekned weekend
 iab weekneed weekend
 iab wefverying everything
+iab wefverythingh everything
 iab wegb web
 iab wegbbsites websites
 iab wegbcam webcam
@@ -22852,6 +22875,7 @@ iab wqatch watch
 iab wqhat what
 iab wqill will
 iab wqinsdow window
+iab wqtching watching
 iab wqual equal
 iab wquestion question
 iab wquestions questions
@@ -22885,6 +22909,7 @@ iab writign writing
 iab writigng writing
 iab writiign writing
 iab writiing writing
+iab writingh writing
 iab writingsw writings
 iab writinhg writing
 iab writinp writing
@@ -22958,6 +22983,7 @@ iab wuiality equally
 iab wuich which
 iab wuick quick
 iab wuidth width
+iab wuiht with
 iab wuit quit
 iab wuith with
 iab wundow window
@@ -23051,6 +23077,7 @@ iab yeawras years
 iab yeawrazs years
 iab yeawrs years
 iab yeazr year
+iab yedstdrday yesterday
 iab yedsteradsy yesterday
 iab yedsterday yesterday
 iab yeilded yielded
