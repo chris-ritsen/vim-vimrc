@@ -831,6 +831,7 @@ iab KRoger Kroger
 iab Karne Karen
 iab Kenrle Kernel
 iab Kentuckly Kentucky
+iab Kepe Keep
 iab Ketchupe Ketchup
 iab KeyErorr KeyError
 iab Keyep Keep
@@ -3525,6 +3526,7 @@ iab aqbout about
 iab aqeuire acquire
 iab aqll all
 iab aqn an
+iab aqnd and
 iab aquianted acquainted
 iab aquicre acquire
 iab aquire acquire
@@ -3954,6 +3956,7 @@ iab aviallbel available
 iab aviioded avoided
 iab avilable available
 iab avilalbel available
+iab avilouded avoided
 iab avioud avoid
 iab aviouded avoided
 iab avoidddds avoids
@@ -4685,6 +4688,7 @@ iab budilgins buildings
 iab budjet budget
 iab budnlded bundled
 iab budnled bundled
+iab buecaseu because
 iab buecause because
 iab bufafla buffalo
 iab bufalo buffalo
@@ -5251,6 +5255,7 @@ iab citaitons citations
 iab citiations citations
 iab citizesn citizens
 iab cjhair chair
+iab cjwcomes comes
 iab ckeyboard keyboard
 iab ckick click
 iab ckind kind
@@ -5350,6 +5355,7 @@ iab cloothes clothes
 iab clor color
 iab closeley closely
 iab closewd closed
+iab closiung closing
 iab closlely closely
 iab closley closely
 iab closwe close
@@ -6436,6 +6442,7 @@ iab correctiosn corrections
 iab correctling correcting
 iab correctoins corrections
 iab correctws corrects
+iab correcty correctly
 iab corredcdlty correctly
 iab corredct correct
 iab corredtions corrections
@@ -7903,6 +7910,7 @@ iab dstill still
 iab dstroyed destroyed
 iab dstudent student
 iab dstuffing stuffing
+iab dstumble stumble
 iab dstyle style
 iab dsuggestws suggests
 iab dswecond second
@@ -11975,8 +11983,11 @@ iab interestes interests
 iab interestesing interesting
 iab interestesting interesting
 iab interestign interesting
+iab interestigns interesting
+iab interestings interesting
 iab interestsa interests
 iab interestting interesting
+iab interestwigns interesting
 iab interestying interesting
 iab intereted interested
 iab interetn internet
@@ -12282,6 +12293,7 @@ iab itmestamps timestamps
 iab itnerepreation interpretation
 iab itnerest interest
 iab itnerested interested
+iab itnerestinsg interesting
 iab itnerface interface
 iab itnerntet internet
 iab itnerval interval
@@ -12808,6 +12820,7 @@ iab leran learn
 iab lerngth length
 iab lesast least
 iab lesat least
+iab lesds less
 iab leters letters
 iab letteer letter
 iab lettesr letters
@@ -16882,6 +16895,7 @@ iab quickloy quickly
 iab quicklu quickly
 iab quickluy quickly
 iab quicklyu quickly
+iab quickply quickly
 iab quickyl quickly
 iab quickyy quickly
 iab quicl quick
@@ -19732,6 +19746,7 @@ iab stule style
 iab stules styles
 iab stumblining stumbling
 iab stumuluis stimulus
+iab stuop stop
 iab stupisd stupid
 iab stupiud stupid
 iab stupud stupid
@@ -20183,6 +20198,7 @@ iab talkeda talked
 iab talki talk
 iab talkinag talking
 iab talkingt talking
+iab talkong talking
 iab talmost almost
 iab tanble table
 iab tand tend
@@ -20425,6 +20441,7 @@ iab teosday today
 iab teporalrly temporally
 iab teqnuquie technique
 iab terck trek
+iab teresting interesting
 iab terible terrible
 iab terinal terminal
 iab termal thermal
@@ -20925,6 +20942,7 @@ iab timmothy timothy
 iab tininkgin thinking
 iab tinkgs things
 iab tinking thinking
+iab tinnk think
 iab tinstead instead
 iab tio to
 iab tiol tool
@@ -21127,6 +21145,7 @@ iab toyda today
 iab toyday today
 iab toydsa today
 iab toype type
+iab toyping typing
 iab tp to
 iab tpiying typing
 iab tpo to
@@ -21405,6 +21424,7 @@ iab twuqeiton question
 iab twvelve twelve
 iab twxt text
 iab tyhat that
+iab tyhere there
 iab tyhpe type
 iab tyhping typing
 iab tyo two
@@ -21786,6 +21806,7 @@ iab upublished published
 iab upullled unplugged
 iab upushed pushed
 iab uputting putting
+iab uqseless useless
 iab uqwtions unctions
 iab urantium uranium
 iab urgencey urgency
@@ -21883,6 +21904,7 @@ iab ususlaly usually
 iab usuually usually
 iab uswe use
 iab usyally usually
+iab ut it
 iab utiilze utilize
 iab utiize utilize
 iab utilitiy utility
@@ -22330,6 +22352,7 @@ iab wekes weeks
 iab wekneded weekend
 iab welathy wealthy
 iab wella well
+iab welll well
 iab welwathy wealthy
 iab wemt went
 iab wensure ensure
@@ -22786,6 +22809,7 @@ iab wouold would
 iab wourd word
 iab wousld would
 iab wouwld would
+iab wouyld would
 iab wovlves wolves
 iab wowrk work
 iab wowuld would
