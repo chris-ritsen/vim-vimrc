@@ -6211,6 +6211,7 @@ iab contignet contingent
 iab contiitons conditions
 iab contin8ue continue
 iab contineu continue
+iab continnouysly continuously
 iab continous continuous
 iab continously continuously
 iab contintgent contingent
@@ -9920,6 +9921,7 @@ iab foth forth
 iab foucs focus
 iab foudn found
 iab foudned founded
+iab fouind found
 iab foundre founder
 iab fountin fountain
 iab fourtheen fourteen
@@ -11458,6 +11460,7 @@ iab inacurate inaccurate
 iab inadequete inadequate
 iab inadvertantly inadvertently
 iab inagibnue imagine
+iab inahbitiging inhabiting
 iab inasane insane
 iab inavdisable inadvisable
 iab inc3nese incense
@@ -11723,6 +11726,10 @@ iab ingreidents ingredients
 iab ingreteients ingredients
 iab ingto into
 iab inh in
+iab inhabitign inhabiting
+iab inhabitiign inhabiting
+iab inhabititing inhabiting
+iab inhaibitign inhabiting
 iab inhalfe inhale
 iab inheritence inheritance
 iab inhtteresting interesting
@@ -12522,6 +12529,7 @@ iab kithcyen kitchen
 iab kittetns kittens
 iab kitttnes kittens
 iab kityhchen kitchen
+iab kjeep keep
 iab klearn learn
 iab klike like
 iab klnew knew
@@ -16876,6 +16884,7 @@ iab quickluy quickly
 iab quicklyu quickly
 iab quickyl quickly
 iab quickyy quickly
+iab quicl quick
 iab quiclh quickly
 iab quiclhy quickly
 iab quicljky quickly
@@ -20602,6 +20611,7 @@ iab thenmes themes
 iab thenmselves themselves
 iab theoropy therapy
 iab thep the
+iab ther there
 iab ther4e there
 iab theraew there
 iab theree there
@@ -20642,6 +20652,7 @@ iab thesw these
 iab theswe these
 iab theswuarus thesaurus
 iab thet the
+iab thethem them
 iab thethered tethered
 iab thewnm them
 iab thewre there
@@ -21335,6 +21346,7 @@ iab tthey they
 iab tthing thing
 iab tthis this
 iab tthoughts thoughts
+iab tto to
 iab ttoday today
 iab ttomorrow tomorrow
 iab ttowards towards
@@ -21718,6 +21730,7 @@ iab unsderstanding understanding
 iab unsderstantd understand
 iab unsertaion uncertain
 iab unsisable unusable
+iab unskillfull unskillful
 iab unsuabble unusable
 iab unsuable unusable
 iab unsubstational unsubstantial
