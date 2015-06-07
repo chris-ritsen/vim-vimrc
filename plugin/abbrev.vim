@@ -1533,6 +1533,7 @@ iab SSQL SQL
 iab STArting Starting
 iab STPO STOP
 iab STandard Standard
+iab STaring Staring
 iab STart Start
 iab STarting Starting
 iab STates States
@@ -2717,6 +2718,7 @@ iab aewesome awesome
 iab aewsome awesome
 iab aexpect expect
 iab aexpected expected
+iab aexperiences experiences
 iab aexplaination explanation
 iab afagin again
 iab afct fact
@@ -10741,6 +10743,7 @@ iab hgih high
 iab hgiher higher
 iab hgot got
 iab hhave have
+iab hhere here
 iab hhhas has
 iab hhighly highly
 iab hhjiden hidden
@@ -12541,6 +12544,7 @@ iab kidns kinds
 iab kieybaord keyboard
 iab kill3ed killed
 iab kindcator indicator
+iab kindivuiduallly individually
 iab kindo kind
 iab kineticc kinetic
 iab kinfe knife
@@ -14237,6 +14241,7 @@ iab necessaryily necessarily
 iab necessay necessary
 iab necessayr necessary
 iab necewsary necessary
+iab necewssary necessary
 iab necexssary necessary
 iab necglect neglect
 iab nect next
@@ -14743,6 +14748,7 @@ iab oether other
 iab ofadvantage advantage
 iab ofc of
 iab ofeten often
+iab offere offer
 iab offereing offering
 iab offerening offering
 iab officde office
@@ -16452,6 +16458,7 @@ iab procarastionattoipn procrastination
 iab procaratination procrastination
 iab procastanation procrastination
 iab procastnagtion procrastination
+iab procduedure procedure
 iab proce4sses processes
 iab procecssing processing
 iab proceicient proficient
@@ -18002,6 +18009,7 @@ iab riend friend
 iab rient orient
 iab rifile rifle
 iab rigbhgt right
+iab rigbht right
 iab rigbuht right
 iab rigch rich
 iab righ right
@@ -18017,6 +18025,7 @@ iab rigit rigid
 iab rigning ringing
 iab rigth right
 iab rigthbrj righters
+iab rihght right
 iab rihgt right
 iab rining ringing
 iab rinterrupt interrupt
@@ -18105,6 +18114,7 @@ iab rpobably probably
 iab rpoblem problem
 iab rpoblems problems
 iab rpocess process
+iab rpoduced produced
 iab rpogram program
 iab rpojecdets projects
 iab rpomise promise
@@ -18858,6 +18868,7 @@ iab shouod should
 iab shousld should
 iab shoutin shouting
 iab showeed showed
+iab showen shown
 iab showes shows
 iab showint showing
 iab showmn shown
@@ -21363,6 +21374,7 @@ iab trivilal trivial
 iab trivilally trivially
 iab trivilaly trivially
 iab triviqal trivial
+iab trivlally trivially
 iab triying trying
 iab triyn trying
 iab triyng trying
@@ -22167,6 +22179,7 @@ iab visuion vision
 iab visyal visual
 iab vith with
 iab viusal visual
+iab viusible visible
 iab viwwer viewer
 iab vlaleu value
 iab vlaue value
@@ -22744,6 +22757,7 @@ iab wnen when
 iab wnet went
 iab wnorap nowrap
 iab wnzt want
+iab wo9uld would
 iab woahtewver whatever
 iab woant want
 iab woants wants
