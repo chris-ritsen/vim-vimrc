@@ -135,6 +135,8 @@ noremap <down> <nop>
 " }}}2
 
 " {{{2
+"
+" surprisingly few mappings here.
 
 noremap <leader>gf :e <cfile><cr>
 noremap <leader>w <esc>:w!<cr>
