@@ -1294,6 +1294,7 @@ iab Proactical Practical
 iab Probabaly Probably
 iab Probalby Probably
 iab Probaly Probably
+iab Problaby Probably
 iab Probles Problem
 iab Probles Problems
 iab Procesing Processing
@@ -4006,6 +4007,7 @@ iab autopmatically automatically
 iab autorization authorization
 iab autovcorredctions autocorrections
 iab autpmamtic automatic
+iab autto auto
 iab auythhoring authoring
 iab auytomatically automatically
 iab avaemguhilable available
@@ -4450,6 +4452,7 @@ iab beteer better
 iab beteert better
 iab beter better
 iab betersd better
+iab betet better
 iab beteter better
 iab betetr better
 iab beteween between
@@ -5101,6 +5104,7 @@ iab celing ceiling
 iab cememetary cemetery
 iab cememtary cemetery
 iab cemetawry cemetery
+iab cenfer center
 iab cenfere center
 iab cenmtered centered
 iab cennter center
@@ -5108,6 +5112,7 @@ iab cenrter center
 iab censorshup censorship
 iab centarllized centralized
 iab centeral central
+iab centern center
 iab centrer center
 iab centry century
 iab ceonsensus consensus
@@ -7194,6 +7199,7 @@ iab dessribed described
 iab desterouted destroyed
 iab destert desert
 iab destiaiotn destination
+iab destilsa details
 iab destionation destination
 iab destitation destination
 iab destitude destitute
@@ -7858,6 +7864,7 @@ iab doctoer doctor
 iab doctotr doctor
 iab docuemnt document
 iab docuemnts documents
+iab docuemtn document
 iab documentaed documented
 iab documentaion documentation
 iab documentaiotn documentation
@@ -7879,6 +7886,7 @@ iab doh9ig doing
 iab doid did
 iab doign doing
 iab doignnn doing
+iab doignth doing
 iab doijg doing
 iab doinb doing
 iab doingg doing
@@ -10031,6 +10039,7 @@ iab fonncetion connection
 iab fonsistently consistently
 iab foolows follows
 iab footabll football
+iab footeer footer
 iab footewr footer
 iab forbit forbid
 iab forbitdden forbidden
@@ -10529,6 +10538,7 @@ iab gorund ground
 iab gorup group
 iab goruped grouped
 iab gorups groups
+iab gorw grow
 iab gorwn grown
 iab gorwoing growing
 iab gorwth growth
@@ -12963,6 +12973,7 @@ iab leawrnign learning
 iab leawrning learning
 iab leawve leave
 iab leazwve leave
+iab lecagy legacy
 iab lectronic electronic
 iab lecutures lectures
 iab leder ledger
@@ -14586,6 +14597,7 @@ iab nomral normal
 iab nomrally normally
 iab nomraly normally
 iab nomrla normal
+iab nonel none
 iab nonensen nonsense
 iab nonesense nonsense
 iab nonly only
@@ -14877,6 +14889,7 @@ iab ocmpyter computer
 iab ocmpytuer computer
 iab ocncern concern
 iab ocncrete concrete
+iab ocnditionally conditionally
 iab ocnfiguration configuration
 iab ocnfiruration configuration
 iab ocnfuse confuse
@@ -18367,6 +18380,7 @@ iab rutentr return
 iab ruvby ruby
 iab ruynning running
 iab rvamp revamp
+iab rway way
 iab rweviefwing reviewing
 iab rwhat what
 iab rwhile while
@@ -20135,6 +20149,7 @@ iab suggesets suggests
 iab suggesitng suggesting
 iab suggestioj suggestion
 iab suggggesting suggesting
+iab suhipmetn shipment
 iab suhould should
 iab suibmitting submitting
 iab suimulateniuylsy simultaneously
@@ -22395,6 +22410,7 @@ iab verywhere everywhere
 iab vesrion version
 iab vesrions versions
 iab vetearan veteran
+iab vetter better
 iab vety very
 iab vevn even
 iab vewry very
@@ -22549,8 +22565,11 @@ iab waqs was
 iab warapping wrapping
 iab wararnt warrant
 iab wardning warning
+iab warngingds warnings
 iab warnign warning
+iab warnigns warnings
 iab warniign warning
+iab warntigns warnings
 iab warraynty warranty
 iab warriers warriors
 iab wasdgtewd wasted
@@ -23182,6 +23201,7 @@ iab wquestion question
 iab wquestions questions
 iab wram warm
 iab wrandom random
+iab wranrings warnings
 iab wrappeed wrapped
 iab wrappign wrapping
 iab wrarior warrior
