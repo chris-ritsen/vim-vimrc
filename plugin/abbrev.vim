@@ -23573,3 +23573,11 @@ iab Brtoken Broken
 iab FOXME FIXME
 iab Doens Doesn
 iab FMXAME FIXME
+iab comtpueprs computers
+iab applicqable applicable
+iab lkight light
+iab mayn many
+iab beo be
+iab rytphtimuic rhythmic
+iab tyupeing typing
+iab comnitnue continue
