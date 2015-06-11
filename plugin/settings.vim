@@ -28,7 +28,8 @@ set backspace=eol,start,indent
 set cmdheight=1
 set comments+=fb:•
 set commentstring=#\ %s
-set completeopt=menuone,menu,longest,preview
+" set completeopt=menuone,menu,longest,preview
+set completeopt=
 set cpoptions=aABceFsJ "+=J
 set dictionary+=/usr/share/dict/words
 set dir=~/.vim/swap//,/tmp//,.
