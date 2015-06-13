@@ -23723,3 +23723,14 @@ iab incoconsistant inconsistent
 iab keybiding keybinding
 iab nopt not
 iab typoe type
+iab negletcting neglecting
+iab qyuality quality
+iab honme home
+iab weas was
+iab preinting printing
+iab conection connection
+iab bering being
+iab printerr printer
+iab asdytying anything
+iab ocnencted connected
+iab beren been
