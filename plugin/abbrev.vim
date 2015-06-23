@@ -23759,3 +23759,9 @@ iab downloagi downloading
 iab evneytually eventually
 iab stcuck stuck
 iab dicitonalry dictionary
+iab mighjt might
+iab fastrer faster
+iab uynless unless
+iab lasteed lasted
+iab Krogrter Kroger
+iab shortlly shortly
