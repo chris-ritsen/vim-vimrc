@@ -862,6 +862,7 @@ iab Klonkike Klondike
 iab Knolwedge Knowledge
 iab Knowlege Knowledge
 iab Krogrer Kroger
+iab Krogrter Kroger
 iab LIEK LIKE
 iab LIke Like
 iab LInuz Linux
@@ -2956,6 +2957,7 @@ iab aliaes alias
 iab aliaesd aliased
 iab aliaese aliases
 iab aliaesses aliases
+iab aliasd alias
 iab aliasesw aliases
 iab alibe alive
 iab alient alien
@@ -4553,6 +4555,7 @@ iab bfour four
 iab bfrom from
 iab bge be
 iab bgest best
+iab bgetter better
 iab bgood good
 iab bgrab grab
 iab biarual binaural
@@ -7464,6 +7467,7 @@ iab dibelif disbelief
 iab dichotopmy dichotomy
 iab dicipline discipline
 iab diciplined disciplined
+iab dicitonalry dictionary
 iab dicntionary dictionary
 iab dicontinued discontinued
 iab dictatiion dictation
@@ -7965,6 +7969,7 @@ iab doen done
 iab doens doesn
 iab doensn doesn
 iab doesnt doesn't
+iab doewnloading downloading
 iab dogin doing
 iab doging doing
 iab doh9ig doing
@@ -8033,6 +8038,7 @@ iab downlaoded downloaded
 iab downlaoding downloading
 iab downlaoed downloaded
 iab downloadign downloading
+iab downloagi downloading
 iab downloasds downloads
 iab downloawding downloading
 iab downoader downloader
@@ -9335,6 +9341,7 @@ iab evnetuall eventually
 iab evnetually eventually
 iab evnetuallyu eventually
 iab evneutally eventually
+iab evneytually eventually
 iab evniornment environment
 iab evniroment environment
 iab evnironemtn environment
@@ -9563,6 +9570,7 @@ iab expalin explain
 iab expalins explains
 iab expalmple example
 iab expample example
+iab expansinon expansion
 iab expcet expect
 iab expcetion exception
 iab expct expect
@@ -9852,6 +9860,7 @@ iab fasion fashion
 iab fasle false
 iab faslse false
 iab faste fast
+iab fastrer faster
 iab fatehr father
 iab fatigure fatigue
 iab fauth faith
@@ -12978,6 +12987,7 @@ iab larmps lamps
 iab lasdt last
 iab laset least
 iab laste least
+iab lasteed lasted
 iab lasters lasers
 iab lastest latest
 iab lastg last
@@ -13975,6 +13985,7 @@ iab middl3 middle
 iab midlde middle
 iab midpouint midpoint
 iab mighbt might
+iab mighjt might
 iab mighr might
 iab migth might
 iab miinutes minutes
@@ -16399,6 +16410,7 @@ iab posirtion position
 iab posisbile possible
 iab posisble possible
 iab posisblity possibility
+iab posisblwey possibly
 iab posisbly possibly
 iab posisgble possible
 iab posisible possible
@@ -19280,6 +19292,7 @@ iab shoppingt shopping
 iab shoppoing shopping
 iab shorteneed shortened
 iab shortented shortened
+iab shortlly shortly
 iab shoudl should
 iab shoudlb should
 iab shoudle should
@@ -20040,6 +20053,7 @@ iab stayrtup startup
 iab stayu stay
 iab stchools schools
 iab stck stick
+iab stcuck stuck
 iab steaddied steadied
 iab steaff staff
 iab steaths deaths
@@ -20744,6 +20758,7 @@ iab tackign tacking
 iab tactions actions
 iab tadoy today
 iab tafcking tracking
+iab tafgtded targeted
 iab tafter after
 iab taget target
 iab tahat that
@@ -20779,14 +20794,45 @@ iab tansclude transclude
 iab taought taught
 iab taqsked tasked
 iab tarangtuala tarantula
+iab tarcdtedted targeted
 iab tarck track
 iab tarcking tracking
 iab tarct tract
+iab tardetted targeted
 iab tardiitaionlly traditionally
+iab tardtdted targeted
+iab tardtegetd targeted
+iab tardtegetdd targeted
+iab tardteted targeted
 iab taregeting targeting
+iab tarfgtedd targeted
+iab targdecd targeted
+iab targded targeted
+iab targdeded targeted
+iab targdetedt targeted
+iab targdtedted targeted
+iab targeded targeted
+iab targedted targeted
+iab targedtsd targeted
+iab targeeteted targeted
 iab targetd target
+iab targetdeed targeted
+iab targetdged targeted
+iab targetdt5d targeted
+iab targetdted targeted
+iab targeteted targeted
+iab targetgec targeted
 iab targetted targeted
 iab targetting targeting
+iab targtded targeted
+iab targteced targeted
+iab targted targeted
+iab targtedded targeted
+iab targtedec targeted
+iab targteded targeted
+iab targtedetd targeted
+iab targtedted targeted
+iab targtetted targeted
 iab tarining training
 iab tarkcpad trackpad
 iab tarnsactions transactions
@@ -20797,6 +20843,8 @@ iab tarnslate translate
 iab tarnslational translational
 iab tarnsparent transparent
 iab tarnsposition transposition
+iab tarteted targeted
+iab tartgetded targeted
 iab tarveling traveling
 iab tasest tastes
 iab tasiks tasks
@@ -22521,6 +22569,7 @@ iab uworking working
 iab uyellow yellow
 iab uyncahnged unchanged
 iab uynleahtly unhealthy
+iab uynless unless
 iab uyou you
 iab uyouy you
 iab uyp up
