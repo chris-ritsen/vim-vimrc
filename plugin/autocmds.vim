@@ -54,6 +54,7 @@ augroup filetypes
 
 autocmd! BufNewFile,BufRead *.c,*.cpp set foldmethod=syntax
 autocmd! Syntax c,cpp,php,perl setlocal foldmethod=syntax | normal zM
+autocmd! FileType c setlocal foldmethod=syntax commentstring=\/\/\ %s
 
 " }}}4
 

@@ -2030,6 +2030,7 @@ iab WAitign Waiting
 iab WAking Waking
 iab WAsting Wasting
 iab WAtchign Watching
+iab WAtching Watching
 iab WEbseter Webster
 iab WEbsetr Webster
 iab WEbster Webster
@@ -5633,6 +5634,7 @@ iab coefefificent coefficient
 iab coefiicient coefficient
 iab coehesive cohesive
 iab coem come
+iab coente content
 iab coerrceting correcting
 iab cofee coffee
 iab coffe coffee
@@ -8207,6 +8209,7 @@ iab dwith with
 iab dwown down
 iab dxjact exact
 iab dya day
+iab dybnamic dynamic
 iab dymaic dynamic
 iab dymaicds dynamics
 iab dynamucally dynamically
@@ -8923,6 +8926,7 @@ iab envirmonetnt environment
 iab envirmpoment environment
 iab envirnment environment
 iab envirnoment environment
+iab enviromemtn environment
 iab enviromenbt environment
 iab enviroment environment
 iab enviromentmentt environment
@@ -9323,6 +9327,7 @@ iab evferything everything
 iab evffective effective
 iab evffort effort
 iab evfforts efforts
+iab evho echo
 iab evicence evidence
 iab evidenlty evidently
 iab evidentally evidently
@@ -9984,6 +9989,7 @@ iab filded filed
 iab fileds fields
 iab filesa files
 iab filess files
+iab filesystmes filesystems
 iab filetuype filetype
 iab filexs files
 iab filfilling fulfilling
@@ -13907,6 +13913,7 @@ iab messagess messages
 iab messaggenrs messengers
 iab messdgy messy
 iab messgage message
+iab messign messing
 iab messsage message
 iab messsages messages
 iab metabilisom metabolism
@@ -14399,6 +14406,7 @@ iab msyefl myself
 iab msyself myself
 iab mthe the
 iab mthem them
+iab mtux tmux
 iab mtytologied mythologies
 iab mtyx tmux
 iab mucdrpooohpe microphone
@@ -14648,6 +14656,7 @@ iab netered entered
 iab netfilix netflix
 iab netiher neither
 iab netity entity
+iab netowkk network
 iab nettwrok network
 iab netwokr network
 iab netwokring networking
@@ -15503,6 +15512,7 @@ iab otther other
 iab ottold told
 iab otu out
 iab otuer other
+iab otusiede outside
 iab oubhd bound
 iab oughht ought
 iab ouit out
@@ -19595,6 +19605,7 @@ iab smistakes mistakes
 iab smithereans smithereens
 iab smoe some
 iab smoek smoke
+iab smoethgin something
 iab smoethign something
 iab smoething something
 iab smoewhere somewhere
@@ -21831,7 +21842,9 @@ iab traithts traits
 iab trakc track
 iab trakcer tracker
 iab trakcers trackers
+iab trakcifng tracking
 iab trakcing tracking
+iab trakciugn tracking
 iab trakckpad trackpad
 iab trakcpad trackpad
 iab trakcpdad trackpad
@@ -23873,8 +23886,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab dybnamic dynamic
-iab trakcifng tracking
-iab coente content
-iab trakciugn tracking
-iab serach search
