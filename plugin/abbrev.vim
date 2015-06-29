@@ -23873,3 +23873,14 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
+iab WAtching Watching
+iab mtux tmux
+iab netowkk network
+iab ioptions options
+iab evho echo
+iab optoins options
+iab enviromemtn environment
+iab messign messing
+iab filesystmes filesystems
+iab otusiede outside
+iab smoethgin something
