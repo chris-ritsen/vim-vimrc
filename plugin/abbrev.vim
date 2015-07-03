@@ -197,6 +197,7 @@ iab DRussell Russell
 iab DSead Dead
 iab DSuddenly Suddenly
 iab DUck Duck
+iab DUpliacated Duplicated
 iab DVorak Dvorak
 iab Dalkes Daleks
 iab Davision Davison
@@ -662,6 +663,7 @@ iab IMagine Imagine
 iab IMplemeneted Implemented
 iab IMportnatn Important
 iab IMprotant Important
+iab IMprove Improve
 iab IMprovigin Improving
 iab IMprovment Improvement
 iab INTEFEACE INTERFACE
@@ -1475,6 +1477,7 @@ iab Respnsible Responsible
 iab Responsiblitiets Responsibilities
 iab Retn Rent
 iab Reuiqmrenteza Requirements
+iab Reverasal Reversal
 iab Revist Revisit
 iab Rewcord Record
 iab Rewpeat Repeat
@@ -5635,6 +5638,7 @@ iab codel code
 iab codign coding
 iab codmptuers computers
 iab codmptyer computer
+iab codse code
 iab codw code
 iab coe code
 iab coee code
@@ -5735,6 +5739,7 @@ iab comee come
 iab comef come
 iab coment comment
 iab comeplte complete
+iab comepltely completely
 iab comeptuyer computer
 iab comex comes
 iab comfiroting comforting
@@ -6532,6 +6537,7 @@ iab convinvcing convincing
 iab convition conviction
 iab convulted convoluted
 iab convuluted convoluted
+iab conyrtoller controller
 iab cooffee coffee
 iab cookeis cookies
 iab cookines cookies
@@ -7002,6 +7008,7 @@ iab ddition addition
 iab ddkestop desktop
 iab ddoign doing
 iab ddrop drop
+iab de3buger debugger
 iab de3vpendecey dependency
 iab deafult default
 iab deaily dearly
@@ -7982,6 +7989,7 @@ iab documetneed documented
 iab documetns documents
 iab documment document
 iab docuvmented documented
+iab doducment document
 iab doen done
 iab doens doesn
 iab doensn doesn
@@ -8038,6 +8046,7 @@ iab doucment document
 iab doucmentaiton documentation
 iab doucmentation documentation
 iab doucmenting documenting
+iab doucmetn document
 iab doucmntiaontn documentation
 iab dould could
 iab doulw would
@@ -9820,6 +9829,7 @@ iab eysterday yesterday
 iab eysterdsay yesterday
 iab eysterdyay yesterday
 iab eyt yet
+iab eyus yes
 iab eyye eye
 iab eztremley extremely
 iab fIgure figure
@@ -10109,6 +10119,7 @@ iab flaswe false
 iab flecible flexible
 iab flet felt
 iab flexc flex
+iab flexdbox flexbox
 iab flext flex
 iab flfex flex
 iab flgith flight
@@ -12586,6 +12597,7 @@ iab isntance instance
 iab isntances instances
 iab isntancs instances
 iab isntantly instantly
+iab isntanxcd instance
 iab isntarnces instances
 iab isntaslled installed
 iab isntead instead
@@ -12656,6 +12668,7 @@ iab iunnder under
 iab iuntil until
 iab iuring during
 iab ius is
+iab iusew use
 iab iusing using
 iab iut it
 iab ivdeos videos
@@ -12669,6 +12682,7 @@ iab iwhatever whatever
 iab iwhen when
 iab iwht with
 iab iwhtout without
+iab iwidth width
 iab iwill will
 iab iwindows windows
 iab iwith with
@@ -13846,6 +13860,7 @@ iab medtitaiotn meditation
 iab meduium medium
 iab mee me
 iab meerge merge
+iab meessages messages
 iab meesssage message
 iab meetijng meeting
 iab meetin meeting
@@ -13926,6 +13941,7 @@ iab mesaure measure
 iab mesdsage message
 iab mesmarising mesmerising
 iab messagess messages
+iab messagews messages
 iab messaggenrs messengers
 iab messdgy messy
 iab messgage message
@@ -14403,6 +14419,7 @@ iab mroening morning
 iab mrongig morning
 iab mrongin morning
 iab mronign morning
+iab mronrign morning
 iab mruderers murderers
 iab msall small
 iab mself myself
@@ -18468,6 +18485,7 @@ iab rigth right
 iab rigthbrj righters
 iab rihght right
 iab rihgt right
+iab rihgt5 right
 iab rining ringing
 iab rinterrupt interrupt
 iab risten ritsen
@@ -18655,6 +18673,7 @@ iab saem same
 iab saense sense
 iab saerch search
 iab safastedst fastest
+iab safeltuy safely
 iab safete safety
 iab safter safer
 iab sahdow shadow
@@ -20259,13 +20278,16 @@ iab stretegy strategy
 iab stretgch stretch
 iab streth stretch
 iab striaght straight
+iab stricdet strict
 iab stricdt strict
+iab stricft strict
 iab stricsdt strict
 iab stricvt strict
 iab strift strict
 iab stright straight
 iab strigns strings
 iab striken stricken
+iab stringts strings
 iab strioct strict
 iab strivct strict
 iab strkiing striking
@@ -20335,6 +20357,7 @@ iab stylews styles
 iab styopppinfg stropping
 iab styroy story
 iab stystem system
+iab styulews styles
 iab styyles styles
 iab suage usage
 iab sually usually
@@ -21539,6 +21562,7 @@ iab thqt that
 iab threatended threatened
 iab threee three
 iab threfore therefore
+iab threshhold threshold
 iab throfugh through
 iab throgh through
 iab throghtout throughout
@@ -21595,6 +21619,7 @@ iab tiemmzone timezone
 iab tiemout timeout
 iab tiesms times
 iab tiexyt text
+iab tiggle toggle
 iab tigheter tighter
 iab tihings things
 iab tihinm think
@@ -22138,6 +22163,7 @@ iab twuff stuff
 iab twuqeiton question
 iab twvelve twelve
 iab twxt text
+iab tyep type
 iab tyhat that
 iab tyhere there
 iab tyhese these
@@ -23909,6 +23935,7 @@ iab ythe the
 iab ythingk think
 iab ythings things
 iab ythinkking thinking
+iab yues yes
 iab yuo you
 iab yuor your
 iab yuorsdlf yourself
@@ -23944,28 +23971,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab tyep type
-iab stricft strict
-iab DUpliacated Duplicated
-iab codse code
-iab de3buger debugger
-iab isntanxcd instance
-iab safeltuy safely
-iab doucmetn document
-iab doducment document
-iab iwidth width
-iab rihgt5 right
-iab IMprove Improve
-iab flexdbox flexbox
-iab tiggle toggle
-iab styulews styles
-iab eyus yes
-iab iusew use
-iab stricdet strict
-iab threshhold threshold
-iab conyrtoller controller
-iab messagews messages
-iab stringts strings
-iab meessages messages
-iab Reverasal Reversal
-iab yues yes
