@@ -113,8 +113,10 @@ autocmd! BufRead,BufNewFile *.tex set filetype=tex
 autocmd! BufRead,BufNewFile .lynxrc set filetype=lynx
 autocmd! BufRead,BufNewFile .offlineimaprc setlocal commentstring=#\ %s
 
-autocmd! BufRead,BufNewFile ~/.config/X11/* setlocal filetype=xdefaults
 autocmd! BufRead,BufNewFile ~/.Xresources setlocal filetype=xdefaults
+autocmd! BufRead,BufNewFile ~/.config/X11/* setlocal filetype=xdefaults
+autocmd! BufRead,BufNewFile ~/.config/tidy/* setlocal filetype=tidy
+
 autocmd! FileType xdefaults setlocal commentstring=/*\ %s\ */
 
 autocmd! BufRead,BufNewFile /etc/X11/xorg.conf.d/* setfiletype xf86conf
