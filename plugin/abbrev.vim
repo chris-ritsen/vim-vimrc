@@ -766,6 +766,7 @@ iab Imrpoatnt Important
 iab Imrporiving Improving
 iab Imrprovign Improving
 iab Imrpvogin Improving
+iab Incnisistant Inconsistent
 iab Incompatability Incompatibility
 iab Incompatabiloity Incompatibility
 iab Incompatibillity Incompatibility
@@ -6928,6 +6929,7 @@ iab daays days
 iab dablber dabbler
 iab daed dead
 iab daelicate delicate
+iab daeomn daemon
 iab dafe safe
 iab dafs days
 iab dafur dafür
@@ -7096,6 +7098,7 @@ iab deepend deepen
 iab deeping deeply
 iab deeprer deeper
 iab deetail detail
+iab defailts defaults
 iab defauolt default
 iab defautls defaults
 iab defecdts defects
@@ -14570,6 +14573,7 @@ iab namake make
 iab nameas names
 iab namek name
 iab namepsace namespace
+iab namign naming
 iab namiung naming
 iab nanies nannies
 iab nanoying nannying
@@ -14652,6 +14656,7 @@ iab necessaruy necessary
 iab necessaryily necessarily
 iab necessay necessary
 iab necessayr necessary
+iab necessessarily necessarily
 iab necewsary necessary
 iab necewssary necessary
 iab necexssary necessary
@@ -15451,6 +15456,7 @@ iab oreiented oriented
 iab orer order
 iab orered ordered
 iab oreturn return
+iab orf of
 iab orgahnized organized
 iab orgainizing organizing
 iab orgaised organised
@@ -15519,6 +15525,7 @@ iab osemthign something
 iab oshoudl should
 iab osipmly simply
 iab osistion position
+iab oslid solid
 iab oslwo slow
 iab osmcoutper computer
 iab osme some
@@ -19794,6 +19801,7 @@ iab somehting something
 iab somehwat somewhat
 iab somehwere somewhere
 iab someitbhing something
+iab somemthign something
 iab somene someone
 iab someo some
 iab someoe someone
@@ -21318,6 +21326,7 @@ iab thd the
 iab theat that
 iab theb them
 iab thedse these
+iab thedswe these
 iab theedse these
 iab theee the
 iab theem them
@@ -23642,6 +23651,7 @@ iab wrecorded recorded
 iab wree were
 iab wreiting writing
 iab wrekcing wrecking
+iab wrep wrap
 iab wrere were
 iab wrfreewriitng freewriting
 iab wrfreewriting freewriting
@@ -24010,11 +24020,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab wrep wrap
-iab defailts defaults
-iab somemthign something
-iab necessessarily necessarily
-iab thedswe these
-iab Incnisistant Inconsistent
-iab namign naming
-iab oslid solid

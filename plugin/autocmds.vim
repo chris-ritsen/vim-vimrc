@@ -140,7 +140,11 @@ autocmd! BufRead,BufNewFile /tmp/mutt* if &filetype == '' | setfiletype mail | e
 
 " }}}4
 
-autocmd! BufRead,BufNewFile ~/.config/mpd/mpd.conf setfiletype conf set foldmethod=marker foldmarker={,}
+autocmd! BufRead,BufNewFile ~/.config/mpd/books/books.conf set filetype=conf foldmethod=marker foldmarker={,}
+autocmd! BufRead,BufNewFile ~/.config/mpd/mpd.conf set filetype=conf foldmethod=marker foldmarker={,}
+autocmd! BufRead,BufNewFile ~/.config/mpd/music/music.conf set filetype=conf foldmethod=marker foldmarker={,}
+autocmd! BufRead,BufNewFile ~/.config/mpd/stream/stream.conf set filetype=conf foldmethod=marker foldmarker={,}
+autocmd! BufRead,BufNewFile ~/.config/mpd/voice/voice.conf set filetype=conf foldmethod=marker foldmarker={,}
 
 autocmd! BufRead,BufNewFile ~/.offlineimaprc setfiletype conf
 autocmd! BufRead,BufWrite *.inc,*.php,*.hs if ! &bin | silent! %s/\s\+$//ge | endif
