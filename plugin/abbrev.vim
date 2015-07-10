@@ -421,6 +421,7 @@ iab Eveyone Everyone
 iab Eveything Everything
 iab Eveytr Every
 iab Eveytrhign Everything
+iab Evne Even
 iab Evreboydy Everybody
 iab Evrerything Everything
 iab Evrytr Every
@@ -766,6 +767,7 @@ iab Imrpoatnt Important
 iab Imrporiving Improving
 iab Imrprovign Improving
 iab Imrpvogin Improving
+iab Incnisistant Inconsistent
 iab Incompatability Incompatibility
 iab Incompatabiloity Incompatibility
 iab Incompatibillity Incompatibility
@@ -1865,6 +1867,7 @@ iab Tgey They
 iab Tghis This
 iab Tgus This
 iab Tgusi This
+iab Th3e The
 iab Th8is This
 iab Thainsk Thanks
 iab Thaisnks Thanks
@@ -1906,6 +1909,7 @@ iab Thinch Think
 iab Thinkg Think
 iab Thios This
 iab Thisa This
+iab Thisd This
 iab Thiss This
 iab Thius This
 iab Thix This
@@ -2495,6 +2499,7 @@ iab accuracey accuracy
 iab accuracltyely accurately
 iab accuractle accurate
 iab accuracty accuracy
+iab accurae accurate
 iab accuralrtly accurately
 iab accuraltely accurately
 iab accuraltey accurately
@@ -3304,6 +3309,7 @@ iab antyihgn anything
 iab antying anything
 iab antyingin anything
 iab antyingn anything
+iab antyining anything
 iab antyngng anything
 iab antynign anything
 iab antyning anything
@@ -3953,6 +3959,7 @@ iab attempteing attempting
 iab attemptes attempts
 iab attemptign attempting
 iab attemptto attempt
+iab attempttting attempting
 iab attemptuing attempting
 iab attemtopn attention
 iab attemtp attempt
@@ -4147,6 +4154,7 @@ iab awithout without
 iab awkaaae awake
 iab awkae awake
 iab awkake awake
+iab awkeard awkward
 iab awkennowlegement acknowledgment
 iab awkenolwedgement acknowledgment
 iab awkknowledge acknowledge
@@ -4301,6 +4309,7 @@ iab basiss basis
 iab basrely barely
 iab basus basis
 iab bathromo bathroom
+iab batteriy battery
 iab batteryy battery
 iab batteyr battery
 iab batthroom bathroom
@@ -6908,6 +6917,7 @@ iab custoimer customer
 iab customres customers
 iab cuystomer customer
 iab cventer center
+iab cvlose close
 iab cvomptuer computer
 iab cvould could
 iab cvreen screen
@@ -6928,6 +6938,7 @@ iab daays days
 iab dablber dabbler
 iab daed dead
 iab daelicate delicate
+iab daeomn daemon
 iab dafe safe
 iab dafs days
 iab dafur dafür
@@ -7096,6 +7107,7 @@ iab deepend deepen
 iab deeping deeply
 iab deeprer deeper
 iab deetail detail
+iab defailts defaults
 iab defauolt default
 iab defautls defaults
 iab defecdts defects
@@ -8854,6 +8866,7 @@ iab englush english
 iab engneer engineer
 iab engrosssing engrossing
 iab enhancmenet enhancement
+iab enhjoooooouable enjoyable
 iab enhjoying enjoying
 iab enjouy enjoy
 iab enjoyalbge enjoyable
@@ -9310,6 +9323,7 @@ iab evertytone everyone
 iab everwyehre everywhere
 iab everwywehre everywhere
 iab every8thing everything
+iab everyghing everything
 iab everyhint everything
 iab everyhitbng everything
 iab everyhting everything
@@ -9653,6 +9667,7 @@ iab expeiernce experience
 iab expeirece experience
 iab expeireince experience
 iab expeirence experience
+iab expeirenced experienced
 iab expeirenceing experiencing
 iab expeirences experiences
 iab expeirnecde experience
@@ -10164,6 +10179,7 @@ iab foatehr father
 iab foatherless fatherless
 iab focer force
 iab focued focused
+iab focuesed focused
 iab focusisingg focusing
 iab focuus focus
 iab focux focus
@@ -10194,6 +10210,7 @@ iab fomrula formula
 iab fonncetion connection
 iab fonsistently consistently
 iab foolows follows
+iab foor for
 iab footabll football
 iab footeer footer
 iab footewr footer
@@ -10375,6 +10392,7 @@ iab frustrawting frustrating
 iab frutehr fruiter
 iab fruther further
 iab fruy fury
+iab fst fast
 iab fthe the
 iab fto to
 iab ftricky tricky
@@ -10965,6 +10983,7 @@ iab headphoesn headphones
 iab headpohes headphones
 iab headpohnes headphones
 iab headpohones headphones
+iab headpohonez headphones
 iab headpones headphones
 iab headpoohen headphone
 iab headrd header
@@ -11474,6 +11493,7 @@ iab idael ideal
 iab idaes ideas
 iab idaew idea
 iab idalea ideal
+iab ide3as ideas
 iab ideasl ideal
 iab ideaw idea
 iab ideawl ideal
@@ -12757,6 +12777,7 @@ iab jhifden hidden
 iab jion join
 iab jions joins
 iab jkoin join
+iab jmjust just
 iab jnew new
 iab jnot not
 iab jnow know
@@ -14304,6 +14325,7 @@ iab moglich möglich
 iab mohter mother
 iab moible mobile
 iab moibnle mobile
+iab moicipmlete omnicomplete
 iab moicrpohne microphone
 iab moind mind
 iab moinitor monitor
@@ -14570,6 +14592,7 @@ iab namake make
 iab nameas names
 iab namek name
 iab namepsace namespace
+iab namign naming
 iab namiung naming
 iab nanies nannies
 iab nanoying nannying
@@ -14652,6 +14675,7 @@ iab necessaruy necessary
 iab necessaryily necessarily
 iab necessay necessary
 iab necessayr necessary
+iab necessessarily necessarily
 iab necewsary necessary
 iab necewssary necessary
 iab necexssary necessary
@@ -14875,6 +14899,7 @@ iab noth not
 iab nothging nothing
 iab nothighn nothing
 iab nothign nothing
+iab nothinnnng nothing
 iab nothiong nothing
 iab nothiung nothing
 iab noticably noticeably
@@ -15451,6 +15476,7 @@ iab oreiented oriented
 iab orer order
 iab orered ordered
 iab oreturn return
+iab orf of
 iab orgahnized organized
 iab orgainizing organizing
 iab orgaised organised
@@ -15519,6 +15545,7 @@ iab osemthign something
 iab oshoudl should
 iab osipmly simply
 iab osistion position
+iab oslid solid
 iab oslwo slow
 iab osmcoutper computer
 iab osme some
@@ -15575,6 +15602,7 @@ iab ottold told
 iab otu out
 iab otuer other
 iab otusiede outside
+iab otype type
 iab oubhd bound
 iab oughht ought
 iab ouit out
@@ -19353,6 +19381,7 @@ iab shlef shelf
 iab shlev shelf
 iab shlewf shelf
 iab shlref shelf
+iab sho7uld should
 iab shockeed shocked
 iab shocolls schools
 iab shodulllld should
@@ -19794,6 +19823,7 @@ iab somehting something
 iab somehwat somewhat
 iab somehwere somewhere
 iab someitbhing something
+iab somemthign something
 iab somene someone
 iab someo some
 iab someoe someone
@@ -20719,6 +20749,7 @@ iab switchdign switching
 iab switcheds switched
 iab switchign switching
 iab switchindg switching
+iab switcht switch
 iab switdch switch
 iab switdghed switched
 iab switfly swiftly
@@ -21295,6 +21326,7 @@ iab thaaat that
 iab thaat that
 iab thab than
 iab thae the
+iab thaet that
 iab thah that
 iab thais this
 iab thajt that
@@ -21318,6 +21350,7 @@ iab thd the
 iab theat that
 iab theb them
 iab thedse these
+iab thedswe these
 iab theedse these
 iab theee the
 iab theem them
@@ -22627,6 +22660,7 @@ iab usefujl useful
 iab usefuless usefulness
 iab usefuul useful
 iab useing using
+iab usel4ess useless
 iab uselelss useless
 iab useles useless
 iab uselses useless
@@ -22775,6 +22809,7 @@ iab vauge vague
 iab vavoid avoid
 iab vbackground background
 iab vbaseed based
+iab vbery very
 iab vbiew view
 iab vbiolent violent
 iab vbision vision
@@ -23064,6 +23099,7 @@ iab wchool school
 iab wcould could
 iab wdith width
 iab weahther weather
+iab weaing wearing
 iab wealtyh wealthy
 iab wealtyhh wealthy
 iab weant want
@@ -23642,6 +23678,7 @@ iab wrecorded recorded
 iab wree were
 iab wreiting writing
 iab wrekcing wrecking
+iab wrep wrap
 iab wrere were
 iab wrfreewriitng freewriting
 iab wrfreewriting freewriting
@@ -24009,34 +24046,3 @@ iab zshj zsh
 iab zsswh zsh
 iab ztart start
 iab ztaships starships
-
-iab daeomn daemon
-iab orf of
-iab batteriy battery
-iab foor for
-iab focuesed focused
-iab enhjoooooouable enjoyable
-iab cvlose close
-iab sho7uld should
-iab weaing wearing
-iab headpohonez headphones
-iab Evne Even
-iab ide3as ideas
-iab nothinnnng nothing
-iab jmjust just
-iab attempttting attempting
-iab otype type
-iab expeirenced experienced
-iab thaet that
-iab everyghing everything
-iab usel4ess useless
-iab antyining anything
-iab Thisd This
-iab awkeard awkward
-iab Th3e The
-iab accurae accurate
-iab isntead instead
-iab vbery very
-iab fst fast
-iab switcht switch
-iab moicipmlete omnicomplete
