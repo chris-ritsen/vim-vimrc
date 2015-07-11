@@ -79,7 +79,7 @@ autocmd! Syntax javascript,vim setlocal foldmethod=marker | normal zM
 
 " zsh {{{
 
-autocmd! BufRead,BufNewFile /tmp/zshecl* set filetype=zsh tw=0
+autocmd! BufRead,BufNewFile /tmp/zsh* set filetype=zsh tw=0 nowrap
 autocmd! BufNewFile,BufRead *.zsh set foldmethod=marker
 
 " }}}4
@@ -139,6 +139,8 @@ autocmd! BufRead,BufNewFile /tmp/mutt* if &filetype == '' | setfiletype mail | e
 " }}}5
 
 " }}}4
+
+autocmd! BufRead,BufNewFile ~/.drirc set filetype=xml
 
 autocmd! BufRead,BufNewFile ~/.config/mpd/books/books.conf set filetype=conf foldmethod=marker foldmarker={,}
 autocmd! BufRead,BufNewFile ~/.config/mpd/mpd.conf set filetype=conf foldmethod=marker foldmarker={,}
