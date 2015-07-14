@@ -2,6 +2,7 @@
 cab GIt Git
 iab ... …
 iab ABout About
+iab ANgular Angular
 iab Additonally Additionally
 iab Againl Again
 iab Apapprenlty Apparently
@@ -481,6 +482,7 @@ iab FRom From
 iab FUNTION FUNCTION
 iab FUck Fuck
 iab Facbook Facebook
+iab Failry Fairly
 iab Fbonacci Fibonacci
 iab Feelign Feeling
 iab Fibonacchi Fibonacci
@@ -3320,6 +3322,7 @@ iab antyning anything
 iab antyong anything
 iab antyrhign anything
 iab antythgnin anything
+iab antythign anything
 iab antyyng anything
 iab anumal animal
 iab anurisim aneurysm
@@ -3379,6 +3382,7 @@ iab anytihign anything
 iab anytihng anything
 iab anyting anything
 iab anytinng anything
+iab anytiuhgihn anything
 iab anytnig anything
 iab anytnign anything
 iab anytning anything
@@ -3802,6 +3806,7 @@ iab aruguments arguments
 iab aruments arguments
 iab arwe are
 iab asactions actions
+iab asafe safe
 iab asaparin aspirin
 iab asaprin aspirin
 iab asbestus asbestos
@@ -4545,6 +4550,7 @@ iab beteween between
 iab betewen between
 iab betewwen between
 iab betewwn between
+iab betgter better
 iab betr better
 iab betteer better
 iab betwee between
@@ -4729,6 +4735,7 @@ iab bordder border
 iab bordre border
 iab bords birds
 iab boredf bored
+iab boredon boredom
 iab boreed bored
 iab borh born
 iab borhn born
@@ -5410,6 +5417,7 @@ iab chriosptoihper christopher
 iab christioher christopher
 iab christopner christoper
 iab chroem chrome
+iab chrojium chromium
 iab chromicles chronicles
 iab chromicsles chronicles
 iab chronicleer chronicler
@@ -5470,6 +5478,7 @@ iab claculators calculators
 iab claear clear
 iab claening cleaning
 iab clairifcation clarification
+iab clairify clarify
 iab clakc clack
 iab clal call
 iab clalbacks callbacks
@@ -10601,6 +10610,7 @@ iab gaurd guard
 iab gbad bad
 iab gbe be
 iab gbecomming becoming
+iab gbeen been
 iab gbetter better
 iab gbiggest biggest
 iab gboht both
@@ -12686,6 +12696,7 @@ iab isten listen
 iab istracetdd distracted
 iab istuation situation
 iab isued used
+iab isuer user
 iab isues issues
 iab isuse issue
 iab isuses issues
@@ -17390,6 +17401,7 @@ iab pyurpose purpose
 iab pyut put
 iab pyyou you
 iab pzrticupate participate
+iab qabouyt about
 iab qalready already
 iab qas as
 iab qat at
@@ -22362,6 +22374,7 @@ iab uiqnquee unique
 iab uis is
 iab uising using
 iab uisntead instead
+iab uit it
 iab uknonwn unknown
 iab uknown unknown
 iab ultime ultimate
@@ -24087,15 +24100,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab Failry Fairly
-iab qabouyt about
-iab uit it
-iab asafe safe
-iab gbeen been
-iab anytiuhgihn anything
-iab antythign anything
-iab boredon boredom
-iab clairify clarify
-iab betgter better
-iab ANgular Angular
-iab chrojium chromium
