@@ -24087,3 +24087,15 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
+iab Failry Fairly
+iab qabouyt about
+iab uit it
+iab asafe safe
+iab gbeen been
+iab anytiuhgihn anything
+iab antythign anything
+iab boredon boredom
+iab clairify clarify
+iab betgter better
+iab ANgular Angular
+iab chrojium chromium
