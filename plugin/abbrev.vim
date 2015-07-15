@@ -11,6 +11,7 @@ iab Apaprently Apparently
 iab Apparenlty Apparently
 iab Apparenly Apparently
 iab Asusmptions Assumptions
+iab Atch Arch
 iab BROWSEWR BROWSER
 iab BUt But
 iab Bevause Because
@@ -264,6 +265,7 @@ iab Doen Done
 iab Doens Doesn
 iab Doign Doing
 iab Downlaiding Downloading
+iab Downlaod Download
 iab Downloadign Downloading
 iab Dringking Drinking
 iab Drooop Droop
@@ -687,6 +689,7 @@ iab INdie Indie
 iab INform Inform
 iab INjecting Injecting
 iab INnovation Innovation
+iab INsdtall Install
 iab INserting Inserting
 iab INside Inside
 iab INstagram Instagram
@@ -696,6 +699,7 @@ iab INstalled Installed
 iab INstead Instead
 iab INsteda Instead
 iab INstitute Institute
+iab INstlal Install
 iab INtegration Integration
 iab INterSYSSREMs InterSystems
 iab INterSystems InterSystems
@@ -793,6 +797,7 @@ iab Ingreneient Ingredient
 iab Inlnie Inline
 iab Innovatyion Innovation
 iab Insatead Instead
+iab Insdtall Install
 iab Insitutute Institute
 iab Instagaram Instagram
 iab Instaleld Installed
@@ -800,6 +805,8 @@ iab Instaling Installing
 iab Insteawd Instead
 iab Insteawdw Instead
 iab Instincitivlye Instinctively
+iab Instlal Install
+iab Instlaler Installer
 iab Instlalling Installing
 iab Instnace Instance
 iab Insude Inside
@@ -1597,6 +1604,7 @@ iab STates States
 iab STop Stop
 iab STrand Strand
 iab STrategist Strategist
+iab STudio Studio
 iab SUch Such
 iab SUper Super
 iab SYstem System
@@ -1758,6 +1766,7 @@ iab Syhnopsis Synopsis
 iab Synatax Syntax
 iab Syntaax Syntax
 iab Syntaix Syntax
+iab Sype Skype
 iab Systmes Systems
 iab Sytnax Syntax
 iab TECHNCIAL TECHNICAL
@@ -2114,6 +2123,7 @@ iab Wehat What
 iab Wehenver Whenever
 iab Wehn When
 iab Wehne When
+iab Weite Write
 iab Weiting Waiting
 iab Welecome Welcome
 iab Wellinton Wellington
@@ -2981,6 +2991,7 @@ iab aliaeasd aliased
 iab aliaes alias
 iab aliaesd aliased
 iab aliaese aliases
+iab aliaess aliases
 iab aliaesses aliases
 iab aliasd alias
 iab aliasesw aliases
@@ -4207,6 +4218,7 @@ iab azctivity activity
 iab bBecause Because
 iab baackground background
 iab baalnance balance
+iab baat6ch batch
 iab babffling baffling
 iab babty baby
 iab bacck back
@@ -4320,6 +4332,8 @@ iab basisc basic
 iab basiss basis
 iab basrely barely
 iab basus basis
+iab batchd batch
+iab bathc batch
 iab bathromo bathroom
 iab batteriy battery
 iab batteryy battery
@@ -6202,6 +6216,7 @@ iab confimr confirm
 iab confimrend confirmed
 iab confinnned confined
 iab confiounds confounds
+iab confiruagration configuration
 iab confiruation configuration
 iab confirugarion configuration
 iab confisdently confidently
@@ -10812,6 +10827,7 @@ iab guarentees guarantees
 iab guart guard
 iab guesas guess
 iab guesssing guessing
+iab guewt guest
 iab guide3 guide
 iab guidenace guidance
 iab guit git
@@ -12818,6 +12834,7 @@ iab joealous jealous
 iab joiking joking
 iab joininig joining
 iab jokgin joking
+iab jome home
 iab jounrines journeys
 iab jourines journeys
 iab journesys journeys
@@ -16498,6 +16515,7 @@ iab ponitless pointless
 iab pont point
 iab pooint point
 iab pooints points
+iab poolicy policy
 iab pooppcock poppycock
 iab poopps pops
 iab poopular popular
@@ -17126,6 +17144,7 @@ iab proivides provides
 iab projcets projects
 iab projecdtes projects
 iab projecdts projects
+iab projecfs projects
 iab projecft project
 iab projedcct project
 iab projext project
@@ -17992,6 +18011,7 @@ iab remakrable remarkable
 iab remakring remarking
 iab remakrked remarked
 iab remamning remaining
+iab remappted remapped
 iab rembwember remember
 iab remeaining remaining
 iab remeber remember
@@ -22969,6 +22989,7 @@ iab virtudal virtual
 iab virtyaul virtual
 iab virual virtual
 iab virutal virtual
+iab virutalbox virtualbox
 iab visiable visible
 iab visiaqble visible
 iab visibale visible
@@ -23647,6 +23668,7 @@ iab workigun working
 iab workiking working
 iab workin working
 iab workinp working
+iab workinug working
 iab workiong working
 iab workk work
 iab workld worked
@@ -24101,7 +24123,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab bathc batch
-iab batchd batch
-iab baat6ch batch
-iab workinug working
