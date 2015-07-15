@@ -154,6 +154,7 @@ let g:syntastic_full_redraws = 1
 let g:syntastic_html_checkers = ['tidy']
 let g:syntastic_html_tidy_exec = 'tidy'
 " let g:syntastic_html_tidy_args = '-config /home/chris/.config/tidy/config'
+let g:syntastic_css_csslint_args = '--ignore box-sizing,unique-headings'
 let g:syntastic_javascript_checkers = ["eslint", "jshint"]
 let g:syntastic_javascript_eslint_exec = 'eslint'
 let g:syntastic_javascript_jshint_exec = 'jshint'

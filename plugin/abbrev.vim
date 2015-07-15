@@ -24101,3 +24101,22 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
+iab Weite Write
+iab Insdtall Install
+iab guewt guest
+iab Atch Arch
+iab Instlal Install
+iab Downlaod Download
+iab projecfs projects
+iab Instlaler Installer
+iab aliaess aliases
+iab STudio Studio
+iab INstlal Install
+iab remappted remapped
+iab Lenght Length
+iab virutalbox virtualbox
+iab Sype Skype
+iab confiruagration configuration
+iab poolicy policy
+iab INsdtall Install
+iab jome home
