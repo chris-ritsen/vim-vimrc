@@ -24101,6 +24101,7 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
+<<<<<<< HEAD
 iab Weite Write
 iab Insdtall Install
 iab guewt guest
@@ -24120,3 +24121,8 @@ iab confiruagration configuration
 iab poolicy policy
 iab INsdtall Install
 iab jome home
+=======
+iab bathc batch
+iab batchd batch
+iab baat6ch batch
+>>>>>>> 69a524bb7c01073b4d6f6ca12390fb7c548ecfa6
