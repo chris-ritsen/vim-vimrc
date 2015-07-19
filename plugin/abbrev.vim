@@ -5,6 +5,7 @@ iab ABout About
 iab ANgular Angular
 iab Additonally Additionally
 iab Againl Again
+iab Ammmost Almost
 iab Apapprenlty Apparently
 iab Apaprenlty Apparently
 iab Apaprently Apparently
@@ -12,6 +13,7 @@ iab Apparenlty Apparently
 iab Apparenly Apparently
 iab Asusmptions Assumptions
 iab Atch Arch
+iab Authenticatyions Authentications
 iab BROWSEWR BROWSER
 iab BUt But
 iab Bevause Because
@@ -21,6 +23,7 @@ iab CHeck Check
 iab CHris Chris
 iab CHristttopoher Christopher
 iab COmmon Common
+iab COmmunication Communication
 iab COmread Comrade
 iab COudl Could
 iab COuld Could
@@ -1757,6 +1760,7 @@ iab Supplment Supplement
 iab Surew Sure
 iab Suriviabl Survival
 iab Surviival Survival
+iab Suspicous Suspicious
 iab Sweawting Sweating
 iab Swet Set
 iab Swigly Squiggly
@@ -3374,6 +3378,7 @@ iab anyonee anyone
 iab anyore anymore
 iab anyr any
 iab anyrhing anything
+iab anyrthign anything
 iab anys any
 iab anyt any
 iab anytbging anything
@@ -4238,6 +4243,7 @@ iab backgorun background
 iab backgorund background
 iab backgorundc background
 iab backgoruned background
+iab backgournd background
 iab backgriohgn background
 iab backgriong background
 iab backgrliund background
@@ -5191,6 +5197,7 @@ iab cawpable capable
 iab caysing causing
 iab cbntrubkytion contribution
 iab ccan can
+iab ccaptain captain
 iab ccausula casual
 iab cchange change
 iab ccompare compare
@@ -7224,6 +7231,7 @@ iab delivredred delivered
 iab deltee delete
 iab deltet delete
 iab delveiopment development
+iab delveopers developers
 iab delveopmetn development
 iab delvepoermnet development
 iab delvier deliver
@@ -7845,6 +7853,7 @@ iab diservice disservice
 iab disescribe describe
 iab disese disease
 iab disfunctional dysfunctional
+iab disfunctrional dysfunctional
 iab disginated designated
 iab disguist disgust
 iab disgusited disgusted
@@ -8306,6 +8315,8 @@ iab dybnamic dynamic
 iab dymaic dynamic
 iab dymaicds dynamics
 iab dynamucally dynamically
+iab dysfuncrional dysfunctional
+iab dysfuncriontal dysfunctional
 iab eAnd And
 iab eLet Let
 iab eaaaach each
@@ -9895,6 +9906,7 @@ iab eyhtrm system
 iab eyletrocnics electronics
 iab eyour your
 iab eys eyes
+iab eyserday yesterday
 iab eystedray yesterday
 iab eysterady yesterday
 iab eysterday yesterday
@@ -10289,6 +10301,7 @@ iab fornm form
 iab fornt fount
 iab forntal frontal
 iab forntend frontend
+iab forogt forgot
 iab forsee foresee
 iab forthe forth
 iab forumhlates formulates
@@ -11927,6 +11940,7 @@ iab includfing including
 iab includign including
 iab inclued included
 iab incluedes includes
+iab inclusding including
 iab incluyde include
 iab inclyding including
 iab inclyuding including
@@ -15699,6 +15713,7 @@ iab overflwo overflow
 iab overfow overflow
 iab overhail overhaul
 iab overheasrs overhears
+iab overlflow overflow
 iab overlfow overflow
 iab overlfyow overflow
 iab overlow overflow
@@ -16358,6 +16373,7 @@ iab playign playing
 iab playigni playing
 iab playinh playing
 iab playiong playing
+iab playoing playing
 iab plcae place
 iab plcaec place
 iab plces places
@@ -24124,22 +24140,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-<<<<<<< HEAD
-iab disfunctrional dysfunctional
-iab dysfuncriontal dysfunctional
-iab dysfuncrional dysfunctional
-iab anyrthign anything
-iab inclusding including
-iab delveopers developers
-iab eyserday yesterday
-iab COmmunication Communication
-iab Ammmost Almost
-iab ccaptain captain
-iab playoing playing
-iab forogt forgot
-=======
-iab Authenticatyions Authentications
-iab overlflow overflow
-iab Suspicous Suspicious
-iab backgournd background
->>>>>>> d0b3f1d0165baa99329f9fd5ce5ff0cd35442b2f
