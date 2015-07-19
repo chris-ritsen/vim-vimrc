@@ -24124,3 +24124,15 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
+iab disfunctrional dysfunctional
+iab dysfuncriontal dysfunctional
+iab dysfuncrional dysfunctional
+iab anyrthign anything
+iab inclusding including
+iab delveopers developers
+iab eyserday yesterday
+iab COmmunication Communication
+iab Ammmost Almost
+iab ccaptain captain
+iab playoing playing
+iab forogt forgot
