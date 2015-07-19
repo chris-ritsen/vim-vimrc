@@ -24124,6 +24124,7 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
+<<<<<<< HEAD
 iab disfunctrional dysfunctional
 iab dysfuncriontal dysfunctional
 iab dysfuncrional dysfunctional
@@ -24136,3 +24137,9 @@ iab Ammmost Almost
 iab ccaptain captain
 iab playoing playing
 iab forogt forgot
+=======
+iab Authenticatyions Authentications
+iab overlflow overflow
+iab Suspicous Suspicious
+iab backgournd background
+>>>>>>> d0b3f1d0165baa99329f9fd5ce5ff0cd35442b2f

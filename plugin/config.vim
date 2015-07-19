@@ -155,11 +155,12 @@ let g:syntastic_html_checkers = ['tidy']
 let g:syntastic_html_tidy_exec = 'tidy'
 " let g:syntastic_html_tidy_args = '-config /home/chris/.config/tidy/config'
 let g:syntastic_css_csslint_args = '--ignore box-sizing,unique-headings'
-let g:syntastic_javascript_checkers = ["eslint", "jshint"]
+let g:syntastic_javascript_checkers = ['eslint', 'jshint']
+let g:syntastic_less_checkers = ['lessc']
 let g:syntastic_javascript_eslint_exec = 'eslint'
 let g:syntastic_javascript_jshint_exec = 'jshint'
 let g:syntastic_javascript_tidy_exec = 'tidy'
-let g:syntastic_mode_map = { 'mode': 'active', 'active_filetypes': ['lisp', 'php', 'javascript', 'ruby', 'html'], 'passive_filetypes': [] }
+let g:syntastic_mode_map = { 'mode': 'active', 'active_filetypes': ['less', 'lisp', 'php', 'javascript', 'ruby', 'html'], 'passive_filetypes': [] }
 
 " }}}2
 
