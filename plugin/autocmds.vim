@@ -79,7 +79,7 @@ autocmd! Syntax javascript,vim setlocal foldmethod=marker | normal zM
 
 " zsh {{{
 
-autocmd! BufRead,BufNewFile /tmp/zshecl* set filetype=zsh tw=0
+autocmd! BufRead,BufNewFile /tmp/zsh* set filetype=zsh tw=0 nowrap
 autocmd! BufNewFile,BufRead *.zsh set foldmethod=marker
 
 " }}}4
@@ -113,8 +113,10 @@ autocmd! BufRead,BufNewFile *.tex set filetype=tex
 autocmd! BufRead,BufNewFile .lynxrc set filetype=lynx
 autocmd! BufRead,BufNewFile .offlineimaprc setlocal commentstring=#\ %s
 
-autocmd! BufRead,BufNewFile ~/.config/X11/* setlocal filetype=xdefaults
 autocmd! BufRead,BufNewFile ~/.Xresources setlocal filetype=xdefaults
+autocmd! BufRead,BufNewFile ~/.config/X11/* setlocal filetype=xdefaults
+autocmd! BufRead,BufNewFile ~/.config/tidy/* setlocal filetype=tidy
+
 autocmd! FileType xdefaults setlocal commentstring=/*\ %s\ */
 
 autocmd! BufRead,BufNewFile /etc/X11/xorg.conf.d/* setfiletype xf86conf
@@ -138,12 +140,24 @@ autocmd! BufRead,BufNewFile /tmp/mutt* if &filetype == '' | setfiletype mail | e
 
 " }}}4
 
-autocmd! BufRead,BufNewFile ~/.config/mpd/mpd.conf setfiletype conf set foldmethod=marker foldmarker={,}
+autocmd! BufRead,BufNewFile ~/.drirc set filetype=xml
+
+autocmd! BufRead,BufNewFile ~/.config/mpd/books/books.conf set filetype=conf foldmethod=marker foldmarker={,}
+autocmd! BufRead,BufNewFile ~/.config/mpd/mpd.conf set filetype=conf foldmethod=marker foldmarker={,}
+autocmd! BufRead,BufNewFile ~/.config/mpd/music/music.conf set filetype=conf foldmethod=marker foldmarker={,}
+autocmd! BufRead,BufNewFile ~/.config/mpd/stream/stream.conf set filetype=conf foldmethod=marker foldmarker={,}
+autocmd! BufRead,BufNewFile ~/.config/mpd/voice/voice.conf set filetype=conf foldmethod=marker foldmarker={,}
 
 autocmd! BufRead,BufNewFile ~/.offlineimaprc setfiletype conf
 autocmd! BufRead,BufWrite *.inc,*.php,*.hs if ! &bin | silent! %s/\s\+$//ge | endif
 autocmd! BufRead,BufWrite *.inc,*.php,*.hs if ! &bin | silent! :%s/ \+\ze\t//ge | endif
 autocmd! BufReadPre,FileReadPre *.gpg,*.asc set noswapfile
+
+autocmd! BufRead,BufWrite *.xkb set filetype=xkb
+autocmd! BufRead,BufWrite ~/xkb/symbols/* set filetype=xkb
+autocmd! BufRead,BufWrite ~/.config/X11/xkb/symbols/* set filetype=xkb
+
+autocmd! FileType xkb setlocal foldmethod=marker foldmarker={,} commentstring=\/\/\ %s
 
 " Web servers {{{
 

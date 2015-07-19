@@ -30,7 +30,7 @@ let mapleader = "\\"
 let NERDTreeHijackNetrw= 1
 let NERDTreeMinimalUI = 1
 let NERDTreeShowLineNumbers = 1
-let g:NERDTreeIgnore = ['\.o$', '\.fixed\.svg$', '\.git/', '\.csproj.user$', '\.csproj.vspscc$', '.ico$', '.suo$', '.png$', '.min.js$', '.vssscc$', '.min.map$', '.cache$', '.dll$', '.pdb$', '.nupkg$', '.nuspec$', '.gif$', '.eot$', '.ttf$', '.otf$', '.woff$', '.wav$', '.mp3$', 'obj.*', 'bin.*', '3rdParty']
+let g:NERDTreeIgnore = ['\.xkm$', '\.o$', '\.fixed\.svg$', '\.git/', '\.csproj.user$', '\.csproj.vspscc$', '.ico$', '.suo$', '.png$', '.min.js$', '.vssscc$', '.min.map$', '.cache$', '.dll$', '.pdb$', '.nupkg$', '.nuspec$', '.gif$', '.eot$', '.ttf$', '.otf$', '.woff$', '.wav$', '.mp3$', 'obj.*', 'bin.*', '3rdParty']
 let g:NERDTreeShowLineNumbers = 0
 let g:NERDTreeWinSize='22'
 
@@ -147,13 +147,20 @@ let g:sparkupNextMapping = ""
 
 let g:syntastic_c_compiler_options = '-std=c11 -include stdio.h'
 let g:syntastic_cpp_compiler_options = '-std=c++11'
+let g:syntastic_cs_checkers = ['syntax', 'semantic', 'issues']
 let g:syntastic_enable_signs = 1
 let g:syntastic_exit_checks = 0
 let g:syntastic_full_redraws = 1
-let g:syntastic_javascript_checkers = ["eslint", "jshint"]
+let g:syntastic_html_checkers = ['tidy']
+let g:syntastic_html_tidy_exec = 'tidy'
+" let g:syntastic_html_tidy_args = '-config /home/chris/.config/tidy/config'
+let g:syntastic_css_csslint_args = '--ignore box-sizing,unique-headings'
+let g:syntastic_javascript_checkers = ['eslint', 'jshint']
+let g:syntastic_less_checkers = ['lessc']
 let g:syntastic_javascript_eslint_exec = 'eslint'
 let g:syntastic_javascript_jshint_exec = 'jshint'
-let g:syntastic_mode_map = { 'mode': 'active', 'active_filetypes': ['lisp', 'php', 'javascript', 'ruby'], 'passive_filetypes': ['html'] }
+let g:syntastic_javascript_tidy_exec = 'tidy'
+let g:syntastic_mode_map = { 'mode': 'active', 'active_filetypes': ['less', 'lisp', 'php', 'javascript', 'ruby', 'html'], 'passive_filetypes': [] }
 
 " }}}2
 
