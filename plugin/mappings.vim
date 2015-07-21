@@ -90,18 +90,20 @@ nmap ]z zR
 " {{{2
 
 " nnoremap <leader>s viw"0pb
+" nnoremap <silent> <leader>l <esc> normal if &ft == 'text' | normal '<esc>GG :r !date -u +"\%Y-\%m-\%dT\%H:\%M:\%SZ"<CR>zt A —' | endif
 
 nnoremap <C-c> <nop>
 nnoremap <F6> :!vlock<cr>
 nnoremap <Q <nop>
 nnoremap <down> <nop>
-nnoremap <silent> <leader>N :NERDTreeToggle<CR>
 nnoremap <leader>d :call AddAbbrev()<cr>
-nnoremap <silent> <leader>n :NERDTreeFind<CR>
 nnoremap <silent> <C-h> 1zh
 nnoremap <silent> <C-l> 1zl
 nnoremap <silent> <Leader>e :e<CR>
-nnoremap <silent><leader>h :noh<CR>
+nnoremap <silent> <leader>N :NERDTreeToggle<CR>
+nnoremap <silent> <leader>h :noh<CR>
+nnoremap <silent> <leader>l <esc>GG :r !date -u +"\%Y-\%m-\%dT\%H:\%M:\%SZ"<CR>zt A — 
+nnoremap <silent> <leader>n :NERDTreeFind<CR>
 nnoremap <silent>x x:call Redefine_x_ForVirtualEdit()<CR>
 nnoremap <up> <nop>
 nnoremap J mzJ`z

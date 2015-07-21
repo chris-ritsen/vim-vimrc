@@ -154,6 +154,12 @@ autocmd! BufRead,BufWrite *.inc,*.php,*.hs if ! &bin | silent! %s/\s\+$//ge | en
 autocmd! BufRead,BufWrite *.inc,*.php,*.hs if ! &bin | silent! :%s/ \+\ze\t//ge | endif
 autocmd! BufReadPre,FileReadPre *.gpg,*.asc set noswapfile
 
+autocmd! BufRead,BufWrite *.xkb set filetype=xkb
+autocmd! BufRead,BufWrite ~/xkb/symbols/* set filetype=xkb
+autocmd! BufRead,BufWrite ~/.config/X11/xkb/symbols/* set filetype=xkb
+
+autocmd! FileType xkb setlocal foldmethod=marker foldmarker={,} commentstring=\/\/\ %s
+
 " Web servers {{{
 
 autocmd! FileType apache setlocal commentstring=#\ %s
