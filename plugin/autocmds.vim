@@ -1,7 +1,7 @@
 
 " Binary {{{1
 
-augroup Binary           
+augroup Binary
 
 " TODO: - Make this also work without matching filenames
 autocmd!
@@ -24,14 +24,15 @@ augroup END
 
 " Work {{{1
 
-augroup Work           
+augroup Work
 
 " Use four spaces, conceal as two {{{2
 
 let g:hostname = substitute(system('hostname'), "\n", "", "")
 let g:hostname_work = 'work_vm'
 
-" autocmd! BufRead,BufNewFile *.cshtml if g:hostname == g:hostname_work | setlocal filetype=html commentstring=@*%s*@ | source $VIMRC_PLUGIN_DIR/conceal.vim | endif
+autocmd! BufRead,BufNewFile *.cshtml setlocal filetype=cshtml commentstring=@*%s*@
+" autocmd! BufRead,BufNewFile *.cshtml if g:hostname == g:hostname_work | setlocal filetype=cshtml commentstring=@*%s*@ | source $VIMRC_PLUGIN_DIR/conceal.vim | endif
 " autocmd! BufRead,BufNewFile *cs if g:hostname == g:hostname_work | source $VIMRC_PLUGIN_DIR/conceal.vim | endif
 
 " autocmd! Syntax html source $VIMRC_PLUGIN_DIR/conceal.vim
@@ -44,7 +45,7 @@ augroup END
 
 " filetypes {{{1
 
-augroup filetypes 
+augroup filetypes
 
 " {{{2
 
@@ -88,7 +89,7 @@ autocmd! BufNewFile,BufRead *.ldg,*.ledger setf ledger
 
 " Dot Net {{{
 
-autocmd! BufRead,BufNewFile *.aspx,*.asmx,*.ascx set filetype=aspnet 
+autocmd! BufRead,BufNewFile *.aspx,*.asmx,*.ascx set filetype=aspnet
 autocmd! FileType cs setlocal commentstring=//\ %s softtabstop=4 tabstop=4 shiftwidth=4
 autocmd! FileType vb setlocal commentstring='\ %s
 
@@ -98,9 +99,9 @@ autocmd! FileType vb setlocal commentstring='\ %s
 
 autocmd! BufRead,BufNewFile *.css.map set filetype=json
 
-autocmd! FileType css setlocal nowrap foldmethod=indent fmr={,} 
+autocmd! FileType css setlocal nowrap foldmethod=indent fmr={,}
 autocmd! FileType less setlocal nowrap foldmethod=indent fmr={,}
-autocmd! FileType scss setlocal nowrap foldmethod=indent fmr={,} 
+autocmd! FileType scss setlocal nowrap foldmethod=indent fmr={,}
 
 " Intent being to close folds overbase64 images.
 autocmd! BufReadPost *.css,*scss silent! g/base64.\+/normal zc
@@ -128,13 +129,13 @@ autocmd! BufRead,BufNewFile /etc/nginx/nginx.conf,/usr/local/nginx/conf/* setfil
 " Email {{{
 
 autocmd! BufRead,BufNewFile ~/.config/mailcap setlocal nowrap
-autocmd! BufRead,BufNewFile ~/.mail/* if &filetype == '' | setfiletype mail | endif 
-autocmd! BufRead,BufNewFile ~/mail/* if &filetype == '' | setfiletype mail | endif 
+autocmd! BufRead,BufNewFile ~/.mail/* if &filetype == '' | setfiletype mail | endif
+autocmd! BufRead,BufNewFile ~/mail/* if &filetype == '' | setfiletype mail | endif
 
 " mutt {{{
 
 autocmd! BufRead,BufNewFile ~/.config/mutt/* if &filetype == '' | setfiletype muttrc | endif " would also like nowrap
-autocmd! BufRead,BufNewFile /tmp/mutt* if &filetype == '' | setfiletype mail | endif 
+autocmd! BufRead,BufNewFile /tmp/mutt* if &filetype == '' | setfiletype mail | endif
 
 " }}}5
 
@@ -167,7 +168,7 @@ autocmd! FileType nginx setlocal commentstring=#\ %s
 " }}}
 
 autocmd! FileType fstab setlocal commentstring=#\ %s
-autocmd! FileType haskell setlocal commentstring=--\ %s 
+autocmd! FileType haskell setlocal commentstring=--\ %s
 autocmd! FileType json setlocal nowrap
 autocmd! FileType lynx setlocal commentstring=#\ %s
 autocmd! FileType slrnrc setlocal commentstring=%\ %s
@@ -175,7 +176,7 @@ autocmd! FileType svnannotate cmap <buffer> q bwipeout
 
 " text {{{
 
-autocmd! FileType text setlocal commentstring=%s 
+autocmd! FileType text setlocal commentstring=%s
 autocmd! BufEnter * if &filetype == "" | setlocal filetype=text | endif
 autocmd! FileType text setlocal textwidth=78
 
@@ -220,19 +221,19 @@ autocmd! BufRead,BufNewFile ~/.xmonad/xmonad.hs setfiletype haskell | set foldme
 
 " xmodmap {{{3
 
-autocmd! BufRead,BufNewFile ~/.xmodmap setfiletype xmodmap | set foldmethod=marker commentstring=!\ %s 
+autocmd! BufRead,BufNewFile ~/.xmodmap setfiletype xmodmap | set foldmethod=marker commentstring=!\ %s
 
 " }}}3
 
 " xbindkeys {{{3
 
-autocmd! BufRead,BufNewFile ~/.xbindkeys setfiletype conf | set foldmethod=indent commentstring=#\ %s 
+autocmd! BufRead,BufNewFile ~/.xbindkeys setfiletype conf | set foldmethod=indent commentstring=#\ %s
 
 " }}}3
 
 " irssi {{{3
 
-autocmd! BufRead,BufNewFile ~/.irssi/config,~/.irssi/default.theme setfiletype conf | set foldmethod=marker fmr={,} 
+autocmd! BufRead,BufNewFile ~/.irssi/config,~/.irssi/default.theme setfiletype conf | set foldmethod=marker fmr={,}
 
 " }}}3
 
@@ -247,7 +248,7 @@ autocmd! FileType sshconfig set nowrap foldmethod=indent
 autocmd! BufNewFile,BufRead *.vim setf vim
 
 autocmd! BufRead,BufNewFile ~/.config/vim/plugins/pathogen/autoload/pathogen.vim set foldmethod=marker
-autocmd! FileType vim setlocal commentstring=\"\ %s 
+autocmd! FileType vim setlocal commentstring=\"\ %s
 autocmd! Syntax vim setlocal foldmethod=marker | normal zM
 
 " }}}3
@@ -256,20 +257,20 @@ autocmd! Syntax vim setlocal foldmethod=marker | normal zM
 
 " {{{2
 
-autocmd! BufRead,BufNewFile *.json setlocal equalprg=python\ -mjson.tool\ 2>/dev/null 
-autocmd! FileType json setlocal equalprg=python\ -mjson.tool\ 2>/dev/null 
+autocmd! BufRead,BufNewFile *.json setlocal equalprg=python\ -mjson.tool\ 2>/dev/null
+autocmd! FileType json setlocal equalprg=python\ -mjson.tool\ 2>/dev/null
 
 " }}}2
 
 autocmd! BufRead,BufNewFile * if &fileformat == 'unix' | syntax match Invisible /\r$/ conceal | setlocal conceallevel=2 | endif
 
-augroup END 
+augroup END
 
 " }}}1
 
 " Misc {{{1
 
-augroup misc 
+augroup misc
 
 " {{{2
 
@@ -293,26 +294,27 @@ augroup END
 
 " JSON {{{1
 
-augroup json_autocmd 
+augroup json_autocmd
 
 " json filetype {{{2
 
-autocmd! FileType json set autoindent 
-autocmd! FileType json set expandtab 
-autocmd! FileType json set foldmethod=syntax 
-autocmd! FileType json set formatoptions=tcq2l 
-autocmd! FileType json set softtabstop=2 tabstop=2 
-autocmd! FileType json set textwidth=78 shiftwidth=2 
+autocmd! FileType json set autoindent
+autocmd! FileType json set expandtab
+autocmd! FileType json set foldmethod=syntax
+autocmd! FileType json set formatoptions=tcq2l
+autocmd! FileType json set softtabstop=2 tabstop=2
+autocmd! FileType json set textwidth=78 shiftwidth=2
 
 " }}}2
 
-augroup END 
+augroup END
 
 " }}}1
 
 " Classic ASP {{{
 
-autocmd! FileType aspvbs setlocal noexpandtab
+autocmd! FileType aspvbs setlocal noexpandtab commentstring='\ %s foldmethod=indent
+autocmd! BufRead,BufNewFile *XpoNlm.XpoNlm.Web/main/**.inc setlocal filetype=aspvbs
 
 " }}}1
 
@@ -337,8 +339,8 @@ autocmd! BufRead,BufNewFile ~/Documents/notes nnoremap <silent> <leader>l :r !da
 "autocmd BufWinLve *.* if expand("%") != "" | mkview! | endif
 "autocmd CursorHold * if getcmdwintype() == '' | checktime | endif
 "autocmd CursorMoved * exe printf('match IncSearch /\V\<%s\>/', escape(expand('<cword>'), '/\'))
-"autocmd FileChangedShell * if getcmdwintype() == '' | checktime | endif  
-"autocmd FileChangedShellPost * if getcmdwintype() == '' | checktime | endif 
+"autocmd FileChangedShell * if getcmdwintype() == '' | checktime | endif
+"autocmd FileChangedShellPost * if getcmdwintype() == '' | checktime | endif
 "autocmd FileType php set omnifunc=phpcomplete#CompletePHP
 "autocmd WinEnter * setlocal cursorline
 "autocmd WinLeave * setlocal nocursorline
@@ -347,12 +349,12 @@ autocmd! BufRead,BufNewFile ~/Documents/notes nnoremap <silent> <leader>l :r !da
 " endif
 
 " autocmd! BufEnter *.org call org#SetOrgFileType()
-" autocmd! BufRead,BufNewFile ~/.gnupg/* if &filetype == 'conf' | setfiletype gpg | endif 
-" autocmd! BufRead,BufWrite,BufWritePost,BufNewFile *.org 
+" autocmd! BufRead,BufNewFile ~/.gnupg/* if &filetype == 'conf' | setfiletype gpg | endif
+" autocmd! BufRead,BufWrite,BufWritePost,BufNewFile *.org
 
 " autocmd! BufEnter *.org call org#SetOrgFileType()
-" autocmd! BufRead,BufNewFile ~/.gnupg/* if &filetype == 'conf' | setfiletype gpg | endif 
-" autocmd! BufRead,BufWrite,BufWritePost,BufNewFile *.org 
+" autocmd! BufRead,BufNewFile ~/.gnupg/* if &filetype == 'conf' | setfiletype gpg | endif
+" autocmd! BufRead,BufWrite,BufWritePost,BufNewFile *.org
 
 "autocmd! CursorHold * silent checktime
 

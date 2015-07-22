@@ -679,6 +679,7 @@ iab IMprotant Important
 iab IMprove Improve
 iab IMprovigin Improving
 iab IMprovment Improvement
+iab IMrpotant Important
 iab INTEFEACE INTERFACE
 iab INTERFACRE INTERFACE
 iab INTERFAFCE INTERFACE
@@ -1595,6 +1596,7 @@ iab SOuth South
 iab SOuthfield Southfield
 iab SPecialties Specialties
 iab SPent Spent
+iab SPlit Split
 iab SPrusce Spruce
 iab SQaure Square
 iab SQuiggly Squiggly
@@ -4018,6 +4020,7 @@ iab attribuytes attributes
 iab attriduted attributed
 iab attrrivutes attributes
 iab attrubte attribute
+iab attrubtes attributes
 iab atttached attached
 iab atttempt attempt
 iab atually actually
@@ -7552,6 +7555,7 @@ iab dfid did
 iab dfinding finding
 iab dfireceive directive
 iab dfirst first
+iab dfiv div
 iab dfo do
 iab dfrom from
 iab dfurtherst furthest
@@ -14565,6 +14569,7 @@ iab msitake mistake
 iab msitakes mistakes
 iab msitmaken mistaken
 iab mstaken mistaken
+iab msthin margin
 iab mstkane mistaken
 iab msuci music
 iab msucnele muscle
@@ -16321,6 +16326,7 @@ iab physuical physical
 iab physuicsl physics
 iab phyucail physical
 iab picekr picker
+iab picke4r picker
 iab pictuer picture
 iab pictuere picture
 iab picuture picture
@@ -16871,6 +16877,7 @@ iab preocesses processes
 iab preocessing processing
 iab preoduce produce
 iab preofious previous
+iab preojewct project
 iab preopertyy property
 iab preopisitions prepositions
 iab preoposiotins prepositions
@@ -20346,8 +20353,10 @@ iab stiop stop
 iab stiorage storage
 iab stirct strict
 iab stireies stories
+iab stirfcdt strict
 iab stirng string
 iab stirngs strings
+iab stirxcgt strict
 iab stiting sitting
 iab stitting sitting
 iab stiyle style
@@ -20482,6 +20491,7 @@ iab strugglyng struggling
 iab struture structure
 iab struxture structure
 iab strying trying
+iab stryle style
 iab strztegety strategy
 iab ststens systems
 iab ststus status
@@ -20672,6 +20682,7 @@ iab supportign supporting
 iab supposewd supposed
 iab suppply supply
 iab supprot support
+iab supproty support
 iab suppsoed supposed
 iab supremcacy supremacy
 iab supremeacy supremacy
@@ -22706,6 +22717,7 @@ iab upate update
 iab updaated updated
 iab updaates updates
 iab updaet update
+iab updateing updating
 iab updatesa updates
 iab updatg update
 iab updatse updates
@@ -22780,6 +22792,7 @@ iab useri user
 iab usermame username
 iab usersnames usernames
 iab usesd used
+iab uset use
 iab useually usually
 iab useufl useful
 iab useuless useless
@@ -22802,6 +22815,7 @@ iab usoing using
 iab usper super
 iab usqe use
 iab usqing using
+iab ust use
 iab ustinels utensils
 iab ustu just
 iab usuaal usual
@@ -22908,6 +22922,7 @@ iab variesd varied
 iab variing varying
 iab varity variety
 iab varlaible variable
+iab varliable variable
 iab varoius various
 iab varrying varying
 iab vart var
@@ -24165,3 +24180,17 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
+iab deprecrtated deprecated
+iab iuf if
+iab warapper wrapper
+iab calass class
+iab bgcvolor bgcolor
+iab tebh the
+iab backgorund background
+iab attribyutre attribute
+iab balues values
+iab funcrtion function
+iab rerturn return
+iab Expeccted Expected
+iab iniline inline
+iab errror error
