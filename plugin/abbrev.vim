@@ -24194,3 +24194,13 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
+iab alritght alright
+iab alrgiht alright
+iab alrightr alright
+iab alrgoithu alright
+iab arlgihtr alright
+iab laright alright
+iab aalright alright
+iab arlgigh alright
+iab alrgith alright
+iab ialright alright
