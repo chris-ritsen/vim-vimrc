@@ -447,6 +447,7 @@ iab Exhauyse Exhaust
 iab Existance Existence
 iab Existintg Existing
 iab Expecation Expectation
+iab Expeccted Expected
 iab Experiencde Experience
 iab Experince Experience
 iab Experinece Experience
@@ -3774,6 +3775,7 @@ iab arivvedf arrived
 iab arleady already
 iab arleday already
 iab arlgiht alright
+iab arlight alright
 iab arlready already
 iab arltidcle article
 iab armture armature
@@ -4017,6 +4019,7 @@ iab attriburtes attributes
 iab attributesa attributes
 iab attributres attributes
 iab attribuytes attributes
+iab attribyutre attribute
 iab attriduted attributed
 iab attrrivutes attributes
 iab attrubte attribute
@@ -4321,6 +4324,7 @@ iab balnk blank
 iab balrey barley
 iab balswance balance
 iab balue value
+iab balues values
 iab bananaa banana
 iab banasds bananas
 iab bandwith bandwidth
@@ -4626,6 +4630,7 @@ iab bffer buffer
 iab bfore before
 iab bfour four
 iab bfrom from
+iab bgcvolor bgcolor
 iab bge be
 iab bgest best
 iab bgetter better
@@ -5079,6 +5084,7 @@ iab cahrge charge
 iab cahsing cashing
 iab cahteacters characters
 iab calaim claim
+iab calass class
 iab calbe cable
 iab calcculated calculated
 iab calcualte calculate
@@ -7289,6 +7295,7 @@ iab depisited deposited
 iab deplpy deploy
 iab depositied deposited
 iab depper deeper
+iab deprecrtated deprecated
 iab depsoitg deposit
 iab deptenedds depends
 iab depxlictily explicitly
@@ -9185,6 +9192,7 @@ iab erronous erroneous
 iab erronously erroneously
 iab errores errors
 iab errosrs errors
+iab errror error
 iab errrors errors
 iab ersectove perspective
 iab ersgister register
@@ -10531,6 +10539,7 @@ iab funcitonal functional
 iab funcitons functions
 iab funck funk
 iab funcoin function
+iab funcrtion function
 iab functdion function
 iab functdionalyt functionality
 iab functdiosn functions
@@ -12207,6 +12216,7 @@ iab iniital initial
 iab iniitalize initialize
 iab iniitialisation initialisation
 iab iniitla initial
+iab iniline inline
 iab ininitalize initialize
 iab inistalling installing
 iab initail initial
@@ -12785,6 +12795,7 @@ iab ittile title
 iab ittle little
 iab itw it
 iab ity it
+iab iuf if
 iab iunfolding unfolding
 iab iunnder under
 iab iuntil until
@@ -18301,6 +18312,7 @@ iab rercoerced recorded
 iab rereouted rerouted
 iab reridgerate refrigerate
 iab rerturend returned
+iab rerturn return
 iab rerutn return
 iab resaearch research
 iab resaearchers researchers
@@ -21148,6 +21160,7 @@ iab teasks tasks
 iab teastes tastes
 iab teawm team
 iab teawms teams
+iab tebh the
 iab tecdt text
 iab tecgbikigy technology
 iab tecghnical technical
@@ -23153,6 +23166,7 @@ iab waorund around
 iab waould would
 iab wapr warp
 iab waqs was
+iab warapper wrapper
 iab warapping wrapping
 iab wararnt warrant
 iab wardning warning
@@ -24180,17 +24194,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab deprecrtated deprecated
-iab iuf if
-iab warapper wrapper
-iab calass class
-iab bgcvolor bgcolor
-iab tebh the
-iab backgorund background
-iab attribyutre attribute
-iab balues values
-iab funcrtion function
-iab rerturn return
-iab Expeccted Expected
-iab iniline inline
-iab errror error
