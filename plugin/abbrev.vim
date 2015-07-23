@@ -24194,3 +24194,8 @@ iab rerturn return
 iab Expeccted Expected
 iab iniline inline
 iab errror error
+iab alewrt alert
+iab overlflow overflow
+iab marigh margin
+iab sticdky sticky
+iab teheswe these
