@@ -1154,6 +1154,7 @@ iab OUtstanding Outstanding
 iab OUwld would
 iab OVer Over
 iab OWould Would
+iab Obesessed Obsessed
 iab Obiovuslu Obviously
 iab Obiovusly Obviously
 iab Oboviusly Obviously
@@ -1388,6 +1389,9 @@ iab RESelmbingl Resembling
 iab RESelmbiong Resembling
 iab RESembling Resembling
 iab RESlemblign Resembling
+iab RESteraunt Restaurant
+iab REStweraunt Restaurant
+iab REWswtweraunt Restaurant
 iab REad Read
 iab REalise Realise
 iab REally Really
@@ -1400,6 +1404,7 @@ iab REcieved Received
 iab REcompile Recompile
 iab REcords Records
 iab REcreate Recreate
+iab REesteraunt Restaurant
 iab REfelctions Reflections
 iab REgardleess Regardless
 iab REgardless Regardless
@@ -1433,8 +1438,26 @@ iab REselmmbling Resembling
 iab REselvmign Resembling
 iab REset Reset
 iab REslembling Resembling
+iab REstaruant Restaurant
 iab REstated Restated
+iab REstaunrt Restaurant
+iab REstawraunt Restaurant
+iab REstawrautnt Restaurant
+iab REstearuant Restaurant
+iab REsteraaunt Restaurant
+iab REsterauhnt Restaurant
+iab REsteraunt Restaurant
+iab REsterautn Restaurant
+iab REstereraunt Restaurant	
+iab REstersaunt Restaurant
+iab REsteruant Restaurant
+iab REstewaunrt Restaurant
+iab REstewraunt Restaurant
 iab REsting Resting
+iab REstwaraunt Restaurant
+iab REstweeraunt Restaurant
+iab REstweraunt Restaurant
+iab REstwraunt Restaurant
 iab REsults Results
 iab REturn Return
 iab REturning Returning
@@ -1444,6 +1467,7 @@ iab REviews Reviews
 iab REvmoew Remove
 iab REvmovew Remove
 iab REvolution Revolution
+iab REwtusutant Restaurant
 iab REwwriting Rewriting
 iab RIght Right
 iab RInste4 Ritsen
@@ -1457,6 +1481,7 @@ iab RItsne Ritsen
 iab RNage Range
 iab RObert Robert
 iab ROlling Rolling
+iab RTesteraunt Restaurant
 iab RThansks Thanks
 iab RTherefore Therefore
 iab RThey They
@@ -1498,9 +1523,14 @@ iab RequireJSd RequireJS
 iab Requst Request
 iab Reqwriting Rewriting
 iab Rererence Reference
+iab Resaurant Restaurant
 iab Reselmving Resembling
 iab Respnsible Responsible
 iab Responsiblitiets Responsibilities
+iab Restauran Restaurant
+iab Restaurantkj Restaurant
+iab Resteraunt Restaurant
+iab Resxerauynt Restaurant
 iab Retn Rent
 iab Reuiqmrenteza Requirements
 iab Reverasal Reversal
@@ -2993,6 +3023,7 @@ iab alearady already
 iab aleaready already
 iab alerady already
 iab aleternatively alternatively
+iab alewrt alert
 iab algage algae
 iab algea algae
 iab algeao algae
@@ -3391,6 +3422,7 @@ iab anyoene anyone
 iab anyohne anyone
 iab anyomre anymore
 iab anyonee anyone
+iab anyonwe anyone
 iab anyore anymore
 iab anyr any
 iab anyrhing anything
@@ -3720,6 +3752,7 @@ iab aqlgorithms algorithms
 iab aqll all
 iab aqn an
 iab aqnd and
+iab aqt at
 iab aquianted acquainted
 iab aquicre acquire
 iab aquire acquire
@@ -5121,6 +5154,7 @@ iab callabsck callback
 iab callbackews callbacks
 iab callbacl callback
 iab calledf called
+iab callvbadck callback
 iab callw call
 iab caloune cologne
 iab calsssified classified
@@ -5534,6 +5568,7 @@ iab clairifcation clarification
 iab clairify clarify
 iab clakc clack
 iab clal call
+iab clalback callback
 iab clalbacks callbacks
 iab claled called
 iab claling calling
@@ -6842,6 +6877,7 @@ iab cpopy copy
 iab cpouople couple
 iab cquicker quicker
 iab craazy crazy
+iab crackrersd crackers
 iab craeate create
 iab craeting creating
 iab cralwer crawler
@@ -8663,6 +8699,7 @@ iab eists exists
 iab eitehr either
 iab eithe either
 iab eithebr either
+iab eitnere entire
 iab eitself itself
 iab eivnrioment environment
 iab eiwht with
@@ -11314,6 +11351,7 @@ iab holeck holodeck
 iab holesQ holes
 iab holess holes
 iab holidsays holidays
+iab homne home
 iab homogenous homogeneous
 iab homwe home
 iab honeslty honestly
@@ -11341,6 +11379,7 @@ iab horizotnal horizontal
 iab horiztonal horizontal
 iab horribily horribly
 iab horus hours
+iab hosdtnsame hostname
 iab hosipital hospital
 iab hospoital hospital
 iab hostiry history
@@ -11349,6 +11388,7 @@ iab hosude house
 iab hosue house
 iab hosuew house
 iab hosuld should
+iab hosurs hours
 iab hotswwap hotswap
 iab houres hours
 iab hourzs hours
@@ -12715,6 +12755,7 @@ iab irreversable irreversible
 iab irrevlevent irrelevant
 iab irritiating irritating
 iab irt it
+iab isFucntion isFunction
 iab isd is
 iab isdea idea
 iab isdeas ideas
@@ -13895,6 +13936,7 @@ iab marco macro
 iab marginb margin
 iab margion margin
 iab margniu margin
+iab marigh margin
 iab marign margin
 iab marignr margin
 iab marignt margin
@@ -14077,6 +14119,7 @@ iab memyro memory
 iab menaingless meaningless
 iab menantuful meaningful
 iab menas means
+iab menditon mention
 iab meneat meant
 iab mentawl mental
 iab menteion mention
@@ -15104,6 +15147,7 @@ iab nwwton newton
 iab nymber number
 iab nyunbmvers numbers
 iab o4r or
+iab oabut about
 iab oafter after
 iab oall all
 iab oaother another
@@ -15134,6 +15178,7 @@ iab objecdtives objectives
 iab objecdts objects
 iab objecf object
 iab objecft object
+iab objecrst object
 iab objecrts objects
 iab objecteives objectives
 iab objectional objectionable
@@ -15682,6 +15727,7 @@ iab oslwo slow
 iab osmcoutper computer
 iab osme some
 iab osmeone someone
+iab osmeonme someone
 iab osmethign something
 iab osmething something
 iab osmewhat somewhat
@@ -16141,6 +16187,7 @@ iab percieve perceive
 iab percieved perceived
 iab percived perceived
 iab percvect perfect
+iab perecent percent
 iab pereceuition perception
 iab perect erect
 iab pereferralbly preferably
@@ -20374,6 +20421,7 @@ iab stiarcaee staircase
 iab stiarcaes staircase
 iab stiarcate staircase
 iab stiars sitars
+iab sticdky sticky
 iab sticekr sticker
 iab stie site
 iab stigmitized stigmatized
@@ -20395,6 +20443,7 @@ iab stinrg string
 iab stinrgs strings
 iab stiop stop
 iab stiorage storage
+iab stircdt strict
 iab stirct strict
 iab stireies stories
 iab stirfcdt strict
@@ -20504,6 +20553,7 @@ iab stricdt strict
 iab stricft strict
 iab stricsdt strict
 iab stricvt strict
+iab strifcdt strict
 iab strift strict
 iab stright straight
 iab strigns strings
@@ -21256,6 +21306,7 @@ iab tehcnology technology
 iab tehcnoologies technologies
 iab tehdse these
 iab tehe the
+iab teheswe these
 iab tehir their
 iab tehm team
 iab tehn then
@@ -21919,6 +21970,7 @@ iab tmeplate template
 iab tmeplates templates
 iab tmepotign tempting
 iab tmeprature temperature
+iab tmeproarlily temporarily
 iab tmeptign tempting
 iab tmepting tempting
 iab tmie time
@@ -24229,44 +24281,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab crackrersd crackers
-iab hosurs hours
-iab aqt at
-iab homne home
-iab eitnere entire
-iab tmeproarlily temporarily
-iab oabut about
-iab menditon mention
-iab osmeonme someone
-iab perecent percent
-iab anyonwe anyone
-iab Obesessed Obsessed
-iab Resaurant Restaurant
-iab REesteraunt Restaurant
-iab Resxerauynt Restaurant
-iab Restauran Restaurant
-iab REsteraunt Restaurant
-iab REstereraunt Restaurant	
-iab REsteruant Restaurant
-iab REsteraaunt Restaurant
-iab REstearuant Restaurant
-iab RTesteraunt Restaurant
-iab REstewraunt Restaurant
-iab REstaruant Restaurant
-iab REstwaraunt Restaurant
-iab REstawrautnt Restaurant
-iab REStweraunt Restaurant
-iab Restaurantkj Restaurant
-iab REstawraunt Restaurant
-iab REstweeraunt Restaurant
-iab Resteraunt Restaurant
-iab REsterautn Restaurant
-iab REstersaunt Restaurant
-iab REwtusutant Restaurant
-iab REstaunrt Restaurant
-iab REstweraunt Restaurant
-iab RESteraunt Restaurant
-iab REWswtweraunt Restaurant
-iab REstwraunt Restaurant
-iab REsterauhnt Restaurant
-iab REstewaunrt Restaurant

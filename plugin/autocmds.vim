@@ -248,7 +248,7 @@ autocmd! FileType sshconfig set nowrap foldmethod=indent
 autocmd! BufNewFile,BufRead *.vim setf vim
 
 autocmd! BufRead,BufNewFile ~/.config/vim/plugins/pathogen/autoload/pathogen.vim set foldmethod=marker
-autocmd! FileType vim setlocal commentstring=\"\ %s
+autocmd! FileType vim setlocal commentstring=\"\ %s comments+=b:\"
 autocmd! Syntax vim setlocal foldmethod=marker | normal zM
 
 " }}}3
@@ -274,10 +274,9 @@ augroup misc
 
 " {{{2
 
-autocmd! BufRead,BufNewFile /etc/pacman.conf set commentstring=#\ %s
-
 autocmd! BufEnter * if exists('b:winview') | call winrestview(b:winview) | endif
 autocmd! BufLeave * let b:winview = winsaveview()
+autocmd! BufRead,BufNewFile /etc/pacman.conf set commentstring=#\ %s
 autocmd! BufReadPost *.doc %!antiword "%"
 autocmd! BufReadPost *.pdf silent %!pdftotext -layout -nopgbrk "%" -
 autocmd! BufReadPre *.doc set hlsearch!
