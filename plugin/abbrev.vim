@@ -447,6 +447,7 @@ iab Exhauyse Exhaust
 iab Existance Existence
 iab Existintg Existing
 iab Expecation Expectation
+iab Expeccted Expected
 iab Experiencde Experience
 iab Experince Experience
 iab Experinece Experience
@@ -2243,6 +2244,7 @@ iab aaction action
 iab aagain again
 iab aahsion fashion
 iab aailsble available
+iab aalright alright
 iab aamoutnts amounts
 iab aan an
 iab aand and
@@ -2989,6 +2991,7 @@ iab alearady already
 iab aleaready already
 iab alerady already
 iab aleternatively alternatively
+iab alewrt alert
 iab algage algae
 iab algea algae
 iab algeao algae
@@ -3092,6 +3095,11 @@ iab alredy already
 iab alredya already
 iab alreight alright
 iab alreydz already
+iab alrgiht alright
+iab alrgith alright
+iab alrgoithu alright
+iab alrightr alright
+iab alritght alright
 iab alruigfhrt alright
 iab alseep asleep
 iab alsways always
@@ -3773,7 +3781,10 @@ iab arive arrive
 iab arivvedf arrived
 iab arleady already
 iab arleday already
+iab arlgigh alright
 iab arlgiht alright
+iab arlgihtr alright
+iab arlight alright
 iab arlready already
 iab arltidcle article
 iab armture armature
@@ -4017,6 +4028,7 @@ iab attriburtes attributes
 iab attributesa attributes
 iab attributres attributes
 iab attribuytes attributes
+iab attribyutre attribute
 iab attriduted attributed
 iab attrrivutes attributes
 iab attrubte attribute
@@ -4321,6 +4333,7 @@ iab balnk blank
 iab balrey barley
 iab balswance balance
 iab balue value
+iab balues values
 iab bananaa banana
 iab banasds bananas
 iab bandwith bandwidth
@@ -4626,6 +4639,7 @@ iab bffer buffer
 iab bfore before
 iab bfour four
 iab bfrom from
+iab bgcvolor bgcolor
 iab bge be
 iab bgest best
 iab bgetter better
@@ -5079,6 +5093,7 @@ iab cahrge charge
 iab cahsing cashing
 iab cahteacters characters
 iab calaim claim
+iab calass class
 iab calbe cable
 iab calcculated calculated
 iab calcualte calculate
@@ -7289,6 +7304,7 @@ iab depisited deposited
 iab deplpy deploy
 iab depositied deposited
 iab depper deeper
+iab deprecrtated deprecated
 iab depsoitg deposit
 iab deptenedds depends
 iab depxlictily explicitly
@@ -9185,6 +9201,7 @@ iab erronous erroneous
 iab erronously erroneously
 iab errores errors
 iab errosrs errors
+iab errror error
 iab errrors errors
 iab ersectove perspective
 iab ersgister register
@@ -10531,6 +10548,7 @@ iab funcitonal functional
 iab funcitons functions
 iab funck funk
 iab funcoin function
+iab funcrtion function
 iab functdion function
 iab functdionalyt functionality
 iab functdiosn functions
@@ -11537,6 +11555,7 @@ iab iPoness iPhones
 iab iRntse Ritsen
 iab iStream stream
 iab iall all
+iab ialright alright
 iab iamge image
 iab iamges images
 iab ibuprhone ibuprofen
@@ -12207,6 +12226,7 @@ iab iniital initial
 iab iniitalize initialize
 iab iniitialisation initialisation
 iab iniitla initial
+iab iniline inline
 iab ininitalize initialize
 iab inistalling installing
 iab initail initial
@@ -12785,6 +12805,7 @@ iab ittile title
 iab ittle little
 iab itw it
 iab ity it
+iab iuf if
 iab iunfolding unfolding
 iab iunnder under
 iab iuntil until
@@ -13150,6 +13171,7 @@ iab laready already
 iab larealy largely
 iab larelgy largely
 iab largeley largely
+iab laright alright
 iab larmps lamps
 iab lasdt last
 iab laset least
@@ -13861,6 +13883,7 @@ iab marco macro
 iab marginb margin
 iab margion margin
 iab margniu margin
+iab marigh margin
 iab marign margin
 iab marignr margin
 iab marignt margin
@@ -18301,6 +18324,7 @@ iab rercoerced recorded
 iab rereouted rerouted
 iab reridgerate refrigerate
 iab rerturend returned
+iab rerturn return
 iab rerutn return
 iab resaearch research
 iab resaearchers researchers
@@ -20330,6 +20354,7 @@ iab stiarcaee staircase
 iab stiarcaes staircase
 iab stiarcate staircase
 iab stiars sitars
+iab sticdky sticky
 iab sticekr sticker
 iab stie site
 iab stigmitized stigmatized
@@ -21148,6 +21173,7 @@ iab teasks tasks
 iab teastes tastes
 iab teawm team
 iab teawms teams
+iab tebh the
 iab tecdt text
 iab tecgbikigy technology
 iab tecghnical technical
@@ -21211,6 +21237,7 @@ iab tehcnology technology
 iab tehcnoologies technologies
 iab tehdse these
 iab tehe the
+iab teheswe these
 iab tehir their
 iab tehm team
 iab tehn then
@@ -23153,6 +23180,7 @@ iab waorund around
 iab waould would
 iab wapr warp
 iab waqs was
+iab warapper wrapper
 iab warapping wrapping
 iab wararnt warrant
 iab wardning warning
@@ -24180,22 +24208,10 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab deprecrtated deprecated
-iab iuf if
-iab warapper wrapper
-iab calass class
-iab bgcvolor bgcolor
-iab tebh the
-iab backgorund background
-iab attribyutre attribute
-iab balues values
-iab funcrtion function
-iab rerturn return
-iab Expeccted Expected
-iab iniline inline
-iab errror error
-iab alewrt alert
-iab overlflow overflow
-iab marigh margin
-iab sticdky sticky
-iab teheswe these
+iab objecrst object
+iab stircdt strict
+iab strifcdt strict
+iab isFucntion isFunction
+iab clalback callback
+iab callvbadck callback
+iab hosdtnsame hostname
