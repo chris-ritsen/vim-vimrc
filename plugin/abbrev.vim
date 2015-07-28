@@ -20,6 +20,7 @@ iab BUt But
 iab Bevause Because
 iab Bothe Both
 iab Brtoken Broken
+iab Byt But
 iab CHeck Check
 iab CHris Chris
 iab CHristttopoher Christopher
@@ -286,6 +287,7 @@ iab Dveloper Developer
 iab Dvelopment Development
 iab Dvorakv Dvorak
 iab Dvorask Dvorak
+iab Dwfiininatley Definitely
 iab Dysnamuic Dynamic
 iab EAch Each
 iab EAdch Each
@@ -1063,6 +1065,7 @@ iab Monaing Moaning
 iab Mooisture Moisture
 iab Morman Mormon
 iab Mornign Morning
+iab Morwe More
 iab Mozardt Mozart
 iab MsacBook Macbook
 iab Myabe Maybe
@@ -1648,6 +1651,7 @@ iab STrategist Strategist
 iab STudio Studio
 iab SUch Such
 iab SUper Super
+iab SWgiykd Should
 iab SYstem System
 iab Safelu Safely
 iab Samage Damage
@@ -3807,6 +3811,7 @@ iab argumetn argument
 iab argumetns arguments
 iab argumetnss arguments
 iab argumetnts arguments
+iab argyment argument
 iab arhc arch
 iab arhcive archive
 iab arious various
@@ -7161,6 +7166,7 @@ iab dealsb deals
 iab dealth dealt
 iab dealy delay
 iab dearxh search
+iab deasd dead
 iab deatails details
 iab deawl deal
 iab deawling dealing
@@ -7899,6 +7905,7 @@ iab discovrery discovery
 iab discovrred discovered
 iab discratced distracted
 iab discribltion description
+iab discriiminate discriminate
 iab discription description
 iab discriptive descriptive
 iab discroverty discovery
@@ -10559,6 +10566,7 @@ iab fufilling fulfilling
 iab fuflling fulfilling
 iab fufulling fulfilling
 iab fuhirst first
+iab fuickler fucker
 iab fuile file
 iab fuilter filter
 iab fuinction function
@@ -13874,6 +13882,7 @@ iab makreting marketing
 iab makrewd marked
 iab makrkers markers
 iab maksing masking
+iab malware malware
 iab managber manager
 iab manageing managing
 iab managemnet management
@@ -14564,6 +14573,7 @@ iab morem more
 iab morening morning
 iab moreo more
 iab moreq more
+iab morew more
 iab moringin morning
 iab morining morning
 iab morinning morning
@@ -19994,6 +20004,7 @@ iab softweare software
 iab softwrewa software
 iab sofware software
 iab sofwtare software
+iab sofwtware software
 iab sohhould should
 iab sohluld should
 iab sohould should
@@ -20105,6 +20116,7 @@ iab sooon soon
 iab sopce scope
 iab sopeed speed
 iab sopent spent
+iab sophohhiticated sophisticated
 iab sopme some
 iab sopmethign something
 iab soports sports
@@ -20138,6 +20150,7 @@ iab soudnign sounding
 iab soudning sounding
 iab soudns sounds
 iab sould should
+iab soulds souls
 iab souludl should
 iab sounvds sounds
 iab souonds sounds
@@ -21763,6 +21776,7 @@ iab thiws this
 iab thix this
 iab thjat that
 iab thjen then
+iab thjese these
 iab thjis this
 iab thlusands thousands
 iab thmub thumb
@@ -22395,6 +22409,7 @@ iab tto to
 iab ttoday today
 iab ttomorrow tomorrow
 iab ttowards towards
+iab tttthat that
 iab ttwo two
 iab ttypes types
 iab tuaght taught
@@ -23432,6 +23447,7 @@ iab werds words
 iab wereck wreck
 iab weree were
 iab wereholf werewolf
+iab werew were
 iab werite write
 iab weriting writing
 iab werwe were
@@ -24282,4 +24298,8 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab fuickler fucker
+iab WRoting Writing
+iab Seinfled Seinfeld
+iab oisnteawd instead
+iab instasd instead
+iab isntadw instead
