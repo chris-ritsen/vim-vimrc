@@ -101,6 +101,7 @@ iab Congtratulations Congratulations
 iab Conrrad Conrad
 iab Consequ3ence Consequence
 iab Considder Consider
+iab Conspicious Conspicuous
 iab Conssciousness Consciousness
 iab Constawnt Constant
 iab Constgnzwnt Constant
@@ -189,6 +190,7 @@ iab DEscribe Describe
 iab DEvelolping Developing
 iab DEvising Devising
 iab DEvisising Devising
+iab DFIXME FIXME
 iab DFichotomies Dichotomies
 iab DId Did
 iab DIlbert Dilbert
@@ -7334,6 +7336,7 @@ iab dependceies dependencies
 iab dependecies dependencies
 iab dependecny dependency
 iab dependecy dependency
+iab dependeincy dependency
 iab dependenceies dependencies
 iab dependencty dependency
 iab depenedceies dependencies
@@ -7619,6 +7622,7 @@ iab dfurtherst furthest
 iab dhave have
 iab dhcahnges changes
 iab dhcip chip
+iab dherader header
 iab dhnaged changed
 iab dhownlaoed downloaded
 iab diable disable
@@ -11193,6 +11197,7 @@ iab hepl help
 iab heprahps perhaps
 iab heqre here
 iab herad heard
+iab herader header
 iab heree here
 iab hereos heroes
 iab heretite heritage
@@ -22981,6 +22986,7 @@ iab vacuunmig vacuuming
 iab vaguge vague
 iab vailable available
 iab vailyable valuable
+iab vairables variables
 iab valeu value
 iab valeus values
 iab validateds validated
@@ -24281,4 +24287,4 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab DFIXME FIXME
+iab represwnted represented
