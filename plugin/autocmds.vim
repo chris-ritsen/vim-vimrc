@@ -248,8 +248,16 @@ autocmd! FileType sshconfig set nowrap foldmethod=indent
 autocmd! BufNewFile,BufRead *.vim setf vim
 
 autocmd! BufRead,BufNewFile ~/.config/vim/plugins/pathogen/autoload/pathogen.vim set foldmethod=marker
-autocmd! FileType vim setlocal commentstring=\"\ %s comments+=b:\"
+autocmd! FileType vim setlocal commentstring=\"\ %s comments=b:\"
+
+" This was the default… not sure what the three-piece comment intent was.
+" autocmd! FileType vim setlocal commentstring=\"\ %s comments=sO:\"\ -,mO:\"\ \ ,eO:\"\",b:\"
+
+" ajhsdkfjahsdf kasjhdfk asdhfja sdfhafks djhasdf lashdf alskfhj asldhf
+" asdfkljhas dfkljh sadfkljahs dfdjhfkas
+
 autocmd! Syntax vim setlocal foldmethod=marker | normal zM
+
 
 " }}}3
 

@@ -4826,6 +4826,7 @@ iab boradly broadly
 iab bordder border
 iab bordre border
 iab bords birds
+iab boreder border
 iab boredf bored
 iab boredon boredom
 iab boreed bored
@@ -12431,6 +12432,7 @@ iab insteawd instead
 iab insted instead
 iab insteed instead
 iab instending intending
+iab instent intent
 iab insteqd instead
 iab instewad instead
 iab instgaed instead
@@ -13397,6 +13399,7 @@ iab leeds leads
 iab leevel level
 iab leeveled leveled
 iab lefft left
+iab lefvel level
 iab legaciy legacy
 iab legaciyy legacy
 iab legandardy legendary
@@ -15325,6 +15328,7 @@ iab ocme come
 iab ocmeb come
 iab ocmes comes
 iab ocming coming
+iab ocmment comment
 iab ocmmunication communication
 iab ocmmunitsei communities
 iab ocmoeutpers computers
@@ -24309,5 +24313,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab boreder border
-iab lefvel level
