@@ -485,6 +485,7 @@ iab FOllow Follow
 iab FOnt Font
 iab FOr For
 iab FOrget Forget
+iab FOrmat Format
 iab FOrmatted Formatted
 iab FOrmulas Formulas
 iab FOrtunarely Fortunately
@@ -545,6 +546,7 @@ iab GREat Great
 iab GReat Great
 iab GUET GET
 iab GUy Guy
+iab Gamil Gmail
 iab Garnat Garant
 iab Gbecause Because
 iab Geinius Genius
@@ -784,6 +786,7 @@ iab Improvments Improvements
 iab Imrivoving Improving
 iab Imrpoatnt Important
 iab Imrporiving Improving
+iab Imrpotant Important
 iab Imrprovign Improving
 iab Imrpvogin Improving
 iab Incnisistant Inconsistent
@@ -2110,6 +2113,7 @@ iab WAking Waking
 iab WAsting Wasting
 iab WAtchign Watching
 iab WAtching Watching
+iab WEHy Why
 iab WEbseter Webster
 iab WEbsetr Webster
 iab WEbster Webster
@@ -2193,6 +2197,8 @@ iab Whenveer Whenever
 iab Whenver Whenever
 iab Wherevery Wherever
 iab Whethetr Whether
+iab Whgy Why
+iab Whgy6 Why
 iab Whiel While
 iab Whio Who
 iab Whitment Whitman
@@ -2203,6 +2209,8 @@ iab Whty Why
 iab Whwere Where
 iab Whwhat What
 iab Whwne When
+iab Why6 Why
+iab Whyt Why
 iab Wiat Wait
 iab Wiating Waiting
 iab Wiht Whit
@@ -3003,6 +3011,7 @@ iab aiewed viewed
 iab aiglgint align
 iab airshoip airship
 iab aisde aside
+iab aivaildble available
 iab ajust just
 iab ajvascript javascript
 iab aksed asked
@@ -4826,6 +4835,7 @@ iab boradly broadly
 iab bordder border
 iab bordre border
 iab bords birds
+iab boreder border
 iab boredf bored
 iab boredon boredom
 iab boreed bored
@@ -5754,6 +5764,7 @@ iab cnosnle console
 iab cnosnoel console
 iab cnosoe console
 iab cnosoel console
+iab cnosoele console
 iab cnosoelll console
 iab cnosole console
 iab cnosooe console
@@ -8832,6 +8843,7 @@ iab elmeinated eliminated
 iab elmenet element
 iab elment element
 iab elments elements
+iab elmetn element
 iab elmiate eliminate
 iab elminate eliminate
 iab elminated eliminated
@@ -9273,6 +9285,7 @@ iab esailsy easily
 iab esaily easily
 iab esaitmate estimate
 iab esales sales
+iab esasdcaped escaped
 iab esasily easily
 iab esasy easy
 iab esatern eastern
@@ -12431,6 +12444,7 @@ iab insteawd instead
 iab insted instead
 iab insteed instead
 iab instending intending
+iab instent intent
 iab insteqd instead
 iab instewad instead
 iab instgaed instead
@@ -13397,6 +13411,7 @@ iab leeds leads
 iab leevel level
 iab leeveled leveled
 iab lefft left
+iab lefvel level
 iab legaciy legacy
 iab legaciyy legacy
 iab legandardy legendary
@@ -15325,6 +15340,7 @@ iab ocme come
 iab ocmeb come
 iab ocmes comes
 iab ocming coming
+iab ocmment comment
 iab ocmmunication communication
 iab ocmmunitsei communities
 iab ocmoeutpers computers
@@ -15409,6 +15425,7 @@ iab offree offerer
 iab offste offset
 iab offswet offset
 iab offten often
+iab offxet offset
 iab ofg of
 iab ofh of
 iab oflder folder
@@ -20585,6 +20602,7 @@ iab striken stricken
 iab stringts strings
 iab strioct strict
 iab strivct strict
+iab strixcdt strict
 iab strkiing striking
 iab strkiking striking
 iab strnage strange
@@ -21937,6 +21955,7 @@ iab tihs this
 iab tije time
 iab tijme time
 iab tilte title
+iab timeotu timeout
 iab timepicekr timepicker
 iab timepicket timepicker
 iab timepickre timepicker
@@ -24309,20 +24328,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab instent intent
-iab ocmment comment
-iab Imrpotant Important
-iab elmetn element
-iab cnosoele console
-iab aivaildble available
-iab offxet offset
-iab timeotu timeout
-iab esasdcaped escaped
-iab WEHy Why
-iab Whgy6 Why
-iab Why6 Why
-iab Whyt Why
-iab Whgy Why
-iab strixcdt strict
-iab FOrmat Format
-iab Gamil Gmail
