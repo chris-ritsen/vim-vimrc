@@ -229,7 +229,10 @@ let g:syntastic_html_checkers = [
 
 let g:syntastic_html_tidy_exec = 'tidy'
 
-let g:syntastic_javascript_checkers = ['eslint', 'jshint']
+let g:syntastic_javascript_checkers = [
+  \ 'eslint',
+  \ 'jshint'
+  \ ]
 
 let g:syntastic_javascript_eslint_exec = 'eslint'
 let g:syntastic_javascript_jshint_exec = 'jshint'
