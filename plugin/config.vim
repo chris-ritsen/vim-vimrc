@@ -209,10 +209,13 @@ let g:sparkupNextMapping = ""
 let g:syntastic_c_compiler_options = '-std=c11 -include stdio.h'
 let g:syntastic_cpp_compiler_options = '-std=c++11'
 
+" \ 'code_checker'
+
 let g:syntastic_cs_checkers = [
   \ 'issues',
+  \ 'mcs',
   \ 'semantic',
-  \ 'syntax'
+  \ 'syntax'   
   \ ]
 
 let g:syntastic_css_csslint_args = '--ignore box-sizing,unique-headings'
@@ -226,7 +229,10 @@ let g:syntastic_html_checkers = [
 
 let g:syntastic_html_tidy_exec = 'tidy'
 
-let g:syntastic_javascript_checkers = ['eslint', 'jshint']
+let g:syntastic_javascript_checkers = [
+  \ 'eslint',
+  \ 'jshint'
+  \ ]
 
 let g:syntastic_javascript_eslint_exec = 'eslint'
 let g:syntastic_javascript_jshint_exec = 'jshint'
@@ -239,7 +245,14 @@ let g:syntastic_less_checkers = [
 let g:syntastic_mode_map = {
   \ 'mode': 'active', 
   \ 'active_filetypes': [
-  \ 'less', 'lisp', 'php', 'javascript', 'ruby', 'html', 'xml'
+  \ 'cs', 
+  \ 'html',
+  \ 'javascript',
+  \ 'less',
+  \ 'lisp',
+  \ 'php',
+  \ 'ruby',
+  \ 'xml'
   \ ],
   \ 'passive_filetypes': [] 
   \ }

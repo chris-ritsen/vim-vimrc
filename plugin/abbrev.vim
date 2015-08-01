@@ -24,6 +24,7 @@ iab Byt But
 iab CHeck Check
 iab CHris Chris
 iab CHristttopoher Christopher
+iab CLock Clock
 iab COmmon Common
 iab COmmunication Communication
 iab COmread Comrade
@@ -203,6 +204,7 @@ iab DOne Done
 iab DOnna Donna
 iab DOt Dot
 iab DRive Drive
+iab DRiver Driver
 iab DRiving Driving
 iab DRussell Russell
 iab DSead Dead
@@ -641,6 +643,7 @@ iab Hilariopus Hilarious
 iab Hisa His
 iab Hisd His
 iab Histroy History
+iab Hodl Hold
 iab Hoeever However
 iab Hoem Home
 iab Hoepfully Hopefully
@@ -710,6 +713,7 @@ iab INstagram Instagram
 iab INstall Install
 iab INstallation Installation
 iab INstalled Installed
+iab INstance Instance
 iab INstead Instead
 iab INsteda Instead
 iab INstitute Institute
@@ -1884,6 +1888,7 @@ iab TOm Tom
 iab TOok Took
 iab TOook Took
 iab TRACRE TRACE
+iab TRAiler Trailer
 iab TRhis Tris
 iab TVf TV
 iab TWo Two
@@ -2119,6 +2124,7 @@ iab WEbsetr Webster
 iab WEbster Webster
 iab WEebster Webster
 iab WEeek Week
+iab WEekend Weekend
 iab WEithout Without
 iab WEll Well
 iab WEorking Working
@@ -11411,6 +11417,7 @@ iab hosdtnsame hostname
 iab hosipital hospital
 iab hospoital hospital
 iab hostiry history
+iab hostnmae hostname
 iab hostwing hosting
 iab hosude house
 iab hosue house
@@ -14922,6 +14929,7 @@ iab neirbhors neighbors
 iab neithgggger neither
 iab nelary nearly
 iab nemae name
+iab nemory memory
 iab neniry memory
 iab nenoguh enough
 iab nenojoyable enjoyable
@@ -18897,6 +18905,7 @@ iab rtaking taking
 iab rtasks tasks
 iab rtecdtangle rectangle
 iab rtesting testing
+iab rteturn return
 iab rthat that
 iab rthater rather
 iab rthe the
@@ -19604,6 +19613,7 @@ iab shiow show
 iab shioyuld should
 iab shipemtn shipment
 iab shipes ships
+iab shipmehnt shipment
 iab shipmentREsponsde shipmentResponse
 iab shipmetn shipment
 iab shipmewnt shipment
@@ -20039,6 +20049,7 @@ iab soickal social
 iab soimethign something
 iab soimply simply
 iab soiunds sounds
+iab soize size
 iab soldi solid
 iab soldid solid
 iab solition solution
@@ -24327,10 +24338,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab isntall install
-iab CLock Clock
-iab INstance Instance
-iab soize size
-iab nemory memory
-iab rteturn return
-iab hostnmae hostname
