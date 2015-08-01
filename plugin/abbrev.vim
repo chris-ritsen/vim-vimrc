@@ -24332,3 +24332,5 @@ iab CLock Clock
 iab INstance Instance
 iab soize size
 iab nemory memory
+iab rteturn return
+iab hostnmae hostname
