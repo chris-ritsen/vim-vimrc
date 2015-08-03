@@ -61,6 +61,7 @@ let g:NERDTreeIgnore = [
   \ 'bin.*',
   \ 'jspm_packages',
   \ 'node_modules',
+  \ 'nohup.out',
   \ 'obj.*'
   \ ]
 

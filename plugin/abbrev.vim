@@ -24,6 +24,7 @@ iab Byt But
 iab CHeck Check
 iab CHris Chris
 iab CHristttopoher Christopher
+iab CLock Clock
 iab COmmon Common
 iab COmmunication Communication
 iab COmread Comrade
@@ -713,6 +714,7 @@ iab INstagram Instagram
 iab INstall Install
 iab INstallation Installation
 iab INstalled Installed
+iab INstance Instance
 iab INstead Instead
 iab INsteda Instead
 iab INstitute Institute
@@ -11426,6 +11428,7 @@ iab hosdtnsame hostname
 iab hosipital hospital
 iab hospoital hospital
 iab hostiry history
+iab hostnmae hostname
 iab hostwing hosting
 iab hosude house
 iab hosue house
@@ -14938,6 +14941,7 @@ iab neirbhors neighbors
 iab neithgggger neither
 iab nelary nearly
 iab nemae name
+iab nemory memory
 iab neniry memory
 iab nenoguh enough
 iab nenojoyable enjoyable
@@ -18914,6 +18918,7 @@ iab rtaking taking
 iab rtasks tasks
 iab rtecdtangle rectangle
 iab rtesting testing
+iab rteturn return
 iab rthat that
 iab rthater rather
 iab rthe the
@@ -20058,6 +20063,7 @@ iab soickal social
 iab soimethign something
 iab soimply simply
 iab soiunds sounds
+iab soize size
 iab soldi solid
 iab soldid solid
 iab solition solution
@@ -22655,7 +22661,6 @@ iab uncosnous unconscious
 iab undbind unbind
 iab undefied undefined
 iab undefiend undefined
-iab undefine undefined
 iab underdantd understand
 iab underdsand understand
 iab underdshand understand

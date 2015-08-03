@@ -149,6 +149,8 @@ autocmd! BufRead,BufNewFile ~/.config/mpd/music/music.conf set filetype=conf fol
 autocmd! BufRead,BufNewFile ~/.config/mpd/stream/stream.conf set filetype=conf foldmethod=marker foldmarker={,}
 autocmd! BufRead,BufNewFile ~/.config/mpd/voice/voice.conf set filetype=conf foldmethod=marker foldmarker={,}
 
+autocmd! BufRead,BufNewFile ~/.csgo.autoexec.cfg setlocal foldmethod=marker foldmarker={,} commentstring=\/\/\ %s 
+
 autocmd! BufRead,BufNewFile ~/.offlineimaprc setfiletype conf
 autocmd! BufRead,BufWrite *.inc,*.php,*.hs if ! &bin | silent! %s/\s\+$//ge | endif
 autocmd! BufRead,BufWrite *.inc,*.php,*.hs if ! &bin | silent! :%s/ \+\ze\t//ge | endif
