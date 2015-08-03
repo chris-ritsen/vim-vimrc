@@ -203,6 +203,7 @@ iab DOne Done
 iab DOnna Donna
 iab DOt Dot
 iab DRive Drive
+iab DRiver Driver
 iab DRiving Driving
 iab DRussell Russell
 iab DSead Dead
@@ -257,6 +258,7 @@ iab Digittal Digital
 iab Dilbewrt Dilbert
 iab Dillbert Dilbert
 iab Dilvert Dilbert
+iab Disalbed Disabled
 iab Discipines Disciplines
 iab Discources Discourses
 iab Discoverd Discovered
@@ -641,6 +643,7 @@ iab Hilariopus Hilarious
 iab Hisa His
 iab Hisd His
 iab Histroy History
+iab Hodl Hold
 iab Hoeever However
 iab Hoem Home
 iab Hoepfully Hopefully
@@ -1884,6 +1887,7 @@ iab TOm Tom
 iab TOok Took
 iab TOook Took
 iab TRACRE TRACE
+iab TRAiler Trailer
 iab TRhis Tris
 iab TVf TV
 iab TWo Two
@@ -2119,6 +2123,7 @@ iab WEbsetr Webster
 iab WEbster Webster
 iab WEebster Webster
 iab WEeek Week
+iab WEekend Weekend
 iab WEithout Without
 iab WEll Well
 iab WEorking Working
@@ -3826,6 +3831,7 @@ iab argumetnts arguments
 iab argyment argument
 iab arhc arch
 iab arhcive archive
+iab aribirrary arbitrary
 iab arious various
 iab aritcles articles
 iab aritisds artists
@@ -5816,6 +5822,7 @@ iab coinstant constant
 iab coinstraining constraining
 iab coinstrianing constraining
 iab cointed counted
+iab cointineu continue
 iab coinxstraing constraining
 iab coirse course
 iab coisuld could
@@ -6558,6 +6565,7 @@ iab contenvitional conventional
 iab contenxt context
 iab conteracting contracting
 iab conterianed constrained
+iab conteue continue
 iab contexcdt context
 iab contexst context
 iab contexsts contexts
@@ -6569,6 +6577,7 @@ iab contibnue continue
 iab contidiotns conditions
 iab contiditonsa conditions
 iab contidtion condition
+iab contieul continue;
 iab contifurign configuring
 iab contignet contingent
 iab contihously continuously
@@ -6608,8 +6617,10 @@ iab contiunuum continuum
 iab contiunyous continuous
 iab contiuous continuous
 iab contiyually continually
+iab contmeinue continue
 iab contnet content
 iab contnetn content
+iab contnieue continue
 iab contnnnnue continue
 iab contoerl control
 iab contorl control
@@ -6841,6 +6852,7 @@ iab costss costs
 iab cotact contact
 iab cotinue continue
 iab cotnents contents
+iab cotninu7e continue
 iab cotninue continue
 iab cotnorl control
 iab cotnrolled controlled
@@ -7517,6 +7529,7 @@ iab detewct detect
 iab detial detail
 iab detials details
 iab detyails details
+iab deubber debugger
 iab deubgetr debugger
 iab deubgger debugger
 iab devceloping developing
@@ -7804,6 +7817,7 @@ iab diminetionsa dimensions
 iab dimisihing diminishing
 iab dind didn
 iab dindentify identify
+iab dinmensions dimensions
 iab dinstintion distinction
 iab dioing doing
 iab diong doing
@@ -9081,6 +9095,7 @@ iab enthusiiastic enthusiastic
 iab enthusoiaistic enthusiastic
 iab enthusuaxstic enthusiastic
 iab entires entries
+iab entireuyly entirely
 iab entiteies entities
 iab entitiy entity
 iab entitties entities
@@ -12533,6 +12548,7 @@ iab intereacions interactions
 iab intereaction interaction
 iab intereface interface
 iab interefere interfere
+iab interefering interfering
 iab interenal internal
 iab interene6t internet
 iab interenet internet
@@ -15933,6 +15949,7 @@ iab paceholder placeholder
 iab packageing packaging
 iab packagesd packages
 iab packagfes packages
+iab packagging packaging
 iab packcheck paycheck
 iab paclage package
 iab padddding padding
@@ -19604,6 +19621,7 @@ iab shiow show
 iab shioyuld should
 iab shipemtn shipment
 iab shipes ships
+iab shipmehnt shipment
 iab shipmentREsponsde shipmentResponse
 iab shipmetn shipment
 iab shipmewnt shipment
@@ -19637,6 +19655,7 @@ iab shooudlb should
 iab shoould should
 iab shoppingt shopping
 iab shoppoing shopping
+iab shopwing showing
 iab shorteneed shortened
 iab shortented shortened
 iab shortlly shortly
@@ -24328,8 +24347,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab shipmehnt shipment
-iab Hodl Hold
-iab WEekend Weekend
-iab TRAiler Trailer
-iab DRiver Driver
