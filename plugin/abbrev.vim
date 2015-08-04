@@ -24392,3 +24392,20 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
+iab aribrirarrily arbitrarily
+iab compliccated complicated
+iab randmomply randomly
+iab intendets indents
+iab idnents indents
+iab indtents indents
+iab coldors colors
+iab rptatcicing practicing
+iab imeprotant important
+iab spaceing spacing
+iab preserveed preserved
+iab articifical artificial
+iab reauqiqred required
+iab detdicated dedicated
+iab kgame game
+iab yeuah yeah
+iab curtainn curtain

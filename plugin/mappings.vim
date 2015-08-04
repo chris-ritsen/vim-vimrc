@@ -97,15 +97,25 @@ nnoremap <F6> :!vlock<cr>
 nnoremap <Q <nop>
 nnoremap <down> <nop>
 nnoremap <leader>d :call AddAbbrev()<cr>
+
 nnoremap <silent> <C-h> 1zh
 nnoremap <silent> <C-l> 1zl
+
+nnoremap <silent> <left> 7zh
+nnoremap <silent> <right> 7zl
+
+nnoremap <silent> <up> 7<c-y>
+nnoremap <silent> <down> 7<c-e>
+
 nnoremap <silent> <Leader>e :e<CR>
 nnoremap <silent> <leader>N :NERDTreeToggle<CR>
 nnoremap <silent> <leader>h :noh<CR>
 nnoremap <silent> <leader>l <esc>GG :r !date -u +"\%Y-\%m-\%dT\%H:\%M:\%SZ"<CR>zt A — 
 nnoremap <silent> <leader>n :NERDTreeFind<CR>
 nnoremap <silent>x x:call Redefine_x_ForVirtualEdit()<CR>
-nnoremap <up> <nop>
+
+" nnoremap <up> <nop>
+
 nnoremap J mzJ`z
 nnoremap K <nop>
 nnoremap Y y$
@@ -115,12 +125,15 @@ nnoremap Y y$
 nnoremap <silent> <Delete> <nop>
 nnoremap <silent> <End> <nop>
 nnoremap <silent> <Home> <nop>
-nnoremap <silent> <Left> <Esc>:bp<CR>
-nnoremap <silent> <Left> <nop>
+
+" nnoremap <silent> <Left> <Esc>:bp<CR>
+" nnoremap <silent> <Left> <nop>
+
 nnoremap <silent> <PageDown> <nop>
 nnoremap <silent> <PageUp> <nop>
-nnoremap <silent> <Right> <Esc>:bn<CR>
-nnoremap <silent> <Right> <nop>
+
+" nnoremap <silent> <Right> <Esc>:bn<CR>
+" nnoremap <silent> <Right> <nop>
 
 
 " }}}2
@@ -131,8 +144,8 @@ nnoremap <silent> <Right> <nop>
 
 " {{{2
 
-noremap <up> <nop>
-noremap <down> <nop>
+" noremap <up> <nop>
+" noremap <down> <nop>
 
 " }}}2
 
