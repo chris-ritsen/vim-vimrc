@@ -1079,6 +1079,7 @@ iab Mozardt Mozart
 iab MsacBook Macbook
 iab Myabe Maybe
 iab Myu My
+iab NAnd And
 iab NAnother Another
 iab NExt Next
 iab NIce Nice
@@ -2182,6 +2183,7 @@ iab Websetr Webster
 iab Wedgnesday Wednesday
 iab Weebster Webster
 iab Wehat What
+iab Wehen When
 iab Wehenver Whenever
 iab Wehn When
 iab Wehne When
@@ -2310,9 +2312,11 @@ iab aany any
 iab aapplied applied
 iab aaprmtnets apartments
 iab aaprtmneds apartments
+iab aarchitecture architecture
 iab aarchitercutre architecture
 iab aare are
 iab aarea area
+iab aarray array
 iab aas as
 iab aassoticated associated
 iab aat at
@@ -3462,6 +3466,7 @@ iab anythign anything
 iab anythignt anything
 iab anythihgn anything
 iab anythinb anything
+iab anythinge anything
 iab anythiong anything
 iab anythiungh anything
 iab anythnign anything
@@ -5375,6 +5380,7 @@ iab cfirst first
 iab cgabge change
 iab cgateroy category
 iab cguide guide
+iab ch3cks checks
 iab chaanel channel
 iab chacatecter character
 iab chacne chance
@@ -6003,6 +6009,7 @@ iab compaatiability compatibility
 iab compaghyn company
 iab compahy company
 iab compahyu company
+iab compalin complain
 iab compaly company
 iab compamy company
 iab companhuyies companies
@@ -6215,6 +6222,7 @@ iab concerneed concerned
 iab concernes concerns
 iab concerntarte concentrate
 iab concferenc3 conference
+iab concflicts conflicts
 iab concice concise
 iab concider consider
 iab concious conscious
@@ -6594,6 +6602,7 @@ iab contintgent contingent
 iab contintions conditions
 iab continueed continued
 iab continugetnt contingent
+iab continuiing continuing
 iab continuiously continuously
 iab continuiysly continuously
 iab continuoally continually
@@ -7207,6 +7216,7 @@ iab debugfer debugger
 iab debuggger debugger
 iab debuggin debugging
 iab debuggter debugger
+iab debugin debug
 iab decalare declare
 iab decard decade
 iab decate decade
@@ -7250,6 +7260,7 @@ iab decvice device
 iab decvices devices
 iab decxetirty dexterity
 iab dedcdribe describe
+iab dedcidign deciding
 iab deductable deductible
 iab deeop deep
 iab deeparment department
@@ -7952,6 +7963,7 @@ iab discvoery discovery
 iab discvovered discovered
 iab disdablve disable
 iab disdalbed disabled
+iab disdlbed disabled
 iab disdpaly display
 iab disdpalys displays
 iab disdpatched dispatched
@@ -8965,6 +8977,7 @@ iab empotioinal emotional
 iab empoyment employment
 iab empplyer employer
 iab emprty empty
+iab emptoy empty
 iab emptu empty
 iab emptuy empty
 iab emptyied emptied
@@ -9820,6 +9833,7 @@ iab expecienced experienced
 iab expecitign expecting
 iab expecitng expecting
 iab expectDELTE expectDELETE
+iab expectationx expectation
 iab expectatoin expectation
 iab expectd expected
 iab expecteds expected
@@ -9934,6 +9948,7 @@ iab expressoin expression
 iab expresssion expression
 iab exprience experience
 iab expseically especially
+iab exptected expected
 iab exptectedg expected
 iab expter expert
 iab exremely extremely
@@ -10093,6 +10108,7 @@ iab faslse false
 iab faste fast
 iab fastrer faster
 iab fatehr father
+iab fathger father
 iab fatigure fatigue
 iab fauth faith
 iab faviroite favorite
@@ -10162,6 +10178,7 @@ iab fewature feature
 iab fewewest fewest
 iab fewewr fewer
 iab ffacto fact
+iab ffectively effectively
 iab ffew few
 iab ffirult difficult
 iab ffixingin fixing
@@ -10234,6 +10251,7 @@ iab filterablre filterable
 iab filtesr filters
 iab fimmalkers filmmakers
 iab fimnmd find
+iab finaally finally
 iab finacial financial
 iab finacnes finances
 iab finallly finally
@@ -10564,6 +10582,7 @@ iab frustrawting frustrating
 iab frutehr fruiter
 iab fruther further
 iab fruy fury
+iab frwquently frequently
 iab fst fast
 iab fthe the
 iab fto to
@@ -10876,6 +10895,7 @@ iab goign going
 iab goijng going
 iab goind going
 iab goingt going
+iab goinnnng going
 iab goint going
 iab gokgnt going
 iab gonig going
@@ -10898,6 +10918,7 @@ iab gorwn grown
 iab gorwoing growing
 iab gorwth growth
 iab gothink think
+iab gottent gotten
 iab gouy guy
 iab governeents governments
 iab governement government
@@ -11412,6 +11433,7 @@ iab hopefulluy hopefully
 iab hopefulyl hopefully
 iab hopess hopes
 iab hopeully hopefully
+iab hopless hopeless
 iab hoppocamoous hippocampus
 iab hopythoseised hypothesised
 iab horible horrible
@@ -11908,6 +11930,7 @@ iab imporatnat important
 iab imporatnce importance
 iab imporatnly importantly
 iab imporatnt important
+iab imporesonate impersonate
 iab imporessed impressed
 iab imporet import
 iab imporivign improving
@@ -12773,6 +12796,7 @@ iab ipmolications implications
 iab ipmortnat important
 iab ipmressed impressed
 iab ipmresseedd impressed
+iab ipon upon
 iab iponeo iphone
 iab iportnat important
 iab ipossible possible
@@ -14475,6 +14499,7 @@ iab mmonitors monitors
 iab mmontior monitor
 iab mmore more
 iab mmouse mouse
+iab mmrore more
 iab mmsising missing
 iab mmusble muscle
 iab mmy my
@@ -14761,6 +14786,7 @@ iab muyself myself
 iab muystery mystery
 iab mvartical vertical
 iab mvoe move
+iab mweess mess
 iab mwho who
 iab myaybe maybe
 iab myc my
@@ -14890,6 +14916,7 @@ iab necesarrily necessarily
 iab necesary necessary
 iab necesasary necessary
 iab necesasry necessary
+iab necesdaeyr necessary
 iab necessaary necessary
 iab necessarilty necessarily
 iab necessaruy necessary
@@ -14958,6 +14985,7 @@ iab neruoanatomical neuroanatomical
 iab neruoscientists neuroscientists
 iab nerural neural
 iab nerw new
+iab nesteded nested
 iab nesure ensure
 iab nesxt next
 iab netered entered
@@ -15312,6 +15340,7 @@ iab obviouysly obviously
 iab obviovuly obviously
 iab obvioylsky obviously
 iab obvioysly obviously
+iab obvioyus obvious
 iab obvioyuslky obviously
 iab obvioyusly obviously
 iab obvoiously obviously
@@ -15866,6 +15895,7 @@ iab ouyr our
 iab ouyt out
 iab ov of
 iab ov3erturend overturned
+iab ovbious obvious
 iab ovefr over
 iab ovejn oven
 iab ovelrfow overflow
@@ -15883,6 +15913,7 @@ iab overlfow overflow
 iab overlfyow overflow
 iab overlow overflow
 iab overlyay overlay
+iab overr over
 iab overrturend overturned
 iab overturend overturned
 iab overturrend overturned
@@ -17951,6 +17982,7 @@ iab recoikgning recognizing
 iab recoiuperating recuperating
 iab recolection recollection
 iab recollecft recollect
+iab recomplialtion recompilation
 iab recongisable recognisable
 iab reconized recognized
 iab reconsgtriucting reconstructing
@@ -18682,6 +18714,7 @@ iab reuqst request
 iab reuquest request
 iab reuquired required
 iab reuquirements requirements
+iab reurn return
 iab reurtn return
 iab reurtnr return
 iab reurtrn return
@@ -19844,6 +19877,7 @@ iab sisue issue
 iab sitance distance
 iab sitance stance
 iab sitation situation
+iab sitatiouin situation
 iab sitautions situations
 iab sitesw sites
 iab siteting sitting
@@ -20394,6 +20428,7 @@ iab staritgn starting
 iab staritng starting
 iab starnge strange
 iab starngers strangers
+iab starrtups startups
 iab startd started
 iab startede started
 iab startes starts
@@ -21097,6 +21132,7 @@ iab sysatem system
 iab sysetem system
 iab sysetm system
 iab sysetms systems
+iab sysmbol symbol
 iab sysmtes systems
 iab sysmtesm systems
 iab sysnced synced
@@ -21334,6 +21370,7 @@ iab technolgies technologies
 iab technolgoies technologies
 iab technolgoy technology
 iab technolhogy technology
+iab technoligies technologies
 iab technollgies technologies
 iab technologiy technology
 iab technologoies technologies
@@ -22430,6 +22467,7 @@ iab tryin trying
 iab tryingh trying
 iab tryinig trying
 iab tryly truly
+iab tryping typing
 iab tryting trying
 iab tryu try
 iab tryue true
@@ -22844,6 +22882,7 @@ iab unregistrerd unregistered
 iab unrelaiable unreliable
 iab unreleated unrelated
 iab unreliabl3 unreliable
+iab unrepsonsive unresponsive
 iab unresovled unresolved
 iab unresponseive unresponsive
 iab unrestratined unrestrained
@@ -23051,6 +23090,7 @@ iab vaguge vague
 iab vailable available
 iab vailyable valuable
 iab vairables variables
+iab valdiation validation
 iab valeu value
 iab valeus values
 iab validateds validated
@@ -24352,8 +24392,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab disdlbed disabled
-iab necesdaeyr necessary
-iab aarray array
-iab emptoy empty
-iab reurn return
