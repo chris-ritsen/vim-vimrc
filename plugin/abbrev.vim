@@ -811,6 +811,7 @@ iab Indisitnct Indistinct
 iab Indivusuals Individuals
 iab Infomration Information
 iab Informationtal Informational
+iab Informattion Information
 iab Infrmaotino Information
 iab Infrmoation Information
 iab Ingreneient Ingredient
@@ -2067,6 +2068,7 @@ iab Udiopating Updating
 iab Uiniversity University
 iab Uisjng Using
 iab Uisnging Using
+iab Uknonwn Unknown
 iab Unbeleivable Unbelievable
 iab Understranding Understanding
 iab Undertansable Understandable
@@ -2256,6 +2258,7 @@ iab XCHris Chris
 iab XChecking Checking
 iab Xptiaions Captains
 iab Xuox Xbox
+iab YEsd Yes
 iab YEsterday Yesterday
 iab YOu You
 iab YUou You
@@ -3839,6 +3842,7 @@ iab argyment argument
 iab arhc arch
 iab arhcive archive
 iab aribirrary arbitrary
+iab aribrirarrily arbitrarily
 iab arious various
 iab aritcles articles
 iab aritisds artists
@@ -3880,6 +3884,7 @@ iab artgumetns arguments
 iab articdle article
 iab articel article
 iab articels articles
+iab articifical artificial
 iab articile article
 iab articl4 article
 iab articlde article
@@ -5845,6 +5850,7 @@ iab coiunt count
 iab coiurses courses
 iab cokrworks coworkers
 iab colaborate collaborate
+iab coldors colors
 iab colecrivley collectively
 iab colege college
 iab colelcted collected
@@ -6088,6 +6094,7 @@ iab completling completing
 iab completlyg completely
 iab compliated complicated
 iab compliation compilation
+iab compliccated complicated
 iab compliled compiled
 iab complleted completed
 iab complonets components
@@ -6849,6 +6856,7 @@ iab corwd crowd
 iab cosmose cosmos
 iab cosmost cosmos
 iab cosnidered considered
+iab cosnoe console
 iab cosnoel console
 iab cosnoele console
 iab cosnoelle console
@@ -7030,6 +7038,7 @@ iab curature curvature
 iab curbature curvature
 iab curbe curve
 iab curcuit circuit
+iab cureent current
 iab curent current
 iab curernt current
 iab curicial crucial
@@ -7064,6 +7073,7 @@ iab currntly currently
 iab currrent current
 iab curshed crushed
 iab cursosr cursor
+iab curtainn curtain
 iab cusion cushion
 iab cusions cushions
 iab cusomising customising
@@ -7520,6 +7530,7 @@ iab detcdts detects
 iab detcet detect
 iab detcetds detects
 iab detdcts detects
+iab detdicated dedicated
 iab dete3cting detecting
 iab detecdte detect
 iab detecdtion detection
@@ -8298,6 +8309,7 @@ iab drasitcally drastically
 iab drawinsgs drawings
 iab drawking drawing
 iab dreasm dreams
+iab dreivers drivers
 iab dresearch research
 iab drian drain
 iab driectly directly
@@ -8314,7 +8326,10 @@ iab drinkj drink
 iab drinkk drink
 iab driopping dropping
 iab driveawy driveway
+iab driverds drivers
+iab driversw drivers
 iab drivft drift
+iab driviers drivers
 iab drivr driver
 iab drlls drills
 iab drnak drank
@@ -8467,6 +8482,7 @@ iab ealbe able
 iab ealire earlier
 iab eall all
 iab ealrier earlier
+iab ealrly early
 iab ealruuer earlier
 iab ealruyer earlier
 iab ealry early
@@ -11732,6 +11748,7 @@ iab idito idiot
 iab idlea ideal
 iab idleal ideal
 iab idlosed idolised
+iab idnents indents
 iab idnesx index
 iab idnetidal identical
 iab idnsex index
@@ -11822,6 +11839,7 @@ iab imediment impediment
 iab imemddiatley immediately
 iab imemdiately immediately
 iab imeplentnation implementation
+iab imeprotant important
 iab imfamlatory inflammatory
 iab imformatoin information
 iab imgine imagine
@@ -12208,6 +12226,7 @@ iab indivuduasl individual
 iab indivusulal individual
 iab indstead instead
 iab indtead instead
+iab indtents indents
 iab indulege indulge
 iab indussstry industry
 iab industructable indestructible
@@ -12543,6 +12562,7 @@ iab inteliigent intelligent
 iab intellgent intelligent
 iab intelliginble intelligible
 iab intendend intended
+iab intendets indents
 iab intendnetgd intended
 iab inteneded intended
 iab intenet internet
@@ -13153,6 +13173,7 @@ iab keyrboard keyboard
 iab keystroke3 keystroke
 iab keyuboahrsd keyboard
 iab keyyp keyup
+iab kgame game
 iab ki9ds kids
 iab kiccking kicking
 iab kicthen kitchen
@@ -14533,6 +14554,7 @@ iab modafininal modafinil
 iab modafinuil modafinil
 iab modalTempalte modalTemplate
 iab modawl modal
+iab modfal modal
 iab modfiy modify
 iab modicied modified
 iab modifcations modifications
@@ -17087,6 +17109,7 @@ iab presentationj presentation
 iab presentlable presentable
 iab preserrved preserved
 iab preservce preserve
+iab preserveed preserved
 iab presetn present
 iab presetnationn presentation
 iab presetns presents
@@ -17789,6 +17812,7 @@ iab ralrely rarely
 iab ramaining remaining
 iab rambinling rambling
 iab randlomly randomly
+iab randmomply randomly
 iab randomply randomly
 iab rankinig ranking
 iab ranodm random
@@ -17921,6 +17945,7 @@ iab reather rather
 iab reatialers retailers
 iab reauires requires
 iab reaul real
+iab reauqiqred required
 iab reaward reward
 iab reawding reading
 iab reawlly really
@@ -18695,6 +18720,7 @@ iab retursns returns
 iab retutn return
 iab retuyrn return
 iab retyrb return
+iab retyurn return
 iab reuest request
 iab reuglarly regularly
 iab reuinion reunion
@@ -18931,6 +18957,7 @@ iab rprespsentations representations
 iab rprevoiulshy previously
 iab rprison prison
 iab rproduced produced
+iab rptatcicing practicing
 iab rqually equally
 iab rqueoplment equipment
 iab rquest request
@@ -20259,6 +20286,7 @@ iab spaac3 space
 iab spaawned spawned
 iab spac4 space
 iab spacde space
+iab spaceing spacing
 iab spacepbar spacebar
 iab spaceshgip spaceship
 iab spacially spatially
@@ -20877,6 +20905,7 @@ iab supporst supports
 iab supportign supporting
 iab supposewd supposed
 iab suppply supply
+iab supproess suppress
 iab supprot support
 iab supproty support
 iab suppsoed supposed
@@ -20894,6 +20923,7 @@ iab suprisingly surprisingly
 iab suprisinglyy surprisingly
 iab suprisinlgy surprisingly
 iab suprisringly surprisingly
+iab suprpres suppress
 iab suprpsingly surprisingly
 iab suprringinly surprisingly
 iab suprrised surprised
@@ -24258,6 +24288,7 @@ iab yestreday yesterday
 iab yestwdrday yesterday
 iab yestwersday yesterday
 iab yeszterday yesterday
+iab yeuah yeah
 iab yewar year
 iab yewars years
 iab yewt yet
@@ -24392,33 +24423,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab aribrirarrily arbitrarily
-iab compliccated complicated
-iab randmomply randomly
-iab intendets indents
-iab idnents indents
-iab indtents indents
-iab coldors colors
-iab rptatcicing practicing
-iab imeprotant important
-iab spaceing spacing
-iab preserveed preserved
-iab articifical artificial
-iab reauqiqred required
-iab detdicated dedicated
-iab kgame game
-iab yeuah yeah
-iab curtainn curtain
-iab retyurn return
-iab ealrly early
-iab modfal modal
-iab suprpres suppress
-iab driversw drivers
-iab dreivers drivers
-iab driverds drivers
-iab driviers drivers
-iab cureent current
-iab Uknonwn Unknown
-iab cosnoe console
-iab supproess suppress
-iab Informattion Information
