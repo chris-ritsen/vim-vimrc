@@ -213,6 +213,7 @@ iab DUck Duck
 iab DUpliacated Duplicated
 iab DVorak Dvorak
 iab Dalkes Daleks
+iab Daphenie Daphne
 iab Davision Davison
 iab Dearborne Dearborn
 iab Debgree Degree
@@ -350,6 +351,7 @@ iab Eexpected Expected
 iab Efen Even
 iab Effecsts Effects
 iab Egnlisyu English
+iab Egss Eggs
 iab Eiditng Editing
 iab Eignstein Einstein
 iab Eignsteins Einsteins
@@ -1229,6 +1231,7 @@ iab PLeasews Pleases
 iab PLeaswe Please
 iab PLeswes Pleases
 iab PLot Plot
+iab PLus Plus
 iab PPHP PHP
 iab PROjdts Projects
 iab PRactiicing Practicing
