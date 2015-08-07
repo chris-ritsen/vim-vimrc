@@ -16,10 +16,18 @@ iab Asusmptions Assumptions
 iab Atch Arch
 iab Authenticatyions Authentications
 iab BROWSEWR BROWSER
+iab BUIld Build
 iab BUt But
 iab Bevause Because
+iab Bjuidl Build
+iab Bjuild Build
+iab Bjuisdl Build
 iab Bothe Both
 iab Brtoken Broken
+iab Buidl Build
+iab Buidsl Build
+iab Bujild Build
+iab Buuild Build
 iab Byt But
 iab CHeck Check
 iab CHris Chris
@@ -213,6 +221,7 @@ iab DUck Duck
 iab DUpliacated Duplicated
 iab DVorak Dvorak
 iab Dalkes Daleks
+iab Daphenie Daphne
 iab Davision Davison
 iab Dearborne Dearborn
 iab Debgree Degree
@@ -350,6 +359,7 @@ iab Eexpected Expected
 iab Efen Even
 iab Effecsts Effects
 iab Egnlisyu English
+iab Egss Eggs
 iab Eiditng Editing
 iab Eignstein Einstein
 iab Eignsteins Einsteins
@@ -578,6 +588,7 @@ iab Grabity Gravity
 iab Gradident Gradient
 iab Greenes Greens
 iab Grpahics Graphics
+iab Guiard Guard
 iab Guideliunes Guidelines
 iab Guidlines Guidelines
 iab Guuild Guild
@@ -1229,6 +1240,7 @@ iab PLeasews Pleases
 iab PLeaswe Please
 iab PLeswes Pleases
 iab PLot Plot
+iab PLus Plus
 iab PPHP PHP
 iab PROjdts Projects
 iab PRactiicing Practicing
@@ -1515,6 +1527,7 @@ iab Reamining Remaining
 iab Recend Recent
 iab Recentely Recently
 iab Redilbery Redelivery
+iab Redusce Reduce
 iab Reeally Really
 iab Reember Remember
 iab Referneces References
@@ -1531,6 +1544,7 @@ iab Rememebering Remembering
 iab Rememger Remember
 iab Rememver Remember
 iab Remianing Remaining
+iab Remvoe Remove
 iab Repeaet Repeat
 iab Requedsting Requesting
 iab Requewt Request
@@ -4098,6 +4112,7 @@ iab attntetnion attention
 iab attribles attributes
 iab attriburtes attributes
 iab attributesa attributes
+iab attributesd attributes
 iab attributres attributes
 iab attribuytes attributes
 iab attribyutre attribute
@@ -5029,6 +5044,7 @@ iab buidlign building
 iab buidling building
 iab buidls builds
 iab buiing building
+iab buikds builds
 iab buil build
 iab buildas builds
 iab buildgin building
@@ -5190,6 +5206,7 @@ iab callServbice callService
 iab callabsck callback
 iab callbackews callbacks
 iab callbacl callback
+iab callbak callback
 iab calledf called
 iab callvbadck callback
 iab callw call
@@ -5643,6 +5660,7 @@ iab cleawrly clearly
 iab clel cell
 iab clenaing cleaning
 iab clenaingg cleaning
+iab clewanup cleanup
 iab clhile chile
 iab clhotehs clothes
 iab clhotes clothes
@@ -5668,6 +5686,7 @@ iab clietn client
 iab clietns clients
 iab climante climate
 iab climbef climbed
+iab clinet client
 iab clinetns clients
 iab clinets clients
 iab cliobber clobber
@@ -6697,6 +6716,7 @@ iab contstructor constructor
 iab contstuctor constructor
 iab conttent content
 iab conttional conditional
+iab conveineience convenience
 iab convential convention
 iab conventianal conventional
 iab convept concept
@@ -8289,6 +8309,7 @@ iab dpeendecy dependency
 iab dpeendency dependency
 iab dpeloy deploy
 iab dpeloyed deployed
+iab dpeloyment deployment
 iab dpendencies dependencies
 iab dpenedecty dependency
 iab dpeneding depending
@@ -14435,6 +14456,7 @@ iab misecellanous miscellaneous
 iab miseellaneus miscellaneous
 iab misellaneous miscellaneous
 iab misinterpreed misinterpreted
+iab misisng missing
 iab misktaekn mistaken
 iab misntawekn mistaken
 iab misntekan mistaken
@@ -15010,6 +15032,7 @@ iab neruoscientists neuroscientists
 iab nerural neural
 iab nerw new
 iab nesteded nested
+iab nestintyg nesting
 iab nesure ensure
 iab nesxt next
 iab netered entered
@@ -17739,6 +17762,7 @@ iab quicl quick
 iab quiclh quickly
 iab quiclhy quickly
 iab quicljky quickly
+iab quiclker quicker
 iab quiclky quickly
 iab quiclllly quickly
 iab quicllyu quickly
@@ -18097,6 +18121,7 @@ iab referall referral
 iab refereing referring
 iab referencde reference
 iab referencesd references
+iab referenwce reference
 iab referes referees
 iab referesehs refreshes
 iab referesher refresher
@@ -19309,6 +19334,7 @@ iab sdsession session
 iab sdtandard standard
 iab sdtarted started
 iab sdtartgign starting
+iab sdtirct strict
 iab sdtuff stuff
 iab sdvhool school
 iab seach each
@@ -19687,6 +19713,7 @@ iab shioudl should
 iab shiow show
 iab shioyuld should
 iab shipemtn shipment
+iab shipemtnwe shipment
 iab shipes ships
 iab shipmehnt shipment
 iab shipmentREsponsde shipmentResponse
@@ -20577,7 +20604,9 @@ iab stiop stop
 iab stiorage storage
 iab stircdt strict
 iab stirct strict
+iab stirdt strict
 iab stireies stories
+iab stirfc strict
 iab stirfcdt strict
 iab stirng string
 iab stirngs strings
@@ -20729,6 +20758,7 @@ iab stuats status
 iab stucl stuck
 iab studff stuff
 iab studnets students
+iab stuelss styles
 iab stuepping stepping
 iab stuf stuff
 iab stufcte struct
@@ -21546,6 +21576,7 @@ iab teosday today
 iab teporalrly temporally
 iab teqnuquie technique
 iab terck trek
+iab tereorris terrorists
 iab teresting interesting
 iab terible terrible
 iab terinal terminal
@@ -22732,6 +22763,7 @@ iab uncosnous unconscious
 iab undbind unbind
 iab undefied undefined
 iab undefiend undefined
+iab undefineid undefined
 iab underdantd understand
 iab underdsand understand
 iab underdshand understand
@@ -22788,6 +22820,7 @@ iab undestood understood
 iab undestsanding understanding
 iab undetecteable undetectable
 iab undetrstand understand
+iab undienfied undefined
 iab undispilined undisciplined
 iab undiverse universe
 iab undoubably undoubtedly
@@ -23980,6 +24013,7 @@ iab workoign working
 iab workplacce workplace
 iab workring working
 iab workrry worry
+iab worksapces workspaces
 iab workstaions workstations
 iab workstatiosn workstations
 iab workstattions workstations
@@ -24427,32 +24461,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab stirfc strict
-iab stuelss styles
-iab Remvoe Remove
-iab nestintyg nesting
-iab Redusce Reduce
-iab callbak callback
-iab sdtirct strict
-iab algin align
-iab shipemtnwe shipment
-iab undienfied undefined
-iab undefineid undefined
-iab attributesd attributes
-iab referenwce reference
-iab stirdt strict
-iab BUIld Build
-iab Buidl Build
-iab Bjuisdl Build
-iab Buidsl Build
-iab Bjuild Build
-iab Bjuidl Build
-iab Bujild Build
-iab Guiard Guard
-iab buikds builds
-iab dpeloyment deployment
-iab Buuild Build
-iab clewanup cleanup
-iab quiclker quicker
-iab conveineience convenience
-iab worksapces workspaces
