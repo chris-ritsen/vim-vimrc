@@ -24489,3 +24489,7 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
+iab comcptuers computers
+iab acitvity activity
+iab primgary primary
+iab thnings things
