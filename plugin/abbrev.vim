@@ -2674,6 +2674,7 @@ iab acitivyt activity
 iab aciton action
 iab acitons actions
 iab acitonsa actions
+iab acitvity activity
 iab acivity acidity
 iab acivtivism activism
 iab ackknowledge acknowledge
@@ -5924,6 +5925,7 @@ iab combiations combinations
 iab combinationsa combination
 iab combinding combining
 iab combinie combine
+iab comcptuers computers
 iab comdoments condiments
 iab comdptuers computers
 iab comdputer computer
@@ -17220,6 +17222,7 @@ iab priint print
 iab priject project
 iab primart primary
 iab primaruly primarily
+iab primgary primary
 iab primoordial primordial
 iab princibles principles
 iab princiiples principles
@@ -21966,6 +21969,7 @@ iab thmumx thumb
 iab thnat that
 iab thne then
 iab thng thing
+iab thnings things
 iab thnink think
 iab thnk think
 iab thnking thinking
@@ -24489,7 +24493,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab comcptuers computers
-iab acitvity activity
-iab primgary primary
-iab thnings things
