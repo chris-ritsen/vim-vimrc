@@ -29,6 +29,7 @@ iab Buidsl Build
 iab Bujild Build
 iab Buuild Build
 iab Byt But
+iab CAtegiory Category
 iab CHeck Check
 iab CHris Chris
 iab CHristttopoher Christopher
@@ -456,6 +457,7 @@ iab Exactluy Exactly
 iab Exampine Examine
 iab Exasmple Example
 iab Excaliber Excalibur
+iab Excepfgtion Exception
 iab Excgrusiating Excruciating
 iab Excherquer Exchequer
 iab Excrusiating Excruciating
@@ -562,6 +564,7 @@ iab GUy Guy
 iab Gamil Gmail
 iab Garnat Garant
 iab Gbecause Because
+iab Ged Get
 iab Geinius Genius
 iab Geinus Genius
 iab Genetlemen Gentlemen
@@ -852,6 +855,7 @@ iab Interenet Internet
 iab Intetnet Internet
 iab Intimiate Intimate
 iab Intrest Interest
+iab Invaldi Invalid
 iab Invalud Invalid
 iab Invilsible Invisible
 iab Ipmortant Important
@@ -2676,6 +2680,7 @@ iab acitivyt activity
 iab aciton action
 iab acitons actions
 iab acitonsa actions
+iab acitvity activity
 iab acivity acidity
 iab acivtivism activism
 iab ackknowledge acknowledge
@@ -5858,6 +5863,7 @@ iab coidulk could
 iab coimplains complaints
 iab coimpletion completion
 iab coinfig config
+iab coinsoel console
 iab coinstant constant
 iab coinstraining constraining
 iab coinstrianing constraining
@@ -5928,6 +5934,7 @@ iab combiations combinations
 iab combinationsa combination
 iab combinding combining
 iab combinie combine
+iab comcptuers computers
 iab comdoments condiments
 iab comdptuers computers
 iab comdputer computer
@@ -7252,6 +7259,7 @@ iab debbugger debugger
 iab debeopment development
 iab debiug debug
 iab debubgger debugger
+iab debugegr debugger
 iab debugfer debugger
 iab debuggger debugger
 iab debuggin debugging
@@ -10392,6 +10400,7 @@ iab fkae fake
 iab flalwlessly flawlessly
 iab flaot float
 iab flase false
+iab flaset false
 iab flasgs flasks
 iab flaswe false
 iab flecible flexible
@@ -12680,6 +12689,7 @@ iab interia inertia
 iab interinal internal
 iab interlaly internally
 iab interneal internal
+iab internela internal
 iab interneta internet
 iab internetlal internal
 iab internte internet
@@ -13576,6 +13586,7 @@ iab lfoor floor
 iab lfow flow
 iab lfuid fluid
 iab lfy fly
+iab lg0 log
 iab lgenght length
 iab lgength length
 iab lgiht light
@@ -13583,6 +13594,7 @@ iab lgith light
 iab lgitha light
 iab lgiths lights
 iab lgo log
+iab lgo0 log
 iab lgoic logic
 iab lhave have
 iab lhealthy healthy
@@ -17201,6 +17213,7 @@ iab previosuly previously
 iab previoulsy previously
 iab previoyus previous
 iab previoyusl previous
+iab previuys previous
 iab previwe preview
 iab previwes previews
 iab previws previews
@@ -17226,6 +17239,7 @@ iab priint print
 iab priject project
 iab primart primary
 iab primaruly primarily
+iab primgary primary
 iab primoordial primordial
 iab princibles principles
 iab princiiples principles
@@ -17490,6 +17504,7 @@ iab propell propel
 iab propelrty property
 iab propelry properly
 iab properlty properly
+iab propertoy property
 iab properuly properly
 iab propery properly
 iab properyt property
@@ -21110,6 +21125,7 @@ iab sutiible suitable
 iab suualluy usually
 iab suually usually
 iab suupport support
+iab suusally usually
 iab suxh such
 iab suych such
 iab suypsrignlung surprisingly
@@ -21972,6 +21988,7 @@ iab thmumx thumb
 iab thnat that
 iab thne then
 iab thng thing
+iab thnings things
 iab thnink think
 iab thnk think
 iab thnking thinking
@@ -24495,16 +24512,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab lgo0 log
-iab CAtegiory Category
-iab Ged Get
-iab debugegr debugger
-iab coinsoel console
-iab lg0 log
-iab suusally usually
-iab previuys previous
-iab Excepfgtion Exception
-iab Invaldi Invalid
-iab internela internal
-iab propertoy property
-iab flaset false
