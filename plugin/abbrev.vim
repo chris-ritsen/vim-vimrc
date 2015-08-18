@@ -1087,6 +1087,7 @@ iab Mooisture Moisture
 iab Morman Mormon
 iab Mornign Morning
 iab Morwe More
+iab Mosnter Monster
 iab Mozardt Mozart
 iab MsacBook Macbook
 iab Myabe Maybe
@@ -1231,6 +1232,7 @@ iab PHase Phase
 iab PHaseers Phasers
 iab PHasers Phasers
 iab PHsysiscty Physicist
+iab PIeces Pieces
 iab PLEsaews Pleases
 iab PLEzsde Please
 iab PLan Plan
@@ -3923,6 +3925,7 @@ iab artsits artists
 iab artst artist
 iab artugments arguments
 iab arugemtns arguments
+iab arugmemtns arguments
 iab arugmenets arguments
 iab arugments arguments
 iab arugmetns arguments
@@ -5819,6 +5822,7 @@ iab cnsoolel console
 iab cnter center
 iab coarbon carbon
 iab cobntrol control
+iab cobsole console
 iab cocde code
 iab coce code
 iab cocern concern
@@ -7433,6 +7437,7 @@ iab depsoitg deposit
 iab deptenedds depends
 iab depxlictily explicitly
 iab derbugger debugger
+iab derbuggter debugger
 iab dercived derived
 iab dericed derived
 iab derire desire
@@ -13722,6 +13727,7 @@ iab lleast least
 iab llg log
 iab lllapttop laptop
 iab lllast last
+iab lllog log
 iab llocation location
 iab llog log
 iab llogn long
@@ -24489,3 +24495,16 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
+iab lgo0 log
+iab CAtegiory Category
+iab Ged Get
+iab debugegr debugger
+iab coinsoel console
+iab lg0 log
+iab suusally usually
+iab previuys previous
+iab Excepfgtion Exception
+iab Invaldi Invalid
+iab internela internal
+iab propertoy property
+iab flaset false
