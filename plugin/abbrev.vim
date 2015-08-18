@@ -29,6 +29,7 @@ iab Buidsl Build
 iab Bujild Build
 iab Buuild Build
 iab Byt But
+iab CAtegiory Category
 iab CHeck Check
 iab CHris Chris
 iab CHristttopoher Christopher
@@ -456,6 +457,7 @@ iab Exactluy Exactly
 iab Exampine Examine
 iab Exasmple Example
 iab Excaliber Excalibur
+iab Excepfgtion Exception
 iab Excgrusiating Excruciating
 iab Excherquer Exchequer
 iab Excrusiating Excruciating
@@ -562,6 +564,7 @@ iab GUy Guy
 iab Gamil Gmail
 iab Garnat Garant
 iab Gbecause Because
+iab Ged Get
 iab Geinius Genius
 iab Geinus Genius
 iab Genetlemen Gentlemen
@@ -852,6 +855,7 @@ iab Interenet Internet
 iab Intetnet Internet
 iab Intimiate Intimate
 iab Intrest Interest
+iab Invaldi Invalid
 iab Invalud Invalid
 iab Invilsible Invisible
 iab Ipmortant Important
@@ -1087,6 +1091,7 @@ iab Mooisture Moisture
 iab Morman Mormon
 iab Mornign Morning
 iab Morwe More
+iab Mosnter Monster
 iab Mozardt Mozart
 iab MsacBook Macbook
 iab Myabe Maybe
@@ -1231,6 +1236,7 @@ iab PHase Phase
 iab PHaseers Phasers
 iab PHasers Phasers
 iab PHsysiscty Physicist
+iab PIeces Pieces
 iab PLEsaews Pleases
 iab PLEzsde Please
 iab PLan Plan
@@ -3924,6 +3930,7 @@ iab artsits artists
 iab artst artist
 iab artugments arguments
 iab arugemtns arguments
+iab arugmemtns arguments
 iab arugmenets arguments
 iab arugments arguments
 iab arugmetns arguments
@@ -5820,6 +5827,7 @@ iab cnsoolel console
 iab cnter center
 iab coarbon carbon
 iab cobntrol control
+iab cobsole console
 iab cocde code
 iab coce code
 iab cocern concern
@@ -5855,6 +5863,7 @@ iab coidulk could
 iab coimplains complaints
 iab coimpletion completion
 iab coinfig config
+iab coinsoel console
 iab coinstant constant
 iab coinstraining constraining
 iab coinstrianing constraining
@@ -7250,6 +7259,7 @@ iab debbugger debugger
 iab debeopment development
 iab debiug debug
 iab debubgger debugger
+iab debugegr debugger
 iab debugfer debugger
 iab debuggger debugger
 iab debuggin debugging
@@ -7435,6 +7445,7 @@ iab depsoitg deposit
 iab deptenedds depends
 iab depxlictily explicitly
 iab derbugger debugger
+iab derbuggter debugger
 iab dercived derived
 iab dericed derived
 iab derire desire
@@ -10389,6 +10400,7 @@ iab fkae fake
 iab flalwlessly flawlessly
 iab flaot float
 iab flase false
+iab flaset false
 iab flasgs flasks
 iab flaswe false
 iab flecible flexible
@@ -12677,6 +12689,7 @@ iab interia inertia
 iab interinal internal
 iab interlaly internally
 iab interneal internal
+iab internela internal
 iab interneta internet
 iab internetlal internal
 iab internte internet
@@ -13573,6 +13586,7 @@ iab lfoor floor
 iab lfow flow
 iab lfuid fluid
 iab lfy fly
+iab lg0 log
 iab lgenght length
 iab lgength length
 iab lgiht light
@@ -13580,6 +13594,7 @@ iab lgith light
 iab lgitha light
 iab lgiths lights
 iab lgo log
+iab lgo0 log
 iab lgoic logic
 iab lhave have
 iab lhealthy healthy
@@ -13724,6 +13739,7 @@ iab lleast least
 iab llg log
 iab lllapttop laptop
 iab lllast last
+iab lllog log
 iab llocation location
 iab llog log
 iab llogn long
@@ -17197,6 +17213,7 @@ iab previosuly previously
 iab previoulsy previously
 iab previoyus previous
 iab previoyusl previous
+iab previuys previous
 iab previwe preview
 iab previwes previews
 iab previws previews
@@ -17487,6 +17504,7 @@ iab propell propel
 iab propelrty property
 iab propelry properly
 iab properlty properly
+iab propertoy property
 iab properuly properly
 iab propery properly
 iab properyt property
@@ -21107,6 +21125,7 @@ iab sutiible suitable
 iab suualluy usually
 iab suually usually
 iab suupport support
+iab suusally usually
 iab suxh such
 iab suych such
 iab suypsrignlung surprisingly
