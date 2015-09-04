@@ -14796,6 +14796,7 @@ iab monther mother
 iab montioning motioning
 iab montiros monitors
 iab montsh months
+iab montyh month
 iab monye money
 iab mooment moment
 iab moonitors monitors
@@ -16410,6 +16411,7 @@ iab peformance performance
 iab peformed performed
 iab peformming performing
 iab pefrecdtion perfection
+iab pefrect perfect
 iab pefrecting perfecting
 iab peice piece
 iab peices pieces
@@ -23852,6 +23854,7 @@ iab weverywhere everywhere
 iab wevsite website
 iab wewird weird
 iab wewks weeks
+iab wewre were
 iab wexacly exactly
 iab wexpecfted expected
 iab wexperience experience
@@ -24700,4 +24703,29 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab wewre were
+iab Jusyt Just
+iab openm open
+iab moyuth mouth
+iab instaewc instead
+iab dwok do
+iab easdi3er easier
+iab creicdtit credit
+iab eassier easier
+iab somketimes sometimes
+iab thyenm them
+iab igoodd good
+iab motherobardsa motherboards
+iab SDkylake Skylake
+iab YTou You
+iab amazOn amazon
+iab extyrmely extremely
+iab coommon common
+iab hight high
+iab Blsack Black
+iab Erim Erin
+iab evert ever
+iab avck back
+iab mintues minutes
+iab kitdcdhen kitchen
+iab WShy Why
+iab STomach Stomach
