@@ -24,6 +24,7 @@ iab Bevause Because
 iab Bjuidl Build
 iab Bjuild Build
 iab Bjuisdl Build
+iab Blsack Black
 iab Bothe Both
 iab Brtoken Broken
 iab Buidl Build
@@ -417,6 +418,7 @@ iab Equlally Equally
 iab Eqwual Equal
 iab Erectiopn Erection
 iab Eriik Erik
+iab Erim Erin
 iab Esablishing Establishing
 iab Eseesentially Essentially
 iab Esentially Essentially
@@ -900,6 +902,7 @@ iab Jsut Just
 iab Judgenment Judgment
 iab Jusat Just
 iab Justim Justin
+iab Jusyt Just
 iab Juzst Just
 iab KJefferson Jefferson
 iab KLet Let
@@ -1629,6 +1632,7 @@ iab SCience Science
 iab SCreaming Screaming
 iab SCreen Screen
 iab SCrum Scrum
+iab SDkylake Skylake
 iab SDometihbhinmg Something
 iab SERIQL SERIAL
 iab SEVeral Several
@@ -1684,6 +1688,7 @@ iab STaring Staring
 iab STart Start
 iab STarting Starting
 iab STates States
+iab STomach Stomach
 iab STop Stop
 iab STrand Strand
 iab STrategist Strategist
@@ -2195,6 +2200,7 @@ iab WRitign Writing
 iab WRiting Writing
 iab WRitrign Writing
 iab WRoting Writing
+iab WShy Why
 iab WYou You
 iab Waaaaast Waste
 iab Wahht What
@@ -2290,6 +2296,7 @@ iab Xuox Xbox
 iab YEsd Yes
 iab YEsterday Yesterday
 iab YOu You
+iab YTou You
 iab YUou You
 iab YYou You
 iab Yedstearday Yesterday
@@ -3236,6 +3243,7 @@ iab amanged managed
 iab amanger manger
 iab amanu many
 iab amatuer amateur
+iab amazOn amazon
 iab ambidexrioutrs ambidextrous
 iab ambidextrious ambidextrous
 iab ambiguious ambiguous
@@ -4271,6 +4279,7 @@ iab avaoialble available
 iab avastly vastly
 iab avay away
 iab avboidable avoidable
+iab avck back
 iab avdvice advice
 iab aveasive evasive
 iab averate average
@@ -6777,6 +6786,7 @@ iab conventianal conventional
 iab convept concept
 iab converasation conversation
 iab convereted converted
+iab converrrrt convert
 iab converrsation conversation
 iab conversaqtion conversation
 iab conversatino conversation
@@ -6803,6 +6813,7 @@ iab cooffee coffee
 iab cookeis cookies
 iab cookines cookies
 iab coommentsa comments
+iab coommon common
 iab coompooents components
 iab coomputer computer
 iab coontainer container
@@ -7042,6 +7053,7 @@ iab credentialss credentials
 iab creeate create
 iab creen screen
 iab creens screens
+iab creicdtit credit
 iab creidt credit
 iab creidtt credit
 iab creitdet credit
@@ -8534,6 +8546,7 @@ iab dwardfs dwarfs
 iab dwebugger debugger
 iab dwifferent different
 iab dwith with
+iab dwok do
 iab dwown down
 iab dxjact exact
 iab dya day
@@ -8610,6 +8623,7 @@ iab earray array
 iab easablished established
 iab easch each
 iab eascpaing escaping
+iab easdi3er easier
 iab easeir easier
 iab easieer easier
 iab easiily easily
@@ -8623,6 +8637,7 @@ iab easlkily easily
 iab easlrier earlier
 iab easmes exams
 iab easoily easily
+iab eassier easier
 iab eassily easily
 iab eastate estate
 iab easten eaten
@@ -9371,6 +9386,7 @@ iab equaly equally
 iab equiavalence equivalence
 iab equilibirum equilibrium
 iab equioment equipment
+iab equiped equipped
 iab equipemenbt equipment
 iab equirements requirements
 iab equivalant equivalent
@@ -9606,6 +9622,7 @@ iab everoyne everyone
 iab everoyone everyone
 iab everry every
 iab eversion version
+iab evert ever
 iab evertday everyday
 iab everthing everything
 iab evertining everything
@@ -10144,6 +10161,7 @@ iab extrleytley extremely
 iab extrmely extremely
 iab extrmemely extremely
 iab extrueded extruded
+iab extyrmely extremely
 iab exucation education
 iab exvept except
 iab exverpts excerpts
@@ -10319,6 +10337,7 @@ iab fgoing going
 iab fgor for
 iab fgoverner governor
 iab fgunction function
+iab fials fails
 iab fiance fiancé
 iab fiar fair
 iab fiary fairy
@@ -10362,6 +10381,7 @@ iab fileds fields
 iab filesa files
 iab filess files
 iab filesystmes filesystems
+iab filesytems filesystems
 iab filetuype filetype
 iab filexs files
 iab filfilling fulfilling
@@ -11453,6 +11473,7 @@ iab highltiing highlighting
 iab highlught highlight
 iab highluighting highlighting
 iab higholight highlight
+iab hight high
 iab hightling highlighting
 iab hightlit highlight
 iab hightlithgesd highlighted
@@ -11588,6 +11609,7 @@ iab hosdtnsame hostname
 iab hosipital hospital
 iab hospoital hospital
 iab hostiry history
+iab hostnae hostname
 iab hostnmae hostname
 iab hostwing hosting
 iab hosude house
@@ -11904,6 +11926,7 @@ iab ighnored ignored
 iab ignoratnt ignorant
 iab ignorig ignoring
 iab ignornace ignorance
+iab igoodd good
 iab ihas has
 iab ihere here
 iab ihighe higher
@@ -12597,6 +12620,7 @@ iab instacne instance
 iab instad instead
 iab instaed instead
 iab instaences instances
+iab instaewc instead
 iab instagaam instagram
 iab instaitiated instantiated
 iab instalation installation
@@ -13328,6 +13352,7 @@ iab kitchdn kitchen
 iab kitchdn2 kitchen
 iab kitche3n kitchen
 iab kitcneh kitchen
+iab kitdcdhen kitchen
 iab kitechen kitchen
 iab kiteds kites
 iab kiteychne kitchen
@@ -13534,6 +13559,7 @@ iab lclients clients
 iab lcoal local
 iab lcoally locally
 iab lcoate locate
+iab lcoation location
 iab lcoesley closely
 iab lcollect collect
 iab lconsole console
@@ -14796,6 +14822,7 @@ iab monther mother
 iab montioning motioning
 iab montiros monitors
 iab montsh months
+iab montyh month
 iab monye money
 iab mooment moment
 iab moonitors monitors
@@ -14826,6 +14853,7 @@ iab moroign morning
 iab mosat most
 iab mossquito mosquito
 iab mostyl mostly
+iab motherobardsa motherboards
 iab mothing nothing
 iab mothsh moths
 iab motication motivation
@@ -14866,6 +14894,7 @@ iab movments movements
 iab movved moved
 iab mowstly mostly
 iab moy my
+iab moyuth mouth
 iab mpanic panic
 iab mpeople people
 iab mpklayer mplayer
@@ -15787,6 +15816,7 @@ iab opend upend
 iab opende opened
 iab opene open
 iab openeing opening
+iab openm open
 iab openning opening
 iab opeople people
 iab opeple people
@@ -16410,6 +16440,7 @@ iab peformance performance
 iab peformed performed
 iab peformming performing
 iab pefrecdtion perfection
+iab pefrect perfect
 iab pefrecting perfecting
 iab peice piece
 iab peices pieces
@@ -16791,6 +16822,7 @@ iab playigni playing
 iab playinh playing
 iab playiong playing
 iab playlistas playlists
+iab playlistwsa playlists
 iab playoing playing
 iab plcae place
 iab plcaec place
@@ -20389,6 +20421,7 @@ iab someon someone
 iab someoone someone
 iab someothin something
 iab someothing something
+iab somepleace someplace
 iab somepping something
 iab somer some
 iab someshere somewhere
@@ -20438,6 +20471,7 @@ iab somewthign something
 iab somewthing something
 iab somhow somehow
 iab somke smoke
+iab somketimes sometimes
 iab somkply simply
 iab somme some
 iab sommunication communication
@@ -22273,6 +22307,7 @@ iab thwe the
 iab thwere where
 iab thwo who
 iab thwye they
+iab thyenm them
 iab thyey they
 iab thyumb thumb
 iab tickety ticket
@@ -22681,6 +22716,7 @@ iab treturn return
 iab treu true
 iab trext text
 iab trhicks tricks
+iab trhoguht thought
 iab trid tried
 iab trieed tried
 iab triewst tries
@@ -23852,6 +23888,7 @@ iab weverywhere everywhere
 iab wevsite website
 iab wewird weird
 iab wewks weeks
+iab wewre were
 iab wexacly exactly
 iab wexpecfted expected
 iab wexperience experience
@@ -24700,5 +24737,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab wewre were
-iab hostnae hostname
