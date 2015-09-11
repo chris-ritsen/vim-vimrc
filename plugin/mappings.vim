@@ -156,7 +156,8 @@ nnoremap <silent> <PageUp> <nop>
 " surprisingly few mappings here.
 
 noremap <leader>gf :e <cfile><cr>
-noremap <leader>w <esc>:w!<cr>
+
+noremap <silent> <leader>w <esc>:execute ":silent w!"<cr>
 noremap <silent> <F2> :NERDTreeToggle<CR>
 noremap <silent> <F3> :TagbarToggle<CR>
 noremap <silent> <F4> :GundoToggle<CR>
