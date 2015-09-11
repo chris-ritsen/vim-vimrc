@@ -22,13 +22,14 @@ endif
 
 " General Settings {{{2
 
+" set completeopt=menuone,menu,longest,preview
+
 set autoindent
 set autoread
 set backspace=eol,start,indent
 set cmdheight=1
 set comments+=fb:•
 set commentstring=#\ %s
-" set completeopt=menuone,menu,longest,preview
 set completeopt=
 set cpoptions=aABceFsJ "+=J
 set dictionary+=/usr/share/dict/words
@@ -43,11 +44,8 @@ set foldmethod=marker
 set foldminlines=1
 set formatoptions+=nj
 set guiheadroom=0
-set sessionoptions-=localoptions
-set sessionoptions-=options
 set hidden
 set history=10000
-set nohlsearch
 set ignorecase
 set incsearch
 set iskeyword-=_-
@@ -61,17 +59,21 @@ set mousehide
 set mousemodel=extend
 set nocursorline
 set noerrorbells
+set nohlsearch
 set nolazyredraw
 set nomodeline
 set nonumber
 set noruler
 set noshowcmd
+set noshowmode
 set novisualbell
 set nowrap
 set nrformats=octal,hex,alpha " increment strings
 set path=.,/usr/include,/usr/local/lib/php/,/usr/share/povray/include,/usr/share/doc/rfc/txt
+set sessionoptions-=localoptions
+set sessionoptions-=options
 set shiftwidth=2
-set shortmess=filmnwxstToOI
+set shortmess=filmnwxstToOIW
 set showmatch
 set showtabline=0
 set sidescroll=1
