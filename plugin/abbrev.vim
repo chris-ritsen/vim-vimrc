@@ -1668,6 +1668,7 @@ iab SEversl Several
 iab SHDC SDHC
 iab SHaszam Shazam
 iab SHe She
+iab SHipmenbt Shipment
 iab SHoles Sholes
 iab SHooing Shooing
 iab SHoudl Should
@@ -1985,6 +1986,7 @@ iab Tehse These
 iab Tehsse These
 iab Telk Tell
 iab Tempaltes Templates
+iab Templtes Templates
 iab Temporarf Temporary
 iab Terrible3 Terrible
 iab Tesitng Testing
@@ -4898,6 +4900,7 @@ iab blkanket blanket
 iab bllood blood
 iab bllooded blooded
 iab blocgs blogs
+iab blockl block
 iab blocksd blocks
 iab blod blood
 iab blogers bloggers
@@ -17538,6 +17541,7 @@ iab priblem problem
 iab pricavey privacy
 iab prigoramming programming
 iab priint print
+iab priivate private
 iab priject project
 iab primart primary
 iab primaruly primarily
@@ -20204,6 +20208,7 @@ iab sikll skill
 iab silennced silenced
 iab silevefr silver
 iab silhousetts silhouettes
+iab silmply simply
 iab silmpy simply
 iab silocon silicon
 iab simeulatensously simultaneously
@@ -21182,6 +21187,7 @@ iab sturday saturday
 iab sturfct struct
 iab stustantioned sustained
 iab stuydy study
+iab stuyles styles
 iab stwart start
 iab stwitghc switch
 iab stya stay
@@ -23052,6 +23058,7 @@ iab tyhere there
 iab tyhese these
 iab tyhpe type
 iab tyhping typing
+iab tyle type
 iab tyo two
 iab tyoe type
 iab tyoing toying
