@@ -393,6 +393,7 @@ iab Elghniosh English
 iab Elgish English
 iab Elngihs English
 iab Elngish English
+iab Embarassing Embarrassing
 iab Embeded Embedded
 iab Emerig Emerging
 iab Emial Email
@@ -1187,6 +1188,7 @@ iab OPen Open
 iab OPened Opened
 iab OPening Opening
 iab OPenning Opening
+iab OPens Opens
 iab OPerarting Operating
 iab OPerating Operating
 iab OPerations Operations
@@ -2317,6 +2319,7 @@ iab Woudl Would
 iab Wrihat What
 iab Wriiting Writing
 iab Writihn Writing
+iab Wsa Was
 iab Wteleve Twelve
 iab Wwatiing Waiting
 iab XCHris Chris
@@ -2970,6 +2973,7 @@ iab adueince audience
 iab aduinbg admin
 iab aduio audio
 iab adujusting adjusting
+iab adusting adjusting
 iab advacned advanced
 iab advancted advanced
 iab advangagtes advantages
@@ -3020,6 +3024,7 @@ iab afraaid afraid
 iab afriad afraid
 iab aftere after
 iab afternoono afternoon
+iab aftert after
 iab aftions actions
 iab aftrer after
 iab aftually actually
@@ -4293,6 +4298,7 @@ iab autop auto
 iab autopmatically automatically
 iab autorization authorization
 iab autovcorredctions autocorrections
+iab autp auto
 iab autpmamtic automatic
 iab autto auto
 iab auythhoring authoring
@@ -4790,6 +4796,7 @@ iab betwwween between
 iab beuauwe because
 iab beucause because
 iab beuild build
+iab beuing being
 iab bevause because
 iab bevcaue because
 iab bevcause because
@@ -4811,6 +4818,7 @@ iab beyhong beyond
 iab beynd beyond
 iab beyohd beyond
 iab beyohonmd beyond
+iab beyon beyond
 iab beyong beyond
 iab beyongd beyond
 iab beyore before
@@ -5076,6 +5084,7 @@ iab brithday birthday
 iab briticsh british
 iab brkaexzs brakes
 iab brkasesa brakes
+iab brnaches branches
 iab broard broad
 iab broedre border
 iab broekn broken
@@ -5993,6 +6002,7 @@ iab collecdtion collection
 iab collecdts collects
 iab collecfion collection
 iab collecftion collection
+iab collecftions collections
 iab collecion collection
 iab colleciotn collection
 iab colleciton collection
@@ -6073,6 +6083,7 @@ iab commadnd command
 iab commamnds commands
 iab commant command
 iab commasnds commands
+iab commeand command
 iab commencde commence
 iab commendary commentary
 iab commetawtor commentator
@@ -7383,6 +7394,7 @@ iab debugegr debugger
 iab debuger debugger
 iab debugfer debugger
 iab debuggger debugger
+iab debuggggger debugger
 iab debuggin debugging
 iab debuggter debugger
 iab debugin debug
@@ -7568,6 +7580,7 @@ iab deptenedds depends
 iab depxlictily explicitly
 iab derbugger debugger
 iab derbuggter debugger
+iab derbutgger debugger
 iab dercived derived
 iab dericed derived
 iab derire desire
@@ -8316,6 +8329,7 @@ iab disvovered discovered
 iab disvovering discovering
 iab dit did
 iab ditehred dithered
+iab diusplay display
 iab divieded divided
 iab dixtracted distracted
 iab dixze size
@@ -10209,6 +10223,7 @@ iab extenral external
 iab extensibely extensively
 iab extensivwe extensive
 iab extentsions extensions
+iab exteranal external
 iab exteranl external
 iab extercises exercises
 iab exteremely extremely
@@ -10450,6 +10465,7 @@ iab fidldling fiddling
 iab fidn find
 iab fieels feels
 iab fiel file
+iab fieldssss fields
 iab fielkd field
 iab fiels files
 iab fielset fieldset
@@ -10524,6 +10540,7 @@ iab finsidhed finished
 iab finsiehd finished
 iab finsih finish
 iab finsihed finished
+iab finsiheds finishes
 iab finsiheiing finishing
 iab finsihes finishes
 iab finsihewd finished
@@ -12299,6 +12316,7 @@ iab imrportanrt important
 iab imrpotanrt important
 iab imrpotanrtn important
 iab imrpotant important
+iab imrpotantl important
 iab imrpotarnt important
 iab imrpotarntn important
 iab imrpotartn important
@@ -12851,6 +12869,7 @@ iab interdependant interdependent
 iab intereacions interactions
 iab intereaction interaction
 iab intereface interface
+iab interefaces interfaces
 iab interefere interfere
 iab interefering interfering
 iab interenal internal
@@ -13092,6 +13111,7 @@ iab ireercocovaly irrevocably
 iab irellevent irrelevant
 iab irequires requires
 iab irequring requiring
+iab ireutrn return
 iab irght right
 iab iridescnet iridescent
 iab irmpotaarnt important
@@ -13602,6 +13622,7 @@ iab latelyl lately
 iab laterb later
 iab latere later
 iab laters later
+iab latestt latest
 iab latewly lately
 iab latice lattice
 iab latley lately
@@ -14077,6 +14098,7 @@ iab lready already
 iab lsack slack
 iab lsbel label
 iab lseeping sleeping
+iab lsidt list
 iab lsidtt list
 iab lsight slight
 iab lsit list
@@ -15387,6 +15409,7 @@ iab nintenies nineties
 iab nist most
 iab nistead instead
 iab nitegrated integrated
+iab nitnialised initialised
 iab niull null
 iab nkknow know
 iab nknow know
@@ -15780,6 +15803,7 @@ iab oens ones
 iab oepeople people
 iab oepn open
 iab oepopel people
+iab oeprate operate
 iab oepratinog operating
 iab oer or
 iab oerfedct perfect
@@ -17182,6 +17206,7 @@ iab posisgble possible
 iab posisible possible
 iab posisitosi positions
 iab posislbe possible
+iab posistion position
 iab posistions positions
 iab posistiotns positions
 iab positgion position
@@ -17839,6 +17864,8 @@ iab proram program
 iab prorected protected
 iab prorgam program
 iab prorlbem problem
+iab proroperty property
+iab prortecdt protect
 iab prortotype prototype
 iab prot port
 iab protcct protect
@@ -18109,6 +18136,7 @@ iab quicdly quickly
 iab quickkly quickly
 iab quicklf quickly
 iab quicklllly quickly
+iab quickllly quickly
 iab quicklly quickly
 iab quickloy quickly
 iab quicklu quickly
@@ -19397,6 +19425,7 @@ iab rtime time
 iab rto to
 iab rtoo too
 iab rturen return
+iab rtype type
 iab rueles rules
 iab rugelar regular
 iab rughly roughly
@@ -20084,10 +20113,12 @@ iab shelcff shelf
 iab sherlf shelf
 iab shewlf shelf
 iab shewll shell
+iab shewlveset shelveset
 iab shhall shall
 iab shie she
 iab shiepment shipment
 iab shiftwed shifted
+iab shimpemtns shipments
 iab shiop ship
 iab shiopemtn shipment
 iab shiopment shipment
@@ -20097,6 +20128,7 @@ iab shioudl should
 iab shiow show
 iab shioyuld should
 iab shipemtn shipment
+iab shipemtns shipments
 iab shipemtnwe shipment
 iab shipes ships
 iab shipmehnt shipment
@@ -21041,6 +21073,7 @@ iab stooorage storage
 iab stoorayge storage
 iab stopedt stopped
 iab stopo stop
+iab stopp stop
 iab stoppesd stopped
 iab stoppign stopping
 iab stoppiung stopping
@@ -21667,6 +21700,7 @@ iab taalk talk
 iab tabidex tabindex
 iab tabidnex tabindex
 iab tabinddx tabindex
+iab tabl3e table
 iab tablre table
 iab tachistoscopic tachistoscopic
 iab tackel tackle
@@ -22293,6 +22327,7 @@ iab thingsa things
 iab thingsd things
 iab thingx things
 iab thini thing
+iab thinigs things
 iab thiniker thinker
 iab thiniking thinking
 iab thiniknign thinking
@@ -22369,6 +22404,7 @@ iab thnking thinking
 iab thnkw think
 iab thnmb thumb
 iab tho8guh though
+iab thoe the
 iab thoght thought
 iab thoghts thoughts
 iab thoghtts thoughts
@@ -22848,6 +22884,7 @@ iab transfpromation transformation
 iab translateions translations
 iab translqtion translation
 iab translucenet translucent
+iab transofmored transformed
 iab transofrmations transformations
 iab transpacencies transparencies
 iab transpaerencesi transparencies
@@ -23970,6 +24007,7 @@ iab webd web
 iab webdites websites
 iab weberver webserver
 iab webi web
+iab webigste website
 iab webikit webkit
 iab webiste website
 iab webistes websites
@@ -24930,33 +24968,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab proroperty property
-iab imrpotantl important
-iab tabl3e table
-iab autp auto
-iab diusplay display
-iab thoe the
-iab beuing being
-iab posistion position
-iab adusting adjusting
-iab Embarassing Embarrassing
-iab ireutrn return
-iab Wsa Was
-iab finsiheds finishes
-iab aftert after
-iab transofmored transformed
-iab debuggggger debugger
-iab derbutgger debugger
-iab thinigs things
-iab interefaces interfaces
-iab intereface interface
-iab webigste website
-iab shimpemtns shipments
-iab lsidt list
-iab shipemtns shipments
-iab quickllly quickly
-iab commeand command
-iab collecftions collections
-iab oeprate operate
-iab OPens Opens
-iab nitnialised initialised
