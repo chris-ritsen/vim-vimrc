@@ -25005,3 +25005,12 @@ iab PReferabllby Preferably
 iab yoruyself yourself
 iab branchign branching
 iab susppoised supposed
+iab wokrred worked
+iab displayl display
+iab savedwe saved
+iab snawithch sandwich
+iab ulnless unless
+iab thinkinagh thinking
+iab sometiypes sometimes
+iab ehcho echo
+iab Pefewcft Perfect
