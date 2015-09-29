@@ -16,6 +16,7 @@ iab Apaprenlty Apparently
 iab Apaprently Apparently
 iab Apparenlty Apparently
 iab Apparenly Apparently
+iab Arlight Alight
 iab Asusmptions Assumptions
 iab Atch Arch
 iab Atetmpt Attempt
@@ -1724,6 +1725,7 @@ iab STaring Staring
 iab STart Start
 iab STarting Starting
 iab STates States
+iab STill Still
 iab STomach Stomach
 iab STop Stop
 iab STrand Strand
@@ -2627,6 +2629,7 @@ iab accompolsihed accomplished
 iab accomponied accompanied
 iab accomponying accompanying
 iab accont account
+iab accoplish accomplish
 iab accoplmlished accomplished
 iab accoplsiehd accomplished
 iab accoplsihed accomplished
@@ -4113,6 +4116,7 @@ iab assumet assumed
 iab assumingh assuming
 iab assumtion assumption
 iab assunmed assumed
+iab assupttion assumption
 iab asswert assert
 iab ast as
 iab astatuc static
@@ -11488,6 +11492,7 @@ iab hdtml html
 iab headacehe headache
 iab headest headset
 iab headet headset
+iab headfless headless
 iab headhones headphones
 iab headiphones headphones
 iab headpbones headphones
@@ -12512,6 +12517,7 @@ iab indeciates indicates
 iab inded index
 iab indedipsuably indisputably
 iab indendetgd intended
+iab indenfinitely indefinitely
 iab indentding intending
 iab indepenednat independent
 iab indesd index
@@ -13171,6 +13177,7 @@ iab irght right
 iab iridescnet iridescent
 iab irmpotaarnt important
 iab irmptarnt important
+iab irreellvant irrelevant
 iab irrelelevant irrelevant
 iab irrelelvant irrelevant
 iab irrelelvenat irrelevant
@@ -13224,6 +13231,7 @@ iab isntanxcd instance
 iab isntarnces instances
 iab isntaslled installed
 iab isntead instead
+iab isnteance instance
 iab isnteawd instead
 iab isnteead instead
 iab isnterad instead
@@ -13275,6 +13283,7 @@ iab itnerface interface
 iab itnerntet internet
 iab itnerval interval
 iab itno into
+iab ito into
 iab itoehr other
 iab itr it
 iab itsd its
@@ -15191,6 +15200,7 @@ iab muystery mystery
 iab mvartical vertical
 iab mvoe move
 iab mweess mess
+iab mwhich which
 iab mwho who
 iab myaybe maybe
 iab myc my
@@ -15294,6 +15304,7 @@ iab naythign anything
 iab naything anything
 iab nayting anything
 iab nbeside beside
+iab nbow now
 iab ncie nice
 iab nciesly nicely
 iab ncludes includes
@@ -18586,6 +18597,7 @@ iab refelxes reflexes
 iab refelxt reflect
 iab refenence reference
 iab referall referral
+iab referecne reference
 iab refereing referring
 iab referencde reference
 iab referencesd references
@@ -24125,6 +24137,7 @@ iab weekeknd weekend
 iab weekekned weekend
 iab weekendd weekend
 iab weekened weekend
+iab weekenights weeknights
 iab weekley weekly
 iab weeknd weekend
 iab weekned weekend
@@ -24162,6 +24175,7 @@ iab weither either
 iab weke week
 iab wekeekne weekend
 iab wekeend weekend
+iab wekeends weekends
 iab wekeened weekend
 iab wekees weeks
 iab wekekend weekend
