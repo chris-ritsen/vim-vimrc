@@ -25057,3 +25057,17 @@ iab ztaships starships
 iab INteolterable Intolerable
 iab edverythwere everywhere
 iab thiws this
+iab irreellvant irrelevant
+iab Arlight Alight
+iab assupttion assumption
+iab mwhich which
+iab headfless headless
+iab isnteance instance
+iab nbow now
+iab STill Still
+iab indenfinitely indefinitely
+iab referecne reference
+iab ito into
+iab accoplish accomplish
+iab wekeends weekends
+iab weekenights weeknights
