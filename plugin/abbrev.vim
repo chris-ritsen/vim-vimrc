@@ -758,6 +758,7 @@ iab INsteda Instead
 iab INstitute Institute
 iab INstlal Install
 iab INtegration Integration
+iab INteolterable Intolerable
 iab INterSYSSREMs InterSystems
 iab INterSystems InterSystems
 iab INtereactive Interactive
@@ -5120,6 +5121,7 @@ iab brohter brother
 iab broight brought
 iab brokjne broken
 iab brokne broken
+iab brooswers browsers
 iab brophter brother
 iab brosaers browsers
 iab broser browser
@@ -8857,6 +8859,7 @@ iab edn end
 iab edtiign editing
 iab edtior editor
 iab edtiro editor
+iab edverythwere everywhere
 iab edxlpode explode
 iab edxtend extend
 iab eeach each
@@ -12038,6 +12041,7 @@ iab identeically identically
 iab identeifed identified
 iab identeifier identifier
 iab idential identical
+iab identidicdal identical
 iab identifiy identify
 iab identifiying identifying
 iab identitcal identical
@@ -14099,6 +14103,7 @@ iab logicd logic
 iab logicial logical
 iab logijn login
 iab loginc login
+iab logioc logic
 iab logn long
 iab logner longer
 iab logni login
@@ -16253,6 +16258,7 @@ iab othe other
 iab othebr other
 iab othebrs others
 iab othere other
+iab otherewise otherwise
 iab otherrrs others
 iab otherse others
 iab otherweiswe otherwise
@@ -25054,6 +25060,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab INteolterable Intolerable
-iab edverythwere everywhere
-iab thiws this
