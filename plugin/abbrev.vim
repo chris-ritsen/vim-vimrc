@@ -25074,3 +25074,7 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
+iab Curerntluy Currently
+iab scoep scope
+iab isi is
+iab percentnage percentage
