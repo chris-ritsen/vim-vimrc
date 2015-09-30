@@ -202,6 +202,7 @@ iab Crreutnlyu Currently
 iab Cthis Chris
 iab Cuirrently Currently
 iab Cultaured Cultured
+iab Curerntluy Currently
 iab Currenlty Currently
 iab Currlenly Currency
 iab Currnelty Currently
@@ -13196,6 +13197,7 @@ iab isFucntion isFunction
 iab isd is
 iab isdea idea
 iab isdeas ideas
+iab isi is
 iab isiisntance isinstance
 iab isiitannce isinstance
 iab isinsntance isinstance
@@ -16432,6 +16434,7 @@ iab paddingL padding
 iab padid paid
 iab padidng padding
 iab pading padding
+iab paenl panel
 iab paerhapo perhaps
 iab paernts parents
 iab pageer pager
@@ -16738,6 +16741,7 @@ iab perceieved perceived
 iab perceiouvlably perceivably
 iab perceiption perception
 iab perceiptions perceptions
+iab percentnage percentage
 iab perceptiaul perceptual
 iab perceptiual perceptual
 iab percetc perfect
@@ -19725,6 +19729,7 @@ iab scity city
 iab sclothes clothes
 iab scnool school
 iab scnwees scenes
+iab scoep scope
 iab scohool school
 iab scoial social
 iab scoipes scopes
@@ -25074,7 +25079,4 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab Curerntluy Currently
-iab scoep scope
-iab isi is
-iab percentnage percentage
+iab calss class
