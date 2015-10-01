@@ -1001,7 +1001,10 @@ iab Litened Listened
 iab Livelihiood Livelihood
 iab Lniux Linux
 iab Lnks Links
+iab Loadfing Loading
 iab Loadign Loading
+iab Loadigng Loading
+iab Loadiogn Loading
 iab Loafd Load
 iab Londom London
 iab Looiking Looking
@@ -1687,6 +1690,7 @@ iab SHDC SDHC
 iab SHaszam Shazam
 iab SHe She
 iab SHipmenbt Shipment
+iab SHipmetn Shipment
 iab SHoles Sholes
 iab SHooing Shooing
 iab SHoudl Should
@@ -3407,6 +3411,7 @@ iab angluarjs angularjs
 iab angualar angular
 iab angualr angular
 iab anguarljs angularjs
+iab anguler angular
 iab angulr angular
 iab anhy any
 iab anhythbign anything
@@ -4975,6 +4980,7 @@ iab bocx box
 iab bodey body
 iab bodfyu body
 iab bodu body
+iab boduy body
 iab bodyies bodies
 iab bodyu body
 iab boefoer before
@@ -5352,6 +5358,7 @@ iab calledf called
 iab callvbadck callback
 iab callw call
 iab caloune cologne
+iab calss class
 iab calsssified classified
 iab camer camera
 iab camers cameras
@@ -6840,6 +6847,7 @@ iab contorlling controlling
 iab contorllled controlled
 iab contorlller controller
 iab contorls controls
+iab contoroleler controller
 iab contoroler controller
 iab contoroller controller
 iab contoujnously continuously
@@ -11484,6 +11492,7 @@ iab hchoosy choosy
 iab hcild child
 iab hcip chip
 iab hcnage change
+iab hcontains contains
 iab hcooose choose
 iab hcoose choose
 iab hcris chris
@@ -13942,6 +13951,7 @@ iab likek like
 iab likekley likely
 iab likeley likely
 iab likeluy likely
+iab liket like
 iab likeyl likely
 iab likghts lights
 iab likikely likely
@@ -19716,6 +19726,7 @@ iab scienteific scientific
 iab scienticif scientific
 iab scientiest scientist
 iab scinetific scientific
+iab sciope scope
 iab sciopet scope
 iab scipe scope
 iab sciprt script
@@ -19932,6 +19943,7 @@ iab selecitons selections
 iab selecs selects
 iab selecsted selected
 iab selectedd selected
+iab selectede selected
 iab selecteing selecting
 iab selectes selects
 iab selectoro selector
@@ -21244,6 +21256,7 @@ iab stretegy strategy
 iab stretgch stretch
 iab streth stretch
 iab striaght straight
+iab stricddt strict
 iab stricdet strict
 iab stricdt strict
 iab stricdtK strict
@@ -21261,6 +21274,7 @@ iab strioct strict
 iab striscdt strict
 iab strivct strict
 iab strixcdt strict
+iab strixt strict
 iab strkiing striking
 iab strkiking striking
 iab strnage strange
@@ -23132,6 +23146,7 @@ iab tthey they
 iab tthing thing
 iab tthis this
 iab tthoughts thoughts
+iab ttile title
 iab tto to
 iab ttoday today
 iab ttomorrow tomorrow
@@ -25079,4 +25094,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab calss class
