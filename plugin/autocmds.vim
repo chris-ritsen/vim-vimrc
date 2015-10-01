@@ -143,11 +143,21 @@ autocmd! BufRead,BufNewFile /tmp/mutt* if &filetype == '' | setfiletype mail | e
 
 autocmd! BufRead,BufNewFile ~/.drirc set filetype=xml
 
+" mpd {{{
+
 autocmd! BufRead,BufNewFile ~/.config/mpd/books/books.conf set filetype=conf foldmethod=marker foldmarker={,}
 autocmd! BufRead,BufNewFile ~/.config/mpd/mpd.conf set filetype=conf foldmethod=marker foldmarker={,}
 autocmd! BufRead,BufNewFile ~/.config/mpd/music/music.conf set filetype=conf foldmethod=marker foldmarker={,}
 autocmd! BufRead,BufNewFile ~/.config/mpd/stream/stream.conf set filetype=conf foldmethod=marker foldmarker={,}
 autocmd! BufRead,BufNewFile ~/.config/mpd/voice/voice.conf set filetype=conf foldmethod=marker foldmarker={,}
+
+" vimpc {{{
+
+autocmd! BufRead,BufNewFile ~/.vimpcrc set filetype=vim foldmethod=marker foldmarker={,}
+
+" }}}
+
+" }}}
 
 autocmd! BufRead,BufNewFile ~/.csgo.autoexec.cfg setlocal foldmethod=marker foldmarker={,} commentstring=\/\/\ %s 
 
