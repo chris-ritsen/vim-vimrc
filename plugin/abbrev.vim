@@ -202,6 +202,7 @@ iab Crreutnlyu Currently
 iab Cthis Chris
 iab Cuirrently Currently
 iab Cultaured Cultured
+iab Curerntluy Currently
 iab Currenlty Currently
 iab Currlenly Currency
 iab Currnelty Currently
@@ -5351,6 +5352,7 @@ iab calledf called
 iab callvbadck callback
 iab callw call
 iab caloune cologne
+iab calss class
 iab calsssified classified
 iab camer camera
 iab camers cameras
@@ -5533,6 +5535,7 @@ iab certificatae certificate
 iab certificayte certificate
 iab certififations certifications
 iab certina certain
+iab certyain certain
 iab cetain certain
 iab cetner center
 iab cetnruty century
@@ -6811,6 +6814,7 @@ iab contitiion condition
 iab contitional conditional
 iab contitions conditions
 iab contiue continue
+iab contiuing continuing
 iab contiuinuing continuing
 iab contiune continue
 iab contiuning continuing
@@ -8233,6 +8237,7 @@ iab disocnnected disconnected
 iab disocnnendcsgted disconnected
 iab disocnnenectd disconnected
 iab disocnnescted disconnected
+iab disollution dissolution
 iab disollved dissolved
 iab disoncctihnuiusly discontinuously
 iab disordrer disorder
@@ -8843,6 +8848,7 @@ iab ecxat exact
 iab ecxcellenet excellent
 iab ecxcept except
 iab ecxecuted executed
+iab ecxept except
 iab ecxist exist
 iab ecxplain explain
 iab eddison edison
@@ -12979,6 +12985,7 @@ iab internetlal internal
 iab internte internet
 iab interrnet internet
 iab interrrrupting interrupting
+iab interrruption interruption
 iab interrupatjions interruptions
 iab intersating interesting
 iab intersesting interesting
@@ -13196,6 +13203,7 @@ iab isFucntion isFunction
 iab isd is
 iab isdea idea
 iab isdeas ideas
+iab isi is
 iab isiisntance isinstance
 iab isiitannce isinstance
 iab isinsntance isinstance
@@ -16432,6 +16440,7 @@ iab paddingL padding
 iab padid paid
 iab padidng padding
 iab pading padding
+iab paenl panel
 iab paerhapo perhaps
 iab paernts parents
 iab pageer pager
@@ -16738,6 +16747,7 @@ iab perceieved perceived
 iab perceiouvlably perceivably
 iab perceiption perception
 iab perceiptions perceptions
+iab percentnage percentage
 iab perceptiaul perceptual
 iab perceptiual perceptual
 iab percetc perfect
@@ -17496,6 +17506,7 @@ iab preapared prepared
 iab preccrioption prescription
 iab precedign preceding
 iab preceeding preceding
+iab preceeds precedes
 iab preceieve perceive
 iab precendidgn preceding
 iab precendign preceding
@@ -19379,6 +19390,7 @@ iab rihgt right
 iab rihgt5 right
 iab rining ringing
 iab rinterrupt interrupt
+iab rirm firm
 iab risten ritsen
 iab ritght right
 iab riting writing
@@ -19725,6 +19737,7 @@ iab scity city
 iab sclothes clothes
 iab scnool school
 iab scnwees scenes
+iab scoep scope
 iab scohool school
 iab scoial social
 iab scoipes scopes
@@ -22885,6 +22898,7 @@ iab tpyo typo
 iab tpyoical typical
 iab tpyos typos
 iab tpype type
+iab traaaaaaaaacks tracks
 iab trabsfer transfer
 iab tracded traced
 iab tracec traced
@@ -23617,6 +23631,7 @@ iab usaer user
 iab usaernames usernames
 iab usaes uses
 iab usagble usable
+iab usally usually
 iab usaubel usable
 iab usaully usually
 iab usble usable
@@ -25074,12 +25089,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab preceeds precedes
-iab rirm firm
-iab ecxept except
-iab contiuing continuing
-iab traaaaaaaaacks tracks
-iab usally usually
-iab interrruption interruption
-iab disollution dissolution
-iab certyain certain
