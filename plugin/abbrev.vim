@@ -5541,6 +5541,7 @@ iab certificatae certificate
 iab certificayte certificate
 iab certififations certifications
 iab certina certain
+iab certyain certain
 iab cetain certain
 iab cetner center
 iab cetnruty century
@@ -6819,6 +6820,7 @@ iab contitiion condition
 iab contitional conditional
 iab contitions conditions
 iab contiue continue
+iab contiuing continuing
 iab contiuinuing continuing
 iab contiune continue
 iab contiuning continuing
@@ -8242,6 +8244,7 @@ iab disocnnected disconnected
 iab disocnnendcsgted disconnected
 iab disocnnenectd disconnected
 iab disocnnescted disconnected
+iab disollution dissolution
 iab disollved dissolved
 iab disoncctihnuiusly discontinuously
 iab disordrer disorder
@@ -8852,6 +8855,7 @@ iab ecxat exact
 iab ecxcellenet excellent
 iab ecxcept except
 iab ecxecuted executed
+iab ecxept except
 iab ecxist exist
 iab ecxplain explain
 iab eddison edison
@@ -12989,6 +12993,7 @@ iab internetlal internal
 iab internte internet
 iab interrnet internet
 iab interrrrupting interrupting
+iab interrruption interruption
 iab interrupatjions interruptions
 iab intersating interesting
 iab intersesting interesting
@@ -17510,6 +17515,7 @@ iab preapared prepared
 iab preccrioption prescription
 iab precedign preceding
 iab preceeding preceding
+iab preceeds precedes
 iab preceieve perceive
 iab precendidgn preceding
 iab precendign preceding
@@ -19393,6 +19399,7 @@ iab rihgt right
 iab rihgt5 right
 iab rining ringing
 iab rinterrupt interrupt
+iab rirm firm
 iab risten ritsen
 iab ritght right
 iab riting writing
@@ -22904,6 +22911,7 @@ iab tpyo typo
 iab tpyoical typical
 iab tpyos typos
 iab tpype type
+iab traaaaaaaaacks tracks
 iab trabsfer transfer
 iab tracded traced
 iab tracec traced
@@ -23637,6 +23645,7 @@ iab usaer user
 iab usaernames usernames
 iab usaes uses
 iab usagble usable
+iab usally usually
 iab usaubel usable
 iab usaully usually
 iab usble usable
