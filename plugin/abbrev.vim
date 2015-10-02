@@ -9,7 +9,11 @@ iab ARrive Arrive
 iab Additonally Additionally
 iab Againl Again
 iab Alrifght Alright
+iab Ammmmontg Among
 iab Ammmost Almost
+iab Amnonbg Among
+iab Amonog Among
+iab Amoung Among
 iab Anothr Another
 iab Apapprenlty Apparently
 iab Apaprenlty Apparently
@@ -1022,6 +1026,7 @@ iab MCruelly Cruelly
 iab MIchael Michael
 iab MIght Might
 iab MIke Mike
+iab MNOthign Nothing
 iab MNay Many
 iab MObile Mobile
 iab MOde Mode
@@ -1153,6 +1158,7 @@ iab NOte Note
 iab NOtes Notes
 iab NOtesw Notes
 iab NOthign Nothing
+iab NOthignk Nothing
 iab NOthing Nothing
 iab NOthiogn Nothing
 iab NOtice Notice
@@ -5090,6 +5096,7 @@ iab breawing breaking
 iab breawk break
 iab brecause because
 iab brecome become
+iab brecuase because
 iab breeak break
 iab breif brief
 iab breifcase briefcase
@@ -7782,6 +7789,7 @@ iab determunation determination
 iab detewct detect
 iab detial detail
 iab detials details
+iab dettttect detect
 iab detyails details
 iab deubber debugger
 iab deubgetr debugger
@@ -8379,6 +8387,7 @@ iab distrubing disturbing
 iab distrubuted distributed
 iab distruoptuions disruptions
 iab distruptuions disruptions
+iab disttanc3 distance
 iab distubance disturbance
 iab distuhinction distinction
 iab disucssion discussion
@@ -17007,6 +17016,7 @@ iab physuicsl physics
 iab phyucail physical
 iab picekr picker
 iab picelr picker
+iab picelxs pixels
 iab picke4r picker
 iab pickler picker
 iab picler picker
@@ -23862,6 +23872,7 @@ iab venefits benefits
 iab venetable vegetable
 iab verablly verbally
 iab verfiy verify
+iab verhbaim verbatim
 iab verifiuablye verifiable
 iab verifiy verify
 iab verion version
@@ -24023,6 +24034,7 @@ iab wached watched
 iab waear wear
 iab waearing wearing
 iab waeigh weigh
+iab waell well
 iab waer wear
 iab waera wear
 iab waery weary
