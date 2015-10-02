@@ -599,6 +599,7 @@ iab Genoisu Genius
 iab Genoisues Geniuses
 iab Genouses Geniuses
 iab Gesuenheit Gesundheit
+iab GetBooleawn GetBoolean
 iab Gettinmg Getting
 iab Giod Good
 iab Glalery Gallery
@@ -1636,6 +1637,7 @@ iab Ritsen4 Ritsen
 iab Ritsne Ritsen
 iab Ritsnee Ritsen
 iab Ritsnen Ritsen
+iab Rmoeve Remove
 iab Rnadom Random
 iab Rnage Range
 iab Roayal Royal
@@ -4890,6 +4892,7 @@ iab bindingi binding
 iab binoculare binocular
 iab binring bringing
 iab biochemial biochemical
+iab biody body
 iab bioelectornics bioelectronics
 iab biolerplate boilerplate
 iab biorder border
@@ -5690,6 +5693,7 @@ iab choesive cohesive
 iab choild child
 iab choise choice
 iab choises choices
+iab choleine choline
 iab cholestorol cholesterol
 iab cholride chloride
 iab chomprehention comprehension
@@ -21003,6 +21007,7 @@ iab stabilizqiton stabilization
 iab stadard standard
 iab stadfastly steadfastly
 iab staes states
+iab staete state
 iab staf staff
 iab stagnent stagnant
 iab staicrcase staircase
@@ -21347,6 +21352,7 @@ iab stydiyng studying
 iab stydy study
 iab styel style
 iab styels styles
+iab styelsss styles
 iab styleesheets stylesheets
 iab stylefs styles
 iab stylel styler
@@ -21412,10 +21418,13 @@ iab successsive successive
 iab succpebible susceptible
 iab sucdess success
 iab sucecss success
+iab sucecwss success
 iab sucelptible susceptible
 iab sucepetible susceptible
+iab sucess success
 iab sucessful successful
 iab sucessfully successfully
+iab sucesss success
 iab sucetible susceptible
 iab sucfessive successive
 iab sucircumstances circumstances
@@ -22178,6 +22187,7 @@ iab tesgting testing
 iab teshitng testing
 iab teshitnng testing
 iab tesigin testing
+iab tesign testing
 iab tesigng testing
 iab tesignn testing
 iab tesignt testing
@@ -24196,6 +24206,7 @@ iab wehtehr whether
 iab wehther whether
 iab wehtherh whether
 iab weidght weight
+iab weidth width
 iab weierd weird
 iab weiht with
 iab weill will
@@ -25103,11 +25114,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab tesign testing
-iab GetBooleawn GetBoolean
-iab sucecwss success
-iab styelsss styles
-iab Rmoeve Remove
-iab sucess success
-iab sucesss success
-iab biody body
