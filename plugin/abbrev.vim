@@ -113,6 +113,7 @@ iab Cliarify Clarify
 iab Cliche Cliché
 iab Cliched Clichéd
 iab Cmomputers Computers
+iab Cnotroller Controller
 iab CoConstants Constants
 iab Collbaoration Collaboration
 iab Colleaggues Colleagues
@@ -6877,6 +6878,7 @@ iab contorllers controllers
 iab contorlling controlling
 iab contorllled controlled
 iab contorlller controller
+iab contorloler controller
 iab contorls controls
 iab contoroleler controller
 iab contoroler controller
@@ -6910,6 +6912,7 @@ iab contridictory contradictory
 iab contrieved contrived
 iab contrl control
 iab contro control
+iab controlelr controller
 iab controlelrs controllers
 iab controler controller
 iab controles controls
@@ -6917,6 +6920,7 @@ iab controlle controller
 iab controllera controller
 iab controllerb controller
 iab controllinh controlling
+iab controoller controller
 iab controversal controversial
 iab contrrols controls
 iab contrubute contribute
@@ -7649,6 +7653,7 @@ iab depenedceies dependencies
 iab depenedcy dependency
 iab depenedencies dependencies
 iab depenedncy dependency
+iab depentencies dependencies
 iab deper deeper
 iab depisited deposited
 iab deplpy deploy
@@ -11322,6 +11327,7 @@ iab greawt great
 iab greeater greater
 iab greemn green
 iab gretest greatest
+iab griep grep
 iab griggerd triggered
 iab griowth growth
 iab grippuing gripping
@@ -12758,6 +12764,7 @@ iab ininitalize initialize
 iab inintiate initiate
 iab inistalling installing
 iab initail initial
+iab initailise initialise
 iab initailize initialize
 iab inital initial
 iab initiail initial
@@ -19851,6 +19858,7 @@ iab scrlling scrolling
 iab scrmable scramble
 iab scrollign scrolling
 iab scrooll scroll
+iab scrope scope
 iab scropt scope
 iab scrren screen
 iab scrsipt script
@@ -25174,4 +25182,4 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab griep grep
+iab moduels modules
