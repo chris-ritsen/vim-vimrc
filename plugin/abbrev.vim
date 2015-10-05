@@ -52,6 +52,7 @@ iab COmmunication Communication
 iab COmread Comrade
 iab COudl Could
 iab COuld Could
+iab Cahange Change
 iab Carefyl Careful
 iab Casues Causes
 iab Causdes Causes
@@ -5260,6 +5261,7 @@ iab buyt but
 iab bvackground background
 iab bveen been
 iab bvery very
+iab bwe be
 iab bwefore before
 iab bweteen between
 iab bweterne between
@@ -7786,6 +7788,7 @@ iab detyails details
 iab deubber debugger
 iab deubgetr debugger
 iab deubgger debugger
+iab deugbgter debugger
 iab devceloping developing
 iab devekioer developer
 iab devekopers developers
@@ -11015,6 +11018,7 @@ iab funftions functions
 iab fungers fingers
 iab funiture furniture
 iab funncial financial
+iab funnction function
 iab funtcdtion function
 iab funtdion function
 iab funtion function
@@ -19794,6 +19798,7 @@ iab scriptas scripts
 iab scriptes scripts
 iab scriptsed scripted
 iab scrit script
+iab scriticly strictly
 iab scritp script
 iab scrlling scrolling
 iab scrmable scramble
@@ -19807,6 +19812,7 @@ iab scrupit script
 iab scrupt script
 iab scrutinty scrutiny
 iab sctamnle scramble
+iab sctictly strictly
 iab sctip script
 iab sctipt script
 iab scuplters sculptors
@@ -21110,6 +21116,7 @@ iab stentnec3 sentence
 iab steop step
 iab steram stream
 iab steraming streaming
+iab stericlty strictly
 iab sterngnhting strengthening
 iab sterotype stereotype
 iab steteched stretched
@@ -21270,20 +21277,29 @@ iab streth stretch
 iab striaght straight
 iab stricddt strict
 iab stricdet strict
+iab stricdetly strictly
 iab stricdt strict
 iab stricdtK strict
 iab stricft strict
 iab stricgt strict
+iab striclty strictly
 iab stricsdt strict
+iab strictlyu strictly
 iab stricvt strict
+iab stricxtly strictly
+iab stridclty strictly
+iab strifcdlety strictly
 iab strifcdt strict
+iab strifctly strictly
 iab strift strict
 iab stright straight
 iab strigns strings
 iab striken stricken
+iab strildty strictly
 iab stringts strings
 iab strioct strict
 iab striscdt strict
+iab striulcdtly strictly
 iab strivct strict
 iab strixcdt strict
 iab strixt strict
@@ -21725,6 +21741,7 @@ iab swtomach stomach
 iab swutch switch
 iab swweep sweep
 iab sxiteen sixteen
+iab sxterictly strictly
 iab sya say
 iab syaing saying
 iab sybhects subjects
@@ -22688,6 +22705,7 @@ iab timk time
 iab timme time
 iab timmediately immediately
 iab timmothy timothy
+iab timoeut timeout
 iab tininkgin thinking
 iab tinkgs things
 iab tinking thinking
