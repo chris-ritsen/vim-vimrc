@@ -212,8 +212,9 @@ vnoremap <up> <nop>
 
 " cmap <c-j> <esc>
 
-imap <c-j> <esc>
-nmap <c-j> :
+" Why the hell did you enable this?
+" imap <c-j> <esc>
+" nmap <c-j> :
 
 " %!xmlformat --indent 2 --indent-char ' '  --preserve 'style foreignobject' --outencoding 'utf-8' -
 
