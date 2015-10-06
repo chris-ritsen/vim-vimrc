@@ -5535,6 +5535,7 @@ iab cehcked checked
 iab cehckign checking
 iab cehkcing checking
 iab ceho echo
+iab celar clear
 iab celbratiging celebrating
 iab celean clean
 iab celebrade celebrate
@@ -6645,6 +6646,7 @@ iab conosuhiosuness consciousness
 iab conotroller controller
 iab conpatuyer computer
 iab conphehension comprehension
+iab conplete complete
 iab conpleted completed
 iab conptyeur computer
 iab conptyuers computers
@@ -6854,6 +6856,7 @@ iab continuiously continuously
 iab continuiysly continuously
 iab continuoally continually
 iab continuoing continuing
+iab continuueum continuum
 iab continyous continuous
 iab contionue continue
 iab contiously continuously
@@ -10040,6 +10043,7 @@ iab exaxtly exactly
 iab exaxtlyh exactly
 iab excaclty exactly
 iab excalimed exclaimed
+iab excample example
 iab excape escape
 iab excatly exactly
 iab exccel excel
@@ -11571,6 +11575,7 @@ iab hcontains contains
 iab hcooose choose
 iab hcoose choose
 iab hcris chris
+iab hday day
 iab hdiden hidden
 iab hdml html
 iab hdtml html
@@ -12184,6 +12189,7 @@ iab ignoratnt ignorant
 iab ignorig ignoring
 iab ignornace ignorance
 iab igoodd good
+iab igt it
 iab ihas has
 iab ihere here
 iab ihighe higher
@@ -13111,6 +13117,7 @@ iab interstws interests
 iab intertesting interesting
 iab intertia inertia
 iab intertitng interesting
+iab intervenet intervene
 iab intervew interview
 iab intervier interview
 iab intervievw interview
@@ -13365,6 +13372,7 @@ iab issies issues
 iab issiues issues
 iab isssue issue
 iab issuesa issues
+iab istannct instant
 iab iste site
 iab isten listen
 iab istracetdd distracted
@@ -14764,6 +14772,7 @@ iab metarial material
 iab metehodilogy methodology
 iab methadologiest methodologies
 iab methd method
+iab methodoligies methodologies
 iab meticoulously meticulously
 iab metiond mentioned
 iab metioned mentioned
@@ -25314,12 +25323,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab intervenet intervene
-iab continuueum continuum
-iab istannct instant
-iab excample example
-iab celar clear
-iab conplete complete
-iab hday day
-iab igt it
-iab methodoligies methodologies
