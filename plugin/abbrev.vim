@@ -577,6 +577,7 @@ iab Foolowing Following
 iab Forewward Foreword
 iab Fransiciso Fransisco
 iab Frequienetly Frequently
+iab Frisday Friday
 iab Froget Forget
 iab Frozyen Frozen
 iab Fuction Function
@@ -3729,6 +3730,7 @@ iab aplication application
 iab aplications applications
 iab aplied applied
 iab aplify amplify
+iab apllicadtion application
 iab apllicaiton application
 iab apllication application
 iab apllicationu application
@@ -7491,6 +7493,7 @@ iab deawling dealing
 iab deawth death
 iab debbugger debugger
 iab debeopment development
+iab debinggging debugging
 iab debiug debug
 iab debubgger debugger
 iab debugeer debugger
@@ -9396,6 +9399,7 @@ iab enjoyalbge enjoyable
 iab enjoyasble enjoyable
 iab enlightenmment enlightenment
 iab enlugh enough
+iab enmtpy empty
 iab ennds ends
 iab ennergy energy
 iab enntry entry
@@ -10075,6 +10079,7 @@ iab exclaimeed exclaimed
 iab exclucively exclusively
 iab exclusibley exclusively
 iab exclusibvely exclusively
+iab excoetiub exception
 iab excpectd expected
 iab excpeot except
 iab excperience experience
@@ -12577,6 +12582,7 @@ iab incosisintinacnes inconsistencies
 iab incosisitiances inconsistencies
 iab incosninsitnances inconsistencies
 iab incosnisntinaces inconsistencies
+iab incosnistancies inconsistencies
 iab incosnistannicnes Inconsistencies
 iab incosnistisntances inconsistencies
 iab incosnsitancres inconsistencies
@@ -12988,6 +12994,7 @@ iab insufficent insufficient
 iab insuight insight
 iab insurancde insurance
 iab insurrments instruments
+iab insusfficient insufficient
 iab insutruments instruments
 iab inteded intended
 iab intedsnts intends
@@ -13278,6 +13285,7 @@ iab ipmolications implications
 iab ipmortnat important
 iab ipmressed impressed
 iab ipmresseedd impressed
+iab ipmroperly improperly
 iab ipon upon
 iab iponeo iphone
 iab iportnat important
@@ -15885,6 +15893,7 @@ iab obviouslkuy obviously
 iab obviouslky obviously
 iab obviouslu obviously
 iab obviouslys obviously
+iab obviouslyu obviously
 iab obviousylky obviously
 iab obviouysly obviously
 iab obviovuly obviously
@@ -24006,6 +24015,7 @@ iab valye value
 iab valyualbe valuable
 iab valyuations valuations
 iab valyue value
+iab valyuews values
 iab varaibels variables
 iab varaibles variables
 iab varaition variation
