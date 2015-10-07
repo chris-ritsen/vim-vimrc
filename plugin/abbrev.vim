@@ -5585,6 +5585,7 @@ iab certifcation certification
 iab certificagiotn certification
 iab certificatae certificate
 iab certificayte certificate
+iab certificdates certificates
 iab certififations certifications
 iab certina certain
 iab certyain certain
@@ -5681,6 +5682,7 @@ iab chateaavter character
 iab chater charger
 iab chcange change
 iab chceking checking
+iab cheanged changed
 iab cheawting cheating
 iab chechking checking
 iab checign checking
@@ -11870,6 +11872,7 @@ iab horiztonal horizontal
 iab horribily horribly
 iab horus hours
 iab hosdtnsame hostname
+iab hosdts hosts
 iab hosipital hospital
 iab hospoital hospital
 iab hostiry history
