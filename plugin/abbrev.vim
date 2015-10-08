@@ -270,6 +270,7 @@ iab Descreibing Describing
 iab Descripotion Description
 iab Descriptin Description
 iab Descriptioun Description
+iab Descrition Description
 iab Descroption Description
 iab Descruiption Description
 iab Desfribling Describing
@@ -1146,6 +1147,7 @@ iab Mohammahd Mohammad
 iab Mohommad Mohammad
 iab Mohommahd Mohammad
 iab Monaing Moaning
+iab Monologe Monologue
 iab Mooisture Moisture
 iab Morman Mormon
 iab Mornign Morning
@@ -10652,6 +10654,7 @@ iab filmn film
 iab filpmlmakers filmmakers
 iab filterablre filterable
 iab filtesr filters
+iab filtesrs filters
 iab fimmalkers filmmakers
 iab fimnmd find
 iab finaally finally
@@ -11370,12 +11373,14 @@ iab grippuing gripping
 iab gronw grown
 iab gropu group
 iab gropup group
+iab gropus groups
 iab groudns grounds
 iab groupo group
 iab growin growing
 iab grownth growth
 iab grpahic graphic
 iab grpahica graphic
+iab grpou group
 iab grreatlhy greatly
 iab gses gases
 iab gseture gesture
@@ -13876,6 +13881,7 @@ iab lbood blood
 iab lboth both
 iab lbowing blowing
 iab lbue blue
+iab lcaol local
 iab lcddoleldt collect
 iab lceaning cleaning
 iab lcelaning cleaning
@@ -23390,6 +23396,7 @@ iab tyhat that
 iab tyhere there
 iab tyhese these
 iab tyhpe type
+iab tyhpes types
 iab tyhping typing
 iab tyle type
 iab tyo two
@@ -25336,4 +25343,13 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab Monologe Monologue
+iab resouce resource
+iab resaorudce resource
+iab resorucde resource
+iab resoruce resource
+iab resourcde resource
+iab resou4ce resource
+iab asignee assignee
+iab heasdrs headers
+iab unde4rscore underscore
+iab otopsions options
