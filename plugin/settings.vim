@@ -70,6 +70,7 @@ set novisualbell
 set nowrap
 set nrformats=octal,hex,alpha " increment strings
 set path=.,/usr/include,/usr/local/lib/php/,/usr/share/povray/include,/usr/share/doc/rfc/txt
+set scrollopt=jump,hor,ver
 set sessionoptions-=localoptions
 set sessionoptions-=options
 set shiftwidth=2
