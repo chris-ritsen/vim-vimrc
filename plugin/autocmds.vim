@@ -334,7 +334,7 @@ augroup END
 
 " Classic ASP {{{
 
-autocmd! FileType aspvbs setlocal noexpandtab commentstring='\ %s foldmethod=indent
+autocmd! FileType aspvbs setlocal noexpandtab commentstring='\ %s foldmethod=indent ts=4
 autocmd! BufRead,BufNewFile *XpoNlm.XpoNlm.Web/main/**.inc setlocal filetype=aspvbs
 
 " }}}1
