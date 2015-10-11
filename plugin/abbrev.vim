@@ -25394,3 +25394,4 @@ iab tarnsition transition
 iab udnerscore underscore
 iab descirption description
 iab desriptuiobn description
+iab emaccs emacs
