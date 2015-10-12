@@ -25395,3 +25395,5 @@ iab udnerscore underscore
 iab descirption description
 iab desriptuiobn description
 iab emaccs emacs
+iab httpp http
+iab hehlo Hello
