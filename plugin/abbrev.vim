@@ -182,6 +182,7 @@ iab Contiyanlly Continually
 iab Contol Control
 iab Contorller Controller
 iab Contratulations Congratulations
+iab Controlleirs Controllers
 iab Contstnant Constant
 iab Contunuanlly Continually
 iab CooL Cool
@@ -223,9 +224,16 @@ iab DAnce Dance
 iab DAvison Davison
 iab DELTE DELETE
 iab DESCFRIPTION DESCRIPTION
+iab DEStionaiton Destination
+iab DEStionation Destination
 iab DEcide Decide
 iab DEciding Deciding
 iab DEscribe Describe
+iab DEstioation Destination
+iab DEstionation Destination
+iab DEstionqation Destination
+iab DEststionation Destination
+iab DEstwionation Destination
 iab DEvelolping Developing
 iab DEvising Devising
 iab DEvisising Devising
@@ -276,8 +284,11 @@ iab Descruiption Description
 iab Desfribling Describing
 iab Desgin Design
 iab Designa Design
+iab Desitionatn Destination
 iab Desmpstrating Demonstrating
 iab Desription Description
+iab Destinojatyion Destination
+iab Destionation Destination
 iab Destrohy Destroy
 iab Desulrtrory Desultory
 iab Detatching Detaching
@@ -765,6 +776,7 @@ iab INform Inform
 iab INjecting Injecting
 iab INnovation Innovation
 iab INsdtall Install
+iab INsert Insert
 iab INserting Inserting
 iab INside Inside
 iab INsight Insight
@@ -880,6 +892,7 @@ iab Indisitnct Indistinct
 iab Indivusuals Individuals
 iab Infomration Information
 iab Informationtal Informational
+iab Informatnion Information
 iab Informattion Information
 iab Infrmaotino Information
 iab Infrmoation Information
@@ -1289,6 +1302,7 @@ iab Onluy Only
 iab Onlyu Only
 iab Ontyo Onto
 iab Onw One
+iab Oopen Open
 iab Opdtions Options
 iab OperatingA Operating
 iab Opiniions Opinions
@@ -1379,6 +1393,7 @@ iab Periphjeral Peripheral
 iab Peripoheral Peripheral
 iab Peripuehral Peripheral
 iab Peripuheral Peripheral
+iab Permenenat Permanent
 iab Persistant Persistent
 iab Peurile Puerile
 iab PhantomJs PhantomJS
@@ -2062,6 +2077,7 @@ iab Tehsse These
 iab Tehsting Testing
 iab Telk Tell
 iab Tempaltes Templates
+iab Temparory Temporary
 iab Templtes Templates
 iab Temporarf Temporary
 iab Terrible3 Terrible
@@ -2244,6 +2260,7 @@ iab Vakye Value
 iab Valeuy Value
 iab Valyue Value
 iab Vancoiver Vancouver
+iab Vehciles Vehicles
 iab Verty Very
 iab Veryu Very
 iab Videio Video
@@ -4251,8 +4268,10 @@ iab attachec attached
 iab attacheds attaches
 iab attachement attachment
 iab attachements attachments
+iab attachmetn attachment
 iab attacments attachments
 iab attadched attached
+iab attadchenents attachments
 iab attahcmenet attachment
 iab attainted attained
 iab attaioned attained
@@ -7734,6 +7753,7 @@ iab descieds decides
 iab desciption description
 iab descirbe describe
 iab descirbes describes
+iab descirption description
 iab descrdibed described
 iab descreas decrease
 iab descrending descending
@@ -7748,6 +7768,7 @@ iab describwd described
 iab descrioption description
 iab descripotion description
 iab descriptibve descriptive
+iab descriptoin description
 iab descriptvie descriptive
 iab descrives describes
 iab descrliptive descriptive
@@ -7801,6 +7822,7 @@ iab desreibed described
 iab desribed described
 iab desribing describing
 iab desription description
+iab desriptuiobn description
 iab desscribe describe
 iab desscribes describes
 iab dessribed described
@@ -8765,6 +8787,7 @@ iab dvelpment development
 iab dvevelope develop
 iab dvevlopers developers
 iab dvice device
+iab dviv div
 iab dvleopemnt development
 iab dvleopment development
 iab dwardfs dwarfs
@@ -9257,6 +9280,7 @@ iab elvel level
 iab elvelvation elevation
 iab elvolved evolved
 iab emaacs emacs
+iab emaccs emacs
 iab emachiens machines
 iab emacss emacs
 iab emacssss emacs
@@ -10405,6 +10429,7 @@ iab extmrely extremely
 iab extnesion extension
 iab extpressed expressed
 iab extrabavently extravagantly
+iab extracdt extract
 iab extracvently extravagantly
 iab extramlely extremely
 iab extravagenlty extravagantly
@@ -11661,6 +11686,7 @@ iab heere here
 iab hegiht height
 iab hehight height
 iab hehllo hello
+iab hehlo Hello
 iab hehre here
 iab heieght height
 iab heighT height
@@ -11858,6 +11884,7 @@ iab holeck holodeck
 iab holesQ holes
 iab holess holes
 iab holidsays holidays
+iab homec home
 iab homne home
 iab homogenous homogeneous
 iab homwe home
@@ -12042,6 +12069,7 @@ iab htsi this
 iab htsk this
 iab httpBacken httpBackend
 iab httpbackend httpBackend
+iab httpp http
 iab htttp http
 iab htus huts
 iab huamn human
@@ -18779,6 +18807,7 @@ iab referenwce reference
 iab referes referees
 iab referesehs refreshes
 iab referesher refresher
+iab referewncef reference
 iab refernce reference
 iab referncens references
 iab refernces references
@@ -19028,6 +19057,7 @@ iab reomoval removal
 iab reorced recored
 iab reordingds recordings
 iab reorganisw reorganise
+iab reosurce resource
 iab reousrce resource
 iab reousrces resources
 iab reoute route
@@ -19193,6 +19223,7 @@ iab reqyired required
 iab rercoerced recorded
 iab rereouted rerouted
 iab reridgerate refrigerate
+iab rerporter reporter
 iab rerturend returned
 iab rerturn return
 iab rerutn return
@@ -19228,6 +19259,7 @@ iab reseivers receivers
 iab reselmbalnce resemblance
 iab resembalnce resemblance
 iab resembalnces resemblances
+iab reseopnose response
 iab reseqarch research
 iab reseqrchers researchers
 iab reserach research
@@ -19260,8 +19292,10 @@ iab resonses responses
 iab resonsibilites responsibilities
 iab resopond respond
 iab resoponsds responds
+iab resoponse response
 iab resorucde resource
 iab resoruce resource
+iab resosne response
 iab resotre restore
 iab resotres restores
 iab resou4ce resource
@@ -19307,9 +19341,11 @@ iab respoinsivmnetss responsiveness
 iab respoisble responsible
 iab respoisnbile responsible
 iab respoisnlibe responsible
+iab respoksne response
 iab respomsible responsible
 iab responbilbe responsible
 iab respondse response
+iab responese response
 iab responidble responsible
 iab responisbile responsible
 iab responisbiliets responsibilities
@@ -19319,6 +19355,7 @@ iab responisiblites responsibilities
 iab responisilbiites responsibilities
 iab responsaiblilites responsibilities
 iab responsde response
+iab responsee response
 iab responsiablyt responsibly
 iab responsibiilites responsibilities
 iab responsibiliites responsibilities
@@ -19390,6 +19427,7 @@ iab reternn return
 iab retetion retention
 iab retiina retina
 iab retnr return
+iab retporter reporter
 iab retpye retype
 iab retpyed Retyped
 iab retractec retracted
@@ -20123,6 +20161,7 @@ iab selectoro selector
 iab selectrively selectively
 iab seledtor selector
 iab seleep sleep
+iab selef self
 iab selelct select
 iab selelcted selected
 iab selep sleep
@@ -22107,6 +22146,7 @@ iab tarnsactions transactions
 iab tarnscrimng transcribing
 iab tarnsformation transformation
 iab tarnsistors transistors
+iab tarnsition transition
 iab tarnslate translate
 iab tarnslational translational
 iab tarnsparent transparent
@@ -22396,6 +22436,7 @@ iab tesstin testing
 iab tessting testing
 iab tessts tests
 iab testactular testacular
+iab testewr tester
 iab testhing testing
 iab testig testing
 iab testign testing
@@ -22462,6 +22503,7 @@ iab tghis this
 iab tghread thread
 iab tghrough through
 iab tghuis this
+iab tgimeout timeout
 iab tgiven given
 iab tgoal goal
 iab tgouched touched
@@ -22868,6 +22910,7 @@ iab tihs this
 iab tije time
 iab tijme time
 iab tilte title
+iab timeoout timeout
 iab timeotu timeout
 iab timepicekr timepicker
 iab timepicket timepicker
@@ -23334,6 +23377,7 @@ iab tsadoy today
 iab tsdaoy today
 iab tsdoya today
 iab tseagingf testing
+iab tseter tester
 iab tseting testing
 iab tshi this
 iab tshis this
@@ -23537,6 +23581,7 @@ iab uderstand understand
 iab udnefined undefined
 iab udner under
 iab udnersannnd understand
+iab udnerscore underscore
 iab udnerstand understand
 iab udnerstanding understanding
 iab udnestanding understanding
@@ -23641,6 +23686,7 @@ iab undersatanding understanding
 iab undersatnd understand
 iab undersatnding understanding
 iab undersatnt understand
+iab underscopre underscore
 iab undersdant understand
 iab undersgorund underground
 iab undersnad underhand
@@ -25369,51 +25415,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab reosurce resource
-iab INsert Insert
-iab responese response
-iab respoksne response
-iab resosne response
-iab responsee response
-iab reseopnose response
-iab referewncef reference
-iab attadchenents attachments
-iab resposne response
-iab attachmetn attachment
-iab extracdt extract
-iab testewr tester
-iab retporter reporter
-iab rerporter reporter
-iab tseter tester
-iab underscopre underscore
-iab selef self
-iab reutnr return
-iab descriptoin description
-iab resoponse response
-iab tarnsition transition
-iab udnerscore underscore
-iab descirption description
-iab desriptuiobn description
-iab emaccs emacs
-iab httpp http
-iab hehlo Hello
-iab tgimeout timeout
-iab timeoout timeout
-iab elemetn element
-iab Controlleirs Controllers
-iab Oopen Open
-iab Vehciles Vehicles
-iab Informatnion Information
-iab Temparory Temporary
-iab Permenenat Permanent
-iab Desitionatn Destination
-iab Destinojatyion Destination
-iab DEstionation Destination
-iab DEStionaiton Destination
-iab Destionation Destination
-iab DEstwionation Destination
-iab DEststionation Destination
-iab DEstioation Destination
-iab DEstionqation Destination
-iab DEStionation Destination
-iab dviv div
