@@ -1387,6 +1387,7 @@ iab Pelasews Pleases
 iab Pelaswes Pleases
 iab Pelsaes Pleases
 iab Peopl People
+iab Peopole People
 iab Peple People
 iab Perfomred Performed
 iab Perhappes Perhapses
@@ -3770,6 +3771,7 @@ iab apdding padding
 iab apear appear
 iab apge page
 iab aphabeticalluy alphabetically
+iab apirs pairs
 iab aplicaiton application
 iab aplicaitons applications
 iab aplication application
@@ -5374,6 +5376,7 @@ iab byulding building
 iab byurning burning
 iab byurt but
 iab byut but
+iab byuying buying
 iab byuys buys
 iab c4ryptographic cryptographic
 iab cChristmas Christmas
@@ -7172,6 +7175,7 @@ iab corwd crowd
 iab cosmose cosmos
 iab cosmost cosmos
 iab cosnidered considered
+iab cosnistantenly consistently
 iab cosnoe console
 iab cosnoel console
 iab cosnoele console
@@ -8723,6 +8727,7 @@ iab dsevies devices
 iab dsevleopment development
 iab dshould should
 iab dshows shows
+iab dsicerning discerning
 iab dsidetracked sidetracked
 iab dsifferent different
 iab dsigust disgust
@@ -11668,6 +11673,8 @@ iab headphoes headphones
 iab headphoesn headphones
 iab headphoones headphones
 iab headpohes headphones
+iab headpohesn headphones
+iab headpohesnes headphones
 iab headpohnes headphones
 iab headpohones headphones
 iab headpohonez headphones
@@ -12603,6 +12610,7 @@ iab incivudal individual
 iab incldue include
 iab incldues includes
 iab incldye include
+iab incliced inclined
 iab inclided inclined
 iab incliding including
 iab incliment inclement
@@ -12627,6 +12635,7 @@ iab incompatiblity incompatibility
 iab incompe income
 iab incompetant incompetent
 iab incomplatible incompatible
+iab incomprehesible incomprehensible
 iab inconesuentail inconsequential
 iab inconisisitnances inconsistencies
 iab inconsinsitances inconsistencies
@@ -13076,6 +13085,7 @@ iab insusfficient insufficient
 iab insutruments instruments
 iab inteded intended
 iab intedsnts intends
+iab inteelligent intelligent
 iab inteended intended
 iab inteention intention
 iab inteentional intentional
@@ -18338,6 +18348,7 @@ iab purcvhased purchased
 iab purdchaes purchases
 iab purhase purchase
 iab purhases purchases
+iab purlcahing purchasing
 iab puropose purpose
 iab purpole purple
 iab purpose3 purpose
@@ -20644,6 +20655,7 @@ iab simulataneiously simultaneously
 iab simulatanelously simultaneously
 iab simulataneous simultaneous
 iab simulataneously simultaneously
+iab simulatanoeulsy simultaneously
 iab simulateanously simultaneously
 iab simulateno7ylysy simultaneously
 iab simulatenoulsy simultaneously
@@ -23158,6 +23170,7 @@ iab tovards towards
 iab towarasd towards
 iab towardss towards
 iab towardsss towards
+iab towares towards
 iab towarrd toward
 iab towarsd towards
 iab towarsds towards
