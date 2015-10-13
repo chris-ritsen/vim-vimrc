@@ -114,6 +114,7 @@ iab Cleearly Clearly
 iab Cliarify Clarify
 iab Cliche Cliché
 iab Cliched Clichéd
+iab Clsoe Close
 iab Cmomputers Computers
 iab Cnotroller Controller
 iab CoConstants Constants
@@ -384,6 +385,7 @@ iab EVerytone Everyone
 iab EVeyrhitn Everything
 iab EWhat What
 iab EWrite Write
+iab EYTA ETA
 iab Eaach Each
 iab Eaiser Easier
 iab Easiset Easiest
@@ -692,6 +694,7 @@ iab Haveing Having
 iab Haviging Having
 iab Havigng Having
 iab Hawaiii Hawaii
+iab Haxmat Hazmat
 iab Heaavne Heaven
 iab Heavenely Heavenly
 iab Heavnely Heavenly
@@ -1115,6 +1118,7 @@ iab Manufcaturing Manufacturing
 iab Maoning Moaning
 iab Matbe Maybe
 iab Mathcing Matching
+iab Matruix Matrix
 iab Maube Maybe
 iab MaxOS MacOS
 iab Maxx Max
@@ -1708,6 +1712,7 @@ iab Roplling Rolling
 iab Royksopp Röyksopp
 iab Rpeeaea Repeal
 iab Rpepat Repeat
+iab Rrefresh Refresh
 iab Rriten Ritsen
 iab Rsitsdne Ritsen
 iab Rsitsne Ritsen
@@ -1790,6 +1795,7 @@ iab STandard Standard
 iab STaring Staring
 iab STart Start
 iab STarting Starting
+iab STate State
 iab STates States
 iab STill Still
 iab STomach Stomach
@@ -1861,6 +1867,7 @@ iab Serivce Service
 iab Seroi8usluy Seriously
 iab Serpantine Serpentine
 iab Serverice Service
+iab Serviec Service
 iab Sestup Setup
 iab Setvbice Service
 iab Seutp Setup
@@ -2054,6 +2061,8 @@ iab Tahsnk Thanks
 iab Tallking Talking
 iab Talluying Tallying
 iab Targetting Targeting
+iab Tarrif Tariff
+iab Tarriff Tariff
 iab Tbahnsks Thanks
 iab Tbanks Thanks
 iab Tben Then
@@ -2192,6 +2201,7 @@ iab Transerring Transferring
 iab Transpikt Transit
 iab Trasnscribing Transcribing
 iab Triyn Trying
+iab Trsut Trust
 iab Tryign Trying
 iab Tryrign Trying
 iab Tseting Testing
@@ -2252,6 +2262,7 @@ iab Uubntu Ubuntu
 iab Uusinh Using
 iab Uusually Usually
 iab VArying Varying
+iab VEhciel Vehicle
 iab VErsion Version
 iab VEry Very
 iab VIdoes Videos
@@ -2261,8 +2272,10 @@ iab Valeuy Value
 iab Valyue Value
 iab Vancoiver Vancouver
 iab Vehciles Vehicles
+iab Vehicoe Vehicle
 iab Verty Very
 iab Veryu Very
+iab Vheicle Vehicle
 iab Videio Video
 iab Vidoe Video
 iab Virtaul Virtual
@@ -2442,6 +2455,7 @@ iab Yiou You
 iab Yioyu You
 iab Yluou You
 iab Yopu You
+iab Yorlk Yokk
 iab YouUtbue YouTube
 iab Youo You
 iab Youre You're
@@ -4130,6 +4144,7 @@ iab asfter after
 iab ashared shared
 iab ashouls should
 iab asic basic
+iab asiggnee assignee
 iab asignee assignee
 iab asisde aside
 iab asisgn assign
@@ -5247,6 +5262,7 @@ iab btuter butter
 iab bty by
 iab bu8ildings buildings
 iab bublbe bubble
+iab buddon button
 iab budilgins buildings
 iab budjet budget
 iab budnlded bundled
@@ -6234,6 +6250,7 @@ iab commmittee committee
 iab commmunications communications
 iab commmute commute
 iab commnicatopins communications
+iab commnon common
 iab commnucation communication
 iab commnuicate communicate
 iab commnuicating communicating
@@ -10676,6 +10693,8 @@ iab filesa files
 iab filess files
 iab filesystmes filesystems
 iab filesytems filesystems
+iab filetres filters
+iab filetrs filters
 iab filetuype filetype
 iab filexs files
 iab filfilling fulfilling
@@ -10691,6 +10710,7 @@ iab filmkmakers filmmakers
 iab filmn film
 iab filpmlmakers filmmakers
 iab filterablre filterable
+iab filterse filters
 iab filtesr filters
 iab filtesrs filters
 iab fimmalkers filmmakers
@@ -10760,6 +10780,7 @@ iab fisrst first
 iab fisrt first
 iab fitlerable filterable
 iab fitlers filters
+iab fitlesrs filters
 iab fity fifty
 iab fiules files
 iab fiull full
@@ -11606,6 +11627,7 @@ iab havwe have
 iab hawd had
 iab hawe have
 iab hawppy happy
+iab haxmat hazmat
 iab hazsards hazards
 iab hazsrds hazards
 iab hazzard hazard
@@ -11650,6 +11672,7 @@ iab headpones headphones
 iab headpoohen headphone
 iab headrd header
 iab headres headers
+iab headrse headers
 iab headspohes headphones
 iab headsset headset
 iab healhty healthy
@@ -11677,6 +11700,7 @@ iab heaveier heavier
 iab heavently heavenly
 iab heavlily heavily
 iab heawd head
+iab heawder header
 iab heawlth health
 iab heawr hear
 iab heealth health
@@ -13805,6 +13829,7 @@ iab lThe the
 iab lThere there
 iab laate late
 iab labe3l label
+iab labeL label
 iab labellled labeled
 iab labelsd labels
 iab lable label
@@ -16408,6 +16433,7 @@ iab ormed formed
 iab orngainsed organised
 iab ornganisational organisational
 iab orning morning
+iab orogin origin
 iab oroginal original
 iab oroiginal original
 iab oroiginally originally
@@ -19812,6 +19838,7 @@ iab samller smaller
 iab samllest smallest
 iab samme same
 iab samne same
+iab sampekl sample
 iab sampels samples
 iab sampingls samplings
 iab sampings samplings
@@ -20143,6 +20170,7 @@ iab seldonm seldom
 iab selecdt select
 iab selecdtion selection
 iab selecdtor selector
+iab seleceft select
 iab selecetd selected
 iab seleceted selected
 iab selecfed selected
@@ -20437,6 +20465,7 @@ iab shimpemtns shipments
 iab shiop ship
 iab shiopemtn shipment
 iab shiopment shipment
+iab shiopments shipments
 iab shiopmetn shipment
 iab shiopnemtn shipment
 iab shioudl should
@@ -23390,6 +23419,7 @@ iab tstuff stuff
 iab tswitch switch
 iab ttask task
 iab ttesting testing
+iab ttextarea textarea
 iab tthat that
 iab tthe the
 iab ttheeya they
@@ -23808,6 +23838,7 @@ iab uninteruptable uninterpretable
 iab uninterupted uninterrupted
 iab uninvelved uninvolved
 iab uniqe unique
+iab uniquye unique
 iab uniuverse universe
 iab univers universe
 iab univomveded uninvolved
@@ -25415,4 +25446,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab asiggnee assignee
