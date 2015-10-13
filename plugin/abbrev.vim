@@ -3643,6 +3643,7 @@ iab anyomre anymore
 iab anyonee anyone
 iab anyonwe anyone
 iab anyore anymore
+iab anyoying annoying
 iab anyr any
 iab anyrhing anything
 iab anyrthign anything
@@ -4692,6 +4693,7 @@ iab beacme became
 iab beacuae because
 iab beacuse because
 iab beacuxwe because
+iab beadause because
 iab beagan began
 iab beahvior behavior
 iab beared beard
@@ -8211,6 +8213,7 @@ iab direcrotyr directory
 iab direcrtory directory
 iab directated directed
 iab directes directs
+iab directiceves directives
 iab directiory directory
 iab directiveTEmplates directiveTemplates
 iab directiveTemplaets directiveTemplates
@@ -12462,6 +12465,7 @@ iab impratnce importance
 iab impratnt important
 iab imprerect imperfect
 iab impressses impresses
+iab impreswed impressed
 iab impriving improving
 iab improaaarnt important
 iab improatn important
@@ -15340,6 +15344,7 @@ iab mucdrpooohpe microphone
 iab mucg much
 iab muchb much
 iab muchd much
+iab muchr much
 iab mucht must
 iab mucscle muscle
 iab mucsic music
@@ -18187,6 +18192,7 @@ iab prperly properly
 iab prroduces produces
 iab prset preset
 iab prseume presume
+iab prsusre pressure
 iab pruahced purchased
 iab prucahigns purchasing
 iab prucahse purchase
@@ -21524,6 +21530,7 @@ iab strooll stroll
 iab strrange strange
 iab strrategy strategy
 iab strt start
+iab strtetch stretch
 iab strtuctures structures
 iab strucdt struct
 iab strucdtures structures
@@ -23664,6 +23671,7 @@ iab uncosnous unconscious
 iab uncshcheduled unscheduled
 iab undbind unbind
 iab unde4rscore underscore
+iab undeexpecfted unexpected
 iab undefied undefined
 iab undefiend undefined
 iab undefineid undefined
@@ -24310,6 +24318,7 @@ iab vrazzy crazy
 iab vresions versions
 iab vriables variables
 iab vriting writing
+iab vrough rough
 iab vrsion version
 iab vslaue value
 iab vverything everything
