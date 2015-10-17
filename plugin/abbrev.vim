@@ -25473,3 +25473,13 @@ iab ztaships starships
 
 iab Johyn John
 iab fimrware firmware
+iab ipoheone iphone
+iab thorufgh through
+iab enoeguh enough
+iab quiqckly quickly
+iab Seee See
+iab sentencens sentences
+iab acdu4rately accurately
+iab incorerescdtly incorrectly
+iab wordts words
+iab goindg going
