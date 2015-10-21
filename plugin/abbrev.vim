@@ -7261,6 +7261,7 @@ iab cquicker quicker
 iab craazy crazy
 iab crackrersd crackers
 iab craeate create
+iab craete create
 iab craeting creating
 iab cralwer crawler
 iab crasdh crash
@@ -9429,6 +9430,7 @@ iab endo end
 iab endpoit endpoint
 iab endppiomtis endpoints
 iab enealbed enabled
+iab enecessarily necessarily
 iab eneemy enemy
 iab eneergies energies
 iab eneergy energy
@@ -19551,6 +19553,7 @@ iab reustlt result
 iab reutirn return
 iab reutnr return
 iab reutnrn return
+iab reutnrsa returns
 iab reutrbn return
 iab reutrn return
 iab revalation revelation
