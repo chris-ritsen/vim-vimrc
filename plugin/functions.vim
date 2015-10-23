@@ -1,5 +1,5 @@
 
-" AddAbbrev {{{1
+" AddAbbrev {{{
 
 function! AddAbbrev()
 
@@ -7,27 +7,27 @@ function! AddAbbrev()
 
   " TODO: Handle <c-c> and restore spell setting, <cword>.
 
-  " {{{2
+  " {{{
 
   call inputsave()
 
-  " }}}2
+  " }}}
 
-  " {{{2
+  " {{{
 
   let incorrect_word = expand('<cword>')
 
-  " }}}2
+  " }}}
 
-  " {{{2
+  " {{{
 
   silent! redir @a
   silent! set spell?
   silent! redir END
 
-  " }}}2
+  " }}}
 
-  " {{{2
+  " {{{
 
   if match(@a, 'no') == -1
     let has_spell = 'true'
@@ -35,25 +35,25 @@ function! AddAbbrev()
     let has_spell = 'false'
   endif
 
-  " }}}2
+  " }}}
 
-  " {{{2
+  " {{{
 
   set spell
   normal 1z=
 
-  " }}}2
+  " }}}
 
-  " Preserve initial spell setting {{{2
+  " Preserve initial spell setting {{{
 
   let s_prompt = 'iab ' . incorrect_word . ' '
   let possible_correct_word = expand('<cword>')
   let correct_word = input(s_prompt, possible_correct_word)
   let abbrev_entry = 'iab ' . incorrect_word . ' ' . correct_word
 
-  " }}}2
+  " }}}
 
-  " {{{2
+  " {{{
 
   if empty(correct_word)
     silent! exec 'u'
@@ -65,9 +65,9 @@ function! AddAbbrev()
     return
   endif
 
-  " }}}2
+  " }}}
 
-  " {{{2
+  " {{{
 
   if correct_word == possible_correct_word
     " Some nonsense was selected, such as punctuation
@@ -79,9 +79,9 @@ function! AddAbbrev()
     "return
   endif
 
-  " }}}2
+  " }}}
 
-  " {{{2
+  " {{{
 
   " TODO: Replace word under cursor with user's final correction
   if correct_word != possible_correct_word
@@ -91,17 +91,17 @@ function! AddAbbrev()
     silent! exec 'normal' 'ciw' . correct_word
   endif
 
-  " }}}2
+  " }}}
 
-  " {{{2
+  " {{{
 
   " let a:abbrev_file = '$VIMRC_PLUGIN_DIR/abbrev.vim'
   let a:abbrev_file = '/home/chris/.config/vim/bundle/vimrc/plugin/abbrev.vim'
   let a:lines = [abbrev_entry]
 
-  " }}}2
+  " }}}
 
-  " {{{2
+  " {{{
 
   " TODO: Check for a faster way of doing this
 
@@ -114,38 +114,100 @@ function! AddAbbrev()
     set nospell
   endif
 
-  " }}}2
+  " }}}
 
 endfunction
 
-" }}}1
+" }}}
 
-" {{{1
+" unite_settings {{{
+
 function! s:unite_settings()
 
-  " {{{2
+" {{{
 
+  " TODO: Should not wrap bottom/top on unite buffers
+
+  " config {{{
+
+	let g:unite_prompt = ''
   let b:SuperTabDisabled = 1
+  let g:unite_converter_file_directory_width = 90
+  let g:unite_kind_jump_list_after_jump_scroll = 50
+  let g:unite_matcher_fuzy_max_input_length = 200
+  let g:unite_source_history_yank_enable = 1
+  let g:unite_source_line_enable_highlight = 0
 
-  " {{{3
+  " Dead {{{
+  
+	" let g:unite_abbr_highlight = 'TabLine'
+	" let g:unite_cursor_line_highlight = 'TabLineSel'
+  " let g:unite_source_rec_async_command = 'ag --skip-vcs-ignores --silent --nocolor --nogroup -g ""'
 
-  " Enable navigation with control-j and control-k in insert mode
-  " imap <buffer> <C-j>   <Plug>(unite_select_next_line)
-  " imap <buffer> <C-j>   <Plug>(unite_do_default_action)
-  " imap <buffer> <C-k>   <Plug>(unite_select_previous_line)
+  " }}}
+
+  " }}}
+
+  " mappings {{{
+
+  imap <buffer> <C-j> <Plug>(unite_do_default_action)
+  imap <buffer> <C-g> <Plug>(unite_exit)
+
+  " }}}
+
+  " sources {{{
+
+  call unite#custom#source(
+    \ 'neomru/file', 'matchers',
+    \ ['matcher_project_files', 'matcher_fuzzy'])
+
+	call unite#custom#profile('default', 'context', {
+    \   'smartcase': 1,
+    \   'ignorecase': 1,
+    \ })
+
+  call unite#custom#profile('files', 'substitute_patterns', {
+    \ 'pattern' : '^\.v/',
+    \ 'subst' : [expand('~/.vim/'),
+    \   unite#util#substitute_path_separator($HOME)
+    \       . '/.bundle/*/'],
+    \ 'priority' : 1000,
+    \ })
+
+  " Dead {{{
+
+  " call unite#custom#source('file,file/new,buffer,file_rec,file_rec/async', 'ignore_pattern', '\(nohup\.out$|\.jspm\)')
+
+  " }}}
+
+  " }}}
+
+  " Dead {{{
+
+  " Enable navigation with control-j and control-k in insert mode {{{ 
+
+  " imap <buffer> <C-j> <Plug>(unite_do_default_action)
+  " imap <buffer> <C-j> <Plug>(unite_select_next_line)
+  " imap <buffer> <C-k> <Plug>(unite_select_previous_line)
+  " imap <buffer> <C-q> <Plug>(unite_exit)
+  " nnoremap <leader>p :Unite -no-split file_rec/async<cr>
   " nnoremap <silent><buffer> <C-j> <Plug>(unite_do_default_action)
 
-  " }}}3
+  " }}}
 
-  " }}}2
+  " }}}
+
+" }}}
 
 endfunction
 
-" }}}1
+" }}}
 
-" {{{1
+" TempSetBinaryForNoeol {{{
 
 function! s:TempSetBinaryForNoeol()
+
+" {{{
 
   let s:save_binary = &binary
 
@@ -164,11 +226,17 @@ function! s:TempSetBinaryForNoeol()
     endif
   endif
 
-endfunction " }}}1
+" }}}
 
-" {{{1
+endfunction 
+
+" }}}
+
+" TempRestoreBinaryForNoeol {{{
 
 function! s:TempRestoreBinaryForNoeol()
+
+" {{{
 
   if ! &eol && ! s:save_binary
     if &ff == "dos"
@@ -181,72 +249,112 @@ function! s:TempRestoreBinaryForNoeol()
 
     setlocal nobinary
     call winrestview(s:save_view)
-
   endif
+
+" }}}
 
 endfunction
 
-" }}}1
+" }}}
 
-" {{{1
+" set {{{
 
 function! Set(what)
   exe 'set ' . substitute(a:what, '\v.+', '\L&', 'g')
 endfunction
 
-" }}}1
+" }}}
 
-" {{{1
+" sort by number {{{
 
 function! Sort_By_Number()
 
-" {{{2
+" {{{
 
   :sort n /\%V[.]r/
 
-" }}}2
+" }}}
 
 endfunction
 
-" }}}1
+" }}}
 
 " Vidir Sanitize {{{1
 
 function! Vidir_Sanitize(content)
 
-  " {{{2
+  " set mark {{{2
 
   mark z
 
-  "silent! %s/\(\_^[ ]*\)\@<![ ]\+/_/g
-  "%s/\(\_^\s*\|\_^\s\+\d\+\)\@<!\s/_/g
+  " }}}2
+
+  " {{{2
+
+  " messes up folding
+
+  :silent! %s/,/./g
 
   " }}}2
 
-  " Rules {{{2
+  " {{{2
 
-  silent! %s/\v[åä]/a/g
-  silent! %s/\v[ö]/o/g
-  silent! %s/\v[ÅÄ]/A/g
-  silent! %s/\v[Ö]/O/g
-  silent! %s/,/./g
-  silent! %s/\v[;<>*|'&!#)([\]{}]//g
-  silent! %s/\v_+\ze[.]|\zs[.]\ze_+//g
-  silent! %s/[$]/S/g
-  silent! %s/\v-{2,}/-/g
-  silent! %s/\v_-_/-/g
-  silent! %s/\v[_]{2,}/_/g
-  silent! %s/\v[/_-]@<\=[a-z]/\U&/g
-  silent! %s/\v_(Feat|The|It|Of|At)_/\L&/ig
-  silent! %s/\v_(Och|N[åa]n)_/\L&/g
+  :silent! %s/[$]/S/g
 
   " }}}2
+
+  " {{{2
+  :silent! %s/\v[/_-]@<\=[a-z]/\U&/g
+  " }}}2
+
+  " {{{2
+  :silent! %s/\v[ÅÄ]/A/g
+  " }}}2
+
+  " {{{2
+  :silent! %s/\v[Ö]/O/g
+  " }}}2
+
+  " {{{2
+  :silent! %s/\v[åä]/a/g
+  " }}}2
+
+  " {{{2
+  :silent! %s/\v[ö]/o/g
+  " }}}2
+
+  " {{{2
+  :silent! %s/\v_(Feat|The|It|Of|At)_/\L&/ig
+  " }}}2
+
+  " {{{2
+  :silent! %s/\v_(Och|N[åa]n)_/\L&/g
+  " }}}2
+
+  " {{{2
+  :silent! %s/\v_+\ze[.]|\zs[.]\ze_+//g
+  " }}}2
+
+  " {{{2
+  :silent! %s/\v_-_/-/g
+  " }}}2
+
+  " {{{2
+
+  :silent! %s/\v[;<>*|'&!#)([\]{}]//g
+
+  " }}}2
+
+  " Messed up folding
+
+  :silent! %s/\v-{2,}/-/g
+  :silent! %s/\v[_]{2,}/_/g
 
   " {{{2
 
   if (a:content == 'music') || (a:content == 'mvid')
 
-    " {{{3
+    " {{{
 
     :silent! %s/\v^\s*[0-9]+\s+\zs\s+/_/g
     :silent! %s/\(\_^[ ]*\)\@<![ ]\+/_/g
@@ -254,31 +362,31 @@ function! Vidir_Sanitize(content)
     :silent! %s/\v(_[el]p[_]?)/\U\1/ig
     :silent! %s/\v([_-]?cd[sm][_-]?|flac|[_-]demo|vinyl|[_-](web|pcb|osv))/\U\1/ig
 
-    " }}}3
+    " }}}
 
   elseif (a:content == 'tv')
 
-    " {{{3
+    " {{{
 
     :silent! %s/\v^\s*[0-9]+\s+\zs\s+/./g
     :silent! %s/\(\_^[ ]*\)\@<![ ]\+/./g
     :silent! %s/\v[.]-[.]/./g
 
-    " }}}3
+    " }}}
 
   else
 
-    " {{{3
+    " {{{
 
     :silent! %s/\v[&]/and/g
 
-    " }}}3
+    " }}}
 
   endif
 
   " }}}2
 
-  " {{{2
+  " go to mark and delete {{{2
 
   'z
   delmark z
@@ -289,23 +397,23 @@ endfunction
 
 " }}}1
 
-" Vidir - sort-of-TitleCase helper {{{1
+" Vidir - sort-of-TitleCase helper {{{
 
 function! Vidir_SmartUC()
 
-" substitute {{{2
+" substitute {{{
 
   :s/\w\@<=\ze\u/_/g
   :s/\v_+/_/g
   ":s/\<\@<![A-Z]/_&/g
 
-" }}}2
+" }}}
 
 endfunction
 
-" }}}1
+" }}}
 
-" sub - TitleCase word {{{1
+" sub - TitleCase word {{{
 
 function! TitleCaseCenter()
 
@@ -316,9 +424,9 @@ function! TitleCaseCenter()
 
 endfunction
 
-" }}}1
+" }}}
 
-" sub - trailing trash {{{1
+" sub - trailing trash {{{
 
 function! RemoveTrailingCrap()
 
@@ -332,7 +440,7 @@ function! RemoveTrailingCrap()
 
 endfunction
 
-" }}}1
+" }}}
 
 " toggle number/relativenumber {{{
 
@@ -364,19 +472,19 @@ endfun
 
 " }}}
 
-" preview markdown {{{1
+" preview markdown {{{
 
 function! Markdown_Preview()
 
-" {{{2
+" {{{
 
   :silent exe '!markdown_preview ' . expand('%:p')
 
-" }}}2
+" }}}
 
 endfu
 
-" }}}1
+" }}}
 
 " ls(1) colors {{{
 
@@ -388,7 +496,7 @@ endfu
 
 " }}}
 
-" shorten cwd {{{1
+" shorten cwd {{{
 
 function! CurDir()
 
@@ -398,15 +506,15 @@ function! CurDir()
 
 endfunction
 
-" }}}1
+" }}}
 
-" syn group for item under cursor {{{1
+" syn group for item under cursor {{{
 
 " nmap <C-e> :call SynStack()<CR>
 
 function! SynStack()
 
-  " Guard {{{2
+  " Guard {{{
 
   if !exists("*synstack")
 
@@ -416,7 +524,7 @@ function! SynStack()
 
   " }}}
 
-  " echo {{{2
+  " echo {{{
 
   echo map(synstack(line('.'), col('.')), 'synIDattr(v:val, "name")')
 
@@ -424,13 +532,13 @@ function! SynStack()
 
 endfunction
 
-" }}}1
+" }}}
 
-" folding - add markers {{{1
+" folding - add markers {{{
 
 function! AddFoldMarkers()
 
-" {{{2
+" {{{
 
   let comment_char = '#'
   let fold_marker_end   = '}}}'
@@ -464,17 +572,17 @@ function! AddFoldMarkers()
   put = comment_char . fold_marker_end
   normal kkk
 
-" }}}2
+" }}}
 
 endfunction
 
-" }}}1
+" }}}
 
-" sort - by line length {{{1
+" sort - by line length {{{
 
 function! SortLen()
 
-" {{{2
+" {{{
 
   mark z
   %s/\v^/\=len(getline('.')) . '↑'/
@@ -484,19 +592,19 @@ function! SortLen()
   'z
   delmark z
 
-" }}}2
+" }}}
 
 endfu
 
-" }}}1
+" }}}
 
-" viminfo - save cursor position {{{1
+" viminfo - save cursor position {{{
 
 autocmd BufReadPost * call SetCursorPosition()
 
 function! SetCursorPosition()
 
-" viminfo - save cursor position {{{2
+" viminfo - save cursor position {{{
 
   if &filetype !~ 'svn\|commit\c'
     if line("'\"") > 0 && line("'\"") <= line("$")
@@ -505,13 +613,14 @@ function! SetCursorPosition()
     endif
   end
 
-" }}}2
+" }}}
 
 endfunction
 
-" }}}1
+" }}}
 
 " % filesize {{{
+
 function! FileSize()
 
   let bytes = getfsize(expand("%:p"))
@@ -530,7 +639,7 @@ endfunction
 
 "}}}
 
-" Dead {{{1
+" Dead {{{
 
 " augroup automatic_noeol
 "   autocmd!
@@ -586,4 +695,56 @@ endfunction
 ""}}}
 
 " }}}1
+
+" IncludeExpressionWhatever {{{
+
+function! IncludeExpressionWhatever()
+
+  " TODO: Loop until root is reached, or file is found.  Probably safe to
+  " remove the leading slash first, as it would be reached eventually
+  " regardless.
+
+  " FIXME: The reliability of this function is in doubt.
+
+  let retval = substitute(expand('%:p'), expand('%:h:t').'.*',  v:fname, 'g')
+
+  " while empty(matchstr("/whatever/path/here", "/", 0)) == 0
+
+    " Value starts with a slash—stop recursing.
+    " return v:fname
+
+    " endwhile
+
+  if filereadable(retval)
+
+    return retval
+
+  else
+
+    " echo input(retval)
+
+    return v:fname
+
+  endif
+
+  " TODO: This needs to recurse up the directory until a match is fount or the
+  " root is reached.
+
+  " includeexpr=substitute('test', 'test',  v:fname, 'g')
+  " return expand("<cfile>")
+
+endfunction
+
+" }}}
+
+" function to print a hard copy with paps {{{
+
+function! PrintHardCopy()
+  execute '!paps --columns=4 --landscape --left-margin=54 --right-margin=0 --bottom-margin=9 --top-margin=18 --font="Monaco 3" < % > out.ps && ps2pdf out.ps out.pdf && lpr out.pdf && rm out.ps out.pdf'
+  " execute '!paps --left-margin=18 --right-margin=18 --bottom-margin=0 --top-margin=0 --font="Monaco 8" < % > out.ps && ps2pdf out.ps out.pdf && lpr out.pdf && rm out.ps out.pdf'
+  " execute '!paps --left-margin=18 --right-margin=18 --font="Monaco 8" < % > out.ps | ps2pdf out.ps out.pdf && zathura out.pdf'
+
+endfunction
+
+" }}}
 

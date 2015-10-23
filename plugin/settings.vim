@@ -65,11 +65,14 @@ set nomodeline
 set nonumber
 set noruler
 set noshowcmd
+set noshowmatch
 set noshowmode
 set novisualbell
 set nowrap
 set nrformats=octal,hex,alpha " increment strings
 set path=.,/usr/include,/usr/local/lib/php/,/usr/share/povray/include,/usr/share/doc/rfc/txt
+set printdevice=laserjet
+set printheader=
 set scrollopt=jump,hor,ver
 set sessionoptions-=localoptions
 set sessionoptions-=options
@@ -96,11 +99,10 @@ set timeoutlen=500
 set ttyfast
 set undodir=~/.vim/undo
 set undofile
-set undolevels=1000
 set undolevels=10000
 set undoreload=10000
-set undoreload=9999
 set updatetime=1000
+set updatetime=500
 set viminfo=!,'100,\"100,:20,<50,s10,h,n~/.viminfo
 set virtualedit=all
 set whichwrap+=<,>,h,l
@@ -120,9 +122,27 @@ set guioptions-=L guioptions-=T guioptions-=m guioptions-=r
 
 " }}}2
 
-"}}}1
+" }}}1
+
+" custom expression for gf {{{
+
+set includeexpr=IncludeExpressionWhatever() 
+
+" }}}
 
 " Dead {{{1
+
+" Hardcopy printing {{{
+
+" Print settings {{{
+
+" set printencoding=utf-8
+" set printoptions=left:0pc,right:0pc,top:0pc,bottom:0pc,header:0,duplex:long,wrap:n,number:n,syntax:y,collate:y,portrait:y
+" set printfont=courier:h8
+
+" }}}
+
+" }}}
 
 " set t_Co=256
 " set ttimeoutlen=50

@@ -25,6 +25,14 @@ let mapleader = "\\"
 
 " }}}2
 
+" omnisharp {{{
+
+let g:OmniSharp_server_type = 'v1'
+let g:OmniSharp_start_server = 1
+let g:OmniSharp_timeout = 1
+
+" }}}
+
 " NERDTree {{{2
 
 let NERDTreeHijackNetrw= 1
@@ -205,43 +213,18 @@ let g:sparkupNextMapping = ""
 
 " syntastic {{{2
 
-" let g:syntastic_html_tidy_args = '-config /home/chris/.config/tidy/config'
+" general settings {{{
 
 let g:syntastic_c_compiler_options = '-std=c11 -include stdio.h'
 let g:syntastic_cpp_compiler_options = '-std=c++11'
-
-" \ 'code_checker'
-
-let g:syntastic_cs_checkers = [
-  \ 'issues',
-  \ 'mcs',
-  \ 'semantic',
-  \ 'syntax'   
-  \ ]
-
 let g:syntastic_css_csslint_args = '--ignore box-sizing,unique-headings'
 let g:syntastic_enable_signs = 1
 let g:syntastic_exit_checks = 0
 let g:syntastic_full_redraws = 1
 
-let g:syntastic_html_checkers = [
-  \ 'tidy'
-  \ ]
+" }}}
 
-let g:syntastic_html_tidy_exec = 'tidy'
-
-let g:syntastic_javascript_checkers = [
-  \ 'eslint',
-  \ 'jshint'
-  \ ]
-
-let g:syntastic_javascript_eslint_exec = 'eslint'
-let g:syntastic_javascript_jshint_exec = 'jshint'
-let g:syntastic_javascript_tidy_exec = 'tidy'
-
-let g:syntastic_less_checkers = [
-  \ 'lessc'
-  \ ]
+" mode map {{{
 
 let g:syntastic_mode_map = {
   \ 'mode': 'active', 
@@ -258,9 +241,67 @@ let g:syntastic_mode_map = {
   \ 'passive_filetypes': [] 
   \ }
 
+" }}}
+
+" checkers {{{
+
+" cs checkers {{{
+
+let g:syntastic_cs_checkers = [
+  \ 'issues',
+  \ 'mcs',
+  \ 'semantic',
+  \ 'syntax'   
+  \ ]
+
+" }}}
+
+" html checkers {{{
+
+let g:syntastic_html_tidy_exec = 'tidy'
+
+let g:syntastic_html_checkers = [
+  \ 'tidy'
+  \ ]
+
+" }}}
+
+" javascript checkers {{{
+
+let g:syntastic_javascript_eslint_exec = 'eslint'
+let g:syntastic_javascript_jshint_exec = 'jshint'
+let g:syntastic_javascript_tidy_exec = 'tidy'
+
+let g:syntastic_javascript_checkers = [
+  \ 'eslint',
+  \ 'jshint'
+  \ ]
+
+" }}}
+
+" less checkers {{{
+
+let g:syntastic_less_checkers = [
+  \ 'lessc'
+  \ ]
+
+" }}}
+
+" xml checkers {{{
+
 let g:syntastic_xml_checkers = [
   \ 'xmllint'
   \ ]
+
+" }}}
+
+" }}}
+
+" Dead {{{
+
+" let g:syntastic_html_tidy_args = '-config /home/chris/.config/tidy/config'
+
+" }}}
 
 " }}}2
 
@@ -272,6 +313,35 @@ let g:tagbar_width = 30
 " }}}2
 
 " unite {{{2
+
+if executable('ag')
+
+  let g:unite_source_grep_command = 'ag'
+
+  let g:unite_source_grep_default_opts =
+  \ '--line-numbers --nocolor --nogroup --hidden --ignore ' .
+  \  '''.hg'' --ignore ''.svn'' --ignore ''.git'' --ignore ''.bzr'''
+
+  let g:unite_source_grep_recursive_opt = ''
+
+elseif executable('pt')
+
+  let g:unite_source_grep_command = 'pt'
+  let g:unite_source_grep_default_opts = '--nogroup --nocolor'
+  let g:unite_source_grep_recursive_opt = ''
+
+elseif executable('ack-grep')
+
+  " Use ack in unite grep source.
+
+  let g:unite_source_grep_command = 'ack-grep'
+
+  let g:unite_source_grep_default_opts =
+  \ '--no-heading --no-color -k -H'
+
+  let g:unite_source_grep_recursive_opt = ''
+
+endif
 
 " let g:unite_source_history_yank_enable = 1
 " let g:unite_source_rec_max_cache_files = 0
@@ -308,5 +378,14 @@ let xml_syntax_folding = 1
 
 " Dead code {{{1
 
-" " }}}1
+" omnisharp {{{
+
+" let g:OmniSharp_server_type = 'roslyn'
+" let g:Omnisharp_server_config_name = '/home/chris/.config/vim/bundle/omnisharp-vim/server/config.json'
+
+" command! -nargs=1 Rename :call OmniSharp#RenameTo("<args>")
+
+" }}}
+
+" }}}1
 

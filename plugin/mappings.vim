@@ -1,27 +1,34 @@
 
-" cmap {{{1
+" cmap {{{
 
-" {{{2
+" {{{
 
+cmap <c-a> <home>
+cmap <c-b> <left>
+cmap <c-d> <delete>
+cmap <c-f> <right>
+cmap <c-n> <up>
+cmap <c-p> <up>
 cmap w!! w !sudo tee % >/dev/null
 
-" }}}2
 
-" }}}1
+" }}}
 
-" cnoremap {{{1
+" }}}
 
-" {{{2
+" cnoremap {{{
+
+" {{{
 
 cnoremap <C-G> <C-U><BS>
 
-" }}}2
+" }}}
 
-" }}}1
+" }}}
 
-" imap {{{1
+" imap {{{
 
-" {{{2
+" {{{
 
 imap  <nop>
 imap <C-@> <C-Space>
@@ -30,13 +37,13 @@ imap <C-Space> <C-x><C-o>
 " Disable onmifunc
 imap <C-x><C-o> <nop>
 
-" }}}2
+" }}}
 
-" }}}1
+" }}}
 
-" inoremap {{{1
+" inoremap {{{
 
-" {{{2
+" {{{
 
 inoremap <F10> <nop>
 inoremap <F11> <nop>
@@ -58,24 +65,24 @@ inoremap <silent> <Left> <Esc>:bp<CR>gg
 inoremap <silent> <Right> <Esc>:bn<CR>gg
 inoremap <up> <nop>
 
-" }}}2
+" }}}
 
-" }}}1
+" }}}
 
-" map {{{1
+" map {{{
 
-" {{{2
+" {{{
 
 map <F1> <nop>
 map Q <nop>
 
-" }}}2
+" }}}
 
-" }}}1
+" }}}
 
-" nmap {{{1
+" nmap {{{
 
-" {{{2
+" {{{
 
 nmap <space> \
 nmap [z zM
@@ -83,13 +90,13 @@ nmap <s-k> <nop>
 nmap <s-k> <nop>
 nmap ]z zR
 
-" }}}2
+" }}}
 
-" }}}1
+" }}}
 
-" nnoremap {{{1
+" nnoremap {{{
 
-" {{{2
+" {{{
 
 " nnoremap <leader>s viw"0pb
 " nnoremap <silent> <leader>l <esc> normal if &ft == 'text' | normal '<esc>GG :r !date -u +"\%Y-\%m-\%dT\%H:\%M:\%SZ"<CR>zt A —' | endif
@@ -138,20 +145,20 @@ nnoremap <silent> <PageUp> <nop>
 " nnoremap <silent> <Right> <nop>
 
 
-" }}}2
+" }}}
 
-" }}}1
+" }}}
 
-" noremap {{{1
+" noremap {{{
 
-" {{{2
+" {{{
 
 " noremap <up> <nop>
 " noremap <down> <nop>
 
-" }}}2
+" }}}
 
-" {{{2
+" {{{
 "
 " surprisingly few mappings here.
 
@@ -174,23 +181,23 @@ noremap [Up] gk
 noremap j gj
 noremap k gk
 
-" }}}2
+" }}}
 
-" }}}1
+" }}}
 
-" vmap {{{1
+" vmap {{{
 
-" {{{2
+" {{{
 
 vmap <s-k> <nop>
 
-" }}}2
+" }}}
 
-" }}}1
+" }}}
 
-" vnoremap {{{1
+" vnoremap {{{
 
-" {{{2
+" {{{
 
 " vnoremap <leader>s "+p
 
@@ -202,13 +209,13 @@ vnoremap <silent> <Left> <Esc>:bp<CR>
 vnoremap <silent> gv :call VisualSearch('gv')<CR>
 vnoremap <up> <nop>
 
-" }}}2
+" }}}
 
-" }}}1
+" }}}
 
-" TODO: {{{1
+" TODO: {{{
 
-" TODO: set this up {{{2
+" TODO: set this up {{{
 
 " cmap <c-j> <esc>
 
@@ -218,11 +225,11 @@ vnoremap <up> <nop>
 
 " %!xmlformat --indent 2 --indent-char ' '  --preserve 'style foreignobject' --outencoding 'utf-8' -
 
-" }}}2
+" }}}
 
-" }}}1
+" }}}
 
-" Mouse {{{1
+" Mouse {{{
 
 " noremap <RightMouse> 
 
@@ -233,9 +240,61 @@ noremap <2-LeftMouse> :execute 'normal gF'<cr>
 noremap <3-LeftMouse> zA<cr>
 noremap <RightMouse> <nop>
 
-" }}}1
+" }}}
 
-" Dead Code {{{1
+" Change color schemes {{{
 
-" }}}1
+nnoremap <silent> 1<leader> <nop>
+nnoremap <silent> <leader>1 <esc>:colorscheme default<cr>:syntax off<cr>
+nnoremap <silent> <leader>2 <esc>:colorscheme wombat256mod<cr>:syntax off<cr>
+nnoremap <silent> <leader>3 <esc>:syntax off<cr>
+nnoremap <silent> <leader>4 <esc>:syntax on<cr>
+
+" }}}
+
+" omnisharp {{{
+
+nnoremap <leader>rn :OmniSharpRename<cr>
+nnoremap <leader>ca :OmniSharpGetCodeActions<cr>
+nnoremap <leader>cf :OmniSharpCodeFormat<cr>
+nnoremap <leader>nm :OmniSharpRename<cr>
+nnoremap <leader>rl :OmniSharpReloadSolution<cr>
+nnoremap <leader>sp :OmniSharpStopServer<cr>
+nnoremap <leader>ss :OmniSharpStartServer<cr>
+nnoremap <leader>th :OmniSharpHighlightTypes<cr>
+nnoremap <leader>tp :OmniSharpAddToProject<cr>
+vnoremap <leader>ga :call OmniSharp#GetCodeActions('visual')<cr>
+
+" }}}
+
+" unite {{{
+
+" nnoremap <leader>a :Unite -no-split history/yank<cr>
+" nnoremap <leader>b :Unite -prompt= -no-split -multi-line buffer<cr>
+" nnoremap <leader>f :<C-u>Unite -no-split -buffer-name=files   -start-insert file<cr>
+" nnoremap <leader>f :<C-u>Unite -no-split -buffer-name=files -multi-line -start-insert file<cr>
+" nnoremap <leader>j :<C-u>Unite -no-split -buffer-name=jump -multi-line -start-insert jump<cr>
+" nnoremap <leader>p <nop>
+" nnoremap <leader>r :<C-u>Unite -no-split -buffer-name=mru -start-insert file_mru<cr>
+" nnoremap <leader>s :Unite -no-split -quick-match -auto-preview buffer<cr>
+" nnoremap <leader>s :Unite -no-split -quick-match buffer<cr>
+" nnoremap <leader>t :<C-u>Unite -no-split -start-insert file_rec/async:!<CR>
+" nnoremap <leader>t :Unite -no-split -start-insert file_rec/async<cr>
+" nnoremap <leader>y :<C-u>Unite -no-split -buffer-name=yank    history/yank<cr>
+
+nnoremap <leader>g :<C-u>Unite -no-split -buffer-name=buffers -start-insert buffer<cr>
+nnoremap <leader>t :<C-u>Unite -no-split -buffer-name=files -no-auto-highlight -no-resize -no-cursor-line -start-insert file_rec/async:.<cr>
+nnoremap <leader>r :<C-u>Unite -no-split -buffer-name=files -no-auto-highlight -no-resize -no-cursor-line -start-insert neomru/file:.<cr>
+
+" What?  The ! makes this only go to the original directory - usually the
+" user's home directory.  It's a source argument— the target kirectories split
+" by newlines.
+
+" nnoremap <leader>t :<C-u>Unite -no-split -buffer-name=files -start-insert file_rec/async:!<cr>
+
+" }}}
+
+" Dead Code {{{
+
+" }}}
 

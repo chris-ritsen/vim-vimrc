@@ -25524,3 +25524,13 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
+iab fucdtuniion function
+iab relaiblilty reliability
+iab pritning printing
+iab chemes schemes
+iab initialiose initialise
+iab sourcs sources
+iab javaqscript javascript
+iab gerneral general
+iab sourcesa sources
+iab replavemetns replacements

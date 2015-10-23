@@ -351,6 +351,42 @@ autocmd! BufRead,BufNewFile colorscheme wombat256mod
 
 " }}}
 
+" omnisharp {{{
+
+augroup omnisharp_commands
+  autocmd!
+
+  if exists('g:OmniSharp_loaded')
+    " FIXME: check if OmniSharp has been loaded before adding these autocommands
+
+    autocmd! BufEnter,TextChanged,InsertLeave *.cs SyntasticCheck
+
+    " autocmd! BufWritePost *.cs call OmniSharp#AddToProject()
+    " autocmd! CursorHold *.cs call OmniSharp#TypeLookupWithoutDocumentation()
+
+    " autocmd! FileType cs nnoremap <C-J> :OmniSharpNavigateDown<cr>
+    " autocmd! FileType cs nnoremap <C-K> :OmniSharpNavigateUp<cr>
+    " autocmd! FileType cs nnoremap <leader>b :wa!<cr>:OmniSharpBuildAsync<cr>
+    " autocmd! FileType cs nnoremap <leader>dc :OmniSharpDocumentation<cr>
+    " autocmd! FileType cs nnoremap <leader>fi :OmniSharpFindImplementations<cr>
+    " autocmd! FileType cs nnoremap <leader>fm :OmniSharpFindMembers<cr>
+    " autocmd! FileType cs nnoremap <leader>fs :OmniSharpFindSymbol<cr>
+    " autocmd! FileType cs nnoremap <leader>ft :OmniSharpFindType<cr>
+    " autocmd! FileType cs nnoremap <leader>fu :OmniSharpFindUsages<cr>
+    " autocmd! FileType cs nnoremap <leader>fx :OmniSharpFixUsings<cr>
+    " autocmd! FileType cs nnoremap <leader>gd :OmniSharpGotoDefinition<cr>
+    " autocmd! FileType cs nnoremap <leader>tt :OmniSharpTypeLookup<cr>
+    " autocmd! FileType cs nnoremap <leader>x  :OmniSharpFixIssue<cr>
+    " autocmd! FileType cs setlocal omnifunc=OmniSharp#Complete
+
+    " autocmd FileType cs nnoremap <F5> :wa!<cr>:OmniSharpBuild<cr>
+
+  endif
+
+augroup END
+
+" }}}
+
 " Dead {{{1
 
 " augroup vimrc_autocmds
