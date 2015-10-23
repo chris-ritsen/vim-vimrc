@@ -9,6 +9,7 @@ iab ARrive Arrive
 iab Additonally Additionally
 iab Againl Again
 iab Alrifght Alright
+iab Alrignht Alright
 iab Ammmmontg Among
 iab Ammmost Almost
 iab Amnonbg Among
@@ -17,6 +18,7 @@ iab Amojgn Among
 iab Amonog Among
 iab Amoung Among
 iab Anothr Another
+iab Anyting Anything
 iab Apapprenlty Apparently
 iab Apaprenlty Apparently
 iab Apaprently Apparently
@@ -50,6 +52,7 @@ iab Buidsl Build
 iab Bujild Build
 iab Buuild Build
 iab Byt But
+iab CAncel Cancel
 iab CAtegiory Category
 iab CHeck Check
 iab CHris Chris
@@ -280,7 +283,9 @@ iab Descreibing Describing
 iab Descripotion Description
 iab Descriptin Description
 iab Descriptioun Description
+iab Descriptrion Description
 iab Descrition Description
+iab Descriuoption Description
 iab Descroption Description
 iab Descruiption Description
 iab Desfribling Describing
@@ -565,6 +570,7 @@ iab FUck Fuck
 iab FUnction Function
 iab Facbook Facebook
 iab Failry Fairly
+iab Falswe False
 iab Fbonacci Fibonacci
 iab Feelign Feeling
 iab Fibonacchi Fibonacci
@@ -1676,6 +1682,7 @@ iab Reqwriting Rewriting
 iab Rererence Reference
 iab Resaurant Restaurant
 iab Reselmving Resembling
+iab Respnose Response
 iab Respnsible Responsible
 iab Responsiblitiets Responsibilities
 iab Restauran Restaurant
@@ -1765,6 +1772,7 @@ iab SHooing Shooing
 iab SHoudl Should
 iab SHould Should
 iab SHow Show
+iab SHuipmetn Shipment
 iab SHure Shure
 iab SIlicate Silicate
 iab SImply Simply
@@ -1833,6 +1841,7 @@ iab Saybe Save
 iab Scewince Sconce
 iab Schecueling Scheduling
 iab Schemda Schema
+iab Scheudle Schedule
 iab Scienfific Scientific
 iab Scinence Science
 iab Scirpting Scripting
@@ -4018,6 +4027,7 @@ iab aranged arranged
 iab arangements arrangements
 iab arartment apartment
 iab ararys arrays
+iab araugmeents1 arguments
 iab aray array
 iab arbitrayr arbitrary
 iab arcaheic archaic
@@ -4101,6 +4111,7 @@ iab artcile article
 iab artguemtns arguments
 iab artguments arguments
 iab artgumetns arguments
+iab artgumnets arguments
 iab articdle article
 iab articel article
 iab articels articles
@@ -4130,9 +4141,11 @@ iab arugmemtns arguments
 iab arugmenets arguments
 iab arugments arguments
 iab arugmetns arguments
+iab arugnemtsn arguments
 iab arugnmetns arguments
 iab aruguments arguments
 iab aruments arguments
+iab arutgnents arguments
 iab arwe are
 iab asactions actions
 iab asafe safe
@@ -5592,6 +5605,7 @@ iab cdould could
 iab cdurrenlty currently
 iab cealn clean
 iab cealry clearly
+iab ceasesw ceases
 iab ceepeneidng depending
 iab ceffeine caffeine
 iab cehck check
@@ -6081,7 +6095,9 @@ iab cnsooel console
 iab cnsoole console
 iab cnsoolel console
 iab cnter center
+iab cntinute continue
 iab coarbon carbon
+iab cobnsole console
 iab cobntrol control
 iab cobsole console
 iab cocde code
@@ -10875,6 +10891,7 @@ iab folllw follow
 iab followign following
 iab follw follow
 iab follwoign following
+iab follwoing following
 iab follwos follows
 iab foloating floating
 iab foloow follow
@@ -13114,6 +13131,7 @@ iab intefaces interfaces
 iab intefval interval
 iab intefview interview
 iab intefviews interviews
+iab integetr integer
 iab integratied integrated
 iab inteintional intentional
 iab inteintions intentions
@@ -13357,6 +13375,7 @@ iab invovles involves
 iab invvocations invocations
 iab inw in
 iab inwared inward
+iab inwdow window
 iab inxtsead instead
 iab iobuvlsusy obviously
 iab iodiot idiot
@@ -15760,6 +15779,7 @@ iab nnubmer number
 iab no0w now
 iab noather another
 iab nobile noble
+iab node3 node
 iab nodeas ideas
 iab nodews nodes
 iab nodjes nodejs
@@ -19510,6 +19530,7 @@ iab retrived retrieved
 iab retuirn return
 iab retunr return
 iab retunred returned
+iab retur4n return
 iab returend returned
 iab returhn return
 iab returnb return
@@ -19550,12 +19571,14 @@ iab reuslt result
 iab reuslts results
 iab reusme resume
 iab reustlt result
+iab reutenr return
 iab reutirn return
 iab reutnr return
 iab reutnrn return
 iab reutnrsa returns
 iab reutrbn return
 iab reutrn return
+iab reutrrnt return
 iab revalation revelation
 iab revcoeringds recordings
 iab revcord record
@@ -19798,6 +19821,8 @@ iab rtoo too
 iab rturen return
 iab rtype type
 iab rueles rules
+iab ruetnrn return
+iab ruetrnt return
 iab rugelar regular
 iab rughly roughly
 iab rught right
@@ -20087,6 +20112,7 @@ iab scylinder cylinder
 iab scymbol symbol
 iab sdaome some
 iab sdata data
+iab sdaved saved
 iab sdays days
 iab sdcheduling scheduling
 iab sdcripts scripts
@@ -22129,6 +22155,7 @@ iab tabidnex tabindex
 iab tabinddx tabindex
 iab tabl3e table
 iab tablre table
+iab tabnle table
 iab tachistoscopic tachistoscopic
 iab tackel tackle
 iab tackeled tackled
@@ -23421,6 +23448,7 @@ iab troublishooting troubleshooting
 iab trpoue troupe
 iab trrying trying
 iab trscakpa trackpad
+iab trtue true
 iab trty try
 iab trtying trying
 iab truch truck
