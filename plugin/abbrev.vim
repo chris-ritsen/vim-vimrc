@@ -1817,6 +1817,7 @@ iab STomach Stomach
 iab STop Stop
 iab STrand Strand
 iab STrategist Strategist
+iab STruggling Struggling
 iab STsrt Start
 iab STudio Studio
 iab SUch Such
@@ -2315,6 +2316,7 @@ iab WAitign Waiting
 iab WAking Waking
 iab WAs Was
 iab WAsting Wasting
+iab WAtched Watched
 iab WAtchign Watching
 iab WAtching Watching
 iab WEHy Why
@@ -4062,6 +4064,7 @@ iab areee are
 iab aregular regular
 iab areguments arguments
 iab areldasy already
+iab arelday already
 iab aremies armies
 iab areound around
 iab arequire require
@@ -5568,6 +5571,7 @@ iab captiojn caption
 iab caqble cable
 iab caracter character
 iab carbed carved
+iab carbom carbon
 iab cardboarc cardboard
 iab cardboare cardboard
 iab cardbord cardboard
@@ -7144,6 +7148,7 @@ iab copmlicated complicated
 iab copmltelted completed
 iab copmltetd completed
 iab copmmand command
+iab copmmlex complex
 iab copmound compound
 iab copmpleeintg completing
 iab copmptouer computer
@@ -7561,6 +7566,7 @@ iab dbeing being
 iab dbenefit benefit
 iab dbug debug
 iab dcalled called
+iab dcan can
 iab dcanoot cannot
 iab dcapcacity capacity
 iab dcaptable capable
@@ -7819,6 +7825,7 @@ iab derbuggter debugger
 iab derbutgger debugger
 iab dercived derived
 iab dericed derived
+iab dericvved derived
 iab derire desire
 iab derivef derived
 iab derivitive derivative
@@ -8210,6 +8217,7 @@ iab difficut difficult
 iab difficutl difficult
 iab difficvulty difficulty
 iab difficyult difficult
+iab diffiecutl difficult
 iab diffifcuylty difficulty
 iab diffifilcut difficult
 iab diffiicultu difficult
@@ -8267,6 +8275,7 @@ iab dimsinished diminished
 iab dind didn
 iab dindentify identify
 iab dinmensions dimensions
+iab dinstead instead
 iab dinstintion distinction
 iab dioing doing
 iab diong doing
@@ -8427,6 +8436,7 @@ iab dishwahser dishwasher
 iab disiconnecdteds disconnected
 iab disiconnectd disconnected
 iab disintigrate disintegrate
+iab disintrerested disinterested
 iab disintrest disinterest
 iab disintrested disinterested
 iab disitionction distinction
@@ -8561,6 +8571,7 @@ iab distravdeted distracted
 iab distriobution distribution
 iab distrobution distribution
 iab distroubtion distribution
+iab distroyed destroyed
 iab distrracdiotn distraction
 iab distrracdtion distraction
 iab distrracting distracting
@@ -8726,6 +8737,7 @@ iab downoaoding downloading
 iab downoasd download
 iab downoload download
 iab downt down
+iab doz3ens dozens
 iab dpeendecey dependency
 iab dpeendecy dependency
 iab dpeendency dependency
@@ -10205,6 +10217,7 @@ iab exccisted existed
 iab exce exec
 iab excecpt except
 iab exceedinnly exceedingly
+iab exceeesive excessive
 iab exceiption exception
 iab excelelnt excellent
 iab excelent excellent
@@ -11659,6 +11672,7 @@ iab haove have
 iab hapahzardly haphazardly
 iab hapbit habit
 iab hapen happen
+iab hapepen happen
 iab hapepening happening
 iab hapepens happens
 iab hapepn happen
@@ -12230,6 +12244,7 @@ iab hunred hundred
 iab hunrededs hundreds
 iab hurtzs hurts
 iab hustband husband
+iab hva have
 iab hvae have
 iab hvave have
 iab hve have
@@ -14554,6 +14569,7 @@ iab lugin plugin
 iab luink link
 iab lukcyl lucky
 iab luke like
+iab luncgh lunch
 iab lunchr lunch
 iab luncyh lunch
 iab lunless unless
@@ -18070,6 +18086,7 @@ iab privacty privacy
 iab privatey private
 iab privude provide
 iab prject project
+iab prlonging prolonging
 iab pro3tect protect
 iab proablby probably
 iab proably probably
@@ -20720,6 +20737,7 @@ iab shouhld should
 iab shoul should
 iab shouldb should
 iab shouldu should
+iab shouled should
 iab shouls should
 iab shouod should
 iab shousld should
@@ -21831,6 +21849,7 @@ iab subjecddts subjects
 iab subjecdt subject
 iab subjecdyt subject
 iab subjecti subject
+iab subjedct subject
 iab subjet subject
 iab subjext subject
 iab subjhect subject
@@ -25673,22 +25692,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab carbom carbon
-iab exceeesive excessive
-iab distroyed destroyed
-iab dericvved derived
-iab hva have
-iab hapepen happen
-iab WAtched Watched
-iab subjedct subject
-iab diffiecutl difficult
-iab luncgh lunch
-iab shouled should
-iab copmmlex complex
-iab STruggling Struggling
-iab dinstead instead
-iab prlonging prolonging
-iab disintrerested disinterested
-iab dcan can
-iab doz3ens dozens
-iab arelday already
