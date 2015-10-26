@@ -25673,3 +25673,22 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
+iab carbom carbon
+iab exceeesive excessive
+iab distroyed destroyed
+iab dericvved derived
+iab hva have
+iab hapepen happen
+iab WAtched Watched
+iab subjedct subject
+iab diffiecutl difficult
+iab luncgh lunch
+iab shouled should
+iab copmmlex complex
+iab STruggling Struggling
+iab dinstead instead
+iab prlonging prolonging
+iab disintrerested disinterested
+iab dcan can
+iab doz3ens dozens
+iab arelday already
