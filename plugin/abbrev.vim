@@ -6978,6 +6978,7 @@ iab continueed continued
 iab continugetnt contingent
 iab continuiing continuing
 iab continuiously continuously
+iab continuisly continuously
 iab continuiysly continuously
 iab continuoally continually
 iab continuoing continuing
@@ -7003,6 +7004,7 @@ iab contiunuous continuous
 iab contiunuum continuum
 iab contiunyous continuous
 iab contiuous continuous
+iab contiynue continue
 iab contiyually continually
 iab contmeinue continue
 iab contnent continent
@@ -14193,6 +14195,7 @@ iab leevel level
 iab leeveled leveled
 iab lefft left
 iab lefhevel level
+iab leftmostm leftmost
 iab lefvel level
 iab legaciy legacy
 iab legaciyy legacy
