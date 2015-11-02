@@ -8602,6 +8602,7 @@ iab distarfcted distracted
 iab distarscetd distasted
 iab distcount discount
 iab distfaction distraction
+iab disticntion distinction
 iab distincldty distinctly
 iab distinclty distinctly
 iab distinghuish distinguish
@@ -8655,6 +8656,7 @@ iab distrating distracting
 iab distration distraction
 iab distrations distractions
 iab distravdeted distracted
+iab distrinoction distinction
 iab distriobution distribution
 iab distrobution distribution
 iab distroubtion distribution
@@ -11818,10 +11820,12 @@ iab happnes happens
 iab happngin happening
 iab happpend happened
 iab hapyl haply
+iab hardely hardly
 iab hardeware hardware
 iab hardley hardly
 iab hardnly hardly
 iab hardrly hardly
+iab hardsly hardly
 iab hardsware hardware
 iab hardwer harder
 iab haredly hardly
@@ -17945,6 +17949,7 @@ iab potioentooal potential
 iab poudn pound
 iab pouplar popular
 iab poutting putting
+iab powe3rful powerful
 iab ppareiciatedc appreciated
 iab pparition apparition
 iab pperformances performances
@@ -18730,6 +18735,7 @@ iab qalready already
 iab qas as
 iab qat at
 iab qaulity quality
+iab qaverage average
 iab qbout about
 iab qemyu qemu
 iab qeustions questions
@@ -19588,6 +19594,7 @@ iab requirmeents requirements
 iab requirment requirement
 iab requisidte requisite
 iab requist request
+iab requistite requisite
 iab requitrre require
 iab requitrsyt request
 iab requiwre require
@@ -22282,6 +22289,7 @@ iab survial survival
 iab surviival survival
 iab survivee survive
 iab survivial survival
+iab susage usage
 iab suscepbible susceptible
 iab suscetible susceptible
 iab suscpeitble susceptible
