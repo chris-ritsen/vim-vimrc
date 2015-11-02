@@ -2,6 +2,8 @@
 cab GIt Git
 iab ... …
 iab ABout About
+iab ACttive Active
+iab ACtually Actually
 iab AFter After
 iab ALright Alright
 iab ANgular Angular
@@ -85,6 +87,7 @@ iab Chires Chris
 iab Chirs Chris
 iab Chirsa Chris
 iab Chiuld Child
+iab Chnage Change
 iab Chorme Chrome
 iab Chrid Chris
 iab Chriopshbteer Christopher
@@ -290,7 +293,9 @@ iab Descreibing Describing
 iab Descripotion Description
 iab Descriptin Description
 iab Descriptioun Description
+iab Descriptoin Description
 iab Descriptrion Description
+iab Descriptuiobn Description
 iab Descrition Description
 iab Descriuoption Description
 iab Descroption Description
@@ -551,6 +556,7 @@ iab FIgure Figure
 iab FIle File
 iab FIles Files
 iab FIleter Filter
+iab FIlter Filter
 iab FInsiehd Finished
 iab FInsihed Finished
 iab FInsxiehde Finished
@@ -612,6 +618,7 @@ iab Frequienetly Frequently
 iab Frisday Friday
 iab Froget Forget
 iab Frozyen Frozen
+iab Fucndtion Function
 iab Fuction Function
 iab Functoins Functions
 iab GBut But
@@ -1078,6 +1085,7 @@ iab Loadign Loading
 iab Loadigng Loading
 iab Loadiogn Loading
 iab Loafd Load
+iab Locatiosn Locations
 iab Londom London
 iab Looiking Looking
 iab Loondon London
@@ -1777,6 +1785,7 @@ iab SElecft Select
 iab SEnding Sending
 iab SErfvral Several
 iab SErver Server
+iab SErvice Service
 iab SEt Set
 iab SEtup Setup
 iab SEveral Several
@@ -1785,6 +1794,7 @@ iab SHDC SDHC
 iab SHaszam Shazam
 iab SHe She
 iab SHipmenbt Shipment
+iab SHipment Shipment
 iab SHipmetn Shipment
 iab SHoles Sholes
 iab SHooing Shooing
@@ -2865,6 +2875,7 @@ iab acetion action
 iab acetominiphen acetaminophen
 iab acfessing accessing
 iab acfuracy accuracy
+iab acgitve active
 iab acgive active
 iab acheive achieve
 iab acheived achieved
@@ -2956,6 +2967,7 @@ iab actiuve active
 iab actiuvely actively
 iab activbity activity
 iab activbyt activity
+iab activeate activate
 iab activeated activated
 iab actived activated
 iab activetiy activity
@@ -4191,6 +4203,7 @@ iab arugnemtsn arguments
 iab arugnmetns arguments
 iab aruguments arguments
 iab aruments arguments
+iab arumgnets arguments
 iab arutgnents arguments
 iab arwe are
 iab asactions actions
@@ -4256,6 +4269,7 @@ iab assicuate associate
 iab assige assign
 iab assighnetd assigned
 iab assignmnet assignment
+iab assing assign
 iab assistancte assistance
 iab assistence assistance
 iab assit assist
@@ -4516,6 +4530,7 @@ iab availbe available
 iab availbel available
 iab availble available
 iab availblle available
+iab availqble available
 iab avaiod avoid
 iab avalable available
 iab avaluable available
@@ -5530,6 +5545,7 @@ iab callServbice callService
 iab callabsck callback
 iab callbackews callbacks
 iab callbacl callback
+iab callbadck callback
 iab callbak callback
 iab calledf called
 iab callvbadck callback
@@ -5773,6 +5789,7 @@ iab chaneged changed
 iab chanenl channel
 iab changecde changed
 iab changeddd changed
+iab changede changed
 iab changeed changed
 iab changinf changing
 iab changking changing
@@ -5840,6 +5857,7 @@ iab chekced checked
 iab chekcehr checker
 iab chekcer checker
 iab chekcing checking
+iab chekck check
 iab chekcs checks
 iab chekcsum checksum
 iab chekfher checker
@@ -6157,6 +6175,7 @@ iab cnosooe console
 iab cnsider consider
 iab cnsoel console
 iab cnsole console
+iab cnsooe console
 iab cnsooel console
 iab cnsoole console
 iab cnsoolel console
@@ -7319,6 +7338,7 @@ iab couls could
 iab coumpany company
 iab cound count
 iab counteruulture counterculture
+iab countiresi countries
 iab countriers countries
 iab countriess countries
 iab couople couple
@@ -7666,6 +7686,7 @@ iab debugeer debugger
 iab debugegr debugger
 iab debuger debugger
 iab debugfer debugger
+iab debugg3er debugger
 iab debuggeer debugger
 iab debuggger debugger
 iab debuggggger debugger
@@ -7969,6 +7990,7 @@ iab destionation destination
 iab destionaton destination
 iab destitation destination
 iab destitude destitute
+iab destnation destination
 iab destoroying destroying
 iab destory destroy
 iab destoryed destroyed
@@ -8884,6 +8906,7 @@ iab dstyle style
 iab dsuggestws suggests
 iab dswecond second
 iab dswign design
+iab dtaa data
 iab dtaht that
 iab dtake take
 iab dtalked talked
@@ -8930,6 +8953,7 @@ iab durinfg during
 iab duringa during
 iab dusplay display
 iab dustracted distracted
+iab dutncdtion function
 iab dutring during
 iab dveam dream
 iab dveeloper developer
@@ -9352,6 +9376,7 @@ iab electrrical electrical
 iab eledtric electric
 iab eleemtn element
 iab eleemtns elements
+iab eleentn element
 iab eleft left
 iab eleictrical electrical
 iab eleids eyelids
@@ -9361,6 +9386,7 @@ iab elemenbts elements
 iab elemenet element
 iab elementaery elementary
 iab elementayr elementary
+iab elementb element
 iab elementes elements
 iab elementsa elements
 iab elemetn element
@@ -9808,6 +9834,7 @@ iab eqasier easier
 iab eqasyt easy
 iab eqaully equally
 iab eqcuse excuse
+iab eqiupment equipment
 iab eqlaly equally
 iab eqllaly equally
 iab eqlually equally
@@ -9822,6 +9849,7 @@ iab equiavalence equivalence
 iab equilibirum equilibrium
 iab equioeonetb equipment
 iab equioment equipment
+iab equiompent equipment
 iab equioopment equipment
 iab equiopment equipment
 iab equiopmetn equipment
@@ -10270,6 +10298,7 @@ iab excelent excellent
 iab excell excel
 iab excellencing excellencies
 iab exceot except
+iab exceptioin exception
 iab excercise exercise
 iab excercising exercising
 iab excexsive excessive
@@ -10869,6 +10898,7 @@ iab filmkaers filmmakers
 iab filmkmakers filmmakers
 iab filmn film
 iab filpmlmakers filmmakers
+iab filt3sr filters
 iab filterablre filterable
 iab filterd filtered
 iab filterse filters
@@ -11235,6 +11265,7 @@ iab fuckkkkgin fucking
 iab fucklers fuckers
 iab fucling fucking
 iab fuclker fucker
+iab fucndetion function
 iab fucndtion function
 iab fucndtionaltity functionality
 iab fucndtions functions
@@ -11278,6 +11309,7 @@ iab funamental fundamental
 iab funamentally fundamentally
 iab funcamantela fundamental
 iab funcdetion function
+iab funcdtiON function
 iab funcdtion function
 iab funcdtional functional
 iab funcdtionality functionality
@@ -13881,6 +13913,7 @@ iab keey keep
 iab keeyp keep
 iab kefbeard keyboard
 iab kegyboard keyboard
+iab kehys keys
 iab kekbyared keyboard
 iab kekeping keeping
 iab kepe keep
@@ -14470,6 +14503,7 @@ iab lkocation location
 iab llamma llama
 iab lleast least
 iab llg log
+iab llgo log
 iab lllapttop laptop
 iab lllast last
 iab lllog log
@@ -15078,6 +15112,7 @@ iab metarial material
 iab metehodilogy methodology
 iab methadologiest methodologies
 iab methd method
+iab methdo method
 iab methodoligies methodologies
 iab meticoulously meticulously
 iab metiond mentioned
@@ -16141,6 +16176,7 @@ iab objecvt object
 iab objefct object
 iab objesdts objects
 iab objet object
+iab objetct object
 iab objetions objections
 iab objetive objective
 iab objets objects
@@ -16643,6 +16679,7 @@ iab organizsms organisms
 iab organiztionsal organizational
 iab organizzing organizing
 iab organziing organizing
+iab orgini origin
 iab orgnaised organised
 iab orhanization organization
 iab oribianl original
@@ -19444,6 +19481,7 @@ iab repsoisitioned repositioned
 iab repsond respond
 iab repsonded responded
 iab repsonds responds
+iab repsonese response
 iab repsonosible responsible
 iab repsonse response
 iab repsonsibilities responsibilities
@@ -20289,6 +20327,7 @@ iab scopres scores
 iab scorll scroll
 iab scorp scope
 iab scould could
+iab scpope scope
 iab scqale scale
 iab scratchning scratching
 iab scratech scratch
@@ -20727,6 +20766,7 @@ iab sewction section
 iab sewems seems
 iab sewitdgched switched
 iab sewlect select
+iab sewlected selected
 iab sewprrate separate
 iab sewrver server
 iab sewrviece service
@@ -20786,6 +20826,7 @@ iab shipemtnwe shipment
 iab shipes ships
 iab shipmehnt shipment
 iab shipmentREsponsde shipmentResponse
+iab shipmeptn shipment
 iab shipmetn shipment
 iab shipmetns shipments
 iab shipmewnt shipment
@@ -20862,6 +20903,7 @@ iab shuipment shipment
 iab shulffle shuffle
 iab shumpment shipment
 iab shup ship
+iab shupment shipment
 iab shurely surely
 iab shxousl should
 iab siad said
@@ -21643,6 +21685,7 @@ iab statrt start
 iab statsu status
 iab staty stay
 iab statyus status
+iab stawet state
 iab stawrt start
 iab stawrted started
 iab stayrtup startup
@@ -22259,6 +22302,7 @@ iab sweathces swatches
 iab sweawt sweat
 iab swent went
 iab swereverd swerved
+iab swerver server
 iab swetp swept
 iab swetup setup
 iab sweveral several
@@ -23307,6 +23351,7 @@ iab tirple triple
 iab tirvial trivial
 iab tisuee tissue
 iab titanim titanium
+iab titgle title
 iab titilating titillating
 iab tiveated activated
 iab tiyping typing
@@ -24530,6 +24575,7 @@ iab veeryday everyday
 iab vefifying verifying
 iab vefiified verified
 iab vefirosn version
+iab vehciel vehicle
 iab vehivcles vehicles
 iab veify verify
 iab velictity velocity
@@ -24584,6 +24630,7 @@ iab vfalse false
 iab vhabanga bhavanga
 iab vhanged changed
 iab vhat what
+iab vheicle vehicle
 iab vibraritons vibrations
 iab vicitim victim
 iab vicitm victim
@@ -24687,6 +24734,7 @@ iab vorthy worthy
 iab vots votes
 iab vould would
 iab vovws vows
+iab vqr var
 iab vrazzy crazy
 iab vresions versions
 iab vriables variables
