@@ -7768,6 +7768,7 @@ iab deepend deepen
 iab deeping deeply
 iab deeprer deeper
 iab deetail detail
+iab deevelppoed developed
 iab defailts defaults
 iab defauolt default
 iab defautls defaults
@@ -13158,6 +13159,7 @@ iab iniitla initial
 iab iniline inline
 iab ininitalize initialize
 iab inintiate initiate
+iab inishgt insight
 iab inistalling installing
 iab initail initial
 iab initailise initialise
@@ -13656,6 +13658,7 @@ iab irght right
 iab iridescnet iridescent
 iab irmpotaarnt important
 iab irmptarnt important
+iab irreducable irreducible
 iab irreellvant irrelevant
 iab irrelelevant irrelevant
 iab irrelelvant irrelevant
@@ -15498,6 +15501,7 @@ iab moinute minute
 iab moinutes minutes
 iab moiscelanneus miscellaneous
 iab moiton motion
+iab moitviations motivations
 iab mokeys monkeys
 iab molecuoe molecule
 iab molegule molecule
@@ -21089,6 +21093,7 @@ iab singlas signals
 iab singlyular singular
 iab singnal signal
 iab sinificance significance
+iab sinight insight
 iab sinmce since
 iab sinply simply
 iab sintead instead
