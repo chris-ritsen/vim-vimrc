@@ -74,7 +74,7 @@ let g:NERDTreeIgnore = [
   \ ]
 
 let g:NERDTreeShowLineNumbers = 0
-let g:NERDTreeWinSize='23'
+let g:NERDTreeWinSize='18'
 
 " }}}2
 
