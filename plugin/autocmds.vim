@@ -340,12 +340,12 @@ autocmd! BufRead,BufNewFile *XpoNlm.XpoNlm.Web/main/**.inc setlocal filetype=asp
 " }}}1
 
 " Notes {{{
-"
+
 autocmd! FileType vidir-ls setlocal tw=0
 
-autocmd! BufRead,BufNewFile ~/.documents/notes nnoremap <silent> <leader>l :r !date -u +"\%Y-\%m-\%dT\%H:\%M:\%SZ"<CR>zt A — 
-autocmd! BufRead,BufNewFile ~/Documents/notes nnoremap <silent> <leader>l :r !date -u +"\%Y-\%m-\%dT\%H:\%M:\%SZ"<CR>zt A — 
-autocmd! BufRead,BufNewFile notes nnoremap <silent> <leader>l :r !date -u +"\%Y-\%m-\%dT\%H:\%M:\%SZ"<CR>zt A — 
+autocmd! BufRead,BufNewFile ~/.documents/notes nnoremap <silent> <leader>l <esc>G :r !date -u +"\%Y-\%m-\%dT\%H:\%M:\%SZ"<CR>zt A — 
+autocmd! BufRead,BufNewFile ~/Documents/notes nnoremap <silent> <leader>l <esc>G :r !date -u +"\%Y-\%m-\%dT\%H:\%M:\%SZ"<CR>zt A — 
+autocmd! BufRead,BufNewFile notes nnoremap <silent> <leader>l G :r !date -u +"\%Y-\%m-\%dT\%H:\%M:\%SZ"<CR>zt A — 
 autocmd! BufRead,BufNewFile notes set filetype=text 
 autocmd! BufRead,BufNewFile colorscheme wombat256mod
 

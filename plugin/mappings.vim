@@ -119,9 +119,8 @@ nnoremap <silent> <down> 7<c-e>
 nnoremap <silent> <Leader>e :e<CR>
 nnoremap <silent> <leader>N :NERDTreeToggle<CR>
 nnoremap <silent> <leader>h :noh<CR>
-nnoremap <silent> <leader>l <esc>GG :r !date -u +"\%Y-\%m-\%dT\%H:\%M:\%SZ"<CR>zt A — 
 nnoremap <silent> <leader>n :NERDTreeFind<CR>
-nnoremap <silent>x x:call Redefine_x_ForVirtualEdit()<CR>
+nnoremap <silent> x x:call Redefine_x_ForVirtualEdit()<CR>
 
 " nnoremap <up> <nop>
 
