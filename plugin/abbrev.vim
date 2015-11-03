@@ -1935,6 +1935,7 @@ iab Shipmetns Shipments
 iab Shiupment Shipment
 iab Shoudl Should
 iab Shovitng Shoving
+iab Shpemtnets Shipments
 iab Shphinx Sphinx
 iab Shyut Shout
 iab Sigmundsoson Sigmundsson
@@ -3216,6 +3217,7 @@ iab aftere after
 iab afternoono afternoon
 iab aftert after
 iab aftions actions
+iab aftive active
 iab aftrer after
 iab aftually actually
 iab agagain again
@@ -3246,6 +3248,7 @@ iab aginst against
 iab agmaes games
 iab agnecy agency
 iab agnet agent
+iab agnular angular
 iab agop ago
 iab agpe page
 iab agqin again
@@ -4003,6 +4006,7 @@ iab appllying applying
 iab applocation application
 iab applpication application
 iab appluading applauding
+iab appluied applied
 iab applyied applied
 iab applyu apply
 iab appoication application
@@ -4337,6 +4341,7 @@ iab atatacked attacked
 iab atatacker attacker
 iab atatainment attainment
 iab atatcghecd attached
+iab atctive active
 iab atececendent antecedent
 iab atececent antecedent
 iab atecedent antecedent
@@ -4509,6 +4514,7 @@ iab automaticalkly automatically
 iab automaticallt automatically
 iab automaticaly automatically
 iab automaticalyl automatically
+iab automaticaqlly automatically
 iab automaticaslly automatically
 iab automaticayll automatically
 iab automaticdally automatically
@@ -4578,12 +4584,15 @@ iab avoidddds avoids
 iab avoididng avoiding
 iab avoidign avoiding
 iab avove above
+iab avre var
 iab avrerage average
 iab awaerness awareness
 iab awant want
+iab awardded awarded
 iab awardsed awarded
 iab awarew aware
 iab awarning warning
+iab awarxded awarded
 iab awas was
 iab awatned wanted
 iab awatwer water
@@ -6686,6 +6695,7 @@ iab concsious conscious
 iab concsiousness consciousness
 iab concsioyus conscious
 iab concsoisu conscious
+iab concsole console
 iab conctrol control
 iab conctrollers controllers
 iab conculsion conclusion
@@ -6922,6 +6932,7 @@ iab conslle console
 iab consloe console
 iab consoe console
 iab consoel console
+iab consoele console
 iab consoeo console
 iab consoicue conscious
 iab consoiousness consciousness
@@ -7485,6 +7496,7 @@ iab cshift shift
 iab cslassical classical
 iab cslhtoes clothes
 iab csna can
+iab csnoeole console
 iab csonoele console
 iab csot cost
 iab csuotmer customer
@@ -7642,6 +7654,7 @@ iab dayus days
 iab dayzs days
 iab dbeing being
 iab dbenefit benefit
+iab dbuebbegert debugger
 iab dbug debug
 iab dcalled called
 iab dcan can
@@ -9406,6 +9419,7 @@ iab eleictrical electrical
 iab eleids eyelids
 iab elelcation elevation
 iab elelctriicity electricity
+iab elelemtn element
 iab elemenbts elements
 iab elemenet element
 iab elementaery elementary
@@ -10056,6 +10070,7 @@ iab etxst text
 iab euations equations
 iab euerope europe
 iab euqaloly equally
+iab euqipment equipment
 iab euqiuopment equipment
 iab euqwoipemtn equipment
 iab eurpe europe
@@ -10929,6 +10944,7 @@ iab filmkaers filmmakers
 iab filmkmakers filmmakers
 iab filmn film
 iab filpmlmakers filmmakers
+iab filred fired
 iab filt3sr filters
 iab filterablre filterable
 iab filterd filtered
@@ -11144,6 +11160,7 @@ iab forxed forced
 iab fot for
 iab foten often
 iab foth forth
+iab fotoer footer
 iab foucs focus
 iab foudn found
 iab foudned founded
@@ -12634,6 +12651,7 @@ iab imperihative imperative
 iab imperitive imperative
 iab impermenanty impermanent
 iab imperrct imperfect
+iab impersinonationg impersonating
 iab impersonarting impersonating
 iab impitrtant important
 iab implannts implants
@@ -14345,6 +14363,7 @@ iab lenght length
 iab lenghtens lengthens
 iab lenghth length
 iab lenghty lengthy
+iab lengtb length
 iab leqast least
 iab leran learn
 iab lerngth length
@@ -19413,6 +19432,7 @@ iab removeing removing
 iab removew remove
 iab removingin removing
 iab rempaping remapping
+iab remplate template
 iab remplately remotely
 iab rempotely remotely
 iab remvbever revolver
@@ -19876,6 +19896,7 @@ iab reuquest request
 iab reuquired required
 iab reuquirements requirements
 iab reurn return
+iab reurrnt return
 iab reurtn return
 iab reurtnr return
 iab reurtrn return
@@ -20554,6 +20575,7 @@ iab selctor selector
 iab seldcltor selector
 iab seldem seldom
 iab seldonm seldom
+iab selec3td selected
 iab selecdt select
 iab selecdtion selection
 iab selecdtor selector
@@ -20855,6 +20877,7 @@ iab shewlveset shelveset
 iab shhall shall
 iab shie she
 iab shiepment shipment
+iab shiepmetns shipments
 iab shiftwed shifted
 iab shimpemtns shipments
 iab shiop ship
@@ -22577,6 +22600,7 @@ iab targetdt5d targeted
 iab targetdted targeted
 iab targeteted targeted
 iab targetgec targeted
+iab targetr target
 iab targetted targeted
 iab targetting targeting
 iab targtded targeted
@@ -25911,4 +25935,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab automaticaqlly automatically
