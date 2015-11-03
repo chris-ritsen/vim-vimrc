@@ -343,11 +343,14 @@ autocmd! BufRead,BufNewFile *XpoNlm.XpoNlm.Web/main/**.inc setlocal filetype=asp
 
 autocmd! FileType vidir-ls setlocal tw=0
 
-autocmd! BufRead,BufNewFile ~/.documents/notes nnoremap <silent> <leader>l <esc>G :r !date -u +"\%Y-\%m-\%dT\%H:\%M:\%SZ"<CR>zt A — 
-autocmd! BufRead,BufNewFile ~/Documents/notes nnoremap <silent> <leader>l <esc>G :r !date -u +"\%Y-\%m-\%dT\%H:\%M:\%SZ"<CR>zt A — 
+" TODO: I really want this!
+autocmd! BufEnter,BufWinEnter,WinEnter notes execute "normal zt"
+
+autocmd! BufRead,BufNewFile colorscheme wombat256mod
 autocmd! BufRead,BufNewFile notes nnoremap <silent> <leader>l G :r !date -u +"\%Y-\%m-\%dT\%H:\%M:\%SZ"<CR>zt A — 
 autocmd! BufRead,BufNewFile notes set filetype=text 
-autocmd! BufRead,BufNewFile colorscheme wombat256mod
+autocmd! BufRead,BufNewFile ~/.documents/notes nnoremap <silent> <leader>l <esc>G :r !date -u +"\%Y-\%m-\%dT\%H:\%M:\%SZ"<CR>zt A — 
+autocmd! BufRead,BufNewFile ~/Documents/notes nnoremap <silent> <leader>l <esc>G :r !date -u +"\%Y-\%m-\%dT\%H:\%M:\%SZ"<CR>zt A — 
 
 " }}}
 
@@ -397,7 +400,7 @@ augroup END
 "autocmd BufReadPre * setlocal foldmethod=indent
 "autocmd BufWinEnter * if &fdm == 'indent' | setlocal foldmethod=manual | endif
 "autocmd BufWinEnter *.* if expand("%") != "" | loadview | endif
-"autocmd BufWinLve *.* if expand("%") != "" | mkview! | endif
+"autocmd BufWinLeave *.* if expand("%") != "" | mkview! | endif
 "autocmd CursorHold * if getcmdwintype() == '' | checktime | endif
 "autocmd CursorMoved * exe printf('match IncSearch /\V\<%s\>/', escape(expand('<cword>'), '/\'))
 "autocmd FileChangedShell * if getcmdwintype() == '' | checktime | endif
@@ -420,4 +423,6 @@ augroup END
 "autocmd! CursorHold * silent checktime
 
 " }}}1
+
+" TODO: CmdUndefined - FuncUndefined
 
