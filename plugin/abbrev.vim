@@ -38,6 +38,7 @@ iab Atetmpt Attempt
 iab Attenmptinug Attempting
 iab Atuoamtically Automatically
 iab Authenticatyions Authentications
+iab Automaatically Automatically
 iab Availablility Availability
 iab BOot Boot
 iab BROWSEWR BROWSER
@@ -9143,6 +9144,7 @@ iab ecercise exercise
 iab ecercises exercises
 iab eceryrhting everything
 iab ecet except
+iab echjo echo
 iab ecistence existence
 iab ecistewd existed
 iab ecited excited
@@ -13670,6 +13672,7 @@ iab irrelevlevant irrelevant
 iab irresistable irresistible
 iab irreveltant irrelevant
 iab irrevelvant irrelevant
+iab irreverewnt irreverent
 iab irreversable irreversible
 iab irrevlevent irrelevant
 iab irritiating irritating
@@ -25924,6 +25927,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab echjo echo
-iab irreverewnt irreverent
-iab Automaatically Automatically
