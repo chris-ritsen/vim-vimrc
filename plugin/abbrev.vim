@@ -12,6 +12,7 @@ iab ARrive Arrive
 iab AVoiding Avoiding
 iab Additonally Additionally
 iab Againl Again
+iab Aircaraft Aircraft
 iab Alrealduy Already
 iab Alrifght Alright
 iab Alrignht Alright
@@ -484,7 +485,9 @@ iab Enteringt Entering
 iab Enthysuasm Enthusiasm
 iab Enttities Entities
 iab Episoddic Episodic
+iab Equipmetn Equipment
 iab Equlally Equally
+iab Equopment Equipment
 iab Eqwual Equal
 iab Erectiopn Erection
 iab Eriik Erik
@@ -2332,7 +2335,10 @@ iab Uusinh Using
 iab Uusually Usually
 iab VAlidate Validate
 iab VArying Varying
+iab VEchiel Vehicle
 iab VEhciel Vehicle
+iab VEhcile Vehicle
+iab VEhicle Vehicle
 iab VErsion Version
 iab VEry Very
 iab VIdoes Videos
@@ -2341,10 +2347,18 @@ iab Vakye Value
 iab Valeuy Value
 iab Valyue Value
 iab Vancoiver Vancouver
+iab Vehcile Vehicle
 iab Vehciles Vehicles
+iab Vehdcile Vehicle
+iab Vehfcile Vehicle
+iab Vehicel Vehicle
+iab Vehicle Vehicle
 iab Vehicoe Vehicle
 iab Verty Very
 iab Veryu Very
+iab Vhecile Vehicle
+iab Vhedile Vehicle
+iab Vheicdle Vehicle
 iab Vheicle Vehicle
 iab Videio Video
 iab Vidoe Video
@@ -6298,6 +6312,7 @@ iab collegles colleagues
 iab collegs colleges
 iab collegues colleagues
 iab colletion collection
+iab collexted collected
 iab collisons collisions
 iab collor color
 iab collors colors
@@ -19896,6 +19911,7 @@ iab retuyrn return
 iab retyrb return
 iab retyurn return
 iab reuest request
+iab reuglar regular
 iab reuglarly regularly
 iab reuinion reunion
 iab reuinite reunite
@@ -23978,6 +23994,7 @@ iab twuqeiton question
 iab twvelve twelve
 iab twxt text
 iab tyep type
+iab tyeps types
 iab tyhat that
 iab tyhere there
 iab tyhese these
@@ -24734,6 +24751,8 @@ iab vhabanga bhavanga
 iab vhanged changed
 iab vhat what
 iab vheicle vehicle
+iab vheilce vehicle
+iab vheilcle vehicle
 iab vibraritons vibrations
 iab vicitim victim
 iab vicitm victim
