@@ -2320,6 +2320,7 @@ iab Unspeciified Unspecified
 iab Unsuppoorted Unsupported
 iab Upgradign Upgrading
 iab Upgradingin Upgrading
+iab Usede Used
 iab Useranem Username
 iab Usign Using
 iab Usin Using
@@ -4590,6 +4591,7 @@ iab avrerage average
 iab awaerness awareness
 iab awant want
 iab awardded awarded
+iab awardeed awarded
 iab awardsed awarded
 iab awarew aware
 iab awarning warning
@@ -5210,6 +5212,7 @@ iab booko book
 iab booksheleves bookshelves
 iab bookw books
 iab booleanins booleans
+iab boostrap bootstrap
 iab bootabl bootable
 iab bootstrrap bootstrap
 iab bopoks books
@@ -9442,6 +9445,7 @@ iab elemnt element
 iab elemnte element
 iab elemntes elements
 iab elemtns elements
+iab elemtnt element
 iab eles else
 iab eletrco electro
 iab eletric electric
@@ -10978,6 +10982,7 @@ iab fingettips fingertips
 iab finggers fingers
 iab finially finally
 iab finihs finish
+iab finihsed finished
 iab finihshed finished
 iab finihsing finishing
 iab finisahed finished
@@ -19580,6 +19585,7 @@ iab reqquired required
 iab reqquisite requisite
 iab reqrite rewrite
 iab reqruit recruit
+iab reqsponse response
 iab requapment equipment
 iab requeast request
 iab requeist request
@@ -21229,6 +21235,7 @@ iab sleepp sleep
 iab slef self
 iab slehf shelf
 iab slelctecd selected
+iab slelecfewd selected
 iab slelected selected
 iab slepe sleep
 iab slepeing sleeping
@@ -24418,6 +24425,7 @@ iab upate update
 iab updaated updated
 iab updaates updates
 iab updaet update
+iab updateign updating
 iab updateing updating
 iab updatesa updates
 iab updatg update
