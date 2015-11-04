@@ -6377,6 +6377,7 @@ iab comflicted conflicted
 iab comfnusing confusing
 iab comforable comfortable
 iab comforatasbly comfortably
+iab comforatble comfortable
 iab comforatbly comfortably
 iab comfortalbe comfortable
 iab comfortant comfort
@@ -6696,6 +6697,7 @@ iab concerneda concerned
 iab concerneed concerned
 iab concernes concerns
 iab concerntarte concentrate
+iab concetrt concert
 iab concferenc3 conference
 iab concflicts conflicts
 iab concice concise
@@ -13258,6 +13260,7 @@ iab inmporatnat important
 iab inmportant important
 iab inmprotant important
 iab innacurate inaccurate
+iab innefective ineffective
 iab inneumerable innumerable
 iab innfinite infinite
 iab innivation innovation
@@ -14424,6 +14427,7 @@ iab lerss less
 iab lesast least
 iab lesat least
 iab lesds less
+iab lese else
 iab leters letters
 iab letteer letter
 iab lettesr letters
@@ -16132,6 +16136,7 @@ iab nonesense nonsense
 iab nonly only
 iab nonme none
 iab nonsese nonsense
+iab nooise noise
 iab nopt not
 iab nopthbing nothing
 iab noqw now
@@ -17019,6 +17024,7 @@ iab p4riohperals peripherals
 iab pRIntring Printing
 iab pRobably Probably
 iab pa4rtuciar particular
+iab paackages packages
 iab paaper paper
 iab paassword password
 iab paast past
@@ -19990,6 +19996,7 @@ iab revgentge revenge
 iab revieede reviewed
 iab revieing reviewing
 iab revieiwng reviewing
+iab reviererwer reviewer
 iab reviers reviewers
 iab revierw review
 iab revieve receive
