@@ -344,13 +344,29 @@ autocmd! BufRead,BufNewFile *XpoNlm.XpoNlm.Web/main/**.inc setlocal filetype=asp
 autocmd! FileType vidir-ls setlocal tw=0
 
 " TODO: I really want this!
-autocmd! BufEnter,BufWinEnter,WinEnter notes execute "normal zt"
+" autocmd! BufEnter,BufWinEnter,WinEnter notes execute "normal zt"
 
 autocmd! BufRead,BufNewFile colorscheme wombat256mod
 autocmd! BufRead,BufNewFile notes nnoremap <silent> <leader>l G :r !date -u +"\%Y-\%m-\%dT\%H:\%M:\%SZ"<CR>zt A — 
 autocmd! BufRead,BufNewFile notes set filetype=text 
 autocmd! BufRead,BufNewFile ~/.documents/notes nnoremap <silent> <leader>l <esc>G :r !date -u +"\%Y-\%m-\%dT\%H:\%M:\%SZ"<CR>zt A — 
 autocmd! BufRead,BufNewFile ~/Documents/notes nnoremap <silent> <leader>l <esc>G :r !date -u +"\%Y-\%m-\%dT\%H:\%M:\%SZ"<CR>zt A — 
+
+" }}}
+
+" abbreviations {{{
+
+" TODO: What this really needs is a staging area for recently added but not
+" verified or corrected abbreviations.
+
+" $VIM_BUNDLE_DIR/vimrc/plugin/abbrev.vim
+
+" autocmd! BufWritePre *.js :%s/\s\+$//e
+
+autocmd! BufRead .config/vim/bundle/vimrc/plugin/abbrev.vim nnoremap <leader>k :sort u<cr><esc>Go<esc>gg
+autocmd! BufRead abbrev.vim nnoremap <leader>k :sort u<cr><esc>Go<esc>gg
+" autocmd! BufRead abbrev.vim nnoremap <leader>k <leader>k :echo 'test'<cr> 
+autocmd! BufRead,BufEnter,TextChanged,InsertLeave abbrev.vim :checktime
 
 " }}}
 

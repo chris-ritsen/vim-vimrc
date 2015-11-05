@@ -33,6 +33,7 @@ iab Apaprently Apparently
 iab Apparenlty Apparently
 iab Apparenly Apparently
 iab Arlight Alight
+iab Arttempt Attempt
 iab Asusmptions Assumptions
 iab Atch Arch
 iab Atetmpt Attempt
@@ -1592,6 +1593,7 @@ iab RESembling Resembling
 iab RESlemblign Resembling
 iab RESteraunt Restaurant
 iab REStweraunt Restaurant
+iab RETrvail Retrieval
 iab REWswtweraunt Restaurant
 iab REad Read
 iab REalise Realise
@@ -1660,6 +1662,17 @@ iab REstweeraunt Restaurant
 iab REstweraunt Restaurant
 iab REstwraunt Restaurant
 iab REsults Results
+iab REtefvial Retrieval
+iab REterevail Retrieval
+iab REtervial Retrieval
+iab REtfrvail Retrieval
+iab REtrevial Retrieval
+iab REtrfvavil Retrieval
+iab REtriavl Retrieval
+iab REtrival Retrieval
+iab REtrrieveal Retrieval
+iab REtrvail Retrieval
+iab REtrvial Retrieval
 iab REturn Return
 iab REturning Returning
 iab REverse Reverse
@@ -1738,7 +1751,11 @@ iab Restauran Restaurant
 iab Restaurantkj Restaurant
 iab Resteraunt Restaurant
 iab Resxerauynt Restaurant
+iab Retervail Retrieval
 iab Retn Rent
+iab Retreival Retrieval
+iab Retrevail Retrieval
+iab Retrueival Retrieval
 iab Reuiqmrenteza Requirements
 iab Reverasal Reversal
 iab Revist Revisit
@@ -2625,15 +2642,18 @@ iab abbrevaiotions abbreviations
 iab abbrevation abbreviation
 iab abbrevations abbreviations
 iab abbrevatioqtns abbreviations
+iab abbrevetaionts abbreviations
 iab abbreviaions abbreviations
 iab abbreviateion abbreviation
 iab abbreviatiosn abbreviations
 iab abbrevisaiosn abbreviations
+iab abbrevtaiotns abbreviations
 iab abbrevtioainos abbreviations
 iab abe be
 iab abel able
 iab aberage average
 iab abeteween between
+iab abgbrervaitions abbreviations
 iab abgreviations abbreviations
 iab abiility ability
 iab abiiltity ability
@@ -3392,6 +3412,7 @@ iab alignement alignment
 iab alignmetn alignment
 iab alignmmetn alignment
 iab alignn align
+iab aligntment alignment
 iab aligon align
 iab alikas alias
 iab alingment alignment
@@ -4591,6 +4612,7 @@ iab avaoialble available
 iab avastly vastly
 iab avay away
 iab avboidable avoidable
+iab avbrevations abbreviations
 iab avck back
 iab avdvice advice
 iab aveasive evasive
@@ -5738,6 +5760,7 @@ iab cdoe code
 iab cdoed coded
 iab cdoes codes
 iab cdomeptuters computers
+iab cdorrected corrected
 iab cdould could
 iab cdurrenlty currently
 iab cealn clean
@@ -10177,6 +10200,7 @@ iab everhbody everybody
 iab everhhing everything
 iab everhthing everything
 iab everhything everything
+iab everified verified
 iab evernts events
 iab everntually eventually
 iab everoyne everyone
@@ -11965,6 +11989,7 @@ iab headest headset
 iab headet headset
 iab headfless headless
 iab headhones headphones
+iab headign heading
 iab headiphones headphones
 iab headpbones headphones
 iab headphens headphones
@@ -11984,6 +12009,7 @@ iab headpoohen headphone
 iab headrd header
 iab headres headers
 iab headrse headers
+iab headsing heading
 iab headspohes headphones
 iab headsset headset
 iab healhty healthy
@@ -15003,6 +15029,7 @@ iab matchdgin matching
 iab matchgin matching
 iab matchging matching
 iab matchidgn matching
+iab matchidng matching
 iab matchign matching
 iab matchimng matching
 iab matchin matching
@@ -15954,6 +15981,7 @@ iab needelelssy needlessly
 iab needelessly needlessly
 iab needledslly needlessly
 iab needo need
+iab needsa needs
 iab needsw needs
 iab neeed need
 iab neeeded needed
@@ -18939,6 +18967,7 @@ iab qyuiclly quickly
 iab qyuicluy quickly
 iab qyut quit
 iab r3egardlless regardless
+iab rETrvail Retrieval
 iab rScienctist Scientist
 iab rackmoutn rackmount
 iab racre race
@@ -19364,6 +19393,7 @@ iab relacation relaxation
 iab relacing relaxing
 iab relaete relate
 iab relaiable reliable
+iab relaibel reliable
 iab relaible reliable
 iab relaiblilty reliability
 iab relaibly reliably
@@ -19903,6 +19933,7 @@ iab resutlsed resulted
 iab resutlt result
 iab resutlts results
 iab resuylts results
+iab reterieval retrieval
 iab reterive retrieve
 iab reternn return
 iab retetion retention
@@ -19911,18 +19942,23 @@ iab retnr return
 iab retporter reporter
 iab retpye retype
 iab retpyed Retyped
+iab retraaaavil retrieval
 iab retractec retracted
+iab retraivl retrieval
 iab retravted retracted
 iab retreieve retrieve
 iab retreieved retrieved
 iab retreieving retrieving
+iab retreival retrieval
 iab retreive retrieve
 iab retreived retrieved
 iab retreiving retrieving
 iab retreivval retrieval
 iab retrieving retrieving
+iab retrival retrieval
 iab retrive retrieve
 iab retrived retrieved
+iab retrrrrrrravbil retrieval
 iab retuirn return
 iab retunr return
 iab retunred returned
@@ -21071,6 +21107,7 @@ iab signpu signup
 iab signuyp signup
 iab sijmple simple
 iab sikll skill
+iab silebnt silent
 iab silennced silenced
 iab silentinly silently
 iab silevefr silver
@@ -23855,6 +23892,7 @@ iab treid tried
 iab treinyg trying
 iab treplaced replaced
 iab tresspassing trespassing
+iab tretriavl retrieval
 iab treturn return
 iab treu true
 iab trext text
@@ -23990,6 +24028,7 @@ iab turend turned
 iab turened turned
 iab turjed turned
 iab turly truly
+iab turncates truncates
 iab turst trust
 iab turth truth
 iab tuseday tuesday
@@ -26010,6 +26049,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab aligntment alignment
-iab Arttempt Attempt
-iab turncates truncates
