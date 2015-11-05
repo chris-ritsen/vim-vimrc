@@ -26051,3 +26051,5 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
+iab firewawll firewall
+iab rewcipenets recipient
