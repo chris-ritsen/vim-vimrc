@@ -363,10 +363,15 @@ autocmd! BufRead,BufNewFile ~/Documents/notes nnoremap <silent> <leader>l <esc>G
 
 " autocmd! BufWritePre *.js :%s/\s\+$//e
 
-autocmd! BufRead .config/vim/bundle/vimrc/plugin/abbrev.vim nnoremap <leader>k :sort u<cr><esc>Go<esc>gg
-autocmd! BufRead abbrev.vim nnoremap <leader>k :sort u<cr><esc>Go<esc>gg
-" autocmd! BufRead abbrev.vim nnoremap <leader>k <leader>k :echo 'test'<cr> 
-autocmd! BufRead,BufEnter,TextChanged,InsertLeave abbrev.vim :checktime
+autocmd! BufEnter,BufWinEnter,TextChanged,InsertLeave .abbrev.vim :checktime
+autocmd! BufEnter,BufWinEnter,TextChanged,InsertLeave abbrev.vim :checktime
+
+autocmd! BufRead,BufNewFile .abbrev.vim nnoremap <silent> <leader>k :sort u<cr><esc>Go<esc>gg:w<cr>:<esc>0
+autocmd! BufRead,BufNewFile abbrev.vim nnoremap <silent> <leader>k :sort u<cr><esc>Go<esc>gg:w<cr>:<esc>0
+
+" TODO: Need this to run at startup with no issues.
+
+" autocmd! InsertLeave abbrev.vim :checktime
 
 " }}}
 
