@@ -26089,10 +26089,6 @@ iab zsswh zsh
 iab ztart start
 iab siaduhfahkjd asdkjfhskj
 iab ztaships starships
-<<<<<<< HEAD
 iab adfkjhgasd asdf
-||||||| merged common ancestors
-=======
 iab asdkjfhskjhd askjhdfkjsahdfkjsa
->>>>>>> bb4ebd7254feafa6d7b9a62ea74245025f0c5964
 
