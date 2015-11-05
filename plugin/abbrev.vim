@@ -26012,3 +26012,4 @@ iab ztaships starships
 
 iab aligntment alignment
 iab Arttempt Attempt
+iab turncates truncates
