@@ -11075,6 +11075,7 @@ iab fireinds friends
 iab firend friend
 iab firends friends
 iab firensd friends
+iab firewall firewall
 iab firghtened frightened
 iab firghtented frightened
 iab firigin firing
@@ -16203,6 +16204,7 @@ iab nothingt nothing
 iab nothinnnng nothing
 iab nothiong nothing
 iab nothiung nothing
+iab noticabley noticeably
 iab noticably noticeably
 iab notication notification
 iab noticebluy noticeably
@@ -17753,6 +17755,7 @@ iab ploicies policies
 iab plolices polices
 iab plqaay player
 iab plroblem problem
+iab plsti split
 iab pluginb plugin
 iab pluging plugging
 iab plugis plugins
@@ -19183,6 +19186,7 @@ iab recieved received
 iab recieves receives
 iab recieving receiving
 iab recievve receive
+iab recipient recipient
 iab recircuilates recirculates
 iab recird record
 iab recirdign recording
@@ -23192,6 +23196,7 @@ iab thery they
 iab therye there
 iab thes these
 iab thes3 these
+iab thes3e these
 iab thes4 these
 iab thesae these
 iab thesauarus thesaurus
@@ -26051,5 +26056,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab firewawll firewall
-iab rewcipenets recipient
