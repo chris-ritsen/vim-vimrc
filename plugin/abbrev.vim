@@ -3935,6 +3935,7 @@ iab apaprmtnely apparently
 iab apaprmtnent apartment
 iab apaprmtnet apartment
 iab apaprtmnet apartment
+iab apaprwently apparently
 iab aparametesr parameters
 iab aparamtne apartment
 iab aparatus apparatus
@@ -18370,6 +18371,7 @@ iab prevoisluly previously
 iab prevoius previous
 iab prevous previous
 iab prevvise precise
+iab prewfverered preferred
 iab prfoessional professional
 iab prgblem problem
 iab prgobelm problem
@@ -26169,5 +26171,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab prewfverered preferred
-iab apaprwently apparently
