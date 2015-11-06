@@ -3902,6 +3902,7 @@ iab apaprmtnely apparently
 iab apaprmtnent apartment
 iab apaprmtnet apartment
 iab apaprtmnet apartment
+iab apaprwently apparently
 iab aparametesr parameters
 iab aparamtne apartment
 iab aparatus apparatus
@@ -6254,6 +6255,7 @@ iab cmputer computer
 iab cmputyer computer
 iab cmtpuer computer
 iab cna can
+iab cnaceled canceled
 iab cnadle candle
 iab cnadlelight candlelight
 iab cnadles candles
@@ -18336,6 +18338,7 @@ iab prevoisluly previously
 iab prevoius previous
 iab prevous previous
 iab prevvise precise
+iab prewfverered preferred
 iab prfoessional professional
 iab prgblem problem
 iab prgobelm problem
@@ -25232,6 +25235,7 @@ iab whaetver whatever
 iab whaever whoever
 iab whagever whatever
 iab whagtewver whatever
+iab whastosever whatsoever
 iab whatching watching
 iab whate what
 iab whateever whatever
@@ -26090,5 +26094,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab prewfverered preferred
-iab apaprwently apparently
