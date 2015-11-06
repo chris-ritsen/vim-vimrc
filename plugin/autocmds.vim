@@ -366,8 +366,8 @@ autocmd! BufRead,BufNewFile ~/Documents/notes nnoremap <silent> <leader>l <esc>G
 autocmd! BufEnter,BufWinEnter,TextChanged,InsertLeave .abbrev.vim :checktime
 autocmd! BufEnter,BufWinEnter,TextChanged,InsertLeave abbrev.vim :checktime
 
-autocmd! BufRead,BufNewFile .abbrev.vim  nnoremap <silent> <leader>k :silent! %s/^[\|<=>]\+.*$//g<cr>:sort u<cr><esc>Go<esc>zt:w<cr>:<esc>0 
-autocmd! BufRead,BufNewFile abbrev.vim nnoremap <silent> <leader>k :silent! %s/^[\|<=>]\+.*$//g<cr>:sort u<cr><esc>Go<esc>zt:w<cr>:<esc>0
+autocmd! BufRead,BufNewFile .abbrev.vim  nnoremap <silent> <leader>k :silent! %s/^[\|<=>]\+.*$//g<cr>:sort u<cr><esc>Go<esc>zt0:w<cr>:<esc>
+autocmd! BufRead,BufNewFile abbrev.vim nnoremap <silent> <leader>k :silent! %s/^[\|<=>]\+.*$//g<cr>:sort u<cr><esc>Go<esc>zt0:w<cr>:<esc>
 
 " TODO: Need this to run at startup with no issues.
 

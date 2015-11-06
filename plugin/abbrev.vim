@@ -21384,6 +21384,7 @@ iab slowlly slowly
 iab slpelling spelling
 iab slplit split
 iab slwest slowest
+iab slwo slow
 iab slwoest slowest
 iab smae same
 iab smalleset smallest
@@ -26089,4 +26090,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab slwo slow
