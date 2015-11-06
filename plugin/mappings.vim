@@ -106,6 +106,7 @@ nnoremap <F6> :!vlock<cr>
 nnoremap <Q <nop>
 nnoremap <down> <nop>
 nnoremap <leader>d :call AddAbbrev()<cr>
+nnoremap <c-w>m :silent! execute 1 . "wincmd w"<cr>
 
 nnoremap <silent> <C-h> 1zh
 nnoremap <silent> <C-l> 1zl
