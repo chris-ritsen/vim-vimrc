@@ -2636,6 +2636,7 @@ iab Yessterday Yesterday
 iab Yesterdaty Yesterday
 iab Yesterdrady Yesterday
 iab Yestersady Yesterday
+iab Yhe The
 iab Yhis This
 iab Yime Time
 iab Yiou You
@@ -8674,6 +8675,7 @@ iab disgusited disgusted
 iab dishwahser dishwasher
 iab disiconnecdteds disconnected
 iab disiconnectd disconnected
+iab disiffieclt difficult
 iab disintigrate disintegrate
 iab disintrerested disinterested
 iab disintrest disinterest
@@ -8793,6 +8795,7 @@ iab distracteion distraction
 iab distractewd distracted
 iab distracvted distracted
 iab distracyions distractions
+iab distracytions distractions
 iab distradction distraction
 iab distrafscted distracted
 iab distrafting distracting
@@ -15787,6 +15790,7 @@ iab motivuation motivation
 iab motnhs months
 iab motovation motivation
 iab motoviation motivation
+iab motyher mother
 iab mouch much
 iab moudle module
 iab mougth mouth
@@ -19758,6 +19762,7 @@ iab requeist request
 iab requesdt request
 iab requesite requisite
 iab requets requests
+iab requetsz request
 iab requewts requests
 iab requezts request
 iab requiaite requisite
