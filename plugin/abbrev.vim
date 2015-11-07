@@ -31,6 +31,7 @@ iab Anyting Anything
 iab Apapprenlty Apparently
 iab Apaprenlty Apparently
 iab Apaprently Apparently
+iab Aparerenlty Apparently
 iab Apparenlty Apparently
 iab Apparenly Apparently
 iab Arlight Alight
@@ -6240,6 +6241,7 @@ iab closley closely
 iab closwe close
 iab clotehes clothes
 iab clotehs clothes
+iab clotehse clothes
 iab clothese clothes
 iab clothign clothing
 iab clotihes clothes
@@ -7955,7 +7957,9 @@ iab deicede decided
 iab deicided decided
 iab deicied deiced
 iab deifniatley definitely
+iab deisgineer designer
 iab deisgn design
+iab deisnedec designed
 iab deither either
 iab deivceis devices
 iab dejcected dejected
@@ -15192,6 +15196,7 @@ iab meanth meant
 iab meants means
 iab meanuingful meaningful
 iab measaure measure
+iab measn means
 iab meatch match
 iab meatsurement measurement
 iab mebed embed
