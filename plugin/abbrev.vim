@@ -26216,3 +26216,10 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
+iab increidbiel incredible
+iab pectqcduluar spectacular
+iab ocndtorler controller
+iab eliete elite
+iab watever water
+iab monintors monitors
+iab Exubuereance Exuberance
