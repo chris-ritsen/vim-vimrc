@@ -4,6 +4,7 @@ iab ... …
 iab ABout About
 iab ACttive Active
 iab ACtually Actually
+iab ADfter After
 iab AEsome Awesome
 iab AFter After
 iab ALright Alright
@@ -48,6 +49,7 @@ iab BUIld Build
 iab BUggy Buggy
 iab BUt But
 iab Becuaswe Because
+iab Befoer Before
 iab Begginner Beginner
 iab Beign Begin
 iab Beinginnnnnn Being
@@ -1844,6 +1846,7 @@ iab SHe She
 iab SHipmenbt Shipment
 iab SHipment Shipment
 iab SHipmetn Shipment
+iab SHipmetns Shipments
 iab SHoles Sholes
 iab SHooing Shooing
 iab SHort Short
@@ -2446,6 +2449,7 @@ iab Visualzation Visualization
 iab Visusally Visually
 iab Vitims Victims
 iab Vlaue Value
+iab Vlauye Value
 iab Voilenece Violence
 iab Vruce Bruce
 iab Vulnderable Vulnerable
@@ -4454,6 +4458,7 @@ iab atain attain
 iab ataking taking
 iab atalbe table
 iab ataptive adaptive
+iab atarhet target
 iab atatacked attacked
 iab atatacker attacker
 iab atatainment attainment
@@ -7504,6 +7509,7 @@ iab couople couple
 iab coupl3ed coupled
 iab coupole couple
 iab courrent current
+iab coutndown countdown
 iab coutnerops countertops
 iab coutnertops countertops
 iab coutning counting
@@ -11498,6 +11504,7 @@ iab funamental fundamental
 iab funamentally fundamentally
 iab funcamantela fundamental
 iab funcdetion function
+iab funcdteion function
 iab funcdtiON function
 iab funcdtion function
 iab funcdtional functional
@@ -12269,6 +12276,7 @@ iab hipste hipset
 iab hise hose
 iab hisotry history
 iab hispet hipset
+iab hispment shipment
 iab histiry history
 iab historty history
 iab histyr history
@@ -12415,6 +12423,7 @@ iab hshould should
 iab hsi his
 iab hsimeptnb shipment
 iab hsipment shipment
+iab hsipments shipments
 iab hsipmetns shipments
 iab hsitorty history
 iab hsitory history
@@ -20522,6 +20531,7 @@ iab scheulde schedule
 iab scheule schedule
 iab schienticifc scientific
 iab schientific scientific
+iab schipe scope
 iab scholdar scholar
 iab scholl school
 iab schoool school
@@ -21043,6 +21053,8 @@ iab shefl shelf
 iab sheidls shields
 iab shelcff shelf
 iab shelv shelf
+iab shepmetns shipments
+iab shepmtttn shipment
 iab sherlf shelf
 iab shevled shelved
 iab shewlf shelf
@@ -21052,8 +21064,11 @@ iab shhall shall
 iab shie she
 iab shiepment shipment
 iab shiepmetns shipments
+iab shiepmtesn shipments
 iab shiftwed shifted
 iab shimpemtns shipments
+iab shioment shipment
+iab shioments shipments
 iab shiop ship
 iab shiopemtn shipment
 iab shiopment shipment
@@ -21073,6 +21088,7 @@ iab shipmeptn shipment
 iab shipmetn shipment
 iab shipmetns shipments
 iab shipmewnt shipment
+iab shipmmmmetns shipments
 iab shipmwetn shipment
 iab shipoment shipment
 iab shipwors shipworms
@@ -21103,6 +21119,7 @@ iab sholud should
 iab shooudl should
 iab shooudlb should
 iab shoould should
+iab shopmetns shipments
 iab shoppingt shopping
 iab shoppoing shopping
 iab shopwing showing
@@ -21133,7 +21150,10 @@ iab showmewhere somewhere
 iab showmn shown
 iab showne shown
 iab showoting shooting
+iab shpemtn shipment
 iab shpemtnt shipment
+iab shpeoimetns shipments
+iab shpmetnn shipment
 iab shread shared
 iab shreding shredding
 iab shrot short
@@ -21142,6 +21162,7 @@ iab shrts shirts
 iab shthis this
 iab shuch such
 iab shuft shift
+iab shuiipment shipment
 iab shuipment shipment
 iab shulffle shuffle
 iab shumpment shipment
@@ -22017,6 +22038,7 @@ iab stiorage storage
 iab stircT strict
 iab stircdet strict
 iab stircdt strict
+iab stircsdt strict
 iab stirct strict
 iab stirdt strict
 iab stireies stories
@@ -22751,7 +22773,9 @@ iab tanble table
 iab tand tend
 iab tansclude transclude
 iab taought taught
+iab taqraget target
 iab taqsked tasked
+iab taraghet target
 iab tarangtuala tarantula
 iab tarcdtedted targeted
 iab tarck track
@@ -22765,6 +22789,7 @@ iab tardtegetdd targeted
 iab tardteted targeted
 iab taregeting targeting
 iab tarfgtedd targeted
+iab targbet target
 iab targdecd targeted
 iab targded targeted
 iab targdeded targeted
@@ -22784,6 +22809,7 @@ iab targetgec targeted
 iab targetr target
 iab targetted targeted
 iab targetting targeting
+iab targetw target
 iab targtded targeted
 iab targteced targeted
 iab targted targeted
@@ -22804,8 +22830,16 @@ iab tarnslate translate
 iab tarnslational translational
 iab tarnsparent transparent
 iab tarnsposition transposition
+iab tartaget target
 iab tarteted targeted
+iab tartge target
+iab tartger target
+iab tartgert target
+iab tartget target
 iab tartgetded targeted
+iab tartgete target
+iab tartghet target
+iab tarthet target
 iab tarveling traveling
 iab tasest tastes
 iab tasiks tasks
@@ -22818,6 +22852,7 @@ iab tasxes taxes
 iab tath that
 iab tatment statement
 iab tatoo tattoo
+iab tatrgget target
 iab tatus status
 iab taughht taught
 iab tautologyu tautology
@@ -24108,6 +24143,7 @@ iab tstill still
 iab tstreet street
 iab tstuff stuff
 iab tswitch switch
+iab ttartget target
 iab ttask task
 iab ttesting testing
 iab ttextarea textarea
@@ -24540,6 +24576,7 @@ iab uninterupted uninterrupted
 iab uninvelved uninvolved
 iab uniqe unique
 iab uniquye unique
+iab uniuion union
 iab uniuverse universe
 iab univers universe
 iab univomveded uninvolved
@@ -25108,6 +25145,7 @@ iab warniign warning
 iab warntigns warnings
 iab warraynty warranty
 iab warriers warriors
+iab warsd wars
 iab wasdgtewd wasted
 iab wasehr washer
 iab wasetdw wasted
