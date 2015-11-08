@@ -26228,3 +26228,8 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
+iab fucntion function
+iab s00cpan s00pcan
+iab pretety pretty
+iab fiuvcking fucking
+iab RElaly Really
