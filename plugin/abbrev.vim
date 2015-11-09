@@ -67,6 +67,7 @@ iab Buidsl Build
 iab Bujild Build
 iab Buuild Build
 iab Byt But
+iab CAn Can
 iab CAncel Cancel
 iab CArrieers Carriers
 iab CAtegiory Category
@@ -406,6 +407,7 @@ iab ENgineering Engineering
 iab ENglish English
 iab ENtertained Entertained
 iab ENtirely Entirely
+iab ERic Eric
 iab ERitsen Ritsen
 iab ESee See
 iab ESessntially Essentially
@@ -630,6 +632,7 @@ iab Firstlyy Firstly
 iab Fisniedh Finished
 iab Fisrt First
 iab Flordia Florida
+iab Fnacy Fancy
 iab FoPutting Putting
 iab Focysing Focusing
 iab Fofficer Officer
@@ -1622,6 +1625,7 @@ iab REfelctions Reflections
 iab REgardleess Regardless
 iab REgardless Regardless
 iab REgister Register
+iab RElaly Really
 iab RElated Related
 iab RElationships Relationships
 iab RElativitiy Relativity
@@ -2811,6 +2815,7 @@ iab absuse abuse
 iab absuylteyly absolutely
 iab abuility ability
 iab abvailble available
+iab abvle able
 iab abvoe above
 iab aby by
 iab acadaembic academic
@@ -4067,6 +4072,7 @@ iab appeawr appear
 iab appeears appears
 iab appendicies appendices
 iab appeneded appended
+iab apperasrs appearers
 iab apperciation appreciation
 iab apphrehendedd apprehended
 iab appicaiton application
@@ -6377,6 +6383,7 @@ iab cofucs focus
 iab cognitigtve cognitive
 iab coiding coding
 iab coidulk could
+iab coiinceide coincide
 iab coimplains complaints
 iab coimpletion completion
 iab coinfig config
@@ -7965,6 +7972,7 @@ iab deisnedec designed
 iab deither either
 iab deivceis devices
 iab dejcected dejected
+iab dejecdted dejected
 iab deks desk
 iab dela deal
 iab delaidgns dealings
@@ -8079,6 +8087,7 @@ iab descdribge describe
 iab descdriuoptuion description
 iab descfribe describe
 iab descfription description
+iab descide decide
 iab descieds decides
 iab desciption description
 iab descirbe describe
@@ -8395,6 +8404,7 @@ iab dieseses diereses
 iab diesng design
 iab diesribable desirable
 iab diferent different
+iab diferrent different
 iab diffciyglty difficulty
 iab diffectne different
 iab diffeence difference
@@ -8563,6 +8573,7 @@ iab diredtion direction
 iab direfcly direfully
 iab diregct direct
 iab direictive directive
+iab direrrection direction
 iab diret direct
 iab diretion direction
 iab diretive directive
@@ -8882,6 +8893,7 @@ iab docto doctor
 iab doctoer doctor
 iab doctotr doctor
 iab docuemnt document
+iab docuemntation documentation
 iab docuemnts documents
 iab docuemtn document
 iab documentaed documented
@@ -11186,6 +11198,7 @@ iab fiunny funny
 iab fiunxtion function
 iab fiurther further
 iab fiuther further
+iab fiuvcking fucking
 iab fixagtion fixation
 iab fixds fixes
 iab fixign fixing
@@ -11831,6 +11844,7 @@ iab gravitatopinlal gravitational
 iab graviy gravity
 iab grealty greatly
 iab greaster greater
+iab greate great
 iab greatley greatly
 iab greawt great
 iab greeater greater
@@ -13931,6 +13945,7 @@ iab itcalic italic
 iab iteches itches
 iab itesm items
 iab itesms items
+iab itesting testing
 iab itewms items
 iab ithe the
 iab ithis this
@@ -18365,6 +18380,7 @@ iab presumtion presumption
 iab presviouysly previously
 iab pretendning pretending
 iab pretent pretend
+iab pretety pretty
 iab preteurved perturbed
 iab prettty pretty
 iab prettyy pretty
@@ -19510,6 +19526,7 @@ iab relationhsip relationship
 iab relationiship relationship
 iab relationshiop relationship
 iab relativly relatively
+iab relaty relay
 iab relavant relevant
 iab relavation relaxation
 iab relaxying relaxing
@@ -20405,6 +20422,7 @@ iab rythm rhythm
 iab rythmyic rhythmic
 iab rythymic rhythmic
 iab rytphtimuic rhythmic
+iab s00cpan s00pcan
 iab s3et set
 iab s8ch such
 iab sSkinner Skinner
@@ -20578,6 +20596,7 @@ iab scity city
 iab sclothes clothes
 iab scnool school
 iab scnwees scenes
+iab scocket socket
 iab scoep scope
 iab scohool school
 iab scoial social
@@ -23373,6 +23392,7 @@ iab thesetaurus thesaurus
 iab theseuarurs thesaurus
 iab thesew these
 iab theslemesvles themselves
+iab thesmelves themselves
 iab thess3 these
 iab thessse these
 iab thesssuaurs thesaurus
@@ -24604,6 +24624,7 @@ iab unknowne unknown
 iab unknowningly unknowingly
 iab unknwon unknown
 iab unknwone unknown
+iab unknwonewn unknown
 iab unknwown unknown
 iab unkown unknown
 iab unkwnoen unknown
@@ -26228,15 +26249,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab fucntion function
-iab s00cpan s00pcan
-iab pretety pretty
-iab fiuvcking fucking
-iab RElaly Really
-iab itesting testing
-iab eroror error
-iab coiinceide coincide
-iab dejecdted dejected
-iab ERic Eric
-iab scocket socket
-iab diferrent different
