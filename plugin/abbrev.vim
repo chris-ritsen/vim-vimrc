@@ -1826,6 +1826,7 @@ iab SDervice Service
 iab SDkylake Skylake
 iab SDometihbhinmg Something
 iab SERIQL SERIAL
+iab SERbice Service
 iab SEVeral Several
 iab SEarchign Searching
 iab SEchema Schema
@@ -3085,6 +3086,7 @@ iab actibityies activities
 iab actibve active
 iab acticities activities
 iab acticity activity
+iab actigeve active
 iab actigve active
 iab actigveley actively
 iab actiions actions
@@ -4714,6 +4716,7 @@ iab awant want
 iab awardded awarded
 iab awardeed awarded
 iab awardsed awarded
+iab awaredeed awarded
 iab awarew aware
 iab awarning warning
 iab awarxded awarded
@@ -7159,6 +7162,7 @@ iab contente content
 iab contentes contents
 iab contenvitional conventional
 iab contenxt context
+iab conteorller controller
 iab conteracting contracting
 iab conterianed constrained
 iab conterol control
@@ -7483,6 +7487,7 @@ iab cotninue continue
 iab cotnorl control
 iab cotnrolled controlled
 iab cotnroller controller
+iab cotnroolelr controller
 iab couche couch
 iab coudl could
 iab coughted coughed
@@ -11505,6 +11510,7 @@ iab funcamantela fundamental
 iab funcdetion function
 iab funcdteion function
 iab funcdtiON function
+iab funcdtioN function
 iab funcdtion function
 iab funcdtional functional
 iab funcdtionality functionality
@@ -16757,6 +16763,7 @@ iab opene open
 iab openeing opening
 iab openm open
 iab openning opening
+iab opent open
 iab opeople people
 iab opeple people
 iab operaignh operating
@@ -20325,6 +20332,7 @@ iab rtasks tasks
 iab rtecdtangle rectangle
 iab rtesting testing
 iab rteturn return
+iab rteurn return
 iab rthat that
 iab rthater rather
 iab rthe the
@@ -21066,6 +21074,7 @@ iab shiepmetns shipments
 iab shiepmtesn shipments
 iab shiftwed shifted
 iab shimpemtns shipments
+iab shimpetn shipment
 iab shioment shipment
 iab shioments shipments
 iab shiop ship
