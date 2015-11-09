@@ -282,9 +282,9 @@ vnoremap <leader>ga :call OmniSharp#GetCodeActions('visual')<cr>
 " nnoremap <leader>t :Unite -no-split -start-insert file_rec/async<cr>
 " nnoremap <leader>y :<C-u>Unite -no-split -buffer-name=yank    history/yank<cr>
 
-nnoremap <leader>g :<C-u>Unite -no-split -buffer-name=buffers -start-insert buffer<cr>
-nnoremap <leader>t :<C-u>Unite -no-split -buffer-name=files -no-auto-highlight -no-resize -no-cursor-line -start-insert file_rec/async:.<cr>
-nnoremap <leader>r :<C-u>Unite -no-split -buffer-name=files -no-auto-highlight -no-resize -no-cursor-line -start-insert neomru/file:.<cr>
+nnoremap <leader>g :Unite -no-split -buffer-name=buffers -start-insert buffer<cr>
+nnoremap <leader>t :Unite -no-split -buffer-name=files -no-auto-highlight -no-resize -no-cursor-line -start-insert file_rec/async:.<cr>
+nnoremap <leader>r :Unite -no-split -buffer-name=files -no-auto-highlight -no-resize -no-cursor-line -start-insert neomru/file:.<cr>
 
 " What?  The ! makes this only go to the original directory - usually the
 " user's home directory.  It's a source argument— the target kirectories split
