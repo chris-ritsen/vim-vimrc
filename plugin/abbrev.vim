@@ -31,6 +31,7 @@ iab Anyting Anything
 iab Apapprenlty Apparently
 iab Apaprenlty Apparently
 iab Apaprently Apparently
+iab Aparerenlty Apparently
 iab Apparenlty Apparently
 iab Apparenly Apparently
 iab Arlight Alight
@@ -572,6 +573,7 @@ iab Exsampe Example
 iab Extreactibgn Extracting
 iab Extremelyu Extremely
 iab Extrreme Extreme
+iab Exubuereance Exuberance
 iab F0urth Fourth
 iab FEderal Federal
 iab FGive Five
@@ -2635,6 +2637,7 @@ iab Yessterday Yesterday
 iab Yesterdaty Yesterday
 iab Yesterdrady Yesterday
 iab Yestersady Yesterday
+iab Yhe The
 iab Yhis This
 iab Yime Time
 iab Yiou You
@@ -6243,6 +6246,7 @@ iab closley closely
 iab closwe close
 iab clotehes clothes
 iab clotehs clothes
+iab clotehse clothes
 iab clothese clothes
 iab clothign clothing
 iab clotihes clothes
@@ -6296,6 +6300,7 @@ iab cmputer computer
 iab cmputyer computer
 iab cmtpuer computer
 iab cna can
+iab cnaceled canceled
 iab cnadle candle
 iab cnadlelight candlelight
 iab cnadles candles
@@ -7959,7 +7964,9 @@ iab deicede decided
 iab deicided decided
 iab deicied deiced
 iab deifniatley definitely
+iab deisgineer designer
 iab deisgn design
+iab deisnedec designed
 iab deither either
 iab deivceis devices
 iab dejcected dejected
@@ -8673,6 +8680,7 @@ iab disgusited disgusted
 iab dishwahser dishwasher
 iab disiconnecdteds disconnected
 iab disiconnectd disconnected
+iab disiffieclt difficult
 iab disintigrate disintegrate
 iab disintrerested disinterested
 iab disintrest disinterest
@@ -8792,6 +8800,7 @@ iab distracteion distraction
 iab distractewd distracted
 iab distracvted distracted
 iab distracyions distractions
+iab distracytions distractions
 iab distradction distraction
 iab distrafscted distracted
 iab distrafting distracting
@@ -9603,6 +9612,7 @@ iab elexctronic electronic
 iab elextronic electronic
 iab elextronids electronics
 iab elft left
+iab eliete elite
 iab elimiate eliminate
 iab elimiated eliminated
 iab eliminiated eliminated
@@ -13116,6 +13126,7 @@ iab incredlcby incredibly
 iab increement increment
 iab increibile incredible
 iab increibly incredibly
+iab increidbiel incredible
 iab increlby incredibly
 iab increldbliya incredibly
 iab increldbly incredibly
@@ -15197,6 +15208,7 @@ iab meanth meant
 iab meants means
 iab meanuingful meaningful
 iab measaure measure
+iab measn means
 iab meatch match
 iab meatsurement measurement
 iab mebed embed
@@ -15716,6 +15728,7 @@ iab monestary monastery
 iab moneteize monetize
 iab monety money
 iab monheys monkeys
+iab monintors monitors
 iab moniootionous monotonous
 iab monitopr monitor
 iab monitorin monitoring
@@ -15783,6 +15796,7 @@ iab motivuation motivation
 iab motnhs months
 iab motovation motivation
 iab motoviation motivation
+iab motyher mother
 iab mouch much
 iab moudle module
 iab mougth mouth
@@ -16554,6 +16568,7 @@ iab ocmpytuer computer
 iab ocncern concern
 iab ocncrete concrete
 iab ocnditionally conditionally
+iab ocndtorler controller
 iab ocnencted connected
 iab ocnfiguration configuration
 iab ocnfiruration configuration
@@ -17391,6 +17406,7 @@ iab peaople people
 iab peasce peace
 iab pease peace
 iab pecific specific
+iab pectqcduluar spectacular
 iab pecurliar peculiar
 iab peeople people
 iab peerles peerless
@@ -19753,6 +19769,7 @@ iab requeist request
 iab requesdt request
 iab requesite requisite
 iab requets requests
+iab requetsz request
 iab requewts requests
 iab requezts request
 iab requiaite requisite
@@ -25183,6 +25200,7 @@ iab wate water
 iab wateched watched
 iab watefever whatever
 iab wateher weather
+iab watever water
 iab watewr water
 iab watewrefalsls waterfalls
 iab wathc watch
@@ -25360,6 +25378,7 @@ iab whaetver whatever
 iab whaever whoever
 iab whagever whatever
 iab whagtewver whatever
+iab whastosever whatsoever
 iab whatching watching
 iab whate what
 iab whateever whatever
@@ -26218,3 +26237,15 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
+iab fucntion function
+iab s00cpan s00pcan
+iab pretety pretty
+iab fiuvcking fucking
+iab RElaly Really
+iab itesting testing
+iab eroror error
+iab coiinceide coincide
+iab dejecdted dejected
+iab ERic Eric
+iab scocket socket
+iab diferrent different
