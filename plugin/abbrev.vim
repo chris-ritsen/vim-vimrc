@@ -3685,6 +3685,7 @@ iab anaylzed analyzed
 iab anaynmore anymore
 iab anaysing analysing
 iab anayze analyze
+iab anb an
 iab anbd and
 iab anbout about
 iab anc and
@@ -4518,6 +4519,7 @@ iab atributess attributes
 iab atrribute attribute
 iab atrributes attributes
 iab atrtiburtes attributes
+iab atrtibutes attributes
 iab attacdhed attached
 iab attacdhedd attached
 iab attachc attach
@@ -4613,6 +4615,7 @@ iab autiomateds automated
 iab autiomatic automatic
 iab autiomatically automatically
 iab autiomation automation
+iab autlo auto
 iab autmatc automatic
 iab autmatically automatically
 iab autoaccitally automatically
@@ -5476,6 +5479,7 @@ iab briticsh british
 iab brkaexzs brakes
 iab brkasesa brakes
 iab brnaches branches
+iab brnadch branch
 iab broard broad
 iab broedre border
 iab broekn broken
@@ -5519,6 +5523,7 @@ iab btowser browser
 iab bttuoj button
 iab btuter butter
 iab bty by
+iab btyn btn
 iab bu8ildings buildings
 iab bublbe bubble
 iab buddget budget
@@ -7832,6 +7837,7 @@ iab ddaitional additional
 iab ddbugger debugger
 iab ddddoing doing
 iab ddditional additional
+iab ddebubggger debugger
 iab ddefault default
 iab ddependcy dependency
 iab ddeper deeper
@@ -11033,6 +11039,7 @@ iab feirfcely fiercely
 iab fele feel
 iab feleling feeling
 iab felet felt
+iab felex flex
 iab felth felt
 iab felx flex
 iab femal female
@@ -11557,6 +11564,7 @@ iab funcitons functions
 iab funck funk
 iab funcoin function
 iab funcrtion function
+iab funcsgtion function
 iab functdion function
 iab functdionalyt functionality
 iab functdiosn functions
@@ -12385,6 +12393,7 @@ iab horible horrible
 iab horirbly horribly
 iab horixontally horizontally
 iab horizonatally horizontally
+iab horizonmtal horizontal
 iab horizontaol horizontal
 iab horizoontal horizontal
 iab horizotnal horizontal
@@ -12881,6 +12890,7 @@ iab implictly implicitly
 iab implises implies
 iab implmeent implement
 iab implmeented implemented
+iab implmementation implementation
 iab implmenentations implementations
 iab implmenet implement
 iab implmeneted implemented
@@ -13889,6 +13899,7 @@ iab iscrenrable discernible
 iab isd is
 iab isdea idea
 iab isdeas ideas
+iab ishipmeent shipment
 iab isi is
 iab isiisntance isinstance
 iab isiitannce isinstance
@@ -14346,6 +14357,7 @@ iab lagnuage language
 iab lagughing laughing
 iab lahyotu layout
 iab lahyout layout
+iab laign align
 iab lak lack
 iab lall all
 iab lallow allow
@@ -17198,6 +17210,7 @@ iab padddding padding
 iab paddding padding
 iab paddgin padding
 iab paddign padding
+iab paddindg padding
 iab paddingL padding
 iab padid paid
 iab padidng padding
@@ -17269,6 +17282,7 @@ iab paralyne parylene
 iab paramaters parameters
 iab parameeter parameter
 iab parameneter parameter
+iab paramenter parameter
 iab paramentesr parameters
 iab paramererts parameters
 iab parameterse parameters
@@ -20148,6 +20162,7 @@ iab reusme resume
 iab reustlt result
 iab reutenr return
 iab reutirn return
+iab reutn return
 iab reutnr return
 iab reutnrn return
 iab reutnrsa returns
@@ -20166,6 +20181,7 @@ iab revent recent
 iab reventge revenge
 iab reverbaating reverberating
 iab reverrred referred
+iab reversence reference
 iab revewign reviewing
 iab revgentge revenge
 iab revieede reviewed
@@ -20626,6 +20642,7 @@ iab scocket socket
 iab scoep scope
 iab scohool school
 iab scoial social
+iab scoipe scope
 iab scoipes scopes
 iab scoiting scouting
 iab scoket socket
@@ -22102,6 +22119,7 @@ iab stircdet strict
 iab stircdt strict
 iab stircsdt strict
 iab stirct strict
+iab stirdet strict
 iab stirdt strict
 iab stireies stories
 iab stirfc strict
@@ -25088,6 +25106,7 @@ iab virtyaul virtual
 iab virual virtual
 iab virutal virtual
 iab virutalbox virtualbox
+iab visbidle visible
 iab visiable visible
 iab visiaqble visible
 iab visibale visible
