@@ -1313,6 +1313,7 @@ iab Notihgn Nothing
 iab Noty Not
 iab Nowehere Nowhere
 iab Nthing Nothing
+iab Nthohing Nothing
 iab Nullifu Nullify
 iab Nuvmers Numbers
 iab Nuymbers Numbers
@@ -2313,6 +2314,7 @@ iab Thsi This
 iab Thsnsks Thanks
 iab Thsu Thus
 iab Thsui This
+iab Thtese These
 iab Thuis This
 iab Thurdsay Thursday
 iab Thurdsday Thursday
@@ -2415,6 +2417,7 @@ iab Usede Used
 iab Useranem Username
 iab Usign Using
 iab Usin Using
+iab Usleess Useless
 iab Usleless Useless
 iab Usuallu Usually
 iab Ususally Usually
@@ -4424,6 +4427,7 @@ iab assistancte assistance
 iab assistence assistance
 iab assit assist
 iab assitants assistants
+iab assitive assistive
 iab assk ask
 iab assmeble assemble
 iab assmebly assembly
@@ -6059,6 +6063,7 @@ iab choesen chosen
 iab choesive cohesive
 iab choild child
 iab choise choice
+iab choisees choices
 iab choises choices
 iab choleine choline
 iab cholestorol cholesterol
@@ -8827,6 +8832,7 @@ iab distrating distracting
 iab distration distraction
 iab distrations distractions
 iab distravdeted distracted
+iab distrction distraction
 iab distrinoction distinction
 iab distriobution distribution
 iab distrobution distribution
@@ -10453,6 +10459,7 @@ iab ewidth width
 iab ewihtout without
 iab ework work
 iab ewritten written
+iab ewvent event
 iab ewvents events
 iab ewvery every
 iab ewverything everything
@@ -10533,6 +10540,7 @@ iab excoetiub exception
 iab excpectd expected
 iab excpeot except
 iab excperience experience
+iab excpervtl except
 iab excpet except
 iab excpetion exception
 iab excpetional exceptional
@@ -10756,6 +10764,7 @@ iab expet except
 iab expetations expectations
 iab expeted expected
 iab expetional exceptional
+iab expewnsive expensive
 iab expexts expects
 iab expididted expedited
 iab expierience experience
@@ -12638,6 +12647,7 @@ iab iclude include
 iab icnresasing increasing
 iab icobn icon
 iab icompptuer computer
+iab iconcepts concepts
 iab iconinc iconic
 iab iconmic iconic
 iab iconoic iconic
@@ -12905,6 +12915,7 @@ iab imporoved improved
 iab imporoving improving
 iab importahtn important
 iab importanat important
+iab importancde importance
 iab importande importance
 iab importane importance
 iab importanfe importance
@@ -14934,6 +14945,7 @@ iab lyaouts layouts
 iab lyrucal lyrical
 iab lyucid lucid
 iab lyunch lunch
+iab m3nat meant
 iab m9lten molten
 iab mIami Miami
 iab mInaintin maintain
@@ -16776,6 +16788,7 @@ iab ooption option
 iab ooptions options
 iab oor or
 iab oother other
+iab ootpions options
 iab oout out
 iab ooutline outline
 iab oparts parts
@@ -17514,6 +17527,7 @@ iab percieve perceive
 iab percieved perceived
 iab percived perceived
 iab percvect perfect
+iab perdspecitve perspective
 iab perecent percent
 iab pereceuition perception
 iab perect erect
@@ -17618,6 +17632,7 @@ iab perpipjehrals peripherals
 iab perposterous preposterous
 iab persdoal personal
 iab persdon person
+iab persdonally personally
 iab perseived perceived
 iab persented presented
 iab persfect perfect
@@ -17708,6 +17723,7 @@ iab photograpohic photographic
 iab photogrpahsers photographers
 iab photosohop photoshop
 iab photots photos
+iab phrobitibvely prohibitively
 iab phscial physical
 iab phsical physical
 iab phsician physician
@@ -17945,6 +17961,7 @@ iab poinulesslly pointlessly
 iab poinulessly pointlessly
 iab poionosed poisoned
 iab poiont point
+iab poisible possible
 iab poisined poisoned
 iab poisioned poisoned
 iab poisiostions positions
@@ -18432,6 +18449,7 @@ iab priamte primate
 iab priblem problem
 iab pricavey privacy
 iab pridstine pristine
+iab prierotu8y priority
 iab prigoramming programming
 iab priint print
 iab priivate private
@@ -22265,6 +22283,7 @@ iab stukc stuck
 iab stule style
 iab stules styles
 iab stumblining stumbling
+iab stumulating stimulating
 iab stumuluis stimulus
 iab stuop stop
 iab stupdsi stupid
@@ -22780,6 +22799,7 @@ iab tackeled tackled
 iab tackgin tacking
 iab tackign tacking
 iab tactions actions
+iab tactiuacl tactical
 iab tadoy today
 iab taenentative tentative
 iab tafcking tracking
@@ -24879,6 +24899,7 @@ iab uyse use
 iab uyser user
 iab uysing using
 iab v3erify verify
+iab v3ery very
 iab v4ersion version
 iab vaar var
 iab vactaion vacation
@@ -25249,6 +25270,7 @@ iab wawake awake
 iab wawnt want
 iab waws was
 iab wawy away
+iab waxs was
 iab wazs was
 iab wazsted wasted
 iab wbarely barely
@@ -25256,6 +25278,7 @@ iab wbehther whether
 iab wbseite website
 iab wbsite website
 iab wbsites websites
+iab wchoices choices
 iab wchool school
 iab wcould could
 iab wdith width
@@ -25892,6 +25915,7 @@ iab writen written
 iab writenen written
 iab writeres writers
 iab writew write
+iab writging writing
 iab writier writer
 iab writigin writing
 iab writign writing
