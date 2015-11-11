@@ -406,6 +406,7 @@ iab ENgineering Engineering
 iab ENglish English
 iab ENtertained Entertained
 iab ENtirely Entirely
+iab ERic Eric
 iab ERitsen Ritsen
 iab ESee See
 iab ESessntially Essentially
@@ -1622,6 +1623,7 @@ iab REfelctions Reflections
 iab REgardleess Regardless
 iab REgardless Regardless
 iab REgister Register
+iab RElaly Really
 iab RElated Related
 iab RElationships Relationships
 iab RElativitiy Relativity
@@ -3677,6 +3679,7 @@ iab anaylzed analyzed
 iab anaynmore anymore
 iab anaysing analysing
 iab anayze analyze
+iab anb an
 iab anbd and
 iab anbout about
 iab anc and
@@ -4508,6 +4511,7 @@ iab atributess attributes
 iab atrribute attribute
 iab atrributes attributes
 iab atrtiburtes attributes
+iab atrtibutes attributes
 iab attacdhed attached
 iab attacdhedd attached
 iab attachc attach
@@ -4603,6 +4607,7 @@ iab autiomateds automated
 iab autiomatic automatic
 iab autiomatically automatically
 iab autiomation automation
+iab autlo auto
 iab autmatc automatic
 iab autmatically automatically
 iab autoaccitally automatically
@@ -5466,6 +5471,7 @@ iab briticsh british
 iab brkaexzs brakes
 iab brkasesa brakes
 iab brnaches branches
+iab brnadch branch
 iab broard broad
 iab broedre border
 iab broekn broken
@@ -5509,6 +5515,7 @@ iab btowser browser
 iab bttuoj button
 iab btuter butter
 iab bty by
+iab btyn btn
 iab bu8ildings buildings
 iab bublbe bubble
 iab buddget budget
@@ -6380,6 +6387,7 @@ iab cofucs focus
 iab cognitigtve cognitive
 iab coiding coding
 iab coidulk could
+iab coiinceide coincide
 iab coimplains complaints
 iab coimpletion completion
 iab coinfig config
@@ -7820,6 +7828,7 @@ iab ddaitional additional
 iab ddbugger debugger
 iab ddddoing doing
 iab ddditional additional
+iab ddebubggger debugger
 iab ddefault default
 iab ddependcy dependency
 iab ddeper deeper
@@ -7970,6 +7979,7 @@ iab deisnedec designed
 iab deither either
 iab deivceis devices
 iab dejcected dejected
+iab dejecdted dejected
 iab deks desk
 iab dela deal
 iab delaidgns dealings
@@ -8400,6 +8410,7 @@ iab dieseses diereses
 iab diesng design
 iab diesribable desirable
 iab diferent different
+iab diferrent different
 iab diffciyglty difficulty
 iab diffectne different
 iab diffeence difference
@@ -11012,6 +11023,7 @@ iab feirfcely fiercely
 iab fele feel
 iab feleling feeling
 iab felet felt
+iab felex flex
 iab felth felt
 iab felx flex
 iab femal female
@@ -11191,6 +11203,7 @@ iab fiunny funny
 iab fiunxtion function
 iab fiurther further
 iab fiuther further
+iab fiuvcking fucking
 iab fixagtion fixation
 iab fixds fixes
 iab fixign fixing
@@ -11535,6 +11548,7 @@ iab funcitons functions
 iab funck funk
 iab funcoin function
 iab funcrtion function
+iab funcsgtion function
 iab functdion function
 iab functdionalyt functionality
 iab functdiosn functions
@@ -12362,6 +12376,7 @@ iab horible horrible
 iab horirbly horribly
 iab horixontally horizontally
 iab horizonatally horizontally
+iab horizonmtal horizontal
 iab horizontaol horizontal
 iab horizoontal horizontal
 iab horizotnal horizontal
@@ -12857,6 +12872,7 @@ iab implictly implicitly
 iab implises implies
 iab implmeent implement
 iab implmeented implemented
+iab implmementation implementation
 iab implmenentations implementations
 iab implmenet implement
 iab implmeneted implemented
@@ -13864,6 +13880,7 @@ iab iscrenrable discernible
 iab isd is
 iab isdea idea
 iab isdeas ideas
+iab ishipmeent shipment
 iab isi is
 iab isiisntance isinstance
 iab isiitannce isinstance
@@ -13937,6 +13954,7 @@ iab itcalic italic
 iab iteches itches
 iab itesm items
 iab itesms items
+iab itesting testing
 iab itewms items
 iab ithe the
 iab ithis this
@@ -14320,6 +14338,7 @@ iab lagnuage language
 iab lagughing laughing
 iab lahyotu layout
 iab lahyout layout
+iab laign align
 iab lak lack
 iab lall all
 iab lallow allow
@@ -17170,6 +17189,7 @@ iab padddding padding
 iab paddding padding
 iab paddgin padding
 iab paddign padding
+iab paddindg padding
 iab paddingL padding
 iab padid paid
 iab padidng padding
@@ -17241,6 +17261,7 @@ iab paralyne parylene
 iab paramaters parameters
 iab parameeter parameter
 iab parameneter parameter
+iab paramenter parameter
 iab paramentesr parameters
 iab paramererts parameters
 iab parameterse parameters
@@ -18372,6 +18393,7 @@ iab presumtion presumption
 iab presviouysly previously
 iab pretendning pretending
 iab pretent pretend
+iab pretety pretty
 iab preteurved perturbed
 iab prettty pretty
 iab prettyy pretty
@@ -20113,6 +20135,7 @@ iab reusme resume
 iab reustlt result
 iab reutenr return
 iab reutirn return
+iab reutn return
 iab reutnr return
 iab reutnrn return
 iab reutnrsa returns
@@ -20131,6 +20154,7 @@ iab revent recent
 iab reventge revenge
 iab reverbaating reverberating
 iab reverrred referred
+iab reversence reference
 iab revewign reviewing
 iab revgentge revenge
 iab revieede reviewed
@@ -20413,6 +20437,7 @@ iab rythm rhythm
 iab rythmyic rhythmic
 iab rythymic rhythmic
 iab rytphtimuic rhythmic
+iab s00cpan s00pcan
 iab s3et set
 iab s8ch such
 iab sSkinner Skinner
@@ -20586,9 +20611,11 @@ iab scity city
 iab sclothes clothes
 iab scnool school
 iab scnwees scenes
+iab scocket socket
 iab scoep scope
 iab scohool school
 iab scoial social
+iab scoipe scope
 iab scoipes scopes
 iab scoiting scouting
 iab scoket socket
@@ -22065,6 +22092,7 @@ iab stircdet strict
 iab stircdt strict
 iab stircsdt strict
 iab stirct strict
+iab stirdet strict
 iab stirdt strict
 iab stireies stories
 iab stirfc strict
@@ -25046,6 +25074,7 @@ iab virtyaul virtual
 iab virual virtual
 iab virutal virtual
 iab virutalbox virtualbox
+iab visbidle visible
 iab visiable visible
 iab visiaqble visible
 iab visibale visible
@@ -26237,15 +26266,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab fucntion function
-iab s00cpan s00pcan
-iab pretety pretty
-iab fiuvcking fucking
-iab RElaly Really
-iab itesting testing
-iab eroror error
-iab coiinceide coincide
-iab dejecdted dejected
-iab ERic Eric
-iab scocket socket
-iab diferrent different
