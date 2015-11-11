@@ -67,6 +67,7 @@ iab Buidsl Build
 iab Bujild Build
 iab Buuild Build
 iab Byt But
+iab CAn Can
 iab CAncel Cancel
 iab CArrieers Carriers
 iab CAtegiory Category
@@ -631,6 +632,7 @@ iab Firstlyy Firstly
 iab Fisniedh Finished
 iab Fisrt First
 iab Flordia Florida
+iab Fnacy Fancy
 iab FoPutting Putting
 iab Focysing Focusing
 iab Fofficer Officer
@@ -2814,6 +2816,7 @@ iab absuse abuse
 iab absuylteyly absolutely
 iab abuility ability
 iab abvailble available
+iab abvle able
 iab abvoe above
 iab aby by
 iab acadaembic academic
@@ -4072,6 +4075,7 @@ iab appeawr appear
 iab appeears appears
 iab appendicies appendices
 iab appeneded appended
+iab apperasrs appearers
 iab apperciation appreciation
 iab apphrehendedd apprehended
 iab appicaiton application
@@ -8094,6 +8098,7 @@ iab descdribge describe
 iab descdriuoptuion description
 iab descfribe describe
 iab descfription description
+iab descide decide
 iab descieds decides
 iab desciption description
 iab descirbe describe
@@ -8579,6 +8584,7 @@ iab diredtion direction
 iab direfcly direfully
 iab diregct direct
 iab direictive directive
+iab direrrection direction
 iab diret direct
 iab diretion direction
 iab diretive directive
@@ -8898,6 +8904,7 @@ iab docto doctor
 iab doctoer doctor
 iab doctotr doctor
 iab docuemnt document
+iab docuemntation documentation
 iab docuemnts documents
 iab docuemtn document
 iab documentaed documented
@@ -11851,6 +11858,7 @@ iab gravitatopinlal gravitational
 iab graviy gravity
 iab grealty greatly
 iab greaster greater
+iab greate great
 iab greatley greatly
 iab greawt great
 iab greeater greater
@@ -19539,6 +19547,7 @@ iab relationhsip relationship
 iab relationiship relationship
 iab relationshiop relationship
 iab relativly relatively
+iab relaty relay
 iab relavant relevant
 iab relavation relaxation
 iab relaxying relaxing
@@ -23410,6 +23419,7 @@ iab thesetaurus thesaurus
 iab theseuarurs thesaurus
 iab thesew these
 iab theslemesvles themselves
+iab thesmelves themselves
 iab thess3 these
 iab thessse these
 iab thesssuaurs thesaurus
@@ -24641,6 +24651,7 @@ iab unknowne unknown
 iab unknowningly unknowingly
 iab unknwon unknown
 iab unknwone unknown
+iab unknwonewn unknown
 iab unknwown unknown
 iab unkown unknown
 iab unkwnoen unknown
