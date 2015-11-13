@@ -617,6 +617,7 @@ iab Facbook Facebook
 iab Failry Fairly
 iab Falswe False
 iab Fbonacci Fibonacci
+iab Fearuew Feature
 iab Featurey Feature
 iab Feelign Feeling
 iab Fefundation Fecundation
@@ -8249,8 +8250,10 @@ iab detnal dental
 iab dettttect detect
 iab detyails details
 iab deubber debugger
+iab deubbger debugger
 iab deubgetr debugger
 iab deubgger debugger
+iab deubuger debugger
 iab deugbgter debugger
 iab devceloping developing
 iab devekioer developer
@@ -9786,6 +9789,7 @@ iab emtpy empty
 iab emty empty
 iab emululators emulators
 iab emy my
+iab enabledk enabled
 iab enacs emacs
 iab enalbed enabled
 iab enbd end
@@ -19808,6 +19812,7 @@ iab repsonded responded
 iab repsonds responds
 iab repsonese response
 iab repsonosible responsible
+iab repsonsde response
 iab repsonse response
 iab repsonsibilities responsibilities
 iab repsonsibiliyt responsibility
@@ -20225,6 +20230,7 @@ iab rewctacnlge rectangle
 iab rewflext reflect
 iab rewfrencex reference
 iab rewiveiwng reviewing
+iab rewponse response
 iab rewqrd reward
 iab rewquest request
 iab rewquests requests
