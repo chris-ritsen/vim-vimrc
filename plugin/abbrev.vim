@@ -26323,3 +26323,6 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
+iab Prescienent Prescient
+iab Precieient Prescient
+iab Precientt Prescient
