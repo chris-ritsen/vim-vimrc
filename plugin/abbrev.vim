@@ -616,6 +616,7 @@ iab Facbook Facebook
 iab Failry Fairly
 iab Falswe False
 iab Fbonacci Fibonacci
+iab Featurey Feature
 iab Feelign Feeling
 iab Fefundation Fecundation
 iab Fibonacchi Fibonacci
@@ -832,6 +833,7 @@ iab INdefatigalby Indefatigably
 iab INdefatigaubly Indefatigably
 iab INdie Indie
 iab INform Inform
+iab INformtantion Information
 iab INjecting Injecting
 iab INnovation Innovation
 iab INsdtall Install
@@ -2065,6 +2067,7 @@ iab Subscriptiuons Subscriptions
 iab Suddenlty Suddenly
 iab Suddlenly Suddenly
 iab Sudio Studio
+iab Sundary Sunday
 iab Suonds Sounds
 iab Supose Suppose
 iab Supplment Supplement
@@ -5818,6 +5821,7 @@ iab casued caused
 iab casues causes
 iab casusing causing
 iab caswe case
+iab categeory category
 iab categoriacal categorical
 iab categoriew categories
 iab categorigcal categorical
@@ -6029,6 +6033,7 @@ iab chekc check
 iab chekced checked
 iab chekcehr checker
 iab chekcer checker
+iab chekces checks
 iab chekcing checking
 iab chekck check
 iab chekcs checks
@@ -8009,6 +8014,7 @@ iab deliberables deliverables
 iab deliberatelwy deliberately
 iab deliberatley deliberately
 iab delibery delivery
+iab delibvery delivery
 iab delicous delicious
 iab delierverd delivered
 iab delieverd delivered
@@ -8075,6 +8081,7 @@ iab deplpy deploy
 iab depositied deposited
 iab depper deeper
 iab deprecrtated deprecated
+iab deprectteed deprecated
 iab depsoitg deposit
 iab deptenedds depends
 iab depxlictily explicitly
@@ -8354,6 +8361,7 @@ iab dextieryity dexterity
 iab dexvribed described
 iab dezxiteryt dexterity
 iab dfeault default
+iab dfeautl default
 iab dfefined defined
 iab dfevleoped developed
 iab dfid did
@@ -8882,6 +8890,7 @@ iab dleievered delivered
 iab dleiverable deliverable
 iab dlete delete
 iab dleveopment development
+iab dlevieries deliveries
 iab dlievered delivered
 iab dlike like
 iab dmake make
@@ -11015,6 +11024,7 @@ iab feaver fever
 iab feawture feature
 iab feawtures features
 iab feawtureus features
+iab feawueares features
 iab feeback feedback
 iab feedbadck feedback
 iab feeel feel
@@ -12034,6 +12044,7 @@ iab hardeware hardware
 iab hardley hardly
 iab hardnly hardly
 iab hardrly hardly
+iab hardsecoded hardcoded
 iab hardsly hardly
 iab hardsware hardware
 iab hardwer harder
@@ -14488,6 +14499,7 @@ iab ldenghth length
 iab ldength length
 iab ldly idly
 iab ldneght length
+iab ldocigc logic
 iab le4ss less
 iab leaaaayouts layouts
 iab leaadershoioip leadership
@@ -14710,6 +14722,7 @@ iab linsk links
 iab linuc linux
 iab linutes lines
 iab linxu linux
+iab liogic logic
 iab liong long
 iab liquit liquid
 iab lisaten listen
@@ -15937,6 +15950,7 @@ iab mustahe mustache
 iab mustaiekes mistakes
 iab mustashe mustache
 iab muswic music
+iab muswt must
 iab mutal mutual
 iab mutally mutually
 iab mutiation mutation
@@ -16746,6 +16760,7 @@ iab onChnage onChange
 iab oncde once
 iab oncsoel console
 iab oncsole console
+iab one3s ones
 iab onece once
 iab onee one
 iab oneslef oneself
@@ -19820,6 +19835,7 @@ iab requesite requisite
 iab requets requests
 iab requetsz request
 iab requewts requests
+iab requezst request
 iab requezts request
 iab requiaite requisite
 iab requiare require
@@ -20117,6 +20133,7 @@ iab retunr return
 iab retunred returned
 iab retur4n return
 iab returend returned
+iab returenjd returned
 iab returhn return
 iab returnb return
 iab returnde returned
@@ -22036,6 +22053,7 @@ iab statsu status
 iab staty stay
 iab statyus status
 iab stawet state
+iab stawrndard standard
 iab stawrt start
 iab stawrted started
 iab stayrtup startup
@@ -22659,6 +22677,7 @@ iab swereverd swerved
 iab swerver server
 iab swetp swept
 iab swetup setup
+iab sweven seven
 iab sweveral several
 iab swhen when
 iab swhitched switched
@@ -24075,6 +24094,7 @@ iab transcripbiing transcribing
 iab transcripbing transcribing
 iab transcriupotion transcription
 iab transctions transactions
+iab transdit transit
 iab transfeerred transferred
 iab transferered transferred
 iab transfering transferring
@@ -25001,6 +25021,7 @@ iab vdido video
 iab vdieo video
 iab vdieos videos
 iab ve3ry very
+iab vealues values
 iab vearious various
 iab vecause because
 iab veersions versions
