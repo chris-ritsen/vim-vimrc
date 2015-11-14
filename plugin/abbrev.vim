@@ -12,6 +12,7 @@ iab ANgular Angular
 iab ARrive Arrive
 iab AVoiding Avoiding
 iab Additonally Additionally
+iab Afetr After
 iab Againl Again
 iab Aircaraft Aircraft
 iab Alrealduy Already
@@ -1251,6 +1252,7 @@ iab Morwe More
 iab Mosnter Monster
 iab Mozardt Mozart
 iab MsacBook Macbook
+iab Muichigan Michigan
 iab Myabe Maybe
 iab Myu My
 iab NAnd And
@@ -1792,6 +1794,7 @@ iab Richeard Richard
 iab Righ Right
 iab Riraaen Ritsen
 iab Risten Ritsen
+iab Ristnde Ritsen
 iab Ristne Ritsen
 iab Ritnsen Ritsen
 iab Ritsen4 Ritsen
@@ -9490,6 +9493,7 @@ iab efw few
 iab egbay ebay
 iab egen even
 iab eglue glue
+iab egnaged engaged
 iab egriougous egregious
 iab ehader header
 iab ehalth health
@@ -11637,6 +11641,7 @@ iab furnture furniture
 iab furst first
 iab fursther further
 iab furstrate frustrate
+iab furstration frustration
 iab furstuher further
 iab furtehr further
 iab furtehrr furtherer
@@ -12549,6 +12554,7 @@ iab htisi this
 iab htisoe those
 iab htiss this
 iab htisw this
+iab htiw this
 iab htiws this
 iab htlm html
 iab htme them
@@ -12938,6 +12944,7 @@ iab imporivign improving
 iab impormtant important
 iab imporntant important
 iab imporntat important
+iab impornteznt important
 iab imporoive improve
 iab imporove improve
 iab imporoved improved
@@ -13653,6 +13660,7 @@ iab intereseting interesting
 iab interesitng interesting
 iab intereste interest
 iab interestedd interested
+iab interesteded interested
 iab interesteing interesting
 iab interestes interests
 iab interestesing interesting
@@ -19366,6 +19374,7 @@ iab recnelty recently
 iab recnent recent
 iab recnernt recent
 iab recnet recent
+iab recnetly recently
 iab recnetrly recently
 iab recoerd record
 iab recogfnize recognize
@@ -23439,6 +23448,7 @@ iab theraew there
 iab theree there
 iab theref there
 iab therefpore therefore
+iab thereofer therefor
 iab thereore therefore
 iab therew there
 iab therey there
@@ -26332,13 +26342,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab interesteded interested
-iab Afetr After
-iab impornteznt important
-iab thereofer therefor
-iab egnaged engaged
-iab furstration frustration
-iab htiw this
-iab Ristnde Ritsen
-iab recnetly recently
-iab Muichigan Michigan
