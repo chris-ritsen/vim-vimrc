@@ -145,6 +145,7 @@ iab CoConstants Constants
 iab Collbaoration Collaboration
 iab Colleaggues Colleagues
 iab Collecges Colleges
+iab Colleciotn Collection
 iab Collegause Colleagues
 iab Comeplteyl Completely
 iab Comigng Coming
@@ -358,6 +359,7 @@ iab Dilbewrt Dilbert
 iab Dillbert Dilbert
 iab Dilvert Dilbert
 iab Dio Do
+iab Diorty Dirty
 iab Disalbed Disabled
 iab Discipines Disciplines
 iab Discources Discourses
@@ -1446,12 +1448,37 @@ iab PRojects Projects
 iab PUblic Public
 iab PUlling Pulling
 iab PUrchase Purchase
+iab Paaramtneeers Parameters
+iab Paarmanters Parameters
 iab Pacckard Packard
 iab Packarx Packard
+iab Pamranters Parameters
 iab Paradocically Paradoxically
+iab Paramaeters Parameters
+iab Paramet3eres Parameters
+iab Paramneeeeers Parameters
+iab Paramneters Parameters
+iab Paramntamers Parameters
+iab Paramnteeeers Parameters
+iab Paramnters Parameters
+iab Paramtenerts Parameters
+iab Paramtenrsrs Parameters
+iab Paramters Parameters
+iab Paramtneresrs Parameters
+iab Paramtners Parameters
+iab Paramtnersd Parameters
+iab Paramtnerse Parameters
+iab Paranters Parameters
+iab Paratmernesrw Parameters
 iab Parenets Parents
 iab Parikinson Parkinson
 iab Parital Partial
+iab Parmanters Parameters
+iab Parmatmers Parameters
+iab Parmatmners Parameters
+iab Parmatners Parameters
+iab Parmeneters Parameters
+iab Parmmastners Parameters
 iab Partas Parts
 iab Particaipants Participants
 iab Passsiontate Passionate
@@ -6373,6 +6400,7 @@ iab cnsoole console
 iab cnsoolel console
 iab cnter center
 iab cntinute continue
+iab cnttorlller controller
 iab coarbon carbon
 iab cobnsole console
 iab cobntrol control
@@ -7105,6 +7133,7 @@ iab consloe console
 iab consoe console
 iab consoel console
 iab consoele console
+iab consoemle console
 iab consoeo console
 iab consoicue conscious
 iab consoiousness consciousness
@@ -7905,6 +7934,7 @@ iab debugggggging debugging
 iab debuggin debugging
 iab debuggter debugger
 iab debugin debug
+iab debutg3er debugger
 iab decalare declare
 iab decard decade
 iab decate decade
@@ -8110,6 +8140,7 @@ iab derogitory derogatory
 iab derscribes describes
 iab derscription description
 iab dersign design
+iab dertaulst details
 iab dervived derived
 iab desal deal
 iab desath death
@@ -8254,10 +8285,12 @@ iab determinaion determination
 iab determininig determining
 iab determunation determination
 iab detewct detect
+iab detiaelss details
 iab detial detail
 iab detials details
 iab detnal dental
 iab dettttect detect
+iab detuals details
 iab detyails details
 iab deubber debugger
 iab deubbger debugger
@@ -9951,9 +9984,11 @@ iab entyr entry
 iab enuimerated enumerated
 iab enumarate enumerate
 iab enumarted enumerated
+iab envecessary necessary
 iab enveiormnet envelopment
 iab enveirokment environment
 iab enveiromtnet environment
+iab enveleopes envelopes
 iab enver never
 iab enveriomtent environment
 iab envieorment environment
@@ -18213,11 +18248,15 @@ iab postiosno positions
 iab postiosns positions
 iab postiosonis positions
 iab postition position
+iab postsa posts
+iab postsp posts
+iab postst posts
 iab posuitin position
 iab posuitoin position
 iab posution position
 iab posutiosnas positions
 iab posuzzzles puzzles
+iab poswts posts
 iab potatoe potatoe
 iab potatto potato
 iab poteintially potentially
@@ -18232,6 +18271,7 @@ iab potentual potential
 iab potieianl potential
 iab potientially potentially
 iab potioentooal potential
+iab potsts posts
 iab poudn pound
 iab pouplar popular
 iab poutting putting
@@ -18249,6 +18289,7 @@ iab ppointedness pointedness
 iab ppoor poor
 iab pposite opposite
 iab ppostal postal
+iab pposts posts
 iab ppower power
 iab ppresident president
 iab pproblem problem
@@ -18915,7 +18956,9 @@ iab psostiosns positions
 iab psot post
 iab psoted posted
 iab psotion position
+iab psots posts
 iab psotsions positions
+iab psotst posts
 iab psring spring
 iab pssible possible
 iab pssobile possible
@@ -19907,6 +19950,7 @@ iab requsetit request
 iab requsets requests
 iab requsite requisite
 iab requst request
+iab requstet request
 iab requting requiring
 iab requuire require
 iab requwests requests
@@ -19916,6 +19960,7 @@ iab reqwuests requests
 iab reqwuestws requests
 iab reqwuire require
 iab reqwuired required
+iab reqwuxdty6 request
 iab reqyired required
 iab rercoerced recorded
 iab rereouted rerouted
@@ -20124,6 +20169,7 @@ iab resutls results
 iab resutlsed resulted
 iab resutlt result
 iab resutlts results
+iab resutysy61 request
 iab resuylts results
 iab reterieval retrieval
 iab reterive retrieve
@@ -20186,9 +20232,11 @@ iab reuqires requires
 iab reuqirign requiring
 iab reuqiure require
 iab reuqst request
+iab reuqtse6 request
 iab reuquest request
 iab reuquired required
 iab reuquirements requirements
+iab reuqweset request
 iab reurn return
 iab reurrnt return
 iab reurtn return
@@ -20257,6 +20305,7 @@ iab rewsponsiblity responsibility
 iab rewsuem resume
 iab rewsulting resulting
 iab rewturn return
+iab rewuestttttt request
 iab rewuire require
 iab rewuirqe require
 iab rewutrn return
@@ -20423,6 +20472,7 @@ iab rptatcicing practicing
 iab rqually equally
 iab rqueoplment equipment
 iab rquest request
+iab rquetsd request
 iab rquire require
 iab rquired required
 iab rresults results
@@ -22164,6 +22214,7 @@ iab stircdt strict
 iab stircsdt strict
 iab stirct strict
 iab stirdet strict
+iab stirdfet strict
 iab stirdt strict
 iab stireies stories
 iab stirfc strict
@@ -24362,6 +24413,7 @@ iab tyle type
 iab tyo two
 iab tyoe type
 iab tyoing toying
+iab tyopeof typeof
 iab tyoping typing
 iab tyopuing typing
 iab tyopying typing
@@ -26350,5 +26402,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab enveleopes envelopes
-iab cnttorlller controller
