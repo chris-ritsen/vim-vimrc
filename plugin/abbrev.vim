@@ -12,6 +12,7 @@ iab ANgular Angular
 iab ARrive Arrive
 iab AVoiding Avoiding
 iab Additonally Additionally
+iab Afetr After
 iab Againl Again
 iab Aircaraft Aircraft
 iab Alrealduy Already
@@ -1253,6 +1254,7 @@ iab Morwe More
 iab Mosnter Monster
 iab Mozardt Mozart
 iab MsacBook Macbook
+iab Muichigan Michigan
 iab Myabe Maybe
 iab Myu My
 iab NAnd And
@@ -1532,11 +1534,14 @@ iab Praciticu Practice
 iab Pracitiving Practicing
 iab Practive Proactive
 iab Prbioably Probably
+iab Precieient Prescient
+iab Precientt Prescient
 iab Predictbly Predictably
 iab Preferrably Preferably
 iab Preluede Prelude
 iab Premoum Premium
 iab Prerevcorded Prerecorded
+iab Prescienent Prescient
 iab Presentky Presently
 iab Preseriving Preserving
 iab Preseving Preserving
@@ -1791,6 +1796,7 @@ iab Richeard Richard
 iab Righ Right
 iab Riraaen Ritsen
 iab Risten Ritsen
+iab Ristnde Ritsen
 iab Ristne Ritsen
 iab Ritnsen Ritsen
 iab Ritsen4 Ritsen
@@ -6253,6 +6259,7 @@ iab cloer closer
 iab cloese close
 iab cloesly closely
 iab cloest closet
+iab cloethes clothes
 iab clohtes clothes
 iab clohtesk clothes
 iab clohteswt clothes
@@ -9490,6 +9497,7 @@ iab efw few
 iab egbay ebay
 iab egen even
 iab eglue glue
+iab egnaged engaged
 iab egriougous egregious
 iab ehader header
 iab ehalth health
@@ -9840,6 +9848,7 @@ iab eneterprise enterprise
 iab enethsuiastic enthusiastic
 iab enetmies enemies
 iab enetry entry
+iab enevleopes envelopes
 iab enforacable enforceable
 iab engagign engaging
 iab engagnging engaging
@@ -11637,6 +11646,7 @@ iab furnture furniture
 iab furst first
 iab fursther further
 iab furstrate frustrate
+iab furstration frustration
 iab furstuher further
 iab furtehr further
 iab furtehrr furtherer
@@ -12549,6 +12559,7 @@ iab htisi this
 iab htisoe those
 iab htiss this
 iab htisw this
+iab htiw this
 iab htiws this
 iab htlm html
 iab htme them
@@ -12938,6 +12949,7 @@ iab imporivign improving
 iab impormtant important
 iab imporntant important
 iab imporntat important
+iab impornteznt important
 iab imporoive improve
 iab imporove improve
 iab imporoved improved
@@ -13653,6 +13665,7 @@ iab intereseting interesting
 iab interesitng interesting
 iab intereste interest
 iab interestedd interested
+iab interesteded interested
 iab interesteing interesting
 iab interestes interests
 iab interestesing interesting
@@ -19366,6 +19379,7 @@ iab recnelty recently
 iab recnent recent
 iab recnernt recent
 iab recnet recent
+iab recnetly recently
 iab recnetrly recently
 iab recoerd record
 iab recogfnize recognize
@@ -23441,6 +23455,7 @@ iab theraew there
 iab theree there
 iab theref there
 iab therefpore therefore
+iab thereofer therefor
 iab thereore therefore
 iab therew there
 iab therey there
@@ -23790,6 +23805,7 @@ iab tiol tool
 iab tiomeout timeout
 iab tirals trials
 iab tiredf tired
+iab tirfckds tricks
 iab tirgger trigger
 iab tiringu tiring
 iab tirinug tiring
@@ -26334,3 +26350,5 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
+iab enveleopes envelopes
+iab cnttorlller controller
