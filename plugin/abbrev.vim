@@ -280,6 +280,7 @@ iab DFIXME FIXME
 iab DFichotomies Dichotomies
 iab DId Did
 iab DIlbert Dilbert
+iab DIsalbg2 Disable
 iab DIsiable Disable
 iab DOctor Doctor
 iab DOes Does
@@ -580,6 +581,7 @@ iab Exubuereance Exuberance
 iab F0urth Fourth
 iab FEderal Federal
 iab FGive Five
+iab FIXAME FIXME
 iab FIXMDE FIXME
 iab FIgure Figure
 iab FIle File
@@ -6682,6 +6684,7 @@ iab completley completely
 iab completleyl completely
 iab completling completing
 iab completlyg completely
+iab complewted completed
 iab compliated complicated
 iab compliation compilation
 iab compliccated complicated
@@ -20803,6 +20806,7 @@ iab secenario scenario
 iab secene scene
 iab seceretary secretary
 iab secftion section
+iab secftions sections
 iab secfton Sefton
 iab sechecule schedule
 iab secionds seconds
@@ -20823,6 +20827,7 @@ iab secons seconds
 iab secreen screen
 iab secretely secretly
 iab sectino section
+iab sectionsw sections
 iab sectoin section
 iab sectret secret
 iab sectuion section
