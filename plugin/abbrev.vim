@@ -6257,6 +6257,7 @@ iab cloer closer
 iab cloese close
 iab cloesly closely
 iab cloest closet
+iab cloethes clothes
 iab clohtes clothes
 iab clohtesk clothes
 iab clohteswt clothes
@@ -9844,6 +9845,7 @@ iab eneterprise enterprise
 iab enethsuiastic enthusiastic
 iab enetmies enemies
 iab enetry entry
+iab enevleopes envelopes
 iab enforacable enforceable
 iab engagign engaging
 iab engagnging engaging
@@ -23798,6 +23800,7 @@ iab tiol tool
 iab tiomeout timeout
 iab tirals trials
 iab tiredf tired
+iab tirfckds tricks
 iab tirgger trigger
 iab tiringu tiring
 iab tirinug tiring
