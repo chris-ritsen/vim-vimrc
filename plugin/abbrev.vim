@@ -74,6 +74,7 @@ iab CArrieers Carriers
 iab CAtegiory Category
 iab CHeck Check
 iab CHecke Check
+iab CHirs Chris
 iab CHris Chris
 iab CHristttopoher Christopher
 iab CLociking Clicking
@@ -145,6 +146,7 @@ iab CoConstants Constants
 iab Collbaoration Collaboration
 iab Colleaggues Colleagues
 iab Collecges Colleges
+iab Colleciotn Collection
 iab Collegause Colleagues
 iab Comeplteyl Completely
 iab Comigng Coming
@@ -358,6 +360,7 @@ iab Dilbewrt Dilbert
 iab Dillbert Dilbert
 iab Dilvert Dilbert
 iab Dio Do
+iab Diorty Dirty
 iab Disalbed Disabled
 iab Discipines Disciplines
 iab Discources Discourses
@@ -779,6 +782,7 @@ iab Histroy History
 iab Hodl Hold
 iab Hoeever However
 iab Hoem Home
+iab Hoenstley Honestly
 iab Hoepfully Hopefully
 iab Hoever However
 iab Hoewever However
@@ -797,6 +801,7 @@ iab Howveer However
 iab Howver However
 iab Howver2 However
 iab Howvere However
+iab Howwwver However
 iab Hpasers Phasers
 iab Hpw How
 iab Hpyer Hyper
@@ -1259,7 +1264,9 @@ iab Myabe Maybe
 iab Myu My
 iab NAnd And
 iab NAnother Another
+iab NEVer Never
 iab NEsxt Next
+iab NEvere Never
 iab NExt Next
 iab NIce Nice
 iab NMonitor Monitor
@@ -1446,12 +1453,37 @@ iab PRojects Projects
 iab PUblic Public
 iab PUlling Pulling
 iab PUrchase Purchase
+iab Paaramtneeers Parameters
+iab Paarmanters Parameters
 iab Pacckard Packard
 iab Packarx Packard
+iab Pamranters Parameters
 iab Paradocically Paradoxically
+iab Paramaeters Parameters
+iab Paramet3eres Parameters
+iab Paramneeeeers Parameters
+iab Paramneters Parameters
+iab Paramntamers Parameters
+iab Paramnteeeers Parameters
+iab Paramnters Parameters
+iab Paramtenerts Parameters
+iab Paramtenrsrs Parameters
+iab Paramters Parameters
+iab Paramtneresrs Parameters
+iab Paramtners Parameters
+iab Paramtnersd Parameters
+iab Paramtnerse Parameters
+iab Paranters Parameters
+iab Paratmernesrw Parameters
 iab Parenets Parents
 iab Parikinson Parkinson
 iab Parital Partial
+iab Parmanters Parameters
+iab Parmatmers Parameters
+iab Parmatmners Parameters
+iab Parmatners Parameters
+iab Parmeneters Parameters
+iab Parmmastners Parameters
 iab Partas Parts
 iab Particaipants Participants
 iab Passsiontate Passionate
@@ -1722,6 +1754,7 @@ iab RItsne Ritsen
 iab RNage Range
 iab RObert Robert
 iab ROlling Rolling
+iab RTHanks Thanks
 iab RTesteraunt Restaurant
 iab RThansks Thanks
 iab RTherefore Therefore
@@ -1803,6 +1836,7 @@ iab Ritsen4 Ritsen
 iab Ritsne Ritsen
 iab Ritsnee Ritsen
 iab Ritsnen Ritsen
+iab Riutsne Ritsen
 iab Rmoeve Remove
 iab Rnadom Random
 iab Rnage Range
@@ -2424,6 +2458,7 @@ iab Unresponsive3 Unresponsive
 iab Unsersal Universal
 iab Unspeciified Unspecified
 iab Unsuppoorted Unsupported
+iab Unutil Until
 iab Upgradign Upgrading
 iab Upgradingin Upgrading
 iab Usede Used
@@ -3855,6 +3890,7 @@ iab antyyng anything
 iab anumal animal
 iab anurisim aneurysm
 iab anurism aneurysm
+iab anuything anything
 iab anway away
 iab anways anyways
 iab anwering answering
@@ -5009,6 +5045,7 @@ iab becaus because
 iab becausd3 because
 iab becausde because
 iab becausde3 because
+iab becausdee because
 iab becausw because
 iab becauswe because
 iab becauwe because
@@ -5187,6 +5224,7 @@ iab betweene between
 iab betwen between
 iab betwene between
 iab betwewen between
+iab betwter better
 iab betwween between
 iab betwwen between
 iab betwwween between
@@ -5870,6 +5908,7 @@ iab cdurrenlty currently
 iab cealn clean
 iab cealry clearly
 iab ceasesw ceases
+iab ceelestial celestial
 iab ceepeneidng depending
 iab ceffeine caffeine
 iab cehck check
@@ -6373,6 +6412,7 @@ iab cnsoole console
 iab cnsoolel console
 iab cnter center
 iab cntinute continue
+iab cnttorlller controller
 iab coarbon carbon
 iab cobnsole console
 iab cobntrol control
@@ -7105,6 +7145,7 @@ iab consloe console
 iab consoe console
 iab consoel console
 iab consoele console
+iab consoemle console
 iab consoeo console
 iab consoicue conscious
 iab consoiousness consciousness
@@ -7905,6 +7946,7 @@ iab debugggggging debugging
 iab debuggin debugging
 iab debuggter debugger
 iab debugin debug
+iab debutg3er debugger
 iab decalare declare
 iab decard decade
 iab decate decade
@@ -8110,6 +8152,7 @@ iab derogitory derogatory
 iab derscribes describes
 iab derscription description
 iab dersign design
+iab dertaulst details
 iab dervived derived
 iab desal deal
 iab desath death
@@ -8254,10 +8297,12 @@ iab determinaion determination
 iab determininig determining
 iab determunation determination
 iab detewct detect
+iab detiaelss details
 iab detial detail
 iab detials details
 iab detnal dental
 iab dettttect detect
+iab detuals details
 iab detyails details
 iab deubber debugger
 iab deubbger debugger
@@ -8331,6 +8376,7 @@ iab devleoping developing
 iab devleopment development
 iab devleopmer developer
 iab devleopmetn development
+iab devleopnmet development
 iab devleopoed developed
 iab devleping developing
 iab devlepinig developing
@@ -8347,6 +8393,7 @@ iab devlopemnt development
 iab devloper developer
 iab devlopers developers
 iab devloping developing
+iab devlopmenet development
 iab devlopment development
 iab devlopo develop
 iab devlops develops
@@ -9159,6 +9206,7 @@ iab dtying trying
 iab duaghter daughter
 iab duather father
 iab dudds duds
+iab duisappointinig disappointing
 iab duisplay display
 iab duisryupt disrupt
 iab duiv div
@@ -9420,6 +9468,7 @@ iab eending ending
 iab eenemeies enemies
 iab eenemy enemy
 iab eenergy energy
+iab eensuring ensuring
 iab eenvenet event
 iab eerors errors
 iab eessentially essentially
@@ -9951,9 +10000,11 @@ iab entyr entry
 iab enuimerated enumerated
 iab enumarate enumerate
 iab enumarted enumerated
+iab envecessary necessary
 iab enveiormnet envelopment
 iab enveirokment environment
 iab enveiromtnet environment
+iab enveleopes envelopes
 iab enver never
 iab enveriomtent environment
 iab envieorment environment
@@ -10052,6 +10103,7 @@ iab eputtion elution
 iab epwould would
 iab epxecially especially
 iab epxectd expected
+iab epxectdd expected
 iab epxected expected
 iab epxecting expecting
 iab epxectp expect
@@ -12163,6 +12215,8 @@ iab headspohes headphones
 iab headsset headset
 iab healhty healthy
 iab healwth health
+iab heapddhones headphones
+iab heapdhones headphones
 iab heapdohnes headphones
 iab heapdohones headphones
 iab heapdones headphones
@@ -13830,6 +13884,7 @@ iab inviolved involved
 iab inviolves involves
 iab inviolving involving
 iab inviovedf involved
+iab inviovlign involving
 iab invisiboeflw invisible
 iab invislbe invisible
 iab invitiing inviting
@@ -13847,6 +13902,7 @@ iab involvment involvement
 iab invompetent incompetent
 iab invomves involves
 iab invoolved involved
+iab invoviing involving
 iab invovle involve
 iab invovled involved
 iab invovleds involves
@@ -14634,6 +14690,7 @@ iab levfer lever
 iab levle level
 iab lewanred learned
 iab lewast least
+iab lewss less
 iab lewt let
 iab lewvle level
 iab lexingon Lexington
@@ -16299,6 +16356,7 @@ iab nmber number
 iab nmbers numbers
 iab nmbier number
 iab nmiming miming
+iab nmodule module
 iab nmuerder murder
 iab nmy my
 iab nnight night
@@ -17348,6 +17406,7 @@ iab parentla parental
 iab parentzs parents
 iab paretns parents
 iab paretnt parent
+iab parir pair
 iab parital parietal
 iab paritciluar particular
 iab paritcualar particular
@@ -18213,11 +18272,15 @@ iab postiosno positions
 iab postiosns positions
 iab postiosonis positions
 iab postition position
+iab postsa posts
+iab postsp posts
+iab postst posts
 iab posuitin position
 iab posuitoin position
 iab posution position
 iab posutiosnas positions
 iab posuzzzles puzzles
+iab poswts posts
 iab potatoe potatoe
 iab potatto potato
 iab poteintially potentially
@@ -18232,6 +18295,7 @@ iab potentual potential
 iab potieianl potential
 iab potientially potentially
 iab potioentooal potential
+iab potsts posts
 iab poudn pound
 iab pouplar popular
 iab poutting putting
@@ -18249,6 +18313,7 @@ iab ppointedness pointedness
 iab ppoor poor
 iab pposite opposite
 iab ppostal postal
+iab pposts posts
 iab ppower power
 iab ppresident president
 iab pproblem problem
@@ -18484,6 +18549,7 @@ iab prevnet prevent
 iab prevnetDefault preventDefault
 iab prevoisluly previously
 iab prevoius previous
+iab prevoiusly previously
 iab prevous previous
 iab prevvise precise
 iab prewfverered preferred
@@ -18569,6 +18635,7 @@ iab problemes problems
 iab problemt problem
 iab problesm problems
 iab problme problem
+iab probluem problem
 iab problvewsm problems
 iab problwem problem
 iab probolem problem
@@ -18852,6 +18919,7 @@ iab prroduces produces
 iab prset preset
 iab prseume presume
 iab prsusre pressure
+iab pruahcasdec purchased
 iab pruahced purchased
 iab prucahigns purchasing
 iab prucahse purchase
@@ -18915,7 +18983,9 @@ iab psostiosns positions
 iab psot post
 iab psoted posted
 iab psotion position
+iab psots posts
 iab psotsions positions
+iab psotst posts
 iab psring spring
 iab pssible possible
 iab pssobile possible
@@ -18966,6 +19036,7 @@ iab purchages purchases
 iab purchainsg purchasing
 iab purchas3 purchase
 iab purchasde purchase
+iab purchasded purchased
 iab purchase3 purchase
 iab purcvhased purchased
 iab purdchaes purchases
@@ -19907,6 +19978,7 @@ iab requsetit request
 iab requsets requests
 iab requsite requisite
 iab requst request
+iab requstet request
 iab requting requiring
 iab requuire require
 iab requwests requests
@@ -19916,6 +19988,7 @@ iab reqwuests requests
 iab reqwuestws requests
 iab reqwuire require
 iab reqwuired required
+iab reqwuxdty6 request
 iab reqyired required
 iab rercoerced recorded
 iab rereouted rerouted
@@ -20124,6 +20197,7 @@ iab resutls results
 iab resutlsed resulted
 iab resutlt result
 iab resutlts results
+iab resutysy61 request
 iab resuylts results
 iab reterieval retrieval
 iab reterive retrieve
@@ -20186,9 +20260,11 @@ iab reuqires requires
 iab reuqirign requiring
 iab reuqiure require
 iab reuqst request
+iab reuqtse6 request
 iab reuquest request
 iab reuquired required
 iab reuquirements requirements
+iab reuqweset request
 iab reurn return
 iab reurrnt return
 iab reurtn return
@@ -20243,6 +20319,7 @@ iab revolutiohn revolution
 iab rewally really
 iab rewaosn reason
 iab rewareds rewards
+iab rewcently recently
 iab rewctacnlge rectangle
 iab rewflext reflect
 iab rewfrencex reference
@@ -20257,6 +20334,7 @@ iab rewsponsiblity responsibility
 iab rewsuem resume
 iab rewsulting resulting
 iab rewturn return
+iab rewuestttttt request
 iab rewuire require
 iab rewuirqe require
 iab rewutrn return
@@ -20423,6 +20501,7 @@ iab rptatcicing practicing
 iab rqually equally
 iab rqueoplment equipment
 iab rquest request
+iab rquetsd request
 iab rquire require
 iab rquired required
 iab rresults results
@@ -21788,6 +21867,7 @@ iab somwewher somewhere
 iab somwewhere somewhere
 iab somwhere somewhere
 iab somwwehre somewhere
+iab somwwwehere somewhere
 iab sonce since
 iab sonecond second
 iab soneone someone
@@ -22164,6 +22244,7 @@ iab stircdt strict
 iab stircsdt strict
 iab stirct strict
 iab stirdet strict
+iab stirdfet strict
 iab stirdt strict
 iab stireies stories
 iab stirfc strict
@@ -23141,6 +23222,7 @@ iab telveigion television
 iab telvelvision television
 iab tema team
 iab temaplate template
+iab temas teams
 iab temeprautres temperatures
 iab temerparature temperature
 iab temntative tentative
@@ -23950,6 +24032,7 @@ iab tomiorrow tomorrow
 iab tomoorrow tomorrow
 iab tomororw tomorrow
 iab tomorro tomorrow
+iab tomroorw tomorrow
 iab tomrorow tomorrow
 iab tomrrow tomorrow
 iab tonado tornado
@@ -24362,6 +24445,7 @@ iab tyle type
 iab tyo two
 iab tyoe type
 iab tyoing toying
+iab tyopeof typeof
 iab tyoping typing
 iab tyopuing typing
 iab tyopying typing
@@ -26167,6 +26251,7 @@ iab yeawr year
 iab yeawras years
 iab yeawrazs years
 iab yeawrs years
+iab yeawsrs years
 iab yeazr year
 iab yedstdrday yesterday
 iab yedsteradsy yesterday
@@ -26350,38 +26435,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab enveleopes envelopes
-iab cnttorlller controller
-iab ceelestial celestial
-iab heapddhones headphones
-iab parir pair
-iab nmodule module
-iab probluem problem
-iab pruahcasdec purchased
-iab eensuring ensuring
-iab purchasded purchased
-iab heapdhones headphones
-iab becausdee because
-iab prevoiusly previously
-iab RTHanks Thanks
-iab Riutsne Ritsen
-iab CHirs Chris
-iab NEVer Never
-iab epxectdd expected
-iab duisappointinig disappointing
-iab NEvere Never
-iab rewcently recently
-iab Hoenstley Honestly
-iab Unutil Until
-iab somwwwehere somewhere
-iab tomroorw tomorrow
-iab yeawsrs years
-iab lewss less
-iab devlopmenet development
-iab temas teams
-iab Howwwver However
-iab invoviing involving
-iab betwter better
-iab anuything anything
-iab devleopnmet development
-iab inviovlign involving
