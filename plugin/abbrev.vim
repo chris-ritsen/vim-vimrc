@@ -1192,6 +1192,7 @@ iab Manu Many
 iab Manufacituring Manufacturing
 iab Manufcaturing Manufacturing
 iab Maoning Moaning
+iab Martch March
 iab Matbe Maybe
 iab Mathcing Matching
 iab Matruix Matrix
@@ -2618,6 +2619,7 @@ iab Whcin Which
 iab Whemn When
 iab Whene When
 iab Whenevfr Whenever
+iab Whenevner Whenever
 iab Whenveer Whenever
 iab Whenver Whenever
 iab Wherevery Wherever
@@ -2745,6 +2747,7 @@ iab aas as
 iab aassoticated associated
 iab aat at
 iab aattacik attack
+iab aattchaded attached
 iab aaware aware
 iab ababout about
 iab abackgorund background
@@ -4580,6 +4583,7 @@ iab attachmetn attachment
 iab attacments attachments
 iab attadched attached
 iab attadchenents attachments
+iab attadhc34d attached
 iab attahcmenet attachment
 iab attainted attained
 iab attaioned attained
@@ -12221,6 +12225,7 @@ iab heapdohnes headphones
 iab heapdohones headphones
 iab heapdones headphones
 iab heaqd head
+iab hearding hearing
 iab heardrs headers
 iab heards hearts
 iab hearricut haricut
@@ -14134,6 +14139,7 @@ iab iwtihin within
 iab ixation fixation
 iab ixs is
 iab jQUery jQuery
+iab jQuert jQuery
 iab jabascript javascript
 iab jacascript javascript
 iab jahd had
@@ -17825,6 +17831,7 @@ iab phoen phone
 iab phoenetic phonetic
 iab phohe phone
 iab phoilisophers philosophers
+iab phomne phone
 iab phooto photo
 iab phootograph photograph
 iab phospherus phosphorus
@@ -25495,6 +25502,7 @@ iab wegbkit webkit
 iab wegbsite website
 iab wegbsites websites
 iab wegbstie website
+iab wegbwe web
 iab weget wget
 iab wehat what
 iab wehate what
@@ -26297,6 +26305,7 @@ iab yestreday yesterday
 iab yestwdrday yesterday
 iab yestwersday yesterday
 iab yeszterday yesterday
+iab yetserday yesterday
 iab yeuah yeah
 iab yewar year
 iab yewars years
