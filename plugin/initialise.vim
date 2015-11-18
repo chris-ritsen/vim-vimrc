@@ -177,8 +177,9 @@ call unite#custom#source('file,file_rec,file_rec/async', 'matchers',
 call unite#custom#source('file_mru', 'matchers',
   \ ['matcher_project_files', 'matcher_fuzzy'])
 
-call unite#custom#source('buffer', 'matchers', ['matcher_default', 'matcher_hide_current_file'])
-call unite#custom#source('buffer', 'matchers', ['matcher_fuzzj', 'matcher_hide_current_file'])
+" call unite#custom#source('buffer', 'matchers', ['matcher_default', 'matcher_hide_current_file'])
+"
+call unite#custom#source('buffer', 'matchers', ['matcher_fuzzy', 'matcher_hide_current_file'])
 
 " if exists('*s:unite_settings')
 

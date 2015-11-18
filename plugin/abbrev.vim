@@ -1,7 +1,16 @@
 
 cab GIt Git
 iab ... …
+iab ABlsoute Absolute
+iab ABosutle Absolute
 iab ABout About
+iab ABsdoutle Absolute
+iab ABsluote Absolute
+iab ABso7tle Absolute
+iab ABsou8tle Absolute
+iab ABsoulte Absolute
+iab ABsoutel Absolute
+iab ABsoutle Absolute
 iab ACttive Active
 iab ACtually Actually
 iab ADfter After
@@ -10,7 +19,15 @@ iab AFter After
 iab ALright Alright
 iab ANgular Angular
 iab ARrive Arrive
+iab ASbouelt Absolute
 iab AVoiding Avoiding
+iab Abasolteu Absolute
+iab Abdosulte Absolute
+iab Absaoulte Absolute
+iab Absluote Absolute
+iab Absolulte Absolute
+iab Absoulte Absolute
+iab Absoutel Absolute
 iab Additonally Additionally
 iab Afetr After
 iab Againl Again
@@ -83,6 +100,7 @@ iab COmmunication Communication
 iab COmread Comrade
 iab COudl Could
 iab COuld Could
+iab CUsotmer Customer
 iab Cahange Change
 iab Carefyl Careful
 iab Carruer Carrier
@@ -1039,6 +1057,7 @@ iab JavaSvript JavaScript
 iab Javacript Javascript
 iab JavasSCript JavaScript
 iab Javscript Javascript
+iab Jennifier Jennifer
 iab Jermey Jeremey
 iab Joghn John
 iab Jogn John
@@ -1208,6 +1227,7 @@ iab Memmloom Memloom
 iab Metephor Metaphor
 iab Metroit Metro
 iab Mgiht Might
+iab Mhipment Shipment
 iab Mhommad Mohammad
 iab Micehvois Mischevious
 iab Michaael Michael
@@ -2231,6 +2251,7 @@ iab TYbuis This
 iab TYhe The
 iab TYhere There
 iab TYhsis This
+iab TYpe Type
 iab TYpical Typical
 iab Tahnks Thanks
 iab Tahsnk Thanks
@@ -2767,6 +2788,7 @@ iab abbreviatiosn abbreviations
 iab abbrevisaiosn abbreviations
 iab abbrevtaiotns abbreviations
 iab abbrevtioainos abbreviations
+iab abdsoutel absolute
 iab abe be
 iab abel able
 iab aberage average
@@ -2789,6 +2811,7 @@ iab ablge able
 iab ablilty ability
 iab ablr able
 iab ablsoluytely absolutely
+iab abluote absolute
 iab abmind admin
 iab abnd and
 iab abnle able
@@ -2804,11 +2827,16 @@ iab aboive above
 iab abook book
 iab aboreal arboreal
 iab aboriut about
+iab abosloute absolute
+iab abosluote absolute
 iab aboslute absolute
 iab aboslutely absolutely
 iab aboslytely absolutely
 iab aboslyutely absolutely
 iab abosoulte absolute
+iab abosutle absolute
+iab abosuwlte absolute
+iab abosuylte absolute
 iab abou about
 iab abouet about
 iab aboufe above
@@ -2826,6 +2854,12 @@ iab abreviation abbreviation
 iab abreviations abbreviations
 iab abrreviation abbreviation
 iab abrubtly abruptly
+iab absdouteo absolute
+iab abslguote absolute
+iab absloute absolute
+iab absluote absolute
+iab abslutoe absolute
+iab absodlutde absolute
 iab absolte absolute
 iab absolteuyly absolutely
 iab absolteyly absolutely
@@ -2833,6 +2867,7 @@ iab absoltueley absolutely
 iab absoltuely absolutely
 iab absoltutely absolutely
 iab absoltyely absolutely
+iab absolulte absolute
 iab absoluteluy absolutely
 iab absolutley absolutely
 iab absolutwe absolute
@@ -2848,7 +2883,9 @@ iab absoulte absolute
 iab absoultely absolutely
 iab absouplte absolute
 iab absouslytly absolutely
+iab absousutle absolute
 iab absoutely absolutely
+iab absoutle absolute
 iab abstarction abstraction
 iab abstracte abstract
 iab abstration abstraction
@@ -3217,6 +3254,7 @@ iab adapterd adapted
 iab adaquate adequate
 iab adatped adapted
 iab adavnatage advantage
+iab adblsutle absolute
 iab adctivity activity
 iab adctually actually
 iab adddress address
@@ -3548,6 +3586,7 @@ iab alllowing allowing
 iab allmost almost
 iab allong along
 iab allottign allotting
+iab allowe2d allowed
 iab allowince allowance
 iab allowinf allowing
 iab allownace allowance
@@ -4435,6 +4474,7 @@ iab asnd and
 iab asnewr answer
 iab asnwer answer
 iab asnwered answered
+iab asobuelt absolute
 iab asome some
 iab asparain aspirin
 iab asparin aspirin
@@ -5834,6 +5874,7 @@ iab cardbord cardboard
 iab cardgbaoard cardboard
 iab carea care
 iab careas cares
+iab careatd created
 iab careds cares
 iab careeer career
 iab careero career
@@ -7358,6 +7399,7 @@ iab controversal controversial
 iab contrrols controls
 iab contrubute contribute
 iab contsnat constant
+iab contsrianed constrained
 iab contstant contestant
 iab contstraining constraining
 iab contstructor constructor
@@ -7717,6 +7759,7 @@ iab cuews cues
 iab cufnction function
 iab cuircles circles
 iab cuircuit circuit
+iab cuistomer customer
 iab cultue culture
 iab cultureal cultural
 iab culure culture
@@ -11226,6 +11269,7 @@ iab finihsed finished
 iab finihshed finished
 iab finihsing finishing
 iab finisahed finished
+iab finisdhed finished
 iab finishewd finished
 iab finlaly finally
 iab finnessing finessing
@@ -14669,6 +14713,7 @@ iab levfer lever
 iab levle level
 iab lewanred learned
 iab lewast least
+iab lewft left
 iab lewt let
 iab lewvle level
 iab lexingon Lexington
@@ -15409,6 +15454,7 @@ iab meneat meant
 iab mentawl mental
 iab menteion mention
 iab menteioned mentioned
+iab menteoinded mentioned
 iab mentiniong mentioning
 iab mentioend mentioned
 iab mentiohed mentioned
@@ -16145,6 +16191,7 @@ iab ne4xt6 next
 iab neabled enabled
 iab neaeds needs
 iab nealry nearly
+iab neanblged enabled
 iab nearluing pearling
 iab nearlyu nearly
 iab neaver never
@@ -16237,6 +16284,7 @@ iab nesteded nested
 iab nestintyg nesting
 iab nesure ensure
 iab nesxt next
+iab neteiring entering
 iab netered entered
 iab netfilix netflix
 iab netiher neither
@@ -16478,6 +16526,7 @@ iab nver never
 iab nwant want
 iab nwat want
 iab nwes news
+iab nwew new
 iab nwo now
 iab nwrap nowrap
 iab nwwton newton
@@ -17686,6 +17735,7 @@ iab permentantly permanently
 iab permentlyl permanently
 iab perminence permanence
 iab permision permission
+iab permisisons permissions
 iab permiter perimeter
 iab permmanenlty permanently
 iab perneatnly permanently
@@ -18629,6 +18679,7 @@ iab procduedure procedure
 iab proce3ss process
 iab proce4sses processes
 iab procecssing processing
+iab procedreuds procedures
 iab proceicient proficient
 iab proces process
 iab procesas process
@@ -20175,6 +20226,7 @@ iab reterieval retrieval
 iab reterive retrieve
 iab reternn return
 iab retetion retention
+iab retgurned returned
 iab retiina retina
 iab retnr return
 iab retporter reporter
@@ -20225,6 +20277,7 @@ iab reuired required
 iab reulaible reliable
 iab reuqest request
 iab reuqests requests
+iab reuqesxt request
 iab reuqiqrered require
 iab reuqire require
 iab reuqiremets requirements
