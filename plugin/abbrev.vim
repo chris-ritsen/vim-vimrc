@@ -181,6 +181,7 @@ iab Conceivingh Conceiving
 iab Concequence Consequence
 iab Conetinually Continually
 iab Congtratulations Congratulations
+iab Conrifrmed Confirmed
 iab Conrrad Conrad
 iab Consequ3ence Consequence
 iab Considder Consider
@@ -14966,6 +14967,7 @@ iab localstorage localStorage
 iab locationsa locations
 iab locationsl locations
 iab locatiopn location
+iab locatwe locate
 iab locdation location
 iab locgic logic
 iab locical logical
@@ -23543,6 +23545,7 @@ iab thave have
 iab thaving having
 iab thawt that
 iab thayg that
+iab thbe the
 iab thbought thought
 iab thd the
 iab theat that
