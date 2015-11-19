@@ -63,6 +63,7 @@ iab Authenticatyions Authentications
 iab Automaatically Automatically
 iab Availablility Availability
 iab BOot Boot
+iab BOviously Obviously
 iab BROWSEWR BROWSER
 iab BUIld Build
 iab BUggy Buggy
@@ -290,6 +291,7 @@ iab DEStionation Destination
 iab DEcide Decide
 iab DEciding Deciding
 iab DEscribe Describe
+iab DEscropitiobns Descriptions
 iab DEstioation Destination
 iab DEstionation Destination
 iab DEstionqation Destination
@@ -681,6 +683,7 @@ iab Frozyen Frozen
 iab Fucndtion Function
 iab Fuction Function
 iab Functoins Functions
+iab Futlers Filters
 iab GBut But
 iab GBy Gaby
 iab GEt Get
@@ -6441,6 +6444,7 @@ iab cnetral central
 iab cnewnter center
 iab cnewter center
 iab cnintonue continue
+iab cnisole console
 iab cnitnue continue
 iab cnjugations conjugations
 iab cnosle console
@@ -8357,6 +8361,7 @@ iab detuals details
 iab detyails details
 iab deubber debugger
 iab deubbger debugger
+iab deubger debugger
 iab deubgetr debugger
 iab deubgger debugger
 iab deubuger debugger
@@ -11263,6 +11268,7 @@ iab filmkmakers filmmakers
 iab filmn film
 iab filpmlmakers filmmakers
 iab filred fired
+iab filrtered filtered
 iab filt3sr filters
 iab filterablre filterable
 iab filterd filtered
@@ -11636,6 +11642,7 @@ iab fucklers fuckers
 iab fucling fucking
 iab fuclker fucker
 iab fucndetion function
+iab fucndtiON function
 iab fucndtion function
 iab fucndtionaltity functionality
 iab fucndtions functions
@@ -12854,6 +12861,7 @@ iab ies is
 iab iet it
 iab iether either
 iab ieven even
+iab ievent event
 iab ieveroyne everyone
 iab iexcept except
 iab ifinsihed finished
@@ -15867,6 +15875,7 @@ iab moessage message
 iab moeth month
 iab moethd method
 iab moethod method
+iab mofved moved
 iab moglich möglich
 iab mohter mother
 iab moible mobile
