@@ -26503,3 +26503,5 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
+iab awardede awarded
+iab stauts status
