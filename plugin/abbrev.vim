@@ -4824,6 +4824,7 @@ iab avrerage average
 iab awaerness awareness
 iab awant want
 iab awardded awarded
+iab awardede awarded
 iab awardeed awarded
 iab awardsed awarded
 iab awaredeed awarded
@@ -15856,6 +15857,7 @@ iab moemory memory
 iab moemroy memory
 iab moemry memory
 iab moemtn moment
+iab moennt moment
 iab moeny money
 iab moer more
 iab moermy memory
@@ -19649,6 +19651,7 @@ iab refridgerator refrigerator
 iab refrigrerator refrigerator
 iab refrring referring
 iab refrseh refresh
+iab refrsh refresh
 iab refruns reruns
 iab refruse refuse
 iab refuilled refilled
@@ -20962,6 +20965,7 @@ iab secdtions sections
 iab secenario scenario
 iab secene scene
 iab seceretary secretary
+iab secfiotn section
 iab secftion section
 iab secftions sections
 iab secfton Sefton
@@ -22222,6 +22226,7 @@ iab statrt start
 iab statsu status
 iab staty stay
 iab statyus status
+iab stauts status
 iab stawet state
 iab stawrndard standard
 iab stawrt start
@@ -25179,6 +25184,7 @@ iab varuiaous various
 iab vas was
 iab vaslues values
 iab vasty vastly
+iab vatr var
 iab vaucuuming vacuuming
 iab vauge vague
 iab vavoid avoid
@@ -26503,6 +26509,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab awardede awarded
-iab stauts status
-iab secfiotn section

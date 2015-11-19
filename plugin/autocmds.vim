@@ -415,7 +415,7 @@ augroup omnisharp_commands
     " autocmd! FileType cs nnoremap <leader>ft :OmniSharpFindType<cr>
     " autocmd! FileType cs nnoremap <leader>fu :OmniSharpFindUsages<cr>
     " autocmd! FileType cs nnoremap <leader>fx :OmniSharpFixUsings<cr>
-    " autocmd! FileType cs nnoremap <leader>gd :OmniSharpGotoDefinition<cr>
+    autocmd! FileType cs nnoremap <leader>x :OmniSharpGotoDefinition<cr>
     " autocmd! FileType cs nnoremap <leader>tt :OmniSharpTypeLookup<cr>
     " autocmd! FileType cs nnoremap <leader>x  :OmniSharpFixIssue<cr>
     " autocmd! FileType cs setlocal omnifunc=OmniSharp#Complete
