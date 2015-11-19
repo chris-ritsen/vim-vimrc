@@ -302,6 +302,7 @@ iab DFIXME FIXME
 iab DFichotomies Dichotomies
 iab DId Did
 iab DIlbert Dilbert
+iab DIoitot Idiot
 iab DIsalbg2 Disable
 iab DIsiable Disable
 iab DOctor Doctor
@@ -375,6 +376,7 @@ iab Diblbert Dilbert
 iab Differnet Different
 iab Digiital Digital
 iab Digittal Digital
+iab Diiodt Idiot
 iab Dilbewrt Dilbert
 iab Dillbert Dilbert
 iab Dilvert Dilbert
