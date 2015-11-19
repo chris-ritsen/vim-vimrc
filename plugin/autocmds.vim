@@ -377,16 +377,33 @@ autocmd! BufRead,BufNewFile abbrev.vim nnoremap <silent> <leader>k :silent! %s/^
 
 " omnisharp {{{
 
+" FIXME: This section is a complete mess.
+
+" HUH? What is <leader>p ... opens some kind of command prompt.
+
 augroup omnisharp_commands
   autocmd!
 
   if exists('g:OmniSharp_loaded')
-    " FIXME: check if OmniSharp has been loaded before adding these autocommands
+    " FIXME: check if OmniSharp has been loaded before adding these
+    " autocommands.
+
+		let g:OmniSharp_timeout = 1
+
+    " Showmatch significantly slows down omnicomplete when the first match
+    " contains parentheses.
+
+		set noshowmatch
+
+    " Don't autoselect first item in omnicomplete, show if only one item (for
+    " preview) remove preview if you don't want to see any documentation
+    " whatsoever.
+
+		set completeopt=longest,menuone,preview
 
     autocmd! BufEnter,TextChanged,InsertLeave *.cs SyntasticCheck
 
-    " autocmd! BufWritePost *.cs call OmniSharp#AddToProject()
-    " autocmd! CursorHold *.cs call OmniSharp#TypeLookupWithoutDocumentation()
+    autocmd BufWritePost *.cs call OmniSharp#AddToProject()
 
     " autocmd! FileType cs nnoremap <C-J> :OmniSharpNavigateDown<cr>
     " autocmd! FileType cs nnoremap <C-K> :OmniSharpNavigateUp<cr>
@@ -408,6 +425,44 @@ augroup omnisharp_commands
   endif
 
 augroup END
+
+" Show type information automatically when the cursor stops moving.
+
+autocmd CursorHold *.cs call OmniSharp#TypeLookupWithoutDocumentation()
+
+" this setting controls how long to wait (in ms) before fetching type / symbol information.
+set updatetime=500
+" Remove 'Press Enter to continue' message when type information is longer than one line.
+set cmdheight=2
+
+" Contextual code actions (requires CtrlP or unite.vim)
+" nnoremap <leader><space> :OmniSharpGetCodeActions<cr>
+
+" Run code actions with text selected in visual mode to extract method
+" vnoremap <leader><space> :call OmniSharp#GetCodeActions('visual')<cr>
+
+" rename with dialog
+nnoremap <leader>nm :OmniSharpRename<cr>
+nnoremap <F2> :OmniSharpRename<cr>
+" rename without dialog - with cursor on the symbol to rename... ':Rename newname'
+command! -nargs=1 Rename :call OmniSharp#RenameTo("<args>")
+
+" Force OmniSharp to reload the solution. Useful when switching branches etc.
+nnoremap <leader>rl :OmniSharpReloadSolution<cr>
+nnoremap <leader>cf :OmniSharpCodeFormat<cr>
+" Load the current .cs file to the nearest project
+nnoremap <leader>tp :OmniSharpAddToProject<cr>
+
+" (Experimental - uses vim-dispatch or vimproc plugin) - Start the omnisharp server for the current solution
+nnoremap <leader>ss :OmniSharpStartServer<cr>
+nnoremap <leader>sp :OmniSharpStopServer<cr>
+
+" Add syntax highlighting for types and interfaces
+nnoremap <leader>th :OmniSharpHighlightTypes<cr>
+"Don't ask to save when changing buffers (i.e. when jumping to a type definition)
+
+" autocmd! BufWritePost *.cs call OmniSharp#AddToProject()
+" autocmd! CursorHold *.cs call OmniSharp#TypeLookupWithoutDocumentation()
 
 " }}}
 
