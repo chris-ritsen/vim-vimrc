@@ -19,6 +19,7 @@ iab AEsome Awesome
 iab AFter After
 iab ALright Alright
 iab ANgular Angular
+iab ANother Another
 iab ARrive Arrive
 iab ASbouelt Absolute
 iab AVoiding Avoiding
@@ -76,6 +77,7 @@ iab Begginner Beginner
 iab Beign Begin
 iab Beinginnnnnn Being
 iab Bevause Because
+iab Bizzarely Bizarrely
 iab Bjuidl Build
 iab Bjuild Build
 iab Bjuisdl Build
@@ -4401,6 +4403,7 @@ iab argumetnss arguments
 iab argumetnts arguments
 iab argyment argument
 iab arhc arch
+iab arhcihitecture architecture
 iab arhcive archive
 iab aribirrary arbitrary
 iab aribrirarrily arbitrarily
@@ -5876,6 +5879,7 @@ iab capabilityh capability
 iab capabillty capability
 iab capabple capable
 iab capabyity capability
+iab capacitiy capacity
 iab capaibitioes capabilities
 iab capaicty capacity
 iab capanbiliteis capabilities
@@ -5968,6 +5972,7 @@ iab ccan can
 iab ccaptain captain
 iab ccausula casual
 iab cchange change
+iab ccompalints complaints
 iab ccompare compare
 iab ccontinue continue
 iab ccontro control
@@ -6497,6 +6502,7 @@ iab cnsoolel console
 iab cnter center
 iab cntinute continue
 iab cnttorlller controller
+iab coampoainned complained
 iab coarbon carbon
 iab cobnsole console
 iab cobntrol control
@@ -6742,7 +6748,9 @@ iab compaatiability compatibility
 iab compaghyn company
 iab compahy company
 iab compahyu company
+iab compained complained
 iab compalin complain
+iab compalined complained
 iab compaly company
 iab compamy company
 iab companhuyies companies
@@ -8061,6 +8069,7 @@ iab decidated dedicated
 iab decideds decides
 iab decideed decided
 iab decidied decided
+iab decidign deciding
 iab decidingt deciding
 iab decie device
 iab decieded decided
@@ -8322,6 +8331,7 @@ iab desktosp desktops
 iab desktpo desktop
 iab deslutsion delusion
 iab desotroyed destroyed
+iab desotrying destroying
 iab despaertly desperately
 iab desparaltey desperately
 iab desparate desperate
@@ -8469,6 +8479,7 @@ iab devleope develop
 iab devleoped developed
 iab devleopemnt development
 iab devleoper developer
+iab devleoperes developers
 iab devleopers developers
 iab devleopertm developer
 iab devleoping developing
@@ -12302,6 +12313,7 @@ iab hchoosy choosy
 iab hcild child
 iab hcip chip
 iab hcnage change
+iab hcnaging changing
 iab hcontains contains
 iab hcooose choose
 iab hcoose choose
@@ -13737,6 +13749,7 @@ iab insteadd instead
 iab insteade instead
 iab insteadf instead
 iab insteall install
+iab insteance instance
 iab insteances instances
 iab insteawd instead
 iab insted instead
@@ -13878,6 +13891,7 @@ iab interfacte interface
 iab interfaes interfaces
 iab interfedrred interfered
 iab intergral integral
+iab intergrated integrated
 iab interia inertia
 iab interinal internal
 iab interlaly internally
@@ -13994,6 +14008,7 @@ iab intterupted interrupted
 iab intuiotions intuitions
 iab intuitivlely intuitively
 iab intutively intuitively
+iab inufnisnined unfinished
 iab inuition intuition
 iab inutitvely intuitively
 iab inuvolved involved
@@ -15569,6 +15584,7 @@ iab memyro memory
 iab menaingless meaningless
 iab menantuful meaningful
 iab menas means
+iab menat meant
 iab menditon mention
 iab meneat meant
 iab mentawl mental
@@ -16513,6 +16529,7 @@ iab nmodule module
 iab nmuerder murder
 iab nmy my
 iab nnight night
+iab nno no
 iab nnormal normal
 iab nnot not
 iab nnow now
@@ -16838,6 +16855,7 @@ iab ocmpatability compatibility
 iab ocmpayny company
 iab ocmpcuters computers
 iab ocmpelte complete
+iab ocmplaiend complained
 iab ocmpleltely completely
 iab ocmpleted completed
 iab ocmpletel complete
@@ -18417,6 +18435,7 @@ iab possibliyt possibility
 iab possiblle possible
 iab possiblyt possibly
 iab possibulty possibility
+iab possidbility possibility
 iab possilbiyt possibly
 iab possilby possibly
 iab possition position
@@ -18785,6 +18804,7 @@ iab proactice practice
 iab proactifed practiced
 iab probablh probably
 iab probablu probably
+iab probabluy probably
 iab probablyh probably
 iab probablyt probably
 iab probabyl probably
@@ -19699,6 +19719,7 @@ iab rednering rendering
 iab redneringg rendering
 iab redquires requires
 iab redst rest
+iab redsutl result
 iab reducded reduced
 iab reducte reduce
 iab redudancy redundancy
@@ -20027,6 +20048,7 @@ iab repetetice repetitive
 iab repetetive repetitive
 iab repetiotion repetition
 iab repettitive repetitive
+iab replaceed replaced
 iab replacemnet replacement
 iab replacemten replacement
 iab replacemtn replacement
@@ -21602,6 +21624,7 @@ iab signnificalntly significantly
 iab signpu signup
 iab signuyp signup
 iab sijmple simple
+iab sijmpluy simply
 iab sikll skill
 iab silebnt silent
 iab silennced silenced
@@ -21707,6 +21730,7 @@ iab sinificance significance
 iab sinight insight
 iab sinmce since
 iab sinply simply
+iab sintacne instance
 iab sintead instead
 iab sinxe since
 iab sinxece since
