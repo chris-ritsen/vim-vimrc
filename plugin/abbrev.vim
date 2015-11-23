@@ -33,7 +33,9 @@ iab Absoulte Absolute
 iab Absoutel Absolute
 iab Additonally Additionally
 iab Afetr After
+iab Aftert After
 iab Againl Again
+iab Againu Again
 iab Aircaraft Aircraft
 iab Akrugrt Alright
 iab Alrealduy Already
@@ -246,6 +248,7 @@ iab Continualyy Continually
 iab Continulally Continually
 iab Continyue Continue
 iab Contiuinaully Continually
+iab Contiuing Continuing
 iab Contiunally Continually
 iab Contiunaully Continually
 iab Contiuynaluly Continually
@@ -1355,6 +1358,7 @@ iab Mosnter Monster
 iab Mosty Most
 iab Mozardt Mozart
 iab MsacBook Macbook
+iab Msucles Muscles
 iab Muichigan Michigan
 iab Myabe Maybe
 iab Myu My
@@ -4591,6 +4595,7 @@ iab arhcitect architect
 iab arhcive archive
 iab aribirrary arbitrary
 iab aribrirarrily arbitrarily
+iab ariise arise
 iab arious various
 iab aritcles articles
 iab aritisds artists
@@ -5042,6 +5047,7 @@ iab avilouded avoided
 iab avioid avoid
 iab avioud avoid
 iab aviouded avoided
+iab avoaided avoided
 iab avoidddds avoids
 iab avoididng avoiding
 iab avoidign avoiding
@@ -5236,6 +5242,7 @@ iab barohterb brother
 iab barrent barren
 iab barriar barrier
 iab barriesrs barriers
+iab bartking barking
 iab bary vary
 iab barying varying
 iab bascilaly basically
@@ -5374,6 +5381,7 @@ iab befvacyse because
 iab befvore before
 iab begaan began
 iab begain began
+iab begger beggar
 iab begginner beginner
 iab beghin begin
 iab begining beginning
@@ -6437,6 +6445,7 @@ iab chomprehention comprehension
 iab chomputer computer
 iab chompuyter computer
 iab chooose choose
+iab chooseing choosing
 iab choosew choose
 iab chooswe choose
 iab chopiness choppiness
@@ -7064,6 +7073,7 @@ iab complewted completed
 iab compliated complicated
 iab compliation compilation
 iab compliccated complicated
+iab compliex complex
 iab compliled compiled
 iab complleted completed
 iab complonets components
@@ -7192,8 +7202,10 @@ iab conceaaled concealed
 iab conceealed concealed
 iab conceede concede
 iab conceedes concedes
+iab conceieve conceive
 iab concenrs concerns
 iab concentraion concentration
+iab concentraiton concentration
 iab concepets concepts
 iab conceppets concepts
 iab conceptes concepts
@@ -7935,6 +7947,7 @@ iab cotnorl control
 iab cotnrolled controlled
 iab cotnroller controller
 iab cotnroolelr controller
+iab cotrol control
 iab couche couch
 iab coudl could
 iab coughted coughed
@@ -8566,6 +8579,7 @@ iab descirbes describes
 iab descirption description
 iab descrdibed described
 iab descreas decrease
+iab descreibed described
 iab descrending descending
 iab describd described
 iab describedf described
@@ -8586,6 +8600,7 @@ iab descrpption description
 iab descrpton description
 iab descrribed described
 iab descruipbe describe
+iab descrwibed described
 iab descsrives describes
 iab desctrution destruction
 iab desdcbribe describe
@@ -9350,6 +9365,7 @@ iab distrubing disturbing
 iab distrubuted distributed
 iab distruoptuions disruptions
 iab distruptuions disruptions
+iab distrutbed disturbed
 iab disttanc3 distance
 iab distubance disturbance
 iab distuhinction distinction
@@ -10050,6 +10066,7 @@ iab ekep keep
 iab ekey key
 iab ekeyboard keyboard
 iab ekitchen kitchen
+iab elading leading
 iab elanguages languages
 iab elanred learned
 iab elarluyer earlier
@@ -10599,6 +10616,7 @@ iab equaaaaaally equally
 iab equallay equally
 iab equallty equally
 iab equaly equally
+iab equamnimty equanimity
 iab equanimiity equanimity
 iab equiavalence equivalence
 iab equilibirum equilibrium
@@ -13588,6 +13606,7 @@ iab importanrtn important
 iab importantce importance
 iab importanty important
 iab importatn important
+iab importnace importance
 iab importnaet important
 iab importnant important
 iab importnat important
@@ -16508,6 +16527,7 @@ iab momemtn moment
 iab momenet moment
 iab momentarioly momentarily
 iab momentariyly momentarily
+iab momentatryt momentary
 iab momentl moment
 iab momenty moment
 iab momentyarly momentarily
@@ -16660,6 +16680,7 @@ iab mstaken mistaken
 iab msthin margin
 iab mstkane mistaken
 iab msuci music
+iab msucles muscles
 iab msucnele muscle
 iab msuic music
 iab msut must
@@ -17202,6 +17223,7 @@ iab oabut about
 iab oafter after
 iab oall all
 iab oaother another
+iab obcviously obviously
 iab obdervatyions observations
 iab obderve observe
 iab obectionalbe objectionable
@@ -17233,6 +17255,7 @@ iab objecf object
 iab objecft object
 iab objecrst object
 iab objecrts objects
+iab objecteive objective
 iab objecteives objectives
 iab objectional objectionable
 iab objectionalbe objectionable
@@ -17673,6 +17696,7 @@ iab opopsites opposites
 iab opopulatioe populated
 iab oportuntity opportunity
 iab opost post
+iab opotion option
 iab opotions options
 iab opotoinso options
 iab opower power
@@ -18365,6 +18389,7 @@ iab perceieved perceived
 iab perceiouvlably perceivably
 iab perceiption perception
 iab perceiptions perceptions
+iab perceiveiable perceivable
 iab percentnage percentage
 iab perceptiaul perceptual
 iab perceptiual perceptual
@@ -18590,6 +18615,7 @@ iab phsicists physicists
 iab phsiological physiological
 iab phsiscists physicists
 iab phsisiststs physicists
+iab phsuicail physical
 iab phsuiological physiological
 iab phsuysioliigcal physiological
 iab phsycail physical
@@ -18866,6 +18892,7 @@ iab poitential potential
 iab poitentially potentially
 iab poitned pointed
 iab poitnless pointless
+iab poiuitns points
 iab poiunbds pounds
 iab poiured poured
 iab poiwer power
@@ -19090,6 +19117,7 @@ iab pracdtife practice
 iab praceticde practice
 iab praceticing practicing
 iab pracfitces practices
+iab pracice practice
 iab praciced practiced
 iab pracicticed practiced
 iab pracictie practice
@@ -20927,6 +20955,7 @@ iab respecitvely respectively
 iab respecitvlely respectively
 iab respecteved respective
 iab respecticely respectively
+iab respecvted respected
 iab respeesantionation representation
 iab respeicitively respectively
 iab respelctable respectable
@@ -21116,6 +21145,7 @@ iab reurtrn return
 iab reusem resume
 iab reusiable reusable
 iab reuslt result
+iab reusltants resultants
 iab reuslts results
 iab reusme resume
 iab reustlt result
@@ -21155,6 +21185,7 @@ iab revieweec reviewed
 iab reviewi review
 iab reviewingw reviewing
 iab reviifewing reviewing
+iab revisists revisits
 iab revivew review
 iab revivewing reviewing
 iab reviwing reviewing
@@ -22564,6 +22595,7 @@ iab snawithch sandwich
 iab sned send
 iab sneding sending
 iab sneeindg sending
+iab sneese sneeze
 iab sneior senior
 iab snentenc sentence
 iab snentence sentence
@@ -24084,6 +24116,7 @@ iab teenahger teenager
 iab teenavhers teenagers
 iab teerrestials terrestrials
 iab teest test
+iab teethc teeth
 iab tegy they
 iab teh the
 iab tehat that
@@ -24445,6 +24478,7 @@ iab themselvels themselves
 iab themselvses themselves
 iab themseves themselves
 iab themsevles themselves
+iab themsewlves themselves
 iab themsleves themselves
 iab themslevles themselves
 iab themswelves themselves
@@ -24737,6 +24771,7 @@ iab throughouth throughout
 iab throught through
 iab throughtout throughout
 iab througn through
+iab thrtough through
 iab thruogh through
 iab thsat that
 iab thse these
@@ -25508,6 +25543,7 @@ iab udnersannnd understand
 iab udnerscore underscore
 iab udnerstand understand
 iab udnerstanding understanding
+iab udnerstood understood
 iab udnestanding understanding
 iab udnrestand understand
 iab udnrestood understood
@@ -25622,6 +25658,7 @@ iab undersgorund underground
 iab undersirable undesirable
 iab undersnad underhand
 iab undersnatd understand
+iab undersotood understood
 iab understaindg understanding
 iab understainding understanding
 iab understande understand
@@ -25817,6 +25854,7 @@ iab unsderstantd understand
 iab unsertaion uncertain
 iab unsettleing unsettling
 iab unsisable unusable
+iab unsivrersal universal
 iab unskillfull unskillful
 iab unsuabble unusable
 iab unsuable unusable
@@ -25840,8 +25878,10 @@ iab unusuasl unusual
 iab unuusal unusual
 iab unuusual unusual
 iab unviersae universe
+iab unwareare unaware
 iab unweieldy unwieldy
 iab unwelcomed unwelcome
+iab unwholsome unwholesome
 iab unxexpected unexpected
 iab unyeilding unyielding
 iab uop up
