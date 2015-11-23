@@ -27693,3 +27693,24 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
+iab dsdecribed described
+iab shoudl should
+iab apaprent apparent
+iab sayign saying
+iab conclfict conflict
+iab concetnration concentration
+iab devleiooping developing
+iab remeina remain
+iab merelrly merely
+iab impolied implied
+iab manaifested manifested
+iab circumsatnaces circumstances
+iab TRhe The
+iab contecentration concentration
+iab puyrpsose purpose
+iab epxlicit explicit
+iab reitereated reiterated
+iab abundently abundantly
+iab firtuerh further
+iab proligong prolong
+iab conrrivted contrived
