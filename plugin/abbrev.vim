@@ -4676,6 +4676,7 @@ iab asbout about
 iab asbsolutely absolutely
 iab asccess access
 iab asccording according
+iab ascehsism asceticism
 iab asd as
 iab asdd and
 iab asded added
@@ -4717,6 +4718,7 @@ iab asprin aspirin
 iab aspurin aspirin
 iab aspyrin aspirin
 iab asre are
+iab asrise arise
 iab assaets assets
 iab assaociated associated
 iab asseessment assessment
@@ -6214,6 +6216,7 @@ iab cehecked checked
 iab cehkcing checking
 iab ceho echo
 iab celar clear
+iab celarly clearly
 iab celbratiging celebrating
 iab celean clean
 iab celebrade celebrate
@@ -7187,6 +7190,7 @@ iab concditions conditions
 iab concdrete concrete
 iab conceaaled concealed
 iab conceealed concealed
+iab conceede concede
 iab conceedes concedes
 iab concenrs concerns
 iab concentraion concentration
@@ -8703,6 +8707,8 @@ iab deubgetr debugger
 iab deubgger debugger
 iab deubuger debugger
 iab deugbgter debugger
+iab deulusion delusion
+iab devbeated debated
 iab devceloping developing
 iab devekioer developer
 iab deveklopers developers
@@ -11039,6 +11045,7 @@ iab examsple example
 iab exanmples examples
 iab exapmle example
 iab exapmlle example
+iab exapmple example
 iab exasclty exactly
 iab exasct exact
 iab exasctly exactly
@@ -11205,6 +11212,7 @@ iab exmpal example
 iab exmpale example
 iab exmplain explain
 iab exmple example
+iab exmpsapole example
 iab exmsaple example
 iab exoperience experience
 iab exosts exists
@@ -11214,6 +11222,7 @@ iab expain explain
 iab expaing explain
 iab expalin explain
 iab expalins explains
+iab expalle example
 iab expalmple example
 iab expample example
 iab expansinon expansion
@@ -13325,6 +13334,7 @@ iab idlosed idolised
 iab idnents indents
 iab idnesx index
 iab idnetidal identical
+iab idnicigftail individual
 iab idnsex index
 iab idnviviaul individual
 iab idoes does
@@ -13866,6 +13876,7 @@ iab indeces indices
 iab indeciates indicates
 iab inded index
 iab indedipsuably indisputably
+iab indeivisual individual
 iab indendetgd intended
 iab indenepdent independent
 iab indenfinitely indefinitely
@@ -15888,6 +15899,7 @@ iab marop mario
 iab martch march
 iab marthcign marching
 iab martierla material
+iab masicicsm masochism
 iab mataininging maintaining
 iab matchdgin matching
 iab matchgin matching
@@ -17018,6 +17030,7 @@ iab niull null
 iab nkknow know
 iab nknow know
 iab nknowledge knowledge
+iab nknown known
 iab nknowne unknown
 iab nknows knows
 iab nleep sleep
@@ -17888,7 +17901,9 @@ iab otpical topical
 iab otther other
 iab ottold told
 iab otu out
+iab otucime outcome
 iab otuer other
+iab oturight outright
 iab otusiede outside
 iab otype type
 iab oubhd bound
@@ -19497,6 +19512,7 @@ iab proessed processed
 iab proesses process
 iab proessing processing
 iab proessional professional
+iab proevious previous
 iab profesion profession
 iab profesionals professionals
 iab professiojna profession
@@ -19994,6 +20010,7 @@ iab qwith with
 iab qwkward awkward
 iab qwork work
 iab qworking working
+iab qwuestion question
 iab qwuqstions questions
 iab qwustions questions
 iab qyanitities quantities
@@ -21439,6 +21456,7 @@ iab safastedst fastest
 iab safeltuy safely
 iab safete safety
 iab safter safer
+iab saftify satisfy
 iab sahdow shadow
 iab sailers sailors
 iab saing saying
@@ -21481,12 +21499,14 @@ iab satarting starting
 iab satays stays
 iab satelliite satellite
 iab satidsfy satisfy
+iab satidsify satisfy
 iab satifsying satisfying
 iab satify satisfy
 iab satisfacftion satisfaction
 iab satisfaciton satisfaction
 iab satisfactorly satisfactory
 iab satisfcation satisfaction
+iab satisfieable satisfiable
 iab satisgying satisfying
 iab satisifable satisfiable
 iab satisifiable3 satisfiable
@@ -22710,6 +22730,7 @@ iab somewher somewhere
 iab somewherre somewhere
 iab somewhewre somewhere
 iab somewhre somewhere
+iab somewhree somewhere
 iab somewhwere somewhere
 iab somewone someone
 iab somewrhwere somewhere
@@ -22849,6 +22870,7 @@ iab specificlaly specifically
 iab specifiied specified
 iab specifiy specify
 iab specifiying specifying
+iab speciies species
 iab speciif specific
 iab speciifc specific
 iab specilty specialty
@@ -23715,6 +23737,7 @@ iab swtomach stomach
 iab swutch switch
 iab swweep sweep
 iab sxiteen sixteen
+iab sxome some
 iab sxterictly strictly
 iab sya say
 iab syaing saying
@@ -25651,6 +25674,7 @@ iab undre under
 iab undreground underground
 iab undresantd understand
 iab undresstanding understanding
+iab undrestood understood
 iab undsersanding understanding
 iab undserstand understand
 iab undsure unsure
