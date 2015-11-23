@@ -105,6 +105,7 @@ iab Bujild Build
 iab Buuild Build
 iab Buyt But
 iab Byt But
+iab Byut But
 iab CAn Can
 iab CAncel Cancel
 iab CArrieers Carriers
@@ -1393,6 +1394,7 @@ iab NOte Note
 iab NOtes Notes
 iab NOtesw Notes
 iab NOthbign Nothing
+iab NOtheing Nothing
 iab NOthign Nothing
 iab NOthignk Nothing
 iab NOthing Nothing
@@ -6785,6 +6787,7 @@ iab coce code
 iab cocern concern
 iab cocerns concerns
 iab cocllection collection
+iab cocomitant concomitant
 iab codbebase codebase
 iab coddlying coddling
 iab codebaaaaase codebase
@@ -7502,6 +7505,7 @@ iab consierable considerable
 iab consiered considered
 iab consiistnalty consistently
 iab consilidation consolidation
+iab consiocussnes consciousness
 iab consiouce conscious
 iab consiouness consciousness
 iab consious conscious
@@ -7985,6 +7989,7 @@ iab cosnoelle console
 iab cosnole console
 iab cosntants constants
 iab cosntrucdtion construction
+iab cosoicnoiusness consciousness
 iab cosole console
 iab cosonle console
 iab cosooe console
@@ -11892,6 +11897,7 @@ iab firndss friends
 iab firnge fringe
 iab firset first
 iab firt fit
+iab firtuyehr further
 iab firzst first
 iab fishort short
 iab fisniehd finished
@@ -13296,6 +13302,7 @@ iab httpp http
 iab htttp http
 iab htus huts
 iab huamn human
+iab hudnersainces hindrances
 iab hudnred hundred
 iab hudrennd hundred
 iab huim him
@@ -13863,6 +13870,7 @@ iab inciplete incomplete
 iab incivudal individual
 iab incldue include
 iab incldues includes
+iab incldugin including
 iab incldye include
 iab incliced inclined
 iab inclided inclined
@@ -14395,6 +14403,7 @@ iab inteintonally intentionally
 iab inteion intention
 iab inteiotn intention
 iab inteitnoin intention
+iab intelelectually intellectually
 iab intelelictual intellectual
 iab inteliigent intelligent
 iab intellecautlaly intellectually
@@ -14599,6 +14608,7 @@ iab intruiging intriguing
 iab intrustive intrusive
 iab intterupted interrupted
 iab intuiotions intuitions
+iab intuitibley itunitilbley
 iab intuitivlely intuitively
 iab intutively intuitively
 iab inufnisnined unfinished
@@ -14841,6 +14851,7 @@ iab itsleff itself
 iab itslelf itself
 iab ittile title
 iab ittle little
+iab itunitilbley intuitively
 iab itw it
 iab ity it
 iab iuf if
@@ -18459,6 +18470,7 @@ iab pelasde please
 iab pelase please
 iab pelase4 please
 iab pelaseure pleasure
+iab pelaseures pleasures
 iab peleaseure pleasure
 iab pemranlntly permanently
 iab pemranntly permanently
@@ -21505,6 +21517,7 @@ iab rouyndabout roundabout
 iab rovk rock
 iab rpabably probably
 iab rpaboably probably
+iab rpacitce practice
 iab rpaciteses practices
 iab rpactice practice
 iab rpactices practices
@@ -23736,6 +23749,7 @@ iab suprisingly surprisingly
 iab suprisinglyy surprisingly
 iab suprisinlgy surprisingly
 iab suprisringly surprisingly
+iab suprpessed suppressed
 iab suprpres suppress
 iab suprpsingly surprisingly
 iab suprringinly surprisingly
@@ -25714,6 +25728,7 @@ iab ubyuqyuouts ubiquoutous
 iab ucklyngs ducklings
 iab ucrrent current
 iab uderstand understand
+iab udne5rstand understand
 iab udnefined undefined
 iab udner under
 iab udnersannnd understand
