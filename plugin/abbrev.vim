@@ -1144,6 +1144,7 @@ iab Karne Karen
 iab Kenrle Kernel
 iab Kentuckly Kentucky
 iab Kepe Keep
+iab Kepep Keep
 iab Ketchupe Ketchup
 iab KeyErorr KeyError
 iab Keyep Keep
@@ -21114,6 +21115,7 @@ iab ritght right
 iab riting writing
 iab ritsne ritsen
 iab riught right
+iab riwriting writing
 iab riyng trying
 iab rize rise
 iab rjust just
