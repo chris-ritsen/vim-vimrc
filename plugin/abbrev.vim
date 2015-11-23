@@ -2046,6 +2046,7 @@ iab SHure Shure
 iab SIlicate Silicate
 iab SImply Simply
 iab SInce Since
+iab SLright Slight
 iab SMith Smith
 iab SOMETHIGN SOMETHING
 iab SOMeone Someone
@@ -10335,6 +10336,7 @@ iab enfovrimoetn environment
 iab engagign engaging
 iab engagiing engaging
 iab engagnging engaging
+iab engainging engaging
 iab engaingng engaging
 iab enganging engaging
 iab engergize energize
@@ -18623,6 +18625,7 @@ iab pistion position
 iab pistoin piston
 iab pistoin position
 iab pitcure picture
+iab pitnerrupteions interruptions
 iab pkacards placards
 iab pkeep keep
 iab plaaaaying playing
@@ -19296,6 +19299,7 @@ iab prevoiusly previously
 iab prevous previous
 iab prevvise precise
 iab prewfverered preferred
+iab prewviosulyu previously
 iab prfoessional professional
 iab prgblem problem
 iab prgobelm problem
@@ -23086,6 +23090,7 @@ iab stil still
 iab stilll still
 iab stillnetss stillness
 iab stimiulus stimulus
+iab stimlulating stimulating
 iab stimulands stimulants
 iab stimuluant stimulant
 iab stimumulate stimulate
@@ -24136,6 +24141,7 @@ iab temprarily temporarily
 iab temprarly temporally
 iab tempraruly temporarily
 iab tempriarily temporarily
+iab temprorayr temporary
 iab temprory temporary
 iab temr term
 iab temrianl terminal
@@ -24143,6 +24149,7 @@ iab temrinal terminal
 iab temrinals terminals
 iab temrnal terminal
 iab temrparature temperature
+iab temrpoparty temporary
 iab temrporary temporary
 iab temrprateures temperatures
 iab temtipging tempting
