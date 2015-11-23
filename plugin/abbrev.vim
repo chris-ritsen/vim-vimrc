@@ -36,6 +36,7 @@ iab Againl Again
 iab Aircaraft Aircraft
 iab Akrugrt Alright
 iab Alrealduy Already
+iab Alreayd Already
 iab Alrifght Alright
 iab Alrignht Alright
 iab Ammmmontg Among
@@ -524,6 +525,7 @@ iab Ekgnoish English
 iab Elecric Electric
 iab Electic Electric
 iab Electirc Electric
+iab Electornic Electronic
 iab Electrirc Electric
 iab Eleectric Electric
 iab Eleemnt Element
@@ -2368,6 +2370,7 @@ iab TOook Took
 iab TRACRE TRACE
 iab TRAiler Trailer
 iab TRODO TODO
+iab TRhinkg Thinking
 iab TRhis Tris
 iab TVf TV
 iab TWo Two
@@ -5898,6 +5901,7 @@ iab burons burdens
 iab burrning burning
 iab bursh brush
 iab burshesd brushed
+iab burstst bursts
 iab burt but
 iab busienss business
 iab busiiness business
@@ -7069,6 +7073,7 @@ iab comporoimoiesed compromised
 iab composded composed
 iab composiing composing
 iab compoteur computer
+iab compotuer computer
 iab compount compound
 iab compouter computer
 iab compplaining complaining
@@ -11115,6 +11120,7 @@ iab exisitnace existence
 iab exisitng existing
 iab existance existence
 iab existant existent
+iab existiance existence
 iab existin existing
 iab existinance existence
 iab existiung existing
@@ -11611,6 +11617,7 @@ iab figbht fight
 iab figets fidgets
 iab fighrt fight
 iab figners fingers
+iab figngers fingers
 iab figther fighter
 iab figuratevely figuratively
 iab figurout figure
@@ -11746,6 +11753,7 @@ iab flase false
 iab flaset false
 iab flasgs flasks
 iab flaswe false
+iab flaswsa flaws
 iab flecible flexible
 iab flet felt
 iab flexc flex
@@ -12487,6 +12495,7 @@ iab hafl half
 iab hafter after
 iab hagain again
 iab hahpenening happening
+iab hahpepening happening
 iab haibts habits
 iab haing having
 iab halfinv halving
@@ -17595,6 +17604,7 @@ iab opprootunty opportunity
 iab opprotunity opportunity
 iab oppurtunities opportunities
 iab opraring operating
+iab oprevent prevent
 iab oproduct product
 iab oprograms programs
 iab opromise promise
@@ -20659,6 +20669,7 @@ iab requiested requested
 iab requipment equipment
 iab requiqred required
 iab requiqres requires
+iab require3s requires
 iab requirea require
 iab requireas requires
 iab requirede required
@@ -21523,6 +21534,7 @@ iab screeen screen
 iab screenacasts screencasts
 iab screencats screencasts
 iab screene screen
+iab screenfull screenful
 iab screern screen
 iab screew screw
 iab screewn screen
@@ -24305,6 +24317,7 @@ iab themseleves themselves
 iab themselvels themselves
 iab themselvses themselves
 iab themseves themselves
+iab themsevles themselves
 iab themsleves themselves
 iab themslevles themselves
 iab themswelves themselves
@@ -25291,6 +25304,7 @@ iab typso typos
 iab typue type
 iab typuing typing
 iab typung typing
+iab typwriterszx typewriters
 iab tyrn turn
 iab tyrns turns
 iab tyrupe troupe
@@ -25728,6 +25742,7 @@ iab uploawded uploaded
 iab upoin upon
 iab uproductive productive
 iab upstteram upstream
+iab upt up
 iab upublished published
 iab upullled unplugged
 iab upushed pushed
