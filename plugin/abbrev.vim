@@ -2219,6 +2219,7 @@ iab Somethign Something
 iab Sometihng Something
 iab Somewtimes Sometimes
 iab Somoene Someone
+iab Somtimes Sometimes
 iab Sonmwone Someone
 iab Soo So
 iab Sorrhy Sorry
@@ -4779,6 +4780,7 @@ iab astraction abstraction
 iab astromoonser astronomer
 iab astroniomical astronomical
 iab astrophsiycal astrophysical
+iab asttisyfy satisfy
 iab astuff stuff
 iab astuse astute
 iab asusme assume
@@ -4882,6 +4884,7 @@ iab attentiounb attention
 iab attentoin attention
 iab attept attempt
 iab attewmpt attempt
+iab attiantalble attainable
 iab attibute attribute
 iab attidute attitude
 iab attirubtes attributes
@@ -8454,6 +8457,7 @@ iab deifniatley definitely
 iab deisgineer designer
 iab deisgn design
 iab deisnedec designed
+iab deistinction distinction
 iab deither either
 iab deivceis devices
 iab dejcected dejected
@@ -10000,6 +10004,7 @@ iab eficiently efficiently
 iab efificentcy efficiency
 iab eflat flat
 iab efor for
+iab efort effort
 iab efrort effort
 iab efven even
 iab efvent event
@@ -10338,6 +10343,7 @@ iab encolsed enclosed
 iab encouaged encouraged
 iab encounterd encountered
 iab encoursaged encouraged
+iab encoursaging encouraging
 iab encoutered encountered
 iab encoutneered encountered
 iab encoutnered encountered
@@ -16071,6 +16077,7 @@ iab meduium medium
 iab mee me
 iab meeetings meetings
 iab meerge merge
+iab meerley merely
 iab meessages messages
 iab meessgae message
 iab meesssage message
@@ -18581,6 +18588,7 @@ iab pfocess process
 iab pforessionally professionally
 iab pghone phone
 iab pghrase phrase
+iab pghsyucial physical
 iab pgoram program
 iab pgraommers programmers
 iab pgrasde upgrade
@@ -19716,6 +19724,7 @@ iab proprieter proprietor
 iab proprotion proportion
 iab propt prompt
 iab proram program
+iab prorceedign proceeding
 iab prorected protected
 iab prorgam program
 iab prorlbem problem
@@ -21588,6 +21597,7 @@ iab savedf saved
 iab savedwe saved
 iab saveing saving
 iab savr save
+iab sawallowing swallowing
 iab sawy say
 iab sayinb saying
 iab sayingt saying
@@ -25088,6 +25098,7 @@ iab tosday today
 iab tostring toString
 iab totadl total
 iab totalakly totally
+iab tothers others
 iab totla total
 iab tou to
 iab touchest toughest
@@ -25733,6 +25744,7 @@ iab undestand understand
 iab undestanding understanding
 iab undestant understand
 iab undestaood understood
+iab undestodod understood
 iab undestood understood
 iab undestrood understood
 iab undestsanding understanding
@@ -25877,6 +25889,7 @@ iab unparallenled unparalleled
 iab unpinished unpunished
 iab unpredicable unpredictable
 iab unprepated unprepared
+iab unprifitable unprofitable
 iab unquaual unusual
 iab unrealdistic unrealistic
 iab unrealisticlaly unrealistically
@@ -26909,6 +26922,7 @@ iab wirting writing
 iab wirtten written
 iab wirttten written
 iab wisdth width
+iab wishs wishes
 iab wisth width
 iab wisthds widths
 iab witdom wisdom
