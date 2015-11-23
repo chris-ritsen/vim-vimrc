@@ -3625,6 +3625,7 @@ iab agasin again
 iab agble able
 iab agefs ages
 iab agendaas agendas
+iab aggegates aggregates
 iab aggree agree
 iab aggregatesd aggregates
 iab aggresion aggression
@@ -3636,6 +3637,7 @@ iab agianst against
 iab agin again
 iab agina again
 iab aginst against
+iab agistations agitations
 iab agmaes games
 iab agnecy agency
 iab agnet agent
@@ -5447,6 +5449,7 @@ iab beloingng belonging
 iab ben been
 iab benath beneath
 iab bene been
+iab benefiicial beneficial
 iab benefitis benefits
 iab beneif benefit
 iab beneifit benefit
@@ -5674,6 +5677,7 @@ iab bocses boxes
 iab bocx box
 iab bodey body
 iab bodfyu body
+iab bodlily bodily
 iab bodu body
 iab boduy body
 iab bodyies bodies
@@ -6143,6 +6147,7 @@ iab captian captain
 iab captiojn caption
 iab caqble cable
 iab caracter character
+iab caractierstic characteristic
 iab carbed carved
 iab carbom carbon
 iab cardboarc cardboard
@@ -6720,6 +6725,7 @@ iab cnintonue continue
 iab cnisole console
 iab cnitnue continue
 iab cnjugations conjugations
+iab cnoceptual conceptual
 iab cnosle console
 iab cnosnle console
 iab cnosnoel console
@@ -7283,6 +7289,7 @@ iab conealed concealed
 iab conecferencde conference
 iab conect connect
 iab conection connection
+iab conempltation contemplation
 iab conems comes
 iab conenct connect
 iab conencted connected
@@ -7504,6 +7511,7 @@ iab consiuming consuming
 iab consle console
 iab conslle console
 iab consloe console
+iab consocusness consciousness
 iab consoe console
 iab consoel console
 iab consoele console
@@ -7664,6 +7672,7 @@ iab contiue continue
 iab contiuing continuing
 iab contiuinuing continuing
 iab contiune continue
+iab contiuneu continue
 iab contiuning continuing
 iab contiunous continuous
 iab contiunue continue
@@ -9757,6 +9766,7 @@ iab eample example
 iab eanbled enabled
 iab eaosnable reasonable
 iab eapplealing appealing
+iab eaqyually equally
 iab earbn earn
 iab earch each
 iab eare are
@@ -10388,6 +10398,7 @@ iab engrosssing engrossing
 iab enhancmenet enhancement
 iab enhjoooooouable enjoyable
 iab enhjoying enjoying
+iab enitehr uniter
 iab enjouy enjoy
 iab enjoyalbge enjoyable
 iab enjoyasble enjoyable
@@ -11470,6 +11481,7 @@ iab extreemley extremely
 iab extrelmenly extremely
 iab extrely extremely
 iab extremee extreme
+iab extremees extremes
 iab extremels extremes
 iab extremelyu extremely
 iab extremlely extremely
@@ -12556,8 +12568,10 @@ iab habanaeros habanero
 iab habe have
 iab habenero habanero
 iab habev have
+iab habititional habitation
 iab habitiyally habitually
 iab habitts habits
+iab habituatl habitual
 iab habitws habits
 iab habr have
 iab habve have
@@ -17374,6 +17388,7 @@ iab obvioysly obviously
 iab obvioyus obvious
 iab obvioyuslky obviously
 iab obvioyusly obviously
+iab obvject object
 iab obvoiously obviously
 iab obvois obvious
 iab obvoisulky obviously
@@ -18696,6 +18711,7 @@ iab plaan plan
 iab plaayers players
 iab placce place
 iab placde place
+iab placeee place
 iab placehoder placeholder
 iab placeing placing
 iab placememnt placement
@@ -19193,6 +19209,7 @@ iab praicties practices
 iab praictiesssss practices
 iab praoctically practically
 iab praoctice practice
+iab prarticiular particular
 iab pratcice practice
 iab pratcited practiced
 iab pratcitse practise
@@ -19313,6 +19330,7 @@ iab preservce preserve
 iab preserveed preserved
 iab presetn present
 iab presetnationn presentation
+iab presetned presented
 iab presetns presents
 iab preseve preserve
 iab presewnt present
@@ -19883,6 +19901,7 @@ iab purpse purpose
 iab purpsie purpose
 iab purpsoe purpose
 iab purpsoes purposes
+iab purpsoese purpose
 iab purpsose purpose
 iab purpuse purpose
 iab purshace purchase
@@ -19894,6 +19913,7 @@ iab purspose purpose
 iab pursposes purposes
 iab pursppose purpose
 iab pursuiing pursuing
+iab pursupe purpose
 iab purychaed purchased
 iab puyrpose purpose
 iab puyt put
@@ -21120,6 +21140,7 @@ iab returnign returning
 iab returnsed returned
 iab returnxs returns
 iab retursns returns
+iab returtn return
 iab retutn return
 iab retuyrn return
 iab retyrb return
@@ -22783,6 +22804,7 @@ iab somewrhwere somewhere
 iab somewt some
 iab somewthign something
 iab somewthing something
+iab somewtimes sometimes
 iab somhow somehow
 iab somke smoke
 iab somketimes sometimes
@@ -23735,6 +23757,7 @@ iab swathgces swatches
 iab sweatches swatches
 iab sweathces swatches
 iab sweawt sweat
+iab swelf self
 iab swent went
 iab swereverd swerved
 iab swerver server
@@ -25707,9 +25730,13 @@ iab undesratnsding understanding
 iab undesrtanding understanding
 iab undesrtant understand
 iab undestand understand
+iab undestanding understanding
 iab undestant understand
+iab undestaood understood
 iab undestood understood
+iab undestrood understood
 iab undestsanding understanding
+iab undetake undertake
 iab undetecteable undetectable
 iab undetrstand understand
 iab undienfied undefined
@@ -25729,8 +25756,10 @@ iab undreground underground
 iab undresantd understand
 iab undresstanding understanding
 iab undrestood understood
+iab undrstanding understanding
 iab undsersanding understanding
 iab undserstand understand
+iab undstodod understood
 iab undsure unsure
 iab uneable unable
 iab unecessary unnecessary
