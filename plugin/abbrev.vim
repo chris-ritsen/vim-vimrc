@@ -369,6 +369,7 @@ iab Definiing Defining
 iab Deliusion Delusion
 iab Demonstarted Demonstrated
 iab Depribved Deprived
+iab Deprression Depression
 iab Deque Dequeue
 iab Derver Server
 iab Desccretes Desecrates
@@ -443,6 +444,7 @@ iab Downlaiding Downloading
 iab Downlaod Download
 iab Downloadign Downloading
 iab Dp Do
+iab Dpreepession Depression
 iab Dringking Drinking
 iab Drooop Droop
 iab Drsribe Describe
@@ -1050,6 +1052,7 @@ iab Indeffatibable Indefatigable
 iab Indespensible Indispensable
 iab Indisitnct Indistinct
 iab Indivusuals Individuals
+iab Indlucling Indulging
 iab Infomration Information
 iab Informationtal Informational
 iab Informatnion Information
@@ -4845,6 +4848,7 @@ iab atmospher3 atmosphere
 iab atmpets attempts
 iab atnececdent antecedent
 iab atnecnecntn antecedent
+iab atnicipated anticipated
 iab atomosphere atmosphere
 iab atomsphere atmosphere
 iab atract attract
@@ -5333,6 +5337,7 @@ iab becaausde because
 iab becacaue because
 iab becaome become
 iab becaomeing becoming
+iab becaomes becomes
 iab becase because
 iab becasue because
 iab becasuse because
@@ -5352,6 +5357,7 @@ iab becauswe because
 iab becauwe because
 iab becayus because
 iab becayuse because
+iab beccomes becomes
 iab becdaudswe3 because
 iab becdome become
 iab becfore before
@@ -5455,6 +5461,7 @@ iab belevevent benevolent
 iab beliefe believe
 iab believ believe
 iab believf believe
+iab believign believing
 iab belifs beliefs
 iab beliong belong
 iab belive believe
@@ -6200,6 +6207,7 @@ iab categoriacal categorical
 iab categoriew categories
 iab categorigcal categorical
 iab cathc catch
+iab catostrophic catastrophic
 iab caudsing causing
 iab cauled called
 iab caus cause
@@ -7801,6 +7809,7 @@ iab convesation conversation
 iab convesratoion conversation
 iab convetionaal conventional
 iab convetnion convention
+iab conveyences conveyances
 iab convinscing convincing
 iab convinvcing convincing
 iab convition conviction
@@ -7950,6 +7959,7 @@ iab corretting correcting
 iab corrput corrupt
 iab corrrecdtions corrections
 iab corrrectly correctly
+iab corss cross
 iab cortext cortex
 iab corwd crowd
 iab cosmose cosmos
@@ -8693,6 +8703,7 @@ iab desriptuiobn description
 iab desscribe describe
 iab desscribes describes
 iab dessribed described
+iab destermine determine
 iab desterouted destroyed
 iab destert desert
 iab destiaiotn destination
@@ -8707,6 +8718,7 @@ iab destoroying destroying
 iab destory destroy
 iab destoryed destroyed
 iab destoy destroy
+iab destroedyed destroyed
 iab destroiyed destroyed
 iab destroued destroyed
 iab destroyted destroyed
@@ -8762,6 +8774,7 @@ iab deubgetr debugger
 iab deubgger debugger
 iab deubuger debugger
 iab deugbgter debugger
+iab deulude delude
 iab deulusion delusion
 iab devbeated debated
 iab devceloping developing
@@ -11367,6 +11380,7 @@ iab experiecnews experiences
 iab experiecnfe experience
 iab experieicne experience
 iab experieicned experienced
+iab experieicnes experiences
 iab experieinc3e experience
 iab experieince experience
 iab experieinced experienced
@@ -11477,6 +11491,7 @@ iab extenal external
 iab extenbsion extension
 iab extendions extensions
 iab exteneral external
+iab extenisished extinguished
 iab extenral external
 iab extenrally externally
 iab extensibely extensively
@@ -11713,6 +11728,7 @@ iab fewatures features
 iab fewewest fewest
 iab fewewr fewer
 iab ffacto fact
+iab ffactorial factorial
 iab ffectively effectively
 iab ffew few
 iab ffirult difficult
@@ -13580,6 +13596,7 @@ iab impelemntnations implementations
 iab impelemtnign implementing
 iab impelmetned implemented
 iab impememented implemented
+iab impenentravble impenetrable
 iab imperceiable imperceivable
 iab imperceiveable imperceivable
 iab imperihative imperative
@@ -13975,6 +13992,7 @@ iab indepenednat independent
 iab indesd index
 iab indesx index
 iab indeteprminable indeterminable
+iab indeterminatable indeterminable
 iab indiating indicating
 iab indicateors indicators
 iab indicatorsy indicators
@@ -15934,6 +15952,7 @@ iab mangement management
 iab mangmagnet management
 iab manhy many
 iab mani main
+iab manifiestation manifestation
 iab manifst manifest
 iab manin main
 iab manipullate manipulate
@@ -17902,6 +17921,7 @@ iab oribianl original
 iab oribiting orbiting
 iab oribt orbit
 iab oricingall original
+iab orider order
 iab oridinals ordinals
 iab oridinary ordinary
 iab origainl original
@@ -18423,6 +18443,7 @@ iab pelasde please
 iab pelase please
 iab pelase4 please
 iab pelaseure pleasure
+iab peleaseure pleasure
 iab pemranlntly permanently
 iab pemranntly permanently
 iab pemremnantly permanently
@@ -18765,6 +18786,7 @@ iab pistion piston
 iab pistion position
 iab pistoin piston
 iab pistoin position
+iab pitcued pitched
 iab pitcure picture
 iab pitnerrupteions interruptions
 iab pkacards placards
@@ -20560,6 +20582,7 @@ iab registyry registry
 iab reglardless regardless
 iab reglularluy regularly
 iab regognize recognize
+iab regretaable regrettable
 iab regulalry regularly
 iab regularlly regularly
 iab regularluy regularly
@@ -20788,6 +20811,7 @@ iab repaidly rapidly
 iab repalce replace
 iab repalced replaced
 iab repatleces replaces
+iab repeair repair
 iab repeaser repeater
 iab repeeating repeating
 iab repeiad repaid
@@ -21165,6 +21189,7 @@ iab restrookm restroom
 iab resturns returns
 iab resuem resume
 iab resuest request
+iab resulme resume
 iab resuqested requested
 iab resusulatants resultants
 iab resutl result
@@ -24881,6 +24906,7 @@ iab thouyrloughly thoroughly
 iab thow how
 iab thqt that
 iab thre three
+iab threashold threshold
 iab threatended threatened
 iab threee three
 iab threfore therefore
@@ -25351,6 +25377,8 @@ iab trasnposition transposition
 iab trasnslate translate
 iab trasure treasure
 iab trat treat
+iab trav3el travel
+iab traveleers travelers
 iab travellign traveling
 iab travelling traveling
 iab travle travel
@@ -25892,6 +25920,7 @@ iab unfishedn unfinished
 iab unfishined unfinished
 iab unfisnihed unfinished
 iab unfomlding unfolding
+iab unforitunate unfortunate
 iab unforlding unfolding
 iab unforntaute unfortunate
 iab unfortnantely unfortunately
