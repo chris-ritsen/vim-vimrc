@@ -21,6 +21,7 @@ iab AFter After
 iab ALright Alright
 iab ANgular Angular
 iab ANother Another
+iab ARiving Arriving
 iab ARrive Arrive
 iab ASbouelt Absolute
 iab AVoiding Avoiding
@@ -4705,6 +4706,7 @@ iab asisgning assigning
 iab asjusting adjusting
 iab askeeed asked
 iab askign asking
+iab askingf asking
 iab aslalaried salaried
 iab asleeep asleep
 iab aslepp asleep
@@ -7650,6 +7652,7 @@ iab continous continuous
 iab continously continuously
 iab contintgent contingent
 iab contintions conditions
+iab continuded continued
 iab continueed continued
 iab continugetnt contingent
 iab continuiing continuing
@@ -8593,6 +8596,7 @@ iab desciption description
 iab descirbe describe
 iab descirbes describes
 iab descirption description
+iab descision decision
 iab descrdibed described
 iab descreas decrease
 iab descreibed described
@@ -8725,6 +8729,7 @@ iab determinaion determination
 iab determininig determining
 iab determunation determination
 iab detewct detect
+iab deth death
 iab detiaelss details
 iab detial detail
 iab detials details
@@ -9364,6 +9369,7 @@ iab distration distraction
 iab distrations distractions
 iab distravdeted distracted
 iab distrction distraction
+iab distrctions distractions
 iab distrinoction distinction
 iab distriobution distribution
 iab distrobution distribution
@@ -11372,6 +11378,7 @@ iab expermintal experimental
 iab experoecned experienced
 iab expertisze expertize
 iab expertizs expertize
+iab experuienced experienced
 iab expess express
 iab expet except
 iab expetations expectations
@@ -13474,6 +13481,7 @@ iab imarginary imaginary
 iab imasge image
 iab imcompetent incompetent
 iab imediment impediment
+iab imediments impediments
 iab imemdaitely immediately
 iab imemddiatley immediately
 iab imemdiately immediately
@@ -13524,6 +13532,7 @@ iab imnsert insert
 iab imnspection inspection
 iab imonologue monologue
 iab imopllants implants
+iab imoposisblity impossibility
 iab impalnts implants
 iab imparaments impairments
 iab impareiments impairments
@@ -13532,6 +13541,7 @@ iab impariments impairments
 iab impatioently impatiently
 iab impationly impatiently
 iab impediatet immediate
+iab impedimanents impediments
 iab impeediments impediments
 iab impelemntnations implementations
 iab impelemtnign implementing
@@ -13921,6 +13931,7 @@ iab indeces indices
 iab indeciates indicates
 iab inded index
 iab indedipsuably indisputably
+iab indefnintely indefinitely
 iab indeivisual individual
 iab indendetgd intended
 iab indenepdent independent
@@ -17006,11 +17017,13 @@ iab networsk networks
 iab networsks networks
 iab netwrok network
 iab netxt next
+iab neuither neither
 iab neurla neural
 iab neutrl neutral
 iab neutrophic neurotrophic
 iab neve never
 iab nevef never
+iab neverf never
 iab nevfer never
 iab neviorment environment
 iab neviormnemtn environment
@@ -17232,6 +17245,8 @@ iab numver number
 iab numvers numbers
 iab nunbmer number
 iab nurirsihment nourishment
+iab nurousment nourishment
+iab nursishment nourishment
 iab nused newsed
 iab nusiance nuisance
 iab nutil until
@@ -17288,6 +17303,7 @@ iab objecteive objective
 iab objecteives objectives
 iab objectional objectionable
 iab objectionalbe objectionable
+iab objectionalble objectionable
 iab objectr object
 iab objectrtivew objectives
 iab objectsa objects
@@ -18652,6 +18668,7 @@ iab phsuiological physiological
 iab phsuysioliigcal physiological
 iab phsycail physical
 iab phsychlological psychological
+iab phsycial physical
 iab phsycis physics
 iab phsycoholgists psychologists
 iab phsycological physiological
@@ -20206,6 +20223,7 @@ iab realting relating
 iab realy really
 iab realyl really
 iab reamaing remaining
+iab reamins remains
 iab reandomly randomly
 iab reansoably reasonably
 iab reaosdn reason
@@ -23162,6 +23180,7 @@ iab stennces setences
 iab stennghthing strengthening
 iab stenrgnthing strengthening
 iab stenrnghting strengthening
+iab stentch stench
 iab stentences sentences
 iab stentnec3 sentence
 iab steop step
@@ -25728,6 +25747,7 @@ iab understnad understand
 iab understneant understand
 iab understrand understand
 iab understsnd understand
+iab undertakne undertaken
 iab undertand understand
 iab underwaer underwear
 iab underwheliming underwhelming
@@ -25940,6 +25960,7 @@ iab unviersae universe
 iab unwareare unaware
 iab unweieldy unwieldy
 iab unwelcomed unwelcome
+iab unwholsesome unwholesome
 iab unwholsome unwholesome
 iab unxexpected unexpected
 iab unyeilding unyielding
