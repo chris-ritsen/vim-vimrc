@@ -1722,6 +1722,7 @@ iab Progarmmign Programming
 iab Proifl Profile
 iab Projecdets Projects
 iab Projecdts Projects
+iab Prolifdic Prolific
 iab Promoote Promote
 iab Propegating Propagating
 iab Propegation Propagation
@@ -2786,6 +2787,7 @@ iab Whio Who
 iab Whitment Whitman
 iab Whoefver Whoever
 iab Wholeheartleyl Wholeheartedly
+iab Whrere Where
 iab Wht Why
 iab Whtweaver Whatever
 iab Whty Why
@@ -3192,6 +3194,7 @@ iab acctivity activity
 iab acctually actually
 iab accuarealtuy accurately
 iab accuarely accurately
+iab accumeulated accumulated
 iab accumeulates accumulates
 iab accumnulates accumulates
 iab accumpulated accumulated
@@ -4710,6 +4713,7 @@ iab assertino assertion
 iab assessmetn assessment
 iab assewts assets
 iab assiciatecd associated
+iab assicoated associated
 iab assicuate associate
 iab assige assign
 iab assighnetd assigned
@@ -6731,6 +6735,7 @@ iab coe code
 iab coede code
 iab coee code
 iab coeeficient coefficient
+iab coeerce coerce
 iab coefefificent coefficient
 iab coefiicient coefficient
 iab coehesive cohesive
@@ -7677,6 +7682,7 @@ iab contridict contradict
 iab contridiction contradiction
 iab contridictory contradictory
 iab contrieved contrived
+iab contriveed contrived
 iab contrl control
 iab contro control
 iab controlelr controller
@@ -8933,6 +8939,7 @@ iab diffiucltyies difficulties
 iab diffiuclut difficult
 iab diffiucluty difficulty
 iab diffklicypty difficulty
+iab diffrerent different
 iab diffucldt difficult
 iab diffuclt difficult
 iab diffucult difficult
@@ -8950,6 +8957,7 @@ iab dififernece difference
 iab dififfilc difficult
 iab difificlt difficult
 iab difificludt difficult
+iab difificult difficult
 iab dififilcut difficult
 iab dififlcutl difficult
 iab dififucdtly difficulty
@@ -10343,6 +10351,7 @@ iab enojyed enjoyed
 iab enoough enough
 iab enot not
 iab enothing nothing
+iab enotries entries
 iab enougbh enough
 iab enougha enough
 iab enoughb enough
@@ -11290,6 +11299,7 @@ iab expirimentation experimentation
 iab explaination explanation
 iab explaininig explaining
 iab explaintion explanation
+iab explciit explicit
 iab explcitly explicitly
 iab expldoes explodes
 iab expliciltly explicitly
@@ -12297,6 +12307,7 @@ iab ggtet get
 iab ghe the
 iab ghere here
 iab ghet get
+iab ghreat great
 iab ghrough through
 iab ghte the
 iab ghtest test
@@ -13256,6 +13267,7 @@ iab identuify identify
 iab idet diet
 iab idewa idea
 iab idfeas ideas
+iab idficiult difficult
 iab idfifuclt difficult
 iab idgiitized digitized
 iab idiiot idiot
@@ -14203,7 +14215,9 @@ iab inteintonally intentionally
 iab inteion intention
 iab inteiotn intention
 iab inteitnoin intention
+iab intelelictual intellectual
 iab inteliigent intelligent
+iab intellecautlaly intellectually
 iab intellecutal intellectual
 iab intellgent intelligent
 iab intelliginble intelligible
@@ -15376,6 +15390,7 @@ iab liscene license
 iab liscense license
 iab lisdt list
 iab liset list
+iab lisot lost
 iab lisrt list
 iab listeining listening
 iab listend listen
@@ -16138,6 +16153,7 @@ iab miery misery
 iab mighbt might
 iab mighjt might
 iab mighr might
+iab mightr might
 iab migth might
 iab miinutes minutes
 iab milew miles
@@ -18971,6 +18987,7 @@ iab potieianl potential
 iab potientially potentially
 iab potioentooal potential
 iab potsts posts
+iab pottentially potentially
 iab poudn pound
 iab pouplar popular
 iab poutting putting
@@ -19397,6 +19414,7 @@ iab productibely productively
 iab productibvely productively
 iab productifgity productivity
 iab producting producing
+iab productiove productive
 iab productiuno production
 iab productiveee productive
 iab productivigy productivity
@@ -20255,6 +20273,7 @@ iab reerrign referring
 iab reerring referring
 iab reest rest
 iab reestabilished reestablished
+iab reetained retained
 iab reetreat retreat
 iab refacter refactor
 iab refarctoring refactoring
@@ -20595,6 +20614,7 @@ iab reportign reporting
 iab reportsa reports
 iab reporudce reproduce
 iab repositiories repositories
+iab repositiory repository
 iab repositiroy repository
 iab repositoiry repository
 iab repostion reposition
@@ -21690,6 +21710,7 @@ iab sectionsw sections
 iab sectoin section
 iab sectret secret
 iab sectuion section
+iab seculuction seclusion
 iab securly securely
 iab securtity security
 iab securuty security
@@ -22312,6 +22333,7 @@ iab sitautions situations
 iab sitesw sites
 iab siteting sitting
 iab sithuautoiubnl situation
+iab sitimilating stimulating
 iab sitimulus stimulus
 iab sititing sitting
 iab sititng sitting
@@ -23325,6 +23347,7 @@ iab sucircumstances circumstances
 iab sucj such
 iab sucrimsatance circumstance
 iab sucstrate substrate
+iab sudbstrate substrate
 iab suddenlty suddenly
 iab suddent sudden
 iab suddently suddenly
@@ -25717,6 +25740,7 @@ iab untli until
 iab untmil until
 iab unuasable unusable
 iab unuit unit
+iab unuitintaneiontally unintentionally
 iab unusuable unusable
 iab unusuasl unusual
 iab unuusal unusual
