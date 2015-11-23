@@ -34,6 +34,7 @@ iab Additonally Additionally
 iab Afetr After
 iab Againl Again
 iab Aircaraft Aircraft
+iab Akrugrt Alright
 iab Alrealduy Already
 iab Alrifght Alright
 iab Alrignht Alright
@@ -1700,6 +1701,7 @@ iab Priofile Profile
 iab Privbate Private
 iab Privcay Privacy
 iab Privicy Privacy
+iab Proablabyu Probably
 iab Proably Probably
 iab Proactical Practical
 iab Probabaly Probably
@@ -2718,6 +2720,8 @@ iab Wahatever Whatever
 iab Wahht What
 iab Waht What
 iab Wahteffalls Waterfalls
+iab Wahteve Whatever
+iab Wahtever Whatever
 iab Wahtewver Whatever
 iab Wahtwdver Whatever
 iab Wahwt What
@@ -2762,6 +2766,9 @@ iab Whenevfr Whenever
 iab Whenevner Whenever
 iab Whenveer Whenever
 iab Whenver Whenever
+iab Where2verer Wherever
+iab Whererver Wherever
+iab Whereverer Wherever
 iab Wherevery Wherever
 iab Whethetr Whether
 iab Whgat What
@@ -2810,6 +2817,7 @@ iab Workign Working
 iab Workpalce Workplace
 iab Wortks Works
 iab Woudl Would
+iab Wouln Wouldn
 iab Wrihat What
 iab Wriiting Writing
 iab Writihn Writing
@@ -3431,6 +3439,7 @@ iab additioanl additional
 iab additiojnal additional
 iab additiona addition
 iab additoanl additional
+iab additoin addition
 iab additon addition
 iab additonal additional
 iab addresss address
@@ -4408,6 +4417,7 @@ iab apppreciated appreciated
 iab apprach approach
 iab appraoaches approaches
 iab appreaing appearing
+iab apprearance appearance
 iab appreas appears
 iab apprecatiatecd appreciated
 iab apprecatiatedcd appreciated
@@ -5420,6 +5430,7 @@ iab beore before
 iab beorught brought
 iab beoynd beyond
 iab beqause because
+iab ber be
 iab berak break
 iab beraks breaks
 iab berause because
@@ -6233,6 +6244,7 @@ iab cfalse false
 iab cfirst first
 iab cgabge change
 iab cgateroy category
+iab cgoaal goal
 iab cguide guide
 iab ch3cks checks
 iab cha9ris chairs
@@ -7786,6 +7798,7 @@ iab corerct correct
 iab corerctly correctly
 iab corerctyion correction
 iab corerdcdt correct
+iab corerected corrected
 iab coretions corrections
 iab corffee coffee
 iab corlo color
@@ -7817,6 +7830,7 @@ iab correcgion correction
 iab correcldty correctly
 iab correclty correctly
 iab correcly correctly
+iab correct3d corrected
 iab correctin correcting
 iab correctiojns corrections
 iab correctiosn corrections
@@ -8190,6 +8204,7 @@ iab dcertification decertification
 iab dchange change
 iab dcheck check
 iab dclothes clothes
+iab dcoming coming
 iab dcompare compare
 iab dcomputers computers
 iab dcompuyter computer
@@ -8428,6 +8443,7 @@ iab deomolished demolished
 iab deparmtnet department
 iab departmnet department
 iab depcendciy dependency
+iab depe deep
 iab depecnecy dependency
 iab depedency dependency
 iab depedent dependent
@@ -9003,6 +9019,7 @@ iab diretors directors
 iab diretory directory
 iab direty dirty
 iab direvldty direly
+iab direvtive directive
 iab direwction direction
 iab direxctly directly
 iab direxting directing
@@ -9791,6 +9808,7 @@ iab edisc disc
 iab edistawnce distance
 iab editeing editing
 iab editeor editor
+iab editied edited
 iab editign editing
 iab editingew editing
 iab editng editing
@@ -10144,6 +10162,7 @@ iab emergyency emergency
 iab emiails emails
 iab emial email
 iab emials emails
+iab emiiimately immediately
 iab emipirica empirical
 iab emition emotion
 iab emittted emitted
@@ -11077,6 +11096,7 @@ iab exhiits exhibits
 iab exhivits exhibits
 iab exiccted exacted
 iab exiccted excited
+iab exicitng exciting
 iab exicting existing
 iab exiesting existing
 iab exiot exit
@@ -12616,6 +12636,7 @@ iab headfless headless
 iab headhones headphones
 iab headign heading
 iab headiphones headphones
+iab headoagche headache
 iab headpbones headphones
 iab headphens headphones
 iab headpheosn headphones
@@ -12713,6 +12734,7 @@ iab heprahps perhaps
 iab heqre here
 iab herad heard
 iab herader header
+iab herearing hearing
 iab heree here
 iab hereos heroes
 iab heretite heritage
@@ -13111,6 +13133,8 @@ iab hwen when
 iab hwenenver whenever
 iab hwenver whenever
 iab hwere where
+iab hwerwvare whereever
+iab hwhatever whatever
 iab hwhen when
 iab hwhich which
 iab hwhtie white
@@ -13333,6 +13357,7 @@ iab immedatiate immediate
 iab immedatley immediately
 iab immediaately immediately
 iab immediacty immediacy
+iab immediaitely immediately
 iab immedialtey immediately
 iab immedialtley immediately
 iab immedialty immediately
@@ -13346,8 +13371,10 @@ iab immedilaytly immediately
 iab immedlately immediately
 iab immedsiately immediately
 iab immeense immense
+iab immeidiately immediately
 iab immesaitely immediately
 iab immieatley immediately
+iab immiedalteoyly immediately
 iab immmediate immediate
 iab immmediately immediately
 iab immobialised immobilised
@@ -13703,6 +13730,7 @@ iab incrases increases
 iab increade increase
 iab increadsed increased
 iab increae increase
+iab increaesed increased
 iab increasesd increased
 iab increasinlgy increasingly
 iab increaslyingly increasingly
@@ -13742,6 +13770,7 @@ iab incrledbyy incredibly
 iab incrledcbly incredibly
 iab incrledfbyy incredibly
 iab incrledlby incredibly
+iab incurr incur
 iab incvferdlcby incredibly
 iab indai india
 iab indcluding including
@@ -13817,6 +13846,7 @@ iab inelligent intelligent
 iab inemitable inimitable
 iab inernet internet
 iab inerrupt interrupt
+iab ineteruppeted interpreted
 iab ineveitable inevitable
 iab ineveitably inevitably
 iab inevitalby inevitably
@@ -15103,6 +15133,7 @@ iab learnign learning
 iab learnws learns
 iab learther leather
 iab learzn learn
+iab leasat least
 iab leasder leader
 iab leasdt least
 iab leasdtg least
@@ -15476,6 +15507,7 @@ iab lookinfg looking
 iab lookinhg looking
 iab lookugn looking
 iab loook look
+iab losde lose
 iab losting losing
 iab lotz lot
 iab lousey lousy
@@ -16048,6 +16080,7 @@ iab micrhpoehe microphone
 iab micrhpohe microphone
 iab micrio micro
 iab micriphoone microphone
+iab microcfohphene microphone
 iab microelectornics microelectronics
 iab microhpone microphone
 iab microoophnes microphones
@@ -16055,6 +16088,7 @@ iab micropbes microbes
 iab microphens microphones
 iab micropheon microphone
 iab microphne microphone
+iab microphnoe microphone
 iab microphoen microphone
 iab microphpone microphone
 iab micropohone microphone
@@ -16341,6 +16375,7 @@ iab mohter mother
 iab moible mobile
 iab moibnle mobile
 iab moicipmlete omnicomplete
+iab moicirphone microphone
 iab moicrpohne microphone
 iab moidified modified
 iab moind mind
@@ -16380,6 +16415,7 @@ iab momrnign morning
 iab momroy memory
 iab momtent moment
 iab mond mind
+iab monditor monitor
 iab moneey money
 iab monef money
 iab monent moment
@@ -17761,6 +17797,7 @@ iab oultiple multiple
 iab ounter counter
 iab ouptut output
 iab oustanding outstanding
+iab oustiide outside
 iab outcside outside
 iab outght ought
 iab outide outside
@@ -17768,6 +17805,7 @@ iab outl out
 iab outlineed outlined
 iab outpiut output
 iab outpline outline
+iab outpubt output
 iab outsidse outside
 iab outsiourced outsourced
 iab outsisde outside
@@ -18644,6 +18682,7 @@ iab poilling polling
 iab poin point
 iab poind pound
 iab poinds pounds
+iab poinetedness pointedness
 iab poinit point
 iab poinlessly pointlessly
 iab poinmt point
@@ -19803,6 +19842,7 @@ iab quicly quickly
 iab quiclyu quickly
 iab quicness quickness
 iab quidkck quick
+iab quient quiet
 iab quierter quieter
 iab quiery query
 iab quietyly quietly
@@ -19853,6 +19893,7 @@ iab qyut quit
 iab r3egardlless regardless
 iab rETrvail Retrieval
 iab rScienctist Scientist
+iab rWahtever Whatever
 iab rackmoutn rackmount
 iab racre race
 iab radious radius
@@ -19907,6 +19948,7 @@ iab rcomputer computer
 iab rcope scope
 iab rdkestop rdesktop
 iab reaal real
+iab reacdhed reached
 iab reaceivec received
 iab reacently recently
 iab reacll recall
@@ -20461,6 +20503,7 @@ iab reocrdiged recorded
 iab reocrdingds recordings
 iab reocring recording
 iab reocringsd recordings
+iab reocvirding recording
 iab reocvridings recordings
 iab reomoval removal
 iab reorced recored
@@ -21839,6 +21882,7 @@ iab sesion session
 iab sesions sessions
 iab sesiosns sessions
 iab sesison session
+iab sesneistiviety sensitivity
 iab sessing session
 iab sessino session
 iab sessinos sessions
@@ -23195,6 +23239,7 @@ iab subscouuys subconscious
 iab subscrioption subscription
 iab subscriptoin subscription
 iab subsdrivers subscribers
+iab subsecquent subsequent
 iab subsequqnetly subsequently
 iab subsribe subscribe
 iab subsribed subscribed
@@ -23807,6 +23852,7 @@ iab tdosay today
 iab tdsaoy today
 iab tdsayo today
 iab tdxt text
+iab te4xt text
 iab teaaspooin teaspoon
 iab teachiscopic tachistoscopic
 iab teadoy today
@@ -24175,6 +24221,7 @@ iab thaaat that
 iab thaat that
 iab thab than
 iab thae the
+iab thaere there
 iab thaet that
 iab thaf that
 iab thah that
@@ -24605,6 +24652,7 @@ iab timoeut timeout
 iab tininkgin thinking
 iab tinkgs things
 iab tinking thinking
+iab tinme time
 iab tinnk think
 iab tinstead instead
 iab tio to
@@ -24699,6 +24747,7 @@ iab todayq today
 iab todayu today
 iab todday today
 iab todeay today
+iab todes does
 iab todl told
 iab todoay today
 iab todqay today
@@ -25130,6 +25179,7 @@ iab ture true
 iab turend turned
 iab turened turned
 iab turjed turned
+iab turjning turning
 iab turly truly
 iab turncates truncates
 iab turst trust
@@ -26031,6 +26081,7 @@ iab voager voyager
 iab vocaubmarly vocabulary
 iab vocels voxels
 iab vociferious vociferous
+iab vocuabula4rly vocabulary
 iab vocuabulary vocabulary
 iab vodeps videos
 iab voer over
@@ -26085,6 +26136,7 @@ iab wahave have
 iab wahen when
 iab waht what
 iab wahtefver whatever
+iab wahterever whatever
 iab wahtever whatever
 iab wahtewver whatever
 iab wahtewvfer whatever
@@ -26259,6 +26311,7 @@ iab wegbwites websites
 iab weget wget
 iab wehat what
 iab wehate what
+iab wehatever whatever
 iab wehb web
 iab weheel wheel
 iab wehel wheel
@@ -26315,6 +26368,7 @@ iab werite write
 iab weriting writing
 iab werute write
 iab werwe were
+iab wesate waste
 iab wesather weather
 iab wetahter weather
 iab wevbsite website
@@ -26356,6 +26410,7 @@ iab whatevere whatever
 iab whatevfer whatever
 iab whatevfrr whatever
 iab whatevr whatever
+iab whatevret whatever
 iab whatewvefr whatever
 iab whatewver whatever
 iab whatewvfer whatever
@@ -26400,6 +26455,7 @@ iab whenveer whenever
 iab whenver whenever
 iab whenvever whenever
 iab wher where
+iab where2ver wherever
 iab wherea where
 iab whereever wherever
 iab whererver wherever
@@ -26410,6 +26466,7 @@ iab wherhter whether
 iab wherre where
 iab wherrever wherever
 iab wherver wherever
+iab wherverwr wherever
 iab wherwe where
 iab whetehr whether
 iab wheter whether
@@ -26493,6 +26550,7 @@ iab whwen when
 iab whwere where
 iab whwn when
 iab whwneever whenever
+iab whzatever whatever
 iab wiWindows Windows
 iab wiat wait
 iab wiatcdh watch
