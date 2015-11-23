@@ -771,6 +771,7 @@ iab Gesuenheit Gesundheit
 iab GetBooleawn GetBoolean
 iab Gettinmg Getting
 iab Giod Good
+iab Givign Giving
 iab Glalery Gallery
 iab Glboal Global
 iab Gmabling Gambling
@@ -3646,6 +3647,7 @@ iab agreemnet agreement
 iab agressive aggressive
 iab agrreed agreed
 iab agruments arguments
+iab agttention attention
 iab ahack hack
 iab ahad had
 iab ahands hands
@@ -7626,6 +7628,7 @@ iab contifuration configuration
 iab contifurign configuring
 iab contignet contingent
 iab contihously continuously
+iab contihue continue
 iab contiitons conditions
 iab contin8ue continue
 iab continaes continues
@@ -8675,6 +8678,7 @@ iab destroyted destroyed
 iab destry destroy
 iab destryoing destroying
 iab desulatory desultory
+iab desure desire
 iab desvribes describes
 iab deswcribe describe
 iab desxcribed described
@@ -10015,6 +10019,7 @@ iab ehpmasize emphasize
 iab ehre here
 iab ehree here
 iab ehte the
+iab ehwen when
 iab ehwne when
 iab ehwre where
 iab eiach each
@@ -10543,6 +10548,7 @@ iab envuromernt environment
 iab enxt next
 iab enxyt next
 iab enymerations enumerations
+iab eog ego
 iab eopelp people
 iab eopeple people
 iab eopisode episode
@@ -14262,6 +14268,7 @@ iab instyead instead
 iab insudrry industry
 iab insudstry industry
 iab insufficent insufficient
+iab insufficuent insufficient
 iab insuight insight
 iab insurancde insurance
 iab insureance insurance
@@ -17203,6 +17210,7 @@ iab numiber number
 iab numver number
 iab numvers numbers
 iab nunbmer number
+iab nurirsihment nourishment
 iab nused newsed
 iab nusiance nuisance
 iab nutil until
@@ -18315,6 +18323,7 @@ iab pecific specific
 iab pectqcduluar spectacular
 iab pecurliar peculiar
 iab peeople people
+iab peercieiable perceivable
 iab peerles peerless
 iab pefecgdtino perfection
 iab peferct perfect
@@ -20556,6 +20565,7 @@ iab relfection reflection
 iab relfections reflections
 iab relfects reflects
 iab relfelctions reflections
+iab relfex reflex
 iab reliabilty reliability
 iab reliablitiy reliability
 iab reliablity reliability
@@ -20803,6 +20813,7 @@ iab requiers requires
 iab requiest request
 iab requiested requested
 iab requipment equipment
+iab requiqre require
 iab requiqred required
 iab requiqres requires
 iab require3s requires
@@ -20845,6 +20856,7 @@ iab requstet request
 iab requting requiring
 iab requuire require
 iab requwests requests
+iab requyired1 required
 iab reqwritten rewritten
 iab reqwuest request
 iab reqwuests requests
@@ -21136,6 +21148,7 @@ iab reuqtse6 request
 iab reuquest request
 iab reuquired required
 iab reuquirements requirements
+iab reuquried required
 iab reuqweset request
 iab reurn return
 iab reurrnt return
@@ -22244,6 +22257,7 @@ iab shoudwl should
 iab shouhld should
 iab shoul should
 iab shouldb should
+iab shouldg should
 iab shouldu should
 iab shouled should
 iab shouls should
@@ -23559,6 +23573,7 @@ iab supremcacy supremacy
 iab supremeacy supremacy
 iab supremecay supremacy
 iab supremmmcacy supremacy
+iab supressed suppressed
 iab supriosonglaly surprisingly
 iab suprirsingly surprisingly
 iab suprirslgingly surprisingly
@@ -23681,6 +23696,7 @@ iab sustatined sustained
 iab sustatinted sustained
 iab sustationable sustainable
 iab sustianace sustenance
+iab sustiance sustenance
 iab sustience sustenance
 iab sustinaence sustenance
 iab sustinance sustenance
@@ -25632,6 +25648,7 @@ iab undefefined undefined
 iab undefied undefined
 iab undefiend undefined
 iab undefineid undefined
+iab underatken undertaken
 iab underdantd understand
 iab underdsand understand
 iab underdshand understand
