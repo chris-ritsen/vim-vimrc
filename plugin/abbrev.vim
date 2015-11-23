@@ -3099,6 +3099,7 @@ iab accepeted accepted
 iab acceprtable acceptable
 iab acces access
 iab accesible accessible
+iab accesisible accessible
 iab accesseed accessed
 iab accessibity accessibility
 iab accessiblity accessibility
@@ -7255,6 +7256,7 @@ iab concferenc3 conference
 iab concflicts conflicts
 iab concice concise
 iab concider consider
+iab concifience confidence
 iab concious conscious
 iab conciousness consciousness
 iab conciul council
@@ -7294,6 +7296,7 @@ iab conculsion conclusion
 iab conculusion conclusion
 iab concvert convert
 iab condesning condensing
+iab condfidence confidence
 iab condiction condition
 iab condisidering considering
 iab conditaionlly conditionally
@@ -8113,6 +8116,8 @@ iab critereria criteria
 iab criteriion criterion
 iab critifcisms criticisms
 iab critisism criticism
+iab criumbling crumbling
+iab crossign crossing
 iab crpyyut crypt
 iab crrections corrections
 iab crstyalline crystalline
@@ -14931,6 +14936,7 @@ iab journesys journeys
 iab journiens journeys
 iab journies journeys
 iab journiesn journeys
+iab journiny journey
 iab journy journey
 iab journyies journeys
 iab joyurnies journeys
@@ -16764,6 +16770,7 @@ iab mronrign morning
 iab mruderers murderers
 iab msall small
 iab mself myself
+iab msising missing
 iab msistakes mistakes
 iab msistkane mistaken
 iab msitake mistake
@@ -26167,6 +26174,7 @@ iab usiually usually
 iab usless useless
 iab uslually usually
 iab usnsafe unsafe
+iab usntalbe unstable
 iab usoing using
 iab usper super
 iab usqe use
