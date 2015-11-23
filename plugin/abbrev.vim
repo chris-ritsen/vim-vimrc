@@ -4211,6 +4211,7 @@ iab aobutl about
 iab aobve above
 iab aobyut about
 iab aoccount account
+iab aoccour occur
 iab aoften often
 iab aog ago
 iab aoht about
@@ -5045,6 +5046,7 @@ iab avaluable valuable
 iab avaoialble available
 iab avastly vastly
 iab avay away
+iab avbiltiy ability
 iab avboidable avoidable
 iab avbrevations abbreviations
 iab avck back
@@ -5678,6 +5680,7 @@ iab bloxk block
 iab blpck block
 iab blumy blimey
 iab bluss bliss
+iab blussful blissful
 iab bluye blue
 iab blwah blah
 iab blyetooth bluetooth
@@ -5830,6 +5833,7 @@ iab brered breed
 iab bretaks breaks
 iab brfs btrfs
 iab brian brain
+iab briedge bridge
 iab brieface briefcase
 iab brierfly briefly
 iab briew brief
@@ -6291,6 +6295,7 @@ iab cereation creation
 iab cerificate certificate
 iab cerntury century
 iab cerrain certain
+iab cerrtain certain
 iab certainity certainty
 iab certainn certain
 iab certaintny certainty
@@ -10686,6 +10691,7 @@ iab equallty equally
 iab equaly equally
 iab equamnimty equanimity
 iab equanimiity equanimity
+iab equianimity equanimity
 iab equiavalence equivalence
 iab equilibirum equilibrium
 iab equioeonetb equipment
@@ -11354,6 +11360,7 @@ iab expedtations expectations
 iab expeerience experience
 iab expeft expect
 iab expefted expected
+iab expeiceined experienced
 iab expeiciennne experience
 iab expeidte expedite
 iab expeiernce experience
@@ -11436,6 +11443,7 @@ iab expierimaintel experimental
 iab expiermental experimental
 iab expierminets experiments
 iab expirimentation experimentation
+iab explainaintoin explanation
 iab explaination explanation
 iab explaininig explaining
 iab explaintion explanation
@@ -12112,6 +12120,7 @@ iab frequirenlety frequently
 iab frequyently frequently
 iab frequyncy frequency
 iab freqwuenlty frequently
+iab freqwuently frequently
 iab freuency frequency
 iab freuqnecdy frequency
 iab freuqnet frequent
@@ -18515,6 +18524,7 @@ iab percetiualk perceptual
 iab percetption perception
 iab percetupal perceptual
 iab perceviable perceivable
+iab percieieved perceived
 iab percieve perceive
 iab percieved perceived
 iab percived perceived
@@ -19243,6 +19253,7 @@ iab pracictie practice
 iab pracitailly practically
 iab pracitce practice
 iab pracitcing practicing
+iab pracitece practice
 iab praciteiclaly practically
 iab praciteidcally practically
 iab pracitially practically
@@ -19352,6 +19363,7 @@ iab predfictions predictions
 iab predicatesd predicates
 iab predicdtable predictable
 iab predispoistion predisposition
+iab preeceived perceived
 iab preerably preferably
 iab preerences preferences
 iab preerrable preferable
@@ -20754,6 +20766,7 @@ iab remlutoely remotely
 iab remmber remember
 iab remmeber remember
 iab remmebmer remember
+iab remmegbeirng remembering
 iab remmembering remembering
 iab remmorized memorized
 iab remmoving removing
@@ -25386,6 +25399,7 @@ iab trasure treasure
 iab trat treat
 iab trav3el travel
 iab traveleers travelers
+iab traveleld traveled
 iab travellign traveling
 iab travelling traveling
 iab travle travel
@@ -25950,6 +25964,7 @@ iab uniinvolved uninvolved
 iab uniitiatied uninitiated
 iab uniiversal universal
 iab unimaginatibe unimaginative
+iab unimimtortant unimportant
 iab uninhibitied uninhibited
 iab uniniteresitngl uninteresting
 iab unintereesting uninteresting
@@ -26216,6 +26231,7 @@ iab utiize utilize
 iab utiliseeeed utilised
 iab utilitiy utility
 iab utiltiy utility
+iab utilty utility
 iab utiluisied utilised
 iab utlitities utilities
 iab utnil until
