@@ -1775,6 +1775,7 @@ iab REcompile Recompile
 iab REcords Records
 iab REcreate Recreate
 iab REesteraunt Restaurant
+iab REevaluate Reevaluate
 iab REfelctions Reflections
 iab REgardleess Regardless
 iab REgardless Regardless
@@ -2524,6 +2525,7 @@ iab Tobasco Tabasco
 iab Todau Today
 iab Tongitht Tonight
 iab Tood Too
+iab Totoauly Totally
 iab Tpically Typically
 iab Trackign Tracking
 iab Traditionallhy Traditionally
@@ -5139,6 +5141,7 @@ iab badvkspacing backspacing
 iab bae be
 iab baeck back
 iab baetter better
+iab bagcon bacon
 iab baid bait
 iab bakc back
 iab bakcend backend
@@ -6021,6 +6024,7 @@ iab calss class
 iab calsssified classified
 iab camer camera
 iab camers cameras
+iab camnn can
 iab camoflage camouflage
 iab campaighns campaigns
 iab campaigsn campaigns
@@ -7409,6 +7413,7 @@ iab consistancy consistency
 iab consistant consistent
 iab consistantely consistently
 iab consistantly consistently
+iab consisteant consistent
 iab consisteantly consistently
 iab consistenantly consistently
 iab consistennt consistent
@@ -9722,6 +9727,7 @@ iab eayrs years
 iab eazcdh each
 iab eazch each
 iab eazfh each
+iab ebe be
 iab ebest best
 iab ecaclty exactly
 iab ecact exact
@@ -10820,6 +10826,7 @@ iab everytihing everything
 iab everytihng everything
 iab everyting everything
 iab everytnign everything
+iab everytnin everything
 iab everytning everything
 iab everytone everyone
 iab everytthing everything
@@ -12630,6 +12637,7 @@ iab headrse headers
 iab headsing heading
 iab headspohes headphones
 iab headsset headset
+iab heaed head
 iab healhty healthy
 iab healwth health
 iab heapddhones headphones
@@ -12716,6 +12724,7 @@ iab hesistant hesitant
 iab hesistate hesitate
 iab hesistation hesitation
 iab hesitatite hesitate
+iab hestiatating hesitating
 iab hestiatation hesitation
 iab hestitate hesitate
 iab hestitation hesitation
@@ -14544,6 +14553,7 @@ iab itesm items
 iab itesms items
 iab itesting testing
 iab itewms items
+iab itext text
 iab ithe the
 iab ithis this
 iab ithout without
@@ -15368,6 +15378,7 @@ iab llogn long
 iab llogner longer
 iab llok look
 iab lloking looking
+iab llokoka look
 iab lloks looks
 iab llong long
 iab llooiknbg looking
@@ -15507,6 +15518,7 @@ iab lsow slow
 iab lsusts lusts
 iab ltater later
 iab lthe the
+iab ltrascribed transcribed
 iab lttiel little
 iab lttile little
 iab luaght laugh
@@ -16254,6 +16266,7 @@ iab mmsising missing
 iab mmusble muscle
 iab mmy my
 iab mnaintainting maintaining
+iab mnake make
 iab mnarch march
 iab mnaula manual
 iab mnay many
@@ -17283,6 +17296,7 @@ iab ocurring occurring
 iab oddysy odyssey
 iab odecades decades
 iab odesn doesn
+iab oding doing
 iab odler older
 iab odll doll
 iab odoin doing
@@ -17503,6 +17517,7 @@ iab opnion opinion
 iab opoint point
 iab opointless pointless
 iab oponnent opponent
+iab opoping popping
 iab opoportiunity opportunity
 iab opoprtunitu opportunity
 iab opopsites opposites
@@ -17825,6 +17840,7 @@ iab oworlds worlds
 iab owould would
 iab owrd word
 iab owrds words
+iab owrfds words
 iab owrk work
 iab owrkas works
 iab owrked worked
@@ -18715,6 +18731,9 @@ iab poower power
 iab popele people
 iab popellle people
 iab poperating operating
+iab popoing popping
+iab popoiung popping
+iab poppoing popping
 iab poptioxns options
 iab populatio population
 iab porblem problem
@@ -18890,6 +18909,7 @@ iab ppoind pound
 iab ppoint point
 iab ppointedness pointedness
 iab ppoor poor
+iab ppopplign popping
 iab pposite opposite
 iab ppostal postal
 iab pposts posts
@@ -24784,6 +24804,7 @@ iab tosay today
 iab tosday today
 iab tostring toString
 iab totadl total
+iab totalakly totally
 iab totla total
 iab touchest toughest
 iab toughtest toughest
@@ -25194,6 +25215,7 @@ iab typoing typing
 iab typoses typos
 iab typoucally typically
 iab typping typing
+iab typpnign typing
 iab typso typos
 iab typue type
 iab typuing typing
@@ -26275,6 +26297,7 @@ iab wella well
 iab welll well
 iab welwathy wealthy
 iab wemt went
+iab wenated wanted
 iab wenet went
 iab wensure ensure
 iab weokrt wore
@@ -26669,6 +26692,7 @@ iab wondwering wondering
 iab wone one
 iab woorking working
 iab woprk work
+iab wordfs words
 iab wordl world
 iab wordld world
 iab wordldy worldly
@@ -27183,27 +27207,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab totalakly totally
-iab Totoauly Totally
-iab ppopplign popping
-iab poppoing popping
-iab popoiung popping
-iab opoping popping
-iab popoing popping
-iab heaed head
-iab hestiatating hesitating
-iab llokoka look
-iab itext text
-iab wenated wanted
-iab oding doing
-iab bagcon bacon
-iab mnake make
-iab owrfds words
-iab ltrascribed transcribed
-iab ebe be
-iab camnn can
-iab everytnin everything
-iab consisteant consistent
-iab typpnign typing
-iab wordfs words
-iab REevaluate Reevaluate
