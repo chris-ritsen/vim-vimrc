@@ -2559,6 +2559,7 @@ iab Twleeve Twelve
 iab Twnety Twenty
 iab Tyep Type
 iab Tyherefore Therefore
+iab Tyhis This
 iab Tyoing Typing
 iab Typially Typically
 iab Typinhg Typing
@@ -3860,6 +3861,7 @@ iab amature amateur
 iab amazOn amazon
 iab ambidexrioutrs ambidextrous
 iab ambidextrious ambidextrous
+iab ambigiutioyt ambiguity
 iab ambigouss ambiguous
 iab ambiguious ambiguous
 iab amek make
@@ -5584,6 +5586,7 @@ iab blaqck black
 iab blasck black
 iab blatent blatant
 iab blatheriing blathering
+iab blatter bladder
 iab blavk black
 iab blcok block
 iab blcoked blocked
@@ -5717,6 +5720,7 @@ iab bourne borne
 iab bourtden burden
 iab boutton button
 iab bouttons buttons
+iab bowewles bowels
 iab bowql bowl
 iab box3se boxes
 iab bpallpoint ballpoint
@@ -7600,6 +7604,7 @@ iab continuoing continuing
 iab continuueum continuum
 iab continyous continuous
 iab contionue continue
+iab contionyuoing continuing
 iab contiously continuously
 iab contirbutaion contribution
 iab contirbute contribute
@@ -8333,6 +8338,7 @@ iab decxetirty dexterity
 iab dedcdribe describe
 iab dedcidign deciding
 iab deductable deductible
+iab deelay delay
 iab deeop deep
 iab deeparment department
 iab deepend deepen
@@ -9808,6 +9814,7 @@ iab ecxcept except
 iab ecxecuted executed
 iab ecxept except
 iab ecxist exist
+iab ecxpet except
 iab ecxplain explain
 iab eddison edison
 iab edeleberate deliberate
@@ -13418,6 +13425,7 @@ iab impelemntnations implementations
 iab impelemtnign implementing
 iab impelmetned implemented
 iab impememented implemented
+iab imperceiable imperceivable
 iab imperceiveable imperceivable
 iab imperihative imperative
 iab imperitive imperative
@@ -14107,6 +14115,7 @@ iab installedd installed
 iab installtions installations
 iab instancces instances
 iab instancde instance
+iab instancens instances
 iab instandce instance
 iab instane instance
 iab instanfes instances
@@ -14210,6 +14219,7 @@ iab intenrelally internally
 iab intenrnal internal
 iab intente intent
 iab intented indented
+iab intenteded intended
 iab intentioneally intentionally
 iab intentity intensity
 iab intentnion intention
@@ -14310,6 +14320,7 @@ iab intertia inertia
 iab intertitng interesting
 iab intervenet intervene
 iab intervew interview
+iab intervial interval
 iab intervier interview
 iab intervievw interview
 iab intervieww interview
@@ -20047,6 +20058,7 @@ iab reapeat repeat
 iab reapeating repeating
 iab reaquire require
 iab reaquired required
+iab reare rare
 iab reareahch research
 iab rearely rarely
 iab rearfy rarefy
@@ -21542,6 +21554,7 @@ iab scren screen
 iab screne screen
 iab screnen screen
 iab screnplay screenplay
+iab screwen screen
 iab screwn screen
 iab scribblling scribbling
 iab scrilll scroll
@@ -24240,6 +24253,7 @@ iab tghread thread
 iab tghrough through
 iab tghuis this
 iab tgimeout timeout
+iab tgive give
 iab tgiven given
 iab tgoal goal
 iab tgouched touched
@@ -25950,6 +25964,7 @@ iab varrying varying
 iab vart var
 iab varuiaous various
 iab vas was
+iab vascate vacate
 iab vaslues values
 iab vasty vastly
 iab vatr var
@@ -26192,6 +26207,7 @@ iab wannnt want
 iab wante wanted
 iab wantint wanting
 iab wantt want
+iab waord word
 iab waork work
 iab waorund around
 iab waould would
@@ -26786,6 +26802,7 @@ iab wondwer wonder
 iab wondwering wondering
 iab wone one
 iab woorking working
+iab woould would
 iab woprk work
 iab wordfs words
 iab wordl world
