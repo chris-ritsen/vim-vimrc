@@ -114,6 +114,7 @@ iab CHristttopoher Christopher
 iab CLociking Clicking
 iab CLock Clock
 iab COde Code
+iab COmbinatyion Combination
 iab COming Coming
 iab COmmon Common
 iab COmmunication Communication
@@ -358,6 +359,7 @@ iab Debgree Degree
 iab Debrpeacted Deprecated
 iab Decelopers Developers
 iab Decomal Decimal
+iab Deconscrution Deconstruction
 iab Dedficits Deficits
 iab Definiing Defining
 iab Deliusion Delusion
@@ -987,6 +989,7 @@ iab Iimportant Important
 iab Iit It
 iab ImageMacick ImageMagick
 iab Imaghining Imagining
+iab Imaginaqtiobn Imagination
 iab Immediatley Immediately
 iab Immeialtey Immediately
 iab Imoprove Improve
@@ -6844,6 +6847,8 @@ iab combiations combinations
 iab combinationsa combination
 iab combinding combining
 iab combinie combine
+iab comcncepts concepts
+iab comconiments concomitants
 iab comcptuers computers
 iab comdoments condiments
 iab comdptuer computer
@@ -7221,6 +7226,7 @@ iab conclusvuluy conclusively
 iab concluyde conclude
 iab conclysuvly conclusively
 iab concole console
+iab concomiatants concomitants
 iab concous conscious
 iab concousness consciousness
 iab concpet concept
@@ -7776,6 +7782,7 @@ iab copatible compatible
 iab copboards cupboards
 iab copde code
 iab coplete complete
+iab coplex complex
 iab copmalct compact
 iab copmany company
 iab copmay company
@@ -10420,6 +10427,7 @@ iab enthusiiastic enthusiastic
 iab enthusoiaistic enthusiastic
 iab enthusuaxstic enthusiastic
 iab entier entire
+iab entir3e entire
 iab entires entries
 iab entireuyly entirely
 iab entireyly entirely
@@ -10715,9 +10723,11 @@ iab essentiual essential
 iab essetnially essentially
 iab essewntially essentially
 iab essiental essential
+iab essietnal essential
 iab essnetioal essential
 iab esssense essence
 iab essssentially essentially
+iab esstentioal essential
 iab estabilsh establish
 iab establised established
 iab establishded established
@@ -11077,6 +11087,7 @@ iab excitemnet excitement
 iab excitied excited
 iab exclaimeed exclaimed
 iab exclucively exclusively
+iab exclucsibley exclusively
 iab exclueded excluded
 iab exclusibley exclusively
 iab exclusibvely exclusively
@@ -14345,6 +14356,7 @@ iab internetal internal
 iab internetlal internal
 iab interntal internal
 iab internte internet
+iab interreuption interruption
 iab interrnet internet
 iab interrrrupting interrupting
 iab interrruption interruption
@@ -20993,6 +21005,7 @@ iab restirrcted restricted
 iab restoreax restores
 iab restrated restarted
 iab restricated restricted
+iab restricetions restrictions
 iab restrictiojns restrictions
 iab restricxted restricted
 iab restrivted restricted
@@ -22268,6 +22281,7 @@ iab simmilar similar
 iab simmply simply
 iab simoilar similar
 iab simol similar
+iab simopler simpler
 iab simoply simply
 iab simpilar similar
 iab simpke simple
@@ -24978,6 +24992,7 @@ iab tostring toString
 iab totadl total
 iab totalakly totally
 iab totla total
+iab tou to
 iab touchest toughest
 iab toughtest toughest
 iab tousands thousands
@@ -25906,6 +25921,7 @@ iab usew use
 iab usewful useful
 iab usews users
 iab usful useful
+iab ushc such
 iab usially usually
 iab usic music
 iab usign using
@@ -26672,6 +26688,7 @@ iab whooses whooshes
 iab whould would
 iab whoute white
 iab whowefver however
+iab whree where
 iab wht what
 iab whtawever whatever
 iab whtehre whether
