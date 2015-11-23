@@ -27183,3 +27183,27 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
+iab totalakly totally
+iab Totoauly Totally
+iab ppopplign popping
+iab poppoing popping
+iab popoiung popping
+iab opoping popping
+iab popoing popping
+iab heaed head
+iab hestiatating hesitating
+iab llokoka look
+iab itext text
+iab wenated wanted
+iab oding doing
+iab bagcon bacon
+iab mnake make
+iab owrfds words
+iab ltrascribed transcribed
+iab ebe be
+iab camnn can
+iab everytnin everything
+iab consisteant consistent
+iab typpnign typing
+iab wordfs words
+iab REevaluate Reevaluate
