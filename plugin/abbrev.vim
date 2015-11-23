@@ -2120,6 +2120,7 @@ iab Scorrty Scotty
 iab Scrablble Scrabble
 iab Scremaing Screaming
 iab Screming Screaming
+iab Scrool Scroll
 iab Sderver Server
 iab Seawrch Search
 iab Sebastion Sebastian
@@ -3526,6 +3527,7 @@ iab adtivitiyes activities
 iab adueince audience
 iab aduinbg admin
 iab aduio audio
+iab adujustements adjustments
 iab adujusting adjusting
 iab adusting adjusting
 iab advacned advanced
@@ -4528,6 +4530,7 @@ iab archtypical archetypical
 iab ardt art
 iab areads areas
 iab aready already
+iab areaw area
 iab areee are
 iab aregular regular
 iab areguments arguments
@@ -6065,6 +6068,7 @@ iab capaibitioes capabilities
 iab capaicty capacity
 iab capanbiliteis capabilities
 iab capapbilities capabilities
+iab capapble capable
 iab capbavle capable
 iab capbilities capabilities
 iab capble capable
@@ -7001,6 +7005,7 @@ iab complanu company
 iab complatiable compatible
 iab complauin complain
 iab complciated complicated
+iab compledted completed
 iab compleete complete
 iab complege complete
 iab compleitng completing
@@ -8281,6 +8286,7 @@ iab decding deciding
 iab decdnt decent
 iab decentg decent
 iab decentinput decent
+iab decgree degree
 iab decicated dedicated
 iab decice decide
 iab decices devices
@@ -10533,6 +10539,7 @@ iab equaaaaaally equally
 iab equallay equally
 iab equallty equally
 iab equaly equally
+iab equanimiity equanimity
 iab equiavalence equivalence
 iab equilibirum equilibrium
 iab equioeonetb equipment
@@ -12138,6 +12145,7 @@ iab furtehrr furtherer
 iab furteubnr further
 iab furtherr further
 iab furthger further
+iab furthter further
 iab furtther further
 iab furtuerh further
 iab furtune fortune
@@ -13376,6 +13384,7 @@ iab immeidiately immediately
 iab immesaitely immediately
 iab immieatley immediately
 iab immiedalteoyly immediately
+iab immieeeeeiate immediate
 iab immmediate immediate
 iab immmediately immediately
 iab immobialised immobilised
@@ -13534,6 +13543,7 @@ iab improced improved
 iab improitant important
 iab improrperly improperly
 iab improt import
+iab improtanc3e importance
 iab improtance importance
 iab improtanrnt important
 iab improtanrt important
@@ -13963,6 +13973,7 @@ iab iniicadte indicate
 iab iniitailization initialization
 iab iniital initial
 iab iniitalize initialize
+iab iniitally initially
 iab iniitialisation initialisation
 iab iniitla initial
 iab iniline inline
@@ -14545,6 +14556,7 @@ iab isntaslled installed
 iab isntawnce instance
 iab isnteaces instances
 iab isntead instead
+iab isnteadces instances
 iab isnteance instance
 iab isnteawd instead
 iab isnteead instead
@@ -16099,6 +16111,7 @@ iab micrpobnone microphone
 iab micrpohen microphone
 iab micxrohpne microphone
 iab middl3 middle
+iab middle34 middle
 iab midlde middle
 iab midpouint midpoint
 iab miery misery
@@ -17498,6 +17511,7 @@ iab oobsessed obsessed
 iab oof of
 iab ooffset offset
 iab ooof of
+iab ooperations operations
 iab oopportuntiy opportunity
 iab ooptical optical
 iab ooption option
@@ -18521,6 +18535,7 @@ iab pihotos photos
 iab pineconnes pinecones
 iab pioece piece
 iab piont point
+iab piosition position
 iab piositon position
 iab piostion position
 iab piostions positions
@@ -18541,6 +18556,7 @@ iab plaayers players
 iab placce place
 iab placde place
 iab placehoder placeholder
+iab placeing placing
 iab placememnt placement
 iab placewd placed
 iab placign placing
@@ -19612,6 +19628,7 @@ iab psated pasted
 iab pseaking speaking
 iab psent spent
 iab psiobile possible
+iab psiosisgble23 possible
 iab psiostions positions
 iab psiostiosns positions
 iab psitison position
@@ -20473,6 +20490,7 @@ iab removeal removal
 iab removec remove
 iab removeing removing
 iab removew remove
+iab removign removing
 iab removingin removing
 iab rempaping remapping
 iab remplate template
@@ -24898,6 +24916,7 @@ iab tpyiong typing
 iab tpyiung typing
 iab tpyo typo
 iab tpyoical typical
+iab tpyoing typing
 iab tpyos typos
 iab tpype type
 iab traaaaaaaaacks tracks
@@ -26257,6 +26276,7 @@ iab wearth earth
 iab weas was
 iab weatched watched
 iab weatching watching
+iab weay way
 iab weays ways
 iab webcame webcam
 iab webd web
