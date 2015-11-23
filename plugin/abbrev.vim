@@ -2392,6 +2392,7 @@ iab TOook Took
 iab TRACRE TRACE
 iab TRAiler Trailer
 iab TRODO TODO
+iab TRhe The
 iab TRhinkg Thinking
 iab TRhis Tris
 iab TVf TV
@@ -3069,6 +3070,7 @@ iab absurt absurd
 iab absuse abuse
 iab absuylteyly absolutely
 iab abuility ability
+iab abundently abundantly
 iab abvailble available
 iab abvle able
 iab abvoe above
@@ -4238,6 +4240,7 @@ iab apapermtlhu apparently
 iab apapermtnet apartment
 iab apapnerlty apparently
 iab apapremtnly apparently
+iab apaprent apparent
 iab apaprently apparently
 iab apaprentlyu apparently
 iab apaprmtnely apparently
@@ -6547,6 +6550,7 @@ iab circcles circles
 iab circlec circle
 iab circuilates circulates
 iab circumsatances circumstances
+iab circumsatnaces circumstances
 iab circut circuit
 iab ciriticiezed criticized
 iab ciriticism criticism
@@ -7259,6 +7263,7 @@ iab concerneed concerned
 iab concernes concerns
 iab concerntarte concentrate
 iab concertraing concentrating
+iab concetnration concentration
 iab concetrt concert
 iab concferenc3 conference
 iab concflicts conflicts
@@ -7268,6 +7273,7 @@ iab concifience confidence
 iab concious conscious
 iab conciousness consciousness
 iab conciul council
+iab conclfict conflict
 iab conclsiluvy conclusively
 iab conclsusivley conclusively
 iab conclsysluuuuly conclusively
@@ -7465,6 +7471,7 @@ iab conrenr concern
 iab conrfig config
 iab conrfiguration configuration
 iab conrifguration configuration
+iab conrrivted contrived
 iab conrtinue continue
 iab consceptualize conceptualize
 iab conscienceness consciousness
@@ -7644,6 +7651,7 @@ iab contditioning conditioning
 iab conteact contact
 iab contecdt context
 iab contecentraiont concentration
+iab contecentration concentration
 iab contect context
 iab contecxts contexts
 iab conteinue continue
@@ -8847,6 +8855,7 @@ iab deviiate deviate
 iab deviiiiate deviate
 iab devive device
 iab devives devices
+iab devleiooping developing
 iab devleioprs developers
 iab devlekopment development
 iab devlelpers developers
@@ -9665,6 +9674,7 @@ iab dsaid said
 iab dsay say
 iab dscribing describing
 iab dscription description
+iab dsdecribed described
 iab dsearch search
 iab dsee see
 iab dsekt desk
@@ -10673,6 +10683,7 @@ iab epxierience experience
 iab epxlain explain
 iab epxlaination explanation
 iab epxlajin explain
+iab epxlicit explicit
 iab epxlorer explorer
 iab epxoerience experience
 iab epxort export
@@ -11897,6 +11908,7 @@ iab firndss friends
 iab firnge fringe
 iab firset first
 iab firt fit
+iab firtuerh further
 iab firtuyehr further
 iab firzst first
 iab fishort short
@@ -13677,6 +13689,7 @@ iab impoartant important
 iab impoement implement
 iab impoersonation impersonation
 iab impoirtant important
+iab impolied implied
 iab impoortant important
 iab imporance importance
 iab imporant important
@@ -15966,6 +15979,7 @@ iab managmeent management
 iab managmenet management
 iab managment management
 iab managnement management
+iab manaifested manifested
 iab manamgenet management
 iab mananguer manager
 iab manbe maybe
@@ -16248,6 +16262,7 @@ iab mepmey money
 iab mepty empty
 iab mercaenaries mercenaries
 iab meregely merely
+iab merelrly merely
 iab mergeing merging
 iab mergesr mergers
 iab mermey merely
@@ -19766,6 +19781,7 @@ iab projhects projects
 iab projrect project
 iab projrects projects
 iab prolems problems
+iab proligong prolong
 iab prolinged prolonged
 iab prologoned prolonged
 iab prominemtly prominently
@@ -20038,6 +20054,7 @@ iab pursuiing pursuing
 iab pursupe purpose
 iab purychaed purchased
 iab puyrpose purpose
+iab puyrpsose purpose
 iab puyt put
 iab puytting putting
 iab pweopele people
@@ -20637,6 +20654,7 @@ iab reindering rendering
 iab reinfocements reinforcements
 iab reisk risk
 iab reisntalled reinstalled
+iab reitereated reiterated
 iab reitrun return
 iab reiturn return
 iab reivew review
@@ -20741,6 +20759,7 @@ iab remeber remember
 iab remebering remembering
 iab remebers remembers
 iab remebrrred remembered
+iab remeina remain
 iab remeinas remains
 iab rememberd remembered
 iab remembinering remembering
@@ -21724,6 +21743,7 @@ iab saveing saving
 iab savr save
 iab sawallowing swallowing
 iab sawy say
+iab sayign saying
 iab sayinb saying
 iab sayingt saying
 iab sayinhg saying
@@ -27693,24 +27713,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab dsdecribed described
-iab shoudl should
-iab apaprent apparent
-iab sayign saying
-iab conclfict conflict
-iab concetnration concentration
-iab devleiooping developing
-iab remeina remain
-iab merelrly merely
-iab impolied implied
-iab manaifested manifested
-iab circumsatnaces circumstances
-iab TRhe The
-iab contecentration concentration
-iab puyrpsose purpose
-iab epxlicit explicit
-iab reitereated reiterated
-iab abundently abundantly
-iab firtuerh further
-iab proligong prolong
-iab conrrivted contrived
