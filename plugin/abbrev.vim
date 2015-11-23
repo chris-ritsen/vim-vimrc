@@ -527,6 +527,7 @@ iab Eiknglihs English
 iab Eingstring Einstein
 iab Einsteing Einstein
 iab Einstien Einstein
+iab Eitehr Either
 iab Eitsen Ritsen
 iab Ekgnoish English
 iab Elecric Electric
@@ -2336,6 +2337,7 @@ iab THehn Then
 iab THeme Theme
 iab THen Then
 iab THeorem Theorem
+iab THer There
 iab THere There
 iab THerefore Therefore
 iab THermos Thermos
@@ -3999,6 +4001,7 @@ iab anhything anything
 iab animatyhing animating
 iab animla animal
 iab aninamting animating
+iab aninmal animal
 iab anither another
 iab anlysits analysis
 iab anmals animals
@@ -7598,6 +7601,7 @@ iab containsers containers
 iab containzers containers
 iab contaion contain
 iab contaionment containment
+iab contamiinad contaminated
 iab contarction contraction
 iab contatenated concatenated
 iab contats contacts
@@ -10776,6 +10780,7 @@ iab essentiual essential
 iab essetnially essentially
 iab essewntially essentially
 iab essiental essential
+iab essiential essential
 iab essietnal essential
 iab essnetioal essential
 iab esssense essence
@@ -11626,6 +11631,7 @@ iab fdor for
 iab feaatured featured
 iab fealth felt
 iab feares fears
+iab fearuful fearful
 iab featiring featuring
 iab featr fear
 iab featuer feature
@@ -13249,6 +13255,7 @@ iab hundren hundred
 iab hundres hundred
 iab hundresd hundreds
 iab hunfred hundred
+iab hungrey hungry
 iab hunman human
 iab hunrdesd hundred
 iab hunrdred hundred
@@ -14546,6 +14553,7 @@ iab inveariably invariably
 iab inveisible invisible
 iab inverster inverter
 iab investating investigating
+iab investeivatged investigated
 iab investers investors
 iab investgated investigated
 iab investicate investigate
@@ -18886,6 +18894,7 @@ iab poinit point
 iab poinlessly pointlessly
 iab poinmt point
 iab poinnnnt point
+iab poinseented poisoned
 iab poinsined poisoned
 iab pointds points
 iab pointeles pointless
@@ -19318,6 +19327,7 @@ iab preoduction production
 iab preofious previous
 iab preojcfts projects
 iab preojewct project
+iab preopared prepared
 iab preopertyy property
 iab preopisitions prepositions
 iab preoposiotins prepositions
@@ -21633,6 +21643,7 @@ iab sby by
 iab scannin scanning
 iab scaree scarce
 iab scarqtch scratch
+iab scarscity scarcity
 iab scatterd scattered
 iab scciddntaly accidentally
 iab sccirpt script
@@ -22101,6 +22112,7 @@ iab serivec service
 iab serivece service
 iab serparate separate
 iab servce service
+iab servced served
 iab serve4 server
 iab servearla several
 iab servef server
@@ -22842,6 +22854,7 @@ iab sommunication communication
 iab somne some
 iab somple simple
 iab somsewhere somewhere
+iab somteimes sometimes
 iab somtimes sometimes
 iab somwehwere somewhere
 iab somwerhwer somewhere
@@ -22903,6 +22916,7 @@ iab sounvds sounds
 iab souonds sounds
 iab sourcde source
 iab sourcesa sources
+iab sourcfe source
 iab sourcs sources
 iab sourde soure
 iab sourece source
@@ -24061,6 +24075,7 @@ iab tarthet target
 iab tarveling traveling
 iab tasest tastes
 iab tasiks tasks
+iab tasing tasting
 iab taskas tasks
 iab taskds tasks
 iab taskes tasks
@@ -25313,6 +25328,7 @@ iab treturn return
 iab treu true
 iab trext text
 iab trhicks tricks
+iab trhinks thinks
 iab trhoguht thought
 iab trid tried
 iab trieed tried
@@ -25915,6 +25931,7 @@ iab unrealdistic unrealistic
 iab unrealisticlaly unrealistically
 iab unreallated unrelated
 iab unrecogniseable unrecognisable
+iab unreconisable unrecognisable
 iab unreeaslnable unreasonable
 iab unregisterd unregistered
 iab unregistrerd unregistered
@@ -27040,6 +27057,7 @@ iab wolrd world
 iab wolrld world
 iab wonamn woman
 iab wonce wonce
+iab wonderds wonders
 iab wonderintg wondering
 iab wondwer wonder
 iab wondwering wondering
