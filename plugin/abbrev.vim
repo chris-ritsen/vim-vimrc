@@ -14434,7 +14434,7 @@ iab intenrantional international
 iab intenrelally internally
 iab intenrnal internal
 iab intente intent
-iab intented indented
+iab intented intended
 iab intenteded intended
 iab intentioneally intentionally
 iab intentity intensity
@@ -18532,6 +18532,7 @@ iab perasls pearls
 iab percaution precaution
 iab percautionary precautionary
 iab perccetion perception
+iab perceiavable perceivable
 iab perceied perceived
 iab perceieve perceive
 iab perceieved perceived
@@ -18540,6 +18541,7 @@ iab perceiption perception
 iab perceiptions perceptions
 iab perceiveiable perceivable
 iab percentnage percentage
+iab perceptiable perceivable
 iab perceptiaul perceptual
 iab perceptiual perceptual
 iab percetc perfect
@@ -18551,6 +18553,7 @@ iab percetiualk perceptual
 iab percetption perception
 iab percetupal perceptual
 iab perceviable perceivable
+iab perciebable perceivable
 iab percieieved perceived
 iab percieve perceive
 iab percieved perceived
@@ -19375,7 +19378,7 @@ iab preciceley precisely
 iab precicely precisely
 iab precicesly precisely
 iab preciecely precisely
-iab precieivable preservable
+iab precieivable perceivable
 iab preciely precisely
 iab precifcely precisely
 iab preciosion precision
