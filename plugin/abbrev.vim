@@ -5610,6 +5610,7 @@ iab bindging binding
 iab bindgings bindings
 iab bindinf binding
 iab bindingi binding
+iab bineg being
 iab binoculare binocular
 iab binring bringing
 iab biochemial biochemical
