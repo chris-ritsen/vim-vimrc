@@ -14086,7 +14086,7 @@ iab inelligent intelligent
 iab inemitable inimitable
 iab inernet internet
 iab inerrupt interrupt
-iab ineteruppeted interpreted
+iab ineteruppeted interrupted
 iab ineveitable inevitable
 iab ineveitably inevitably
 iab inevitalby inevitably
@@ -27717,3 +27717,6 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
+iab interupt interrupt
+iab interupped interrupted
+iab interupruted interrupted
