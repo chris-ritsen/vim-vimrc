@@ -1887,6 +1887,7 @@ iab RIsne Ritsen
 iab RIstne Ritsen
 iab RIstwen Ritsen
 iab RItnse Ritsen
+iab RItsbne Ritsen
 iab RItsen Ritsen
 iab RItshn Ritsen
 iab RItsn Ritsen
@@ -7819,6 +7820,7 @@ iab converasation conversation
 iab convereted converted
 iab converrrrt convert
 iab converrsation conversation
+iab conversaitions conversations
 iab conversaqtion conversation
 iab conversatino conversation
 iab conversationg conversation
@@ -11310,6 +11312,7 @@ iab exitsted existed
 iab exitsts exists
 iab exiwsitn existing
 iab exiwsitng existing
+iab exiwsitning existing
 iab exiwsting existing
 iab exiwstint existing
 iab exixtance existence
@@ -11894,6 +11897,7 @@ iab finsihiing finishing
 iab finsihing finishing
 iab finslaly finally
 iab finxing fixing
+iab fior for
 iab fioscud focused
 iab fiosit first
 iab firday Friday
@@ -13274,6 +13278,7 @@ iab hthis this
 iab hthsi this
 iab htigsn things
 iab hting thing
+iab htinginking thinking
 iab htings things
 iab htink think
 iab htinkg things
@@ -16695,6 +16700,7 @@ iab monestary monastery
 iab moneteize monetize
 iab monety money
 iab monheys monkeys
+iab monidfiying modifying
 iab monintors monitors
 iab moniootionous monotonous
 iab monitopr monitor
@@ -17187,6 +17193,7 @@ iab nigth night
 iab nimage image
 iab ninsudries industries
 iab nintenies nineties
+iab ninterview interview
 iab nist most
 iab nistead instead
 iab nitegrated integrated
@@ -17408,6 +17415,7 @@ iab objecteives objectives
 iab objectional objectionable
 iab objectionalbe objectionable
 iab objectionalble objectionable
+iab objectopns objections
 iab objectr object
 iab objectrtivew objectives
 iab objectsa objects
@@ -24876,6 +24884,7 @@ iab thisl this
 iab thisng thing
 iab thisngs things
 iab thiss this
+iab thisws this
 iab thius this
 iab thiw this
 iab thiws this
@@ -26355,6 +26364,7 @@ iab variatn variant
 iab varierty variety
 iab variesd varied
 iab variing varying
+iab varilables variables
 iab varity variety
 iab varlaible variable
 iab varliable variable
@@ -27723,13 +27733,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab fior for
-iab exiwsitning existing
-iab varilables variables
-iab monidfiying modifying
-iab objectopns objections
-iab thisws this
-iab htinginking thinking
-iab conversaitions conversations
-iab ninterview interview
-iab RItsbne Ritsen
