@@ -27720,3 +27720,7 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
+iab Pugnatious Pugnacious
+iab Puntatioys Pugnacious
+iab Pugnatious Pugnacious
+iab Pugnaicous Pugnacious
