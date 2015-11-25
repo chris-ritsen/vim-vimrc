@@ -10514,6 +10514,7 @@ iab encapuslates encapsulates
 iab enceesary necessary
 iab encessarily necessarily
 iab encessary necessary
+iab enciticing enticing
 iab encointered encountered
 iab encolosed enclosed
 iab encolsed enclosed
@@ -13078,6 +13079,7 @@ iab hemmeroids hemorrhoids
 iab hemophelia hemophilia
 iab heoaphoens headphones
 iab heowver however
+iab hepapen happen
 iab hepl help
 iab heprahps perhaps
 iab heqre here
@@ -19619,6 +19621,7 @@ iab preerences preferences
 iab preerrable preferable
 iab prefereannce preference
 iab preferece preference
+iab prefereted preferred
 iab preferrable preferable
 iab preferrably preferably
 iab preferrede preferred
@@ -20320,6 +20323,7 @@ iab qbout about
 iab qemyu qemu
 iab qeustions questions
 iab qhand and
+iab qhicuk quick
 iab qmount amount
 iab qmy my
 iab qork work
@@ -22479,6 +22483,7 @@ iab seriousy seriously
 iab seriouys serious
 iab serioys serious
 iab serioyus serious
+iab serisously seriously
 iab serivce service
 iab serivces services
 iab serivec service
