@@ -1033,6 +1033,7 @@ iab Imrporiving Improving
 iab Imrpotant Important
 iab Imrprovign Improving
 iab Imrpvogin Improving
+iab Inactivbity Inactivity
 iab Incnisistant Inconsistent
 iab Incoinstainsntance Inconsistencies
 iab Incompatability Incompatibility
@@ -2294,6 +2295,8 @@ iab Swithc Switch
 iab Syatem System
 iab Syhnopsis Synopsis
 iab Synatax Syntax
+iab Synonomys Synonyms
+iab Synonsynmsn Synonyms
 iab Syntaax Syntax
 iab Syntaix Syntax
 iab Sype Skype
@@ -2502,6 +2505,7 @@ iab Thgere There
 iab Thgerefore Therefore
 iab Thgis This
 iab Thgisa This
+iab Thi9s This
 iab Thias This
 iab Thie The
 iab Thign Thing
@@ -2560,6 +2564,7 @@ iab Tobasco Tabasco
 iab Todau Today
 iab Tongitht Tonight
 iab Tood Too
+iab Toropor Torpor
 iab Totoauly Totally
 iab Tpically Typically
 iab Trackign Tracking
@@ -3927,6 +3932,7 @@ iab amlmost almost
 iab amm am
 iab ammend amend
 iab amment amend
+iab amnimal animal
 iab amny many
 iab amnymore anymore
 iab amognst amongst
@@ -6410,6 +6416,7 @@ iab charactieristic characteristic
 iab charactoer character
 iab charactoeristics characteristics
 iab charactor character
+iab charactoriestic characteristic
 iab charactoristics characteristics
 iab charactrer character
 iab charafetr character
@@ -7303,6 +7310,7 @@ iab concluslivly conclusively
 iab conclusvuluy conclusively
 iab concluyde conclude
 iab conclysuvly conclusively
+iab concocutions concoctions
 iab concole console
 iab concomiatants concomitants
 iab concous conscious
@@ -9086,6 +9094,7 @@ iab diffucldt difficult
 iab diffuclt difficult
 iab diffucult difficult
 iab diffuictul difficult
+iab dificult difficult
 iab dififcilt difficult
 iab dififciltu difficult
 iab dififciltyies difficulties
@@ -10012,6 +10021,7 @@ iab eelement element
 iab eelmetns elements
 iab eelse else
 iab eement element
+iab eempobides embodies
 iab eending ending
 iab eenemeies enemies
 iab eenemy enemy
@@ -10077,6 +10087,7 @@ iab effor effort
 iab effors effort
 iab efforst efforts
 iab efforsts efforts
+iab effrort effort
 iab effrot effort
 iab effrt effort
 iab effuluence effluence
@@ -10322,6 +10333,7 @@ iab emaerging emerging
 iab emahine machine
 iab emailsd emails
 iab emaisl emails
+iab emanings meanings
 iab emascs emacs
 iab embaradssmes embarrasses
 iab embarass embarrass
@@ -10415,6 +10427,7 @@ iab enacs emacs
 iab enalbed enabled
 iab enbd end
 iab encapuslates encapsulates
+iab enceesary necessary
 iab encessarily necessarily
 iab encessary necessary
 iab encointered encountered
@@ -10430,6 +10443,7 @@ iab encoutnered encountered
 iab encrpyted encrypted
 iab encrytped encrypted
 iab encticing enticing
+iab endergyt energy
 iab endevaor endeavor
 iab endfunctino endfunction
 iab endleslly endlessly
@@ -11584,6 +11598,7 @@ iab extremee extreme
 iab extremees extremes
 iab extremels extremes
 iab extremelyu extremely
+iab extremew extreme
 iab extremlely extremely
 iab extremleuy extremely
 iab extremley extremely
@@ -12975,6 +12990,7 @@ iab herearing hearing
 iab heree here
 iab hereos heroes
 iab heretite heritage
+iab herew here
 iab herhe here
 iab heritige heritage
 iab heros heroes
@@ -13710,6 +13726,7 @@ iab impoement implement
 iab impoersonation impersonation
 iab impoirtant important
 iab impolied implied
+iab impoly imply
 iab impoortant important
 iab imporance importance
 iab imporant important
@@ -13870,6 +13887,7 @@ iab imte time
 iab imtes items
 iab in5to into
 iab inacdessible inaccessible
+iab inactivbitiy inactivity
 iab inacurate inaccurate
 iab inadequete inadequate
 iab inadvertantly inadvertently
@@ -14029,6 +14047,7 @@ iab incrledfbyy incredibly
 iab incrledlby incredibly
 iab incurr incur
 iab incvferdlcby incredibly
+iab indactivity inactivity
 iab indai india
 iab indcluding including
 iab inddicate indicate
@@ -14080,6 +14099,7 @@ iab indivudsuals individuals
 iab indivudual individual
 iab indivuduasl individual
 iab indivusulal individual
+iab indneded intended
 iab indstead instead
 iab indtead instead
 iab indtents indents
@@ -14413,6 +14433,7 @@ iab insureance insurance
 iab insurrments instruments
 iab insusfficient insufficient
 iab insutruments instruments
+iab intdended intended
 iab inteded intended
 iab intedsnts intends
 iab inteelligent intelligent
@@ -14718,6 +14739,7 @@ iab ionto onto
 iab ionviolved involved
 iab iopen open
 iab ioptical optical
+iab ioptional optional
 iab ioptions options
 iab iosteram iostream
 iab iot it
@@ -15631,6 +15653,7 @@ iab listended listened
 iab listeniers listeners
 iab listenign listening
 iab listenignt listening
+iab listenlessness listlessness
 iab listennign listening
 iab listenr listener
 iab listenrs listeners
@@ -16162,8 +16185,10 @@ iab meaing meaning
 iab meaining meaning
 iab mealrning learning
 iab meanign meaning
+iab meanigns meanings
 iab meaninglyesss meaningless
 iab meaninlgless meaningless
+iab meansigns meanings
 iab meanth meant
 iab meants means
 iab meanuingful meaningful
@@ -17953,6 +17978,7 @@ iab ordanize organize
 iab ordder order
 iab orderd ordered
 iab orderinfg ordering
+iab ordieinatry ordinary
 iab ordierign ordering
 iab ordinarty ordinary
 iab ordinatry ordinary
@@ -19412,6 +19438,7 @@ iab preciecely precisely
 iab precieivable perceivable
 iab preciely precisely
 iab precifcely precisely
+iab preciise precise
 iab preciosion precision
 iab preciscely precisely
 iab precisciely precisely
@@ -20338,6 +20365,7 @@ iab readon reason
 iab readoy ready
 iab readpstectable respectable
 iab readson reason
+iab readuily readily
 iab readuing reading
 iab readuly readily
 iab readwy ready
@@ -21277,6 +21305,7 @@ iab resturns returns
 iab resuem resume
 iab resuest request
 iab resulme resume
+iab resultuling resulting
 iab resuqested requested
 iab resusulatants resultants
 iab resutl result
@@ -22329,6 +22358,7 @@ iab seveal several
 iab seveeral several
 iab sevelopment development
 iab seventewen seventeen
+iab severeral several
 iab severl several
 iab severla several
 iab severley severely
@@ -23901,6 +23931,7 @@ iab susequenet subsequent
 iab suspcetible susceptible
 iab suspecious suspicious
 iab suspendsion suspension
+iab suspensition suspension
 iab suspetible susceptible
 iab susppoised supposed
 iab susprigindg surprising
@@ -24303,6 +24334,7 @@ iab tebh the
 iab tecdt text
 iab tecgbikigy technology
 iab tecghnical technical
+iab techical technical
 iab techincal technical
 iab techinical technical
 iab techinque technique
@@ -24685,6 +24717,7 @@ iab thedswe these
 iab theedse these
 iab theee the
 iab theeeeeese these
+iab theeeir their
 iab theem them
 iab theemsleves themselves
 iab theen then
@@ -25277,11 +25310,14 @@ iab toopic topic
 iab toorrow tomorrow
 iab toosl tools
 iab topiuc topic
+iab topor torpor
 iab topuc topic
 iab topuic topic
 iab toranodo tornado
 iab tordando tornado
 iab tornados tornadoes
+iab torpidness torpidness
+iab torpoidity torpidity
 iab torpue troupe
 iab torrentiyional torrential
 iab toruble trouble
@@ -26003,6 +26039,7 @@ iab unfcoused unfocused
 iab unfeilding unyielding
 iab unfied unfixed
 iab unfilfulling unfulfilling
+iab unfilterd unfiltered
 iab unfinsiehd unfinished
 iab unfinsihed unfinished
 iab unfiortunaltely unfortunately
@@ -26641,6 +26678,7 @@ iab wante wanted
 iab wantint wanting
 iab wantt want
 iab waord word
+iab waords words
 iab waork work
 iab waorund around
 iab waould would
@@ -27074,6 +27112,7 @@ iab wietihin within
 iab wihcih which
 iab wihd wish
 iab wihich which
+iab wihile while
 iab wihndows windows
 iab wiht with
 iab wihthich which
@@ -27459,6 +27498,7 @@ iab wsuch such
 iab wsweap swap
 iab wswitching switching
 iab wtat what
+iab wtater water
 iab wtatweferfallls waterfalls
 iab wtching watching
 iab wthat that
