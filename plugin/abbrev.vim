@@ -4051,6 +4051,7 @@ iab animla animal
 iab aninamting animating
 iab aninmal animal
 iab anither another
+iab aniticiipated anticipated
 iab anlysits analysis
 iab anmals animals
 iab anmd and
@@ -4135,6 +4136,8 @@ iab anthyign anything
 iab anthying anything
 iab anthynng anything
 iab anthyring anything
+iab anticiapted anticipated
+iab antimicatped anticipated
 iab antining anything
 iab antipciapting anticipating
 iab antiyng anything
@@ -4243,6 +4246,7 @@ iab anywasys anyways
 iab anywehre anywhere
 iab anywhay anyway
 iab anywher anywhere
+iab anywherew anywhere
 iab anywhewre anywhere
 iab anywheyre anywhere
 iab anywone anyone
@@ -7789,6 +7793,7 @@ iab contitions conditions
 iab contiue continue
 iab contiuing continuing
 iab contiuinuing continuing
+iab contiunal continual
 iab contiune continue
 iab contiuneu continue
 iab contiunie continue
@@ -8170,6 +8175,7 @@ iab creataing creating
 iab creatawed created
 iab createion creation
 iab createive creative
+iab createoer creator
 iab creatibely creatively
 iab creatibity creativity
 iab creaties creates
@@ -8584,6 +8590,7 @@ iab deifniatley definitely
 iab deirected directed
 iab deisgineer designer
 iab deisgn design
+iab deisicalmer disclaimer
 iab deisnedec designed
 iab deistinction distinction
 iab deither either
@@ -9293,6 +9300,8 @@ iab discintuictions distinctions
 iab discionnected disconnected
 iab disciplnine discipline
 iab discivered discovered
+iab disclaminemr disclaimer
+iab disclaminer disclaimer
 iab discocered discovered
 iab discogerd discover
 iab discoiurage discourage
@@ -10143,6 +10152,7 @@ iab effiencey efficiency
 iab effiicent efficient
 iab effiicentcy efficiently
 iab effiientxcy efficiently
+iab effoect effect
 iab effor effort
 iab effors effort
 iab efforst efforts
@@ -11376,6 +11386,7 @@ iab exicitng exciting
 iab exicting existing
 iab exiesting existing
 iab exiot exit
+iab exisitence existence
 iab exisitign existing
 iab exisiting existing
 iab exisitn existing
@@ -13998,6 +14009,7 @@ iab inchonmprehesible incomprehensible
 iab inciment inclement
 iab incionsiisntances inconsistencies
 iab inciplete incomplete
+iab incirrect incorrect
 iab incivudal individual
 iab incldue include
 iab incldues includes
@@ -16966,6 +16978,7 @@ iab msuci music
 iab msucles muscles
 iab msucnele muscle
 iab msuic music
+iab msust must
 iab msut must
 iab msutashe mustache
 iab msyefl myself
@@ -17368,6 +17381,7 @@ iab nodeas ideas
 iab nodews nodes
 iab nodjes nodejs
 iab noeed need
+iab noene none
 iab noerwpa nowrap
 iab noething nothing
 iab noever never
@@ -17448,6 +17462,7 @@ iab nousry noisy
 iab nowe now
 iab nowehre nowhere
 iab nowherer nowhere
+iab nowhwere nowhere
 iab nowiing knowing
 iab nowpra nowrap
 iab nowrawp nowrap
@@ -18851,8 +18866,10 @@ iab persoanl personal
 iab personallity personality
 iab personi person
 iab personw person
+iab persopecitve perspective
 iab persopecive perspective
 iab persopnal personal
+iab perspecitive perspective
 iab perspecitve perspective
 iab perspecive perspective
 iab perspectacity perspicacity
@@ -20384,6 +20401,7 @@ iab qwkward awkward
 iab qwork work
 iab qworking working
 iab qwuestion question
+iab qwuestions questions
 iab qwuqstions questions
 iab qwustions questions
 iab qyanitities quantities
@@ -20463,6 +20481,7 @@ iab reacticee reactive
 iab readalbilty readability
 iab readble readable
 iab readch reach
+iab readchf reach
 iab readction reaction
 iab readd read
 iab readhing reading
@@ -21330,6 +21349,7 @@ iab respewdcets respects
 iab respionsible responsible
 iab respnisbilites responsibilities
 iab respnoisbilitesi responsibilities
+iab respnond respond
 iab respnonsiblities responsibilities
 iab respnose response
 iab respnosibilities responsibilities
@@ -21733,6 +21753,7 @@ iab rpeat repeat
 iab rpeating repeating
 iab rpeeat repeat
 iab rpefix prefix
+iab rpesent present
 iab rpesentatuin presentation
 iab rpesenteeed presented
 iab rpesewnted presented
@@ -21915,6 +21936,7 @@ iab satisgying satisfying
 iab satisifable satisfiable
 iab satisifiable3 satisfiable
 iab satisifieable satisfiable
+iab satisifying satisfying
 iab satisyfing satisfying
 iab satiuyrda saturday
 iab satrtes starts
@@ -26232,6 +26254,7 @@ iab uniqeu unique
 iab uniquye unique
 iab unised unused
 iab uniuion union
+iab uniuqley uniquely
 iab uniuverse universe
 iab univers universe
 iab univomveded uninvolved
