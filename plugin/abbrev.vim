@@ -6436,6 +6436,7 @@ iab changinf changing
 iab changking changing
 iab changr change
 iab changte change
+iab changted changed
 iab chanigng changing
 iab chanllenging challenging
 iab chanmber chamber
@@ -13933,6 +13934,7 @@ iab improvment improvement
 iab improvments improvements
 iab improvmetn improvement
 iab improvoemtn improvement
+iab improxiamte approximate
 iab imprpoving improving
 iab imprtance importance
 iab imprtanrt important
@@ -15491,6 +15493,7 @@ iab lbood blood
 iab lboth both
 iab lbowing blowing
 iab lbue blue
+iab lbues blues
 iab lcaol local
 iab lcddoleldt collect
 iab lceaning cleaning
@@ -16554,6 +16557,7 @@ iab milliseconfds milliseconds
 iab millliseconds milliseconds
 iab miltary military
 iab mimiking mimicking
+iab minddd mind
 iab minde mine
 iab mindeldy mindedly
 iab mindeste mindset
@@ -19678,6 +19682,7 @@ iab presewnted presented
 iab presewtned presented
 iab presice precise
 iab presidentail presidential
+iab presiovulsy previously
 iab presnet present
 iab presnetable presentable
 iab preson person
@@ -26198,6 +26203,7 @@ iab undrstanding understanding
 iab undsersanding understanding
 iab undserstand understand
 iab undstodod understood
+iab undstrood understood
 iab undsure unsure
 iab undwersatnad understand
 iab uneable unable
