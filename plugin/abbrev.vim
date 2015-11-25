@@ -2701,6 +2701,7 @@ iab WAterfalls Waterfalls
 iab WAterflals Waterfalls
 iab WAtevver Whatever
 iab WAtewerfalls Waterfalls
+iab WAthc Watch
 iab WEHy Why
 iab WEbseter Webster
 iab WEbsetr Webster
@@ -13383,6 +13384,7 @@ iab hwoever however
 iab hwom whom
 iab hwot how
 iab hwowever however
+iab hwy why
 iab hyard yard
 iab hyaving having
 iab hyears years
@@ -17751,6 +17753,7 @@ iab onewsfeeds newsfeeds
 iab ong on
 iab onlay only
 iab onlcick onclick
+iab onlhy only
 iab onliune online
 iab onlly only
 iab onlmy only
@@ -18529,6 +18532,7 @@ iab peope people
 iab peopel people
 iab peopele people
 iab peopile people
+iab peopisode episode
 iab peopl people
 iab peoplee people
 iab peoplke people
@@ -19407,6 +19411,7 @@ iab preculuses precludes
 iab predfictions predictions
 iab predicatesd predicates
 iab predicdtable predictable
+iab predictalbye predictable
 iab predispoistion predisposition
 iab preeceived perceived
 iab preerably preferably
@@ -20294,6 +20299,7 @@ iab rcomputer computer
 iab rcope scope
 iab rdkestop rdesktop
 iab reaal real
+iab reaason reason
 iab reacdhed reached
 iab reaceivec received
 iab reacently recently
