@@ -469,6 +469,7 @@ iab EArth Earth
 iab EAsy Easy
 iab EAtiing Eating
 iab EAting Eating
+iab EFen Even
 iab EIther Either
 iab ELDGER LEDGER
 iab ENVorhometn Environment
@@ -2585,6 +2586,7 @@ iab Trasnscribing Transcribing
 iab Triyn Trying
 iab Trsut Trust
 iab Tryign Trying
+iab Tryily Truly
 iab Tryrign Trying
 iab Tseting Testing
 iab Tthese These
@@ -2822,6 +2824,7 @@ iab Whgat What
 iab Whgatwever Whatever
 iab Whgy Why
 iab Whgy6 Why
+iab Whhy Why
 iab Whiel While
 iab Whio Who
 iab Whitment Whitman
@@ -4927,6 +4930,7 @@ iab attempttting attempting
 iab attemptuing attempting
 iab attemtopn attention
 iab attemtp attempt
+iab attenmpt attempt
 iab attenmpted attempted
 iab attentd attend
 iab attentdant attendant
@@ -11556,6 +11560,7 @@ iab expsiging exposing
 iab exptected expected
 iab exptectedg expected
 iab expter expert
+iab exptression expression
 iab exremely extremely
 iab exremley extremely
 iab exrrcise exercise
@@ -14122,6 +14127,7 @@ iab indivdiual individual
 iab individal individual
 iab individigal individual
 iab individiual individual
+iab individudals individuals
 iab individusal individual
 iab indivisual individual
 iab indivitual individual
@@ -15651,6 +15657,7 @@ iab liminous luminous
 iab limisine limosine
 iab limite limit
 iab limitiations limitations
+iab limitles limitless
 iab limittations limitations
 iab limosie limosine
 iab line0height line-height
@@ -18124,6 +18131,7 @@ iab ot to
 iab otday today
 iab otdayd today
 iab otdya today
+iab otebr other
 iab oteher other
 iab otehr other
 iab otehrs others
@@ -26172,6 +26180,7 @@ iab unlikley unlikely
 iab unlikleyly unlikely
 iab unlikly unlikely
 iab unliktely unlikely
+iab unlimittied unlimited
 iab unlimke unlike
 iab unlmited unlimited
 iab unltil until
