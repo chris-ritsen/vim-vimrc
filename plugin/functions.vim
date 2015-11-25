@@ -7,6 +7,8 @@ function! AddAbbrev()
 
   " TODO: Handle <c-c> and restore spell setting, <cword>.
 
+  " TODO: Utilise spellbad() and spellsuggest()
+
   " {{{
 
   call inputsave()
@@ -16,6 +18,7 @@ function! AddAbbrev()
   " {{{
 
   let incorrect_word = expand('<cword>')
+  let bad_word = spellbad(incorrect_word)
 
   " }}}
 
@@ -28,6 +31,13 @@ function! AddAbbrev()
   " }}}
 
   " {{{
+  
+  if match(bad_word[1], 'bad') == 0
+    " This is indeed a bad word.
+  else
+    " Don't care about fixing uncapitalised or rare words; check for that
+    " here.
+  endif
 
   if match(@a, 'no') == -1
     let has_spell = 'true'
