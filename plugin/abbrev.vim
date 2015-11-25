@@ -6596,6 +6596,7 @@ iab cipies copies
 iab circcles circles
 iab circlec circle
 iab circuilates circulates
+iab circuluar circular
 iab circumsatances circumstances
 iab circumsatnaces circumstances
 iab circut circuit
@@ -7392,6 +7393,7 @@ iab conencted connected
 iab conencting connecting
 iab conenction connection
 iab coneneced connected
+iab conenected connected
 iab conenseus consensus
 iab coneseuences consequences
 iab conetner content
@@ -7445,6 +7447,7 @@ iab confiugere configure
 iab confiugraiotn configuration
 iab confiugrations configurations
 iab confiurable configurable
+iab confiused confused
 iab confiusin confusing
 iab confiusion confusion
 iab confivenced convinced
@@ -8302,6 +8305,7 @@ iab customres customers
 iab cuystomer customer
 iab cvelalry clearly
 iab cventer center
+iab cviewing viewing
 iab cvlose close
 iab cvomptuer computer
 iab cvould could
@@ -8507,6 +8511,7 @@ iab decsterity dexterity
 iab decterity dexterity
 iab dections sections
 iab dectoriation decoration
+iab decude decide
 iab decvice device
 iab decvices devices
 iab decxetirty dexterity
@@ -8588,6 +8593,7 @@ iab deleriously deliriously
 iab delet delete
 iab deletagsation delegation
 iab deletd deleted
+iab deleya delay
 iab delfector deflector
 iab deliber deliver
 iab deliberables deliverables
@@ -9001,6 +9007,7 @@ iab diaglntes diagnose
 iab diagnotese diagnose
 iab dialation dilation
 iab dialoect dialect
+iab dialoectic dialectic
 iab dialy daily
 iab diambond diamond
 iab diangoise diagnose
@@ -13780,6 +13787,7 @@ iab impoirtant important
 iab impolied implied
 iab impoly imply
 iab impoortant important
+iab impoossible impossible
 iab imporance importance
 iab imporant important
 iab imporanta important
@@ -13951,6 +13959,7 @@ iab inavdisable inadvisable
 iab inc3nese incense
 iab incablable incapable
 iab incalculaable incalculable
+iab inccorrect incorrect
 iab incensde incense
 iab incenstives incentives
 iab incenteive incentive
@@ -14069,6 +14078,7 @@ iab incredlbfy incredibly
 iab incredlby incredibly
 iab incredlcbly incredibly
 iab incredlcby incredibly
+iab increeddibly incredibly
 iab increement increment
 iab increibile incredible
 iab increibly incredibly
@@ -14340,6 +14350,7 @@ iab inmportant important
 iab inmprotant important
 iab innacurate inaccurate
 iab innefective ineffective
+iab inneffective ineffective
 iab inneumerable innumerable
 iab innfinite infinite
 iab innivation innovation
@@ -14379,6 +14390,7 @@ iab insdtances instances
 iab insdtead instead
 iab insdtsall install
 iab insecnse incense
+iab insep4rateble inseparable
 iab insepect inspect
 iab insepection inspection
 iab insescts insects
@@ -19851,6 +19863,7 @@ iab profiels profiles
 iab profreading proofreading
 iab profrssionalism professionalism
 iab profssional professional
+iab profuound profound
 iab progacatinstation procrastination
 iab progams programs
 iab progarm program
@@ -21047,6 +21060,7 @@ iab repply reply
 iab reprecussions repercussions
 iab repreispentitive representative
 iab repremimand reprimand
+iab reprepestantions representations
 iab reprepsentation representation
 iab represeentations representations
 iab represend represent
@@ -24767,12 +24781,14 @@ iab tgiven given
 iab tgoal goal
 iab tgouched touched
 iab tgus this
+iab th3e the
 iab th3eir their
 iab th3ese these
 iab th4e the
 iab th4eir their
 iab th4ey they
 iab tha that
+iab tha5t that
 iab thaaat that
 iab thaat that
 iab thab than
@@ -25923,6 +25939,7 @@ iab udnerstand understand
 iab udnerstanding understanding
 iab udnerstood understood
 iab udnestanding understanding
+iab udnetsanding understanding
 iab udnrestand understand
 iab udnrestood understood
 iab udpate update
@@ -26485,6 +26502,7 @@ iab validatiopn validation
 iab valiud valid
 iab valouable valuable
 iab valu value
+iab valuabnle valuable
 iab valualbe valuable
 iab valueable valuable
 iab valueation valuation
@@ -27508,6 +27526,7 @@ iab wrarior warrior
 iab wreckign wrecking
 iab wrecorded recorded
 iab wree were
+iab wreer were
 iab wreiting writing
 iab wrekcing wrecking
 iab wrep wrap
@@ -27522,6 +27541,7 @@ iab wriiter writer
 iab wriiters writers
 iab wriitng writing
 iab wriote wrote
+iab wrirter writer
 iab wrirting writing
 iab writdw write
 iab writen written
