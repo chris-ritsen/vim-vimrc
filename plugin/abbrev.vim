@@ -3054,6 +3054,7 @@ iab abouve above
 iab abouygt about
 iab abouyt about
 iab abovoe above
+iab abovole above
 iab aboyut about
 iab abpout about
 iab abppple apple
