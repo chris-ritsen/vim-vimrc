@@ -211,6 +211,7 @@ iab Conetinually Continually
 iab Congtratulations Congratulations
 iab Conrifrmed Confirmed
 iab Conrrad Conrad
+iab Conscioiusness Consciousness
 iab Consequ3ence Consequence
 iab Considder Consider
 iab Conspicious Conspicuous
@@ -309,6 +310,7 @@ iab Ctoniainer Container
 iab Ctontainer Container
 iab Cuirrently Currently
 iab Cultaured Cultured
+iab Cuoudl Could
 iab Curerntluy Currently
 iab Currenlty Currently
 iab Currlenly Currency
@@ -664,6 +666,7 @@ iab Extremleh Extremely
 iab Extrreme Extreme
 iab Exubuereance Exuberance
 iab F0urth Fourth
+iab FActs Facts
 iab FEderal Federal
 iab FGive Five
 iab FIXAME FIXME
@@ -2321,6 +2324,7 @@ iab TEchnical Technical
 iab TEchnique Technique
 iab TEchniquqe Technique
 iab TEchnology Technology
+iab TEmerature Temperature
 iab TEmntative Tentative
 iab TEmplates Templates
 iab TEnataitive Tentative
@@ -2440,6 +2444,7 @@ iab Technqiue Technique
 iab Teditoius Tedious
 iab Teh The
 iab Tehchnical Technical
+iab Tehe The
 iab Tehir Their
 iab Tehisting Testing
 iab Tehiwgnnnn Testing
@@ -2947,6 +2952,7 @@ iab aare are
 iab aarea area
 iab aarray array
 iab aas as
+iab aasked asked
 iab aassoticated associated
 iab aat at
 iab aattacik attack
@@ -3664,6 +3670,7 @@ iab agefs ages
 iab agendaas agendas
 iab aggegates aggregates
 iab aggree agree
+iab aggrega5te aggregate
 iab aggregatesd aggregates
 iab aggresion aggression
 iab aggrevated aggravated
@@ -4735,6 +4742,7 @@ iab ascehsism asceticism
 iab asd as
 iab asdd and
 iab asded added
+iab asdyone anyone
 iab asdything anything
 iab asdytying anything
 iab asertained ascertained
@@ -5983,6 +5991,7 @@ iab builit built
 iab builkdign building
 iab buiodl build
 iab buiodlign building
+iab buioundless boundless
 iab buisness business
 iab buity beauty
 iab buiudlers builders
@@ -7334,6 +7343,7 @@ iab concluyde conclude
 iab conclysuvly conclusively
 iab concocutions concoctions
 iab concole console
+iab concollusion conclusion
 iab concomiatants concomitants
 iab concous conscious
 iab concousness consciousness
@@ -7971,6 +7981,7 @@ iab corerctyion correction
 iab corerdcdt correct
 iab corerect correct
 iab corerected corrected
+iab coreret correct
 iab coretions corrections
 iab corffee coffee
 iab corlo color
@@ -9400,6 +9411,7 @@ iab dissincnes dissonance
 iab dissiuade dissuade
 iab dissonence dissonance
 iab disspated dissipated
+iab disspiaytesd dissipated
 iab disstractions distractions
 iab distaccted distracted
 iab distacdtion distraction
@@ -10511,6 +10523,7 @@ iab engaingng engaging
 iab enganging engaging
 iab engergize energize
 iab engergy energy
+iab enggergy energy
 iab engieeer engineer
 iab engineeer engineer
 iab engineerign engineering
@@ -10577,6 +10590,7 @@ iab enternity eternity
 iab enterred entered
 iab entertaminment entertainment
 iab entertinug entering
+iab enteryg energy
 iab enterying entering
 iab enthhusiastic enthusiastic
 iab enthisuastic enthusiastic
@@ -13705,6 +13719,7 @@ iab impememented implemented
 iab impenentravble impenetrable
 iab imperceiable imperceivable
 iab imperceiveable imperceivable
+iab impercieiable imperceivable
 iab imperihative imperative
 iab imperitive imperative
 iab impermenanty impermanent
@@ -14332,6 +14347,7 @@ iab innntelligent intelligent
 iab innoctent innocent
 iab innovateive innovative
 iab innstead instead
+iab innumer4able2 innumerable
 iab inocomrpelsheibility incomprehensibility
 iab inoyut input
 iab inpect inspect
@@ -14502,6 +14518,7 @@ iab intelelictual intellectual
 iab inteliigent intelligent
 iab intellecautlaly intellectually
 iab intellecutal intellectual
+iab intellecvtual intellectual
 iab intellgent intelligent
 iab intelliginble intelligible
 iab intendend intended
@@ -17777,6 +17794,7 @@ iab ohoping hoping
 iab ohow how
 iab ohsotagesd hostages
 iab oht out
+iab oif of
 iab oiike like
 iab oimportant important
 iab oimportantce importance
@@ -18106,6 +18124,7 @@ iab ort or
 iab orther other
 iab orupuses purposes
 iab oruther further
+iab osciallation oscillation
 iab osciallator oscillator
 iab oscialllator oscillator
 iab oscillatiojs oscillations
@@ -22277,6 +22296,7 @@ iab sentene2 sentence
 iab sentenincging sentencing
 iab sentennce sentence
 iab sentenncing sentencing
+iab sentimanetality sentimentality
 iab sentnec3 sentence
 iab sentnece sentence
 iab sentneces sentences
@@ -23268,6 +23288,7 @@ iab spogne sponge
 iab spoiles spoils
 iab spome some
 iab sponic sonic
+iab spontainously spontaneously
 iab spontanenously spontaneously
 iab spoooky spooky
 iab spoot spot
@@ -24526,6 +24547,7 @@ iab tempaltex templates
 iab temparature temperature
 iab tempate template
 iab temperateur temperature
+iab temperatuyre temperature
 iab temperautyre temperature
 iab templaes templates
 iab templaets templates
@@ -26017,6 +26039,7 @@ iab undersgorund underground
 iab undersirable undesirable
 iab undersnad underhand
 iab undersnatd understand
+iab undersootood understood
 iab undersotood understood
 iab understaindg understanding
 iab understainding understanding
@@ -27876,26 +27899,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab buioundless boundless
-iab Conscioiusness Consciousness
-iab undersootood understood
-iab aggrega5te aggregate
-iab disspiaytesd dissipated
-iab spontainously spontaneously
-iab enggergy energy
-iab enteryg energy
-iab osciallation oscillation
-iab TEmerature Temperature
-iab temperatuyre temperature
-iab oif of
-iab Tehe The
-iab innumer4able2 innumerable
-iab concollusion conclusion
-iab coreret correct
-iab impercieiable imperceivable
-iab FActs Facts
-iab aasked asked
-iab Cuoudl Could
-iab intellecvtual intellectual
-iab sentimanetality sentimentality
-iab asdyone anyone
