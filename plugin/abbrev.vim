@@ -248,6 +248,7 @@ iab Continoually Continually
 iab Continuallyy Continually
 iab Continualyy Continually
 iab Continulally Continually
+iab Continuyiing Continuing
 iab Continyue Continue
 iab Contiuinaully Continually
 iab Contiuing Continuing
@@ -1856,6 +1857,7 @@ iab REsteruant Restaurant
 iab REstewaunrt Restaurant
 iab REstewraunt Restaurant
 iab REsting Resting
+iab REstlessness Restlessness
 iab REstwaraunt Restaurant
 iab REstweeraunt Restaurant
 iab REstweraunt Restaurant
@@ -1930,6 +1932,7 @@ iab Refrences References
 iab Regeret Regret
 iab Regualr Regular
 iab Relatiopnsshiops Relationships
+iab Releslesnsess Restlessness
 iab Remakrable Remarkable
 iab Remeber Remember
 iab Remebmerr Remember
@@ -14558,6 +14561,7 @@ iab interrnet internet
 iab interrrrupting interrupting
 iab interrruption interruption
 iab interrupatjions interruptions
+iab interrutpions interruptions
 iab intersating interesting
 iab intersesting interesting
 iab intersetign interesting
@@ -16413,6 +16417,7 @@ iab middl3 middle
 iab middle34 middle
 iab midlde middle
 iab midpouint midpoint
+iab mieaning meaning
 iab miery misery
 iab mighbt might
 iab mighjt might
@@ -18509,6 +18514,7 @@ iab pciture picture
 iab pcitures pictures
 iab pcker pucker
 iab pcoekt pocket
+iab pe3rmitting permitting
 iab pe3rsion person
 iab peaople people
 iab peasce peace
