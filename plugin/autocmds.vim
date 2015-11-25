@@ -168,6 +168,7 @@ autocmd! BufReadPre,FileReadPre *.gpg,*.asc set noswapfile
 
 autocmd! BufRead,BufWrite *.xkb set filetype=xkb
 autocmd! BufRead,BufWrite ~/xkb/symbols/* set filetype=xkb
+autocmd! BufRead,BufWrite /usr/share/X11/xkb/symbols/* set filetype=xkb
 autocmd! BufRead,BufWrite ~/.config/X11/xkb/symbols/* set filetype=xkb
 
 autocmd! FileType xkb setlocal foldmethod=marker foldmarker={,} commentstring=\/\/\ %s
