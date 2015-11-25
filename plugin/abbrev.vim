@@ -1698,6 +1698,7 @@ iab Populat Populate
 iab Porojcts Projects
 iab Poseter Poster
 iab Posisbly Possibly
+iab Possisesisng Possessing
 iab Postion Position
 iab Potatos Potatoes
 iab Pracitice Practice
@@ -5970,6 +5971,8 @@ iab bty by
 iab btyn btn
 iab bu8ildings buildings
 iab bublbe bubble
+iab bublbes bubbles
+iab bubles bubbles
 iab buddget budget
 iab buddon button
 iab budilgins buildings
@@ -6539,6 +6542,7 @@ iab choereent coherent
 iab choerent coherent
 iab choesen chosen
 iab choesive cohesive
+iab choherenant coherent
 iab choild child
 iab choise choice
 iab choisees choices
@@ -7342,6 +7346,7 @@ iab concflicts conflicts
 iab concice concise
 iab concider consider
 iab concifience confidence
+iab conciosucness consciousness
 iab concious conscious
 iab conciousness consciousness
 iab conciul council
@@ -7363,6 +7368,7 @@ iab concluslivly conclusively
 iab conclusvuluy conclusively
 iab concluyde conclude
 iab conclysuvly conclusively
+iab concnetrate concentrate
 iab concocutions concoctions
 iab concole console
 iab concollusion conclusion
@@ -7499,6 +7505,7 @@ iab conistraingin constraining
 iab conistraining constraining
 iab conitnue continue
 iab conitnuiong continuing
+iab conituynously continuously
 iab conmbinations combinations
 iab conmcept concept
 iab conmpile compile
@@ -11785,6 +11792,7 @@ iab familyar familiar
 iab fards cards
 iab farenheight fahrenheit
 iab farily fairly
+iab fascillitate facilitate
 iab fasghionsed fashioned
 iab fashiion fashion
 iab fasiob fashion
@@ -12865,6 +12873,7 @@ iab hapepens happens
 iab hapepenstance happenstance
 iab hapepn happen
 iab hapepned happened
+iab hapepneings happenings
 iab hapepnign happening
 iab hapepning happening
 iab hapepns happens
@@ -14577,6 +14586,7 @@ iab intellecautlaly intellectually
 iab intellecutal intellectual
 iab intellecvtual intellectual
 iab intellgent intelligent
+iab intellicgaence intelligence
 iab intelliginble intelligible
 iab intendend intended
 iab intendets indents
@@ -14672,6 +14682,7 @@ iab interrrrupting interrupting
 iab interrruption interruption
 iab interrupatjions interruptions
 iab interrutpions interruptions
+iab intersactions intersections
 iab intersating interesting
 iab intersesting interesting
 iab intersetign interesting
@@ -15005,6 +15016,7 @@ iab itlsef itself
 iab itme time
 iab itmestamps timestamps
 iab itnednted intended
+iab itnenraval interval
 iab itnerepreation interpretation
 iab itnerest interest
 iab itnerested interested
@@ -16532,6 +16544,7 @@ iab micxrohpne microphone
 iab middl3 middle
 iab middle34 middle
 iab midlde middle
+iab midn mind
 iab midpouint midpoint
 iab mieaning meaning
 iab miery misery
@@ -16971,6 +16984,7 @@ iab mrember remember
 iab mremember remember
 iab mreo more
 iab mrequests requests
+iab mreriro mirror
 iab mro more
 iab mroe more
 iab mroening morning
@@ -19618,6 +19632,7 @@ iab preimim premium
 iab preinting printing
 iab preiopsitions prepositions
 iab preiouvlulsy previously
+iab preiovusly previously
 iab preivoius previous
 iab preivoulsy previously
 iab preivously previously
@@ -20147,6 +20162,7 @@ iab psiobile possible
 iab psiosisgble23 possible
 iab psiostions positions
 iab psiostiosns positions
+iab psirit spirit
 iab psitison position
 iab psoible possible
 iab psoiiotsions positions
@@ -20337,6 +20353,7 @@ iab queit quiet
 iab queresi queries
 iab querstion question
 iab quesaiotn question
+iab quesations questions
 iab quesionts questions
 iab quesiotn question
 iab quesiotns questions
@@ -20593,6 +20610,7 @@ iab reasesrhc research
 iab reasesxhrch research
 iab reashdersrhc research
 iab reasherdh research
+iab reasie raise
 iab reasl real
 iab reaslise realise
 iab reasno reason
@@ -20687,6 +20705,7 @@ iab recogfnize recognize
 iab recognation recognition
 iab recogniised recognised
 iab recogniseing recognising
+iab recognistion recognition
 iab recognizeable recognizable
 iab recoikgning recognizing
 iab recoiuperating recuperating
@@ -20811,6 +20830,7 @@ iab reflecdt reflect
 iab refleceted reflected
 iab reflecitons reflections
 iab reflectedd reflected
+iab reflectiong reflections
 iab reflefction reflection
 iab reflet reflect
 iab reflexes Reflexes
@@ -21577,6 +21597,7 @@ iab revalation revelation
 iab revcoeringds recordings
 iab revcord record
 iab reve3al reveal
+iab reveail reveal
 iab reveailed revealed
 iab revealsed revealed
 iab reveicve receive
@@ -22990,6 +23011,7 @@ iab slpelling spelling
 iab slplit split
 iab slwest slowest
 iab slwo slow
+iab slwoed slowed
 iab slwoest slowest
 iab smae same
 iab smalleset smallest
@@ -25890,6 +25912,7 @@ iab twxt text
 iab tyep type
 iab tyeps types
 iab tyhat that
+iab tyhe the
 iab tyhere there
 iab tyhese these
 iab tyhpe type
@@ -26062,6 +26085,7 @@ iab ultimiately ultimately
 iab ultimlately ultimately
 iab ultiomate ultimate
 iab unabivoidable unavoidable
+iab unable3 unable
 iab unabloidable unavoidable
 iab unambigious unambiguous
 iab unambigous unambiguous
@@ -26563,6 +26587,7 @@ iab uypour your
 iab uyse use
 iab uyser user
 iab uysing using
+iab uysnerstanding understanding
 iab v3erify verify
 iab v3ery very
 iab v4ersion version
@@ -26643,6 +26668,7 @@ iab vbaseed based
 iab vbery very
 iab vbiew view
 iab vbiolent violent
+iab vbirations vibrations
 iab vbision vision
 iab vboring boring
 iab vborwser browser
@@ -26760,6 +26786,8 @@ iab vilume volume
 iab vioice voice
 iab violen violin
 iab virabirations vibrations
+iab viraibtions vibrations
+iab virations vibrations
 iab virbration vibration
 iab virtaul virtual
 iab virtudal virtual
