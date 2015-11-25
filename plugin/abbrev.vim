@@ -854,6 +854,7 @@ iab Helllo Hello
 iab Hellow Hello
 iab Henfdrix Hendrix
 iab Henfrix Hendrix
+iab Hestitation Hesitation
 iab Hewlet Hewlett
 iab Hhave Have
 iab Hhello Hello
@@ -3391,6 +3392,7 @@ iab activies activities
 iab activietiy activity
 iab activiity activity
 iab activites activates
+iab activitieeees activities
 iab activitiews activities
 iab activitiies activities
 iab activitiy activity
@@ -3822,6 +3824,7 @@ iab aloen alone
 iab alogn align
 iab aloowed allowed
 iab alos also
+iab alotogether altogether
 iab alotted allotted
 iab alow allow
 iab alphabeltically alphabetically
@@ -3877,6 +3880,7 @@ iab alternnative alternative
 iab alterted alerted
 iab altetrnative alternative
 iab altheltes athletes
+iab althogether altogether
 iab althoguh although
 iab althoguht although
 iab althoguth although
@@ -6691,6 +6695,7 @@ iab clotehs clothes
 iab clotehse clothes
 iab clothese clothes
 iab clothign clothing
+iab clothiung clothing
 iab clotihes clothes
 iab clsoe close
 iab clsoed closed
@@ -7146,6 +7151,7 @@ iab compoiled compiled
 iab compolaints complaints
 iab compolete complete
 iab compoleted completed
+iab compoleteld completed
 iab compoletely completely
 iab compolicated complicated
 iab componenets components
@@ -7326,6 +7332,7 @@ iab conditinoning conditioning
 iab conditioanl conditional
 iab conditiona condition
 iab conditionaer conditioner
+iab conditionahs conditions
 iab conditionas conditions
 iab conditiosn conditions
 iab conditon condition
@@ -9200,6 +9207,7 @@ iab disablve disable
 iab disadbled disabled
 iab disaeas disease
 iab disagerementt disagreement
+iab disalbe disable
 iab disalbed disabled
 iab disalble disable
 iab disalbling disabling
@@ -11276,6 +11284,7 @@ iab exetcises exercises
 iab exeternal external
 iab exetmerly extremely
 iab exetrcises exercises
+iab exeveal several
 iab exfceedingly exceedingly
 iab exhamined examined
 iab exhaults exults
@@ -14011,6 +14020,7 @@ iab incremenetally incrementally
 iab incremeneted incremented
 iab incremenets increments
 iab increreased increased
+iab incresase increase
 iab incrledbfly incredibly
 iab incrledbly incredibly
 iab incrledbyy incredibly
@@ -15434,6 +15444,7 @@ iab ledgendayr legendary
 iab ledgennndardy legendary
 iab ledgerg ledger
 iab ledt left
+iab leead lead
 iab leeaves leaves
 iab leecticity electricity
 iab leectric electric
@@ -17738,6 +17749,7 @@ iab omptyer computer
 iab omputer computer
 iab ompyter computer
 iab omre more
+iab omring morning
 iab omrnig morning
 iab omterset intersect
 iab onChnage onChange
@@ -26372,6 +26384,7 @@ iab variesd varied
 iab variing varying
 iab varilables variables
 iab varity variety
+iab varlagble verbal
 iab varlaible variable
 iab varliable variable
 iab varoius various
@@ -26419,6 +26432,10 @@ iab velictity velocity
 iab veloicity velocity
 iab venefits benefits
 iab venetable vegetable
+iab verabalises verbalises
+iab verabl verbal
+iab verable verbal
+iab verablises verbalises
 iab verablly verbally
 iab verfiy verify
 iab verhbaim verbatim
