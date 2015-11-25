@@ -373,6 +373,7 @@ iab Dedficits Deficits
 iab Definiing Defining
 iab Deliusion Delusion
 iab Demonstarted Demonstrated
+iab Deos Does
 iab Depribved Deprived
 iab Deprression Depression
 iab Deque Dequeue
@@ -708,6 +709,7 @@ iab Facbook Facebook
 iab Failry Fairly
 iab Falswe False
 iab Fbonacci Fibonacci
+iab Fdinding Finding
 iab Fearuew Feature
 iab Featurey Feature
 iab Feelign Feeling
@@ -4180,6 +4182,7 @@ iab anwering answering
 iab anwersr answerer
 iab anwhyehrer anywhere
 iab anwhyere anywhere
+iab anwsers answers
 iab anwswered answered
 iab anwy any
 iab anwya anyway
@@ -4535,6 +4538,7 @@ iab appripriate appropriate
 iab approacted approached
 iab approcimate approximate
 iab approcimation approximation
+iab approcixmate approximate
 iab apprograiate appropriate
 iab approicimlately approximately
 iab approixmaltye approximately
@@ -5671,6 +5675,7 @@ iab biody body
 iab bioelectornics bioelectronics
 iab biolerplate boilerplate
 iab biorder border
+iab birdds birds
 iab bireef brief
 iab biref brief
 iab birgh bright
@@ -5744,7 +5749,7 @@ iab bluye blue
 iab blwah blah
 iab blyetooth bluetooth
 iab blynt blunt
-iab blyue value
+iab blyue blue
 iab bne be
 iab bneed need
 iab bneing being
@@ -10167,6 +10172,7 @@ iab eflat flat
 iab efor for
 iab efort effort
 iab efrort effort
+iab eftects effects
 iab efven even
 iab efvent event
 iab efventually eventually
@@ -10774,7 +10780,9 @@ iab epxecting expecting
 iab epxectp expect
 iab epxedcted expected
 iab epxedtecd expected
+iab epxeireinces experiences
 iab epxeirenceing experiencing
+iab epxerieince experience
 iab epxerience experience
 iab epxerimeces experiences
 iab epxermeiments experiments
@@ -13793,6 +13801,7 @@ iab implemneting implementing
 iab implemntation implementation
 iab implemtation implementation
 iab implemtenetgd implemented
+iab implemtnation implementation
 iab implenenation implementation
 iab implenent implement
 iab implicityl implicitly
@@ -14402,6 +14411,7 @@ iab inpput input
 iab inpressing impressing
 iab inpsect inspect
 iab inpspiration inspiration
+iab inpterpret interpret
 iab inptu input
 iab inpuyt input
 iab inpyt input
@@ -16437,6 +16447,7 @@ iab messgage message
 iab messign messing
 iab messsage message
 iab messsages messages
+iab mesuured measured
 iab metabilisom metabolism
 iab metabiltes metabolites
 iab metabolisim metabolism
@@ -16925,6 +16936,7 @@ iab mougth mouth
 iab mountian mountain
 iab mountians mountains
 iab mountinains mountains
+iab moure more
 iab mousade mouse
 iab mousee mouse
 iab mousture moisture
@@ -17702,6 +17714,7 @@ iab occassionally occasionally
 iab occassions occasions
 iab occatsional occasional
 iab occiital occipital
+iab occiurs occurs
 iab occoasions occasions
 iab occours occurs
 iab occuies occupies
@@ -17852,6 +17865,7 @@ iab oimportant important
 iab oimportantce importance
 iab oimprove improve
 iab oimprtantly importantly
+iab oimprtantnce importance
 iab oincreasing increasing
 iab oinly only
 iab oinstead instead
@@ -18144,6 +18158,7 @@ iab origanized organized
 iab oright right
 iab origianl original
 iab origianlly originally
+iab origianted originated
 iab originl original
 iab origiunal original
 iab orignal original
@@ -18340,6 +18355,7 @@ iab owould would
 iab owrd word
 iab owrds words
 iab owrfds words
+iab owrithwhile worthwhile
 iab owrk work
 iab owrkas works
 iab owrked worked
@@ -19215,6 +19231,7 @@ iab poisn poison
 iab poisned poisoned
 iab poisnined poisoned
 iab poisotions positions
+iab poissibly possibly
 iab poisslbe possible
 iab poissuble possible
 iab poistioions positions
@@ -20323,6 +20340,7 @@ iab quesitons questions
 iab questionas questions
 iab questiones questions
 iab questionsg questions
+iab questiopns questions
 iab questiosn questions
 iab quetiude quietude
 iab quetsion question
@@ -20507,6 +20525,7 @@ iab reagardless regardless
 iab reagularly regularly
 iab reaidng reading
 iab reails rails
+iab reailtiy reality
 iab reailty reality
 iab reailyt reality
 iab reakl real
@@ -20535,6 +20554,7 @@ iab realting relating
 iab realy really
 iab realyl really
 iab reamaing remaining
+iab reaminax remains
 iab reamins remains
 iab reandomly randomly
 iab reansoably reasonably
@@ -24963,6 +24983,7 @@ iab theseuarurs thesaurus
 iab thesew these
 iab theslemesvles themselves
 iab thesmelves themselves
+iab thesmlevles themselves
 iab thesmsleves themselves
 iab thess3 these
 iab thessse these
@@ -26732,6 +26753,7 @@ iab vill will
 iab vilume volume
 iab vioice voice
 iab violen violin
+iab virabirations vibrations
 iab virbration vibration
 iab virtaul virtual
 iab virtudal virtual
@@ -27310,6 +27332,7 @@ iab willd will
 iab wille will
 iab willh will
 iab willign willing
+iab williign willing
 iab williong willing
 iab wilpl will
 iab windo wind
@@ -27858,6 +27881,7 @@ iab yhlou you
 iab yhoiuyr your
 iab yhou you
 iab yhour your
+iab yhuman human
 iab yiu you
 iab ylimiately ultimately
 iab ylu you
