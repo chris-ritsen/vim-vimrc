@@ -1821,6 +1821,7 @@ iab RElaly Really
 iab RElated Related
 iab RElationships Relationships
 iab RElativitiy Relativity
+iab RElaxing Relaxing
 iab REleated Related
 iab RElese Release
 iab REmember Remember
