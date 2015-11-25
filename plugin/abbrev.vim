@@ -2427,6 +2427,7 @@ iab Tarriff Tariff
 iab Tbahnsks Thanks
 iab Tbanks Thanks
 iab Tben Then
+iab Tbhe The
 iab Tbhis This
 iab Tdakers Takers
 iab Teantnaiuve Tentative
@@ -4239,6 +4240,7 @@ iab aobve above
 iab aobyut about
 iab aoccount account
 iab aoccour occur
+iab aoccurs occurs
 iab aoften often
 iab aog ago
 iab aoht about
@@ -4778,6 +4780,7 @@ iab assertation assertion
 iab assertiaion assertion
 iab assertiion assertion
 iab assertino assertion
+iab assesement assessment
 iab assessmetn assessment
 iab assewts assets
 iab assiciatecd associated
@@ -8447,6 +8450,7 @@ iab decard decade
 iab decate decade
 iab decates decades
 iab decawd4e decade
+iab decayiung decaying
 iab decding deciding
 iab decdnt decent
 iab decentg decent
@@ -10924,6 +10928,7 @@ iab etnerain entertain
 iab etnertain entertain
 iab etnettain entertain
 iab etnhusiasitc enthusiastic
+iab etnirely entirely
 iab eto to
 iab etoday today
 iab etqitquite etiquette
@@ -11704,6 +11709,7 @@ iab falmcons falcons
 iab falres flares
 iab falsae false
 iab falsde false
+iab falture falter
 iab falvor flavor
 iab falwe false
 iab famiiliar familiar
@@ -13221,6 +13227,7 @@ iab hostwing hosting
 iab hosude house
 iab hosue house
 iab hosuew house
+iab hosuing housing
 iab hosuld should
 iab hosurs hours
 iab hotswwap hotswap
@@ -16309,6 +16316,7 @@ iab memroyr memory
 iab memry memory
 iab memyr memory
 iab memyro memory
+iab menagarie menagerie
 iab menaingless meaningless
 iab menantuful meaningful
 iab menas means
@@ -16850,6 +16858,7 @@ iab mousade mouse
 iab mousee mouse
 iab mousture moisture
 iab moutnains mountains
+iab moutyh mouth
 iab moveements movements
 iab moveies movies
 iab moveis movies
@@ -17795,6 +17804,7 @@ iab omewthing mouthing
 iab ommand command
 iab ommpyter computer
 iab omnifunct onmifunc
+iab omnipitant omnipotent
 iab omplext complex
 iab ompmputer computer
 iab omptuer computer
@@ -17912,6 +17922,7 @@ iab opical optical
 iab opinoin opinion
 iab opinoion opinion
 iab opmleted completed
+iab opmnimitant omnipotent
 iab opninon opinion
 iab opnion opinion
 iab opoint point
@@ -19336,6 +19347,7 @@ iab poudn pound
 iab pouplar popular
 iab poutting putting
 iab powe3rful powerful
+iab powerfull powerful
 iab ppareiciatedc appreciated
 iab pparition apparition
 iab pperformances performances
@@ -19400,6 +19412,7 @@ iab practiceid practiced
 iab practiceing practicing
 iab practicially practically
 iab practicign practicing
+iab practiciinfg practicing
 iab practiciing practicing
 iab practicintg practicing
 iab practid practiced
@@ -20133,6 +20146,7 @@ iab purpoxdes purposes
 iab purpse purpose
 iab purpsie purpose
 iab purpsoe purpose
+iab purpsoe4e purpose
 iab purpsoes purposes
 iab purpsoese purpose
 iab purpsose purpose
@@ -22839,6 +22853,7 @@ iab slicdklty slightly
 iab slid3 slide
 iab slighlty slightly
 iab slightl slight
+iab sligthest slightest
 iab sligthly slightly
 iab slike like
 iab slleep sleep
@@ -23795,6 +23810,7 @@ iab suffuciently sufficiently
 iab sufrances surfaces
 iab sugeests suggests
 iab sugests suggests
+iab sugffering suffering
 iab suggesets suggests
 iab suggesitng suggesting
 iab suggesteions suggestions
@@ -24722,6 +24738,7 @@ iab tgoal goal
 iab tgouched touched
 iab tgus this
 iab th3eir their
+iab th3ese these
 iab th4e the
 iab th4eir their
 iab th4ey they
@@ -26952,6 +26969,7 @@ iab weveryday everyday
 iab weveryone everyone
 iab weverything everything
 iab weverywhere everywhere
+iab wevnetually eventually
 iab wevsite website
 iab wewird weird
 iab wewks weeks
@@ -27555,6 +27573,7 @@ iab wtatweferfallls waterfalls
 iab wtching watching
 iab wthat that
 iab wthehr whether
+iab wtherther whether
 iab wtih with
 iab wtiting writing
 iab wto to
