@@ -18,7 +18,7 @@ function! AddAbbrev()
   " {{{
 
   let incorrect_word = expand('<cword>')
-  let bad_word = spellbad(incorrect_word)
+  " let bad_word = spellbad(incorrect_word)
 
   " }}}
 
@@ -32,12 +32,12 @@ function! AddAbbrev()
 
   " {{{
   
-  if match(bad_word[1], 'bad') == 0
+  " if match(bad_word[1], 'bad') == 0
     " This is indeed a bad word.
-  else
+  " else
     " Don't care about fixing uncapitalised or rare words; check for that
     " here.
-  endif
+  " endif
 
   if match(@a, 'no') == -1
     let has_spell = 'true'
