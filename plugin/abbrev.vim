@@ -672,6 +672,7 @@ iab Exubuereance Exuberance
 iab F0urth Fourth
 iab FActs Facts
 iab FEderal Federal
+iab FEeeidng Feeding
 iab FGive Five
 iab FIXAME FIXME
 iab FIXMDE FIXME
@@ -7418,6 +7419,7 @@ iab conditionahs conditions
 iab conditionas conditions
 iab conditiosn conditions
 iab conditon condition
+iab condiucting conducting
 iab condiuit conduit
 iab condiut conduit
 iab condoments condiments
@@ -11061,6 +11063,7 @@ iab evaltuated evaluated
 iab evalutaiotn evaluation
 iab evalyate evaluate
 iab evangalissts evangelists
+iab evaquate evacuate
 iab evasice evasive
 iab evauluate evaluate
 iab evealutate evaluate
@@ -12531,6 +12534,7 @@ iab futeur future
 iab futeurther further
 iab futgure future
 iab futher further
+iab futilte futile
 iab futuer future
 iab futurte future
 iab futyre future
@@ -16721,6 +16725,7 @@ iab miserlable miserable
 iab misinterpreed misinterpreted
 iab misisng missing
 iab misktaekn mistaken
+iab misllion million
 iab misntawekn mistaken
 iab misntekan mistaken
 iab misntkawen mistaken
@@ -18499,6 +18504,7 @@ iab pading padding
 iab paenl panel
 iab paerhapo perhaps
 iab paernts parents
+iab paert part
 iab pageer pager
 iab pagesa pages
 iab pagesd pages
@@ -23131,6 +23137,7 @@ iab smemiconcudtor semiconductor
 iab smeothing something
 iab smething something
 iab smetohing something
+iab smililing smiling
 iab smimler simpler
 iab smimlyanelysly simultaneously
 iab smimulation simulation
@@ -25376,6 +25383,7 @@ iab throughtout throughout
 iab througn through
 iab thrtough through
 iab thruogh through
+iab thrustsers thrusters
 iab thsat that
 iab thse these
 iab thseaursus thesaurus
@@ -26976,6 +26984,7 @@ iab verty very
 iab veru very
 iab verye very
 iab veryone everyone
+iab verytinhgin everything
 iab verywhere everywhere
 iab vesrion version
 iab vesrions versions
