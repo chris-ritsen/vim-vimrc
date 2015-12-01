@@ -6105,6 +6105,7 @@ iab busines business
 iab businessment businessmen
 iab businesss business
 iab businses business
+iab busisness business
 iab busnienss business
 iab bussy busy
 iab butetr butter
@@ -6126,6 +6127,7 @@ iab buuying buying
 iab buvkets buckets
 iab buyffalo buffalo
 iab buyhing buying
+iab buysisne business
 iab buyt but
 iab bvackground background
 iab bveen been
@@ -7062,6 +7064,7 @@ iab coment comment
 iab comeplete complete
 iab comeplte complete
 iab comepltely completely
+iab comeplx complex
 iab comeptuyer computer
 iab comex comes
 iab comfiroting comforting
@@ -7593,6 +7596,7 @@ iab conituynously continuously
 iab conmbinations combinations
 iab conmcept concept
 iab conmpile compile
+iab conmplex complex
 iab conmpreshension comprehension
 iab connecction connection
 iab connecdiotn connection
@@ -7733,6 +7737,7 @@ iab consoele console
 iab consoemle console
 iab consoeo console
 iab consoicue conscious
+iab consoicusness consciousness
 iab consoiousness consciousness
 iab consoiusness consciousness
 iab consol console
@@ -10750,6 +10755,7 @@ iab enteredf entered
 iab entergy energy
 iab enteries entries
 iab enterily entirely
+iab enterinyut eternity
 iab enterirely entirely
 iab enternity eternity
 iab enterred entered
@@ -11100,6 +11106,7 @@ iab esyes eyes
 iab etenbd extend
 iab etenchology technology
 iab etend extend
+iab etenriynity eternity
 iab etenrw entire
 iab eterninty eternity
 iab etext text
@@ -11828,6 +11835,7 @@ iab extremley extremely
 iab extremlly extremely
 iab extremlnmly extremely
 iab extremly extremely
+iab extrenekt extremely
 iab extrenouous extraneous
 iab extrenous extraneous
 iab extrleytley extremely
@@ -17585,6 +17593,7 @@ iab nmodule module
 iab nmuerder murder
 iab nmuistaken mistaken
 iab nmy my
+iab nnecessary necessary
 iab nnight night
 iab nno no
 iab nnormal normal
@@ -18084,6 +18093,7 @@ iab oinly only
 iab oinstead instead
 iab oipen open
 iab oir or
+iab oirdiinary ordinary
 iab oiriginally originally
 iab oiriginated originated
 iab oiroginal original
@@ -19069,6 +19079,7 @@ iab permeneantly permanently
 iab permentanlty permanently
 iab permentantly permanently
 iab permentlyl permanently
+iab permhaps perhaps
 iab perminence permanence
 iab permision permission
 iab permisisons permissions
@@ -21221,6 +21232,7 @@ iab releaxews releases
 iab relections reflections
 iab reled related
 iab relefct reflect
+iab releieve relieve
 iab releif relief
 iab releiuived relieved
 iab relelavant relevant
@@ -23230,6 +23242,7 @@ iab sjobs jobs
 iab sjouild should
 iab sjsut just
 iab sjust just
+iab sk8ill skill
 iab skae sake
 iab skateboaredindg skateboarding
 iab skelatal skeletal
@@ -23340,6 +23353,7 @@ iab snad and
 iab snakc snack
 iab snaoke snake
 iab snawithch sandwich
+iab snec3esaary necessary
 iab sned send
 iab sneding sending
 iab sneeindg sending
@@ -24256,6 +24270,7 @@ iab suffereing suffering
 iab sufferinug suffering
 iab sufferneging suffering
 iab sufferred suffered
+iab sufffering suffering
 iab sufficioent sufficient
 iab suffictint sufficient
 iab suffuciently sufficiently
@@ -25525,6 +25540,7 @@ iab thorughts thoughts
 iab thorugout throughout
 iab thoruhg through
 iab thoruoully thoroughly
+iab thoruuoly thoroughly
 iab thorw throw
 iab thorwing throwing
 iab thorwn thrown
@@ -28483,6 +28499,7 @@ iab ythird third
 iab ythis this
 iab ytuturali tutorial
 iab yues yes
+iab yuntil until
 iab yuo you
 iab yuor your
 iab yuorsdlf yourself
