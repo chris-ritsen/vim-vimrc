@@ -214,6 +214,7 @@ iab Concact Concat
 iab Conceivingh Conceiving
 iab Concequence Consequence
 iab Conetinually Continually
+iab Confiusiuon Confusion
 iab Congtratulations Congratulations
 iab Conrifrmed Confirmed
 iab Conrrad Conrad
@@ -4315,6 +4316,7 @@ iab aoften often
 iab aog ago
 iab aoht about
 iab aonther another
+iab aopplying applying
 iab aoroudn around
 iab aorudn around
 iab aorund around
@@ -7175,6 +7177,7 @@ iab comntemplation contemplation
 iab comntrol control
 iab comoing coming
 iab comoment comment
+iab comomn common
 iab comon common
 iab comopnetns components
 iab comoptyuers computers
@@ -7407,6 +7410,7 @@ iab conceede concede
 iab conceedes concedes
 iab conceieve conceive
 iab concenrs concerns
+iab concentraetion concentration
 iab concentraion concentration
 iab concentraiont concentration
 iab concentraiotn concentration
@@ -8453,6 +8457,7 @@ iab cventer center
 iab cviewing viewing
 iab cvlose close
 iab cvomptuer computer
+iab cvoncentration concentration
 iab cvould could
 iab cvreen screen
 iab cwpenvil pencil
@@ -8691,6 +8696,7 @@ iab definiseivemenss defensiveness
 iab definitaltely definitely
 iab definiteions definitions
 iab definitelyl definitely
+iab definte definite
 iab defintely definitely
 iab defintiely definitely
 iab defintiions definitions
@@ -10730,6 +10736,7 @@ iab enlightemenemtn enlightenment
 iab enlightement enlightenment
 iab enlighten4eed enlightened
 iab enlightenmment enlightenment
+iab enlightennemtn enlightenment
 iab enlugh enough
 iab enmtpy empty
 iab ennds ends
@@ -11173,6 +11180,7 @@ iab eusing using
 iab euyar year
 iab evaaluated evaluated
 iab evaltuated evaluated
+iab evaluationg evaluating
 iab evalutaiotn evaluation
 iab evalyate evaluate
 iab evangalissts evangelists
@@ -11180,6 +11188,7 @@ iab evaquate evacuate
 iab evasice evasive
 iab evauluate evaluate
 iab evealutate evaluate
+iab evealutation evaluation
 iab evedently evidently
 iab evedientally evidently
 iab evefr ever
@@ -11256,6 +11265,7 @@ iab evertyignnn everything
 iab evertyihg everything
 iab evertyihgn everything
 iab evertying everything
+iab evertythign everything
 iab evertything everything
 iab evertytone everyone
 iab everwyehre everywhere
@@ -11674,6 +11684,7 @@ iab expenseive expensive
 iab expensie expense
 iab expensivew expensive
 iab expenss expenses
+iab expercience experience
 iab expercises exercises
 iab expereicneing experiencing
 iab expereinced experienced
@@ -12727,6 +12738,7 @@ iab gchanges changes
 iab gcomments comments
 iab geals goals
 iab geather gather
+iab geenrate generate
 iab geetting getting
 iab geit get
 iab genearate generate
@@ -14750,6 +14762,7 @@ iab insurrments instruments
 iab insusfficient insufficient
 iab insutruments instruments
 iab intdended intended
+iab intdnended intended
 iab inteded intended
 iab intedsnts intends
 iab inteelligent intelligent
@@ -18371,6 +18384,7 @@ iab orderers orders
 iab orderinfg ordering
 iab ordidnary ordinary
 iab ordieinatry ordinary
+iab ordienary ordinary
 iab ordierign ordering
 iab ordiinary ordinary
 iab ordinarty ordinary
@@ -18942,6 +18956,7 @@ iab pefrecting perfecting
 iab peice piece
 iab peices pieces
 iab peicezs pieces
+iab peieces pieces
 iab peioepl people
 iab peiopel people
 iab peiople people
@@ -18994,6 +19009,7 @@ iab peopppple people
 iab peoropsn person
 iab peorson person
 iab peple people
+iab pepleople people
 iab peplle people
 iab pepoele people
 iab pepooooel people
@@ -19828,6 +19844,7 @@ iab practire practice
 iab practive practice
 iab practivec practiced
 iab practived practiced
+iab practivieces practices
 iab practiving practicing
 iab practivve practice
 iab practivvve practice
@@ -19894,6 +19911,7 @@ iab preculuses precludes
 iab predfictions predictions
 iab predicatesd predicates
 iab predicdtable predictable
+iab predicitive predictive
 iab predictalbye predictable
 iab predispoistion predisposition
 iab preeceived perceived
@@ -20317,6 +20335,7 @@ iab promotinug prompting
 iab promotp prompt
 iab promotps prompts
 iab promply promptly
+iab prompoute promote
 iab promsies promises
 iab promt prompt
 iab promtion promotion
@@ -22351,6 +22370,7 @@ iab scarscity scarcity
 iab scatterd scattered
 iab scciddntaly accidentally
 iab sccirpt script
+iab sccope scope
 iab sccreen screen
 iab sccrene screen
 iab sccript script
@@ -23714,6 +23734,7 @@ iab specifiying specifying
 iab speciies species
 iab speciif specific
 iab speciifc specific
+iab speciific specific
 iab specilty specialty
 iab spedcicif specific
 iab speec speech
@@ -24394,6 +24415,7 @@ iab supprot support
 iab supproty support
 iab suppsoed supposed
 iab supre supra
+iab supreessed suppressed
 iab supremcacy supremacy
 iab supremeacy supremacy
 iab supremecay supremacy
@@ -24534,6 +24556,7 @@ iab sutiable suitable
 iab sutiation situation
 iab sutible suitable
 iab sutiible suitable
+iab sutoudpuity stupidity
 iab suualluy usually
 iab suually usually
 iab suupport support
@@ -25256,6 +25279,7 @@ iab tgeur their
 iab tghat that
 iab tghe the
 iab tghem them
+iab tghinking thinking
 iab tghis this
 iab tghread thread
 iab tghrough through
@@ -25621,6 +25645,7 @@ iab thourough thorough
 iab thouroughly thoroughly
 iab thourougly thoroughly
 iab thouse those
+iab thoutghts thoughts
 iab thouths thoughts
 iab thouygh though
 iab thouyrloughly thoroughly
@@ -26684,6 +26709,7 @@ iab undersotood understood
 iab understaindg understanding
 iab understainding understanding
 iab understan understand
+iab understanadintg understanding
 iab understande understand
 iab understandingf understanding
 iab understandingf understandings
@@ -26742,6 +26768,7 @@ iab undreground underground
 iab undresantd understand
 iab undresstanding understanding
 iab undrestaind understand
+iab undrestand understand
 iab undrestood understood
 iab undrstanding understanding
 iab undsersanding understanding
@@ -27007,6 +27034,7 @@ iab usdeful useful
 iab usding using
 iab useage usage
 iab useed used
+iab useeful useful
 iab usefeul useful
 iab usefil useful
 iab usefl useful
@@ -27775,9 +27803,11 @@ iab whewre where
 iab whewther whether
 iab wheyther whether
 iab whgat what
+iab whhen when
 iab whic which
 iab whicb which
 iab whicch which
+iab whicdh which
 iab whicever whichever
 iab whichI which
 iab whichb which
@@ -27840,6 +27870,7 @@ iab whtawever whatever
 iab whtehre whether
 iab whterer whether
 iab whty why
+iab whuich which
 iab whuile while
 iab whule while
 iab whwatever whatever
