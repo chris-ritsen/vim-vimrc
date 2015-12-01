@@ -207,6 +207,7 @@ iab Collegause Colleagues
 iab Comeplteyl Completely
 iab Comigng Coming
 iab Comitted Committed
+iab Compassdion Compassion
 iab Compatability Compatibility
 iab Compelted Completed
 iab Compesation Compensation
@@ -2996,6 +2997,7 @@ iab aamatuer amateur
 iab aamoutnts amounts
 iab aan an
 iab aand and
+iab aandb and
 iab aangular angular
 iab aangularjs angularjs
 iab aanother another
@@ -3508,6 +3510,7 @@ iab actuallyu actually
 iab actuallyy actually
 iab actualy actually
 iab actualyl actually
+iab actuions actions
 iab actully actually
 iab actuviity activity
 iab actuyal actual
@@ -3782,6 +3785,7 @@ iab ahgnels angles
 iab ahgnles angles
 iab ahgoing going
 iab ahhepiniess happiness
+iab ahhpinedss happiness
 iab ahhppiniess happiness
 iab ahile while
 iab ahinderence hindrance
@@ -5748,6 +5752,7 @@ iab bgetter better
 iab bgood good
 iab bgrab grab
 iab bhavange bhavanga
+iab bheind behind
 iab bial bail
 iab biarual binaural
 iab bicondiotional biconditional
@@ -7241,11 +7246,13 @@ iab companyt company
 iab companyu company
 iab comparatvely comparatively
 iab comparying comparing
+iab compassdion compassion
 iab compatability compatibility
 iab compauter computer
 iab compay company
 iab compayn company
 iab compbine combine
+iab compeassion compassion
 iab compelete complete
 iab compeleted completed
 iab compeleting completing
@@ -8806,6 +8813,7 @@ iab delitacte delicate
 iab deliusions delusions
 iab delivred delivered
 iab delivredred delivered
+iab delsusion delusion
 iab delsutaional delusional
 iab deltee delete
 iab deltet delete
@@ -11111,6 +11119,7 @@ iab escept except
 iab escpae escape
 iab escript script
 iab escstasy ecstasy
+iab esearching searching
 iab eseen seen
 iab eseential essential
 iab esevices services
@@ -13177,6 +13186,7 @@ iab hass has
 iab hassble hassle
 iab hasve have
 iab hasx has
+iab haterred hatred
 iab hathl hath
 iab hault halt
 iab hav have
@@ -14456,6 +14466,7 @@ iab indenfinitely indefinitely
 iab indenpendent independent
 iab indentding intending
 iab indepenednat independent
+iab inderonncectedness interconnectedness
 iab indesd index
 iab indesx index
 iab indeteprminable indeterminable
@@ -14906,6 +14917,7 @@ iab interaval interval
 iab interavlas intervals
 iab intercetps intercepts
 iab intercts interacts
+iab intercvonnectedness interconnectedness
 iab interdependant interdependent
 iab intereacions interactions
 iab intereaction interaction
@@ -21423,6 +21435,7 @@ iab relfected reflected
 iab relfection reflection
 iab relfections reflections
 iab relfects reflects
+iab relfelct reflect
 iab relfelctions reflections
 iab relfex reflex
 iab reliabilty reliability
@@ -22679,6 +22692,7 @@ iab sdo do
 iab sdoem some
 iab sdoemthign something
 iab sdoimple simple
+iab sdoindtg doing
 iab sdoing doing
 iab sdone done
 iab sdoudn sound
@@ -24470,6 +24484,7 @@ iab suffenaces surfances
 iab suffereing suffering
 iab sufferfing suffering
 iab sufferinug suffering
+iab sufferiung suffering
 iab sufferneging suffering
 iab sufferred suffered
 iab suffewring suffering
@@ -26906,6 +26921,7 @@ iab undestrood understood
 iab undestsanding understanding
 iab undetake undertake
 iab undetecteable undetectable
+iab undetrstainding understanding
 iab undetrstand understand
 iab undienfied undefined
 iab undispilined undisciplined
