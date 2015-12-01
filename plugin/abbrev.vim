@@ -6077,6 +6077,7 @@ iab btuter butter
 iab bty by
 iab btyn btn
 iab bu8ildings buildings
+iab bubg bug
 iab bublbe bubble
 iab bublbes bubbles
 iab bubles bubbles
@@ -11249,6 +11250,7 @@ iab evealutate evaluate
 iab evealutation evaluation
 iab evedently evidently
 iab evedientally evidently
+iab eveffect effect
 iab evefr ever
 iab evefrtything everything
 iab evefry every
@@ -14031,6 +14033,7 @@ iab imnspection inspection
 iab imonologue monologue
 iab imopllants implants
 iab imoposisblity impossibility
+iab imp0onderably imponderably
 iab impalnts implants
 iab imparaments impairments
 iab impareiments impairments
@@ -14897,6 +14900,7 @@ iab intenrnal internal
 iab intente intent
 iab intented intended
 iab intenteded intended
+iab intenteions intentions
 iab intentioneally intentionally
 iab intentity intensity
 iab intentnion intention
@@ -14919,6 +14923,7 @@ iab intercetps intercepts
 iab intercts interacts
 iab intercvonnectedness interconnectedness
 iab interdependant interdependent
+iab interdpepencence interdependence
 iab intereacions interactions
 iab intereaction interaction
 iab intereface interface
@@ -15630,10 +15635,12 @@ iab knid kind
 iab knightes knights
 iab knihgted knighted
 iab kniow know
+iab kniown known
 iab kniw know
 iab knolwledge knowledge
 iab knoriw know
 iab knotes notes
+iab knowe know
 iab knowedgle knowledge
 iab knoweldgbe knowledge
 iab knoweldge knowledge
@@ -19762,6 +19769,7 @@ iab posisblwey possibly
 iab posisbly possibly
 iab posisgble possible
 iab posisible possible
+iab posisibly possibly
 iab posisitosi positions
 iab posislbe possible
 iab posistion position
@@ -20022,6 +20030,7 @@ iab precieivable perceivable
 iab preciely precisely
 iab precifcely precisely
 iab preciise precise
+iab preciisley precisely
 iab preciosion precision
 iab preciscely precisely
 iab precisciely precisely
@@ -23877,6 +23886,7 @@ iab speciif specific
 iab speciifc specific
 iab speciific specific
 iab specilty specialty
+iab speciualting speculating
 iab spedcicif specific
 iab speec speech
 iab speedf speed
@@ -23886,6 +23896,7 @@ iab speical special
 iab speicdifilaly specifically
 iab speicialised specialised
 iab speicific specific
+iab speicifics specifics
 iab speins spins
 iab speling spelling
 iab spellcehck spellcheck
@@ -23946,6 +23957,7 @@ iab spwcrbar spacebar
 iab sqeezing squeezing
 iab sqquare square
 iab squieaking squeaking
+iab squisshed squished
 iab sqwitch switch
 iab sreach search
 iab srestart restart
