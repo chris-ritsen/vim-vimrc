@@ -2267,6 +2267,7 @@ iab Solveing Solving
 iab Sombeody Somebody
 iab Someething Something
 iab Someoehone Someone
+iab Somertwhere Somewhere
 iab Somethign Something
 iab Sometihng Something
 iab Somewtimes Sometimes
@@ -2942,6 +2943,7 @@ iab Yedstearday Yesterday
 iab Yedsterery Yesterday
 iab Yeha Yeah
 iab Yerdterday Yesterday
+iab Yesa Yes
 iab Yesderady Yesterday
 iab Yesdgtarday Yesterday
 iab Yessterday Yesterday
@@ -3488,6 +3490,7 @@ iab actkion action
 iab actnio action
 iab actoins actions
 iab actrive active
+iab actrually actually
 iab actuall actually
 iab actuallity actuality
 iab actuallky actually
@@ -3581,6 +3584,7 @@ iab adiditonal additional
 iab adidtioanl additional
 iab adidtion addition
 iab adidtional additional
+iab adifference difference
 iab adimh admin
 iab adimistration administration
 iab adin admin
@@ -4138,6 +4142,7 @@ iab annyoing annoying
 iab annyong annoying
 iab anoather another
 iab anohter another
+iab anoitehr another
 iab anomolous anomalous
 iab anomoulus anomalous
 iab anomyore anymore
@@ -5532,6 +5537,7 @@ iab beenm been
 iab beenp been
 iab befause because
 iab befcause because
+iab befg9ore before
 iab befignning beginning
 iab befoe before
 iab befoer before
@@ -5853,6 +5859,7 @@ iab bodyu body
 iab boefoer before
 iab boefore before
 iab boefre before
+iab boetheri9ng bothering
 iab boexes boxes
 iab boguht bought
 iab boht both
@@ -10913,6 +10920,7 @@ iab enxyt next
 iab enymerations enumerations
 iab eog ego
 iab eopelp people
+iab eopelpe people
 iab eopeple people
 iab eopisode episode
 iab eother other
@@ -12662,6 +12670,7 @@ iab furrhter further
 iab furst first
 iab fursther further
 iab furstrate frustrate
+iab furstrateeeed frustrated
 iab furstration frustration
 iab furstuher further
 iab furtehr further
@@ -12676,6 +12685,7 @@ iab furtune fortune
 iab furty fury
 iab furtyer further
 iab furutehr further
+iab fusttarted frustrated
 iab futehr further
 iab futeur future
 iab futeurther further
@@ -12929,6 +12939,7 @@ iab grealtely greatly
 iab grealty greatly
 iab greaster greater
 iab greate great
+iab greates56t greatest
 iab greatley greatly
 iab greawt great
 iab greeater greater
@@ -14682,6 +14693,7 @@ iab insidse inside
 iab insiert insert
 iab insigh insight
 iab insighjtful insightful
+iab insighjts insights
 iab insipired inspired
 iab insipriation inspiration
 iab insistant insistent
@@ -16184,6 +16196,7 @@ iab lookinfg looking
 iab lookinhg looking
 iab lookugn looking
 iab loook look
+iab loooking looking
 iab losde lose
 iab losting losing
 iab lotz lot
@@ -16543,6 +16556,7 @@ iab mcenter center
 iab mciro micro
 iab mcuh much
 iab mcuht must
+iab mcyuh much
 iab mdedia media
 iab mdeetup meetup
 iab mdescribe describe
@@ -16622,6 +16636,7 @@ iab megabyes megabytes
 iab mehtod method
 iab mehtods methods
 iab meida media
+iab meidatatigng meditating
 iab meidtaiont meditation
 iab meidtation meditation
 iab meionted mentioned
@@ -17198,6 +17213,7 @@ iab motivatyion motivation
 iab motivcation motivation
 iab motivcations motivations
 iab motiveated motivated
+iab motiviating motivating
 iab motiviation motivation
 iab motivuation motivation
 iab motnhs months
@@ -17932,6 +17948,7 @@ iab obsoltete obsolete
 iab obsolute obsolete
 iab obsotevatiosn observations
 iab obstevatsions observations
+iab obtaineed obtained
 iab obtaion obtain
 iab obttom bottom
 iab obuosvly obviously
@@ -19886,9 +19903,11 @@ iab pradcticed practiced
 iab praditce practice
 iab pragmaic pragmatic
 iab pragmatisim pragmatism
+iab praictice practice
 iab praicticed practiced
 iab praictices practices
 iab praicticesd practiced
+iab praicticies practices
 iab praictied practiced
 iab praicties practices
 iab praictiesssss practices
@@ -20246,6 +20265,7 @@ iab productivitley productively
 iab productivtt productivity
 iab productivty productivity
 iab productivyty productivity
+iab produice produce
 iab produictively productively
 iab produictivity productivity
 iab produvt product
@@ -23800,11 +23820,13 @@ iab spewcifi specific
 iab spewnt spent
 iab spexific specific
 iab sphidistiacated sophisticated
+iab spi9ritual spiritual
 iab spiigot spigot
 iab spindel spindle
 iab spinnig spinning
 iab spirirted spirited
 iab spiritiual spiritual
+iab spirituallit8y spirituality
 iab spiruitual spiritual
 iab spirutal spiritual
 iab splelling spelling
@@ -23938,6 +23960,7 @@ iab startt start
 iab startted started
 iab startupo startup
 iab starty start
+iab startying starting
 iab starup startup
 iab starutp startup
 iab starvign starving
@@ -24593,6 +24616,7 @@ iab sustience sustenance
 iab sustinaence sustenance
 iab sustinance sustenance
 iab sustinence sustenance
+iab sutff stuff
 iab sutiable suitable
 iab sutiation situation
 iab sutible suitable
@@ -25048,6 +25072,7 @@ iab tehcnology technology
 iab tehcnoologies technologies
 iab tehdse these
 iab tehe the
+iab tehen then
 iab teheswe these
 iab tehir their
 iab tehm team
@@ -26075,6 +26100,7 @@ iab trackpawd trackpad
 iab tracpkad trackpad
 iab tracxking tracking
 iab tradckdgin tracking
+iab tradicitional traditional
 iab tradiitional traditional
 iab tradiotkino tradition
 iab traditriaonl traditional
@@ -26290,6 +26316,7 @@ iab tryingh trying
 iab tryinig trying
 iab tryly truly
 iab tryping typing
+iab trytghes truths
 iab tryting trying
 iab tryu try
 iab tryue true
@@ -26452,6 +26479,7 @@ iab tuturuoiakl tutorial
 iab tututirorkal tutorial
 iab tuuitrlal tutorial
 iab tuuitrrioal tutorial
+iab tuynuing tuning
 iab tuypes types
 iab tuyping typing
 iab tuypos typos
@@ -26491,6 +26519,7 @@ iab tyhese these
 iab tyhpe type
 iab tyhpes types
 iab tyhping typing
+iab tyhrough through
 iab tyle type
 iab tyo two
 iab tyoe type
@@ -26631,6 +26660,7 @@ iab udnerscore underscore
 iab udnerstand understand
 iab udnerstanding understanding
 iab udnerstood understood
+iab udnestand understand
 iab udnestanding understanding
 iab udnetsanding understanding
 iab udnrestand understand
@@ -26757,6 +26787,7 @@ iab understaindg understanding
 iab understainding understanding
 iab understan understand
 iab understanadintg understanding
+iab understancd understand
 iab understande understand
 iab understandingf understanding
 iab understandingf understandings
@@ -27431,6 +27462,7 @@ iab vlue value
 iab vlumes volumes
 iab vluntary voluntary
 iab vnetually eventually
+iab vo9ice voice
 iab voager voyager
 iab vocaubmarly vocabulary
 iab vocels voxels
