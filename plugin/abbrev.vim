@@ -35,6 +35,7 @@ iab Absluote Absolute
 iab Absolulte Absolute
 iab Absoulte Absolute
 iab Absoutel Absolute
+iab Actiually Actually
 iab Additonally Additionally
 iab Afetr After
 iab Aftert After
@@ -2627,6 +2628,7 @@ iab Transpikt Transit
 iab Trasnscribing Transcribing
 iab Triyn Trying
 iab Trsut Trust
+iab Trurths Truths
 iab Tryign Trying
 iab Tryily Truly
 iab Tryrign Trying
@@ -8827,6 +8829,7 @@ iab deper deeper
 iab depisited deposited
 iab deplpy deploy
 iab depositied deposited
+iab depoth depth
 iab depper deeper
 iab deprecrtated deprecated
 iab deprectteed deprecated
@@ -11769,6 +11772,7 @@ iab explorted explored
 iab exploses explodes
 iab explosinio explosion
 iab explqain explain
+iab explrouign exploring
 iab expode explode
 iab expoeiure experience
 iab exporitng exporting
@@ -20249,6 +20253,7 @@ iab profreading proofreading
 iab profrssionalism professionalism
 iab profssional professional
 iab profuound profound
+iab profyundity profundity
 iab progacatinstation procrastination
 iab progams programs
 iab progarm program
@@ -24795,6 +24800,7 @@ iab talmost almost
 iab tanble table
 iab tand tend
 iab tansclude transclude
+iab taough5t taught
 iab taought taught
 iab taqraget target
 iab taqsked tasked
