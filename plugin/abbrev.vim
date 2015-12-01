@@ -10505,6 +10505,7 @@ iab elininating eliminating
 iab elinsk elinks
 iab eliquient eloquent
 iab eljiminate eliminate
+iab ellimitatiyng eliminating
 iab elllft left
 iab elmeent element
 iab elmeents elements
@@ -10726,6 +10727,7 @@ iab enjouy enjoy
 iab enjoyalbge enjoyable
 iab enjoyasble enjoyable
 iab enlightemenemtn enlightenment
+iab enlightement enlightenment
 iab enlighten4eed enlightened
 iab enlightenmment enlightenment
 iab enlugh enough
@@ -18954,6 +18956,8 @@ iab peleaseure pleasure
 iab pemranlntly permanently
 iab pemranntly permanently
 iab pemremnantly permanently
+iab pemrenantly permanently
+iab pemrentantly permenantly
 iab penalyty penalty
 iab penceil pencil
 iab penci4l pencil
@@ -19098,11 +19102,17 @@ iab permananlty permanently
 iab permanenelty permanently
 iab permanenlty permanently
 iab permanlntly permanently
+iab permenanralry permanently
 iab permenant permanent
+iab permenantlty permanently
 iab permenantly permanently
+iab permenanty permanent
+iab permene4antlty permanently
+iab permeneantlty permanently
 iab permeneantly permanently
 iab permentanlty permanently
 iab permentantly permanently
+iab permenteantly permanently
 iab permentlyl permanently
 iab permhaps perhaps
 iab perminence permanence
@@ -19110,6 +19120,7 @@ iab permision permission
 iab permisisons permissions
 iab permiter perimeter
 iab permmanenlty permanently
+iab permneneamntely permanently
 iab perneatnly permanently
 iab pernmanetly permanently
 iab perofmr perform
@@ -25675,6 +25686,7 @@ iab thwye they
 iab thyenm them
 iab thyey they
 iab thyumb thumb
+iab thyus thus
 iab tickety ticket
 iab tidyied tidied
 iab tiem time
