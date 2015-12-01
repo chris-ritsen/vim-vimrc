@@ -2517,6 +2517,7 @@ iab Tgese These
 iab Tgey They
 iab Tghe The
 iab Tghis This
+iab Tghuis This
 iab Tgus This
 iab Tgusi This
 iab Th3e The
@@ -8941,6 +8942,8 @@ iab designesd designed
 iab desingers designers
 iab desiralbet desirable
 iab desireable desirable
+iab desireing desiring
+iab desirigting desiring
 iab desirners designers
 iab desitation destination
 iab desitiantopin destination
@@ -11765,6 +11768,7 @@ iab expet except
 iab expetations expectations
 iab expeted expected
 iab expetional exceptional
+iab expewlrieince experience
 iab expewnsive expensive
 iab expewrieicned experienced
 iab expewrieinces experiences
@@ -11830,6 +11834,7 @@ iab exsample example
 iab exsatly exactly
 iab exsclty exactly
 iab exsmple example
+iab exsmples examples
 iab exstra extra
 iab exstract extract
 iab exstravagnetly extravagantly
@@ -16616,6 +16621,7 @@ iab meditaiotn meditation
 iab meditaiton meditation
 iab meditatiqon meditation
 iab meditatoin meditation
+iab meditators mediators
 iab meditiate meditate
 iab medittaiont meditation
 iab medittiaont meditation
@@ -17117,6 +17123,7 @@ iab molecuoe molecule
 iab molegule molecule
 iab molocules molecules
 iab mombth month
+iab momemnet moment
 iab momemnt moment
 iab momemntarily momentarily
 iab momemoetn moment
@@ -17356,6 +17363,7 @@ iab mvoies movies
 iab mweess mess
 iab mwhich which
 iab mwho who
+iab mwoment moment
 iab myaybe maybe
 iab myc my
 iab mych much
@@ -18795,6 +18803,7 @@ iab paprovoal approval
 iab paqrser parser
 iab parachgarphs paragraphs
 iab paractice practice
+iab paradoc paradox
 iab parady parody
 iab paraemtners parameters
 iab paragaph paragraph
@@ -22254,6 +22263,7 @@ iab rsume resume
 iab rtaking taking
 iab rtasks tasks
 iab rtecdtangle rectangle
+iab rtepressed repressed
 iab rtesting testing
 iab rteturn return
 iab rteurn return
@@ -23838,6 +23848,7 @@ iab spiruitual spiritual
 iab spirutal spiritual
 iab splelling spelling
 iab splendit splendid
+iab splippery slippery
 iab spliut split
 iab spliy split
 iab spockj Spock
