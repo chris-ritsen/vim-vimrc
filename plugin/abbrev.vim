@@ -2462,6 +2462,7 @@ iab Tbanks Thanks
 iab Tben Then
 iab Tbhe The
 iab Tbhis This
+iab Tbhus Thus
 iab Tdakers Takers
 iab Teantnaiuve Tentative
 iab Tecchnoique Technique
@@ -2572,6 +2573,7 @@ iab Thomoas Thomas
 iab Thos This
 iab Thougths Thoughts
 iab Threateneed Threatened
+iab Threee Three
 iab Thrusay Thruway
 iab Thsat That
 iab Thsdi This
@@ -3280,6 +3282,7 @@ iab accpet accept
 iab accpetable acceptable
 iab accpetlable acceptable
 iab accplish accomplish
+iab accpmplished accomplished
 iab accpomlished accomplished
 iab accpomplish accomplish
 iab accredidation accreditation
@@ -3654,6 +3657,7 @@ iab advanteage advantage
 iab adversion aversion
 iab adviseds advises
 iab advive advice
+iab advocvated advocated
 iab advoiding avoiding
 iab adws as
 iab ady day
@@ -4008,6 +4012,7 @@ iab amonst amongst
 iab amonsts amongst
 iab amont amount
 iab amoong among
+iab amoubnt amount
 iab amoun amount
 iab amoung among
 iab amoutn amount
@@ -4924,6 +4929,7 @@ iab atatacked attacked
 iab atatacker attacker
 iab atatainment attainment
 iab atatcghecd attached
+iab atatsained attained
 iab atctive active
 iab atececendent antecedent
 iab atececent antecedent
@@ -5196,6 +5202,7 @@ iab avove above
 iab avre var
 iab avrerage average
 iab awaerness awareness
+iab awakeneing awakening
 iab awant want
 iab awardded awarded
 iab awardede awarded
@@ -6687,6 +6694,7 @@ iab cipies copies
 iab circcles circles
 iab circlec circle
 iab circuilates circulates
+iab circulmstantces circumstances
 iab circuluar circular
 iab circumsatances circumstances
 iab circumsatnaces circumstances
@@ -7380,6 +7388,7 @@ iab comtpuer computer
 iab comtpuers computers
 iab comtpyer computer
 iab comtpyuer computer
+iab conaecntration concentration
 iab conbinatin combination
 iab conbtent content
 iab conc8lusion conclusion
@@ -7990,6 +7999,8 @@ iab contstuctor constructor
 iab conttent content
 iab conttional conditional
 iab conveineience convenience
+iab conventaional conventional
+iab conventiaional conventional
 iab conventiaionl conventional
 iab convential convention
 iab conventianal conventional
@@ -8240,6 +8251,7 @@ iab coutnrty country
 iab coutnry country
 iab coutnryt country
 iab couuld could
+iab couyld could
 iab couypple couple
 iab covere covered
 iab covererd covered
@@ -10481,8 +10493,10 @@ iab elextronic electronic
 iab elextronids electronics
 iab elft left
 iab eliete elite
+iab elimi8nation elimination
 iab elimiate eliminate
 iab elimiated eliminated
+iab eliminiate eliminate
 iab eliminiated eliminated
 iab eliminiating eliminating
 iab elimnate eliminate
@@ -10506,6 +10520,7 @@ iab elminated eliminated
 iab elminatin eliminating
 iab elminating eliminating
 iab elminiateing eliminating
+iab elmininated eliminated
 iab elminintated eliminated
 iab elminitating eliminating
 iab elminnates eliminates
@@ -10564,6 +10579,7 @@ iab emiiimately immediately
 iab emipirica empirical
 iab emition emotion
 iab emittted emitted
+iab emlighytened enlightened
 iab emmorable memorable
 iab emmorization memorization
 iab emmory memory
@@ -10709,6 +10725,8 @@ iab enitehr uniter
 iab enjouy enjoy
 iab enjoyalbge enjoyable
 iab enjoyasble enjoyable
+iab enlightemenemtn enlightenment
+iab enlighten4eed enlightened
 iab enlightenmment enlightenment
 iab enlugh enough
 iab enmtpy empty
@@ -11737,6 +11755,7 @@ iab explorintg exploring
 iab explorted explored
 iab exploses explodes
 iab explosinio explosion
+iab explqain explain
 iab expode explode
 iab expoeiure experience
 iab exporitng exporting
@@ -12679,6 +12698,7 @@ iab gameo game
 iab gamesa games
 iab gamos games
 iab gampads gamepads
+iab ganderous dangerous
 iab ganother another
 iab gaosl gaols
 iab garabge garbage
@@ -13043,6 +13063,7 @@ iab happenes happens
 iab happeneted happened
 iab happenign happening
 iab happineess happiness
+iab happineesss happiness
 iab happiniess happiness
 iab happininess happiness
 iab happining happening
@@ -14287,6 +14308,7 @@ iab increasesd increased
 iab increasiignly increasingly
 iab increasinlgy increasingly
 iab increaslyingly increasingly
+iab increatsed increased
 iab increbily incredibly
 iab increcdible incredible
 iab incredibel incredible
@@ -15572,6 +15594,7 @@ iab ladoign loading
 iab laenght length
 iab laerts alerts
 iab laet late
+iab laevel level
 iab lafout layout
 iab lagel label
 iab lagnuage language
@@ -15665,6 +15688,7 @@ iab layhtouts layouts
 iab layndry laundry
 iab layotuyt layout
 iab layoutes layouts
+iab layoutguage language
 iab layoyut layout
 iab laytouf layout
 iab laytout layout
@@ -18511,6 +18535,7 @@ iab oultiple multiple
 iab ounter counter
 iab ouptut output
 iab ourselfs ourself
+iab ourslefes ourselves
 iab oustanding outstanding
 iab oustiide outside
 iab outcside outside
@@ -20575,6 +20600,7 @@ iab qaulity quality
 iab qaverage average
 iab qbout about
 iab qemyu qemu
+iab qeust quest
 iab qeustions questions
 iab qhand and
 iab qhicuk quick
@@ -21633,6 +21659,7 @@ iab resixzed resized
 iab reslembances resemblances
 iab reslemvelcance resemblance
 iab resmue resume
+iab resoiurces resources
 iab resoltuion resolution
 iab resoltuions resolutions
 iab resoluts results
@@ -23045,6 +23072,7 @@ iab sieren siren
 iab siet site
 iab sietting sitting
 iab sieziswex sizes
+iab siffering suffering
 iab sifgnificant significant
 iab sigfnificant significant
 iab siginificant significant
@@ -23073,6 +23101,7 @@ iab silmpy simply
 iab silocon silicon
 iab simeulatensously simultaneously
 iab simiar similar
+iab simiilar similar
 iab similaryly similarly
 iab similation simulation
 iab similiar similar
@@ -23683,6 +23712,7 @@ iab speficied specified
 iab speical special
 iab speicdifilaly specifically
 iab speicialised specialised
+iab speicific specific
 iab speins spins
 iab speling spelling
 iab spellcehck spellcheck
@@ -23854,6 +23884,7 @@ iab statemetnt statement
 iab statemnet statement
 iab statemnts statements
 iab statesA states
+iab statges stages
 iab statidum stadium
 iab statis status
 iab statisfarctorily satisfactorily
@@ -24105,6 +24136,7 @@ iab strnegh strength
 iab strneht strength
 iab strneth strength
 iab strogfing storing
+iab stronbgly strongly
 iab strooll stroll
 iab strrange strange
 iab strrategy strategy
@@ -24267,6 +24299,7 @@ iab suervce serve
 iab suface surface
 iab suffenaces surfances
 iab suffereing suffering
+iab sufferfing suffering
 iab sufferinug suffering
 iab sufferneging suffering
 iab sufferred suffered
@@ -24661,6 +24694,7 @@ iab sytstem system
 iab sytstmw system
 iab sytwems systems
 iab syubcouncous subconscious
+iab syuch such
 iab syuper super
 iab syuppoised supposed
 iab syupport support
@@ -24926,6 +24960,7 @@ iab teerrestials terrestrials
 iab teest test
 iab teethc teeth
 iab tegchnoligies technologies
+iab tegh the
 iab tegy they
 iab teh the
 iab tehat that
@@ -26994,6 +27029,7 @@ iab usignn using
 iab usihng using
 iab usimng using
 iab usinfg using
+iab usingng using
 iab usiually usually
 iab usless useless
 iab uslually usually
@@ -27587,6 +27623,7 @@ iab wekened weekend
 iab wekes weeks
 iab wekneded weekend
 iab welathy wealthy
+iab welbeing wellbeing
 iab wella well
 iab welll well
 iab welwathy wealthy
@@ -28255,6 +28292,7 @@ iab wundow window
 iab wuold would
 iab wuqeiton question
 iab wuqestions questions
+iab wusg wish
 iab wutg with
 iab wuth with
 iab wuyaluty quality
@@ -28497,6 +28535,7 @@ iab ythings things
 iab ythinkking thinking
 iab ythird third
 iab ythis this
+iab ytraining training
 iab ytuturali tutorial
 iab yues yes
 iab yuntil until
