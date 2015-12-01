@@ -4489,6 +4489,7 @@ iab apparntly apparently
 iab appartenlty apparently
 iab appartenly apparently
 iab appartnely apparently
+iab appaterns patterns
 iab appaths paths
 iab appealingh appealing
 iab appearanche appearance
@@ -8437,6 +8438,7 @@ iab cufnction function
 iab cuircles circles
 iab cuircuit circuit
 iab cuistomer customer
+iab cultifvaiting cultivating
 iab cultue culture
 iab cultureal cultural
 iab culure culture
@@ -11035,6 +11037,7 @@ iab equaly equally
 iab equamnimty equanimity
 iab equanimiity equanimity
 iab equianimity equanimity
+iab equiation equation
 iab equiavalence equivalence
 iab equilibirum equilibrium
 iab equioeonetb equipment
@@ -12384,6 +12387,7 @@ iab fomrs forms
 iab fomrula formula
 iab fonncetion connection
 iab fonsistently consistently
+iab foollwoing following
 iab foolows follows
 iab foor for
 iab footabll football
@@ -14570,6 +14574,7 @@ iab inflyenced influenced
 iab infmraoitnional informational
 iab infnite infinite
 iab infnroamtioh information
+iab infomr inform
 iab infomraiotn information
 iab infomraiton information
 iab infomrant informant
@@ -18618,6 +18623,7 @@ iab otdya today
 iab otebr other
 iab oteher other
 iab otehr other
+iab otehrg other
 iab otehrs others
 iab otehrwise otherwise
 iab otgetherh together
@@ -18726,6 +18732,7 @@ iab overtyrned overturned
 iab overvoming overcoming
 iab overwehight overweight
 iab overwheight overweight
+iab overwhelmeing overwhelming
 iab overwhieghr overweight
 iab overwieght overweight
 iab overwight overweight
@@ -19088,6 +19095,7 @@ iab peipole people
 iab pelasde please
 iab pelase please
 iab pelase4 please
+iab pelasent pleasant
 iab pelaseure pleasure
 iab pelaseures pleasures
 iab peleaseure pleasure
@@ -19300,6 +19308,7 @@ iab persdon person
 iab persdonally personally
 iab perseived perceived
 iab persented presented
+iab perservere persevere
 iab persfect perfect
 iab persiectpive perspective
 iab persion person
@@ -19928,6 +19937,7 @@ iab pracice practice
 iab praciced practiced
 iab pracicticed practiced
 iab pracictie practice
+iab praciiticing practicing
 iab pracitailly practically
 iab pracitce practice
 iab pracitcing practicing
@@ -19940,10 +19950,14 @@ iab pracitically practically
 iab pracitice practice
 iab praciticed practiced
 iab pracitices practices
+iab praciticiign practicing
+iab praciticiing practicing
 iab praciticing practicing
+iab praciticiying practicing
 iab praciticlaly practically
 iab pracitieced practiced
 iab pracitiets practices
+iab pracitiex practice
 iab pracitilcalyly practically
 iab pracitve practice
 iab pracr5tice practice
@@ -23907,6 +23921,7 @@ iab speicialised specialised
 iab speicific specific
 iab speicifics specifics
 iab speins spins
+iab speirutual spiritual
 iab speling spelling
 iab spellcehck spellcheck
 iab spellcheckign spellchecking
@@ -24486,6 +24501,7 @@ iab sucircumstances circumstances
 iab sucj such
 iab sucrimsatance circumstance
 iab sucstrate substrate
+iab sucvh such
 iab sudbstances substances
 iab sudbstrate substrate
 iab suddenlty suddenly
@@ -25128,6 +25144,7 @@ iab techniolgy technology
 iab techniollgy technology
 iab techniq technique
 iab techniqueas techniques
+iab techniquqes techniques
 iab techniqwues techniques
 iab techniqyues techniques
 iab technition technician
@@ -25540,6 +25557,7 @@ iab themesleves themselves
 iab themeslevlse themselves
 iab themeslevs themselves
 iab themeslvees themselves
+iab themn them
 iab themral thermal
 iab thems them
 iab themse3vles themselves
