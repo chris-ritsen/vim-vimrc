@@ -1409,6 +1409,7 @@ iab NIce Nice
 iab NMonitor Monitor
 iab NOTRE NOTE
 iab NObel Nobel
+iab NOble Noble
 iab NObody Nobody
 iab NOhting Nothing
 iab NOhting Notting
@@ -2189,6 +2190,7 @@ iab Scrool Scroll
 iab Sderver Server
 iab Seawrch Search
 iab Sebastion Sebastian
+iab Seciobd Second
 iab Secirytity Security
 iab Sectopino Sectoring
 iab Secuitrty Security
@@ -2636,6 +2638,7 @@ iab Trurths Truths
 iab Tryign Trying
 iab Tryily Truly
 iab Tryrign Trying
+iab Tryuth Truth
 iab Tseting Testing
 iab Tthese These
 iab Ttrek Trek
@@ -8311,6 +8314,7 @@ iab crative creative
 iab cratively creatively
 iab crativing cratering
 iab crativity creativity
+iab craviung craving
 iab craxzy crazy
 iab crazty crazy
 iab crazyt crazy
@@ -12161,6 +12165,7 @@ iab filmamkers filmmakers
 iab filmkaers filmmakers
 iab filmkmakers filmmakers
 iab filmn film
+iab filp flip
 iab filpmlmakers filmmakers
 iab filred fired
 iab filrtered filtered
@@ -13889,6 +13894,7 @@ iab ilimiied limited
 iab illgoically illogically
 iab illiad iliad
 iab illminated illuminated
+iab illusiuon illusion
 iab illustion illusion
 iab ilvonved involved
 iab ilvonvign involving
@@ -21460,6 +21466,7 @@ iab remvow remove
 iab rencdently recently
 iab rencuuciation renunciation
 iab rend4ered rendered
+iab render4ed rendered
 iab renderd rendered
 iab renderere renderer
 iab rendierng rendering
@@ -24349,6 +24356,7 @@ iab substational substantial
 iab substationally substantially
 iab substatnially substantially
 iab subsysstm subsystem
+iab subtleer subtler
 iab subtroutine subroutine
 iab subtyhpes subtypes
 iab succcessfully successfully
@@ -25628,6 +25636,7 @@ iab thisng thing
 iab thisngs things
 iab thiss this
 iab thisws this
+iab thiungs things
 iab thius this
 iab thiw this
 iab thiws this
@@ -25844,6 +25853,7 @@ iab titilating titillating
 iab tituiralual tutorial
 iab titutioral tutorial
 iab tiveated activated
+iab tiwwisted twisted
 iab tiyping typing
 iab tjat that
 iab tje the
@@ -26979,6 +26989,8 @@ iab unofical unofficial
 iab unote unite
 iab unparallenled unparalleled
 iab unpinished unpunished
+iab unpleaenet unpleasant
+iab unpleasent unpleasant
 iab unpredicable unpredictable
 iab unprepated unprepared
 iab unprifitable unprofitable
@@ -27296,6 +27308,7 @@ iab vauge vague
 iab vavoid avoid
 iab vbackground background
 iab vbaseed based
+iab vbeaduse because
 iab vbery very
 iab vbiew view
 iab vbiolent violent
