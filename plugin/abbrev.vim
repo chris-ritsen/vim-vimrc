@@ -27,6 +27,7 @@ iab ARiving Arriving
 iab ARrive Arrive
 iab ASbouelt Absolute
 iab AVoiding Avoiding
+iab AWakening Awakening
 iab Abasolteu Absolute
 iab Abdosulte Absolute
 iab Absaoulte Absolute
@@ -3242,6 +3243,7 @@ iab accompolish accomplish
 iab accompolishing accomplishing
 iab accompolsihed accomplished
 iab accomponied accompanied
+iab accomponises accompanies
 iab accomponying accompanying
 iab accont account
 iab accoplish accomplish
@@ -4756,6 +4758,7 @@ iab articdle article
 iab articel article
 iab articels articles
 iab articifical artificial
+iab articifual artificial
 iab articile article
 iab articl4 article
 iab articlde article
@@ -4763,6 +4766,7 @@ iab articlre article
 iab artiests artists
 iab artificail artificial
 iab artificual artificial
+iab artififucval artificial
 iab artifiial artificial
 iab artihmetic arithmetic
 iab artit artist
@@ -7077,6 +7081,7 @@ iab comign coming
 iab comigni coming
 iab comingt coming
 iab comitted committed
+iab comiung coming
 iab comiuter commuter
 iab comjuter computer
 iab comlaints complaints
@@ -7437,6 +7442,7 @@ iab conclusvuluy conclusively
 iab concluyde conclude
 iab conclysuvly conclusively
 iab concnetrate concentrate
+iab concnetration concentration
 iab concocutions concoctions
 iab concoiyusaoyness consciousness
 iab concole console
@@ -7498,6 +7504,7 @@ iab coneneced connected
 iab conenected connected
 iab conenseus consensus
 iab conentraiotion concentration
+iab coneptual conceptual
 iab coneseuences consequences
 iab conetner content
 iab conetnet content
@@ -8217,6 +8224,7 @@ iab coupl3ed coupled
 iab coupole couple
 iab courrent current
 iab coursse course
+iab cousncousness consciousness
 iab coutndown countdown
 iab coutnerops countertops
 iab coutnertops countertops
@@ -8901,6 +8909,7 @@ iab despaertly desperately
 iab desparaltey desperately
 iab desparate desperate
 iab desparately desperately
+iab despiar despair
 iab despiite despite
 iab despoite despite
 iab desprerate desperate
@@ -9590,6 +9599,7 @@ iab distionxtion distinction
 iab distordted distorted
 iab distored distorted
 iab distoritions distortions
+iab distortioins distortions
 iab distraacgtion distraction
 iab distraacted distracted
 iab distraacting distracting
@@ -9939,6 +9949,7 @@ iab dtrigger trigger
 iab dturn turn
 iab dtying trying
 iab duaghter daughter
+iab dualityes dualities
 iab duather father
 iab dudds duds
 iab duisappointinig disappointing
@@ -10478,6 +10489,7 @@ iab eljiminate eliminate
 iab elllft left
 iab elmeent element
 iab elmeents elements
+iab elmeinaing eliminating
 iab elmeinated eliminated
 iab elmenet element
 iab elment element
@@ -11690,6 +11702,7 @@ iab expeted expected
 iab expetional exceptional
 iab expewnsive expensive
 iab expewrieicned experienced
+iab expewrieinces experiences
 iab expexts expects
 iab expididted expedited
 iab expierience experience
@@ -12000,6 +12013,7 @@ iab feture feature
 iab feuatures features
 iab fewature feature
 iab fewatures features
+iab fewewer fewer
 iab fewewest fewest
 iab fewewr fewer
 iab ffacto fact
@@ -12692,6 +12706,7 @@ iab geneitics genetics
 iab genenrated generated
 iab generiopus generous
 iab generious generous
+iab generlally generally
 iab geneteleman gentleman
 iab genetelest gentlest
 iab gengeirous generous
@@ -12848,6 +12863,7 @@ iab grapihics graphics
 iab graps grasp
 iab gratificatyion gratification
 iab gratter greater
+iab gratually gradually
 iab gravitationn gravitation
 iab gravitatopinlal gravitational
 iab graviy gravity
@@ -13047,6 +13063,7 @@ iab harmonly harmony
 iab harrassed harassed
 iab hasd has
 iab hashs hashes
+iab hasppy happy
 iab hass has
 iab hassble hassle
 iab hasve have
@@ -16830,6 +16847,7 @@ iab mispelling misspelling
 iab mispellings misspellings
 iab misperceiing misperceive
 iab mispercieved misperceived
+iab mispercveiptions misperceptions
 iab missign missing
 iab missin missing
 iab misslepplling misspelling
@@ -17331,6 +17349,7 @@ iab natrulalyy naturally
 iab natrurlly naturally
 iab natuarl natural
 iab natudralisym naturalism
+iab natur nature
 iab naturaly naturally
 iab naturaully naturally
 iab naturla natural
@@ -17556,6 +17575,7 @@ iab nlonger longer
 iab nly only
 iab nmacbook macbook
 iab nman man
+iab nmany many
 iab nmay may
 iab nmber number
 iab nmbers numbers
@@ -17953,6 +17973,7 @@ iab ocmputers computers
 iab ocmpuyter computer
 iab ocmpyter computer
 iab ocmpytuer computer
+iab ocncential conceptual
 iab ocncern concern
 iab ocncrete concrete
 iab ocnditionally conditionally
@@ -18223,6 +18244,7 @@ iab opopsites opposites
 iab opopulatioe populated
 iab oportuntity opportunity
 iab opost post
+iab opotential potential
 iab opotion option
 iab opotions options
 iab opotoinso options
@@ -18968,6 +18990,7 @@ iab percieved perceived
 iab percise precise
 iab percived perceived
 iab percvect perfect
+iab percveiptions perceptions
 iab perdspecitve perspective
 iab pereceiving perceiving
 iab perecent percent
@@ -18980,6 +19003,7 @@ iab perementaltly permanently
 iab peremneance permanence
 iab perepare prepare
 iab perf per
+iab perfavisve pervasive
 iab perfcdeet perfect
 iab perfcdrt4 perfect
 iab perfcet perfect
@@ -19085,6 +19109,7 @@ iab persdonally personally
 iab perseived perceived
 iab persented presented
 iab persfect perfect
+iab persiectpive perspective
 iab persion person
 iab persionalities personalities
 iab persions persons
@@ -19388,6 +19413,7 @@ iab poepple people
 iab poerdsnal personal
 iab poersonal personal
 iab poessing possessing
+iab poetential potential
 iab poewrful powerful
 iab pohne phone
 iab pohoene phone
@@ -20262,6 +20288,7 @@ iab prooperly properly
 iab prooperty property
 iab prooperyly properly
 iab prooposed proposed
+iab propbolems problems
 iab propductuve productive
 iab propegate propagate
 iab propell propel
@@ -20269,6 +20296,7 @@ iab propelrty property
 iab propelry properly
 iab properition proportion
 iab properlty properly
+iab propertionm proportion
 iab propertoy property
 iab properuly properly
 iab propery properly
@@ -20738,6 +20766,7 @@ iab reaason reason
 iab reacdhed reached
 iab reaceivec received
 iab reacently recently
+iab reacitivity reactivity
 iab reacll recall
 iab reacreate recreate
 iab reacrtive reactive
@@ -21167,6 +21196,7 @@ iab relatinship relationship
 iab relationhsip relationship
 iab relationiship relationship
 iab relationshiop relationship
+iab relationshiup relationship
 iab relativly relatively
 iab relaty relay
 iab relavant relevant
@@ -21192,6 +21222,7 @@ iab relections reflections
 iab reled related
 iab relefct reflect
 iab releif relief
+iab releiuived relieved
 iab relelavant relevant
 iab relelvant relevant
 iab relelveant relevant
@@ -21321,6 +21352,7 @@ iab renoincing renouncing
 iab renouhnce renounce
 iab renuciation renunciation
 iab renucisaytion renunciation
+iab renuiciation renunciation
 iab reoad road
 iab reobooting rebooting
 iab reocirngds recordings
@@ -23685,6 +23717,7 @@ iab sprnag sprang
 iab spsce space
 iab sptop stop
 iab spuport support
+iab spuritiuyal spiritual
 iab spurous spurious
 iab spurposes purposes
 iab spwcrbar spacebar
@@ -24204,6 +24237,7 @@ iab sucircumstances circumstances
 iab sucj such
 iab sucrimsatance circumstance
 iab sucstrate substrate
+iab sudbstances substances
 iab sudbstrate substrate
 iab suddenlty suddenly
 iab suddent sudden
@@ -24220,6 +24254,7 @@ iab suface surface
 iab suffenaces surfances
 iab suffereing suffering
 iab sufferinug suffering
+iab sufferneging suffering
 iab sufferred suffered
 iab sufficioent sufficient
 iab suffictint sufficient
@@ -24773,6 +24808,7 @@ iab tcan can
 iab tchoice choice
 iab tcomplaining complaining
 iab tconcern concern
+iab tconcext context
 iab tdaoiy today
 iab tdaosy today
 iab tdaoy today
@@ -25918,6 +25954,7 @@ iab trafkcigdnt tracking
 iab trafkcpad trackpad
 iab trafveling traveling
 iab traing train
+iab traingingsd trainings
 iab trainingk training
 iab traininifg training
 iab traininig training
@@ -26005,6 +26042,7 @@ iab transsport transport
 iab transtger transfer
 iab transvcitons transactions
 iab transver transfer
+iab transxient transient
 iab tranxorm transform
 iab tranzaction transaction
 iab trapckad trackpad
@@ -26015,6 +26053,7 @@ iab trasnposition transposition
 iab trasnslate translate
 iab trasure treasure
 iab trat treat
+iab tratining training
 iab trav3el travel
 iab traveleers travelers
 iab traveleld traveled
@@ -26663,6 +26702,7 @@ iab unemplyed unemployed
 iab unempoloyedd unemployed
 iab unempoyable unemployable
 iab unempoyment unemployment
+iab unenesseary unnecessary
 iab unerstand understand
 iab unexepected unexpected
 iab unexpecetddly unexpectedly
