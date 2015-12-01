@@ -7714,6 +7714,7 @@ iab consder consider
 iab consenants consonants
 iab consennsous consensus
 iab consequennce consequence
+iab consequqnece consequence
 iab consicous conscious
 iab consicousness consciousness
 iab consideraytion consideration
@@ -11100,6 +11101,7 @@ iab ersult result
 iab ersults results
 iab ertsistance resistance
 iab erturn return
+iab erveryohn3e everyone
 iab esablished established
 iab esaiest easiest
 iab esailsy easily
@@ -12358,6 +12360,7 @@ iab fodo food
 iab foeregot forgot
 iab fogive forgive
 iab foinsih finish
+iab foir for
 iab foirst first
 iab fokr for
 iab foldign folding
@@ -12813,6 +12816,7 @@ iab gcomments comments
 iab geals goals
 iab geather gather
 iab geenrate generate
+iab geerneosity generosity
 iab geetting getting
 iab geit get
 iab genearate generate
@@ -13511,6 +13515,7 @@ iab hobbiest hobbyist
 iab hodling holding
 iab hoem home
 iab hoenstly honestly
+iab hoenstty honesty
 iab hoep hope
 iab hoepfully hopefully
 iab hoever however
@@ -15349,6 +15354,7 @@ iab itunitilbley intuitively
 iab itw it
 iab ity it
 iab iuf if
+iab iumprotant important
 iab iun in
 iab iunept inept
 iab iunfolding unfolding
@@ -18772,6 +18778,7 @@ iab oxcygen oxygen
 iab oyou you
 iab oyour your
 iab oyoutbe youtube
+iab oyrouself yourself
 iab oyt out
 iab oyu you
 iab oyur your
@@ -19977,6 +19984,7 @@ iab practiving practicing
 iab practivve practice
 iab practivvve practice
 iab practixse practise
+iab pracuitice practice
 iab pracuitices practices
 iab pradcticed practiced
 iab praditce practice
@@ -23296,6 +23304,7 @@ iab simplation simulation
 iab simpley simply
 iab simplezst simplest
 iab simplfy simplify
+iab simpliciity simplicity
 iab simpliefied simplified
 iab simpliest simplest
 iab simplificiations simplifications
@@ -28773,6 +28782,7 @@ iab ythings things
 iab ythinkking thinking
 iab ythird third
 iab ythis this
+iab ytou you
 iab ytraining training
 iab ytuturali tutorial
 iab yues yes
