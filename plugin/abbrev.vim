@@ -1140,6 +1140,7 @@ iab Isusues Issues
 iab Itemd Items
 iab Itg It
 iab Itt It
+iab Ity It
 iab Iw I
 iab JOghn John
 iab JOin Join
@@ -2510,6 +2511,7 @@ iab Tgus This
 iab Tgusi This
 iab Th3e The
 iab Th4e3se These
+iab Th4ere There
 iab Th8is This
 iab Thainsk Thanks
 iab Thaisnks Thanks
@@ -2578,6 +2580,7 @@ iab Thsi9 This
 iab Thsnsks Thanks
 iab Thsu Thus
 iab Thsui This
+iab Thsuis THis
 iab Thtese These
 iab Thuis This
 iab Thurdsay Thursday
@@ -4574,6 +4577,7 @@ iab apprenteice apprentice
 iab appreoriateness appropriateness
 iab appriciation appreciation
 iab appriopatruate appropriate
+iab apprioriate appropriate
 iab appriotraite appropriate
 iab appripraite appropriate
 iab appripriate appropriate
@@ -4981,6 +4985,7 @@ iab attainted attained
 iab attaion attain
 iab attaioned attained
 iab attaminents attainments
+iab attaminmetns attainments
 iab attascdhed attached
 iab attatchement attachment
 iab atteain attain
@@ -5156,6 +5161,7 @@ iab avbiltiy ability
 iab avboidable avoidable
 iab avbrevations abbreviations
 iab avck back
+iab avdantageouys advantageous
 iab avdvice advice
 iab aveasive evasive
 iab averate average
@@ -7432,6 +7438,7 @@ iab concluyde conclude
 iab conclysuvly conclusively
 iab concnetrate concentrate
 iab concocutions concoctions
+iab concoiyusaoyness consciousness
 iab concole console
 iab concollusion conclusion
 iab concomiatants concomitants
@@ -7486,6 +7493,7 @@ iab conenct connect
 iab conencted connected
 iab conencting connecting
 iab conenction connection
+iab conenctyration concentration
 iab coneneced connected
 iab conenected connected
 iab conenseus consensus
@@ -9346,6 +9354,7 @@ iab directiveTemplaets directiveTemplates
 iab directlyh directly
 iab directorty directory
 iab directrly directly
+iab directuly directly
 iab direcxting directing
 iab diredctive directive
 iab diredt direct
@@ -13059,6 +13068,7 @@ iab havhing having
 iab havibg having
 iab havign having
 iab havihng having
+iab havintg having
 iab havit habit
 iab havits habits
 iab havne haven
@@ -14940,6 +14950,7 @@ iab invalable invaluable
 iab invasoin invasion
 iab inveariably invariably
 iab inveisible invisible
+iab inveisivdually individually
 iab inverster inverter
 iab investating investigating
 iab investeivatged investigated
@@ -17890,6 +17901,7 @@ iab occassion occasion
 iab occassionally occasionally
 iab occassions occasions
 iab occatsional occasional
+iab occcassions occasions
 iab occiital occipital
 iab occiurs occurs
 iab occoasions occasions
@@ -17992,6 +18004,7 @@ iab oeprate operate
 iab oepratinog operating
 iab oer or
 iab oerfedct perfect
+iab oerperiod period
 iab oether other
 iab ofadvantage advantage
 iab ofc of
@@ -18157,6 +18170,7 @@ iab oparts parts
 iab opbtain obtain
 iab opbuvosuuluy obviously
 iab opearitng operating
+iab opeeen open
 iab opeen open
 iab opeend opened
 iab opehraingn operating
@@ -18188,6 +18202,7 @@ iab operoating operating
 iab opersistance persistence
 iab operspective perspective
 iab opetaering operating
+iab opetion option
 iab opetions options
 iab opetrarating operating
 iab opewr opener
@@ -18292,12 +18307,14 @@ iab oranized organized
 iab orbieded orbited
 iab ordanize organize
 iab ordder order
+iab ordeinary ordinary
 iab orderd ordered
 iab orderers orders
 iab orderinfg ordering
 iab ordidnary ordinary
 iab ordieinatry ordinary
 iab ordierign ordering
+iab ordiinary ordinary
 iab ordinarty ordinary
 iab ordinatry ordinary
 iab ordinry ordinary
@@ -18558,6 +18575,7 @@ iab owrking working
 iab owrks works
 iab owrld world
 iab owrokplace workplace
+iab owrokrfing working
 iab owther other
 iab owuld would
 iab owuldw would
@@ -18951,6 +18969,7 @@ iab percise precise
 iab percived perceived
 iab percvect perfect
 iab perdspecitve perspective
+iab pereceiving perceiving
 iab perecent percent
 iab pereceuition perception
 iab perect erect
@@ -19729,6 +19748,7 @@ iab practied practiced
 iab practiedc practiced
 iab practieses practices
 iab practiging practicing
+iab practiices practices
 iab practiicing practicing
 iab practiixed practiced
 iab practire practice
@@ -21285,6 +21305,7 @@ iab remvoed removed
 iab remvoing removing
 iab remvow remove
 iab rencdently recently
+iab rencuuciation renunciation
 iab rend4ered rendered
 iab renderd rendered
 iab renderere renderer
@@ -21297,7 +21318,9 @@ iab renewes renews
 iab reniunciation renunciation
 iab reno8unc renounce
 iab renoincing renouncing
+iab renouhnce renounce
 iab renuciation renunciation
+iab renucisaytion renunciation
 iab reoad road
 iab reobooting rebooting
 iab reocirngds recordings
@@ -22605,6 +22628,7 @@ iab sendsa sends
 iab sendse sense
 iab sene seen
 iab seneding sending
+iab senesatinons sensations
 iab senetencign sentencing
 iab senntence sentence
 iab senough enough
@@ -23628,6 +23652,7 @@ iab sperparate separate
 iab spewcifi specific
 iab spewnt spent
 iab spexific specific
+iab sphidistiacated sophisticated
 iab spiigot spigot
 iab spindel spindle
 iab spinnig spinning
@@ -24124,6 +24149,7 @@ iab subjet subject
 iab subjext subject
 iab subjhect subject
 iab subjhecte subject
+iab sublthe subtle
 iab submissinois submissions
 iab submissoin submission
 iab submited submitted
@@ -24945,6 +24971,7 @@ iab temprarily temporarily
 iab temprarly temporally
 iab tempraruly temporarily
 iab tempriarily temporarily
+iab temproary temporary
 iab temprorayr temporary
 iab temprory temporary
 iab temr term
@@ -25110,6 +25137,7 @@ iab texstbox textbox
 iab texsturesss textures
 iab texswt text
 iab texty text
+iab teype type
 iab teyped typed
 iab teyy they
 iab tezxt text
@@ -26127,6 +26155,7 @@ iab ttoday today
 iab ttomorrow tomorrow
 iab ttoutoral tutorial
 iab ttowards towards
+iab tttime time
 iab tttthat that
 iab tturialty tutorial
 iab tturiorala tutorial
