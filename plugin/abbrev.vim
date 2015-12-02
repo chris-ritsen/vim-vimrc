@@ -387,7 +387,6 @@ iab Demonstarted Demonstrated
 iab Deos Does
 iab Depribved Deprived
 iab Deprression Depression
-iab Deque Dequeue
 iab Derver Server
 iab Desccretes Desecrates
 iab Descdribe Describe
@@ -5015,6 +5014,7 @@ iab attacheds attaches
 iab attachement attachment
 iab attachements attachments
 iab attachmetn attachment
+iab attachrfd attached
 iab attacments attachments
 iab attadched attached
 iab attadchenents attachments
@@ -17134,6 +17134,7 @@ iab modicied modified
 iab modifcations modifications
 iab modifed modified
 iab modififations modifications
+iab modifiyed modified
 iab modifty modify
 iab modifyied modified
 iab modifyt modify
@@ -18648,6 +18649,7 @@ iab otherwisae otherwise
 iab otherwisde otherwise
 iab otherwiswe otherwise
 iab othesr others
+iab otheters others
 iab othetr other
 iab othewrise otherwise
 iab othings things
@@ -21183,6 +21185,7 @@ iab recnet recent
 iab recnetly recently
 iab recnetrly recently
 iab recoerd record
+iab recogfniehse recognise
 iab recogfnize recognize
 iab recognation recognition
 iab recogniised recognised
@@ -21870,6 +21873,7 @@ iab resoruce resource
 iab resosne response
 iab resotre restore
 iab resotres restores
+iab resotrigin restoring
 iab resou4ce resource
 iab resouce resource
 iab resoucres resources
@@ -26881,6 +26885,7 @@ iab uncshcheduled unscheduled
 iab undbind unbind
 iab unde4rscore underscore
 iab undeasyiness uneasiness
+iab undediced undecided
 iab undeexpecfted unexpected
 iab undefefined undefined
 iab undefied undefined
