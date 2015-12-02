@@ -10796,6 +10796,7 @@ iab enlightement enlightenment
 iab enlighten4eed enlightened
 iab enlightenmment enlightenment
 iab enlightennemtn enlightenment
+iab enlightmenemtn enlightenment
 iab enlugh enough
 iab enmtpy empty
 iab ennds ends
@@ -13909,6 +13910,7 @@ iab ifinsihed finished
 iab ifles files
 iab ifmrmoaiotn information
 iab ifnally finally
+iab ifnormation information
 iab ifnreuyqlty infrequently
 iab ifnroawmtion information
 iab ifnromation information
@@ -17734,6 +17736,7 @@ iab nistead instead
 iab nitegrated integrated
 iab nitnialised initialised
 iab niull null
+iab nivrana nirvana
 iab nkknow know
 iab nknow know
 iab nknowledge knowledge
@@ -21481,6 +21484,7 @@ iab religios religious
 iab relosd reload
 iab relplaced replaced
 iab relqesase release
+iab reltated related
 iab relucant reluctant
 iab relvant relevant
 iab relyng relying
@@ -22531,6 +22535,7 @@ iab sbuld should
 iab sbustarte substrate
 iab sby by
 iab scannin scanning
+iab scarece scarce
 iab scaree scarce
 iab scarqtch scratch
 iab scarscity scarcity
@@ -26144,6 +26149,7 @@ iab toooyda today
 iab toopic topic
 iab toorrow tomorrow
 iab toosl tools
+iab topcis topics
 iab topcui topic
 iab topicds topics
 iab topiuc topic
