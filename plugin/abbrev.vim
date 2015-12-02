@@ -74,6 +74,7 @@ iab Asusmptions Assumptions
 iab Atch Arch
 iab Atetmpt Attempt
 iab Atmtempts Attempts
+iab Attach3ed Attached
 iab Attenmptinug Attempting
 iab Attmepts Attempts
 iab Atuoamtically Automatically
@@ -180,6 +181,7 @@ iab Chrsitopher Christopher
 iab Chrtis Chris
 iab Chyckles Chuckles
 iab Cihese Chinese
+iab Cihild Child
 iab Cinese Chinese
 iab Ciombinations Combinations
 iab Ciontinually Continually
@@ -710,6 +712,7 @@ iab FOrmat Format
 iab FOrmatted Formatted
 iab FOrmulas Formulas
 iab FOrtunarely Fortunately
+iab FOrty Forty
 iab FOrward Forward
 iab FOur Four
 iab FRankenmuth Frankenmuth
@@ -2274,6 +2277,7 @@ iab Solveing Solving
 iab Sombeody Somebody
 iab Someething Something
 iab Someoehone Someone
+iab Someoen Someone
 iab Somertwhere Somewhere
 iab Somethign Something
 iab Sometihng Something
@@ -6268,6 +6272,7 @@ iab calculatotr calculator
 iab calculcator calculator
 iab calcultor calculator
 iab calcyulation calculation
+iab caled called
 iab caleld called
 iab caleled called
 iab calenar calendar
@@ -8096,6 +8101,7 @@ iab coontrao control
 iab coookies cookies
 iab cooould could
 iab cooperration cooperation
+iab coopoerative cooperative
 iab coopying copying
 iab coordiante coordinate
 iab coorerected corrected
@@ -8577,6 +8583,7 @@ iab datbase database
 iab datepuicker datepicker
 iab datre date
 iab daughtor daughter
+iab daugther daughter
 iab dauy day
 iab daydraem daydream
 iab dayh day
@@ -8632,6 +8639,7 @@ iab de3buger debugger
 iab de3vpendecey dependency
 iab deadliens deadlines
 iab deafult default
+iab deaht death
 iab deaily dearly
 iab dealay delay
 iab dealdly deadly
@@ -8644,6 +8652,7 @@ iab dearxh search
 iab deasd dead
 iab deatails details
 iab deate date
+iab deatuh death
 iab deawl deal
 iab deawling dealing
 iab deawth death
@@ -10733,10 +10742,13 @@ iab encoutnered encountered
 iab encrpyted encrypted
 iab encrytped encrypted
 iab encticing enticing
+iab endagenerged endangered
+iab endangnered endangered
 iab endergyt energy
 iab endevaor endeavor
 iab endfunctino endfunction
 iab endleslly endlessly
+iab endneagenered endangered
 iab endo end
 iab endpoit endpoint
 iab endppiomtis endpoints
@@ -10750,6 +10762,7 @@ iab enemeies enemies
 iab enemey enemy
 iab enemiead enemies
 iab enemiees enemies
+iab enemieies enemies
 iab eneny enemy
 iab eneough enough
 iab eneregey energy
@@ -10773,6 +10786,7 @@ iab engagiing engaging
 iab engagnging engaging
 iab engainging engaging
 iab engaingng engaging
+iab engangeered endangered
 iab enganging engaging
 iab engergize energize
 iab engergy energy
@@ -11683,6 +11697,7 @@ iab exoperience experience
 iab exosts exists
 iab expaceted expected
 iab expadning expanding
+iab expaectations expectations
 iab expain explain
 iab expaing explain
 iab expalin explain
@@ -12543,6 +12558,7 @@ iab friendsship friendship
 iab frienldy friendly
 iab friensd friends
 iab frightented frightened
+iab frightetned frightened
 iab frilvolous frivolous
 iab frind friend
 iab frinds friends
@@ -13142,6 +13158,7 @@ iab hapbit habit
 iab hapen happen
 iab hapepen happen
 iab hapepend happened
+iab hapepenign happening
 iab hapepening happening
 iab hapepens happens
 iab hapepenstance happenstance
@@ -14767,6 +14784,7 @@ iab insighjtful insightful
 iab insighjts insights
 iab insipired inspired
 iab insipriation inspiration
+iab insisde inside
 iab insistant insistent
 iab insitincitlybvely instinctively
 iab insivilbel invisible
@@ -16950,6 +16968,7 @@ iab minut minute
 iab minutesw minutes
 iab minutnes minutes
 iab minuts minutes
+iab minutues minutes
 iab minuyte minute
 iab miocrohpne microphone
 iab mioght might
@@ -17002,6 +17021,7 @@ iab misecellanous miscellaneous
 iab miseellaneus miscellaneous
 iab misellaneous miscellaneous
 iab miserlable miserable
+iab misidirection misdirection
 iab misinterpreed misinterpreted
 iab misisng missing
 iab misktaekn mistaken
@@ -17341,6 +17361,7 @@ iab mremember remember
 iab mreo more
 iab mrequests requests
 iab mreriro mirror
+iab mriduerer murderer
 iab mro more
 iab mroe more
 iab mroening morning
@@ -21541,6 +21562,7 @@ iab remindws reminds
 iab reminiscense reminiscence
 iab remisdnsd reminds
 iab remlutoely remotely
+iab remmarkable remarkable
 iab remmber remember
 iab remmeber remember
 iab remmebmer remember
@@ -21843,6 +21865,7 @@ iab reseraunt restaurant
 iab reserverd reserved
 iab resetore restore
 iab reseverved reserved
+iab residienets residents
 iab resiizable resizable
 iab resillient resilient
 iab resipes recipes
@@ -22451,6 +22474,7 @@ iab safeltuy safely
 iab safete safety
 iab safter safer
 iab saftify satisfy
+iab sahde shade
 iab sahdow shadow
 iab sailers sailors
 iab saing saying
@@ -27655,6 +27679,7 @@ iab vriting writing
 iab vrough rough
 iab vrsion version
 iab vslaue value
+iab vulerable vulnerable
 iab vverything everything
 iab vvisible visible
 iab w2hole whole
