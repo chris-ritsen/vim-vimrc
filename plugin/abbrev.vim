@@ -47,6 +47,7 @@ iab Alrealduy Already
 iab Alreayd Already
 iab Alrifght Alright
 iab Alrignht Alright
+iab Amazig Amazing
 iab Ammmmontg Among
 iab Ammmost Almost
 iab Amnonbg Among
@@ -692,6 +693,7 @@ iab FIle File
 iab FIles Files
 iab FIleter Filter
 iab FIlter Filter
+iab FInished Finished
 iab FInsiehd Finished
 iab FInsihed Finished
 iab FInsxiehde Finished
@@ -7397,6 +7399,7 @@ iab compters computers
 iab compteuor computer
 iab compteuyr computer
 iab comptuer computer
+iab comptuere computer
 iab comptuers computers
 iab comptuesr computers
 iab comptuetr computer
@@ -12260,6 +12263,7 @@ iab finaally finally
 iab finacial financial
 iab finacnes finances
 iab finallly finally
+iab finallya finally
 iab finalyl finally
 iab financinal financial
 iab fincances finances
@@ -14474,6 +14478,7 @@ iab increement increment
 iab increibile incredible
 iab increibly incredibly
 iab increidbiel incredible
+iab increidibly incredibly
 iab increlby incredibly
 iab increldbliya incredibly
 iab increldbly incredibly
@@ -25739,6 +25744,7 @@ iab thidr third
 iab thie the
 iab thieir their
 iab thier their
+iab thies this
 iab thiese these
 iab thiey they
 iab thig this
@@ -28014,6 +28020,7 @@ iab whagever whatever
 iab whagtewver whatever
 iab whastosever whatsoever
 iab whatching watching
+iab whatcshdign watching
 iab whate what
 iab whateever whatever
 iab whatefver whatever
@@ -28920,10 +28927,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab thies this
-iab increidibly incredibly
-iab finallya finally
-iab Amazig Amazing
-iab comptuere computer
-iab whatcshdign watching
-iab FInished Finished
