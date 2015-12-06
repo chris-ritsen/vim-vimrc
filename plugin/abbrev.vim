@@ -28920,3 +28920,10 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
+iab thies this
+iab increidibly incredibly
+iab finallya finally
+iab Amazig Amazing
+iab comptuere computer
+iab whatcshdign watching
+iab FInished Finished
