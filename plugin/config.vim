@@ -269,6 +269,7 @@ let g:syntastic_html_checkers = [
 " javascript checkers {{{
 
 let g:syntastic_javascript_eslint_exec = 'eslint'
+let g:syntastic_javascript_eslint_args = '--env es6'
 let g:syntastic_javascript_jshint_exec = 'jshint'
 let g:syntastic_javascript_tidy_exec = 'tidy'
 

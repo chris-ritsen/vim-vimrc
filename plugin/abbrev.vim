@@ -277,6 +277,7 @@ iab Contiyanlly Continually
 iab Contol Control
 iab Contorller Controller
 iab Contratulations Congratulations
+iab Controler Controller
 iab Controlleirs Controllers
 iab Contstnant Constant
 iab Contunuanlly Continually
@@ -769,6 +770,7 @@ iab Frozyen Frozen
 iab Fucndtion Function
 iab Fuction Function
 iab Functoins Functions
+iab Fundamnentally Fundamentally
 iab Futlers Filters
 iab GBut But
 iab GBy Gaby
@@ -2643,6 +2645,7 @@ iab Thereofre Therefore
 iab Therere There
 iab Therfore Therefore
 iab Thesew These
+iab Thesxee These
 iab Theve They've
 iab Thexe These
 iab Theya They
@@ -3857,6 +3860,7 @@ iab agistaionts agitations
 iab agistations agitations
 iab agmaes games
 iab agnecy agency
+iab agner anger
 iab agnet agent
 iab agnular angular
 iab agop ago
@@ -4445,6 +4449,7 @@ iab aoccurs occurs
 iab aoften often
 iab aog ago
 iab aoht about
+iab aonluy only
 iab aonther another
 iab aopplying applying
 iab aoroudn around
@@ -4924,6 +4929,7 @@ iab arugmemtns arguments
 iab arugmenets arguments
 iab arugments arguments
 iab arugmetns arguments
+iab arugnemtns arguments
 iab arugnemtsn arguments
 iab arugnmetns arguments
 iab aruguments arguments
@@ -5693,6 +5699,7 @@ iab behabed behaved
 iab behabes behaves
 iab behabing behaving
 iab behabiors behaviors
+iab behaiviors behaviors
 iab behaivor behavior
 iab behan Behan
 iab behavbior behavior
@@ -7025,6 +7032,7 @@ iab cltohes clothes
 iab cluser cluster
 iab clustes clusters
 iab cluynky clunky
+iab clyclic cyclic
 iab clyinder cylinder
 iab cmae came
 iab cmaeras cameras
@@ -7668,6 +7676,7 @@ iab condiuit conduit
 iab condiut conduit
 iab condoments condiments
 iab condsider consider
+iab condsole console
 iab condtrol control
 iab conductrive4 conductive
 iab condutions conditions
@@ -8963,6 +8972,7 @@ iab delievred delivered
 iab delinbiate delineate
 iab deliocate delicate
 iab delitacte delicate
+iab deliuded deluded
 iab deliusions delusions
 iab delivred delivered
 iab delivredred delivered
@@ -9872,6 +9882,7 @@ iab distrating distracting
 iab distration distraction
 iab distrations distractions
 iab distravdeted distracted
+iab distrcation distraction
 iab distrction distraction
 iab distrctions distractions
 iab distrinoction distinction
@@ -10583,6 +10594,7 @@ iab eindifferent indifferent
 iab eing being
 iab eingieering engineering
 iab eingies engines
+iab eings beings
 iab einitial initial
 iab eintire entire
 iab eintre entire
@@ -10800,6 +10812,7 @@ iab emiails emails
 iab emial email
 iab emials emails
 iab emiiimately immediately
+iab emiotional emotional
 iab emipirica empirical
 iab emition emotion
 iab emittted emitted
@@ -10810,6 +10823,7 @@ iab emmory memory
 iab emnetioend mentioned
 iab emnployeed employed
 iab emoerge emerge
+iab emoitions emotions
 iab emoment moment
 iab emoon moon
 iab emoployeees employees
@@ -10820,6 +10834,7 @@ iab emothd method
 iab emoticans emoticons
 iab emotinnoal emotional
 iab emotioional emotional
+iab emotionalo emotional
 iab emotionaly emotionally
 iab emotiuonal emotional
 iab emovign moving
@@ -11188,6 +11203,7 @@ iab epxlorer explorer
 iab epxoerience experience
 iab epxort export
 iab epxortds exports
+iab epxperiience experience
 iab eqaillly equally
 iab eqalully equally
 iab eqasier easier
@@ -11802,6 +11818,7 @@ iab exhivits exhibits
 iab exiccted exacted
 iab exiccted excited
 iab exicitng exciting
+iab exicstence existence
 iab exicting existing
 iab exiesting existing
 iab exiot exit
@@ -11822,6 +11839,7 @@ iab existning existing
 iab existsance existence
 iab existted existed
 iab existws exists
+iab exitixscence existence
 iab exitsitng existing
 iab exitst exist
 iab exitstance existance
@@ -11920,6 +11938,7 @@ iab expeirenced experienced
 iab expeirenceing experiencing
 iab expeirences experiences
 iab expeirience experience
+iab expeirinece experience
 iab expeirnecde experience
 iab expeite expedite
 iab expendible expendable
@@ -13389,6 +13408,7 @@ iab haredware hardware
 iab harged charged
 iab harlmeessly harmlessly
 iab harmonly harmony
+iab harmounously harmoniously
 iab harrassed harassed
 iab hasd has
 iab hashs hashes
@@ -13399,6 +13419,8 @@ iab hasve have
 iab hasx has
 iab haterred hatred
 iab hathl hath
+iab hatrested hatred
+iab hatrted hatred
 iab hault halt
 iab hav have
 iab havae have
@@ -13457,6 +13479,7 @@ iab hday day
 iab hdiden hidden
 iab hdml html
 iab hdtml html
+iab head4ers headers
 iab headacehe headache
 iab headest headset
 iab headet headset
@@ -13798,6 +13821,7 @@ iab hovwering hovering
 iab hovwring hovering
 iab howeer however
 iab howefver however
+iab howerfver however
 iab howevefr however
 iab howt how
 iab howver however
@@ -14700,6 +14724,7 @@ iab indicitave indicative
 iab indicitive indicative
 iab indicitual individual
 iab indicitve indicative
+iab indicivudal individual
 iab indicvidual individual
 iab indieivislibe indivisible
 iab indirecrtly indirectly
@@ -14722,6 +14747,7 @@ iab indivudslal individual
 iab indivudsuals individuals
 iab indivudual individual
 iab indivuduasl individual
+iab indivududally individually
 iab indivusual individual
 iab indivusulal individual
 iab indneded intended
@@ -14977,6 +15003,7 @@ iab insipriation inspiration
 iab insisde inside
 iab insistant insistent
 iab insitincitlybvely instinctively
+iab insitudutions institutions
 iab insivilbel invisible
 iab insjectiopn injection
 iab insnanne insane
@@ -15751,6 +15778,7 @@ iab k3yboard keyboard
 iab k3yeboard keyboard
 iab kar4mic karmic
 iab kdiney kidney
+iab kealousy jealousy
 iab keaybnoard keyboard
 iab kebyaord keyboard
 iab kebyaords keyboards
@@ -16053,6 +16081,7 @@ iab lazyily lazily
 iab lazzy lazy
 iab lbaclk black
 iab lbe be
+iab lbi lib
 iab lbierarty library
 iab lbinded blinded
 iab lbock block
@@ -17844,6 +17873,7 @@ iab neesd needs
 iab neever never
 iab nefer never
 iab nefw new
+iab negaitive negative
 iab neghbors neighbors
 iab neghiboring neighboring
 iab neghibors neighbors
@@ -18546,6 +18576,7 @@ iab omrnig morning
 iab omterset intersect
 iab onChnage onChange
 iab oncde once
+iab oncif config
 iab oncsoel console
 iab oncsole console
 iab one3s ones
@@ -18581,6 +18612,7 @@ iab onone none
 iab onotber another
 iab onow know
 iab onsight insight
+iab onsole console
 iab ontain contain
 iab ontastnly constantly
 iab onths months
@@ -19291,6 +19323,7 @@ iab patinet patient
 iab patte4rnbs patterns
 iab pattenrs patterns
 iab pattersn patterns
+iab patyh path
 iab pauase pause
 iab pauchekc paycheck
 iab pauritcyualr particular
@@ -20160,6 +20193,7 @@ iab potientially potentially
 iab potioentooal potential
 iab potsts posts
 iab pottentially potentially
+iab poublic public
 iab poudn pound
 iab pouplar popular
 iab poutting putting
@@ -21315,6 +21349,7 @@ iab reallyh really
 iab reallyu really
 iab reaload reload
 iab realsity reality
+iab realsms realms
 iab realted related
 iab realting relating
 iab realy really
@@ -21678,6 +21713,7 @@ iab relaity reality
 iab relaize realize
 iab relally really
 iab relaly really
+iab relam realm
 iab relaod reload
 iab relases releases
 iab relateions relations
@@ -24496,6 +24532,7 @@ iab stirfc strict
 iab stirfcdt strict
 iab stirng string
 iab stirngs strings
+iab stirxcdt strict
 iab stirxcgt strict
 iab stiting sitting
 iab stitting sitting
@@ -25499,6 +25536,7 @@ iab tehnique technique
 iab tehnology technology
 iab tehr the
 iab tehre there
+iab tehrea there
 iab tehreby thereby
 iab tehrefore therefore
 iab tehsaurus thesaurus
@@ -26234,6 +26272,7 @@ iab timeoutt timeout
 iab timepicekr timepicker
 iab timepicket timepicker
 iab timepickre timepicker
+iab timepout timeout
 iab timess times
 iab timestmaps timestamps
 iab timet time
