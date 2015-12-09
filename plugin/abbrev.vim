@@ -518,6 +518,7 @@ iab EVeryohne Everyone
 iab EVeryone Everyone
 iab EVerythign Everything
 iab EVerything Everything
+iab EVerythiung Everything
 iab EVerytone Everyone
 iab EVeyrhitn Everything
 iab EWhat What
@@ -878,6 +879,7 @@ iab Helicoptor Helicopter
 iab Helicopyor Helicopter
 iab Helllo Hello
 iab Hellow Hello
+iab Hellping Helping
 iab Henfdrix Hendrix
 iab Henfrix Hendrix
 iab Hestitation Hesitation
@@ -1333,6 +1335,7 @@ iab Manufacituring Manufacturing
 iab Manufcaturing Manufacturing
 iab Maoning Moaning
 iab Martch March
+iab Masx Max
 iab Matbe Maybe
 iab Mathcing Matching
 iab Matruix Matrix
@@ -1554,6 +1557,7 @@ iab Ontyo Onto
 iab Onw One
 iab Oopen Open
 iab Opdtions Options
+iab Opeingng Opening
 iab OperatingA Operating
 iab Opiniions Opinions
 iab Opotions Options
@@ -1892,6 +1896,7 @@ iab Quiantity Quantity
 iab Qyiut Quit
 iab RAnge Range
 iab RAspberry Raspberry
+iab REAdigning Reading
 iab RESelmbingl Resembling
 iab RESelmbiong Resembling
 iab RESembling Resembling
@@ -1901,6 +1906,8 @@ iab REStweraunt Restaurant
 iab RETrvail Retrieval
 iab REWswtweraunt Restaurant
 iab REad Read
+iab REadifgn Reading
+iab REading Reading
 iab REalise Realise
 iab REallise Realise
 iab REally Really
@@ -5879,6 +5886,7 @@ iab birht birth
 iab birhtday birthday
 iab biring boring
 iab birtdhday birthday
+iab bisiblle visible
 iab bision vision
 iab bisiting visiting
 iab biuld build
@@ -6160,6 +6168,7 @@ iab bthe the
 iab btich bitch
 iab btowser browser
 iab btringing bringing
+iab btter better
 iab bttuoj button
 iab btuter butter
 iab bty by
@@ -6265,6 +6274,7 @@ iab buysisne business
 iab buyt but
 iab bvackground background
 iab bveen been
+iab bveicle vehicle
 iab bvery very
 iab bwe be
 iab bwefore before
@@ -6538,6 +6548,7 @@ iab celean clean
 iab celebrade celebrate
 iab celels cells
 iab celing ceiling
+iab cemarama camera
 iab cememetary cemetery
 iab cememtary cemetery
 iab cemetawry cemetery
@@ -6725,6 +6736,7 @@ iab chgekcker checker
 iab chiecf chief
 iab childrenn children
 iab childrring children
+iab chilt child
 iab chinesee chinese
 iab chiop chip
 iab chiposwet chipset
@@ -6788,6 +6800,7 @@ iab chuld child
 iab cibiilazations civilizations
 iab cibil civil
 iab cicuitry circuitry
+iab cicumsatances circumstances
 iab cidiontona conditioning
 iab ciditional additional
 iab cieling ceiling
@@ -7311,6 +7324,7 @@ iab comoing coming
 iab comoment comment
 iab comomn common
 iab comon common
+iab comondeers commandeers
 iab comopnetns components
 iab comoptyuers computers
 iab comopuyter computer
@@ -7567,6 +7581,7 @@ iab concetraiotn concentration
 iab concetrt concert
 iab concferenc3 conference
 iab concflicts conflicts
+iab concgregating congregating
 iab concice concise
 iab concider consider
 iab concifience confidence
@@ -7637,6 +7652,7 @@ iab condoments condiments
 iab condsider consider
 iab condtrol control
 iab conductrive4 conductive
+iab condutions conditions
 iab conealed concealed
 iab conecepts concepts
 iab conecferencde conference
@@ -8012,6 +8028,7 @@ iab contifurign configuring
 iab contignet contingent
 iab contihously continuously
 iab contihue continue
+iab contihyunue continue
 iab contiitons conditions
 iab contin8ue continue
 iab continaes continues
@@ -8357,6 +8374,7 @@ iab cotnrolled controlled
 iab cotnroller controller
 iab cotnroolelr controller
 iab cotrol control
+iab couaase cause
 iab couche couch
 iab coucsnoucsness consciousness
 iab coudl could
@@ -8769,6 +8787,7 @@ iab decawd4e decade
 iab decayiung decaying
 iab decding deciding
 iab decdnt decent
+iab decenscing descending
 iab decentg decent
 iab decentinput decent
 iab decgree degree
@@ -10361,6 +10380,7 @@ iab ecxept except
 iab ecxist exist
 iab ecxpet except
 iab ecxplain explain
+iab ecxxitement excitement
 iab eddison edison
 iab edeleberate deliberate
 iab edestroyed destroyed
@@ -10762,6 +10782,7 @@ iab emost most
 iab emothd method
 iab emoticans emoticons
 iab emotinnoal emotional
+iab emotioional emotional
 iab emotionaly emotionally
 iab emotiuonal emotional
 iab emovign moving
@@ -10892,6 +10913,7 @@ iab enginerring engineering
 iab englisuh english
 iab englush english
 iab engneer engineer
+iab engravigin engraving
 iab engrosssing engrossing
 iab enhancmenet enhancement
 iab enhjoooooouable enjoyable
@@ -11912,6 +11934,7 @@ iab expermintal experimental
 iab experoecned experienced
 iab expertisze expertize
 iab expertizs expertize
+iab experuiecne experience
 iab experuienced experienced
 iab expess express
 iab expet except
@@ -11988,6 +12011,7 @@ iab exsmples examples
 iab exstra extra
 iab exstract extract
 iab exstravagnetly extravagantly
+iab exswcape escape
 iab exta extra
 iab extaordinary extraordinary
 iab extar extra
@@ -12118,6 +12142,7 @@ iab factiory factory
 iab factores factors
 iab factx facts
 iab facvotite favorite
+iab faeded faded
 iab faield failed
 iab failpyre failure
 iab failry fairly
@@ -12288,7 +12313,9 @@ iab fifteehn fifteen
 iab fiftyu fifty
 iab figbht fight
 iab figets fidgets
+iab fighitng fighting
 iab fighrt fight
+iab fightingh fighting
 iab figners fingers
 iab figngers fingers
 iab figther fighter
@@ -13066,6 +13093,7 @@ iab gooooing going
 iab gooooooooing going
 iab gorceryies groceries
 iab gorcieres groceries
+iab gorew grow
 iab gorgginess grogginess
 iab gornw grown
 iab gorpu group
@@ -13177,6 +13205,7 @@ iab habanaeros habanero
 iab habe have
 iab habenero habanero
 iab habev have
+iab habitgu habitual
 iab habititional habitation
 iab habitiyally habitually
 iab habitiyually habitually
@@ -13635,6 +13664,7 @@ iab hneed need
 iab hneeding needing
 iab hoaw how
 iab hobbiest hobbyist
+iab hocoean ocean
 iab hodling holding
 iab hoem home
 iab hoenstly honestly
@@ -14692,6 +14722,7 @@ iab infitesimally infinitesimally
 iab inflcyued inflected
 iab infleated inflated
 iab inflexable inflexible
+iab influcence influence
 iab inflyenced influenced
 iab infmraoitnional informational
 iab infnite infinite
@@ -16362,6 +16393,7 @@ iab loearn learn
 iab loeses loses
 iab lof log
 iab loga log
+iab logcation location
 iab loggged logged
 iab loggic logic
 iab loggin login
@@ -18449,6 +18481,7 @@ iab onee one
 iab oneslef oneself
 iab onews ones
 iab onewsfeeds newsfeeds
+iab onfifg config
 iab ong on
 iab onlay only
 iab onlcick onclick
@@ -19100,6 +19133,7 @@ iab parst parts
 iab partW part
 iab partaxs parts
 iab partehtic pathetic
+iab partiallyu partially
 iab partialyyyy partially
 iab particals particles
 iab particapant participant
@@ -21307,6 +21341,7 @@ iab recept receipt
 iab receptiors receptors
 iab recernly recently
 iab recetnly recently
+iab recevealed revealed
 iab recevied received
 iab receving receiving
 iab recewntly recently
@@ -22262,6 +22297,7 @@ iab reve3al reveal
 iab reveail reveal
 iab reveailed revealed
 iab revealsed revealed
+iab revealted revealed
 iab reveicve receive
 iab reveived received
 iab revenghe revenge
@@ -24680,6 +24716,7 @@ iab sufferfing suffering
 iab sufferinug suffering
 iab sufferiung suffering
 iab sufferneging suffering
+iab sufferneting suffering
 iab sufferred suffered
 iab suffewring suffering
 iab sufffering suffering
@@ -24757,6 +24794,7 @@ iab supporst supports
 iab supportign supporting
 iab supposewd supposed
 iab suppply supply
+iab supppppplies supplies
 iab supproess suppress
 iab supprot support
 iab supproty support
@@ -25069,6 +25107,7 @@ iab sytlye style
 iab sytmbol symbol
 iab sytmem system
 iab sytntax syntax
+iab sytreet street
 iab sytsemes systems
 iab sytsme system
 iab sytsmes systems
@@ -26998,6 +27037,7 @@ iab ultiomate ultimate
 iab unabivoidable unavoidable
 iab unable3 unable
 iab unabloidable unavoidable
+iab unahppinieess unhappiness
 iab unambigious unambiguous
 iab unambigous unambiguous
 iab unassiagned unassigned
@@ -27066,6 +27106,7 @@ iab undersatand understand
 iab undersatanding understanding
 iab undersatnd understand
 iab undersatnding understanding
+iab undersatndings understandings
 iab undersatnt understand
 iab underscopre underscore
 iab undersdant understand
@@ -27274,6 +27315,7 @@ iab unparallenled unparalleled
 iab unpinished unpunished
 iab unpleaenet unpleasant
 iab unpleasent unpleasant
+iab unpon upon
 iab unpredicable unpredictable
 iab unprepated unprepared
 iab unprifitable unprofitable
@@ -27617,7 +27659,9 @@ iab vefifying verifying
 iab vefiified verified
 iab vefirosn version
 iab vehciel vehicle
+iab vehiucle vehicle
 iab vehivcles vehicles
+iab veicles vehicles
 iab veiewing viewing
 iab veify verify
 iab velictity velocity
@@ -27736,6 +27780,7 @@ iab visibl visible
 iab visibuility visibility
 iab visidble visible
 iab visiion vision
+iab visisble visible
 iab visistors visitors
 iab visists visits
 iab visiual visual
@@ -27801,6 +27846,7 @@ iab vriables variables
 iab vriting writing
 iab vrough rough
 iab vrsion version
+iab vsiabile visible
 iab vslaue value
 iab vulerable vulnerable
 iab vverything everything
@@ -28395,6 +28441,7 @@ iab wiuth with
 iab wiuthout without
 iab wiwth with
 iab wiyth with
+iab wiythdrawn withdrawn
 iab wjho who
 iab wjhom whom
 iab wkeekend weekend
@@ -28875,6 +28922,7 @@ iab yhour your
 iab yhourself yourself
 iab yhuman human
 iab yiu you
+iab yiyu you
 iab ylimiately ultimately
 iab ylu you
 iab ylur your
