@@ -218,6 +218,8 @@ function! s:unite_settings()
   imap <buffer> <C-j> <Plug>(unite_do_default_action)
   nnoremap <buffer> <C-j> <Plug>(unite_do_default_action)
   imap <buffer> <C-g> <Plug>(unite_exit)
+  nnoremap <buffer> <C-n> <Plug>(unite_select_next_line)
+  nnoremap <buffer> <C-p> <Plug>(unite_previous_next_line)
 
   " }}}
 
@@ -266,6 +268,30 @@ function! s:unite_settings()
 " }}}
 
 endfunction
+
+" }}}
+
+
+" 24-bit colors {{{
+
+if has('termtruecolor')
+
+" let &t_8f="\e[38;2;%ld;%ld;%ldm"
+" let &t_8b="\e[48;2;%ld;%ld;%ldm"
+" set guicolors
+
+if &term =~ '^screen'
+
+endif
+
+if &term =~ '256color'
+  " disable Background Color Erase (BCE) so that color schemes
+  " render properly when inside 256-color tmux and GNU screen.
+  " see also http://snk.tuxfamily.org/log/vim-256color-bce.html
+  set t_ut=
+endif
+
+endif
 
 " }}}
 
