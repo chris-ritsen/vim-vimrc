@@ -2446,6 +2446,7 @@ iab Subscriptiuons Subscriptions
 iab Suddenlty Suddenly
 iab Suddlenly Suddenly
 iab Sudio Studio
+iab Sunaday Sunday
 iab Sundary Sunday
 iab Suonds Sounds
 iab Supose Suppose
@@ -3154,6 +3155,8 @@ iab abank bank
 iab abanonded abandoned
 iab abarely barely
 iab abasiclaly basically
+iab abavialbe available
+iab abavilalae available
 iab abbbreviation abbreviation
 iab abberations aberrations
 iab abberviations abbreviations
@@ -3183,6 +3186,7 @@ iab abeteween between
 iab abgbrervaitions abbreviations
 iab abgreviations abbreviations
 iab abhorant abhorrent
+iab abialble available 
 iab abiility ability
 iab abiiltity ability
 iab abiilty ability
@@ -3192,6 +3196,7 @@ iab abilltiy ability
 iab abiltiy ability
 iab abilty ability
 iab abiut about
+iab abivailble available
 iab ablabileable available
 iab ableg able
 iab ablet able
@@ -3957,6 +3962,8 @@ iab ahundred hundred
 iab ahve have
 iab ahven haven
 iab ahving having
+iab aibailable available
+iab aiblalbel available
 iab aibvlable available
 iab aidio audio
 iab aiewed viewed
@@ -3964,6 +3971,8 @@ iab aiglgint align
 iab airshoip airship
 iab aisde aside
 iab aivaildble available
+iab aivlabilwe3l available
+iab aivlailbe available
 iab ajust just
 iab ajvascript javascript
 iab akawenmning awakening
@@ -5345,10 +5354,12 @@ iab avaialable available
 iab avaialbe available
 iab avaialble available
 iab availaable available
+iab availabile available
 iab availabilty availability
 iab availabled available
 iab availablee available
 iab availablility availability
+iab availablre available
 iab availabnle available
 iab availalbe available
 iab availasble available
@@ -5356,6 +5367,8 @@ iab availbe available
 iab availbel available
 iab availble available
 iab availblle available
+iab availealble available
+iab availible available
 iab availqble available
 iab avaiod avoid
 iab avalable available
@@ -5377,15 +5390,21 @@ iab aversfage average
 iab aversgage average
 iab averssion aversion
 iab avhe have
+iab aviabiolel available
 iab aviailgble available
 iab avialable available
 iab avialbe available
 iab avialbel available
+iab avialbiel available
+iab avialbile available
 iab avialble available
 iab avialeglbe available
 iab avialeglbe aviate
 iab aviallbel available
 iab aviioded avoided
+iab avilaable available
+iab avilabile available
+iab avilabilile available
 iab avilable available
 iab avilalbel available
 iab avilouded avoided
@@ -15250,6 +15269,7 @@ iab inteintoin intention
 iab inteintonally intentionally
 iab inteion intention
 iab inteiotn intention
+iab inteiresting interesting
 iab inteitnoin intention
 iab intelelectually intellectually
 iab intelelictual intellectual
@@ -24754,6 +24774,7 @@ iab stoyp stop
 iab stoyr story
 iab stpes steps
 iab stpo stop
+iab stpop stop
 iab stps steps
 iab straained strained
 iab stracht scratch
@@ -28066,6 +28087,7 @@ iab videws videos
 iab vidited visited
 iab vidoe video
 iab vidoes videos
+iab vidoie video
 iab vie2w view
 iab viedeo video
 iab viesual visual
@@ -28404,6 +28426,7 @@ iab weindow window
 iab weith with
 iab weither either
 iab weke week
+iab wekeekend weekend
 iab wekeekne weekend
 iab wekeend weekend
 iab wekeends weekends
@@ -29390,3 +29413,15 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
+iab ALl All
+iab dieristrction distraction
+iab discratioction distraction
+iab energuy energy
+iab certal cereal
+iab anythiugn anything
+iab steack steak
+iab steka steak
+iab steawk steak
+iab stwsak steak
+iab stewak steak
+iab setak steak
