@@ -19,6 +19,7 @@ iab ACtually Actually
 iab ADfter After
 iab AEsome Awesome
 iab AFter After
+iab ALl All
 iab ALright Alright
 iab ANgular Angular
 iab ANother Another
@@ -4465,6 +4466,7 @@ iab anythihng anything
 iab anythinb anything
 iab anythinge anything
 iab anythiong anything
+iab anythiugn anything
 iab anythiungh anything
 iab anythnign anything
 iab anythrign anything
@@ -6686,6 +6688,7 @@ iab certainity certainty
 iab certainn certain
 iab certaintny certainty
 iab certaion certain
+iab certal cereal
 iab certamin certain
 iab certian certain
 iab certifations certifications
@@ -9520,6 +9523,7 @@ iab diemsnions dimensions
 iab dierction direction
 iab dierctories directories
 iab dierctory directory
+iab dieristrction distraction
 iab diescrpotn discription
 iab dieseses diereses
 iab diesng design
@@ -9793,6 +9797,7 @@ iab discoverty discovery
 iab discovrery discovery
 iab discovrred discovered
 iab discratced distracted
+iab discratioction distraction
 iab discribltion description
 iab discriiminate discriminate
 iab discription description
@@ -11038,6 +11043,7 @@ iab energey energy
 iab energgizing energizing
 iab energiy energy
 iab energty energy
+iab energuy energy
 iab enervy energy
 iab eneryg energy
 iab enerygy energy
@@ -23535,6 +23541,7 @@ iab sessionpotions sessionoptions
 iab sessoin session
 iab sessoun session
 iab setINterval setInterval
+iab setak steak
 iab setence sentence
 iab setences sentences
 iab setenncee sentence
@@ -24632,9 +24639,12 @@ iab stayu stay
 iab stchools schools
 iab stck stick
 iab stcuck stuck
+iab steack steak
 iab steaddied steadied
 iab steaff staff
 iab steaths deaths
+iab steawk steak
+iab steka steak
 iab stell steel
 iab stema steam
 iab stencen sentences
@@ -24664,6 +24674,7 @@ iab steteched stretched
 iab stetnences sentences
 iab stetram stream
 iab steup setup
+iab stewak steak
 iab steweardess stewardess
 iab steweradess stewardess
 iab stewp step
@@ -24920,6 +24931,7 @@ iab stuydy study
 iab stuyles styles
 iab stwart start
 iab stwitghc switch
+iab stwsak steak
 iab stya stay
 iab styandard standard
 iab stydiyng studying
@@ -29413,15 +29425,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab ALl All
-iab dieristrction distraction
-iab discratioction distraction
-iab energuy energy
-iab certal cereal
-iab anythiugn anything
-iab steack steak
-iab steka steak
-iab steawk steak
-iab stwsak steak
-iab stewak steak
-iab setak steak
