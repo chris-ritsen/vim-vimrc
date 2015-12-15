@@ -9645,6 +9645,7 @@ iab digets digest
 iab digiral digital
 iab digitzed digitized
 iab diir door
+iab dilea ideal
 iab dillemna dilemma
 iab dimaensions dimensions
 iab dimesion dimension
@@ -10704,6 +10705,7 @@ iab einitial initial
 iab eintire entire
 iab eintre entire
 iab eintrudction introduction
+iab einveiroment environment
 iab einvent invent
 iab einviorment environment
 iab einvirnoemnt environment
@@ -14206,6 +14208,7 @@ iab idaes ideas
 iab idaew idea
 iab idalea ideal
 iab ide3as ideas
+iab ideail ideal
 iab idealiest idealist
 iab ideantibifiers identifiers
 iab ideasl ideal
@@ -14303,6 +14306,8 @@ iab iits its
 iab ijehreti inherent
 iab ikeyboard keyboard
 iab ikleyu likely
+iab ildeail ideal
+iab ileal ideal
 iab ilimiied limited
 iab illgoically illogically
 iab illiad iliad
@@ -29426,3 +29431,4 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
+iab CHrihs Chris
