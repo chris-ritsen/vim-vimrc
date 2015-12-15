@@ -236,6 +236,7 @@ let g:syntastic_mode_map = {
   \ 'lisp',
   \ 'php',
   \ 'ruby',
+  \ 'typescript',
   \ 'xml'
   \ ],
   \ 'passive_filetypes': [] 
@@ -253,6 +254,19 @@ let g:syntastic_cs_checkers = [
   \ 'semantic',
   \ 'syntax'   
   \ ]
+
+" }}}
+
+" typescript checkers {{{
+
+let g:syntastic_typescript_tslint_exec = 'tslint'
+
+let g:syntastic_typescript_checkers = [
+  \ 'tslint'
+  \ ]
+
+  " \ 'eslint',
+  " \ 'tsc',
 
 " }}}
 
