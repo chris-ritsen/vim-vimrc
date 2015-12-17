@@ -6288,6 +6288,7 @@ iab buecaseu because
 iab buecause because
 iab bufafla buffalo
 iab bufalo buffalo
+iab buferr buffer
 iab buffallo buffalo
 iab buffelo buffalo
 iab buffesr buffers
@@ -7313,6 +7314,7 @@ iab combiations combinations
 iab combinationsa combination
 iab combinding combining
 iab combinie combine
+iab comchpact compact
 iab comcncepts concepts
 iab comconiments concomitants
 iab comcptuers computers
@@ -11172,6 +11174,7 @@ iab entrepreuners entrepreneurs
 iab entrered entered
 iab entriresd entries
 iab entriy entry
+iab entrues entries
 iab entumerated enumerated
 iab entusiiastic enthusiastic
 iab entyirey entirely
@@ -22842,6 +22845,7 @@ iab rquetsd request
 iab rquire require
 iab rquired required
 iab rquivalent equivalent
+iab rrequire require
 iab rrestlessness restlessness
 iab rresults results
 iab rreview review
@@ -24060,6 +24064,7 @@ iab slowewr slower
 iab slowlly slowly
 iab slpelling spelling
 iab slplit split
+iab slsepe sleep
 iab slwest slowest
 iab slwo slow
 iab slwoed slowed
@@ -29434,4 +29439,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab slsepe sleep
