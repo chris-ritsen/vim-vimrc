@@ -2297,6 +2297,7 @@ iab Satyrday Saturday
 iab Satyurdasy Saturday
 iab Satyurday Saturday
 iab Saybe Save
+iab Scarecrpw Scarecrow
 iab Scewince Sconce
 iab Schecueling Scheduling
 iab Schemda Schema
@@ -2553,6 +2554,7 @@ iab THos9t Those
 iab THose Those
 iab THougbh Though
 iab THough Though
+iab THought Thought
 iab THree Three
 iab THrew Threw
 iab THroughout Throughout
@@ -2817,6 +2819,7 @@ iab Undeverse Universe
 iab Unemploued Unemployed
 iab Unemployedm Unemployed
 iab Unfinisihed Unfinished
+iab Unfirrunautely Unfortunately
 iab Unformntuatley Unfortunately
 iab Unforntualtely Unfortunately
 iab Unfornuately Unfortunately
@@ -2895,6 +2898,7 @@ iab WAitign Waiting
 iab WAking Waking
 iab WAs Was
 iab WAsting Wasting
+iab WAtch Watch
 iab WAtched Watched
 iab WAtchign Watching
 iab WAtching Watching
@@ -3580,6 +3584,7 @@ iab acreoss across
 iab acrhicve archive
 iab acripted scripted
 iab acriticle article
+iab acritve active
 iab acrive active
 iab acrivities activities
 iab acrivity activity
@@ -5231,6 +5236,7 @@ iab attidute attitude
 iab attirubtes attributes
 iab attiwrubtes attributes
 iab attmeptign attempting
+iab attmepting attempting
 iab attmeptited attempted
 iab attmepts attempts
 iab attmtepmted attempted
@@ -5343,6 +5349,7 @@ iab automaticyll automatically
 iab automatiion automation
 iab automatoin automaton
 iab automonmously autonomously
+iab autonatically automatically
 iab autop auto
 iab autopmatically automatically
 iab autorization authorization
@@ -7292,6 +7299,7 @@ iab collor color
 iab collors colors
 iab collosal colossal
 iab collpases collapses
+iab collrors colors
 iab collumn column
 iab colocoking clocking
 iab coloe color
@@ -8960,6 +8968,7 @@ iab decrasing decreasing
 iab decreating decreasing
 iab decresae decrease
 iab decresase decrease
+iab decroration decoration
 iab decrsing decreasing
 iab decsterity dexterity
 iab decterity dexterity
@@ -9949,6 +9958,7 @@ iab distionxtion distinction
 iab distordted distorted
 iab distored distorted
 iab distoritions distortions
+iab distortiions distortions
 iab distortioins distortions
 iab distraacgtion distraction
 iab distraacted distracted
@@ -10206,6 +10216,7 @@ iab dreivers drivers
 iab dreives drives
 iab dresearch research
 iab drian drain
+iab driective directive
 iab driectly directly
 iab driere drier
 iab driferer drifter
@@ -12292,6 +12303,7 @@ iab eyawrs years
 iab eyboard keyboard
 iab eyears years
 iab eyees eyes
+iab eyelisds eyelids
 iab eyesterdsay yesterday
 iab eyews eyes
 iab eyhtrm system
@@ -12685,6 +12697,7 @@ iab flyusahes flushes
 iab fmaily family
 iab fmaimily family
 iab fmind mind
+iab fmorat format
 iab fnish finish
 iab fnished finished
 iab fnisinng finishing
@@ -12888,6 +12901,7 @@ iab frind friend
 iab frinds friends
 iab frined friend
 iab frinendship friendship
+iab frisday friday
 iab frist first
 iab frivoluslyu frivolously
 iab frlm from
@@ -15211,6 +15225,7 @@ iab insteall install
 iab insteance instance
 iab insteances instances
 iab insteawd instead
+iab insteawnces instances
 iab insted instead
 iab insteed instead
 iab instending intending
@@ -15739,6 +15754,7 @@ iab itext text
 iab ithe the
 iab ithis this
 iab ithout without
+iab itidy tidy
 iab itlised utilised
 iab itlsef itself
 iab itme time
@@ -16111,6 +16127,7 @@ iab kyebbard keyboard
 iab kyebiard keyboard
 iab kyeboard keyboard
 iab kyegboard keyboard
+iab l9g log
 iab lCome Come
 iab lIdeally Ideally
 iab lIfe Life
@@ -17971,6 +17988,7 @@ iab natute nature
 iab natyure nature
 iab nautrally naturally
 iab nauture nature
+iab navbiggation navigation
 iab navigaiton navigation
 iab navigiate navigate
 iab navigtion navigation
@@ -18356,6 +18374,7 @@ iab nutil until
 iab nutirition nutrition
 iab nutron neutron
 iab nver never
+iab nvigation navigation
 iab nwant want
 iab nwat want
 iab nwes news
@@ -18483,6 +18502,7 @@ iab obsolute obsolete
 iab obsotevatiosn observations
 iab obstevatsions observations
 iab obsucurations obscurations
+iab obsuerved observed
 iab obtaineed obtained
 iab obtaion obtain
 iab obttom bottom
@@ -18629,6 +18649,7 @@ iab ocpmay company
 iab ocpmotuer computer
 iab oculd could
 iab ocurring occurring
+iab oddds odds
 iab oddysy odyssey
 iab odecades decades
 iab odesn doesn
@@ -22200,6 +22221,7 @@ iab repsponse response
 iab repsssond respond
 iab reptillian reptilian
 iab reptition repetition
+iab reptorter reporter
 iab repurcussions repercussions
 iab reqason reason
 iab reqeuest request
@@ -22371,6 +22393,7 @@ iab resoponse response
 iab resorucde resource
 iab resoruce resource
 iab resosne response
+iab resotired restored
 iab resotre restore
 iab resotres restores
 iab resotrigin restoring
@@ -22538,6 +22561,7 @@ iab retrival retrieval
 iab retrive retrieve
 iab retrived retrieved
 iab retrrrrrrravbil retrieval
+iab retstrict restrict
 iab retuirn return
 iab retunr return
 iab retunred returned
@@ -22862,6 +22886,7 @@ iab rsulting resulting
 iab rsume resume
 iab rtaking taking
 iab rtasks tasks
+iab rtate rate
 iab rtecdtangle rectangle
 iab rtepressed repressed
 iab rtesting testing
@@ -25325,6 +25350,7 @@ iab sweawt sweat
 iab swelf self
 iab swent went
 iab swereverd swerved
+iab swerv3er server
 iab swerver server
 iab swetp swept
 iab swetup setup
@@ -26591,6 +26617,7 @@ iab tnow now
 iab tnowa now
 iab tnrascvtion transaction
 iab tnrasprente transparent
+iab toStirng toString
 iab toStting toString
 iab toadsy today
 iab toarewards towards
@@ -27569,6 +27596,7 @@ iab unelsss unless
 iab unemmployed unemployed
 iab unempleoyment unemployment
 iab unemplouyed unemployed
+iab unemploymebt unemployment
 iab unemplyed unemployed
 iab unempoloyedd unemployed
 iab unempoyable unemployable
@@ -28225,6 +28253,7 @@ iab vslaue value
 iab vulerable vulnerable
 iab vverything everything
 iab vvisible visible
+iab w2atch watch
 iab w2hole whole
 iab w2ill will
 iab waapon weapon
@@ -29442,23 +29471,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab frisday friday
-iab THought Thought
-iab resotired restored
-iab oddds odds
-iab unemploymebt unemployment
-iab Unfirrunautely Unfortunately
-iab w2atch watch
-iab swerv3er server
-iab itidy tidy
-iab fmorat format
-iab reptorter reporter
-iab l9g log
-iab WAtch Watch
-iab toStirng toString
-iab navbiggation navigation
-iab retstrict restrict
-iab nvigation navigation
-iab driective directive
-iab decroration decoration
-iab rtate rate
