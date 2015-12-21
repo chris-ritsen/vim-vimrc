@@ -12791,6 +12791,7 @@ iab forefvefr forever
 iab forefver forever
 iab foreget forget
 iab foregoin foregoing
+iab foregorund foreground
 iab foreigh foreign
 iab foreing foreign
 iab forevever forever
@@ -20688,6 +20689,7 @@ iab presaentaiont presentation
 iab prescece presence
 iab prescence presence
 iab prescene presence
+iab prescess process
 iab prescisley precisely
 iab presense presence
 iab presentaiton presentation
@@ -25443,6 +25445,7 @@ iab swithgc switch
 iab swithign switching
 iab switxh switch
 iab swlected selected
+iab swnesdations sensations
 iab swokring working
 iab swomething something
 iab swpellings spellings
