@@ -239,6 +239,7 @@ iab Conrrad Conrad
 iab Conscioiusness Consciousness
 iab Consequ3ence Consequence
 iab Considder Consider
+iab Consiidering Considering
 iab Conspicious Conspicuous
 iab Conssciousness Consciousness
 iab Constawnt Constant
@@ -1220,6 +1221,7 @@ iab KNowing Knowing
 iab KNowledge Knowledge
 iab KRoger Kroger
 iab Karne Karen
+iab Keepgin Keeping
 iab Keepp Keep
 iab Kenrle Kernel
 iab Kentuckly Kentucky
@@ -6729,6 +6731,7 @@ iab centern center
 iab centert center
 iab centrer center
 iab centry century
+iab ceoncept concept
 iab ceonsensus consensus
 iab cepressed depressed
 iab ceqaaaase cease
@@ -8591,6 +8594,7 @@ iab cosutwsmer custumer
 iab cotact contact
 iab cotinue continue
 iab cotnainer container
+iab cotnent content
 iab cotnents contents
 iab cotninu7e continue
 iab cotninue continue
@@ -10151,6 +10155,7 @@ iab ditehred dithered
 iab ditehring dithering
 iab diureation duration
 iab diusplay display
+iab diversge diverge
 iab divieded divided
 iab divisioins divisions
 iab dixtracted distracted
@@ -25199,6 +25204,7 @@ iab strneth strength
 iab strogfing storing
 iab stronbgly strongly
 iab strooll stroll
+iab strorngly strongly
 iab strrange strange
 iab strrategy strategy
 iab strt start
@@ -27893,6 +27899,7 @@ iab undserstand understand
 iab undsrrtstood understood
 iab undsteady unsteady
 iab undstodod understood
+iab undstrdood understood
 iab undstrood understood
 iab undsure unsure
 iab undtil until
@@ -28571,6 +28578,7 @@ iab vriting writing
 iab vrough rough
 iab vrsion version
 iab vsiabile visible
+iab vsisbile visible
 iab vslaue value
 iab vulerable vulnerable
 iab vverything everything
@@ -29415,6 +29423,7 @@ iab writigng writing
 iab writiign writing
 iab writiing writing
 iab writinga writing
+iab writingb writing
 iab writingh writing
 iab writingsw writings
 iab writinhg writing
