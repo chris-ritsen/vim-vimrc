@@ -344,6 +344,7 @@ iab Currenlty Currently
 iab Currlenly Currency
 iab Currnelty Currently
 iab Cuyrrently Currently
+iab Cvontinueously Continuously
 iab Cyrrently Currently
 iab DAnce Dance
 iab DAvison Davison
@@ -3494,6 +3495,7 @@ iab accumpulated accumulated
 iab accumstomed accustomed
 iab accumualted accumulated
 iab accumulateed accumulated
+iab accumulatoin accumulation
 iab accuraacy accuracy
 iab accuracey accuracy
 iab accuracltyely accurately
@@ -4176,6 +4178,7 @@ iab alternnative alternative
 iab alterted alerted
 iab altetrnative alternative
 iab altheltes athletes
+iab althog3ethehtrr altogether
 iab althogether altogether
 iab althoguh although
 iab althoguht although
@@ -4196,6 +4199,7 @@ iab alwasy always
 iab alwasys always
 iab alwayss always
 iab alwyas always
+iab alwyasm always
 iab alwys always
 iab amade made
 iab amaerica america
@@ -4707,6 +4711,7 @@ iab appeawr appear
 iab appeears appears
 iab appendicies appendices
 iab appeneded appended
+iab apperasr appear
 iab apperasrs appearers
 iab apperciation appreciation
 iab apphrehendedd apprehended
@@ -5405,6 +5410,7 @@ iab autpmamtic automatic
 iab autto auto
 iab auythhoring authoring
 iab auytomatically automatically
+iab auytomaticdgally automatically
 iab avaemguhilable available
 iab avaiable available
 iab avaialable available
@@ -8507,6 +8513,7 @@ iab corerct correct
 iab corerctly correctly
 iab corerctyion correction
 iab corerdcdt correct
+iab corerecdted corrected
 iab corerect correct
 iab corerected corrected
 iab coreret correct
@@ -12095,6 +12102,8 @@ iab exhiits exhibits
 iab exhivits exhibits
 iab exiccted exacted
 iab exiccted excited
+iab exicinting exciting
+iab exiciting exciting
 iab exicitng exciting
 iab exicstence existence
 iab exicting existing
@@ -24985,6 +24994,7 @@ iab stenencnes sentences
 iab stengrth strength
 iab stennces setences
 iab stennghthing strengthening
+iab stenntenc3e sentence
 iab stenrgnthing strengthening
 iab stenrnghting strengthening
 iab stentch stench
@@ -25617,6 +25627,7 @@ iab suypsrignlung surprisingly
 iab svae save
 iab svene scene
 iab svery very
+iab svfreen screen
 iab svhool school
 iab svhoool school
 iab svirpts scripts
@@ -27587,6 +27598,7 @@ iab typoses typos
 iab typoucally typically
 iab typping typing
 iab typpnign typing
+iab typre type
 iab typso typos
 iab typue type
 iab typuing typing
