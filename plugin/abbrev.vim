@@ -29532,3 +29532,11 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
+iab oeopele people
+iab Christpoher Christopher
+iab optuions options
+iab runxdetion function
+iab epxorsts exports
+iab shiort short
+iab absense absence
+iab yhjeard heard
