@@ -1330,6 +1330,7 @@ iab Londom London
 iab Looiking Looking
 iab Looko Look
 iab Loondon London
+iab Loooiking Looking
 iab Loook Look
 iab Luagh Laugh
 iab Lumnch Lunch
@@ -4363,6 +4364,7 @@ iab anciehetn ancient
 iab ancientn ancient
 iab anda and
 iab andd and
+iab andecdoes anecdotes
 iab andedotaly anecdotally
 iab andf and
 iab andfter after
@@ -4539,6 +4541,7 @@ iab anwyway anyway
 iab anwywehre anywhere
 iab anwywerhe anywhere
 iab anwywhere anywhere
+iab anxiois anxious
 iab anxoius anxious
 iab anxwerwed answered
 iab anyeone anyone
@@ -10695,6 +10698,7 @@ iab earch each
 iab eare are
 iab eariler earlier
 iab earilier earlier
+iab earilyer earlier
 iab earklpier earlier
 iab earleier earlier
 iab earlider earlier
@@ -15185,6 +15189,7 @@ iab increatsed increased
 iab increbily incredibly
 iab increcdible incredible
 iab incredibel incredible
+iab incrediblely incredibly
 iab incredibley incredibly
 iab incredibuly incredibly
 iab incredifbly incredibly
@@ -15540,6 +15545,7 @@ iab insigh insight
 iab insighjtful insightful
 iab insighjts insights
 iab insipired inspired
+iab insipiring inspiring
 iab insipriation inspiration
 iab insisde inside
 iab insistant insistent
@@ -15720,6 +15726,7 @@ iab intentiobn intention
 iab intentioneally intentionally
 iab intentity intensity
 iab intentnion intention
+iab interaccting interacting
 iab interace interface
 iab interacf5t interact
 iab interacfe interface
@@ -19120,6 +19127,7 @@ iab ocpmay company
 iab ocpmotuer computer
 iab oculd could
 iab ocurring occurring
+iab odccur occur
 iab oddds odds
 iab oddysy odyssey
 iab odecades decades
@@ -21100,6 +21108,7 @@ iab preiopsitions prepositions
 iab preiouvlulsy previously
 iab preiovusly previously
 iab preivoius previous
+iab preivooiuslyu previously
 iab preivoulsy previously
 iab preivously previously
 iab preivoys previous
@@ -21302,6 +21311,7 @@ iab probellsm problems
 iab probelm problem
 iab probelms problems
 iab probelsm problems
+iab probl3ems problems
 iab problaby probably
 iab proble problem
 iab problemes problems
@@ -24414,6 +24424,7 @@ iab sijmple simple
 iab sijmpluy simply
 iab sijngle single
 iab sikll skill
+iab silcene silence
 iab silebnt silent
 iab silennced silenced
 iab silentinly silently
