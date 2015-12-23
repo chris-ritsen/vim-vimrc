@@ -5073,6 +5073,7 @@ iab arringing arranging
 iab arrowo arrows
 iab arrray array
 iab arruratelu accurately
+iab arsie3e arise
 iab arsien arisen
 iab arsising arising
 iab artciel article
@@ -18525,6 +18526,7 @@ iab neever never
 iab nefer never
 iab nefw new
 iab negaitive negative
+iab negfative negative
 iab neghbors neighbors
 iab neghiboring neighboring
 iab neghibors neighbors
@@ -19059,6 +19061,7 @@ iab occure occur
 iab occured occurred
 iab occurences occurrences
 iab occuring occurring
+iab occurintgg occurring
 iab occurrance occurrence
 iab ocde code
 iab ocdes codes
@@ -21134,6 +21137,7 @@ iab preoposiotins prepositions
 iab preopositions prepositions
 iab preopsiosions prepositions
 iab preopsitions prepositions
+iab preovferable preferable
 iab preovide provide
 iab preovious previous
 iab preparationa preparation
@@ -24575,6 +24579,7 @@ iab sitimilating stimulating
 iab sitimulus stimulus
 iab sititing sitting
 iab sititng sitting
+iab sitiuation situation
 iab sitll still
 iab sitmulus stimulus
 iab sitruationn situation
@@ -25126,6 +25131,7 @@ iab sponic sonic
 iab spontainously spontaneously
 iab spontanenously spontaneously
 iab spontanous spontaneous
+iab spontanouselsly spontaneously
 iab spoooky spooky
 iab spoot spot
 iab spostroophe apostrophe
@@ -28270,6 +28276,7 @@ iab uneecsseary unnecessary
 iab uneffible ineffable
 iab unelss unless
 iab unelsss unless
+iab unelwecome unwelcome
 iab unemmployed unemployed
 iab unempleoyment unemployment
 iab unemplouyed unemployed
