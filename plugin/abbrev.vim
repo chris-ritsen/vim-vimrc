@@ -73,6 +73,7 @@ iab Aparerenlty Apparently
 iab Apparenlty Apparently
 iab Apparenly Apparently
 iab Architefture Architecture
+iab Arelgiht Alright
 iab Arlgiht Alright
 iab Arlight Alright
 iab Arttempt Attempt
@@ -2818,6 +2819,7 @@ iab Tusdesday Tuesday
 iab Twleeve Twelve
 iab Twnety Twenty
 iab Twoelve Twelve
+iab Twop Two
 iab Tyep Type
 iab Tyherefore Therefore
 iab Tyhis This
@@ -7150,6 +7152,7 @@ iab cllhotes clothes
 iab clmaps clamps
 iab clnsomle console
 iab clocl clock
+iab clodse close
 iab cloduay cloudy
 iab cloehts clothes
 iab cloen clone
@@ -9905,6 +9908,7 @@ iab disaply display
 iab disapointed disappointed
 iab disappoined disappointed
 iab disappoinuting disappointing
+iab disaprate disparate
 iab disassotiated disassociated
 iab disasssoisacting disassociating
 iab disastisfaciton dissatisfaction
@@ -12618,6 +12622,7 @@ iab feeel feel
 iab feeeling feeling
 iab feeels feels
 iab feeleing feeling
+iab feeles feels
 iab feelig feeling
 iab feelign feeling
 iab feeligns feelings
@@ -13864,6 +13869,7 @@ iab headrse headers
 iab headsing heading
 iab headspohes headphones
 iab headsset headset
+iab headt heat
 iab heaed head
 iab healhty healthy
 iab healwth health
@@ -14534,6 +14540,7 @@ iab iithis this
 iab iits its
 iab ijehreti inherent
 iab ikeyboard keyboard
+iab ikeyboiard keyboard
 iab ikleyu likely
 iab ildeail ideal
 iab ileal ideal
@@ -17302,6 +17309,7 @@ iab maxiumum maximum
 iab maxlenght maxlength
 iab mayn many
 iab maynbe maybe
+iab maytter matter
 iab mayu7 may
 iab mbash bash
 iab mbeeen been
@@ -18092,6 +18100,7 @@ iab multipkle multiple
 iab multople multiple
 iab multopple multiple
 iab multuple multiple
+iab mundunred hundred
 iab muoucs mucous
 iab musaic music
 iab musaicd music
@@ -20992,6 +21001,7 @@ iab prgoram program
 iab prgoramming programming
 iab prgramming programming
 iab prhases phrases
+iab prhrases phrases
 iab prhy pry
 iab priamte primate
 iab priblem problem
@@ -21106,6 +21116,7 @@ iab processsing processing
 iab proceudre procedure
 iab proceudure procedure
 iab procgress progress
+iab proch porch
 iab procide provide
 iab procjests projects
 iab procjt project
@@ -26178,6 +26189,7 @@ iab tema team
 iab temaplate template
 iab temas teams
 iab temeprautres temperatures
+iab temerpar5autre temperature
 iab temerparature temperature
 iab temntative tentative
 iab temokateYUrl templateUrl
@@ -26406,6 +26418,7 @@ iab tge the
 iab tgec the
 iab tgediously tediously
 iab tgeh the
+iab tgenerate generate
 iab tgerrible terrible
 iab tget get
 iab tgets gets
@@ -27670,6 +27683,7 @@ iab tyupe type
 iab tyupeing typing
 iab tyuping typing
 iab tyupoially typically
+iab tyupos typos
 iab tyuptwing typing
 iab tyuriuaolk tutorial
 iab tyurtyuralk tutorial
