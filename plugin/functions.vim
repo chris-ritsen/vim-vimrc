@@ -72,6 +72,7 @@ function! AddAbbrev()
       set nospell
     endif
 
+    echo ""
     return
   endif
 
@@ -123,6 +124,9 @@ function! AddAbbrev()
   if has_spell == 'false'
     set nospell
   endif
+
+  redraw
+  execute 'echo ""'
 
   " }}}
 
