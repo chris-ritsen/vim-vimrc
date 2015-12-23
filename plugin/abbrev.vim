@@ -11273,6 +11273,7 @@ iab enoguh enough
 iab enoguht enough
 iab enoguth enough
 iab enojoy enjoy
+iab enojoyabkle enjoyable
 iab enojoyed enjoyed
 iab enojoyuing enjoying
 iab enojy enjoy
@@ -22829,6 +22830,7 @@ iab resutlt result
 iab resutlts results
 iab resutysy61 request
 iab resuylts results
+iab retantion retention
 iab retecently recently
 iab reterieval retrieval
 iab reterive retrieve
@@ -24624,6 +24626,7 @@ iab sometone someone
 iab sometwhere somewhere
 iab somew some
 iab somewehre somewhere
+iab somewhaqt somewhat
 iab somewher somewhere
 iab somewherre somewhere
 iab somewhewre somewhere
@@ -26508,6 +26511,7 @@ iab theraew there
 iab theree there
 iab theref there
 iab therefpore therefore
+iab therefvorew therefore
 iab thereofer therefor
 iab thereofre therefore
 iab thereore therefore
@@ -28492,6 +28496,7 @@ iab vety very
 iab vevn even
 iab vewry very
 iab vfalse false
+iab vfreqwurienely frequently
 iab vhabanga bhavanga
 iab vhanged changed
 iab vhat what
@@ -29211,6 +29216,7 @@ iab withhin within
 iab withihn within
 iab withing within
 iab withinn within
+iab withnout without
 iab withoin within
 iab withoput without
 iab withot without
