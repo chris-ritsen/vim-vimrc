@@ -85,6 +85,7 @@ iab Attach3ed Attached
 iab Attenmptinug Attempting
 iab Attmepts Attempts
 iab Atuoamtically Automatically
+iab Aujtomated Automated
 iab Authenticatyions Authentications
 iab Automaatically Automatically
 iab Availablility Availability
@@ -245,6 +246,7 @@ iab Conspicious Conspicuous
 iab Conssciousness Consciousness
 iab Constawnt Constant
 iab Constgnzwnt Constant
+iab Constnalty Constantly
 iab Constnant Constant
 iab Constnat Constant
 iab Constnatn Constant
@@ -1117,6 +1119,7 @@ iab Indespensible Indispensable
 iab Indisitnct Indistinct
 iab Indivusuals Individuals
 iab Indlucling Indulging
+iab Inevieilatlby Inevitably
 iab Infomration Information
 iab Informationtal Informational
 iab Informatnion Information
@@ -3971,6 +3974,7 @@ iab ahappening happening
 iab ahardly hardly
 iab ahaty what
 iab ahave have
+iab ahbiguatuated habituated
 iab ahbitable habitable
 iab ahboorant abhorrent
 iab ahck hack
@@ -5557,6 +5561,7 @@ iab awould would
 iab awre are
 iab aws as
 iab awsaits awaits
+iab awsay away
 iab awseom awesome
 iab awsking awaking
 iab awward awkward
@@ -5901,6 +5906,7 @@ iab benath beneath
 iab bene been
 iab benefifical beneficial
 iab benefiicial beneficial
+iab benefiitcial beneficial
 iab benefitis benefits
 iab beneict benefit
 iab beneif benefit
@@ -6462,6 +6468,7 @@ iab bweterne between
 iab bwetewen between
 iab bwetween between
 iab bwloe below
+iab bwrowser browser
 iab bwteeen between
 iab bwteen between
 iab bwtewen between
@@ -13162,6 +13169,7 @@ iab fuffer buffer
 iab fufilling fulfilling
 iab fuflling fulfilling
 iab fufulling fulfilling
+iab fugireudf figured
 iab fuhirst first
 iab fuickler fucker
 iab fuile file
@@ -14587,6 +14595,7 @@ iab imformatoin information
 iab imgine imagine
 iab imipratnt important
 iab imisinterpreted misinterpreted
+iab imme3nsilely immensely
 iab immedaitely immediately
 iab immedaltely immediately
 iab immedaltyel immediately
@@ -15690,6 +15699,7 @@ iab intestested interested
 iab intestigntt interesting
 iab intesting interesting
 iab inteswting interesting
+iab intetgration integration
 iab intetion intention
 iab inteval interval
 iab intewresting interesting
@@ -20204,6 +20214,7 @@ iab picekr picker
 iab picelr picker
 iab picelxs pixels
 iab picke4r picker
+iab pickiung picking
 iab pickler picker
 iab picler picker
 iab pictuer picture
@@ -20634,6 +20645,7 @@ iab postsa posts
 iab postsp posts
 iab postst posts
 iab posuitin position
+iab posuition position
 iab posuitoin position
 iab posution position
 iab posutiosnas positions
@@ -20714,6 +20726,7 @@ iab praciticing practicing
 iab praciticiying practicing
 iab praciticlaly practically
 iab pracitieced practiced
+iab pracitiesdcs practices
 iab pracitiets practices
 iab pracitiex practice
 iab pracitilcalyly practically
@@ -21722,6 +21735,7 @@ iab qyuiclly quickly
 iab qyuicluy quickly
 iab qyut quit
 iab r3egardlless regardless
+iab r3euqrired required
 iab rETrvail Retrieval
 iab rScienctist Scientist
 iab rWahtever Whatever
@@ -24330,6 +24344,7 @@ iab sizty sixty
 iab sizx six
 iab sizxe size
 iab sizxse size
+iab sjimple simple
 iab sjobs jobs
 iab sjouild should
 iab sjsut just
@@ -26685,6 +26700,7 @@ iab thisl this
 iab thisng thing
 iab thisngs things
 iab thiss this
+iab thisw this
 iab thisws this
 iab thiungs things
 iab thius this
@@ -27654,6 +27670,7 @@ iab tyupe type
 iab tyupeing typing
 iab tyuping typing
 iab tyupoially typically
+iab tyuptwing typing
 iab tyuriuaolk tutorial
 iab tyurtyuralk tutorial
 iab tyuruirla tutorial
@@ -28111,6 +28128,7 @@ iab unsciousnous unconscious
 iab unsdersatnding understanding
 iab unsderstanding understanding
 iab unsderstantd understand
+iab unsderstood understood
 iab unsertaion uncertain
 iab unsettleing unsettling
 iab unsisable unusable
