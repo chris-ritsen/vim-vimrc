@@ -92,6 +92,7 @@ iab Aujtomated Automated
 iab Authenticatyions Authentications
 iab Automaatically Automatically
 iab Availablility Availability
+iab BGeiing Being
 iab BOot Boot
 iab BOugnd Bound
 iab BOviously Obviously
@@ -2426,6 +2427,7 @@ iab Sincelrey Sincerely
 iab Singng Singing
 iab Sinscerely Sincerely
 iab Sio So
+iab Sipmply Simply
 iab Sitill Still
 iab Sitll Still
 iab Sjhazam Shazam
@@ -2631,6 +2633,7 @@ iab TOols Tools
 iab TOook Took
 iab TRACRE TRACE
 iab TRAiler Trailer
+iab TRHe The
 iab TRODO TODO
 iab TRhe The
 iab TRhinkg Thinking
@@ -2725,6 +2728,7 @@ iab Thatw That
 iab Thbasnk Thanks
 iab Thbsi This
 iab Theer There
+iab Theere There
 iab Thegse These
 iab Thehy They
 iab Theis This
@@ -2962,6 +2966,7 @@ iab WAht What
 iab WAitign Waiting
 iab WAking Waking
 iab WAs Was
+iab WAsted Wasted
 iab WAsting Wasting
 iab WAtch Watch
 iab WAtched Watched
@@ -3152,6 +3157,7 @@ iab YEsd Yes
 iab YEsterday Yesterday
 iab YOu You
 iab YTHe The
+iab YTHere There
 iab YThe The
 iab YTou You
 iab YUou You
@@ -3775,6 +3781,7 @@ iab adatped adapted
 iab adavnatage advantage
 iab adblsutle absolute
 iab adccomplished accomplished
+iab adctions actions
 iab adctivity activity
 iab adctually actually
 iab adddress address
@@ -6125,6 +6132,7 @@ iab biody body
 iab bioelectornics bioelectronics
 iab biolerplate boilerplate
 iab bioligy biology
+iab biolocigical biological
 iab biorder border
 iab birdds birds
 iab bireef brief
@@ -6407,6 +6415,7 @@ iab browswers browsers
 iab browwser browser
 iab brrain brain
 iab brudh brush
+iab brunging burning
 iab brushd brush
 iab brushewd brushed
 iab brusing brushing
@@ -6796,6 +6805,7 @@ iab cdurrenlty currently
 iab cealn clean
 iab cealry clearly
 iab ceasesw ceases
+iab ceasiing ceasing
 iab ceassemelssly ceaselessly
 iab ceelestial celestial
 iab ceepeneidng depending
@@ -6810,6 +6820,7 @@ iab celar clear
 iab celarly clearly
 iab celbratiging celebrating
 iab celean clean
+iab celear clear
 iab celebaration celebration
 iab celebrade celebrate
 iab celels cells
@@ -12283,6 +12294,7 @@ iab existning existing
 iab existsance existence
 iab existted existed
 iab existws exists
+iab exitehnushed extinguished
 iab exitixscence existence
 iab exitsitng existing
 iab exitst exist
@@ -12695,6 +12707,7 @@ iab fancifuyl fanciful
 iab fards cards
 iab farenheight fahrenheit
 iab farily fairly
+iab farvorable favorable
 iab fascillitate facilitate
 iab fasghionsed fashioned
 iab fashiion fashion
@@ -13814,6 +13827,7 @@ iab hafter after
 iab hagain again
 iab hahpaszrd haphazard
 iab hahpenening happening
+iab hahpepen happen
 iab hahpepening happening
 iab haibts habits
 iab haing having
@@ -14124,6 +14138,7 @@ iab hgave have
 iab hgeader header
 iab hgih high
 iab hgiher higher
+iab hgihfer higher
 iab hgot got
 iab hgue huge
 iab hhave have
@@ -15144,6 +15159,7 @@ iab inconsistiences inconsistencies
 iab inconsitinacnes inconsistencies
 iab inconstiinsatancicews inconsistencies
 iab inconstiniaces inconsistencies
+iab inconwquenetial inconsequential
 iab incoomprewsibilitiy incomprehensibility
 iab incoorcedly incorrectly
 iab incopmatible incompatible
@@ -15514,6 +15530,7 @@ iab inptu input
 iab inpuyt input
 iab inpyt input
 iab inrested interested
+iab inretested interested
 iab inrfomration information
 iab inrldgbluy incredibly
 iab inrreqnuelty infrequently
@@ -15907,6 +15924,7 @@ iab intociaxated intoxicated
 iab intoelrable intolerable
 iab intolderable intolerable
 iab intom into
+iab intoolrleable intolerable
 iab intop into
 iab intor intro
 iab intoy into
@@ -16319,6 +16337,7 @@ iab jsutw just
 iab jto jot
 iab jtryin trying
 iab juast just
+iab judgeklments judgements
 iab judgement judgment
 iab judgemnet judgment
 iab judst just
@@ -16337,6 +16356,7 @@ iab jusdging judging
 iab jusdt just
 iab jusdtify justify
 iab jusgement judgment
+iab jusgggnements judgements
 iab jusgment judgment
 iab jusit just
 iab jusitfy justify
@@ -16756,6 +16776,7 @@ iab leavint leaving
 iab leavintg leaving
 iab leavs leaves
 iab leawd lead
+iab leawding leading
 iab leawn lean
 iab leawnring learning
 iab leawrn learn
@@ -18786,6 +18807,7 @@ iab notifiy notify
 iab notifyin notifying
 iab notiiced noticed
 iab notingt noting
+iab notr not
 iab notrigens nitrogens
 iab notrogen nitrogen
 iab notse notes
@@ -19130,6 +19152,7 @@ iab ocpmay company
 iab ocpmotuer computer
 iab oculd could
 iab ocurring occurring
+iab ocurse course
 iab odccur occur
 iab oddds odds
 iab oddysy odyssey
@@ -20710,6 +20733,7 @@ iab pokemon pokémon
 iab pokgin poking
 iab polalr polar
 iab polaoce place
+iab polayer player
 iab polcies polices
 iab policeis policies
 iab policyes policies
@@ -20784,6 +20808,7 @@ iab posisbile possible
 iab posisbilllllltiy possibility
 iab posisble possible
 iab posisblity possibility
+iab posisbliy possibly
 iab posisblwey possibly
 iab posisbly possibly
 iab posisgble possible
@@ -24693,6 +24718,7 @@ iab sloly slowly
 iab sloopes slopes
 iab sloppuly sloppily
 iab slotutionl solution
+iab slowe slow
 iab sloweed slowed
 iab slowewr slower
 iab slowlly slowly
@@ -25715,6 +25741,7 @@ iab sufferinug suffering
 iab sufferiung suffering
 iab sufferneging suffering
 iab sufferneting suffering
+iab sufferning suffering
 iab sufferred suffered
 iab suffewring suffering
 iab sufffering suffering
@@ -27515,6 +27542,7 @@ iab trakcpad trackpad
 iab trakcpdad trackpad
 iab trakcrign tracking
 iab trakdcpad trackpad
+iab trake take
 iab trakpad trackpad
 iab trakzxcdpad trackpad
 iab tralveling traveling
@@ -28236,6 +28264,7 @@ iab undetrstainding understanding
 iab undetrstand understand
 iab undew6sytnadinga understanding
 iab undewelcomoe unwelcome
+iab undewrstnad understand
 iab undienfied undefined
 iab undispilined undisciplined
 iab undiverse universe
@@ -28491,6 +28520,7 @@ iab uplaoded uploaded
 iab uploawded uploaded
 iab upoin upon
 iab uproductive productive
+iab upsopet upset
 iab upstteram upstream
 iab upt up
 iab upublished published
@@ -28954,6 +28984,7 @@ iab vslaue value
 iab vulerable vulnerable
 iab vverything everything
 iab vvisible visible
+iab vyer very
 iab w2atch watch
 iab w2hole whole
 iab w2ill will
