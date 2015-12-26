@@ -30344,3 +30344,26 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
+iab ARogilight Alright
+iab Crhistmas Christmas
+iab Tyiping Typing
+iab desconstructs deconstructs
+iab leatley lately
+iab differneceds differences
+iab keybaord keyboard
+iab prurpuse purpose
+iab conceptioaaaul conceptional
+iab udnerstnading understanding
+iab skeptiscism skepticism
+iab exetreme extreme
+iab stimmuli stimuli
+iab entnatlged entangled
+iab preidictable predictable
+iab lieklewise likewise
+iab technicques techniques
+iab parciticing practicing
+iab atmeptt attempt
+iab predicatlabe predictable
+iab desiraible desirable
+iab describtiopiouns descriptions
+iab areticles articles
