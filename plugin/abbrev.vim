@@ -3503,6 +3503,7 @@ iab accomplisuhed accomplished
 iab accompliush accomplish
 iab accomploished accomplished
 iab accomplonyies accompanies
+iab accomplosihing accomplishing
 iab accomplshing accomplishing
 iab accomplsiehd accomplished
 iab accomplsih accomplish
@@ -6014,6 +6015,7 @@ iab beinh being
 iab beiung being
 iab beiunh being
 iab beleieve believe
+iab beleifs beliefs
 iab beleivbe believe
 iab beleive believe
 iab beleivers believers
@@ -7993,6 +7995,7 @@ iab concomiatants concomitants
 iab concous conscious
 iab concousness consciousness
 iab concpet concept
+iab concpicious conspicuous
 iab concren concern
 iab concrerend concerned
 iab concsciousness consciousness
@@ -8118,6 +8121,7 @@ iab confliscted conflicted
 iab confn9igure configure
 iab confrerence conference
 iab confrernece conference
+iab confrotinted confronted
 iab confrtonting confronting
 iab conftact contact
 iab confufinsg confusing
@@ -8128,6 +8132,7 @@ iab confvince convince
 iab congifutraiton configuration
 iab congiguration configuration
 iab congitive cognitive
+iab congitivie cognitive
 iab congnitive cognitive
 iab congtract contract
 iab conifguration configuration
@@ -8937,6 +8942,7 @@ iab critifcisms criticisms
 iab critisism criticism
 iab criumbling crumbling
 iab cromr from
+iab croorrctely correctly
 iab crossign crossing
 iab crpyyut crypt
 iab crrections corrections
@@ -9260,6 +9266,7 @@ iab decleopment development
 iab decliend declined
 iab decnt decent
 iab decomishon decommission
+iab deconstrucdt deconstruct
 iab deconstrucdts deconstructs
 iab decoupoled decoupled
 iab decoyupled decoupled
@@ -10987,6 +10994,7 @@ iab effecdtiev effective
 iab effecdtive effective
 iab effecdts effects
 iab effecets effects
+iab effecptively effectively
 iab effecsdtes effects
 iab effectibel effectively
 iab effectily effectively
@@ -11023,6 +11031,7 @@ iab effiencey efficiency
 iab effiicent efficient
 iab effiicentcy efficiently
 iab effiientxcy efficiently
+iab effodivievely effectively
 iab effoect effect
 iab effor effort
 iab efforet effort
@@ -13502,6 +13511,7 @@ iab fundamanetnal fundamental
 iab fundamentatlly fundamentally
 iab fundamentqal fundamental
 iab fundamiantel fundamental
+iab fundamilentlaly fundamentally
 iab fundamlental fundamental
 iab fundammetnal fundamental
 iab fundamnenbtally fundamentally
@@ -14554,6 +14564,7 @@ iab htew thew
 iab htey they
 iab hteyse these
 iab htge the
+iab hthese these
 iab hthis this
 iab hthsi this
 iab htigsn things
@@ -18761,6 +18772,7 @@ iab netwrok network
 iab netxt next
 iab neuither neither
 iab neurla neural
+iab neuruotic neurotic
 iab neutrl neutral
 iab neutrophic neurotrophic
 iab neve never
@@ -19553,6 +19565,7 @@ iab opetrarating operating
 iab opewr opener
 iab opf of
 iab opical optical
+iab opinionios opinions
 iab opinoin opinion
 iab opinoion opinion
 iab opmleted completed
@@ -19716,6 +19729,7 @@ iab origanized organized
 iab oright right
 iab origianl original
 iab origianlly originally
+iab origianly originally
 iab origianted originated
 iab originl original
 iab origiunal original
@@ -20119,6 +20133,7 @@ iab parst parts
 iab partW part
 iab partaxs parts
 iab partehtic pathetic
+iab partersns pasterns
 iab partiallyu partially
 iab partialyyyy partially
 iab particals particles
@@ -20348,6 +20363,7 @@ iab percetupal perceptual
 iab perceviable perceivable
 iab perciebable perceivable
 iab percieieved perceived
+iab percieived perceived
 iab percieve perceive
 iab percieved perceived
 iab percise precise
@@ -20695,6 +20711,7 @@ iab plahying playing
 iab plaibnu plain
 iab plaing playing
 iab plalnning planning
+iab planeted planted
 iab plannign planning
 iab plaqy play
 iab plastesd placed
@@ -21253,6 +21270,7 @@ iab preceieve perceive
 iab precendidgn preceding
 iab precendign preceding
 iab precense presence
+iab precesense presence
 iab precesss precess
 iab preciceley precisely
 iab precicely precisely
@@ -26273,6 +26291,7 @@ iab symboloic symbolic
 iab symbosl symbols
 iab symlnks symlinks
 iab symnbols symbols
+iab symobol symbol
 iab symoposiym symposium
 iab symoptons symptoms
 iab symtomatic symptomatic
@@ -27023,6 +27042,7 @@ iab themral thermal
 iab thems them
 iab themse3vles themselves
 iab themseleves themselves
+iab themsellves themselves
 iab themselvels themselves
 iab themselvles themselves
 iab themselvses themselves
@@ -27148,6 +27168,7 @@ iab thiis this
 iab thiking thinking
 iab thikn think
 iab thiknig thinking
+iab thikning thinking
 iab thiknkign thinking
 iab thiknking thinking
 iab thimet time
@@ -27196,6 +27217,7 @@ iab thinm think
 iab thinmking thinking
 iab thios this
 iab thiose those
+iab thiougths thoughts
 iab thirdtheen thirteen
 iab thirdty thirty
 iab thirdy thirty
@@ -28680,6 +28702,7 @@ iab unsderstood understood
 iab unsertaion uncertain
 iab unsettleing unsettling
 iab unshakelable unshakeable
+iab unsikillful unskillful
 iab unsisable unusable
 iab unsivrersal universal
 iab unskillfull unskillful
@@ -30139,6 +30162,7 @@ iab wtatweferfallls waterfalls
 iab wtching watching
 iab wthat that
 iab wthehr whether
+iab wtherh whether
 iab wtherther whether
 iab wtih with
 iab wtiting writing
