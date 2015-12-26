@@ -75,6 +75,7 @@ iab Apaprewntly Apparently
 iab Aparerenlty Apparently
 iab Apparenlty Apparently
 iab Apparenly Apparently
+iab Apprecited Appreciated
 iab Architefture Architecture
 iab Arelgiht Alright
 iab Arlgiht Alright
@@ -535,6 +536,7 @@ iab EVent Event
 iab EVentEmitter EventEmitter
 iab EVentualluy Eventually
 iab EVentually Eventually
+iab EVentyally Eventually
 iab EVentyually Eventually
 iab EVer Ever
 iab EVery Every
@@ -1997,6 +1999,7 @@ iab REange Range
 iab REareuimernts Requirements
 iab REcall Recall
 iab REcently Recently
+iab REcieived Received
 iab REcieved Received
 iab REcipient Recipient
 iab REcipoieuint Recipient
@@ -3684,6 +3687,7 @@ iab acoutn account
 iab acpcpetlable acceptable
 iab acqauinted acquainted
 iab acquiare acquire
+iab acquireid acquired
 iab acreate create
 iab acreoss across
 iab acrhicve archive
@@ -4539,6 +4543,7 @@ iab antyign anything
 iab antyign untying
 iab antyihgin anything
 iab antyihgn anything
+iab antyihign anything
 iab antying anything
 iab antyingin anything
 iab antyingn anything
@@ -4998,6 +5003,7 @@ iab aqnd and
 iab aqt at
 iab aqualities qualities
 iab aquianted acquainted
+iab aquickered acquired
 iab aquicre acquire
 iab aquire acquire
 iab aquired acquired
@@ -9529,6 +9535,7 @@ iab desiraible desirable
 iab desiralbet desirable
 iab desireable desirable
 iab desireing desiring
+iab desiriable desirable
 iab desirigting desiring
 iab desirners designers
 iab desitation destination
@@ -9843,6 +9850,7 @@ iab dieseses diereses
 iab diesitrcting distracting
 iab diesng design
 iab diesribable desirable
+iab diesriibalbe desirable
 iab diestracted distracted
 iab diferenece difference
 iab diferent different
@@ -16184,6 +16192,7 @@ iab isinsntance isinstance
 iab isinstnace isinstance
 iab isintarcis instances
 iab isioliated isolated
+iab isiple simple
 iab isisintancde isinstance
 iab isisintance isinstance
 iab isisintane isinstance
@@ -21783,6 +21792,7 @@ iab pruahcasdec purchased
 iab pruahced purchased
 iab prucahigns purchasing
 iab prucahse purchase
+iab pruchahse purchase
 iab pruchased purchased
 iab pruint print
 iab prumed pruned
@@ -25907,6 +25917,7 @@ iab suome some
 iab suomething something
 iab suomewhere somewhere
 iab suooit suit
+iab suoup soup
 iab supderficially superficially
 iab supeerstituois superstitious
 iab superalitve superlative
@@ -30184,6 +30195,7 @@ iab yelk0ping yelping
 iab yeras years
 iab yerouslef yourself
 iab yers years
+iab yersrday yesterday
 iab yersteaday yesterday
 iab yert yet
 iab yesaterday yesterday
