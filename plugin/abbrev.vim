@@ -915,6 +915,7 @@ iab Havigng Having
 iab Hawaiii Hawaii
 iab Haxmat Hazmat
 iab Heaavne Heaven
+iab Hearignn Hearing
 iab Heavenely Heavenly
 iab Heavnely Heavenly
 iab Heer Here
@@ -1459,6 +1460,7 @@ iab Mjaesty Majesty
 iab Mkae Make
 iab Mkreting Marketing
 iab Mmaybe Maybe
+iab Mnay Many
 iab Moderb Modern
 iab Modlue Module
 iab Modluel Module
@@ -2256,6 +2258,7 @@ iab SERbice Service
 iab SEVeral Several
 iab SEarchign Searching
 iab SEchema Schema
+iab SEeing Seeing
 iab SEfveraal Several
 iab SEfveral Several
 iab SElecft Select
@@ -2431,6 +2434,7 @@ iab Sigmundsoson Sigmundsson
 iab Signes Signs
 iab Signle Single
 iab Silveer Silver
+iab Simiilar Similar
 iab Simiilaryly Similarly
 iab Simmilar Similar
 iab Simpel Simple
@@ -2669,6 +2673,7 @@ iab Talluying Tallying
 iab Targetting Targeting
 iab Tarrif Tariff
 iab Tarriff Tariff
+iab Tasitiing Tasting
 iab Tbahnsks Thanks
 iab Tbanks Thanks
 iab Tben Then
@@ -2831,6 +2836,7 @@ iab Tnasknks Thanks
 iab Tnasnks Thanks
 iab Tnbahkns Thanks
 iab Tobasco Tabasco
+iab Tocuhging Touching
 iab Todau Today
 iab Tongitht Tonight
 iab Tood Too
@@ -4262,6 +4268,7 @@ iab alruigfhrt alright
 iab alseep asleep
 iab alsleep asleep
 iab alsways always
+iab altelrantiing alternating
 iab altenrating alternating
 iab alterantive alternative
 iab alternaating alternating
@@ -5385,6 +5392,7 @@ iab attemps attempt
 iab attempteing attempting
 iab attemptes attempts
 iab attemptign attempting
+iab attemptnion attention
 iab attemptto attempt
 iab attempttting attempting
 iab attemptuing attempting
@@ -6414,6 +6422,7 @@ iab brighness brightness
 iab brihgt bright
 iab briidge bridge
 iab brin bran
+iab brindgs brings
 iab bringin bringing
 iab brinigin bringing
 iab brinigng bringing
@@ -8598,6 +8607,7 @@ iab cooffee coffee
 iab cookeies cookies
 iab cookeis cookies
 iab cookines cookies
+iab coolor color
 iab coommentsa comments
 iab coommon common
 iab coompooents components
@@ -8647,6 +8657,7 @@ iab copmmlex complex
 iab copmound compound
 iab copmpleeintg completing
 iab copmptouer computer
+iab copmputer computer
 iab copmputers computers
 iab copmroomonsed compromised
 iab copmterur computer
@@ -9781,6 +9792,7 @@ iab dfefined defined
 iab dfevleoped developed
 iab dfid did
 iab dfidszxtnsweace distance
+iab dfiiferent different
 iab dfinding finding
 iab dfireceive directive
 iab dfirst first
@@ -9966,6 +9978,7 @@ iab dififuclt difficult
 iab dififuclty difficulty
 iab dififutl difficult
 iab difrerenty different
+iab difrernece difference
 iab difrrent different
 iab difrrente different
 iab diget digest
@@ -10248,6 +10261,7 @@ iab dissiuade dissuade
 iab dissonence dissonance
 iab disspated dissipated
 iab disspiaytesd dissipated
+iab disspiiapted dissipated
 iab disstractions distractions
 iab distaccted distracted
 iab distacdtion distraction
@@ -10268,6 +10282,7 @@ iab distarscetd distasted
 iab distaster disaster
 iab distcount discount
 iab distfaction distraction
+iab distiance distance
 iab distiant distant
 iab disticntion distinction
 iab distincldty distinctly
@@ -10819,6 +10834,7 @@ iab eassily easily
 iab eastate estate
 iab easten eaten
 iab eastiest easiest
+iab easuiest easiest
 iab easuly easily
 iab easyh easy
 iab easyt easy
@@ -10863,6 +10879,7 @@ iab ecercise exercise
 iab ecercises exercises
 iab eceryrhting everything
 iab ecet except
+iab eching echoing
 iab echjo echo
 iab ecistence existence
 iab ecistewd existed
@@ -13127,6 +13144,7 @@ iab focer force
 iab focued focused
 iab focuesed focused
 iab focusisingg focusing
+iab focusued focused
 iab focuus focus
 iab focux focus
 iab focuys focus
@@ -13619,6 +13637,7 @@ iab geneeric generic
 iab geneitals genitals
 iab geneitics genetics
 iab genenrated generated
+iab generatted generated
 iab generiopus generous
 iab generious generous
 iab generlally generally
@@ -13646,6 +13665,7 @@ iab geomertry geometry
 iab geomerty geometry
 iab georgaphy geography
 iab gerat great
+iab gereat great
 iab gerneral general
 iab getBoundingClientREct getBoundingClientRect
 iab getShipmetn getShipment
@@ -15017,6 +15037,7 @@ iab importancde importance
 iab importande importance
 iab importane importance
 iab importanfe importance
+iab importannce importance
 iab importannces importances
 iab importanrt important
 iab importanrtn important
@@ -15145,6 +15166,7 @@ iab imrpppotant important
 iab imrproant important
 iab imrptarnt important
 iab imrptartn important
+iab imrptoannce importance
 iab imrptoanrt important
 iab imrptoarnt important
 iab imrptoartn important
@@ -15592,6 +15614,7 @@ iab inmporatnat important
 iab inmportant important
 iab inmprotant important
 iab inn3er inner
+iab innacruate inaccurate
 iab innacurate inaccurate
 iab innefective ineffective
 iab inneffective ineffective
@@ -16637,6 +16660,7 @@ iab knwoeldge knowledge
 iab knwoelge knowledge
 iab knwoing knowing
 iab knwoledge knowledge
+iab knwon known
 iab knwos knows
 iab knwow know
 iab kob job
@@ -16912,6 +16936,7 @@ iab legandardy legendary
 iab leggs legs
 iab legibilty legibility
 iab legiible legible
+iab legitible legible
 iab legt left
 iab legth length
 iab lehatlh health
@@ -19198,6 +19223,7 @@ iab ocdes codes
 iab ocer over
 iab ocffee coffee
 iab oclor color
+iab oclors colors
 iab ocmaptiable compatible
 iab ocme come
 iab ocmeb come
@@ -20337,6 +20363,7 @@ iab perferably preferably
 iab perfextly perfectly
 iab perffece perfect
 iab perfformed performed
+iab perfieiiacable perceivable
 iab perfleclty perfectly
 iab perfoect perfect
 iab perfoectly perfectly
@@ -21029,6 +21056,8 @@ iab posuition position
 iab posuitoin position
 iab posution position
 iab posutiosnas positions
+iab posutire posture
+iab posuture posture
 iab posuzzzles puzzles
 iab poswts posts
 iab potatoe potatoe
@@ -23612,6 +23641,7 @@ iab rsponse response
 iab rsuaeme resume
 iab rsuem resume
 iab rsulting resulting
+iab rsults results
 iab rsume resume
 iab rtaking taking
 iab rtasks tasks
@@ -27939,6 +27969,7 @@ iab tuped typed
 iab ture true
 iab turend turned
 iab turened turned
+iab turinign turning
 iab turioal tutorial
 iab turioral tutorial
 iab turiorual tutorial
@@ -28689,6 +28720,7 @@ iab uputting putting
 iab uqbitouquts ubiquitous
 iab uqseless useless
 iab uqubiotuoqus ubiquitous
+iab uquliaty quality
 iab uquobutuqots ubiquitous
 iab uqwtions unctions
 iab urantium uranium
@@ -29248,6 +29280,7 @@ iab watever water
 iab watewr water
 iab watewrefalsls waterfalls
 iab wathc watch
+iab wathcgign watching
 iab wathch watch
 iab wathching watching
 iab wathcidng watching
