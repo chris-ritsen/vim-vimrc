@@ -78,6 +78,7 @@ iab Aparerenlty Apparently
 iab Apparenlty Apparently
 iab Apparenly Apparently
 iab Apprecited Appreciated
+iab Aprepntly Apparently
 iab Architefture Architecture
 iab Arelgiht Alright
 iab Arlgiht Alright
@@ -2266,6 +2267,7 @@ iab SDeeing Seeing
 iab SDervice Service
 iab SDkylake Skylake
 iab SDometihbhinmg Something
+iab SEONSOR SENSOR
 iab SERIQL SERIAL
 iab SERbice Service
 iab SEVeral Several
@@ -4876,6 +4878,7 @@ iab applcidation application
 iab applcidtioan application
 iab applcifaion application
 iab applcitopain application
+iab applciuation application
 iab applciuatyion application
 iab applctionas applications
 iab appleaing appealing
@@ -5042,6 +5045,7 @@ iab aquickered acquired
 iab aquicre acquire
 iab aquire acquire
 iab aquired acquired
+iab aquireing acquiring
 iab aquisition acquisition
 iab arabicv arabic
 iab arae area
@@ -13945,6 +13949,7 @@ iab guiklty guilty
 iab guit git
 iab gungking gunking
 iab gup up
+iab guphlp gulp
 iab gurchased purchased
 iab guuess guess
 iab guyard guard
@@ -17514,6 +17519,7 @@ iab mahny many
 iab mahu many
 iab mahy may
 iab maikes makes
+iab mailtio mailto
 iab mainaers maintainers
 iab mainfarmesa mainframes
 iab mainhood manhood
@@ -22647,6 +22653,7 @@ iab reejct3ed rejected
 iab reeleases releases
 iab reeliable reliable
 iab reembele resemble
+iab reequire require
 iab reerrign referring
 iab reerring referring
 iab reest rest
@@ -25466,6 +25473,7 @@ iab sppon spoon
 iab sppooky spooky
 iab sppoon spoon
 iab spreadhseet spreadsheet
+iab spritual spiritual
 iab sprnag sprang
 iab spsce space
 iab sptop stop
