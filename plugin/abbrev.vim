@@ -30580,3 +30580,9 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
+iab STand Stand
+iab laszy lazy
+iab wtritingh writing
+iab optoin option
+iab everyhone everyone
+iab mkaking making
