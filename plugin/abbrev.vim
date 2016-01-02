@@ -108,6 +108,7 @@ iab BUIld Build
 iab BUggy Buggy
 iab BUt But
 iab Badk Back
+iab Balck Black
 iab Bartely Barely
 iab Beacuse Because
 iab Becuaswe Because
@@ -771,6 +772,7 @@ iab Fbonacci Fibonacci
 iab Fdinding Finding
 iab Fearuew Feature
 iab Featurey Feature
+iab Februawtry February
 iab Feelign Feeling
 iab Feeliing Feeling
 iab Fefundation Fecundation
@@ -965,6 +967,7 @@ iab Howevfer However
 iab Howlett Hewlett
 iab Howve3r4 However
 iab Howveer However
+iab Howveferr However
 iab Howver However
 iab Howver2 However
 iab Howvere However
@@ -2335,6 +2338,7 @@ iab STArting Starting
 iab STPO STOP
 iab STackable Stackable
 iab STagnetn Stagnant
+iab STand Stand
 iab STandard Standard
 iab STaring Staring
 iab STart Start
@@ -3164,6 +3168,7 @@ iab Wiht Whit
 iab Willpoewr Willpower
 iab Willuingness Willingness
 iab Winodws Windows
+iab Wiorked Worked
 iab Wiriting Writing
 iab Wiritng Writing
 iab Wiritnighn Writing
@@ -6070,6 +6075,7 @@ iab beneict benefit
 iab beneif benefit
 iab beneifidicdl beneficial
 iab beneifit benefit
+iab beneifits benefits
 iab beneift benefit
 iab beneiftis benefits
 iab beneifts benefits
@@ -6230,6 +6236,7 @@ iab birtdhday birthday
 iab bisiblle visible
 iab bision vision
 iab bisiting visiting
+iab bithces bitches
 iab biuld build
 iab biuldings buildings
 iab biuldpack buildpack
@@ -7542,6 +7549,7 @@ iab colaborate collaborate
 iab coldors colors
 iab colecrivley collectively
 iab colege college
+iab colelct collect
 iab colelcted collected
 iab colelctions collections
 iab colior color
@@ -8308,6 +8316,8 @@ iab consisitant consistent
 iab consisitantly consistently
 iab consisitnetly consistently
 iab consisnitenly consistently
+iab consisntently consistently
+iab consisntiately consistently
 iab consissts consists
 iab consistancy consistency
 iab consistant consistent
@@ -8967,6 +8977,7 @@ iab crelax relax
 iab crenceltny recently
 iab cresatewd created
 iab cressent crescent
+iab cretainty certainty
 iab cretating creating
 iab creteated created
 iab cretstsa creates
@@ -9775,6 +9786,7 @@ iab devleioped developed
 iab devleioprs developers
 iab devlekopment development
 iab devlelpers developers
+iab devleoeprs developers
 iab devleoiper developer
 iab devleoipmente development
 iab devleop develop
@@ -9794,6 +9806,7 @@ iab devleopmer developer
 iab devleopmetn development
 iab devleopnmet development
 iab devleopoed developed
+iab devleoprs developers
 iab devleping developing
 iab devlepinig developing
 iab devlepo develop
@@ -10037,6 +10050,7 @@ iab dififuclt difficult
 iab dififuclty difficulty
 iab dififucult difficult
 iab dififutl difficult
+iab difiulctl difficult
 iab difrerenty different
 iab difrernece difference
 iab difrrent different
@@ -12120,6 +12134,7 @@ iab every8thing everything
 iab everyghing everything
 iab everyhint everything
 iab everyhitbng everything
+iab everyhone everyone
 iab everyhting everything
 iab everyhtinga everything
 iab everyihtign everything
@@ -13144,6 +13159,7 @@ iab firset first
 iab firt fit
 iab firtuerh further
 iab firtuyehr further
+iab firwt first
 iab firzst first
 iab fishort short
 iab fisniehd finished
@@ -13606,6 +13622,7 @@ iab furnture furniture
 iab furrhter further
 iab furst first
 iab fursther further
+iab furstiraigng frustrating
 iab furstrate frustrate
 iab furstrateeeed frustrated
 iab furstration frustration
@@ -13899,6 +13916,7 @@ iab greate great
 iab greates56t greatest
 iab greatley greatly
 iab greawt great
+iab greayt great
 iab greeater greater
 iab greemn green
 iab greief grief
@@ -16853,6 +16871,7 @@ iab lasters lasers
 iab lastest latest
 iab lastg last
 iab lasyout layout
+iab laszy lazy
 iab lateldty lately
 iab lateley lately
 iab latelsy lately
@@ -17377,6 +17396,7 @@ iab lookeed looked
 iab lookes looks
 iab lookgin looking
 iab lookign looking
+iab lookinf looking
 iab lookinfg looking
 iab lookinhg looking
 iab lookugn looking
@@ -18200,6 +18220,7 @@ iab mkae make
 iab mkaes makes
 iab mkaing making
 iab mkakes makes
+iab mkaking making
 iab mkaredkw marked
 iab mkaremkdw marked
 iab mke make
@@ -18442,6 +18463,7 @@ iab moticvation motivation
 iab motifvation motivation
 iab motiivation motivation
 iab motiniong motioning
+iab motinosn motions
 iab motivaited motivated
 iab motivatyion motivation
 iab motivcation motivation
@@ -19727,6 +19749,7 @@ iab optiuons options
 iab optiwons options
 iab optkoins options
 iab optn open
+iab optoin option
 iab optoins options
 iab optoipns options
 iab optoisans options
@@ -23070,6 +23093,7 @@ iab represxsents represents
 iab repritn reprint
 iab reprocuded reproduced
 iab reproducable reproducible
+iab reproited reported
 iab reprort report
 iab reprorted reported
 iab reprot report
@@ -24516,6 +24540,7 @@ iab setteings settings
 iab settigns settings
 iab settimeout setTimeout
 iab settinsg settings
+iab settlign settling
 iab settnig setting
 iab setuop setup
 iab setuting setting
@@ -24564,6 +24589,7 @@ iab sexrice exercise
 iab sfamiliar familiar
 iab sfamily family
 iab sfirst first
+iab sfoteware software
 iab sfotware software
 iab sgreat great
 iab sgtart start
@@ -25535,6 +25561,7 @@ iab stache scratch
 iab stadard standard
 iab stadfastly steadfastly
 iab staes states
+iab staet state
 iab staete state
 iab staf staff
 iab stagews stages
@@ -25970,6 +25997,7 @@ iab subjhect subject
 iab subjhecte subject
 iab subjnects subjects
 iab sublthe subtle
+iab submeitted submitted
 iab submissinois submissions
 iab submissoin submission
 iab submited submitted
@@ -30276,6 +30304,7 @@ iab wtiting writing
 iab wto to
 iab wtowards towards
 iab wtown town
+iab wtritingh writing
 iab wtwice twice
 iab wuality quality
 iab wudith width
@@ -30588,17 +30617,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab STand Stand
-iab laszy lazy
-iab wtritingh writing
-iab optoin option
-iab everyhone everyone
-iab mkaking making
-iab Balck Black
-iab Wellinton Wellington
-iab hcris chris
-iab Februawtry February
-iab bithces bitches
-iab Wiorked Worked
-iab devleopers developers
-iab devleoprs developers
