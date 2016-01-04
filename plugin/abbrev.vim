@@ -2513,6 +2513,7 @@ iab Speciiffilyaly Specifically
 iab Speciifially Specifically
 iab Speeidng Speeding
 iab Spellchevk Spellcheck
+iab Spengindg Spending
 iab Splcie Splice
 iab Srriong Sarong
 iab Srtarting Starting
@@ -2523,6 +2524,7 @@ iab Ssigmundsson Sigmundsson
 iab Sso So
 iab Ssome Some
 iab Sstill Still
+iab Ssubtle Subtle
 iab Staedler Staedtler
 iab Staretd Started
 iab Staritng Starting
@@ -4067,6 +4069,7 @@ iab aggregatesd aggregates
 iab aggresion aggression
 iab aggrevated aggravated
 iab aggrevates aggregates
+iab aghead ahead
 iab agian again
 iab agiang again
 iab agianst against
@@ -4230,6 +4233,7 @@ iab allong along
 iab allottign allotting
 iab allowe2d allowed
 iab alloweable allowable
+iab allowf allow
 iab allowign allowing
 iab allowince allowance
 iab allowinf allowing
@@ -5430,6 +5434,7 @@ iab attainted attained
 iab attaion attain
 iab attaionalbe attainable
 iab attaioned attained
+iab attaiuneed attained
 iab attaminents attainments
 iab attaminmetns attainments
 iab attascdhed attached
@@ -6019,6 +6024,7 @@ iab beghin begin
 iab begining beginning
 iab beginining beginning
 iab beginnging beginning
+iab beginngnign beginning
 iab beginnning beginning
 iab begonning beginning
 iab begore before
@@ -6136,6 +6142,7 @@ iab besixdes besides
 iab beswides besides
 iab betaraying betraying
 iab betdroom bedroom
+iab beteeen between
 iab beteeer better
 iab beteer better
 iab beteert better
@@ -6262,6 +6269,7 @@ iab bkinding binding
 iab blaalance balance
 iab blaance balance
 iab blabn blab
+iab blackbetrries blackberries
 iab blackended blackened
 iab blakc black
 iab blakn blank
@@ -6799,6 +6807,7 @@ iab capaaaicity capacity
 iab capabilityes capabilities
 iab capabilityh capability
 iab capabillty capability
+iab capaboele capable
 iab capabple capable
 iab capabyity capability
 iab capacitiy capacity
@@ -7077,6 +7086,7 @@ iab characteristsics characteristics
 iab charactersistics characteristics
 iab charactesr characters
 iab characther character
+iab charactieriestics characteristics
 iab charactieristic characteristic
 iab charactoer character
 iab charactoeristics characteristics
@@ -7600,6 +7610,7 @@ iab collumn column
 iab colocoking clocking
 iab coloe color
 iab colone clone
+iab colorsss colors
 iab colosrs colors
 iab coloumn column
 iab colro color
@@ -8287,6 +8298,7 @@ iab consennsous consensus
 iab consequennce consequence
 iab consequqnece consequence
 iab consiciousness consciousness
+iab consicouoness consciousness
 iab consicous conscious
 iab consicousness consciousness
 iab consideraytion consideration
@@ -8354,6 +8366,7 @@ iab consistnelty consistently
 iab consistnency consistency
 iab consistnent consistent
 iab consistnentlhy consistently
+iab consistnetly consistently
 iab consitistnalty consistently
 iab consitnantly consistently
 iab consitrainign constraining
@@ -8645,6 +8658,7 @@ iab contstuctor constructor
 iab conttent content
 iab conttional conditional
 iab contuinue continue
+iab convcention convention
 iab conveineience convenience
 iab conventaional conventional
 iab conventiaional conventional
@@ -9391,6 +9405,7 @@ iab defiend defined
 iab defiinte definite
 iab defiiotion definition
 iab defineed defined
+iab definiable definable
 iab definiately definitely
 iab definiatley definitely
 iab definiitive definitive
@@ -10401,6 +10416,7 @@ iab distinguising distinguishing
 iab distingusihing distinguishing
 iab distingusining distinguishing
 iab distintction distinction
+iab distinuishable distinguishable
 iab distionction distinction
 iab distionctions distinctions
 iab distionxtion distinction
@@ -10579,6 +10595,7 @@ iab dollarsa dollars
 iab dolllar dollar
 iab domaoni domain
 iab domimniant dominant
+iab dominatnt dominant
 iab dommunity community
 iab dond done
 iab donde done
@@ -14113,6 +14130,7 @@ iab hapahzardly haphazardly
 iab hapbit habit
 iab hapen happen
 iab hapenen happen
+iab hapenenign happening
 iab hapeniening happening
 iab hapenning happening
 iab hapenpeign happening
@@ -15058,6 +15076,7 @@ iab immeense immense
 iab immeidiately immediately
 iab immensihe immense
 iab immesaitely immediately
+iab immiatedly immediately
 iab immieatley immediately
 iab immiedalteoyly immediately
 iab immieeeeeiate immediate
@@ -15498,6 +15517,7 @@ iab increldfbly incredibly
 iab increldgbly incredibly
 iab increldlby incredibly
 iab incremeent increment
+iab incremenebntal incremental
 iab incremenet increment
 iab incremenetal incremental
 iab incremenetally incrementally
@@ -15540,6 +15560,7 @@ iab indesd index
 iab indesx index
 iab indeteprminable indeterminable
 iab indeterminatable indeterminable
+iab indetniermate indeterminate
 iab indiating indicating
 iab indicateors indicators
 iab indicatorsy indicators
@@ -15610,6 +15631,7 @@ iab inerrupt interrupt
 iab ineteruppeted interrupted
 iab ineveitable inevitable
 iab ineveitably inevitably
+iab ineveitalbly inevitably
 iab inevitalby inevitably
 iab inevitalyby inevitably
 iab inevitialby inevitably
@@ -16363,6 +16385,7 @@ iab irrelevenant irrelevant
 iab irrelevenat irrelevant
 iab irrelevent irrelevant
 iab irrelevlevant irrelevant
+iab irrellvant irrelevant
 iab irresistable irresistible
 iab irreveltant irrelevant
 iab irrevelvant irrelevant
@@ -17892,6 +17915,7 @@ iab meditaiton meditation
 iab meditatiqon meditation
 iab meditatoin meditation
 iab meditators mediators
+iab meditiaotion meditation
 iab meditiate meditate
 iab medittaiont meditation
 iab medittiaont meditation
@@ -18648,6 +18672,7 @@ iab musicions musicians
 iab musicsion musician
 iab muslcles muscles
 iab musscles muscles
+iab musslcles muscles
 iab mustahe mustache
 iab mustaiekes mistakes
 iab mustashe mustache
@@ -20521,6 +20546,7 @@ iab perceieved perceived
 iab perceiouvlably perceivably
 iab perceiption perception
 iab perceiptions perceptions
+iab perceitpion perception
 iab perceiveiable perceivable
 iab percentnage percentage
 iab perceptiable perceivable
@@ -21161,6 +21187,7 @@ iab posiling spoiling
 iab posined poisoned
 iab posiostions positions
 iab posiotion position
+iab posiotioned positioned
 iab posiotions positions
 iab posiotiosns positions
 iab posiotnio position
@@ -21623,6 +21650,7 @@ iab previws previews
 iab prevnet prevent
 iab prevnetDefault preventDefault
 iab prevoisluly previously
+iab prevoisuly previously
 iab prevoius previous
 iab prevoiusly previously
 iab prevous previous
@@ -21662,6 +21690,7 @@ iab princuples principles
 iab prinmitive primitive
 iab printerr printer
 iab printign printing
+iab prioariryt priority
 iab prioerity priority
 iab prioerotiy priority
 iab prioerty priority
@@ -22944,6 +22973,7 @@ iab reled related
 iab relefct reflect
 iab releieve relieve
 iab releif relief
+iab releiive relive
 iab releiuived relieved
 iab relelavant relevant
 iab relelvant relevant
@@ -23239,6 +23269,7 @@ iab requied required
 iab requier require
 iab requierd required
 iab requiers requires
+iab requiesite requisite
 iab requiest request
 iab requiested requested
 iab requipment equipment
@@ -25508,6 +25539,7 @@ iab specificatinos specifications
 iab specifici specific
 iab specificially specifically
 iab specificlaly specifically
+iab specifiic specific
 iab specifiied specified
 iab specifiy specify
 iab specifiying specifying
@@ -25845,6 +25877,7 @@ iab stirxcdt strict
 iab stirxcgt strict
 iab stiting sitting
 iab stitting sitting
+iab stive strive
 iab stiyle style
 iab stlill still
 iab stlye style
@@ -26096,6 +26129,7 @@ iab submoduels submodules
 iab submsssion submission
 iab submuit submit
 iab subnscription subscription
+iab subrtract subtract
 iab subs4equent subsequent
 iab subscfription subscription
 iab subscouuys subconscious
@@ -26656,6 +26690,7 @@ iab tand tend
 iab tansclude transclude
 iab taough5t taught
 iab taought taught
+iab taqken taken
 iab taqraget target
 iab taqsked tasked
 iab taraghet target
@@ -29399,6 +29434,7 @@ iab visidble visible
 iab visiion vision
 iab visilble visible
 iab visisble visible
+iab visisions visions
 iab visistors visitors
 iab visists visits
 iab visiual visual
@@ -29911,7 +29947,9 @@ iab whirhever whichever
 iab whish wish
 iab whisp wisp
 iab whistel whistle
+iab whisteled whistled
 iab whistley whistle
+iab whistlying whistling
 iab whitepsapce whitespace
 iab whitesoapace whitespace
 iab whitew white
@@ -30052,6 +30090,7 @@ iab wirtten written
 iab wirttten written
 iab wisdsom wisdom
 iab wisdth width
+iab wishitel whistle
 iab wishs wishes
 iab wistdom wisdom
 iab wisth width
