@@ -486,6 +486,7 @@ iab Distractingh Distracting
 iab Distragcted Distracted
 iab Disvoerd Discord
 iab Disvovered Discovered
+iab Dman Damn
 iab Docotor Doctor
 iab Docotr Doctor
 iab Docuemnts Documents
@@ -2860,6 +2861,7 @@ iab Tnasknks Thanks
 iab Tnasnks Thanks
 iab Tnbahkns Thanks
 iab Tobasco Tabasco
+iab Tocpuhing Touching
 iab Tocuhging Touching
 iab Todau Today
 iab Tongitht Tonight
@@ -6378,6 +6380,7 @@ iab boservations observations
 iab botdert border
 iab botheirjing bothering
 iab botherd bothers
+iab bothererd bothered
 iab botheribgn bothering
 iab bothg both
 iab bothj both
@@ -8861,6 +8864,7 @@ iab coughted coughed
 iab couidl could
 iab couild could
 iab coul could
+iab coulcd could
 iab couldb could
 iab couldd could
 iab couldf could
@@ -9598,6 +9602,7 @@ iab desdribed described
 iab deservign deserving
 iab desevering deserving
 iab desfribe describe
+iab desfribe4 describe
 iab desfribed described
 iab desgin design
 iab desgins designs
@@ -12135,6 +12140,7 @@ iab everyghing everything
 iab everyhint everything
 iab everyhitbng everything
 iab everyhone everyone
+iab everyhthing everything
 iab everyhting everything
 iab everyhtinga everything
 iab everyihtign everything
@@ -17970,6 +17976,7 @@ iab methd method
 iab methdo method
 iab methodoligies methodologies
 iab methodoligy methodology
+iab methoe method
 iab meticoulously meticulously
 iab metiond mentioned
 iab metioned mentioned
@@ -18962,6 +18969,7 @@ iab nmbier number
 iab nmiming miming
 iab nmodule module
 iab nmore more
+iab nmornmally normally
 iab nmot not
 iab nmtion motion
 iab nmuerder murder
@@ -19413,6 +19421,7 @@ iab ocpmaliablity compatibility
 iab ocpmay company
 iab ocpmotuer computer
 iab oculd could
+iab ocunt count
 iab ocurring occurring
 iab ocurse course
 iab odccur occur
@@ -19710,6 +19719,7 @@ iab opraring operating
 iab oprevent prevent
 iab oproduct product
 iab oprograms programs
+iab oprogress progress
 iab opromise promise
 iab oproper proper
 iab oproperluy properly
