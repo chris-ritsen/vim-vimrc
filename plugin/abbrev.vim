@@ -7778,6 +7778,7 @@ iab companys companies
 iab companyt company
 iab companyu company
 iab comparatvely comparatively
+iab comparted compared
 iab comparying comparing
 iab compassdion compassion
 iab compatability compatibility
@@ -7886,6 +7887,7 @@ iab compoonent component
 iab compoonents components
 iab compoonets components
 iab compooonents components
+iab compopared compared
 iab comporimined compromised
 iab comporismied compromised
 iab comporoimoiesed compromised
@@ -9180,6 +9182,7 @@ iab damange damage
 iab damanged damaged
 iab damoen daemon
 iab damqged damaged
+iab danagerous dangerous
 iab dancesrs dancers
 iab daoing doing
 iab dapplicaionts applications
@@ -30644,6 +30647,7 @@ iab youtgube youtube
 iab youtibe youtube
 iab youtiube youtube
 iab youtub youtube
+iab youtubre youtube
 iab youtugbe youtube
 iab youtuv youtube
 iab youtuybe youtube
