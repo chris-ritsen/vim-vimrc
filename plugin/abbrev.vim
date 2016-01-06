@@ -2687,6 +2687,7 @@ iab TOo Too
 iab TOok Took
 iab TOols Tools
 iab TOook Took
+iab TOtoally Totally
 iab TRACRE TRACE
 iab TRAiler Trailer
 iab TRHe The
@@ -4266,6 +4267,7 @@ iab allwasy always
 iab allwo allow
 iab allwoed allowed
 iab allwos allows
+iab almarm alarm
 iab almignment alignment
 iab almingment alignment
 iab almingmnet alignment
@@ -4335,6 +4337,7 @@ iab alseep asleep
 iab alsleep asleep
 iab alsways always
 iab altelrantiing alternating
+iab altenranted alternated
 iab altenrating alternating
 iab alterantive alternative
 iab alternaating alternating
@@ -7290,6 +7293,7 @@ iab cionsierable considerable
 iab cionsiousness consciousness
 iab cionsole console
 iab ciorredct correct
+iab ciosnole console
 iab cioudl could
 iab cioudld could
 iab ciousdl could
@@ -7540,6 +7544,7 @@ iab cnosoele console
 iab cnosoelll console
 iab cnosole console
 iab cnosooe console
+iab cnsciousyess consciousness
 iab cnsider consider
 iab cnsoel console
 iab cnsole console
@@ -8147,6 +8152,7 @@ iab condfidence confidence
 iab condiction condition
 iab condisidering considering
 iab condisnidered considered
+iab condistions conditions
 iab conditaionlly conditionally
 iab conditaions conditions
 iab conditiaonl conditional
@@ -8572,6 +8578,7 @@ iab contianing containing
 iab contians contains
 iab contibnue continue
 iab contidiotns conditions
+iab contiditionas conditions
 iab contiditonsa conditions
 iab contidtion condition
 iab contieul continue;
@@ -10645,6 +10652,7 @@ iab dogin doing
 iab doging doing
 iab doh9ig doing
 iab doid did
+iab doig doing
 iab doign doing
 iab doignnn doing
 iab doignth doing
@@ -10727,6 +10735,7 @@ iab downoaoding downloading
 iab downoasd download
 iab downoload download
 iab downt down
+iab dowwn down
 iab doz3ens dozens
 iab dpeendecey dependency
 iab dpeendecy dependency
@@ -10950,6 +10959,7 @@ iab eaccpet accept
 iab eact act
 iab eadch each
 iab eaerlier earlier
+iab eaerplugs earplugs
 iab eaeting eating
 iab eafch each
 iab eafdtly exactly
@@ -11615,6 +11625,7 @@ iab endergyt energy
 iab endevaor endeavor
 iab endfunctino endfunction
 iab endleslly endlessly
+iab endleslsly endlessly
 iab endneagenered endangered
 iab endo end
 iab endpoit endpoint
@@ -11928,6 +11939,7 @@ iab epxorsts exports
 iab epxort export
 iab epxortds exports
 iab epxperiience experience
+iab epxxierineced experienced
 iab eqaillly equally
 iab eqalully equally
 iab eqasier easier
@@ -14172,6 +14184,7 @@ iab haerly hourly
 iab hafl half
 iab hafter after
 iab hagain again
+iab haheppening happening
 iab hahpaszrd haphazard
 iab hahpenening happening
 iab hahpepen happen
@@ -17649,6 +17662,7 @@ iab lunless unless
 iab lunminous luminous
 iab lunxh lunch
 iab luyandry laundry
+iab luycid lucid
 iab lveo love
 iab lvie live
 iab lvies lives
@@ -19957,6 +19971,7 @@ iab optoins options
 iab optoipns options
 iab optoisans options
 iab optons options
+iab optpons options
 iab optsions options
 iab opttiownzs options
 iab optttiosns options
@@ -24380,6 +24395,7 @@ iab scriticly strictly
 iab scritp script
 iab scrlling scrolling
 iab scrmable scramble
+iab scroling scrolling
 iab scrollign scrolling
 iab scrolll scroll
 iab scrooll scroll
@@ -25162,6 +25178,7 @@ iab sintead instead
 iab sinxe since
 iab sinxece since
 iab sinze since
+iab sioelence silence
 iab siolid solid
 iab siome some
 iab siomply simply
@@ -25752,6 +25769,7 @@ iab spome some
 iab sponic sonic
 iab spontainously spontaneously
 iab spontanenously spontaneously
+iab spontanouesly spontaneously
 iab spontanous spontaneous
 iab spontanouselsly spontaneously
 iab spoooky spooky
@@ -26614,6 +26632,7 @@ iab swatcher swatches
 iab swatchfets swatches
 iab swathces swatches
 iab swathgces swatches
+iab sweaeting sweating
 iab sweatches swatches
 iab sweathces swatches
 iab sweawt sweat
@@ -27109,6 +27128,7 @@ iab temas teams
 iab temeprautres temperatures
 iab temerpar5autre temperature
 iab temerparature temperature
+iab temerparutre temperature
 iab temntative tentative
 iab temokateYUrl templateUrl
 iab temoprary temporary
@@ -28981,6 +29001,7 @@ iab unempoyable unemployable
 iab unempoyment unemployment
 iab unenesseary unnecessary
 iab unerstand understand
+iab unespxected unexpected
 iab unexepected unexpected
 iab unexpecetddly unexpectedly
 iab unexpecfted unexpected
@@ -29746,6 +29767,7 @@ iab wasteing wasting
 iab wastewd wasted
 iab wastingi wasting
 iab wastwed wasted
+iab wasw was
 iab waswtd wasted
 iab wasys ways
 iab watcdhing watching
