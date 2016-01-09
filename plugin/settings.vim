@@ -33,6 +33,20 @@ set commentstring=#\ %s
 set completeopt=
 set cpoptions=aABceFsJ "+=J
 set dictionary+=/usr/share/dict/words
+set noerrorbells
+set hl=8:SpecialKey,@:NonText,d:Directory,e:ErrorMsg,i:IncSearch,l:Search
+set hl+=m:MoreMsg,M:ModeMsg,n:LineNr,N:CursorLineNr,r:Question
+set hl+=s:StatusLine,S:StatusLineNC,c:VertSplit,t:Title,v:Visual,V:VisualNOS
+set hl+=w:WarningMsg,W\ :WildMenu,f:Folded,F:FoldColumn,A:DiffAdd,C:DiffChange
+" set hl+=D:DiffDelete,T:DiffText,>:SignColumn,-:Conceal
+"
+set hl+=Bs
+"
+set hl+=Pn
+
+set hl+=R:SpellRare,L:SpellLocal,+:Pmenu,=:PmenuSel,x:PmenuSbar,X:PmenuThumb
+set hl+=\*:TabLine,#:TabLineSel,_:TabLineFill
+" set hl+=!:CursorColumn,.:CursorLine,o:ColorColumn:set
 set dir=~/.vim/swap//,/tmp//,.
 set encoding=utf-8
 set expandtab
@@ -42,7 +56,8 @@ set foldlevel=20
 set foldlevelstart=20
 set foldmethod=marker
 set foldminlines=1
-set formatoptions+=nj
+set formatoptions+=njw
+set formatlistpat=^\\s*\\d\\+[\\]:.)}\\t\ ]\\s*\\\|^\\*\\s*
 set guiheadroom=0
 set hidden
 set history=10000

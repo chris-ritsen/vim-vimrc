@@ -51,6 +51,8 @@ augroup filetypes
 
 " Misc {{{3
 
+autocmd! Syntax mail setlocal commentstring=>\ %s
+
 " c {{{
 
 autocmd! BufNewFile,BufRead *.c,*.cpp set foldmethod=syntax
@@ -320,12 +322,7 @@ augroup json_autocmd
 
 " json filetype {{{2
 
-autocmd! FileType json set autoindent
-autocmd! FileType json set expandtab
-autocmd! FileType json set foldmethod=syntax
-autocmd! FileType json set formatoptions=tcq2l
-autocmd! FileType json set softtabstop=2 tabstop=2
-autocmd! FileType json set textwidth=78 shiftwidth=2
+autocmd! FileType json setlocal formatoptions=tcq2l foldmethod=syntax softtabstop=2 tabstop=2 textwidth=78 shiftwidth=2 autoindent expandtab
 
 " }}}2
 
