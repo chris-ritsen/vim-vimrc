@@ -2610,6 +2610,7 @@ iab TDOEO TODO
 iab TDOO TODO
 iab TECHNCIAL TECHNICAL
 iab TESITNG TESTING
+iab TESinggin Testing
 iab TESting Testing
 iab TEantative Tentative
 iab TEantatnaive Tentative
@@ -3733,6 +3734,7 @@ iab achnieent ancient
 iab acientlyly accidentally
 iab acieved achieved
 iab acion action
+iab acirtivity activity
 iab aciteminphen acetaminophen
 iab acitepminophen acetaminophen
 iab acitivbity activity
@@ -4917,6 +4919,7 @@ iab apparenltuy apparently
 iab apparenlty apparently
 iab apparenly apparently
 iab apparenmtmnt apartment
+iab apparentmly apparently
 iab apparetnly apparently
 iab apparment apparent
 iab apparmtnet apartment
@@ -5205,6 +5208,7 @@ iab arhc arch
 iab arhcihitecture architecture
 iab arhcitect architect
 iab arhcive archive
+iab ariases arises
 iab aribirrary arbitrary
 iab aribrirarrily arbitrarily
 iab ariise arise
@@ -5309,6 +5313,7 @@ iab asded added
 iab asdyone anyone
 iab asdything anything
 iab asdytying anything
+iab aseer seer
 iab asertained ascertained
 iab aserted asserted
 iab asfter after
@@ -6497,6 +6502,8 @@ iab bototm bottom
 iab bottole bottle
 iab bottomw bottom
 iab botyh both
+iab boudnaries boundaries
+iab boudnary boundary
 iab boudngin bounding
 iab boudnign bounding
 iab boudning bounding
@@ -6578,6 +6585,7 @@ iab brihgt bright
 iab briidge bridge
 iab brin bran
 iab brindgs brings
+iab bringds brings
 iab bringin bringing
 iab brinigin bringing
 iab brinign brining
@@ -6697,6 +6705,7 @@ iab buiulding building
 iab buiuling building
 iab buiult built
 iab bulding building
+iab bullshti bullshit
 iab bulltets bullets
 iab buncgh bunch
 iab bunhc bunch
@@ -8439,6 +8448,7 @@ iab consiocuness consciousness
 iab consiocusness consciousness
 iab consiocussnes consciousness
 iab consiouce conscious
+iab consioucness consciousness
 iab consioucsness consciousness
 iab consiouness consciousness
 iab consious conscious
@@ -8811,6 +8821,7 @@ iab conwsider consider
 iab conwsiosuensess consciousness
 iab conxowole console
 iab conyrtoller controller
+iab conytracidtory contradictory
 iab cooffee coffee
 iab cookeies cookies
 iab cookeis cookies
@@ -9629,6 +9640,7 @@ iab delvier deliver
 iab delviered delivered
 iab delviers delivers
 iab delviery delivery
+iab delviiering delivering
 iab delvoepement development
 iab dely delay
 iab delya delay
@@ -10132,6 +10144,7 @@ iab differenxtly differently
 iab differetn different
 iab differetnce difference
 iab differewnt different
+iab differfernt different
 iab differnce difference
 iab differncer difference
 iab differnecde difference
@@ -11015,6 +11028,7 @@ iab eaarlier earlier
 iab eabsoulte absolute
 iab eacch each
 iab eaccpet accept
+iab eacgh each
 iab eact act
 iab eadch each
 iab eaerlier earlier
@@ -12021,6 +12035,7 @@ iab equallty equally
 iab equaly equally
 iab equamnimty equanimity
 iab equanimiity equanimity
+iab equestion question
 iab equianimity equanimity
 iab equiation equation
 iab equiavalence equivalence
@@ -15958,6 +15973,7 @@ iab initiailize initialize
 iab initiaited initiated
 iab initialiose initialise
 iab initialisaiotn initialisation
+iab initialllly initially
 iab initital initial
 iab initlaize initialize
 iab initliaize initialize
@@ -18490,6 +18506,7 @@ iab mistalken mistaken
 iab mistanken mistaken
 iab mistaskn mistaken
 iab mistenaken mistaken
+iab mistery misery
 iab mistkae mistake
 iab mistkaing mistaking
 iab mistkan mistaken
@@ -19025,6 +19042,7 @@ iab naturew nature
 iab naturla natural
 iab naturlaly naturally
 iab natute nature
+iab natyural natural
 iab natyure nature
 iab nautrally naturally
 iab nauture nature
@@ -20683,6 +20701,7 @@ iab pblem problem
 iab pblwoing blowing
 iab pbolem problem
 iab pbooks books
+iab pboundary boundary
 iab pbrknm problem
 iab pbroblenm problem
 iab pbrolme problem
@@ -21125,6 +21144,7 @@ iab piostion position
 iab piostions positions
 iab piostionso positions
 iab pipline pipeline
+iab pirimary primary
 iab pisperceive misperceive
 iab pissible possible
 iab pistion piston
@@ -21936,6 +21956,7 @@ iab pricavey privacy
 iab pridstine pristine
 iab prierotu8y priority
 iab prigoramming programming
+iab priimary primary
 iab priint print
 iab priiorioty priority
 iab priivate private
@@ -21943,6 +21964,7 @@ iab priject project
 iab primart primary
 iab primaruly primarily
 iab primgary primary
+iab primiary primary
 iab primoordial primordial
 iab princibles principles
 iab princiiples principles
@@ -21979,6 +22001,7 @@ iab privude provide
 iab prject project
 iab prlblems problems
 iab prlonging prolonging
+iab prmimary primary
 iab pro3tect protect
 iab proablbuy probably
 iab proablby probably
@@ -22444,6 +22467,7 @@ iab publsidh publish
 iab publsihed published
 iab publuc public
 iab pubolished published
+iab pudzzling puzzling
 iab puerilie puerile
 iab pugin plugin
 iab punchign punching
@@ -22794,6 +22818,7 @@ iab reaerach research
 iab reagardless regardless
 iab reagularly regularly
 iab reaidng reading
+iab reaility reality
 iab reails rails
 iab reailtiy reality
 iab reailty reality
@@ -23390,6 +23415,7 @@ iab renouhnce renounce
 iab renuciation renunciation
 iab renucisaytion renunciation
 iab renuiciation renunciation
+iab renvironment environment
 iab reoad road
 iab reobooting rebooting
 iab reocirngds recordings
@@ -24150,6 +24176,7 @@ iab rpesentatuin presentation
 iab rpesenteeed presented
 iab rpesewnted presented
 iab rpessssssure pressure
+iab rpimary primary
 iab rpobably probably
 iab rpoblem problem
 iab rpoblems problems
@@ -26487,6 +26514,7 @@ iab suddent sudden
 iab suddently suddenly
 iab suddlenly suddenly
 iab suddley suddenly
+iab suddnelty suddenly
 iab suddnely suddenly
 iab sudeen sudden
 iab sudents students
@@ -26569,6 +26597,7 @@ iab superflous superfluous
 iab superflurous superfluous
 iab superier superior
 iab superiior superior
+iab superimiposed superimposed
 iab superioer superior
 iab superiourity superiority
 iab superlateive superlative
@@ -28417,6 +28446,7 @@ iab transxient transient
 iab tranxorm transform
 iab tranzaction transaction
 iab trapckad trackpad
+iab trappedd trapped
 iab trapsortation transportation
 iab trasditioinally traditionally
 iab traskpad trackpad
@@ -28732,6 +28762,7 @@ iab twvelve twelve
 iab twxt text
 iab tyep type
 iab tyeps types
+iab tyerms terms
 iab tyhat that
 iab tyhe the
 iab tyhere there
@@ -29291,6 +29322,7 @@ iab unresovled unresolved
 iab unresponseive unresponsive
 iab unrestratined unrestrained
 iab unrewareded unrewarded
+iab unsaticsfacotry unsatisfactory
 iab unsciousnous unconscious
 iab unsdersatnding understanding
 iab unsdersrtand understand
@@ -29615,6 +29647,7 @@ iab vbirations vibrations
 iab vbision vision
 iab vboring boring
 iab vborwser browser
+iab vboundary boundary
 iab vbrekase brakes
 iab vccufflings cufflings
 iab vccufflings cufflinks
@@ -30327,6 +30360,7 @@ iab whwere where
 iab whwerever wherever
 iab whwn when
 iab whwneever whenever
+iab whyt why
 iab whzatever whatever
 iab wiWindows Windows
 iab wiat wait
@@ -31115,37 +31149,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab consioucness consciousness
-iab rpimary primary
-iab whyt why
-iab pboundary boundary
-iab equestion question
-iab initialllly initially
-iab unsaticsfacotry unsatisfactory
-iab tyerms terms
-iab boudnary boundary
-iab pirimary primary
-iab bringds brings
-iab primiary primary
-iab priimary primary
-iab prmimary primary
-iab trappedd trapped
-iab natyural natural
-iab boudnaries boundaries
-iab mistery misery
-iab differfernt different
-iab ariases arises
-iab pudzzling puzzling
-iab suddnelty suddenly
-iab acirtivity activity
-iab renvironment environment
-iab aseer seer
-iab delviiering delivering
-iab vboundary boundary
-iab conytracidtory contradictory
-iab apparentmly apparently
-iab reaility reality
-iab superimiposed superimposed
-iab eacgh each
-iab bullshti bullshit
-iab TESinggin Testing
