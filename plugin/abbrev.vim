@@ -1291,7 +1291,10 @@ iab JavasSCript JavaScript
 iab Javscript Javascript
 iab Jennifier Jennifer
 iab Jermey Jeremey
+iab Jhagabns Jhānas
 iab Jhana Jhāna
+iab Jhanas Jhānas
+iab Jhans Jhānas
 iab Joghn John
 iab Jogn John
 iab Johyn John
@@ -1828,6 +1831,7 @@ iab Partas Parts
 iab Particaipants Participants
 iab Passsiontate Passionate
 iab Paswword Password
+iab Patisambhida Paṭisambhidā
 iab Pbhantom Phantom
 iab Pefect Perfect
 iab Pefewcft Perfect
@@ -17476,6 +17480,7 @@ iab jaghana jhāna
 iab jahan jhāna
 iab jahana jhāna
 iab jahd had
+iab jahnana jhāna
 iab jaket jacket
 iab jalapeno jalapeños
 iab jalapenos jalapeños
@@ -17509,7 +17514,9 @@ iab jhaba jhāna
 iab jhad had
 iab jhagan jhāna
 iab jhana jhāna
+iab jhanaghna jhāna
 iab jhanas jhānas
+iab jhanba jhāna
 iab jhavascript javascript
 iab jhave have
 iab jheight height
@@ -17517,6 +17524,7 @@ iab jhgana jhāna
 iab jhganaas jhānas
 iab jhifden hidden
 iab jhob job
+iab jhsahhna jhāna
 iab jion join
 iab jions joins
 iab jitteryness jitteriness
@@ -17731,6 +17739,7 @@ iab kjeep keep
 iab kjey key
 iab kjeys keys
 iab kjhana jhāna
+iab kjhjahgan jhāna
 iab kjust just
 iab klearn learn
 iab kless less
