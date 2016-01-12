@@ -17504,11 +17504,16 @@ iab jewwel jewel
 iab jewwlery jewelery
 iab jewwles jewels
 iab jeylly jelly
+iab jghana jhāna
+iab jhaba jhāna
 iab jhad had
+iab jhagan jhāna
 iab jhana jhāna
+iab jhanas jhānas
 iab jhavascript javascript
 iab jhave have
 iab jheight height
+iab jhgana jhāna
 iab jhganaas jhānas
 iab jhifden hidden
 iab jhob job
@@ -17516,6 +17521,7 @@ iab jion join
 iab jions joins
 iab jitteryness jitteriness
 iab jkeypad keypad
+iab jkhana jhāna
 iab jkoin join
 iab jmjust just
 iab jmuyst just
@@ -17541,6 +17547,7 @@ iab journyies journeys
 iab joyurnies journeys
 iab jpet kept
 iab jqeyuriyt jquery
+iab jqhana jhāna
 iab jquerty jquery
 iab jsdut stud
 iab jse use
@@ -17684,6 +17691,7 @@ iab keyuboahrsd keyboard
 iab keyyp keyup
 iab kgame game
 iab khana jhāna
+iab khganas jhānas
 iab ki9ds kids
 iab kiccking kicking
 iab kicthen kitchen
@@ -17718,9 +17726,11 @@ iab kithcyen kitchen
 iab kittetns kittens
 iab kitttnes kittens
 iab kityhchen kitchen
+iab kjahan jhāna
 iab kjeep keep
 iab kjey key
 iab kjeys keys
+iab kjhana jhāna
 iab kjust just
 iab klearn learn
 iab kless less
@@ -20046,6 +20056,7 @@ iab nhor hour
 iab nhowver however
 iab nhumsan human
 iab nibaana nibbāna
+iab nibanna nibbāna
 iab nibbaana nibbāna
 iab nibbana nibbāna
 iab nicelny nicely
@@ -29152,6 +29163,7 @@ iab tirvial trivial
 iab tisuee tissue
 iab titanim titanium
 iab titgle title
+iab titians titans
 iab titilating titillating
 iab tituiralual tutorial
 iab titutioral tutorial
