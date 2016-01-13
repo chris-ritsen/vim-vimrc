@@ -2367,6 +2367,7 @@ iab Rohy Roy
 iab Roling Rolling
 iab Roplling Rolling
 iab Royksopp Röyksopp
+iab Rpeated Repeated
 iab Rpeeaea Repeal
 iab Rpepat Repeat
 iab Rrefresh Refresh
@@ -3140,7 +3141,7 @@ iab Usleless Useless
 iab Usless Useless
 iab Usuallu Usually
 iab Ususally Usually
-iab Ususaully Unusually
+iab Ususaully Usually
 iab Utiliaise Utilise
 iab Uubntu Ubuntu
 iab Uusinh Using
@@ -32542,6 +32543,7 @@ iab wordldy worldly
 iab wordlwide worldwide
 iab wordsa words
 iab wordsed worded
+iab wordsw words
 iab wordsz words
 iab wordts words
 iab woreds words
