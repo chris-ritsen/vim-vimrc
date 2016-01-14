@@ -4778,6 +4778,7 @@ iab annoytance annoyance
 iab annoyting annoying
 iab annying annoying
 iab annyoing annoying
+iab annyojing annoying
 iab annyong annoying
 iab annyyoing annoying
 iab anoather another
@@ -6355,6 +6356,7 @@ iab becofre before
 iab becom become
 iab becomae become
 iab becomcre become
+iab become3 become
 iab becomign becoming
 iab becomming becoming
 iab becompoing becoming
@@ -6987,6 +6989,7 @@ iab btter better
 iab btthroom bathroom
 iab bttuoj button
 iab btuter butter
+iab btween between
 iab bty by
 iab btyn btn
 iab bu8ildings buildings
@@ -7468,6 +7471,7 @@ iab cevlver clever
 iab cew few
 iab cewnter center
 iab cfalse false
+iab cfire fire
 iab cfirst first
 iab cgabge change
 iab cgateroy category
@@ -8092,6 +8096,7 @@ iab colior color
 iab collapase collapse
 iab collapseable collapsible
 iab collaspe collapse
+iab collaspesed collapsed
 iab colleages colleagues
 iab colleauges colleagues
 iab collecdt collect
@@ -9778,6 +9783,7 @@ iab cursosr cursor
 iab curtainn curtain
 iab cusion cushion
 iab cusions cushions
+iab cusionsions cushions
 iab cusomising customising
 iab cusotkemr customer
 iab cusotmer customer
@@ -10806,6 +10812,7 @@ iab dififciltu difficult
 iab dififciltyies difficulties
 iab dififcilut difficult
 iab dififciult difficult
+iab dififcuilt difficult
 iab dififcuilty difficulty
 iab dififcult difficult
 iab dififculty difficulty
@@ -11034,6 +11041,7 @@ iab discriiminate discriminate
 iab discription description
 iab discriptive descriptive
 iab discroverty discovery
+iab discrtaction distraction
 iab disctionction distinction
 iab discuessed discussed
 iab discuesssed discussed
@@ -14160,6 +14168,7 @@ iab finacial financial
 iab finacnes finances
 iab finallly finally
 iab finallya finally
+iab finaly finally
 iab finalyl finally
 iab financinal financial
 iab fincances finances
@@ -14320,6 +14329,7 @@ iab focusued focused
 iab focuus focus
 iab focux focus
 iab focuys focus
+iab focuysed focused
 iab focyusing focusing
 iab fodo food
 iab foeregot forgot
@@ -14405,6 +14415,7 @@ iab forom form
 iab forr for
 iab forsee foresee
 iab forthe forth
+iab forthy forty
 iab forumhlates formulates
 iab forumla formula
 iab foruth fourth
@@ -14758,6 +14769,7 @@ iab futeurther further
 iab futgure future
 iab futher further
 iab futilte futile
+iab futrnance furnace
 iab futuer future
 iab futurte future
 iab fututre future
@@ -16442,6 +16454,7 @@ iab imposter impostor
 iab impotant important
 iab impove improve
 iab impprtant important
+iab imppsosbile impossible
 iab imppulses impulses
 iab impratnce importance
 iab impratnt important
@@ -16515,6 +16528,7 @@ iab imprvoe improve
 iab imprwessaed impressed
 iab impsosbile impossible
 iab impsosible impossible
+iab impsosisble impossible
 iab imptu input
 iab impule impulse
 iab imput input
@@ -16708,6 +16722,7 @@ iab increasesd increased
 iab increasiignly increasingly
 iab increasingm increasing
 iab increasinlgy increasingly
+iab increaslingly increasingly
 iab increaslyingly increasingly
 iab increatsed increased
 iab increbily incredibly
@@ -16741,6 +16756,7 @@ iab increldfbly incredibly
 iab increldgbly incredibly
 iab increldlby incredibly
 iab incremeent increment
+iab incrememnents increments
 iab incremenebntal incremental
 iab incremenet increment
 iab incremenetal incremental
@@ -17795,6 +17811,7 @@ iab itme time
 iab itmestamps timestamps
 iab itnednted intended
 iab itnenraval interval
+iab itnensely intensely
 iab itnerepreation interpretation
 iab itnerest interest
 iab itnerested interested
@@ -18572,6 +18589,7 @@ iab lewt let
 iab lewvle level
 iab lexingon Lexington
 iab lexingtun lexington
+iab lfahses flashes
 iab lfet left
 iab lfie life
 iab lfoat float
@@ -19149,6 +19167,7 @@ iab manieftest manifest
 iab manifiestation manifestation
 iab manifiestations manifestations
 iab manifiesting manifesting
+iab manifpulate manipulate
 iab manifst manifest
 iab manifupluate manipulate
 iab manin main
@@ -20235,6 +20254,7 @@ iab mytt mutt
 iab myu my
 iab myusefl myself
 iab myuself myself
+iab myusicles muscles
 iab myuslef myself
 iab myutation mutation
 iab myxelf myself
@@ -21836,6 +21856,7 @@ iab pagpers pampers
 iab pahge page
 iab pahragrpah paragraph
 iab pahtetic pathetic
+iab paintful painful
 iab pairtuclsar particular
 iab pairutclar particular
 iab paised paused
@@ -22934,6 +22955,7 @@ iab positsionds positions
 iab positsions positions
 iab positsionsd positions
 iab posituion position
+iab posituoin position
 iab positure posture
 iab posiution position
 iab posoition position
@@ -26507,6 +26529,7 @@ iab sepcificadtions specifications
 iab sepctru spectrum
 iab sepeak speak
 iab sepearate separate
+iab sepearated separated
 iab sepearting separating
 iab sepeeeed speed
 iab sepend spend
@@ -27157,6 +27180,7 @@ iab slightl slight
 iab sligthest slightest
 iab sligthly slightly
 iab sligtly slightly
+iab sligyhtly slightly
 iab slike like
 iab sliopshod slipshod
 iab slleep sleep
@@ -29156,6 +29180,7 @@ iab temrinals terminals
 iab temrnal terminal
 iab temrparature temperature
 iab temrpearature temperature
+iab temrperature temperature
 iab temrpoarilly temporarily
 iab temrpoparty temporary
 iab temrporary temporary
@@ -29404,6 +29429,7 @@ iab thayg that
 iab thbe the
 iab thbought thought
 iab thd the
+iab thease these
 iab theat that
 iab theb them
 iab thedse these
@@ -29557,6 +29583,7 @@ iab thicknessw thickness
 iab thidr third
 iab thie the
 iab thieir their
+iab thien then
 iab thier their
 iab thies this
 iab thiese these
@@ -30329,6 +30356,7 @@ iab treee tree
 iab treid tried
 iab treinyg trying
 iab trelflection reflection
+iab trempelbing trembling
 iab treplaced replaced
 iab tresspassing trespassing
 iab trestrictyeeed restricted
@@ -30900,6 +30928,7 @@ iab uncliockable unclickable
 iab uncnecessary unnecessary
 iab uncnsncous unconscious
 iab uncober uncover
+iab uncofmortable uncomfortable
 iab uncofmrotale uncomfortable
 iab uncomforatable uncomfortable
 iab uncomforatazble uncomfortable
@@ -32214,6 +32243,7 @@ iab whewre where
 iab whewther whether
 iab wheyther whether
 iab whgat what
+iab whgen when
 iab whhen when
 iab whic which
 iab whicb which
@@ -32839,6 +32869,7 @@ iab wware aware
 iab wwarehouse warehouse
 iab wwas was
 iab wwaste waste
+iab wwatched watched
 iab wwating waiting
 iab wway way
 iab wwbsite website
@@ -32931,6 +32962,7 @@ iab yeboard keyboard
 iab yedstdrday yesterday
 iab yedsteradsy yesterday
 iab yedsterday yesterday
+iab yeild yield
 iab yeilded yielded
 iab yelk0ping yelping
 iab yeras years
@@ -32977,6 +33009,7 @@ iab yestwersday yesterday
 iab yeszterday yesterday
 iab yetserday yesterday
 iab yeuah yeah
+iab yeulding yielding
 iab yewar year
 iab yewars years
 iab yewt yet
