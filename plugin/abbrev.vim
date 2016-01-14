@@ -534,6 +534,7 @@ iab Docvumebnts Documents
 iab Doen Done
 iab Doens Doesn
 iab Doign Doing
+iab Dooes Does
 iab Downlaiding Downloading
 iab Downlaod Download
 iab Downloadign Downloading
@@ -1518,6 +1519,7 @@ iab Mayhbe Maybe
 iab Mayhble Maybe
 iab Maynbe Maybe
 iab Mcicighan Michigan
+iab Medtiating Meditating
 iab Meetign Meeting
 iab Meidium Medium
 iab Meidtaiotnop Meditation
@@ -6760,6 +6762,7 @@ iab bocses boxes
 iab bocx box
 iab bodey body
 iab bodfyu body
+iab bodiews bodies
 iab bodlily bodily
 iab bodu body
 iab boduy body
@@ -10402,6 +10405,7 @@ iab desscribe describe
 iab desscribes describes
 iab dessprately desperately
 iab dessribed described
+iab dessssribe describe
 iab destermine determine
 iab desterouted destroyed
 iab destert desert
@@ -21698,6 +21702,7 @@ iab outlineed outlined
 iab outpiut output
 iab outpline outline
 iab outpubt output
+iab outsiddde outside
 iab outsided outside
 iab outsidse outside
 iab outsidte outside
@@ -23800,6 +23805,7 @@ iab proppsitional propositional
 iab propriertary proprietary
 iab proprietart proprietary
 iab proprieter proprietor
+iab proprortions proportions
 iab proprotion proportion
 iab propt prompt
 iab proram program
@@ -32149,6 +32155,7 @@ iab whaever whoever
 iab whagever whatever
 iab whagtewver whatever
 iab whahichever whichever
+iab whaqyt what
 iab whastosever whatsoever
 iab whatching watching
 iab whatcshdign watching
