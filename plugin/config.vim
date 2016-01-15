@@ -35,9 +35,11 @@ let g:OmniSharp_timeout = 1
 
 " NERDTree {{{2
 
-let NERDTreeHijackNetrw= 1
-let NERDTreeMinimalUI = 1
-let NERDTreeShowLineNumbers = 1
+let g:NERDTreeHijackNetrw= 1
+let g:NERDTreeMinimalUI = 1
+let g:NERDTreeShowHidden = 0
+let g:NERDTreeShowLineNumbers = 0
+let g:NERDTreeWinSize='18'
 
 let g:NERDTreeIgnore = [
   \ '.cache$',
@@ -72,9 +74,6 @@ let g:NERDTreeIgnore = [
   \ 'nohup.out',
   \ 'obj.*'
   \ ]
-
-let g:NERDTreeShowLineNumbers = 0
-let g:NERDTreeWinSize='18'
 
 " }}}2
 
