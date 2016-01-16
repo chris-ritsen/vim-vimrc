@@ -101,7 +101,7 @@ autocmd! FileType vb setlocal commentstring='\ %s
 
 autocmd! BufRead,BufNewFile *.css.map set filetype=json
 
-autocmd! FileType css setlocal nowrap foldmethod=indent fmr={,}
+autocmd! FileType css setlocal nowrap foldmethod=indent fmr={,} suffixesadd+=.css
 autocmd! FileType less setlocal nowrap foldmethod=indent fmr={,}
 autocmd! FileType scss setlocal nowrap foldmethod=indent fmr={,}
 

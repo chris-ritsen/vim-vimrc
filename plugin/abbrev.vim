@@ -33252,3 +33252,9 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
+iab fototer footer
+iab headeer header
+iab Copywright Copyright
+iab fnot font
+iab dectoration decoration
+iab subjcet subject
