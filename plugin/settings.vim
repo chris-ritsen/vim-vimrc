@@ -29,6 +29,7 @@ set autoread
 set backspace=eol,start,indent
 set cmdheight=1
 set comments+=fb:•
+set comments+=fb:∙
 set commentstring=#\ %s
 set completeopt=
 set cpoptions=aABceFsJ "+=J
@@ -57,7 +58,8 @@ set foldlevelstart=20
 set foldmethod=marker
 set foldminlines=1
 set formatoptions+=njw
-set formatlistpat=^\\s*\\d\\+[\\]:.)}\\t\ ]\\s*\\\|^\\*\\s*
+set formatlistpat=^\\s*\\d\\+[\\]:.)}\\t\ ]\\s*\\\|^\\*\\s*\|^\\s*∙\\s*|^\\s*•\\s*  
+" |^•\\s*|^∙\\s*
 set guiheadroom=0
 set hidden
 set history=10000
