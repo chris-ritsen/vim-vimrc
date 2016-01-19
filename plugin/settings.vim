@@ -58,7 +58,7 @@ set foldlevelstart=20
 set foldmethod=marker
 set foldminlines=1
 set formatoptions+=njw
-set formatlistpat=^\\s*\\d\\+[\\]:.)}\\t\ ]\\s*\\\|^\\*\\s*\|^\\s*∙\\s*|^\\s*•\\s*  
+set formatlistpat=^\\s*\\d\\+[\\]:.)}\\t\ ]\\s*\\\|^\\*\\s*\|^\\s*∙\\s*\|^\\s*•\\s*  
 " |^•\\s*|^∙\\s*
 set guiheadroom=0
 set hidden
