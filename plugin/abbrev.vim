@@ -648,6 +648,7 @@ iab Eeldctric Electric
 iab Eelectric Electric
 iab Eequipment Equipment
 iab Eevnetyually Eventually
+iab Eevrentually Eventually
 iab Eexpected Expected
 iab Efen Even
 iab Effecsts Effects
@@ -859,6 +860,7 @@ iab Facbook Facebook
 iab Failry Fairly
 iab Falswe False
 iab Familiairity Familiarity
+iab Fantays Fantasy
 iab Favirfiroing Favoring
 iab Faviring Favoring
 iab Fbonacci Fibonacci
@@ -1578,6 +1580,7 @@ iab Medtiating Meditating
 iab Meetign Meeting
 iab Meidium Medium
 iab Meidtaiotnop Meditation
+iab Meidtaited Meditated
 iab Meidtaitive Meditative
 iab Meidtaiton Meditation
 iab Meidtiated Mediated
@@ -1991,6 +1994,7 @@ iab Piti Pīti
 iab Pkanets Planets
 iab Placijng Placing
 iab Plalnnign Planning
+iab Plams Palms
 iab Planckk Planck
 iab Plankc Planck
 iab Plannning Planning
@@ -3664,6 +3668,7 @@ iab abillities abilities
 iab abilltiy ability
 iab abiltiy ability
 iab abilty ability
+iab abioyut about
 iab abiut about
 iab abivailble available
 iab ablabileable available
@@ -5272,6 +5277,7 @@ iab apdding padding
 iab apear appear
 iab apeparance appearance
 iab apeparnacne appearance
+iab apeparnce appearance
 iab apepars appears
 iab apge page
 iab aphabeticalluy alphabetically
@@ -8818,6 +8824,7 @@ iab comsequences consequences
 iab comses comes
 iab comsnume consume
 iab comtain contain
+iab comtpeuwer computer
 iab comtpueprs computers
 iab comtpuer computer
 iab comtpuers computers
@@ -15712,6 +15719,7 @@ iab growin growing
 iab grownth growth
 iab grpahic graphic
 iab grpahica graphic
+iab grpahics graphics
 iab grpou group
 iab grreatlhy greatly
 iab gses gases
@@ -26990,6 +26998,7 @@ iab rtead read
 iab rtecdtangle rectangle
 iab rtely rely
 iab rtepressed repressed
+iab rtesolved resolved
 iab rtesting testing
 iab rteturn return
 iab rteurn return
@@ -28121,6 +28130,7 @@ iab simoply simply
 iab simpilar similar
 iab simpke simple
 iab simplation simulation
+iab simpleistic simplistic
 iab simplel simple
 iab simpley simply
 iab simplezst simplest
@@ -29858,6 +29868,7 @@ iab swetup setup
 iab sweven seven
 iab sweveral several
 iab swhen when
+iab swhile while
 iab swhitched switched
 iab swhow show
 iab swhtch switch
@@ -31653,6 +31664,7 @@ iab trhe the
 iab trhicks tricks
 iab trhinks thinks
 iab trhoguht thought
+iab trhough through
 iab trid tried
 iab trieed tried
 iab triewst tries
