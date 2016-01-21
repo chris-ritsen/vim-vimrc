@@ -77,6 +77,7 @@ iab Amojgn Among
 iab Amonog Among
 iab Amoung Among
 iab Ampparently Apparently
+iab Anagami Anāgāmi
 iab Analogigous Analogous
 iab Anoither Another
 iab Anotegr Another
@@ -1912,6 +1913,7 @@ iab Paciification Pacification
 iab Pacitfgication Pacification
 iab Packarx Packard
 iab Paficication Pacification
+iab Pali Pāli
 iab Pamranters Parameters
 iab Paradocically Paradoxically
 iab Paraghraphs Paragraphs
@@ -2607,9 +2609,11 @@ iab SUpporting Supporting
 iab SWgiykd Should
 iab SYstem System
 iab Safelu Safely
+iab Sakadagami Sakadāgāmi
 iab Samadhi Samādhi
 iab Samage Damage
 iab Samatha Śamatha
+iab Sampajanna Sampajañña
 iab Samsara Saṃsāra
 iab Samule Samuel
 iab Samulel Samuel
@@ -2755,6 +2759,7 @@ iab Soo So
 iab Sooon Soon
 iab Sopme Some
 iab Sorrhy Sorry
+iab Sotapatti Sotāpatti
 iab Sotuh South
 iab Soudns Sounds
 iab Southh South
@@ -2976,6 +2981,7 @@ iab Targetting Targeting
 iab Tarrif Tariff
 iab Tarriff Tariff
 iab Tasitiing Tasting
+iab Tathata Tathatā
 iab Tbahnsks Thanks
 iab Tbanks Thanks
 iab Tben Then
@@ -4875,6 +4881,7 @@ iab amusment amusement
 iab amybe maybe
 iab ana an
 iab anad and
+iab anagami anāgāmi
 iab analohy analogy
 iab analygies analogies
 iab analyize analyze
@@ -5950,6 +5957,7 @@ iab atht that
 iab ation action
 iab atively actively
 iab atlll all
+iab atman ātman
 iab atmepts attempts
 iab atmeptt attempt
 iab atmoshpher atmosphere
@@ -6360,6 +6368,7 @@ iab awware aware
 iab awy any
 iab awya away
 iab axtually actually
+iab ayatana āyatana
 iab aynthing anything
 iab aynway anyway
 iab aysync async
@@ -14835,6 +14844,7 @@ iab fisniehds finished
 iab fisnihed finished
 iab fisrst first
 iab fisrt first
+iab fisxed fixed
 iab fisxh fish
 iab fitler filter
 iab fitlerable filterable
@@ -24531,6 +24541,7 @@ iab priovoing proving
 iab pripherals peripherals
 iab prirotize prioritize
 iab prision prison
+iab priti prīti
 iab pritn print
 iab pritner printer
 iab pritners printers
@@ -25092,6 +25103,7 @@ iab puropose purpose
 iab purpole purple
 iab purpose3 purpose
 iab purposefuloy purposefully
+iab purposefuly purposefully
 iab purpoxdes purposes
 iab purpse purpose
 iab purpsie purpose
@@ -27111,6 +27123,7 @@ iab sailers sailors
 iab saing saying
 iab saiod said
 iab saiticdfying satisfying
+iab sakadagami sakadāgāmi
 iab salamni salami
 iab saled salad
 iab salesmman salesman
@@ -27118,6 +27131,7 @@ iab salfely safely
 iab salkt salt
 iab salkty salty
 iab samadhi samādhi
+iab samapatti samāpatti
 iab samatha śamatha
 iab same3 same
 iab sameple sample
@@ -27127,6 +27141,7 @@ iab samller smaller
 iab samllest smallest
 iab samme same
 iab samne same
+iab sampajanna sampajañña
 iab sampekl sample
 iab sampels samples
 iab sampingls samplings
@@ -28693,6 +28708,7 @@ iab soruce source
 iab soruces sources
 iab sosmeone someone
 iab sosmetimes sometimes
+iab sotapatti sotāpatti
 iab sotfawtre software
 iab sotires stories
 iab sotopped stopped
@@ -32680,6 +32696,7 @@ iab updlloaded uploaded
 iab updloaded uploaded
 iab updrade upgrade
 iab upekkha upekkhā
+iab upeksha upekṣhā
 iab upening opening
 iab upfgfrront upfront
 iab upgade upgrade
@@ -32977,6 +32994,7 @@ iab vealues values
 iab vearious various
 iab vearitiety variety
 iab vecause because
+iab vedana vedanā
 iab veersions versions
 iab veeryday everyday
 iab vefifying verifying
