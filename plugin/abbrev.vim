@@ -7628,6 +7628,7 @@ iab categoriew categories
 iab categorigcal categorical
 iab cathc catch
 iab catostrophic catastrophic
+iab caty cat
 iab caudsing causing
 iab cauled called
 iab caus cause
@@ -10656,6 +10657,7 @@ iab derire desire
 iab derivef derived
 iab derivitive derivative
 iab derogitory derogatory
+iab dersbirbe describe
 iab derscribed described
 iab derscribes describes
 iab derscription description
@@ -17785,6 +17787,7 @@ iab inportant important
 iab inpput input
 iab inpressing impressing
 iab inpsect inspect
+iab inpsected inspected
 iab inpspiration inspiration
 iab inpterpret interpret
 iab inptu input
@@ -32374,6 +32377,7 @@ iab undewelcomoe unwelcome
 iab undewrstandds understands
 iab undewrstnad understand
 iab undienfied undefined
+iab undinefed undefined
 iab undispilined undisciplined
 iab undiverse universe
 iab undoubably undoubtedly
@@ -34586,7 +34590,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab inpsected inspected
-iab undinefed undefined
-iab caty cat
-iab dersbirbe describe
