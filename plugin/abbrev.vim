@@ -34608,3 +34608,18 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
+iab nitce nice
+iab swome some
+iab buffefrs buffers
+iab contolrller controller
+iab wwho who
+iab eccewntric eccentric
+iab Dynesty Dynasty
+iab Ghilli Gilli
+iab Ghilli gilli
+iab Transcriobe Transcribe
+iab Trascribe Transcribe
+iab conseque4ntly consequently
+iab ratyher rather
+iab utiilised utilised
+iab Vissudhimagga Visuddhimagga
