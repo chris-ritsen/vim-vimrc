@@ -579,6 +579,7 @@ iab Dvorakv Dvorak
 iab Dvorask Dvorak
 iab Dwfiininatley Definitely
 iab Dwonloaded Downloaded
+iab Dynesty Dynasty
 iab Dysnamuic Dynamic
 iab EAcgh Each
 iab EAch Each
@@ -955,6 +956,8 @@ iab Gerat Great
 iab Gesuenheit Gesundheit
 iab GetBooleawn GetBoolean
 iab Gettinmg Getting
+iab Ghilli Gilli
+iab Ghilli gilli
 iab Giod Good
 iab Givign Giving
 iab Glalery Gallery
@@ -3175,11 +3178,13 @@ iab Trackign Tracking
 iab Traditionallhy Traditionally
 iab Tranining Training
 iab Transcrdibing Transcribing
+iab Transcriobe Transcribe
 iab Transcripbing Transcribing
 iab Transerring Transferring
 iab Transevorrm Transform
 iab Transfereed Transfered
 iab Transpikt Transit
+iab Trascribe Transcribe
 iab Trasnscribing Transcribing
 iab Triyn Trying
 iab Trsut Trust
@@ -3316,6 +3321,7 @@ iab Vipassana Vipassanā
 iab Viribartions Vibrations
 iab Virtaul Virtual
 iab Visisble Visible
+iab Vissudhimagga Visuddhimagga
 iab Visualzation Visualization
 iab Visusally Visually
 iab Vitims Victims
@@ -7301,6 +7307,7 @@ iab bufafla buffalo
 iab bufalo buffalo
 iab buferr buffer
 iab buffallo buffalo
+iab buffefrs buffers
 iab buffelo buffalo
 iab buffesr buffers
 iab buffesrzs buffers
@@ -9211,6 +9218,7 @@ iab consecioutive consecutive
 iab consecioutuve consecutive
 iab consenants consonants
 iab consennsous consensus
+iab conseque4ntly consequently
 iab consequennce consequence
 iab consequerntly consequently
 iab consequqnece consequence
@@ -9571,6 +9579,7 @@ iab contnnnnue continue
 iab contoerl control
 iab contoinoius continuous
 iab contoinue continue
+iab contolrller controller
 iab contorl control
 iab contorlelr controller
 iab contorler controller
@@ -12289,6 +12298,7 @@ iab ecasmple example
 iab ecatly exactly
 iab ecause because
 iab eccentricy eccentricity
+iab eccewntric eccentric
 iab ececept except
 iab ecected expected
 iab ececutables executables
@@ -21452,6 +21462,7 @@ iab nirvana nirvāṇa
 iab nirvanana nirvāṇa
 iab nist most
 iab nistead instead
+iab nitce nice
 iab nitegrated integrated
 iab nitnialised initialised
 iab niull null
@@ -25399,6 +25410,7 @@ iab ratigns ratings
 iab ratiio ratio
 iab ratjher rather
 iab rattempt attempt
+iab ratyher rather
 iab rauining raining
 iab ravailable available
 iab rawte rate
@@ -29925,6 +29937,7 @@ iab swlected selected
 iab swnesdations sensations
 iab swokring working
 iab swollow swallow
+iab swome some
 iab swomething something
 iab swpellings spellings
 iab swpet swept
@@ -32846,6 +32859,7 @@ iab usuually usually
 iab uswe use
 iab usyally usually
 iab ut it
+iab utiilised utilised
 iab utiilze utilize
 iab utiize utilize
 iab utiliseeeed utilised
@@ -34308,6 +34322,7 @@ iab wwhen when
 iab wwhenever whenever
 iab wwhich which
 iab wwhile while
+iab wwho who
 iab wwhy why
 iab wwiht with
 iab wwill will
@@ -34608,18 +34623,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab nitce nice
-iab swome some
-iab buffefrs buffers
-iab contolrller controller
-iab wwho who
-iab eccewntric eccentric
-iab Dynesty Dynasty
-iab Ghilli Gilli
-iab Ghilli gilli
-iab Transcriobe Transcribe
-iab Trascribe Transcribe
-iab conseque4ntly consequently
-iab ratyher rather
-iab utiilised utilised
-iab Vissudhimagga Visuddhimagga
