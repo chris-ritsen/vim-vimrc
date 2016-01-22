@@ -16719,6 +16719,7 @@ iab ideax ideas
 iab idefinitely indefinitely
 iab ideintity identity
 iab ideiot idiot
+iab idel idle
 iab idela ideal
 iab idenfiefie identified
 iab idenfitifes identifies
@@ -21030,6 +21031,7 @@ iab mught might
 iab muindane mundane
 iab muinutes minutes
 iab muisuci music
+iab mulple multiple
 iab multidimenational multidimensional
 iab multidutedes multitudes
 iab multilpe multiple
@@ -27328,6 +27330,7 @@ iab sclothes clothes
 iab scnool school
 iab scnwees scenes
 iab scocket socket
+iab scoekt socket
 iab scoep scope
 iab scohool school
 iab scoial social
@@ -34622,6 +34625,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab idel idle
-iab scoekt socket
-iab mulple multiple
