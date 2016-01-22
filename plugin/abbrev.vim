@@ -27102,7 +27102,6 @@ iab rythm rhythm
 iab rythmyic rhythmic
 iab rythymic rhythmic
 iab rytphtimuic rhythmic
-iab s perception
 iab s00cpan s00pcan
 iab s3et set
 iab s3exual sexual
@@ -34623,3 +34622,6 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
+iab idel idle
+iab scoekt socket
+iab mulple multiple
