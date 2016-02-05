@@ -403,3 +403,5 @@ let xml_syntax_folding = 1
 
 " }}}1
 
+let g:netrw_nogx = 1
+
