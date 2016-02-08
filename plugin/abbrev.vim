@@ -34909,3 +34909,5 @@ iab devicve device
 iab survelioence surveillance
 iab camears cameras
 iab surve4illence surveillance
+iab woerd word
+iab NEver Never
