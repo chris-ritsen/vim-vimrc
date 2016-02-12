@@ -30,7 +30,7 @@ set backspace=eol,start,indent
 set cmdheight=1
 set comments+=fb:•
 set comments+=fb:∙
-set commentstring=#\ %s
+" set commentstring=#\ %s
 set completeopt=
 set cpoptions=aABceFsJ "+=J
 set dictionary+=/usr/share/dict/words

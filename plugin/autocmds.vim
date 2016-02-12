@@ -75,7 +75,7 @@ autocmd! FileType make setlocal noexpandtab
 autocmd! BufRead,BufNewFile .eslintrc set filetype=json
 autocmd! BufReadPost *.jshintrc setf json
 autocmd! BufWritePre *.js :%s/\s\+$//e
-autocmd! FileType javascript setlocal foldmethod=marker foldmarker={,}
+autocmd! FileType javascript setlocal foldmethod=marker foldmarker={,} commentstring=\/\/\ %s
 autocmd! Syntax vim setlocal foldmethod=marker | normal zM
 
 " }}}4

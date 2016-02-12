@@ -296,9 +296,9 @@ nnoremap <leader>r :Unite -no-split -buffer-name=files -no-auto-highlight -no-re
 
 " Commentary {{{
 
-nnoremap \\  <Plug>Commentary
-nnoremap \\\ <Plug>CommentaryLine
-" xmap \\  <Plug>Commentary
+nmap \\  <Plug>Commentary
+nmap \\\ <Plug>CommentaryLine
+xmap \\  <Plug>Commentary
 
 " }}}
 
