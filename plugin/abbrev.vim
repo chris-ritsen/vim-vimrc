@@ -1495,6 +1495,7 @@ iab Linuz Linuz
 iab Linuzs Linux
 iab Linxu Linux
 iab Linzu Linux
+iab Lirbariries Libraries
 iab Lisetening Listening
 iab Listendign Listening
 iab Listengidn Listening
@@ -3042,6 +3043,7 @@ iab Tbhus Thus
 iab Tdakers Takers
 iab Teantnaiuve Tentative
 iab Tecchnoique Technique
+iab Technilgoicies Technologies
 iab Techniue Technique
 iab Technolog Technology
 iab Technologu Technology
@@ -16898,6 +16900,7 @@ iab icLoud iCloud
 iab ican can
 iab iclone clone
 iab iclude include
+iab icnlcduign including
 iab icnreasese increase
 iab icnreeased increased
 iab icnresasing increasing
@@ -19341,6 +19344,7 @@ iab laoded loaded
 iab laoding loading
 iab laoptop laptop
 iab laouts layouts
+iab laoyts layouts
 iab laquer lacquer
 iab laquuer laquer
 iab laqx lax
@@ -27344,6 +27348,7 @@ iab rsee see
 iab rseume resume
 iab rslae false
 iab rsponse response
+iab rsponsisve responsive
 iab rsuaeme resume
 iab rsuem resume
 iab rsulting resulting
@@ -35042,10 +35047,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab rsponsisve responsive
-iab laoyts layouts
-iab Lirbariries Libraries
-iab icnlcduign including
-iab Technilgoicies Technologies
-iab isntance instance
-iab maintianed maintained
