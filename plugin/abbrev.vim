@@ -190,7 +190,9 @@ iab CHirsotpher Christopher
 iab CHrihs Chris
 iab CHriostiopher Christopher
 iab CHris Chris
+iab CHrisotpher Christopher
 iab CHristoph4er Christopher
+iab CHristopher Christopher
 iab CHristttopoher Christopher
 iab CHromium Chromium
 iab CLearly Clearly
@@ -250,6 +252,7 @@ iab Christe Christie
 iab Christiopher Christopher
 iab Christipoher Christopher
 iab Christoipher Christopher
+iab Christpheor Christopher
 iab Christpoher Christopher
 iab Chrisw Chris
 iab Chrix Chris
@@ -1930,6 +1933,7 @@ iab PRoblems Problems
 iab PRobyably Probably
 iab PRobyalby Probably
 iab PRobyaly Probably
+iab PRocess Process
 iab PRogramming Programming
 iab PRojcests Projects
 iab PRojcets Projects
@@ -2548,6 +2552,7 @@ iab SCrum Scrum
 iab SDTate State
 iab SDeeing Seeing
 iab SDervice Service
+iab SDesign Design
 iab SDkylake Skylake
 iab SDometihbhinmg Something
 iab SDounds Sounds
@@ -2577,6 +2582,7 @@ iab SFfuering Suffering
 iab SHDC SDHC
 iab SHaszam Shazam
 iab SHe She
+iab SHell Shell
 iab SHipmenbt Shipment
 iab SHipment Shipment
 iab SHipmetn Shipment
@@ -35047,9 +35053,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab PRocess Process
-iab SDesign Design
-iab SHell Shell
-iab Christpheor Christopher
-iab CHrisotpher Christopher
-iab CHristopher Christopher
