@@ -562,6 +562,7 @@ iab Discources Discourses
 iab Discoverd Discovered
 iab Discursxive Discursive
 iab Discvoverd Discovered
+iab Disdalbe Disable
 iab Disoabler Disabler
 iab DisplayPort Writing
 iab Distingiusing Distinguishing
@@ -2100,6 +2101,7 @@ iab Prbioably Probably
 iab Precieient Prescient
 iab Precientt Prescient
 iab Predictbly Predictably
+iab Preetty Pretty
 iab Preferrably Preferably
 iab Preluede Prelude
 iab Premoum Premium
@@ -2973,6 +2975,7 @@ iab THie The
 iab THing Thing
 iab THings Things
 iab THink Think
+iab THinkning Thinking
 iab THird Third
 iab THirty Thirty
 iab THis This
@@ -3264,6 +3267,7 @@ iab Twleeve Twelve
 iab Twnety Twenty
 iab Twoelve Twelve
 iab Twop Two
+iab Twtsting Testing
 iab Tyep Type
 iab Tyherefore Therefore
 iab Tyhis This
@@ -10356,6 +10360,7 @@ iab d4creasing decreasing
 iab d4escribe describe
 iab d4esfruction destruction
 iab d4estruct destruct
+iab d8ailgog dialog
 iab dDeveloper developer
 iab daaamged damaged
 iab daaaylight daylight
@@ -10374,6 +10379,7 @@ iab dahysdream daydream
 iab dailay daily
 iab dailf daily
 iab dailog dialog
+iab dailogiuge dialog
 iab dailyu daily
 iab daioly daily
 iab dalso also
@@ -13057,6 +13063,7 @@ iab enacs emacs
 iab enadchcnatent enchantment
 iab enahnave enhance
 iab enalbed enabled
+iab enambele enable
 iab enbd end
 iab encapuslates encapsulates
 iab encdyrtpecd encrypted
@@ -14350,6 +14357,7 @@ iab expeirience experience
 iab expeirinece experience
 iab expeirnecde experience
 iab expeite expedite
+iab expelianed explained
 iab expendible expendable
 iab expendses expenses
 iab expennses expenses
@@ -19082,6 +19090,7 @@ iab keepw keep
 iab keey keep
 iab keeyp keep
 iab kefbeard keyboard
+iab kefyboard keyboard
 iab kegyboard keyboard
 iab kehys keys
 iab kekbyared keyboard
@@ -19351,6 +19360,7 @@ iab laoding loading
 iab laoptop laptop
 iab laouts layouts
 iab laoyts layouts
+iab laptoip laptop
 iab laquer lacquer
 iab laquuer laquer
 iab laqx lax
@@ -22425,6 +22435,7 @@ iab omeowhat somewhat
 iab omewthing mouthing
 iab ommand command
 iab ommpyter computer
+iab omn on
 iab omnicompleete omnicomplete
 iab omnifunct onmifunc
 iab omnipitant omnipotent
@@ -24419,6 +24430,7 @@ iab pposite opposite
 iab ppostal postal
 iab pposts posts
 iab ppower power
+iab ppppiontless pointless
 iab ppresident president
 iab pproblem problem
 iab pprocess process
@@ -24654,6 +24666,7 @@ iab preimim premium
 iab preinting printing
 iab preiopsitions prepositions
 iab preiouvlulsy previously
+iab preiovdsuly previously
 iab preiovuos previous
 iab preiovusly previously
 iab preiveilge privilege
@@ -33537,6 +33550,7 @@ iab vigiialnt vigilant
 iab vigourous vigorous
 iab viim vim
 iab viisble visible
+iab viislble visible
 iab vill will
 iab vilume volume
 iab vioice voice
