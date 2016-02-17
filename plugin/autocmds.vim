@@ -84,7 +84,7 @@ autocmd! Syntax vim setlocal foldmethod=marker | normal zM
 
 autocmd! BufRead,BufNewFile /tmp/zsh* set filetype=zsh tw=0 nowrap
 autocmd! BufNewFile,BufRead *.zsh set filetype=zsh 
-autocmd! FileType zsh setlocal softtabstop=4 tabstop=4 shiftwidth=4 foldmethod=marker commentstring=#\ %s
+autocmd! FileType zsh setlocal softtabstop=2 tabstop=2 shiftwidth=2 expandtab foldmethod=marker commentstring=#\ %s
 
 " }}}4
 

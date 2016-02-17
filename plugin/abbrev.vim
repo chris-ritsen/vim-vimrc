@@ -106,6 +106,7 @@ iab Architefture Architecture
 iab Arelgiht Alright
 iab Arlgiht Alright
 iab Arlight Alright
+iab Arlright Alright
 iab Aroudn Around
 iab Arttempt Attempt
 iab Asdministrator Administrator
@@ -1452,6 +1453,7 @@ iab LIke Like
 iab LIkewise Likewise
 iab LInuz Linux
 iab LIving Living
+iab LLooking Looking
 iab LOcation Location
 iab LOokiing Looking
 iab LOur Our
@@ -10043,6 +10045,7 @@ iab coudfl could
 iab coudhch couch
 iab coudl could
 iab coughted coughed
+iab coughts coughs
 iab couidl could
 iab couild could
 iab coul could
@@ -19364,6 +19367,7 @@ iab laoding loading
 iab laoptop laptop
 iab laouts layouts
 iab laoyts layouts
+iab lapto laptop
 iab laptoip laptop
 iab laquer lacquer
 iab laquuer laquer
@@ -21518,6 +21522,7 @@ iab naytrualklness naturalness
 iab nayturallness naturalness
 iab nbeside beside
 iab nbow now
+iab nbox box
 iab nbut but
 iab nceessity necessity
 iab ncie nice
