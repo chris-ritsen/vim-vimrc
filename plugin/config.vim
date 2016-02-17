@@ -18,6 +18,7 @@ let g:html_indent_style1 = "zero"
 let g:mapleader = "\\"
 let g:neocomplcache_enable_at_startup = 0
 let g:netrw_http_cmd = "curl -sL -o"
+let g:netrw_nogx = 1
 let g:paredit_loaded = 1
 let g:tex_flavor='latex'
 let g:vcm_default_maps = 0
@@ -402,6 +403,4 @@ let xml_syntax_folding = 1
 " }}}
 
 " }}}1
-
-let g:netrw_nogx = 1
 

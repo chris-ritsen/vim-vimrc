@@ -3103,6 +3103,7 @@ iab Tghuis This
 iab Tghus Thus
 iab Tgus This
 iab Tgusi This
+iab Th1e1 The
 iab Th3e The
 iab Th4e3se These
 iab Th4ere There
@@ -11991,6 +11992,7 @@ iab doensn doesn
 iab doesnt doesn't
 iab doewnloading downloading
 iab doews does
+iab dog1 dog
 iab dogin doing
 iab doging doing
 iab doh9ig doing
@@ -13607,6 +13609,7 @@ iab esearching searching
 iab esecerise exercise
 iab eseen seen
 iab eseential essential
+iab esession session
 iab eseteem esteem
 iab esevices services
 iab esgravagantly extravagantly
@@ -19154,6 +19157,7 @@ iab keyrboard keyboard
 iab keystroke3 keystroke
 iab keyuboahrsd keyboard
 iab keyvboard keyboard
+iab keywboard keyboard
 iab keyyp keyup
 iab kgame game
 iab khana jhāna
@@ -31038,6 +31042,7 @@ iab tewchnigal technical
 iab tewhnical technical
 iab tewnty twenty
 iab tewo two
+iab tewst test
 iab tewsts tests
 iab tewt test
 iab tewtt test
