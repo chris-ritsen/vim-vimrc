@@ -4727,6 +4727,7 @@ iab aliaesd aliased
 iab aliaese aliases
 iab aliaess aliases
 iab aliaesses aliases
+iab aliaeswe aliases
 iab aliasd alias
 iab aliasesw aliases
 iab alibe alive
