@@ -477,5 +477,9 @@ command! -nargs=1 Rename :call OmniSharp#RenameTo("<args>")
 
 " }}}1
 
+" {{{ TODO
+
 " TODO: CmdUndefined - FuncUndefined
+
+" }}}
 
