@@ -306,6 +306,7 @@ iab Comptuer Computer
 iab Compyter Computer
 iab Concact Concat
 iab Conceivingh Conceiving
+iab Concentrarion Concentration
 iab Concequence Consequence
 iab Concnetration Concentration
 iab Conculsuion Conclusion
@@ -5244,6 +5245,7 @@ iab anythging anything
 iab anythhing anything
 iab anythi9ng anything
 iab anythign anything
+iab anythignnn anything
 iab anythignt anything
 iab anythihgn anything
 iab anythihng anything
@@ -8112,6 +8114,7 @@ iab chorme chrome
 iab chormicles chronicles
 iab chornbicles chronicles
 iab chornnicles chronicles
+iab chorse chore
 iab chosne chosen
 iab chosoe choose
 iab chothes clothes
@@ -8556,6 +8559,7 @@ iab collecint collecting
 iab collecion collection
 iab colleciotn collection
 iab colleciton collection
+iab collecteeeeeeed collected
 iab collectin collecting
 iab collectoin collection
 iab collegles colleagues
@@ -8653,6 +8657,7 @@ iab commasnds commands
 iab commeand command
 iab commencde commence
 iab commendary commentary
+iab commerial commercial
 iab commetawtor commentator
 iab commewnts comments
 iab comming coming
@@ -9380,6 +9385,7 @@ iab consiered considered
 iab consiistnalty consistently
 iab consilidation consolidation
 iab consintnetly consistently
+iab consiocsuness consciousness
 iab consiocueness consciousness
 iab consiocuensess consciousness
 iab consiocuness consciousness
@@ -10100,6 +10106,7 @@ iab cowoerkers coworkers
 iab coworkekr coworker
 iab coworkesrs coworkers
 iab coxnsisitently consistently
+iab coxuld could
 iab coyple couple
 iab coyulds could
 iab cpaabilty capability
@@ -11025,6 +11032,7 @@ iab detemrined determined
 iab detentiion detention
 iab deterimine determine
 iab determiend determined
+iab determimed determined
 iab determin determine
 iab determinaion determination
 iab determininig determining
@@ -11825,6 +11833,7 @@ iab distirubing disturbing
 iab distnaces distances
 iab distordted distorted
 iab distored distorted
+iab distorition distortion
 iab distoritions distortions
 iab distortiions distortions
 iab distortioins distortions
@@ -11875,6 +11884,7 @@ iab distrations distractions
 iab distravdeted distracted
 iab distrcation distraction
 iab distrcations distractions
+iab distrciytons distractions
 iab distrction distraction
 iab distrctions distractions
 iab distribuingm distributing
@@ -12558,6 +12568,7 @@ iab eecercise exercise
 iab eechnique technique
 iab eectric electric
 iab eeeeeevent event
+iab eeethics ethics
 iab eefffort effort
 iab eeffort effort
 iab eeither either
@@ -13817,6 +13828,7 @@ iab everadyay everyday
 iab everaythign everything
 iab everbody everybody
 iab everday everyday
+iab everf ever
 iab evergwhere everywhere
 iab everhbody everybody
 iab everhhing everything
@@ -13856,6 +13868,7 @@ iab evertytone everyone
 iab everwyehre everywhere
 iab everwywehre everywhere
 iab every8thing everything
+iab everyd every
 iab everyghing everything
 iab everyhing everything
 iab everyhint everything
@@ -24703,6 +24716,7 @@ iab preocuedure procedure
 iab preoduce produce
 iab preoduction production
 iab preofious previous
+iab preogramming programming
 iab preoiviosuly previously
 iab preoiviously previously
 iab preoivsiluly previously
@@ -26534,6 +26548,7 @@ iab repesently presently
 iab repetetice repetitive
 iab repetetive repetitive
 iab repetiotion repetition
+iab repetoire repertoire
 iab repettitive repetitive
 iab replaceed replaced
 iab replacemnet replacement
@@ -29479,6 +29494,7 @@ iab stawging staging
 iab stawrndard standard
 iab stawrt start
 iab stawrted started
+iab stayh stay
 iab stayrtup startup
 iab stayu stay
 iab stchools schools
@@ -30071,6 +30087,7 @@ iab supremecay supremacy
 iab supremmmcacy supremacy
 iab suprepesed suppressed
 iab supressed suppressed
+iab supression suppression
 iab supriosonglaly surprisingly
 iab suprirosed surprised
 iab suprirsingly surprisingly
@@ -31627,6 +31644,7 @@ iab tinstead instead
 iab tio to
 iab tiol tool
 iab tiomeout timeout
+iab tiootally totally
 iab tirals trials
 iab tiravila trivial
 iab tiredf tired
@@ -31820,6 +31838,7 @@ iab tonightb tonight
 iab tonigiht tonight
 iab tonigith tonight
 iab tonigth tonight
+iab tonigtht tonight
 iab tonke token
 iab tonogiht tonight
 iab tontorl control
@@ -33982,6 +34001,7 @@ iab werew were
 iab werite write
 iab weriting writing
 iab weritten written
+iab weritwre write
 iab wertitings writings
 iab wertritten written
 iab werute write
