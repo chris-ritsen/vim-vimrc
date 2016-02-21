@@ -33,6 +33,9 @@ cnoremap <C-G> <C-U><BS>
 imap  <nop>
 imap <C-@> <C-Space>
 imap <C-Space> <C-x><C-o>
+imap <C-n> <nop>
+imap <C-p> <nop>
+imap <C-u> <nop>
 
 " Disable onmifunc
 imap <C-x><C-o> <nop>
