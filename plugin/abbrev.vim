@@ -11105,6 +11105,7 @@ iab detiaelss details
 iab detial detail
 iab detials details
 iab detnal dental
+iab detreact detract
 iab dettttect detect
 iab detuals details
 iab detyails details
@@ -12244,6 +12245,7 @@ iab droppped dropped
 iab drraw draw
 iab drrawer drawer
 iab drrom from
+iab drubnk drunk
 iab drufging during
 iab drugery drudgery
 iab drunkennewss drunkenness
@@ -13692,6 +13694,7 @@ iab esatly exactly
 iab esay easy
 iab escapse escapes
 iab escapses escapes
+iab escapted escaped
 iab escatasy ecstasy
 iab escatatic ecstatic
 iab esccape escape
@@ -15982,6 +15985,7 @@ iab gorew grow
 iab gorgginess grogginess
 iab goriwing growing
 iab gornw grown
+iab goroves grooves
 iab gorows grows
 iab gorpu group
 iab gorpup group
@@ -22022,6 +22026,7 @@ iab notebooki notebook
 iab notebooksd notebooks
 iab noteboook notebook
 iab notecrd notecard
+iab noteice notice
 iab noteiced noticed
 iab notejs nodejs
 iab notesa notes
@@ -25703,6 +25708,7 @@ iab qmount amount
 iab qmy my
 iab qork work
 iab qould could
+iab qqerry qwerty
 iab qquakltiy quality
 iab qquestion question
 iab qquickly quickly
