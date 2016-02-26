@@ -19843,6 +19843,7 @@ iab lhave have
 iab lhealthy healthy
 iab lhiglhighted highlighted
 iab lhorizontal horizontal
+iab lhost host
 iab liaghing laughing
 iab liason liaison
 iab libing living
