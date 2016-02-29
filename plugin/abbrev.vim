@@ -999,6 +999,7 @@ iab GetBooleawn GetBoolean
 iab Gettinmg Getting
 iab Ghilli Gilli
 iab Ghilli gilli
+iab Gigves Gives
 iab Giod Good
 iab Givign Giving
 iab Glalery Gallery
@@ -3309,6 +3310,7 @@ iab UInsight Insight
 iab UIt It
 iab UNder Under
 iab UNdertaking Undertaking
+iab UNfroruntuately Unfortunately
 iab UNivierse Universe
 iab UNivsere Universe
 iab UNless Unless
@@ -16755,6 +16757,7 @@ iab hopefpully hopefully
 iab hopefull hopefully
 iab hopefulluy hopefully
 iab hopefulyl hopefully
+iab hopefuyl hopeful
 iab hopelelssly hopelessly
 iab hopelleslsy hopelessly
 iab hopess hopes
@@ -26210,6 +26213,7 @@ iab recnernt recent
 iab recnet recent
 iab recnetly recently
 iab recnetrly recently
+iab recnt3elty recently
 iab recoerd record
 iab recogfniehse recognise
 iab recogfnize recognize
@@ -30706,6 +30710,7 @@ iab t4hee the
 iab t9o to
 iab tHuman human
 iab tThis this
+iab taake take
 iab taaking taking
 iab taaks tasks
 iab taalk talk
