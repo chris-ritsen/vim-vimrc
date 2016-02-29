@@ -162,6 +162,7 @@ autocmd! BufRead,BufNewFile ~/.vimpcrc set filetype=vim foldmethod=marker foldma
 
 " }}}
 
+autocmd! BufRead,BufNewFile ~/.config/mpv/mpv.conf setlocal commentstring=#\ %s
 autocmd! BufRead,BufNewFile ~/.csgo.autoexec.cfg setlocal foldmethod=marker foldmarker={,} commentstring=\/\/\ %s 
 
 autocmd! BufRead,BufNewFile ~/.offlineimaprc setfiletype conf
@@ -193,7 +194,7 @@ autocmd! FileType svnannotate cmap <buffer> q bwipeout
 " text {{{
 
 autocmd! FileType text setlocal commentstring=%s
-autocmd! BufEnter * if &filetype == "" | setlocal filetype=text | endif
+" autocmd! BufEnter * if &filetype == "" | setlocal filetype=text | endif
 autocmd! FileType text setlocal textwidth=78
 
  " }}}
