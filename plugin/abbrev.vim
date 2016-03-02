@@ -138,6 +138,7 @@ iab BAckt Back
 iab BGeiing Being
 iab BNrahman Brahman
 iab BOot Boot
+iab BOrders Borders
 iab BOught Bought
 iab BOugnd Bound
 iab BOviously Obviously
@@ -222,6 +223,7 @@ iab Caffeeine Caffeine
 iab Cahange Change
 iab Cahcne Chance
 iab Cahrtaxccteristics Characteristics
+iab Caldnears Calendars
 iab Carefyl Careful
 iab Carruer Carrier
 iab Casues Causes
@@ -290,6 +292,7 @@ iab Cliched Clichéd
 iab Clsoe Close
 iab Clsoely Closely
 iab Cmomputers Computers
+iab Cna Can
 iab Cnotroller Controller
 iab CoConstants Constants
 iab Coffeer Coffee
@@ -890,6 +893,7 @@ iab FOrty Forty
 iab FOrutnatley Fortunately
 iab FOrward Forward
 iab FOund Found
+iab FOunders Founders
 iab FOur Four
 iab FRankenmuth Frankenmuth
 iab FReewriting Freewriting
@@ -1426,6 +1430,7 @@ iab Jhans Jhānas
 iab Joghn John
 iab Jogn John
 iab Johyn John
+iab Jsavasscript Javascript
 iab Jsut Just
 iab Judgenment Judgment
 iab Jupming Jumping
@@ -1813,9 +1818,12 @@ iab OPened Opened
 iab OPening Opening
 iab OPenning Opening
 iab OPens Opens
+iab OPeraiotional Operational
 iab OPerarting Operating
 iab OPerating Operating
+iab OPerationlal Operational
 iab OPerations Operations
+iab OPeratiosional Operational
 iab OPtional Optional
 iab OPtions Options
 iab OPtioonal Optional
@@ -1954,6 +1962,7 @@ iab PRobyably Probably
 iab PRobyalby Probably
 iab PRobyaly Probably
 iab PRocess Process
+iab PRoducts Products
 iab PRogramming Programming
 iab PRojcests Projects
 iab PRojcets Projects
@@ -2097,6 +2106,7 @@ iab Porojcts Projects
 iab Portrayng Portraying
 iab Poseter Poster
 iab Posibibly Possibly
+iab Posiiotoins Positions
 iab Posisbly Possibly
 iab Posoisbily Possibly
 iab Possisesisng Possessing
@@ -2939,6 +2949,7 @@ iab TEantative Tentative
 iab TEantatnaive Tentative
 iab TEantive Tentative
 iab TEanttaitve Tentative
+iab TEchicnal Technical
 iab TEchnical Technical
 iab TEchnique Technique
 iab TEchniquqe Technique
@@ -4738,6 +4749,7 @@ iab aldcohol alcohol
 iab aleady already
 iab alearady already
 iab aleaready already
+iab aler4t alert
 iab alerady already
 iab aleternatively alternatively
 iab alewrt alert
@@ -5266,6 +5278,7 @@ iab anyoying annoying
 iab anyr any
 iab anyrhing anything
 iab anyrthign anything
+iab anyrthing anything
 iab anys any
 iab anyt any
 iab anyt9hgng anything
@@ -7958,6 +7971,7 @@ iab cetnury century
 iab cetrain certain
 iab cevlver clever
 iab cew few
+iab cewnrferd centered
 iab cewnter center
 iab cfalse false
 iab cfire fire
@@ -12232,6 +12246,7 @@ iab dreivers drivers
 iab dreives drives
 iab dremaed dreamed
 iab dresearch research
+iab drga drag
 iab drian drain
 iab driection direction
 iab driective directive
@@ -12635,6 +12650,7 @@ iab ecxxitement excitement
 iab ecycle cycle
 iab eddison edison
 iab edeleberate deliberate
+iab edesign design
 iab edesk desk
 iab edestroyed destroyed
 iab edevis device
@@ -13505,6 +13521,7 @@ iab eopisdoes episodes
 iab eopisode episode
 iab eother other
 iab eotilet toilet
+iab eowrrd word
 iab epe4xireinece experience
 iab epecft expect
 iab epect expect
@@ -14885,6 +14902,7 @@ iab fards cards
 iab farenheight fahrenheit
 iab farily fairly
 iab farvorable favorable
+iab fascebokok facebook
 iab fascillitate facilitate
 iab fascscinating fascinating
 iab fasghionsed fashioned
@@ -17994,6 +18012,7 @@ iab inefficienceies inefficiencies
 iab inefficiences inefficiencies
 iab ineherent inherent
 iab ineherently inherently
+iab ineheretance inheritance
 iab ineherint inherent
 iab inehreinertly inherently
 iab inehrent inherent
@@ -18550,6 +18569,7 @@ iab interewsting interesting
 iab interfacee interface
 iab interfacesa interfaces
 iab interfacte interface
+iab interfaeces interfaces
 iab interfaes interfaces
 iab interfavales interfiles
 iab interfce interface
@@ -18557,6 +18577,7 @@ iab interfecerence interference
 iab interfedrred interfered
 iab intergral integral
 iab intergrated integrated
+iab interhietence inheritance
 iab interia inertia
 iab interinal internal
 iab interlaly internally
@@ -21660,6 +21681,7 @@ iab natgrually naturally
 iab natgurally naturally
 iab nathing anything
 iab natice native
+iab nativiation navigation
 iab nativlely natively
 iab natnraully naturally
 iab natorually naturally
@@ -22270,6 +22292,7 @@ iab obligiatrory obligatory
 iab obligtations obligations
 iab oblvcigations obligations
 iab obn own
+iab oboejct object
 iab obothe both
 iab obovius obvious
 iab obrder border
@@ -22438,6 +22461,7 @@ iab ocmmunity community
 iab ocmoeutpers computers
 iab ocmopments components
 iab ocmopytuer computer
+iab ocmpanred compared
 iab ocmpany company
 iab ocmpatability compatibility
 iab ocmpayny company
@@ -22928,6 +22952,7 @@ iab oreder order
 iab orederd ordered
 iab oredr order
 iab oreiented oriented
+iab oreoeiented oriented
 iab orer order
 iab orered ordered
 iab oreturn return
@@ -22963,6 +22988,7 @@ iab oridainry ordinary
 iab orider order
 iab oridinals ordinals
 iab oridinary ordinary
+iab orieinted oriented
 iab oriftiganl original
 iab origainl original
 iab origainlly originally
@@ -23563,6 +23589,7 @@ iab pbeen been
 iab pblem problem
 iab pbluslih publish
 iab pblwoing blowing
+iab pboject object
 iab pbolem problem
 iab pbooks books
 iab pboundary boundary
@@ -24001,11 +24028,13 @@ iab phohe phone
 iab phoilisophers philosophers
 iab phomne phone
 iab phonentic phonetic
+iab phontos photos
 iab phooto photo
 iab phootograph photograph
 iab phospherus phosphorus
 iab photograpohic photographic
 iab photogrpahsers photographers
+iab photoos photos
 iab photosohop photoshop
 iab photots photos
 iab phrobitibvely prohibitively
@@ -25263,8 +25292,10 @@ iab proecess process
 iab proecesses precesses
 iab proecss process
 iab proected protected
+iab proeducts products
 iab proejct project
 iab proeoprty property
+iab proepertyu property
 iab proeprly properly
 iab proerly properly
 iab proerty property
@@ -25415,6 +25446,7 @@ iab propegate propagate
 iab propell propel
 iab propelrty property
 iab propelry properly
+iab properities proprieties
 iab properition proportion
 iab properlty properly
 iab propertionm proportion
@@ -33004,6 +33036,7 @@ iab undefinatele undefinable
 iab undefineid undefined
 iab undeneath underneath
 iab undepxpewcatdly unexpectedly
+iab underaneath underneath
 iab underatken undertaken
 iab underdantd understand
 iab underdsand understand
