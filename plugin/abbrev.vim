@@ -1365,6 +1365,7 @@ iab Interseting Interesting
 iab Interuldes Interludes
 iab Intetnet Internet
 iab Intimiate Intimate
+iab Intrefeaces Interfaces
 iab Intrest Interest
 iab Intuitied Intuited
 iab Invaldi Invalid
@@ -2041,6 +2042,7 @@ iab Peripoheral Peripheral
 iab Peripuehral Peripheral
 iab Peripuheral Peripheral
 iab Permenenat Permanent
+iab Perosn Person
 iab Perosnal Personal
 iab Persistant Persistent
 iab Persisteince Persistence
@@ -2526,6 +2528,7 @@ iab Ristnde Ritsen
 iab Ristne Ritsen
 iab Ristnwe Ritsen
 iab Ritnsen Ritsen
+iab Rits4en Ritsen
 iab Ritsen4 Ritsen
 iab Ritsne Ritsen
 iab Ritsnee Ritsen
@@ -3557,6 +3560,7 @@ iab Whatefvever Whatever
 iab Whaterver Whatever
 iab Whatewver Whatever
 iab Whatwevr Whatever
+iab Whaty What
 iab Whcih Which
 iab Whcin Which
 iab Whdich Which
@@ -7443,6 +7447,7 @@ iab brrain brain
 iab brteath breath
 iab brteawks breaks
 iab brtings brings
+iab brtowser browser
 iab brudh brush
 iab brunging burning
 iab brushd brush
@@ -11395,6 +11400,7 @@ iab diesitrcting distracting
 iab diesng design
 iab diesribable desirable
 iab diesriibalbe desirable
+iab diestgng design
 iab diestracted distracted
 iab diestractions distractions
 iab diestress distress
@@ -11636,6 +11642,7 @@ iab direwction direction
 iab direxctly directly
 iab direxting directing
 iab dirextories directories
+iab dirference difference
 iab dirfferent different
 iab dirft drift
 iab dirinking drinking
@@ -15802,6 +15809,7 @@ iab fvalues values
 iab fve4ry very
 iab fvew few
 iab fvie five
+iab fview view
 iab fwe few
 iab fxing fixing
 iab fybctiun function
@@ -17451,6 +17459,7 @@ iab implemenattion implementation
 iab implemeneted implemented
 iab implemeneting implementing
 iab implementaetiong implementation
+iab implementaing implementing
 iab implementaion implementation
 iab implementaiton implementation
 iab implementated implemented
@@ -28369,6 +28378,7 @@ iab sepearate separate
 iab sepearated separated
 iab sepearting separating
 iab sepeeeed speed
+iab sepeerate separate
 iab sepend spend
 iab sepent spent
 iab seperaitely separately
@@ -28450,6 +28460,7 @@ iab servuice service
 iab ses sees
 iab sesaon season
 iab sesations sensations
+iab sesdsions sessions
 iab sesion session
 iab sesions sessions
 iab sesiosn session
@@ -28744,6 +28755,7 @@ iab sifgnigiciant significant
 iab sifnificant significant
 iab sigfnificant significant
 iab siginificant significant
+iab signautures signatures
 iab signel single
 iab signicicsantly significantly
 iab signicifant significant
@@ -29032,6 +29044,7 @@ iab slef self
 iab slefless selfless
 iab slefv self
 iab slehf shelf
+iab slel3ect select
 iab slelctecd selected
 iab slelecfewd selected
 iab slelected selected
@@ -35396,16 +35409,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab Whaty What
-iab dirference difference
-iab implementaing implementing
-iab signautures signatures
-iab Intrefeaces Interfaces
-iab sepeerate separate
-iab diestgng design
-iab fview view
-iab sesdsions sessions
-iab slel3ect select
-iab brtowser browser
-iab Perosn Person
-iab Rits4en Ritsen
