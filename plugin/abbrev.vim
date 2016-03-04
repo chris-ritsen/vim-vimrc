@@ -1051,6 +1051,7 @@ iab HOward Howard
 iab HOwevefer However
 iab HOwever However
 iab HOwevver However
+iab HOwq How
 iab HOwver However
 iab HOwverer However
 iab HPaseers Phasers
@@ -1553,6 +1554,7 @@ iab Looko Look
 iab Loondon London
 iab Loooiking Looking
 iab Loook Look
+iab Lraage Large
 iab Lsitening Listening
 iab Luagh Laugh
 iab Lumnch Lunch
@@ -2276,6 +2278,7 @@ iab Qhat What
 iab Qualty Quality
 iab Quanitty Quantity
 iab Quantm Quantum
+iab Questuionsx Questions
 iab Quiantity Quantity
 iab Qyiut Quit
 iab RAnge Range
@@ -2930,6 +2933,7 @@ iab Switcihg Switching
 iab Swithc Switch
 iab Syatem System
 iab Syhnopsis Synopsis
+iab Sympnhoyny Symphony
 iab Synatax Syntax
 iab Synonmym Synonym
 iab Synonmyms Synonyms
@@ -3259,6 +3263,7 @@ iab Tjshi This
 iab Tkae Take
 iab Tkling Talking
 iab Tlaked Talked
+iab Tlaking Talking
 iab Tnaknks Thanks
 iab Tnaksks Thanks
 iab Tnasknks Thanks
@@ -3382,6 +3387,7 @@ iab Usin Using
 iab Usleess Useless
 iab Usleless Useless
 iab Usless Useless
+iab Usuablity Usability
 iab Usuallu Usually
 iab Ususally Usually
 iab Ususaully Usually
@@ -7509,6 +7515,7 @@ iab buiing building
 iab buikds builds
 iab buil build
 iab buildas builds
+iab buildder builder
 iab buildgin building
 iab buildign building
 iab buildigns buildings
@@ -10761,6 +10768,7 @@ iab defirved derived
 iab defition definition
 iab defiulmenets defilements
 iab defleopers developers
+iab deflevopelment development
 iab deflilemnts defilements
 iab deflvoperes developers
 iab defmintealy definitely
@@ -10860,6 +10868,7 @@ iab delviers delivers
 iab delviery delivery
 iab delviiering delivering
 iab delvoepement development
+iab delvoepments developments
 iab dely delay
 iab delya delay
 iab demoands demands
@@ -11247,6 +11256,7 @@ iab devleopipmental developmental
 iab devleopme3tn development
 iab devleopmeing developing
 iab devleopment development
+iab devleopments developments
 iab devleopmer developer
 iab devleopmes develops
 iab devleopmetn development
@@ -11286,6 +11296,7 @@ iab dewsire desire
 iab dewspite despite
 iab dewvelopers developers
 iab dewvleop develop
+iab dewvleopment development
 iab dewvlep develop
 iab dexcbribes describes
 iab dexcribed described
@@ -12046,6 +12057,7 @@ iab diureation duration
 iab diuring during
 iab diusplay display
 iab diversge diverge
+iab dividied divided
 iab divieded divided
 iab divisibe divisive
 iab divisioins divisions
@@ -12465,6 +12477,7 @@ iab eabsoulte absolute
 iab eacch each
 iab eacclty exactly
 iab eaccpet accept
+iab eacdlty exactly
 iab eacgh each
 iab eact act
 iab eadch each
@@ -13551,6 +13564,7 @@ iab episodew episode
 iab eplanet planet
 iab epmployers employers
 iab epmptied emptied
+iab epopelpe people
 iab epophany epiphany
 iab eposideo episode
 iab epracticing practicing
@@ -14601,6 +14615,7 @@ iab expermintal experimental
 iab expermtremly extremely
 iab experoecned experienced
 iab experoeiince experience
+iab experoieince experience
 iab experpieicnes experiences
 iab expertisze expertize
 iab expertizs expertize
@@ -17669,6 +17684,7 @@ iab imrpoartn important
 iab imrpoatnrt important
 iab imrpoatnt important
 iab imrporatn important
+iab imrporfoements improvements
 iab imrporght important
 iab imrportanrt important
 iab imrpotanrt important
@@ -17687,6 +17703,7 @@ iab imrpove improve
 iab imrpoved improved
 iab imrpovement improvement
 iab imrpovemtn improvement
+iab imrpoviing improving
 iab imrpppotant important
 iab imrproant important
 iab imrptarnt important
@@ -20570,6 +20587,7 @@ iab mathicng matching
 iab matianined maintained
 iab matieral material
 iab matierla material
+iab matinenenace maintenance
 iab matreial material
 iab matrhicng matching
 iab matrierlal material
@@ -26373,6 +26391,7 @@ iab reeturn return
 iab reevaelsed revealed
 iab reewtdched researched
 iab refacter refactor
+iab refactoriing refactoring
 iab refarctoring refactoring
 iab refcently recently
 iab refeerence reference
