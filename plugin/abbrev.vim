@@ -2422,6 +2422,7 @@ iab RInste4 Ritsen
 iab RIsne Ritsen
 iab RIstne Ritsen
 iab RIstwen Ritsen
+iab RItghgt Right
 iab RItnse Ritsen
 iab RItsbne Ritsen
 iab RItsen Ritsen
@@ -2468,6 +2469,7 @@ iab Refractorign Refactoring
 iab Refrences References
 iab Regeret Regret
 iab Regualr Regular
+iab Relaly Really
 iab Relatiopnsshiops Relationships
 iab Releslesnsess Restlessness
 iab Relflexes Reflexes
@@ -3273,6 +3275,7 @@ iab Tobasco Tabasco
 iab Tocpuhing Touching
 iab Tocuhging Touching
 iab Todau Today
+iab Todya Today
 iab Tongitht Tonight
 iab Tood Too
 iab Toropor Torpor
@@ -3329,6 +3332,7 @@ iab UInsight Insight
 iab UIt It
 iab UNder Under
 iab UNdertaking Undertaking
+iab UNecertain Uncertain
 iab UNfroruntuately Unfortunately
 iab UNivierse Universe
 iab UNivsere Universe
@@ -3974,6 +3978,7 @@ iab accidentlaly accidentally
 iab accidentlalyt accidentally
 iab accidently accidentally
 iab accidiantally accidentally
+iab accidineatlly accidentally
 iab accidn3t accident
 iab accidnetal accidental
 iab accidnetlaly accidentally
@@ -4325,6 +4330,7 @@ iab activitiies activities
 iab activitiy activity
 iab activitiyes activities
 iab activitiyt activity
+iab activitry activity
 iab activityes activities
 iab activityh activity
 iab activityies activities
@@ -6943,6 +6949,7 @@ iab beneifits benefits
 iab beneift benefit
 iab beneiftis benefits
 iab beneifts benefits
+iab beneifyts benefits
 iab benelevant benevolent
 iab benenfits benefits
 iab benfit benefit
@@ -8276,6 +8283,7 @@ iab circuluar circular
 iab circumansnaces circumstances
 iab circumestances circumstances
 iab circumsatances circumstances
+iab circumsatenaces circumstances
 iab circumsatnaces circumstances
 iab circut circuit
 iab ciricle circle
@@ -8565,6 +8573,7 @@ iab codel code
 iab codem code
 iab codepednent codependent
 iab codifieer codifier
+iab codigin coding
 iab codign coding
 iab codmplete complete
 iab codmptuers computers
@@ -8801,6 +8810,7 @@ iab communicafion communication
 iab communicatieding communicating
 iab communicationg communications
 iab communicatyor communicator
+iab communiciate communicate
 iab communictated communicated
 iab communitcate communicate
 iab communitity community
@@ -14851,6 +14861,7 @@ iab eysteyrdsa yesterday
 iab eyt yet
 iab eyteys eyes
 iab eyus yes
+iab eyusterday yesterday
 iab eyye eye
 iab eztremley extremely
 iab fIgure figure
@@ -14894,6 +14905,7 @@ iab failuyres failures
 iab failying failing
 iab failyre failure
 iab failyres failures
+iab failyure failure
 iab faimiilar familiar
 iab faitghued fatigued
 iab faklcoins falcons
@@ -15450,6 +15462,7 @@ iab foucucused focused
 iab foudn found
 iab foudned founded
 iab fouind found
+iab foundaition foundation
 iab foundre founder
 iab fountin fountain
 iab fourt four
@@ -17029,6 +17042,7 @@ iab hunrdesd hundred
 iab hunrdred hundred
 iab hunred hundred
 iab hunrededs hundreds
+iab hunrgry hungry
 iab hurended hundred
 iab hurtzs hurts
 iab huselss useless
@@ -17414,6 +17428,7 @@ iab imnspection inspection
 iab imonologue monologue
 iab imopermanent impermanent
 iab imopllants implants
+iab imoposisble impossible
 iab imoposisblity impossibility
 iab imortant important
 iab imp0onderably imponderably
@@ -18274,6 +18289,7 @@ iab inretested interested
 iab inrfomration information
 iab inrldgbluy incredibly
 iab inrreqnuelty infrequently
+iab inrteriview interview
 iab inrtersting interesting
 iab inrterval interval
 iab insaert insert
@@ -18606,6 +18622,7 @@ iab intergrated integrated
 iab interhietence inheritance
 iab interia inertia
 iab interinal internal
+iab interivew interview
 iab interlaly internally
 iab interneal internal
 iab internela internal
@@ -18938,6 +18955,8 @@ iab irrevelvant irrelevant
 iab irreverewnt irreverent
 iab irreversable irreversible
 iab irrevlevent irrelevant
+iab irriditating irritating
+iab irritaitting irritating
 iab irritiated irritated
 iab irritiating irritating
 iab irritiatingt irritating
@@ -20686,6 +20705,7 @@ iab meditaiomn meditation
 iab meditaion meditation
 iab meditaiong meditation
 iab meditaiotn meditation
+iab meditaite meditate
 iab meditaition meditation
 iab meditaitive meditative
 iab meditaiton meditation
@@ -20742,6 +20762,7 @@ iab meiditaiotn meditation
 iab meidtaiont meditation
 iab meidtaiotn meditation
 iab meidtaiotors meditators
+iab meidtaite meditate
 iab meidtaition meditation
 iab meidtaitive meditative
 iab meidtaiton meditation
@@ -21578,6 +21599,7 @@ iab musc misc
 iab muscellenus miscellaneous
 iab musch much
 iab musci music
+iab muscial musical
 iab muscless muscles
 iab muscluar muscular
 iab muscoi music
@@ -22176,6 +22198,7 @@ iab ntatrually naturally
 iab ntaturaeully naturally
 iab ntaturally naturally
 iab ntecesary necessary
+iab nterview interview
 iab ntes notes
 iab ntesxy testy
 iab ntetwork network
@@ -25256,6 +25279,7 @@ iab proclaima proclaim
 iab procoess process
 iab procoesses processes
 iab procranstionation procrastination
+iab procrastiation procrastination
 iab procrastinateiong procrastinating
 iab procrastionation procrastination
 iab procratssinate procrastinate
@@ -25277,6 +25301,7 @@ iab prodiuct product
 iab prodiuction production
 iab prodocol protocol
 iab prodocude produce
+iab prodouce produce
 iab produc produce
 iab producced produced
 iab produccts products
@@ -27264,6 +27289,7 @@ iab reterieval retrieval
 iab reterive retrieve
 iab reternn return
 iab retetion retention
+iab reteurn return
 iab retgurned returned
 iab retiina retina
 iab retnr return
@@ -27607,6 +27633,7 @@ iab rpedict predict
 iab rpeeat repeat
 iab rpeesent present
 iab rpefix prefix
+iab rpelaced replaced
 iab rpeleacve replace
 iab rpeoivuslyu previously
 iab rpepare prepare
@@ -28022,6 +28049,7 @@ iab screnplay screenplay
 iab screwen screen
 iab screwn screen
 iab scribblling scribbling
+iab scriblbing scribbling
 iab scrilll scroll
 iab scriopt script
 iab scripot script
@@ -31066,6 +31094,7 @@ iab tegy they
 iab teh the
 iab tehat that
 iab tehater theater
+iab tehcincial technical
 iab tehcnical technical
 iab tehcnice technique
 iab tehcnollogy technology
@@ -31115,6 +31144,7 @@ iab telegraphuc telegraphic
 iab teleivion television
 iab teleivsiion television
 iab teleivsion television
+iab telelecvbiision television
 iab telelviision television
 iab telelvision television
 iab telelvisoin television
@@ -32462,6 +32492,7 @@ iab trinyg trying
 iab tripp3ed tripped
 iab trivail trivial
 iab trival trivial
+iab triviali trivial
 iab triviall trivial
 iab triviialp trivial
 iab trivila trivial
@@ -35116,6 +35147,7 @@ iab wwekeeknd weekend
 iab wwekekend weekend
 iab wwekekned weekend
 iab wwekened weekend
+iab wwekes weeks
 iab wwell well
 iab wwere were
 iab wwhat what
