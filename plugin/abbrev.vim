@@ -11565,6 +11565,7 @@ iab difiulctl difficult
 iab difividions divisions
 iab difrerenty different
 iab difrernece difference
+iab difrf4rence difference
 iab difrfenrelty differently
 iab difrfenret different
 iab difrferent different
@@ -29583,6 +29584,7 @@ iab spesialised specialised
 iab spewcifi specific
 iab spewnt spent
 iab spexific specific
+iab spheere sphere
 iab sphidistiacated sophisticated
 iab sphyological physiological
 iab spi9ritual spiritual
@@ -31307,6 +31309,7 @@ iab terigilby terribly
 iab teriible terrible
 iab terinal terminal
 iab terirbile terrible
+iab teririble terrible
 iab termal thermal
 iab termerature temperature
 iab termial terminal
@@ -35460,6 +35463,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab teririble terrible
-iab difrf4rence difference
-iab spheere sphere
