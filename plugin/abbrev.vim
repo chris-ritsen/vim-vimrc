@@ -30,6 +30,7 @@ iab ALright Alright
 iab ANd And
 iab ANgular Angular
 iab ANother Another
+iab APplied Applied
 iab ARch Arch
 iab ARe Are
 iab ARiving Arriving
@@ -552,6 +553,7 @@ iab Developmetn Development
 iab Devember December
 iab Deveopelopers Developers
 iab Devisingh Devising
+iab Devleioper Developer
 iab Devleoped Developed
 iab Devleoper Developer
 iab Devleopers Developers
@@ -4238,6 +4240,7 @@ iab acocmplished accomplished
 iab acocmplishments accomplishments
 iab acocomlsished accomplished
 iab acocomplanied accompanied
+iab acocomplish accomplish
 iab acocoutn account
 iab acocunt account
 iab acocunts accounts
@@ -5087,6 +5090,7 @@ iab anems names
 iab aneuysm aneurysm
 iab anexrexia anorexia
 iab aney any
+iab anfd and
 iab angain again
 iab angilarjs angular
 iab anglarjs angularjs
@@ -6688,6 +6692,7 @@ iab barriesrs barriers
 iab bartking barking
 iab bary vary
 iab barying varying
+iab bas3e base
 iab bascilaly basically
 iab basck back
 iab baseee base
@@ -7442,6 +7447,7 @@ iab brokne broken
 iab brokren broken
 iab brooswers browsers
 iab brophter brother
+iab broring boring
 iab brosaers browsers
 iab broser browser
 iab broswer browser
@@ -10239,6 +10245,7 @@ iab cpmptoeuir computer
 iab cpoies copies
 iab cpolmeted completed
 iab cpomleted completed
+iab cpomparison comparison
 iab cpomplaining complaining
 iab cpoomleted completed
 iab cpopy copy
@@ -10292,6 +10299,7 @@ iab creawte create
 iab crecall recall
 iab crecent crescent
 iab credentialss credentials
+iab creditrs credits
 iab creeate create
 iab creen screen
 iab creens screens
@@ -10841,6 +10849,7 @@ iab deliberables deliverables
 iab deliberatelwy deliberately
 iab deliberatley deliberately
 iab delibery delivery
+iab delibiaerately deliberately
 iab delibieralty deliberately
 iab delibvery delivery
 iab delicous delicious
@@ -13569,6 +13578,7 @@ iab episdodfes episodes
 iab episdoeeees episodes
 iab episeodes episodes
 iab episidoes episodes
+iab episiode episode
 iab episoce episode
 iab episode4 episode
 iab episodew episode
@@ -15132,6 +15142,7 @@ iab fihgts fights
 iab fijnished finished
 iab filded filed
 iab fileds fields
+iab filenaem filename
 iab filesa files
 iab filess files
 iab filesystmes filesystems
@@ -17643,6 +17654,7 @@ iab improt import
 iab improtanc3e importance
 iab improtance importance
 iab improtandcne importance
+iab improtannce importance
 iab improtanrnt important
 iab improtanrt important
 iab improtanrtn important
@@ -19083,6 +19095,7 @@ iab itnerrupted interrupted
 iab itnersted interested
 iab itnerval interval
 iab itno into
+iab itnruging intriguing
 iab ito into
 iab itoehr other
 iab itr it
@@ -19230,6 +19243,7 @@ iab joiking joking
 iab joininig joining
 iab jokgin joking
 iab jome home
+iab josn json
 iab jouints joints
 iab jounrines journeys
 iab jourines journeys
@@ -20255,6 +20269,7 @@ iab lsistening listening
 iab lsit list
 iab lsited listed
 iab lsiten listen
+iab lsitend listened
 iab lsitened listened
 iab lsitener listener
 iab lsiteners listeners
@@ -20274,6 +20289,7 @@ iab lthe the
 iab ltrascribed transcribed
 iab lttiel little
 iab lttile little
+iab ltyricsd lyrics
 iab luaght laugh
 iab luandry laundry
 iab lubnber lumber
@@ -24953,6 +24969,7 @@ iab prefviously previously
 iab pregerred preferred
 iab pregvent prevent
 iab preice price
+iab preicous precious
 iab preidictable predictable
 iab preimim premium
 iab preinting printing
@@ -25103,6 +25120,7 @@ iab previou previous
 iab previoulsly previously
 iab previoulsy previously
 iab previouslyu previously
+iab previousw previous
 iab previouysly previously
 iab previoyus previous
 iab previoyusl previous
@@ -28077,6 +28095,7 @@ iab scrtipt script
 iab scrupit script
 iab scrupt script
 iab scrutinty scrutiny
+iab scrween screen
 iab sctadch scratch
 iab sctamnle scramble
 iab sctaytched scratched
@@ -31447,6 +31466,7 @@ iab tghread thread
 iab tghrough through
 iab tghuis this
 iab tghumb thumb
+iab tgime time
 iab tgimeout timeout
 iab tgive give
 iab tgiven given
