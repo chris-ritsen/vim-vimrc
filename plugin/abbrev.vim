@@ -4184,7 +4184,7 @@ iab achieveable achievable
 iab achieveing achieving
 iab achievememtns achievements
 iab achip chip
-iab achive archive
+iab achive achieve
 iab achived achieved
 iab achivement achievement
 iab achivevinmg achieving
@@ -8927,6 +8927,7 @@ iab complanu company
 iab complatiable compatible
 iab complauin complain
 iab complciated complicated
+iab complcisated complicated
 iab compledted completed
 iab compleete complete
 iab complege complete
@@ -9754,6 +9755,7 @@ iab contihyunue continue
 iab contiitons conditions
 iab contin8ue continue
 iab continaes continues
+iab continbue continue
 iab continent content
 iab contineu continue
 iab continioum continuum
@@ -11064,6 +11066,7 @@ iab desiralbet desirable
 iab desireable desirable
 iab desireing desiring
 iab desiriable desirable
+iab desiribele desirable
 iab desirigting desiring
 iab desirners designers
 iab desitation destination
@@ -12406,6 +12409,7 @@ iab dtransltated translated
 iab dtrigger trigger
 iab dturn turn
 iab dtying trying
+iab dtyping typing
 iab duaghter daughter
 iab dualityes dualities
 iab duather father
@@ -16528,6 +16532,7 @@ iab heapdhones headphones
 iab heapdohnes headphones
 iab heapdohones headphones
 iab heapdones headphones
+iab heappening happening
 iab heaqd head
 iab hearding hearing
 iab heardrs headers
@@ -17753,6 +17758,7 @@ iab inacurate inaccurate
 iab inadequecy inadequacy
 iab inadequete inadequate
 iab inadvertantly inadvertently
+iab inadverttently inadvertently
 iab inagibnue imagine
 iab inahbitiging inhabiting
 iab inappropraite inappropriate
@@ -18237,6 +18243,7 @@ iab initialiose initialise
 iab initialisaiotn initialisation
 iab initialllly initially
 iab initital initial
+iab inititalise initialise
 iab initlaize initialize
 iab initliaize initialize
 iab initsrc initscr
@@ -18742,6 +18749,7 @@ iab intial initial
 iab intibitying inhibiting
 iab intietnions intentions
 iab intiioton intuition
+iab intiislaise initialise
 iab intiitive intuitive
 iab intimiate intimate
 iab intimitely intimately
@@ -22030,6 +22038,7 @@ iab nighits nights
 iab nightl night
 iab nightr night
 iab nigth night
+iab niguht night
 iab nimage image
 iab ninece nice
 iab ninsudries industries
@@ -23986,6 +23995,7 @@ iab persistant persistent
 iab persistantly persistently
 iab persistawnece persistence
 iab persistenc persistence
+iab persistenwt persistent
 iab persistesd persisted
 iab persistnece persistence
 iab persitence persistence
@@ -27266,6 +27276,8 @@ iab ressurectuion resurrection
 iab restablished reestablished
 iab restared restarted
 iab restarruyt restaurant
+iab restartedt restarted
+iab restatrted restarted
 iab restauernt restaurant
 iab resteless restless
 iab restelessness restlessness
@@ -27465,6 +27477,7 @@ iab rewqvienw rewoven
 iab rewsnounce renounce
 iab rewsolutely resolutely
 iab rewsponsiblity responsibility
+iab rewstaretd restarted
 iab rewsuem resume
 iab rewsulting resulting
 iab rewsults results
@@ -27521,6 +27534,7 @@ iab ridiculus ridiculous
 iab ridicuouls ridiculous
 iab ridicuulus ridiculous
 iab ridilculus ridiculous
+iab ridiouclous ridiculous
 iab ridiuclus ridiculous
 iab riducllus ridiculous
 iab rieds rides
@@ -29290,6 +29304,7 @@ iab sofwtware software
 iab sohhould should
 iab sohluld should
 iab sohould should
+iab sohuld should
 iab soical social
 iab soickal social
 iab soiemth8ing something
@@ -33290,6 +33305,7 @@ iab unexpecfted unexpected
 iab unexpecierineced unexperienced
 iab unexpecietd unexpected
 iab unexpectealy unexpectedly
+iab unexpewctedly unexpectedly
 iab unfamiilayr unfamiliar
 iab unfamiliy unfamiliar
 iab unfamillar unfamiliar
@@ -35483,4 +35499,41 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab ridiouclous ridiculous
+iab reconise recognise
+iab filesytemem filesystem
+iab unwathecd unwatched
+iab resumew resume
+iab usewd used
+iab cenreter center
+iab Thereforew Therefore
+iab playbkack playback
+iab aaawyw away
+iab ocmpouters computers
+iab plasys plays
+iab irelelveant irrelevant
+iab teleivision television
+iab alrready already
+iab posi4tion position
+iab eidts edits
+iab epsidoese episodes
+iab siimilairly similarly
+iab diffenrewt different
+iab albeliet albeit
+iab silightly slightly
+iab inititate initiate
+iab ANything Anything
+iab dscvreen screen
+iab temrinatl terminal
+iab sdize size
+iab hesitaition hesitation
+iab immeidaitely immediately
+iab implmenented implemented
+iab informatiojn information
+iab rewlelvant relevant
+iab ounly only
+iab dimensionsd dimensions
+iab oscket socket
+iab wsocket socket
+iab aanother another
+iab underanth underneath
+iab tenh then
