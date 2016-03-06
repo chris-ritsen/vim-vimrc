@@ -22,7 +22,21 @@ endif
 
 " General Settings {{{2
 
+" set commentstring=#\ %s
 " set completeopt=menuone,menu,longest,preview
+" set hl+=D:DiffDelete,T:DiffText,>:SignColumn,-:Conceal
+
+set hl=8:SpecialKey,@:NonText,d:Directory,e:ErrorMsg,i:IncSearch,l:Search
+
+" set hl+=!:CursorColumn,.:CursorLine,o:ColorColumn:set
+
+set hl+=Bs
+set hl+=Pn
+set hl+=R:SpellRare,L:SpellLocal,+:Pmenu,=:PmenuSel,x:PmenuSbar,X:PmenuThumb
+set hl+=\*:TabLine,#:TabLineSel,_:TabLineFill
+set hl+=m:MoreMsg,M:ModeMsg,n:LineNr,N:CursorLineNr,r:Question
+set hl+=s:StatusLine,S:StatusLineNC,c:VertSplit,t:Title,v:Visual,V:VisualNOS
+set hl+=w:WarningMsg,W\ :WildMenu,f:Folded,F:FoldColumn,A:DiffAdd,C:DiffChange
 
 set autoindent
 set autoread
@@ -30,24 +44,9 @@ set backspace=eol,start,indent
 set cmdheight=1
 set comments+=fb:•
 set comments+=fb:∙
-" set commentstring=#\ %s
 set completeopt=
 set cpoptions=aABceFsJ "+=J
 set dictionary+=/usr/share/dict/words
-set noerrorbells
-set hl=8:SpecialKey,@:NonText,d:Directory,e:ErrorMsg,i:IncSearch,l:Search
-set hl+=m:MoreMsg,M:ModeMsg,n:LineNr,N:CursorLineNr,r:Question
-set hl+=s:StatusLine,S:StatusLineNC,c:VertSplit,t:Title,v:Visual,V:VisualNOS
-set hl+=w:WarningMsg,W\ :WildMenu,f:Folded,F:FoldColumn,A:DiffAdd,C:DiffChange
-" set hl+=D:DiffDelete,T:DiffText,>:SignColumn,-:Conceal
-"
-set hl+=Bs
-"
-set hl+=Pn
-
-set hl+=R:SpellRare,L:SpellLocal,+:Pmenu,=:PmenuSel,x:PmenuSbar,X:PmenuThumb
-set hl+=\*:TabLine,#:TabLineSel,_:TabLineFill
-" set hl+=!:CursorColumn,.:CursorLine,o:ColorColumn:set
 set dir=~/.vim/swap//,/tmp//,.
 set encoding=utf-8
 set expandtab
@@ -57,9 +56,8 @@ set foldlevel=20
 set foldlevelstart=20
 set foldmethod=marker
 set foldminlines=1
-set formatoptions+=njw
 set formatlistpat=^\\s*\\d\\+[\\]:.)}\\t\ ]\\s*\\\|^\\*\\s*\|^\\s*∙\\s*\|^\\s*•\\s*  
-" |^•\\s*|^∙\\s*
+set formatoptions+=njw
 set guiheadroom=0
 set hidden
 set history=10000
@@ -88,7 +86,11 @@ set noshowmode
 set novisualbell
 set nowrap
 set nrformats=octal,hex,alpha " increment strings
-set path=.,/usr/include,/usr/local/lib/php/,/usr/share/povray/include,/usr/share/doc/rfc/txt
+
+set path=.,/usr/include,/usr/local/lib/php/,/usr/share/povray/include
+
+set path+=.,/usr//usr/share/doc/rfc/txt
+
 set printdevice=laserjet
 set printheader=
 set scrollopt=jump,hor,ver
@@ -124,19 +126,51 @@ set updatetime=500
 set viminfo=!,'100,\"100,:20,<50,s10,h,n~/.viminfo
 set virtualedit=all
 set whichwrap+=<,>,h,l
-set wildignore=.svn,CVS,.git,*.o,*.a,*.class,*.mo,*.la,*.so,*.obj,*.swp,*.jpg,*.png,*.xpm,*.gif,*.pdf,*.eps,*.tif,*.o,*.obj,.git,*.pyc,.android,.adobe,.abgx360,.DS_Store,CFUserTextEncoding,.bundler,.config,.cache,.cpan,.dropbox,.dbshell,.cups,.fontconfig,.dbus-keyrings,.emacs.d,.fonts,.gem,.forever,.npm,.heroku,.oracle,.vim,.adobe,.gem,.cache,.config,.dbus,.fonts,.heroku,.macromedia,.irssi,*.torrent,.mozilla,.npm,.pki,.pip,.remmina,.thumbnails,.VirtualBox,.w3m,node_modules,.node-gyp,.node-gyp,.fontconfig,.abgx360,.bower,*.JPG,*.MOV,*.iso,*.PNG,.bitcoin/*,.cmus/*,.sass-cache/*
 set wildmenu
 set wildmode=list:longest,full
 set wmh=0
+
+set wildignore=.svn,CVS,.git,*.o,*.a,*.class,*.mo,*.la,*.so,*.obj,*.swp,*.jpg
+
+set wildignore+=*.android,.adobe,.abgx360,.DS_Store,CFUserTextEncoding
+set wildignore+=*.png,*.xpm,*.gif,*.pdf,*.eps,*.tif,*.o,*.obj,.git,*.pyc
+set wildignore+=.bitcoin/*,.cmus/*,.sass-cache/*
+set wildignore+=.bundler,.config,.cache,.cpan,.dropbox,.dbshell,.cups
+set wildignore+=.fontconfig,.dbus-keyrings,.emacs.d,.fonts,.gem,.forever,.npm
+set wildignore+=.heroku,.macromedia,.irssi,*.torrent,.mozilla,.npm,.pki,.pip
+set wildignore+=.heroku,.oracle,.vim,.adobe,.gem,.cache,.config,.dbus,.fonts
+set wildignore+=.node-gyp,.fontconfig,.abgx360,.bower,*.JPG,*.MOV,*.iso,*.PNG
+set wildignore+=.remmina,.thumbnails,.VirtualBox,.w3m,node_modules,.node-gyp
 
 " }}}2
  
 " gui {{{2
 
-set guicursor=n-v-c:block-Cursor/lCursor,ve:ver35-Cursor,o:hor50-Cursor,i-ci:ver25-Cursor/lCursor,r-cr:hor20-Cursor/lCursor,sm:block-Cursor-blinkwait175-blinkoff150-blinkon175
+set guicursor=n-v-c:block-Cursor/lCursor,ve:ver35-Cursor,o:hor50-Cursor
+
 set guicursor+=a:blinkon0
+set guicursor+=n-i-ci:ver25-Cursor/lCursor,r-cr:hor20-Cursor/lCursor
+set guicursor+=n-sm:block-Cursor-blinkwait175-blinkoff150-blinkon175
                                                        
-set guioptions-=L guioptions-=T guioptions-=m guioptions-=r
+set guioptions-=LTmr
+
+if has("gui_running")
+  if has("gui_gtk2")
+    set guifont=Monaco\ 11
+  elseif has("gui_photon")
+    set guifont=Monaco\ 11
+  elseif has("gui_kde")
+    set guifont=Monaco\ 11
+  elseif has("x11")
+		" TODO: More elaborate here
+    set guifont=Monaco\ 11
+  else
+    set guifont=Monaco\ 11
+  endif
+
+	" TODO: Get rid of the ridiculous border
+
+endif
 
 " }}}2
 
