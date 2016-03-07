@@ -30,6 +30,7 @@ iab ALright Alright
 iab ANd And
 iab ANgular Angular
 iab ANother Another
+iab ANything Anything
 iab APplied Applied
 iab ARch Arch
 iab ARe Are
@@ -52,6 +53,7 @@ iab Accitenyt Accident
 iab Accplmplisihing Accomplishing
 iab Actiually Actually
 iab Acutaully Actually
+iab Adavnce Advance
 iab Additonally Additionally
 iab Adhereance Adherence
 iab Adjustewd Adjusted
@@ -215,6 +217,7 @@ iab COming Coming
 iab COmmon Common
 iab COmmunication Communication
 iab COmread Comrade
+iab COndiser Consider
 iab COntact Contact
 iab COudl Could
 iab COuld Could
@@ -337,6 +340,7 @@ iab Consiidering Considering
 iab Conspicious Conspicuous
 iab Conssciousness Consciousness
 iab Constawnt Constant
+iab Constenration Consternation
 iab Constgnzwnt Constant
 iab Constnalty Constantly
 iab Constnant Constant
@@ -1932,6 +1936,7 @@ iab PLEzsde Please
 iab PLan Plan
 iab PLanets Planets
 iab PLaying Playing
+iab PLayulist Playlist
 iab PLease Please
 iab PLeases Pleases
 iab PLeasews Pleases
@@ -3048,6 +3053,7 @@ iab THursdasy Thursday
 iab TIgers Tigers
 iab TIme Time
 iab TJhsi This
+iab TODSO TODO
 iab TOIDO TODO
 iab TOOD TODO
 iab TOday Today
@@ -3179,6 +3185,7 @@ iab Theough Though
 iab Ther There
 iab Thereavada Theravada
 iab Theree There
+iab Thereforew Therefore
 iab Thereofre Therefore
 iab Therere There
 iab Therevada Theravada
@@ -3713,6 +3720,7 @@ iab aaaas as
 iab aaalimimgnet alignment
 iab aaamplitute amplitude
 iab aaask ask
+iab aaawyw away
 iab aable able
 iab aabout about
 iab aabove above
@@ -4757,6 +4765,7 @@ iab alaways always
 iab alays always
 iab albe alba
 iab albel label
+iab albeliet albeit
 iab albivilenant ambivalent
 iab albumb album
 iab alcholic alcoholic
@@ -4907,6 +4916,7 @@ iab alrgith alright
 iab alrgoithu alright
 iab alrightr alright
 iab alritght alright
+iab alrready already
 iab alrrtered altered
 iab alruigfhrt alright
 iab alsat last
@@ -7081,6 +7091,7 @@ iab bfour four
 iab bfrom from
 iab bgcvolor bgcolor
 iab bge be
+iab bgefore before
 iab bgest best
 iab bgetter better
 iab bgewore before
@@ -7939,6 +7950,7 @@ iab cenfere center
 iab cenfter center
 iab cenmtered centered
 iab cennter center
+iab cenreter center
 iab cenrter center
 iab censorshup censorship
 iab centarllized centralized
@@ -8001,6 +8013,7 @@ iab cewnter center
 iab cfalse false
 iab cfire fire
 iab cfirst first
+iab cfunction function
 iab cgabge change
 iab cgateroy category
 iab cgoaal goal
@@ -11455,6 +11468,7 @@ iab diffenr3et different
 iab diffenrent different
 iab diffenret different
 iab diffenretn different
+iab diffenrewt different
 iab diffenrrence difference
 iab diffent different
 iab differbnt different
@@ -11591,6 +11605,7 @@ iab diir door
 iab dilea ideal
 iab dillemna dilemma
 iab dimaensions dimensions
+iab dimensionsd dimensions
 iab dimesion dimension
 iab dimesnions dimensions
 iab dimesnsions dimensions
@@ -12339,6 +12354,7 @@ iab dsciriminating discriminating
 iab dscrecion discretion
 iab dscribing describing
 iab dscription description
+iab dscvreen screen
 iab dsdecribed described
 iab dsearch search
 iab dsee see
@@ -12893,6 +12909,7 @@ iab eidtoed edited
 iab eidtor editor
 iab eidtorial editorial
 iab eidtors editors
+iab eidts edits
 iab eiedting editing
 iab eimmieatley immediately
 iab ein in
@@ -13599,6 +13616,7 @@ iab eprxieirnces experiences
 iab epseciually especially
 iab epsidoe episode
 iab epsidoesd episodes
+iab epsidoese episodes
 iab epsisodes episodes
 iab eputtion elution
 iab epwould would
@@ -14426,6 +14444,7 @@ iab existeince existence
 iab existennce existence
 iab existiance existence
 iab existience existence
+iab existign existing
 iab existin existing
 iab existinance existence
 iab existitensce existence
@@ -14929,6 +14948,7 @@ iab fallwen fallen
 iab fallying falling
 iab falmcons falcons
 iab falres flares
+iab fals3e false
 iab falsae false
 iab falsde false
 iab falseley falsely
@@ -15150,6 +15170,7 @@ iab filenaem filename
 iab filesa files
 iab filess files
 iab filesystmes filesystems
+iab filesytemem filesystem
 iab filesytems filesystems
 iab filetres filters
 iab filetrs filters
@@ -15600,6 +15621,7 @@ iab frist first
 iab frivoluslyu frivolously
 iab frlm from
 iab frmaework framework
+iab frmo from
 iab frnech french
 iab frnotend frontend
 iab froaud fraud
@@ -15635,7 +15657,7 @@ iab frustraging frustrating
 iab frustraitngingly frustratingly
 iab frustrasting frustrating
 iab frustrawting frustrating
-iab frutehr fruiter
+iab frutehr further
 iab fruther further
 iab fruti fruit
 iab frutio fruit
@@ -16628,6 +16650,7 @@ iab hersefl herself
 iab hesistant hesitant
 iab hesistate hesitate
 iab hesistation hesitation
+iab hesitaition hesitation
 iab hesitatite hesitate
 iab hesitiation hesitation
 iab hestiatating hesitating
@@ -17419,6 +17442,7 @@ iab immedlately immediately
 iab immedsiately immediately
 iab immeense immense
 iab immeidailtey immediately
+iab immeidaitely immediately
 iab immeidately immediately
 iab immeidatley immediately
 iab immeidiately immediately
@@ -17431,6 +17455,7 @@ iab immiedalteoyly immediately
 iab immieeeeeiate immediate
 iab immmediate immediate
 iab immmediately immediately
+iab immmieadalteyu immediately
 iab immmortal immortal
 iab immobialised immobilised
 iab immortaitlty immortality
@@ -17526,6 +17551,7 @@ iab implemnented implemented
 iab implemnetations implementations
 iab implemneted implemented
 iab implemneting implementing
+iab implemnetn implement
 iab implemntation implementation
 iab implemtation implementation
 iab implemtenetgd implemented
@@ -17543,6 +17569,7 @@ iab implmeent implement
 iab implmeented implemented
 iab implmementation implementation
 iab implmenentations implementations
+iab implmenented implemented
 iab implmenet implement
 iab implmeneted implemented
 iab implmeneteed implemented
@@ -18138,6 +18165,7 @@ iab informaation information
 iab informaiton information
 iab informaotin information
 iab informatino information
+iab informatiojn information
 iab informationf information
 iab informationu information
 iab informatoin information
@@ -18244,6 +18272,7 @@ iab initialisaiotn initialisation
 iab initialllly initially
 iab initital initial
 iab inititalise initialise
+iab inititate initiate
 iab initlaize initialize
 iab initliaize initialize
 iab initsrc initscr
@@ -18947,6 +18976,7 @@ iab irdser order
 iab irecenlty recently
 iab irectly directly
 iab ireercocovaly irrevocably
+iab irelelveant irrelevant
 iab irellevent irrelevant
 iab irequires requires
 iab irequring requiring
@@ -21951,6 +21981,7 @@ iab netfilix netflix
 iab netgative negative
 iab nethier neither
 iab netiher neither
+iab netires entires
 iab netity entity
 iab netowkk network
 iab nettwrok network
@@ -22551,6 +22582,7 @@ iab ocmpletel complete
 iab ocmpletely completely
 iab ocmpleting completing
 iab ocmponents components
+iab ocmpouters computers
 iab ocmpteyur computer
 iab ocmptuer computer
 iab ocmptuers computers
@@ -23118,6 +23150,7 @@ iab osciallation oscillation
 iab osciallator oscillator
 iab oscialllator oscillator
 iab oscillatiojs oscillations
+iab oscket socket
 iab osdmethign something
 iab osdooner sooner
 iab osemthign something
@@ -23204,6 +23237,7 @@ iab oucld could
 iab oughht ought
 iab ouit out
 iab oultiple multiple
+iab ounly only
 iab ounter counter
 iab ouptut output
 iab ourselfs ourself
@@ -23651,6 +23685,7 @@ iab pauase pause
 iab pauchekc paycheck
 iab paunfiul painful
 iab pauritcyualr particular
+iab paus3 pause
 iab pawdding padding
 iab pawge page
 iab paycejcjk paycheck
@@ -24257,6 +24292,7 @@ iab plannign planning
 iab plaqy play
 iab plastesd placed
 iab plastivf plastic
+iab plasys plays
 iab platfomr platform
 iab platforma platform
 iab platimum platinum
@@ -24265,6 +24301,7 @@ iab plauer player
 iab plaun plain
 iab plausiable plausible
 iab plawdce placed
+iab playbkack playback
 iab playedch played
 iab playetr player
 iab playform platform
@@ -24278,6 +24315,8 @@ iab playinh playing
 iab playiong playing
 iab playlistas playlists
 iab playlistwsa playlists
+iab playlsit playlist
+iab playlsits playlists
 iab playoing playing
 iab plcae place
 iab plcaec place
@@ -24330,6 +24369,7 @@ iab plibraries libraries
 iab plicancy pliancy
 iab pliencay pliancy
 iab plkan plan
+iab plkay play
 iab plkweaaae please
 iab pllease please
 iab plneaes planes
@@ -24551,6 +24591,7 @@ iab posble possible
 iab posessed possessed
 iab posesses possesses
 iab posessing possessing
+iab posi4tion position
 iab posiblble possible
 iab posible possible
 iab posiiotiosn positions
@@ -26347,6 +26388,7 @@ iab reconenct reconnect
 iab recongiition recognition
 iab recongisable recognisable
 iab recongizasbly recognizably
+iab reconise recognise
 iab reconized recognized
 iab reconsgtriucting reconstructing
 iab recoonect reconnect
@@ -27304,6 +27346,7 @@ iab resulme resume
 iab resultuion resolution
 iab resultuling resulting
 iab resuluitant resultant
+iab resumew resume
 iab resuqested requested
 iab resusulatants resultants
 iab resutl result
@@ -27466,6 +27509,7 @@ iab rewctacnlge rectangle
 iab rewflext reflect
 iab rewfrencex reference
 iab rewiveiwng reviewing
+iab rewlelvant relevant
 iab rewponse response
 iab rewqarding rewarding
 iab rewqrd reward
@@ -28163,6 +28207,7 @@ iab sdistinct distinct
 iab sdistracting distracting
 iab sdistractions distractions
 iab sdite site
+iab sdize size
 iab sdleepign sleeping
 iab sdloppily sloppily
 iab sdo do
@@ -28858,6 +28903,7 @@ iab signnificalntly significantly
 iab signoficialnty significantly
 iab signpu signup
 iab signuyp signup
+iab siimilairly similarly
 iab sijmple simple
 iab sijmpluy simply
 iab sijngle single
@@ -28870,6 +28916,7 @@ iab silennced silenced
 iab silentinly silently
 iab silevefr silver
 iab silhousetts silhouettes
+iab silightly slightly
 iab silmply simply
 iab silmpy simply
 iab silocon silicon
@@ -31178,6 +31225,7 @@ iab telecscope telescope
 iab telegraphgic telegraphic
 iab telegraphuc telegraphic
 iab teleivion television
+iab teleivision television
 iab teleivsiion television
 iab teleivsion television
 iab telelecvbiision television
@@ -31266,6 +31314,7 @@ iab temreature temperature
 iab temrianl terminal
 iab temrinal terminal
 iab temrinals terminals
+iab temrinatl terminal
 iab temrnal terminal
 iab temrparature temperature
 iab temrpearature temperature
@@ -31300,6 +31349,7 @@ iab tenent tenant
 iab tenentativie tentative
 iab tenetively tentatively
 iab tenftawive tentative
+iab tenh then
 iab tenmoppo tempo
 iab tennteaitive tentative
 iab tennteantive tentative
@@ -31558,6 +31608,7 @@ iab theire there
 iab theirin therein
 iab theis this
 iab theise these
+iab thejn then
 iab themesa themes
 iab themeselves themselves
 iab themesevles themselves
@@ -33138,6 +33189,7 @@ iab undefineid undefined
 iab undeneath underneath
 iab undepxpewcatdly unexpectedly
 iab underaneath underneath
+iab underanth underneath
 iab underatken undertaken
 iab underdantd understand
 iab underdsand understand
@@ -33523,6 +33575,7 @@ iab unuusal unusual
 iab unuusual unusual
 iab unviersae universe
 iab unwareare unaware
+iab unwathecd unwatched
 iab unweieldy unwieldy
 iab unwelcomed unwelcome
 iab unwholsesome unwholesome
@@ -33642,6 +33695,7 @@ iab useufl useful
 iab useules useless
 iab useuless useless
 iab usew use
+iab usewd used
 iab usewful useful
 iab usews users
 iab usful useful
@@ -33940,6 +33994,7 @@ iab vicitm victim
 iab vicotry victory
 iab vicotyr victory
 iab victiom victim
+iab videdo video
 iab videio video
 iab videios videos
 iab video0s videos
@@ -35125,6 +35180,7 @@ iab wsince since
 iab wsisdom wisdom
 iab wsith with
 iab wskillful skillful
+iab wsocket socket
 iab wsoemthign something
 iab wsomeone someone
 iab wsomething something
@@ -35499,41 +35555,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab reconise recognise
-iab filesytemem filesystem
-iab unwathecd unwatched
-iab resumew resume
-iab usewd used
-iab cenreter center
-iab Thereforew Therefore
-iab playbkack playback
-iab aaawyw away
-iab ocmpouters computers
-iab plasys plays
-iab irelelveant irrelevant
-iab teleivision television
-iab alrready already
-iab posi4tion position
-iab eidts edits
-iab epsidoese episodes
-iab siimilairly similarly
-iab diffenrewt different
-iab albeliet albeit
-iab silightly slightly
-iab inititate initiate
-iab ANything Anything
-iab dscvreen screen
-iab temrinatl terminal
-iab sdize size
-iab hesitaition hesitation
-iab immeidaitely immediately
-iab implmenented implemented
-iab informatiojn information
-iab rewlelvant relevant
-iab ounly only
-iab dimensionsd dimensions
-iab oscket socket
-iab wsocket socket
-iab aanother another
-iab underanth underneath
-iab tenh then
