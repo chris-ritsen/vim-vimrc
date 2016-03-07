@@ -12544,6 +12544,7 @@ iab eaitng eating
 iab eakweak weak
 iab ealarier earlier
 iab ealbe able
+iab ealier earlier
 iab ealire earlier
 iab eall all
 iab ealrier earlier
@@ -20854,6 +20855,7 @@ iab memeory memory
 iab memeos memos
 iab memeroy memory
 iab memery memory
+iab memgbers members
 iab memmmmroy memory
 iab memmory memory
 iab memoeoies memories
@@ -23696,6 +23698,7 @@ iab paygoinb playing
 iab payign paying
 iab paymenet payment
 iab paymment payment
+iab payse pause
 iab pbeen been
 iab pblem problem
 iab pbluslih publish
@@ -24318,6 +24321,7 @@ iab playlistwsa playlists
 iab playlsit playlist
 iab playlsits playlists
 iab playoing playing
+iab playulist playlist
 iab plcae place
 iab plcaec place
 iab plces places
@@ -27388,10 +27392,12 @@ iab retrive retrieve
 iab retrived retrieved
 iab retrrrrrrravbil retrieval
 iab retstrict restrict
+iab retuern return
 iab retuirn return
 iab retunr return
 iab retunred returned
 iab retur4n return
+iab returen return
 iab returend returned
 iab returened returned
 iab returenjd returned
@@ -27721,6 +27727,7 @@ iab rpesently presently
 iab rpesewnted presented
 iab rpessssssure pressure
 iab rpevent prevent
+iab rpevoius previous
 iab rpimary primary
 iab rpippple ripple
 iab rpobably probably
@@ -34003,6 +34010,7 @@ iab videosa videos
 iab videoss videos
 iab videossss videos
 iab videows video
+iab videso videos
 iab videws videos
 iab vidited visited
 iab vidoe video
@@ -34239,6 +34247,7 @@ iab waswtd wasted
 iab wasys ways
 iab watcdhing watching
 iab watcdng watching
+iab watchedc watched
 iab watchg watch
 iab watchgify watchify
 iab watchign watching
@@ -34350,6 +34359,7 @@ iab webswite website
 iab webvam webcam
 iab webwite website
 iab webwsite website
+iab wecho echo
 iab weconds seconds
 iab wednday wednesday
 iab weeeekend weekend
