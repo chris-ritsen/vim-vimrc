@@ -35565,3 +35565,13 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
+iab direcotry directory
+iab baename basename
+iab reasdtwerts restarts
+iab restartxs restarts
+iab hjoem home
+iab resrtart restart
+iab se3t set
+iab waqtched watched
+iab watcehd watched
+iab unwatcdhed unwatched
