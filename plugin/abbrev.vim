@@ -3056,6 +3056,7 @@ iab TJhsi This
 iab TODSO TODO
 iab TOIDO TODO
 iab TOOD TODO
+iab TOSDO TODO
 iab TOday Today
 iab TOitanfall Titanfall
 iab TOkens Tokens
@@ -6642,6 +6643,7 @@ iab badsed based
 iab badvkspacing backspacing
 iab bae be
 iab baeck back
+iab baename basename
 iab baetter better
 iab bagcon bacon
 iab baid bait
@@ -11652,6 +11654,7 @@ iab direcitonpi direction
 iab direcitory directory
 iab direcltly directly
 iab direclty directly
+iab direcotry directory
 iab direcoverty directory
 iab direcrotyr directory
 iab direcrtory directory
@@ -13603,6 +13606,7 @@ iab episidoes episodes
 iab episiode episode
 iab episoce episode
 iab episode4 episode
+iab episodess episodes
 iab episodew episode
 iab eplanet planet
 iab epmployers employers
@@ -13972,6 +13976,7 @@ iab evauluate evaluate
 iab evealutate evaluate
 iab evealutation evaluation
 iab eveaphorate evaporate
+iab evebnt event
 iab evedently evidently
 iab evedientally evidently
 iab eveentually eventually
@@ -16795,6 +16800,7 @@ iab hjandle handle
 iab hjave have
 iab hjere here
 iab hjmust must
+iab hjoem home
 iab hjome home
 iab hjover hover
 iab hjpyotetical hypothetical
@@ -16888,6 +16894,7 @@ iab hosuew house
 iab hosuing housing
 iab hosuld should
 iab hosurs hours
+iab hosw show
 iab hotswwap hotswap
 iab hould should
 iab houres hours
@@ -20205,6 +20212,7 @@ iab locationsa locations
 iab locationsl locations
 iab locatiopn location
 iab locatwe locate
+iab locavl local
 iab locdation location
 iab locgic logic
 iab locical logical
@@ -22664,6 +22672,7 @@ iab oerfedct perfect
 iab oerperiod period
 iab oether other
 iab oevent event
+iab oever over
 iab oexteneded extended
 iab ofadvantage advantage
 iab ofc of
@@ -25268,6 +25277,7 @@ iab prject project
 iab prlblems problems
 iab prlonging prolonging
 iab prmimary primary
+iab prmpts prompts
 iab pro3tect protect
 iab proablbuy probably
 iab proablby probably
@@ -26255,6 +26265,7 @@ iab reasction reaction
 iab reasd read
 iab reasder reader
 iab reasdon reason
+iab reasdtwerts restarts
 iab reasearch research
 iab reasearfch research
 iab reaseearchign researching
@@ -27316,6 +27327,7 @@ iab resquices rescues
 iab resquies rescues
 iab resquires requires
 iab resreaching researching
+iab resrtart restart
 iab resspoiinsible responsible
 iab ressureciton resurrection
 iab ressurectuion resurrection
@@ -27323,6 +27335,7 @@ iab restablished reestablished
 iab restared restarted
 iab restarruyt restaurant
 iab restartedt restarted
+iab restartxs restarts
 iab restatrted restarted
 iab restauernt restaurant
 iab resteless restless
@@ -28236,6 +28249,7 @@ iab sdtorng strong
 iab sdtuff stuff
 iab sducceeding succeeding
 iab sdvhool school
+iab se3t set
 iab seach each
 iab sealled sealed
 iab seamalessley seamlessly
@@ -29089,6 +29103,7 @@ iab sititng sitting
 iab sitiuation situation
 iab sitll still
 iab sitmulus stimulus
+iab sitnead instead
 iab sitruationn situation
 iab sittin sitting
 iab sittting sitting
@@ -33582,6 +33597,7 @@ iab unuusal unusual
 iab unuusual unusual
 iab unviersae universe
 iab unwareare unaware
+iab unwatcdhed unwatched
 iab unwathecd unwatched
 iab unweieldy unwieldy
 iab unwelcomed unwelcome
@@ -34212,6 +34228,7 @@ iab waorund around
 iab waould would
 iab wapr warp
 iab waqs was
+iab waqtched watched
 iab warapper wrapper
 iab warapping wrapping
 iab wararnt warrant
@@ -34247,6 +34264,7 @@ iab waswtd wasted
 iab wasys ways
 iab watcdhing watching
 iab watcdng watching
+iab watcehd watched
 iab watchedc watched
 iab watchg watch
 iab watchgify watchify
@@ -35565,13 +35583,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab direcotry directory
-iab baename basename
-iab reasdtwerts restarts
-iab restartxs restarts
-iab hjoem home
-iab resrtart restart
-iab se3t set
-iab waqtched watched
-iab watcehd watched
-iab unwatcdhed unwatched
