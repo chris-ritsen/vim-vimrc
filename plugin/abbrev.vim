@@ -14678,6 +14678,7 @@ iab expeted expected
 iab expetional exceptional
 iab expewcrience experience
 iab expewct expect
+iab expewiriced expired
 iab expewlrieince experience
 iab expewnsive expensive
 iab expewrieicing experiencing
@@ -14900,6 +14901,7 @@ iab eysterdyay yesterday
 iab eysteyrdsa yesterday
 iab eyt yet
 iab eyteys eyes
+iab eyuars years
 iab eyus yes
 iab eyusterday yesterday
 iab eyye eye
@@ -23792,6 +23794,8 @@ iab penetrainting penetrating
 iab penomoenon phenomenon
 iab penralnmtly permanently
 iab pensd pens
+iab pentality penalty
+iab pentalty penalty
 iab penulitimate penultimate
 iab peoeple people
 iab peoielk people
@@ -26865,6 +26869,7 @@ iab rendinering rendering
 iab reneews renews
 iab renegate renegade
 iab renenwes renews
+iab reneweal renewal
 iab renewes renews
 iab reniunciation renunciation
 iab renmaming remaining
@@ -27383,6 +27388,7 @@ iab retetion retention
 iab reteurn return
 iab retgurned returned
 iab retiina retina
+iab retn rent
 iab retnr return
 iab retporter reporter
 iab retpye retype
@@ -35583,9 +35589,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab pentalty penalty
-iab pentality penalty
-iab retn rent
-iab expewiriced expired
-iab eyuars years
-iab reneweal renewal
