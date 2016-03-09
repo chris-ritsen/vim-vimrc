@@ -3442,6 +3442,7 @@ iab Vidoe Video
 iab Vipassana Vipassanā
 iab Viribartions Vibrations
 iab Virtaul Virtual
+iab Visdual Visual
 iab Visisble Visible
 iab Vissudhimagga Visuddhimagga
 iab Visualzation Visualization
@@ -7428,6 +7429,7 @@ iab briewf brief
 iab brigh bright
 iab brigher brighter
 iab brighness brightness
+iab brightr bright
 iab brihgt bright
 iab briidge bridge
 iab brin bran
@@ -12312,6 +12314,7 @@ iab driection direction
 iab driective directive
 iab driectly directly
 iab driere drier
+iab driev drive
 iab driferer drifter
 iab drifevr driver
 iab drifiting drifting
@@ -13772,6 +13775,7 @@ iab erquire require
 iab errends errands
 iab errires errors
 iab erroR error
+iab erronnously erroneously
 iab errono errno
 iab erronosously erroneously
 iab erronous erroneous
@@ -15314,6 +15318,7 @@ iab fiuther further
 iab fiuvcking fucking
 iab fixagtion fixation
 iab fixds fixes
+iab fixesd fixed
 iab fixign fixing
 iab fixiing fixing
 iab fixses fixes
@@ -15452,6 +15457,7 @@ iab forefver forever
 iab foreget forget
 iab foregoin foregoing
 iab foregorund foreground
+iab foregroound foreground
 iab foreigh foreign
 iab foreing foreign
 iab forevever forever
@@ -17835,6 +17841,7 @@ iab inchonmprehesible incomprehensible
 iab incidientla incidental
 iab inciment inclement
 iab incionsiisntances inconsistencies
+iab inciororclty incorrectly
 iab inciplete incomplete
 iab incirrect incorrect
 iab inciulding including
@@ -18280,6 +18287,7 @@ iab initiaited initiated
 iab initialiose initialise
 iab initialisaiotn initialisation
 iab initialllly initially
+iab inititaite initiate
 iab initital initial
 iab inititalise initialise
 iab inititate initiate
@@ -18789,6 +18797,7 @@ iab intibitying inhibiting
 iab intietnions intentions
 iab intiioton intuition
 iab intiislaise initialise
+iab intiitate inititaite
 iab intiitive intuitive
 iab intimiate intimate
 iab intimitely intimately
@@ -19005,6 +19014,7 @@ iab irreleelvant irrelevant
 iab irrelelevant irrelevant
 iab irrelelvant irrelevant
 iab irrelelvenat irrelevant
+iab irreleplaceableee irreplaceable
 iab irrelevenant irrelevant
 iab irrelevenat irrelevant
 iab irrelevent irrelevant
@@ -26784,6 +26794,7 @@ iab remeinwas remains
 iab rememberd remembered
 iab remembinering remembering
 iab remembinng remembering
+iab remembmer remember
 iab remembmerd remembered
 iab remembre remember
 iab remembver remember
@@ -31252,6 +31263,7 @@ iab telecraphic telegraphic
 iab telecscope telescope
 iab telegraphgic telegraphic
 iab telegraphuc telegraphic
+iab telegvision television
 iab teleivion television
 iab teleivision television
 iab teleivsiion television
@@ -34074,6 +34086,7 @@ iab virutal virtual
 iab virutalbox virtualbox
 iab visbidle visible
 iab visblie visible
+iab visdiual visual
 iab visdual visual
 iab visiable visible
 iab visial visual
@@ -34830,6 +34843,7 @@ iab wistdom wisdom
 iab wisth width
 iab wisthds widths
 iab witdom wisdom
+iab witeh with
 iab witgh with
 iab withdrawl withdrawal
 iab withg with
@@ -35589,11 +35603,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab driev drive
-iab irreleplaceableee irreplaceable
-iab telegvision television
-iab inititaite initiate
-iab intiitate inititaite
-iab Visdual Visual
-iab inciororclty incorrectly
-iab witeh with

@@ -425,19 +425,19 @@ endif
 " highlight {{{
 
 " highlight Visual term=reverse ctermbg=7 guibg=LightGrey
-highlight SpellBad term=NONE cterm=reverse ctermbg=12 ctermfg=17 
-highlight SpellCap term=NONE cterm=reverse ctermbg=12 ctermfg=17 
-highlight SpellLocal term=NONE cterm=reverse ctermbg=12 ctermfg=17
-highlight SpellRare term=NONE cterm=reverse ctermbg=12 ctermfg=17
-highlight Visual term=NONE cterm=reverse ctermbg=12 ctermfg=17
-highlight Search term=NONE cterm=reverse ctermbg=12 ctermfg=17
+" highlight SpellBad term=NONE cterm=reverse ctermbg=12 ctermfg=17 
+" highlight SpellCap term=NONE cterm=reverse ctermbg=12 ctermfg=17 
+" highlight SpellLocal term=NONE cterm=reverse ctermbg=12 ctermfg=17
+" highlight SpellRare term=NONE cterm=reverse ctermbg=12 ctermfg=17
+" highlight Visual term=NONE cterm=reverse ctermbg=12 ctermfg=17
+" highlight Search term=NONE cterm=reverse ctermbg=12 ctermfg=17
 
-highlight IncSearch term=NONE cterm=reverse ctermbg=12 ctermfg=17
-highlight MatchParen term=NONE cterm=reverse ctermbg=12 ctermfg=17
-highlight StatusLine term=NONE cterm=reverse ctermbg=12 ctermfg=17
-highlight StatusLineNC term=NONE cterm=reverse ctermbg=12 ctermfg=17
-highlight TabLineFill term=NONE cterm=reverse ctermbg=12 ctermfg=17
-highlight VertSplit term=NONE cterm=reverse ctermbg=12 ctermfg=17
+" highlight IncSearch term=NONE cterm=reverse ctermbg=12 ctermfg=17
+" highlight MatchParen term=NONE cterm=reverse ctermbg=12 ctermfg=17
+" highlight StatusLine term=NONE cterm=reverse ctermbg=12 ctermfg=17
+" highlight StatusLineNC term=NONE cterm=reverse ctermbg=12 ctermfg=17
+" highlight TabLineFill term=NONE cterm=reverse ctermbg=12 ctermfg=17
+" highlight VertSplit term=NONE cterm=reverse ctermbg=12 ctermfg=17
 
 " }}}
 
