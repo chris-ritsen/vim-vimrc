@@ -35583,3 +35583,9 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
+iab pentalty penalty
+iab pentality penalty
+iab retn rent
+iab expewiriced expired
+iab eyuars years
+iab reneweal renewal
