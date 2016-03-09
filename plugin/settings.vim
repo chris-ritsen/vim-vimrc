@@ -24,19 +24,26 @@ endif
 
 " set commentstring=#\ %s
 " set completeopt=menuone,menu,longest,preview
+
+" FIXME: This is messing with control of highlight elshwewere, and these 
+" overrides are invisible to the :highlight list
+
 " set hl+=D:DiffDelete,T:DiffText,>:SignColumn,-:Conceal
 
-set hl=8:SpecialKey,@:NonText,d:Directory,e:ErrorMsg,i:IncSearch,l:Search
+" set hl=8:SpecialKey,@:NonText,d:Directory,e:ErrorMsg,i:IncSearch,l:Search
 
 " set hl+=!:CursorColumn,.:CursorLine,o:ColorColumn:set
 
-set hl+=Bs
-set hl+=Pn
-set hl+=R:SpellRare,L:SpellLocal,+:Pmenu,=:PmenuSel,x:PmenuSbar,X:PmenuThumb
-set hl+=\*:TabLine,#:TabLineSel,_:TabLineFill
-set hl+=m:MoreMsg,M:ModeMsg,n:LineNr,N:CursorLineNr,r:Question
-set hl+=s:StatusLine,S:StatusLineNC,c:VertSplit,t:Title,v:Visual,V:VisualNOS
-set hl+=w:WarningMsg,W\ :WildMenu,f:Folded,F:FoldColumn,A:DiffAdd,C:DiffChange
+" set hl+=Bs
+" set hl+=Pn
+
+" set hl+=R:SpellRare,L:SpellLocal
+
+" set hl+=+:Pmenu,=:PmenuSel,x:PmenuSbar,X:PmenuThumb
+" set hl+=\*:TabLine,#:TabLineSel,_:TabLineFill
+" set hl+=m:MoreMsg,M:ModeMsg,n:LineNr,N:CursorLineNr,r:Question
+" set hl+=s:StatusLine,S:StatusLineNC,c:VertSplit,t:Title,v:Visual,V:VisualNOS
+" set hl+=w:WarningMsg,W\ :WildMenu,f:Folded,F:FoldColumn,A:DiffAdd,C:DiffChange
 
 set autoindent
 set autoread

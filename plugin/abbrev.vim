@@ -35589,3 +35589,11 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
+iab driev drive
+iab irreleplaceableee irreplaceable
+iab telegvision television
+iab inititaite initiate
+iab intiitate inititaite
+iab Visdual Visual
+iab inciororclty incorrectly
+iab witeh with
