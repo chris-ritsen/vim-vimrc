@@ -6465,6 +6465,7 @@ iab avioid avoid
 iab avioud avoid
 iab aviouded avoided
 iab avivdince advice
+iab avlue value
 iab avoaided avoided
 iab avoiaialble available
 iab avoidddds avoids
@@ -14102,6 +14103,7 @@ iab everythin everything
 iab everythingg everything
 iab everythingk everything
 iab everythiong everything
+iab everythuing everything
 iab everythwere everywhere
 iab everytibng everything
 iab everytihig everything
@@ -23680,6 +23682,7 @@ iab passw pass
 iab passw2ord password
 iab passwage passage
 iab passwored password
+iab pasuse pause
 iab pasuses pauses
 iab pasys pays
 iab patcheowkr patchwork
@@ -25599,6 +25602,7 @@ iab propelry properly
 iab properities proprieties
 iab properition proportion
 iab properlty properly
+iab properrties properties
 iab propertionm proportion
 iab propertoy property
 iab properuly properly
@@ -27492,6 +27496,7 @@ iab reutnrn return
 iab reutnrsa returns
 iab reutrbn return
 iab reutrn return
+iab reutrne return
 iab reutrning returning
 iab reutrrnt return
 iab reutruend returned
@@ -32119,6 +32124,7 @@ iab tirple triple
 iab tirvial trivial
 iab tisuee tissue
 iab titanim titanium
+iab titel title
 iab titgle title
 iab titians titans
 iab titilating titillating
@@ -34439,6 +34445,7 @@ iab wehel wheel
 iab wehen when
 iab wehere where
 iab wehereby whereby
+iab wehich which
 iab wehjther whether
 iab wehn when
 iab wehre where
