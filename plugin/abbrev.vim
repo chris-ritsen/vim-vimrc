@@ -118,6 +118,9 @@ iab Artch Arch
 iab Arttempt Attempt
 iab Asdministrator Administrator
 iab Aslo Also
+iab Assidiously Assiduously
+iab Assidiuously Assiduously
+iab Assiduo8usly Assiduously
 iab Astonishinly Astonishingly
 iab Asusmptions Assumptions
 iab Atch Arch
@@ -35613,6 +35616,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab Assiduo8usly Assiduously
-iab Assidiously Assiduously
-iab Assidiuously Assiduously
