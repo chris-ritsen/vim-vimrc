@@ -4074,6 +4074,7 @@ iab accordtion according
 iab accoredcdingly accordingly
 iab accoriding according
 iab accoridng according
+iab accorsdinfdg according
 iab accosomed accustomed
 iab accoubt account
 iab accouht account
@@ -15274,6 +15275,7 @@ iab fioscud focused
 iab fiosit first
 iab firday Friday
 iab firednss friends
+iab fireindly friendly
 iab fireinds friends
 iab firend friend
 iab firends friends
@@ -34198,6 +34200,7 @@ iab vyer very
 iab w2atch watch
 iab w2hole whole
 iab w2ill will
+iab w2ord word
 iab w4ritintg writing
 iab waapon weapon
 iab waareness awareness
@@ -35610,3 +35613,6 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
+iab Assiduo8usly Assiduously
+iab Assidiously Assiduously
+iab Assidiuously Assiduously
