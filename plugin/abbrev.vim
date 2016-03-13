@@ -1374,6 +1374,7 @@ iab Interluede Interlude
 iab Interseting Interesting
 iab Interuldes Interludes
 iab Intetnet Internet
+iab Intiialise Initialise
 iab Intimiate Intimate
 iab Intrefeaces Interfaces
 iab Intrest Interest
@@ -1960,6 +1961,7 @@ iab PRboably Probably
 iab PReferabllby Preferably
 iab PReferrably Preferably
 iab PRevious Previous
+iab PRint Print
 iab PRiostrate Prostrate
 iab PRivacy Privacy
 iab PRoablayb Probably
@@ -3279,6 +3281,7 @@ iab Tkae Take
 iab Tkling Talking
 iab Tlaked Talked
 iab Tlaking Talking
+iab Tmxu Tmux
 iab Tnaknks Thanks
 iab Tnaksks Thanks
 iab Tnasknks Thanks
@@ -8214,6 +8217,7 @@ iab choesen chosen
 iab choesive cohesive
 iab choherenant coherent
 iab choherent coherent
+iab chohose choose
 iab choicew choice
 iab choild child
 iab choisces choices
@@ -8576,6 +8580,7 @@ iab cnsoole console
 iab cnsoolel console
 iab cnsoucness consciousness
 iab cnter center
+iab cntinue continue
 iab cntinute continue
 iab cnttorlller controller
 iab coampoainned complained
@@ -8593,6 +8598,7 @@ iab cocomitant concomitant
 iab cocurs occurs
 iab cocvers covers
 iab cocvvering covering
+iab cod3e code
 iab codbebase codebase
 iab coddlying coddling
 iab codebaaaaase codebase
@@ -8609,6 +8615,7 @@ iab codmptyer computer
 iab codse code
 iab codw code
 iab coe code
+iab coe3 code
 iab coede code
 iab coee code
 iab coeeficient coefficient
@@ -16828,6 +16835,7 @@ iab hlep help
 iab hleped helped
 iab hlw how
 iab hman human
+iab hmsdet hmset
 iab hmtl html
 iab hmyself myself
 iab hnching hunching
@@ -16899,6 +16907,7 @@ iab hospoital hospital
 iab hostiility hostility
 iab hostiry history
 iab hostnae hostname
+iab hostnaem hostname
 iab hostnmae hostname
 iab hostnmame hostname
 iab hostpital hospital
@@ -18920,6 +18929,7 @@ iab invlovle involve
 iab invlves involves
 iab invodlaid invalid
 iab invoiokecd invoked
+iab invokation invocation
 iab involce involve
 iab involes insoles
 iab involunary involuntary
@@ -20088,6 +20098,7 @@ iab lineasge lineage
 iab linekr linker
 iab linesa lines
 iab linesd lines
+iab linew line
 iab linews lines
 iab lingerong lingering
 iab linik link
@@ -25977,6 +25988,7 @@ iab qucily quickly
 iab qucker quicker
 iab quclly quickly
 iab qucly quickly
+iab que3ry query
 iab queastion question
 iab queation question
 iab queccent quiescent
@@ -27430,6 +27442,7 @@ iab retrival retrieval
 iab retrive retrieve
 iab retrived retrieved
 iab retrrrrrrravbil retrieval
+iab retrunk return
 iab retstrict restrict
 iab retuern return
 iab retuirn return
@@ -28645,6 +28658,7 @@ iab sesnation sensation
 iab sesnations sensations
 iab sesneistiviety sensitivity
 iab sesoins sessions
+iab sessiion session
 iab sessing session
 iab sessino session
 iab sessinos sessions
@@ -32410,6 +32424,7 @@ iab tpyoing typing
 iab tpyos typos
 iab tpype type
 iab tpyping typing
+iab tqarget target
 iab traaaaaaaaacks tracks
 iab trabsfer transfer
 iab tracded traced
@@ -33450,6 +33465,7 @@ iab unfulfulled unfulfilled
 iab unfurtoabnte unfortunate
 iab unfurunate unfortunate
 iab ungreateful ungrateful
+iab ungropuped ungrouped
 iab unhapiness unhappiness
 iab uniderectional unidirectional
 iab unideriecdtional unidirectional
@@ -33862,6 +33878,7 @@ iab vaguge vague
 iab vailable available
 iab vailyable valuable
 iab vairables variables
+iab vairaibles variables
 iab vairuouss various
 iab valaubale valuable
 iab valdi valid
@@ -33904,6 +33921,7 @@ iab variablews variables
 iab variablges variables
 iab variaitionst variations
 iab varialbe variable
+iab varialbes variables
 iab variaous various
 iab variatn variant
 iab varierty variety
@@ -33980,6 +33998,7 @@ iab verabl verbal
 iab verable verbal
 iab verablises verbalises
 iab verablly verbally
+iab veraiblres variables
 iab verfiy verify
 iab verhbaim verbatim
 iab verifiuablye verifiable
