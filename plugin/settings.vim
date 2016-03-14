@@ -66,6 +66,7 @@ set foldminlines=1
 set formatlistpat=^\\s*\\d\\+[\\]:.)}\\t\ ]\\s*\\\|^\\*\\s*\|^\\s*∙\\s*\|^\\s*•\\s*  
 set formatoptions+=njw
 set guiheadroom=0
+set nrformats=octal,hex
 set hidden
 set history=10000
 set ignorecase
@@ -92,7 +93,6 @@ set noshowmatch
 set noshowmode
 set novisualbell
 set nowrap
-set nrformats=octal,hex,alpha " increment strings
 
 set path=.,/usr/include,/usr/local/lib/php/,/usr/share/povray/include
 
