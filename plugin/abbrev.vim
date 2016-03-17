@@ -992,6 +992,7 @@ iab GOogle Google
 iab GOt Got
 iab GREat Great
 iab GReat Great
+iab GTive Give
 iab GUET GET
 iab GUy Guy
 iab Gamil Gmail
@@ -2503,6 +2504,7 @@ iab Remove3d Removed
 iab Remvoe Remove
 iab Reoslving Resolving
 iab Repeaet Repeat
+iab Reprot Report
 iab Requedsting Requesting
 iab Requewt Request
 iab RequireJSd RequireJS
@@ -6671,6 +6673,7 @@ iab balasncing balancing
 iab balcak black
 iab balck black
 iab balckented blackened
+iab balh blah
 iab ballpint ballpoint
 iab ballpioint ballpoint
 iab ballpiont ballpoint
@@ -7201,6 +7204,7 @@ iab blcoked blocked
 iab blcoking blocking
 iab blcoks blocks
 iab blcol block
+iab bleeive believe
 iab bleew2 blew
 iab bleief belief
 iab bleiefffs beliefs
@@ -7854,6 +7858,7 @@ iab careds cares
 iab careeer career
 iab careero career
 iab careerq career
+iab carefuyl careful
 iab carefylly carefully
 iab carerer career
 iab carete create
@@ -8510,6 +8515,7 @@ iab cmaeras cameras
 iab cmeaetary cemetary
 iab cmera camera
 iab cmfptuer computer
+iab cmmand command
 iab cmmented commented
 iab cmments comments
 iab cmoe come
@@ -12713,6 +12719,7 @@ iab ecplained explained
 iab ectremley extremely
 iab ectremly extremely
 iab ecvaluates evaluates
+iab ecven even
 iab ecvept except
 iab ecxat exact
 iab ecxcellenet excellent
@@ -13809,6 +13816,7 @@ iab erturn return
 iab erveryohn3e everyone
 iab erxperieince experience
 iab esablished established
+iab esaier easier
 iab esaiest easiest
 iab esailsy easily
 iab esaily easily
@@ -14172,6 +14180,7 @@ iab evisible visible
 iab evither either
 iab evleotion evolution
 iab evlidently evidently
+iab evn even
 iab evne even
 iab evnerioment environment
 iab evneriomten environment
@@ -15708,6 +15717,7 @@ iab fuckgiun fucking
 iab fuckifngg fucking
 iab fuckign fucking
 iab fuckigun fucking
+iab fuckingh fucking
 iab fuckkkkgin fucking
 iab fucklers fuckers
 iab fucling fucking
@@ -25626,6 +25636,7 @@ iab propertoy property
 iab properuly properly
 iab propery properly
 iab properyt property
+iab propgram program
 iab propisoitional propositional
 iab propjedts projects
 iab proplerly properly
@@ -26741,6 +26752,7 @@ iab reled related
 iab relefct reflect
 iab releieve relieve
 iab releif relief
+iab releiigion religion
 iab releiive relieve
 iab releirf relief
 iab releiuived relieved
@@ -31257,6 +31269,7 @@ iab tehese these
 iab tehesse these
 iab teheswe these
 iab tehey they
+iab tehg the
 iab tehge these
 iab tehir their
 iab tehis this
@@ -34102,6 +34115,7 @@ iab viisble visible
 iab viislble visible
 iab vill will
 iab vilume volume
+iab viocue voice
 iab vioice voice
 iab violen violin
 iab vipassana vipassanā
@@ -35637,15 +35651,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab cmmand command
-iab Gigves Gives
-iab propgram program
-iab ecven even
-iab balh blah
-iab fuckingh fucking
-iab evn even
-iab bleeive believe
-iab esaier easier
-iab tehg the
-iab Reprot Report
-iab carefuyl careful
