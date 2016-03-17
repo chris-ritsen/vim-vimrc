@@ -275,10 +275,15 @@ autocmd! FileType vim setlocal commentstring=\"\ %s comments=b:\"
 
 autocmd! Syntax vim setlocal foldmethod=marker | normal zM
 
-
 " }}}3
 
 " }}}2
+
+" Python {{{
+
+autocmd! Syntax python setlocal foldmethod=indent shiftwidth=4
+
+" }}}
 
 " {{{2
 
