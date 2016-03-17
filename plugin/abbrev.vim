@@ -35651,3 +35651,6 @@ iab Reprot Report
 iab carefuyl careful
 iab reresh refresh
 iab fuckler fucker
+iab LINWS LINES
+iab arument argument
+iab RESIZWE RESIZE
