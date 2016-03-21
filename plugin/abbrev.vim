@@ -1578,6 +1578,7 @@ iab Lwet Let
 iab MATXCHES MATCHES
 iab MCruelly Cruelly
 iab MIchael Michael
+iab MIchigan Michigan
 iab MIght Might
 iab MIke Mike
 iab MNOthign Nothing
@@ -33959,6 +33960,7 @@ iab vartying varying
 iab varuiaous various
 iab vas was
 iab vascate vacate
+iab vasiriables variables
 iab vaslues values
 iab vasty vastly
 iab vatr var
