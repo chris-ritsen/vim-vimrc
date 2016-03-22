@@ -2,6 +2,7 @@
 cab GIt Git
 iab ... …
 iab 0of of
+iab 4except except
 iab 4extended extended
 iab 4extmnremley extremely
 iab 8undreleated unreleated
@@ -1134,6 +1135,7 @@ iab Hourk Hour
 iab Howeever However
 iab Howefever However
 iab Howeover However
+iab Howeveer However
 iab Howevefr However
 iab However3 However
 iab Howevfer However
@@ -3038,6 +3040,7 @@ iab THie The
 iab THing Thing
 iab THings Things
 iab THink Think
+iab THinking Thinking
 iab THinkning Thinking
 iab THird Third
 iab THirty Thirty
@@ -3463,6 +3466,7 @@ iab Vitims Victims
 iab Vlaidate Validate
 iab Vlaue Value
 iab Vlauye Value
+iab Voagyer Voyager
 iab Voilenece Violence
 iab Volumnoioius Voluminous
 iab Vruce Bruce
@@ -3613,6 +3617,7 @@ iab Whgat What
 iab Whgatwever Whatever
 iab Whgy Why
 iab Whgy6 Why
+iab Whhat What
 iab Whhy Why
 iab Whiel While
 iab Whio Who
@@ -4355,6 +4360,7 @@ iab activitiews activities
 iab activitiies activities
 iab activitiy activity
 iab activitiyes activities
+iab activitiyies activities
 iab activitiyt activity
 iab activitry activity
 iab activityes activities
@@ -4462,6 +4468,7 @@ iab additeion addition
 iab additiaonl additional
 iab additio addition
 iab additioanl additional
+iab additioanlly additionally
 iab additiojnal additional
 iab additiona addition
 iab addititve additive
@@ -4473,6 +4480,7 @@ iab addixcvtions addictions
 iab addresss address
 iab addtional additional
 iab adduing adding
+iab addutional additional
 iab addvanced advanced
 iab addvancing advancing
 iab adeed added
@@ -5683,6 +5691,7 @@ iab apporaches approaches
 iab apporoopriately appropriately
 iab apporotion apportion
 iab appplication application
+iab appply apply
 iab apppointments appointments
 iab apppoitnmetn appointment
 iab apppreciated appreciated
@@ -9291,6 +9300,7 @@ iab conealed concealed
 iab conecentrated concentrated
 iab conecepts concepts
 iab conecern concern
+iab conecerns concerns
 iab conecferencde conference
 iab conecnetration concentration
 iab conect connect
@@ -11702,6 +11712,7 @@ iab diredtion direction
 iab direfcly direfully
 iab diregct direct
 iab direictive directive
+iab direiectories directories
 iab direrrection direction
 iab diret direct
 iab diretion direction
@@ -12119,6 +12130,7 @@ iab diszziness dizziness
 iab dit did
 iab ditehred dithered
 iab ditehring dithering
+iab diuble double
 iab diureation duration
 iab diuring during
 iab diusplay display
@@ -14415,6 +14427,7 @@ iab exercigng exercising
 iab exerciises exercises
 iab exercisew exercise
 iab exercisews exercises
+iab exercisi exercise
 iab exercisies exercises
 iab exercisiwng exercising
 iab exercites exercises
@@ -15207,6 +15220,7 @@ iab filded filed
 iab fileds fields
 iab filenaem filename
 iab filesa files
+iab filesnames filenames
 iab filess files
 iab filesystmes filesystems
 iab filesytemem filesystem
@@ -18927,6 +18941,7 @@ iab investitationg investigating
 iab investivgate investigate
 iab investmnet investment
 iab invetion invention
+iab invetrviewsx interviews
 iab invfrlated inflated
 iab invidisdual individual
 iab invilving involving
@@ -19648,6 +19663,7 @@ iab kust just
 iab kwhy why
 iab kyboar keyboard
 iab kyboard keyboard
+iab kye key
 iab kyeaboard keyboard
 iab kyebard keyboard
 iab kyebbard keyboard
@@ -21167,6 +21183,7 @@ iab mintues minutes
 iab minu8tes minutes
 iab minubtues minutes
 iab minuites minutes
+iab minumim minimum
 iab minunte minute
 iab minuntes minutes
 iab minut minute
@@ -24638,6 +24655,7 @@ iab porotien protein
 iab porotions portions
 iab porovide provide
 iab porper proper
+iab porperty property
 iab portait portrait
 iab portalbe portable
 iab portarait portrait
@@ -26535,6 +26553,7 @@ iab redudent redundant
 iab redudneant redundant
 iab redunddant redundant
 iab reeappaer reappear
+iab reedis redis
 iab reeicvers receivers
 iab reejct reject
 iab reejct3ed rejected
@@ -27462,6 +27481,7 @@ iab retrival retrieval
 iab retrive retrieve
 iab retrived retrieved
 iab retrrrrrrravbil retrieval
+iab retrun return
 iab retrunk return
 iab retstrict restrict
 iab retuern return
@@ -28324,6 +28344,7 @@ iab searfch search
 iab seargent sargent
 iab searh search
 iab searhc search
+iab searhcing searching
 iab seartch search
 iab seasily easily
 iab seasion season
@@ -33900,6 +33921,7 @@ iab vailable available
 iab vailyable valuable
 iab vairables variables
 iab vairaibles variables
+iab vairiaglbes variables
 iab vairuouss various
 iab valaubale valuable
 iab valdi valid
@@ -33950,6 +33972,7 @@ iab variesd varied
 iab variing varying
 iab varilables variables
 iab varity variety
+iab varlabiels variables
 iab varlagble verbal
 iab varlaible variable
 iab varliable variable
@@ -34480,6 +34503,7 @@ iab wegbdav webdav
 iab wegbkit webkit
 iab wegbsite website
 iab wegbsites websites
+iab wegbsitie website
 iab wegbstie website
 iab wegbwe web
 iab wegbwites websites
@@ -35207,6 +35231,7 @@ iab writinga writing
 iab writingb writing
 iab writingh writing
 iab writingsw writings
+iab writingt writing
 iab writingyt writing
 iab writinhg writing
 iab writinp writing
