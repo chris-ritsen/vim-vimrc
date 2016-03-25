@@ -255,6 +255,13 @@ nnoremap <silent> <leader>4 <esc>:syntax on<cr>
 
 " }}}
 
+" unimpaired {{{
+
+nnoremap <silent> [o <nop>
+nnoremap <silent> ]o <nop>
+
+" }}}
+
 " omnisharp {{{
 
 nnoremap <leader>rn :OmniSharpRename<cr>
