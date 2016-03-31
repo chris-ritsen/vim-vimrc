@@ -219,6 +219,7 @@ iab CHromium Chromium
 iab CLearly Clearly
 iab CLociking Clicking
 iab CLock Clock
+iab CONtrols Controls
 iab COde Code
 iab COmbinatyion Combination
 iab COming Coming
@@ -228,6 +229,7 @@ iab COmpromises Compromises
 iab COmread Comrade
 iab COndiser Consider
 iab COntact Contact
+iab COntorsl Controls
 iab COudl Could
 iab COuld Could
 iab CUsotmer Customer
@@ -400,6 +402,7 @@ iab Contiuynaly Continually
 iab Contiyanlly Continually
 iab Contol Control
 iab Contorller Controller
+iab Contorls Controls
 iab Contratulations Congratulations
 iab Controlelrs Controllers
 iab Controler Controller
@@ -1969,7 +1972,9 @@ iab PLEsaews Pleases
 iab PLEzsde Please
 iab PLan Plan
 iab PLanets Planets
+iab PLayer Player
 iab PLaying Playing
+iab PLaylist Playlist
 iab PLayulist Playlist
 iab PLease Please
 iab PLeases Pleases
@@ -2682,6 +2687,8 @@ iab SHort Short
 iab SHoudl Should
 iab SHould Should
 iab SHow Show
+iab SHowes Shows
+iab SHows Shows
 iab SHuipmetn Shipment
 iab SHure Shure
 iab SIlicate Silicate
@@ -4679,6 +4686,7 @@ iab aexpected expected
 iab aexperiences experiences
 iab aexplaination explanation
 iab afagin again
+iab afalse false
 iab afct fact
 iab afdvertised advertised
 iab afdvertising advertising
@@ -7878,12 +7886,14 @@ iab calibrrate calibrate
 iab calim claim
 iab callServbice callService
 iab callabsck callback
+iab callbacdk callback
 iab callbackews callbacks
 iab callbacl callback
 iab callbacvk callback
 iab callbadck callback
 iab callbak callback
 iab calledf called
+iab callvack callback
 iab callvbadck callback
 iab callw call
 iab caloune cologne
@@ -10373,6 +10383,7 @@ iab cotninue continue
 iab cotnorl control
 iab cotnrolled controlled
 iab cotnroller controller
+iab cotnrols controls
 iab cotnroolelr controller
 iab cotrol control
 iab couaase cause
@@ -10688,6 +10699,7 @@ iab cvomptuer computer
 iab cvoncentration concentration
 iab cvonformity conformity
 iab cvonsciousness consciousness
+iab cvonsoel console
 iab cvonstnat constant
 iab cvontemplation contemplation
 iab cvontext context
@@ -14384,6 +14396,7 @@ iab everywehre everywhere
 iab everywher everywhere
 iab everywhewer everywhere
 iab everywwhere everywhere
+iab evetns events
 iab evetyrthinhg everything
 iab evevent event
 iab evewrything everything
@@ -14441,6 +14454,7 @@ iab evnormoemtns environments
 iab evnrinoment environment
 iab evnrioment environment
 iab evnriomertn environment
+iab evnt event
 iab evntually eventually
 iab evnviorments environments
 iab evnviornment environment
@@ -15216,6 +15230,7 @@ iab factior factor
 iab factiory factory
 iab factocrs factors
 iab factoir factor
+iab factoreis factories
 iab factores factors
 iab factx facts
 iab facvotite favorite
@@ -16528,6 +16543,7 @@ iab gtive give
 iab gtiven given
 iab gtorups groups
 iab gtorupsh groups
+iab gtorw grow
 iab gtot got
 iab gtravelling traveling
 iab gtror2wing growing
@@ -16650,6 +16666,7 @@ iab handlign handling
 iab handly handy
 iab handmling handling
 iab hanges hangers
+iab hanlder handler
 iab hanldign handling
 iab hanlding handling
 iab hanlmding handling
@@ -20530,6 +20547,7 @@ iab lkeast least
 iab lkeaving leaving
 iab lkeft left
 iab lkely likely
+iab lket let
 iab lkeyboards keyboards
 iab lkight light
 iab lkike like
@@ -22040,6 +22058,7 @@ iab msyself myself
 iab msyuefl myself
 iab mthe the
 iab mthem them
+iab mthod method
 iab mtux tmux
 iab mtytologied mythologies
 iab mtyx tmux
@@ -24140,6 +24159,9 @@ iab pauchekc paycheck
 iab paunfiul painful
 iab pauritcyualr particular
 iab paus3 pause
+iab pause3 pause
+iab pausse pause
+iab pauyse pause
 iab pawdding padding
 iab pawge page
 iab paycejcjk paycheck
@@ -24839,6 +24861,7 @@ iab plkay play
 iab plkweaaae please
 iab pllease please
 iab plneaes planes
+iab ploaylist playlist
 iab ploicies policies
 iab plolices polices
 iab plougin plugin
@@ -24858,6 +24881,8 @@ iab pluys plus
 iab plwaswe please
 iab plwease please
 iab plwewasew please
+iab plyalist playlist
+iab plyaslti playlist
 iab plyg plug
 iab plynger plunger
 iab plyug plug
@@ -27349,6 +27374,7 @@ iab rempaping remapping
 iab remplate template
 iab remplately remotely
 iab rempotely remotely
+iab rempte remote
 iab remqainsa remains
 iab remvbever revolver
 iab remve remove
@@ -27550,6 +27576,7 @@ iab requesiite requisite
 iab requesite requisite
 iab requets requests
 iab requetsz request
+iab requewt request
 iab requewts requests
 iab requezst request
 iab requezts request
@@ -27639,6 +27666,7 @@ iab resaerch research
 iab resaergch research
 iab resaon reason
 iab resaorudce resource
+iab resaponse response
 iab resarech research
 iab resareching researching
 iab resatricttion restriction
@@ -27833,6 +27861,7 @@ iab resque rescue
 iab resquices rescues
 iab resquies rescues
 iab resquires requires
+iab resrart restart
 iab resreaching researching
 iab resrtart restart
 iab resspoiinsible responsible
@@ -27840,6 +27869,7 @@ iab ressureciton resurrection
 iab ressurectuion resurrection
 iab restablished reestablished
 iab restared restarted
+iab restareting restarting
 iab restarruyt restaurant
 iab restartedt restarted
 iab restartxs restarts
@@ -28369,6 +28399,7 @@ iab ruynning running
 iab rvamp revamp
 iab rwather rather
 iab rway way
+iab rweturn return
 iab rweviefwing reviewing
 iab rwhat what
 iab rwhile while
@@ -29639,6 +29670,7 @@ iab siumple simple
 iab siumylatensoyly simultaneously
 iab siuze size
 iab sivee sieve
+iab siwtch switch
 iab siwthc switch
 iab siwthcing switching
 iab sixm six
@@ -29679,6 +29711,7 @@ iab skillst skills
 iab skils skills
 iab skilsl skills
 iab skirsts skirts
+iab skiup skip
 iab skjills skills
 iab skmopke smoke
 iab skrit skirt
@@ -30722,6 +30755,7 @@ iab strnage strange
 iab strnegh strength
 iab strneht strength
 iab strneth strength
+iab stroage storage
 iab strogfing storing
 iab stroging storing
 iab stronbgly strongly
@@ -33511,6 +33545,7 @@ iab typlical typical
 iab typlically typically
 iab typnig typing
 iab typoe type
+iab typoeof typeof
 iab typoes typos
 iab typoicadl typical
 iab typoical typical
@@ -34879,6 +34914,7 @@ iab waould would
 iab wapr warp
 iab waqs was
 iab waqtched watched
+iab waqtchewd watched
 iab warapper wrapper
 iab warapping wrapping
 iab wararnt warrant
@@ -34916,6 +34952,7 @@ iab watcdhing watching
 iab watcdng watching
 iab watcehd watched
 iab watchedc watched
+iab watcheed watched
 iab watchg watch
 iab watchgify watchify
 iab watchign watching
@@ -35753,6 +35790,7 @@ iab wrappign wrapping
 iab wrarior warrior
 iab wrawp wrap
 iab wre3e were
+iab wreap wrap
 iab wreckign wrecking
 iab wrecorded recorded
 iab wree were
@@ -36079,6 +36117,7 @@ iab yezr year
 iab yezsterday yesterday
 iab yform form
 iab ygoin yogin
+iab yhandler handler
 iab yhard hard
 iab yhat that
 iab yhave have
