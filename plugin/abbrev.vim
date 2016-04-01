@@ -609,6 +609,7 @@ iab Discugsting Disgusting
 iab Discursxive Discursive
 iab Discvoverd Discovered
 iab Disdalbe Disable
+iab Disdplay Display
 iab Disoabler Disabler
 iab Distingiusing Distinguishing
 iab Distored Distorted
@@ -6485,6 +6486,7 @@ iab automactialy automatically
 iab automaic automatic
 iab automaictally automatically
 iab automaitc automatic
+iab automaitcally automatically
 iab automaitcially automatically
 iab automateically automatically
 iab automatially automatically
@@ -9990,6 +9992,7 @@ iab continoius continuous
 iab continoiuum continuum
 iab continoiyuty continuity
 iab continoous continuous
+iab continouosly continuously
 iab continous continuous
 iab continously continuously
 iab contintgent contingent
@@ -12517,6 +12520,7 @@ iab doz3ens dozens
 iab dpeendecey dependency
 iab dpeendecy dependency
 iab dpeendency dependency
+iab dpeending depending
 iab dpeloy deploy
 iab dpeloyed deployed
 iab dpeloyhment deployment
@@ -14548,6 +14552,7 @@ iab examnple example
 iab exampe example
 iab exampel example
 iab exampels examples
+iab examplew example
 iab examplify exemplify
 iab examplke example
 iab exampnded expanded
@@ -14590,6 +14595,7 @@ iab exceedinnly exceedingly
 iab exceeesive excessive
 iab exceellent excellent
 iab exceiption exception
+iab excelelnetly excellently
 iab excelelnt excellent
 iab excelent excellent
 iab excell excel
@@ -16414,6 +16420,7 @@ iab gmial gmail
 iab gmonye money
 iab gnebral general
 iab gneerate generate
+iab gneerated generated
 iab gneerkoius generous
 iab gneeroistity generosity
 iab gneietails genitals
@@ -19849,6 +19856,7 @@ iab keyboaard keyboard
 iab keyboad keyboard
 iab keyboadr keyboard
 iab keyboar keyboard
+iab keyboardas keyboards
 iab keyboardsd keyboard
 iab keyboardtw keyboard
 iab keyboardu keyboard
@@ -21996,6 +22004,7 @@ iab motyher mother
 iab mouch much
 iab moudle module
 iab mougth mouth
+iab mounbt mount
 iab mountian mountain
 iab mountians mountains
 iab mountinains mountains
@@ -25035,6 +25044,7 @@ iab poitnless pointless
 iab poitsition position
 iab poiuitns points
 iab poiunbds pounds
+iab poiunt point
 iab poiured poured
 iab poiwer power
 iab pokemon pokémon
@@ -27937,6 +27947,7 @@ iab resultuion resolution
 iab resultuling resulting
 iab resuluitant resultant
 iab resumew resume
+iab resumne resume
 iab resuqested requested
 iab resusulatants resultants
 iab resutl result
@@ -36340,3 +36351,7 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
+iab incldued included
+iab rpreserve preserve
+iab expewcitng expecting
+iab accuratcy accuracy
