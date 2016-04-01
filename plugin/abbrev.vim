@@ -4214,6 +4214,7 @@ iab accurancy accuracy
 iab accurantely accurately
 iab accurarelty accurately
 iab accurarely accurately
+iab accuratcy accuracy
 iab accuratelly accurately
 iab accuratelyu accurately
 iab accuratenly accurately
@@ -14996,6 +14997,7 @@ iab expet except
 iab expetations expectations
 iab expeted expected
 iab expetional exceptional
+iab expewcitng expecting
 iab expewcrience experience
 iab expewct expect
 iab expewiriced expired
@@ -18219,6 +18221,7 @@ iab incirrect incorrect
 iab inciulding including
 iab incivudal individual
 iab incldue include
+iab incldued included
 iab incldues includes
 iab incldugin including
 iab incldye include
@@ -28353,6 +28356,7 @@ iab rpovides provides
 iab rppoblesm problems
 iab rpreceeding preceding
 iab rpreicdicably practicably
+iab rpreserve preserve
 iab rpresnet present
 iab rprespsentations representations
 iab rprevoiulshy previously
@@ -36351,7 +36355,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab incldued included
-iab rpreserve preserve
-iab expewcitng expecting
-iab accuratcy accuracy
