@@ -472,6 +472,7 @@ iab Currenlty Currently
 iab Currentes Currents
 iab Currlenly Currency
 iab Currnelty Currently
+iab Cutrnet Current
 iab Cuyrrently Currently
 iab Cvontinueously Continuously
 iab Cyrrently Currently
@@ -504,6 +505,7 @@ iab DIlbert Dilbert
 iab DIoitot Idiot
 iab DIsalbg2 Disable
 iab DIsiable Disable
+iab DIsplay Display
 iab DOctor Doctor
 iab DOes Does
 iab DOing Doing
@@ -574,6 +576,7 @@ iab Devekopment Development
 iab Developeers Developers
 iab Developmenet Development
 iab Developmetn Development
+iab Developpment Development
 iab Devember December
 iab Deveopelopers Developers
 iab Devisingh Devising
@@ -607,7 +610,6 @@ iab Discursxive Discursive
 iab Discvoverd Discovered
 iab Disdalbe Disable
 iab Disoabler Disabler
-iab DisplayPort Writing
 iab Distingiusing Distinguishing
 iab Distored Distorted
 iab Distractingh Distracting
@@ -668,6 +670,7 @@ iab ENgineering Engineering
 iab ENglish English
 iab ENtertained Entertained
 iab ENtirely Entirely
+iab ENviroment Environment
 iab ENvironment Environment
 iab ERic Eric
 iab ERitsen Ritsen
@@ -1263,6 +1266,7 @@ iab IWth With
 iab Iconconsnistancnes Inconsistencies
 iab Icvncations Invocations
 iab Ideallly Ideally
+iab Idelaly Ideally
 iab Idenfityf Identity
 iab Identefy Identify
 iab Identeify Identify
@@ -1985,6 +1989,7 @@ iab PLot Plot
 iab PLug Plug
 iab PLus Plus
 iab POrabilaby Probably
+iab POrt Port
 iab PPHP PHP
 iab PROjdts Projects
 iab PRactice Practice
@@ -3544,6 +3549,7 @@ iab WAtewerfalls Waterfalls
 iab WAthc Watch
 iab WAtts Watts
 iab WEHy Why
+iab WEay Way
 iab WEb Web
 iab WEbseter Webster
 iab WEbsetr Webster
@@ -4503,6 +4509,7 @@ iab adccomplished accomplished
 iab adctions actions
 iab adctivity activity
 iab adctually actually
+iab addded added
 iab adddress address
 iab addeed added
 iab addfress address
@@ -7926,6 +7933,7 @@ iab canonote cannot
 iab canoot cannot
 iab caopitalise capitalise
 iab capaaaicity capacity
+iab capabiilties capabilities
 iab capabilityes capabilities
 iab capabilityh capability
 iab capabillty capability
@@ -8051,6 +8059,7 @@ iab cchange change
 iab cchanges changes
 iab ccompalints complaints
 iab ccompare compare
+iab cconfugring configuring
 iab ccontinue continue
 iab ccontro control
 iab ccorosswalk crosswalk
@@ -8230,6 +8239,7 @@ iab chanllenging challenging
 iab chanmber chamber
 iab channek channel
 iab channekles channels
+iab channgels channels
 iab channlels channels
 iab chantgevd changed
 iab chaply cheaply
@@ -8488,6 +8498,7 @@ iab ckeyboard keyboard
 iab ckick click
 iab ckind kind
 iab ckised closed
+iab cklose close
 iab claaim claim
 iab claculators calculators
 iab claear clear
@@ -9219,6 +9230,7 @@ iab comprimize compromise
 iab comproimised compromised
 iab compromize compromise
 iab compromoised compromised
+iab comproomise compromise
 iab compropomise compromise
 iab comprtuer computer
 iab compruter computer
@@ -9516,6 +9528,7 @@ iab configuiring configuring
 iab configuraiotn configuration
 iab configuraiton configuration
 iab configurared configured
+iab configurated configured
 iab configurationss configurations
 iab configurationus configurations
 iab configuratiuobn configuration
@@ -9759,6 +9772,7 @@ iab consisteantly consistently
 iab consistenantly consistently
 iab consistennt consistent
 iab consistenntly consistently
+iab consistente consistent
 iab consisteraiton consideration
 iab consistiantly consistently
 iab consistient consistent
@@ -10596,6 +10610,7 @@ iab csuotmer customer
 iab ctases cases
 iab ctasy crazy
 iab ctonionolusly continuously
+iab ctonroller controller
 iab ctrieteria criteria
 iab cts acts
 iab cu0ld could
@@ -11146,6 +11161,7 @@ iab depeidns depends
 iab depencery dependency
 iab dependabnte dependent
 iab dependceies dependencies
+iab dependcencies dependencies
 iab dependecies dependencies
 iab dependecny dependency
 iab dependecy dependency
@@ -13147,6 +13163,7 @@ iab eiditn edit
 iab eidotr editor
 iab eidt edit
 iab eidtable editable
+iab eidtign editing
 iab eidting editing
 iab eidtiosn editions
 iab eidtoed edited
@@ -13801,6 +13818,7 @@ iab envirmonetnt environment
 iab envirmpoment environment
 iab envirnment environment
 iab envirnoment environment
+iab envirnometn environment
 iab enviromemtn environment
 iab enviromenbt environment
 iab enviroment environment
@@ -13923,6 +13941,7 @@ iab epxetcted Expected
 iab epxeting expecting
 iab epxewireince experience
 iab epxewrieience experience
+iab epxewriience experience
 iab epxiericnes experiences
 iab epxierieicnes experiences
 iab epxierieincing experiencing
@@ -14756,6 +14775,7 @@ iab existss exists
 iab existted existed
 iab existws exists
 iab exitehnushed extinguished
+iab exiteing exiting
 iab exitixscence existence
 iab exitsitng existing
 iab exitst exist
@@ -18327,6 +18347,7 @@ iab incredlcbly incredibly
 iab incredlcby incredibly
 iab increeddibly incredibly
 iab increement increment
+iab increemental incremental
 iab increibile incredible
 iab increibly incredibly
 iab increicible incredible
@@ -18812,6 +18833,7 @@ iab instasllation installation
 iab instatiated instantiated
 iab instatiation instantiation
 iab instawnce instance
+iab instawnces instances
 iab instea instead
 iab insteaces instances
 iab insteadd instead
@@ -21031,6 +21053,7 @@ iab markeup markup
 iab markred marked
 iab marop mario
 iab martch march
+iab martgin margin
 iab marthcign marching
 iab martierla material
 iab masicicsm masochism
@@ -23273,6 +23296,7 @@ iab onlyh only
 iab onlyt only
 iab onlyu only
 iab onm on
+iab onme one
 iab onmicomplette omnicomplete
 iab onn on
 iab onnect connect
@@ -24439,6 +24463,7 @@ iab permenanty permanent
 iab permenatnly permanently
 iab permenawtiont permanent
 iab permene4antlty permanently
+iab permeneant permanent
 iab permeneantlty permanently
 iab permeneantly permanently
 iab permentanlty permanently
@@ -24562,6 +24587,7 @@ iab pghrase phrase
 iab pghsiucal physical
 iab pghsyucial physical
 iab pgoram program
+iab pgorams programs
 iab pgorress progress
 iab pgraommers programmers
 iab pgrasde upgrade
@@ -24801,6 +24827,7 @@ iab playinh playing
 iab playiong playing
 iab playlistas playlists
 iab playlistwsa playlists
+iab playlkist playlist
 iab playlsit playlist
 iab playlsits playlists
 iab playoing playing
@@ -26086,9 +26113,11 @@ iab propelry properly
 iab properities proprieties
 iab properition proportion
 iab properlty properly
+iab properoties properties
 iab properrties properties
 iab propertionm proportion
 iab propertoy property
+iab propertries properties
 iab properuly properly
 iab propery properly
 iab properyt property
@@ -26993,6 +27022,7 @@ iab rednering rednering
 iab rednering rendering
 iab redneringg rendering
 iab redquires requires
+iab redsis redis
 iab redst rest
 iab redsutl result
 iab reducded reduced
@@ -27184,6 +27214,7 @@ iab relam realm
 iab relams realms
 iab relaod reload
 iab relapalsced replaced
+iab relase release
 iab relased released
 iab relases releases
 iab relateions relations
@@ -27261,6 +27292,7 @@ iab relfief relief
 iab relfif relief
 iab relflection reflection
 iab relgiiogn religion
+iab reliabiltiy reliability
 iab reliabilty reliability
 iab reliablitiy reliability
 iab reliablity reliability
@@ -27362,6 +27394,7 @@ iab remoeving removing
 iab remomved removed
 iab remomving removing
 iab remooval removal
+iab remopte remote
 iab remorese remorse
 iab remosrese remorse
 iab remoutely remotely
@@ -28683,6 +28716,7 @@ iab scrdipt script
 iab screatch scratch
 iab screatches scratches
 iab scree2wn screen
+iab screeeen screen
 iab screeen screen
 iab screenacasts screencasts
 iab screencats screencasts
@@ -29111,6 +29145,7 @@ iab sercive service
 iab sercurity security
 iab sereneity serenity
 iab sereos series
+iab serers servers
 iab serfver server
 iab serfveral several
 iab serfvers servers
@@ -29604,6 +29639,7 @@ iab singals signals
 iab singel single
 iab singell single
 iab singiking sinking
+iab singinficant significant
 iab singla signal
 iab singlal signal
 iab singlas signals
@@ -30370,6 +30406,7 @@ iab ssuffering suffering
 iab ssunlight sunlight
 iab sswwimming swimming
 iab ssymbol symbol
+iab ssytemd systemd
 iab ssytems systems
 iab st4riking striking
 iab stabilizqiton stabilization
@@ -30833,6 +30870,7 @@ iab stydiyng studying
 iab stydy study
 iab styel style
 iab styels styles
+iab styelsheets stylesheets
 iab styelsss styles
 iab styleesheets stylesheets
 iab stylefs styles
@@ -32006,6 +32044,7 @@ iab teriible terrible
 iab terinal terminal
 iab terirbile terrible
 iab teririble terrible
+iab termainl terminal
 iab termal thermal
 iab termerature temperature
 iab termial terminal
@@ -33820,6 +33859,7 @@ iab uncosnous unconscious
 iab uncouscnous unconscious
 iab uncshcheduled unscheduled
 iab uncvuableable unavoidable
+iab undable unable
 iab undbind unbind
 iab undconditioanlly unconditionally
 iab unde4rscore underscore
@@ -34186,6 +34226,7 @@ iab unpredicable unpredictable
 iab unprediciatalbe unpredictable
 iab unprepated unprepared
 iab unprifitable unprofitable
+iab unpuase unpause
 iab unqieu unique
 iab unqiue unique
 iab unqiyue unique
@@ -35057,6 +35098,7 @@ iab webserfver webserver
 iab webservefr webserver
 iab websever webserver
 iab websie website
+iab websitee website
 iab websitsees websites
 iab websocet websocket
 iab websocoket websocket
