@@ -1447,6 +1447,7 @@ iab Itr It
 iab Itt It
 iab Ity It
 iab Iw I
+iab JKust Just
 iab JObs Jobs
 iab JOghn John
 iab JOin Join
@@ -3561,6 +3562,7 @@ iab WEekend Weekend
 iab WEhat What
 iab WEher Where
 iab WEhere Where
+iab WEhy Why
 iab WEight Weight
 iab WEithout Without
 iab WEll Well
@@ -3607,6 +3609,7 @@ iab WRoting Writing
 iab WShy Why
 iab WYou You
 iab Waaaaast Waste
+iab Waait Wait
 iab Waeatiign Waiting
 iab Wahatever Whatever
 iab Wahht What
@@ -3740,6 +3743,7 @@ iab Wsa Was
 iab Wteleve Twelve
 iab Wuith With
 iab Wwatiing Waiting
+iab Wwrirting Writing
 iab XCHris Chris
 iab XCOmputer Computer
 iab XChecking Checking
@@ -5293,6 +5297,7 @@ iab anoyne anyone
 iab anoynone anyone
 iab anoynymously anonymously
 iab anoyone anyone
+iab anoything anything
 iab anrthting anything
 iab anrtyign anything
 iab ansawer answer
@@ -7406,6 +7411,7 @@ iab bocses boxes
 iab bocx box
 iab bodey body
 iab bodfyu body
+iab bodi3es bodies
 iab bodiews bodies
 iab bodiily bodily
 iab bodioly bodily
@@ -7556,6 +7562,7 @@ iab brecome become
 iab brecuase because
 iab breeak break
 iab breffore before
+iab brefgore before
 iab brehating breathing
 iab breif brief
 iab breifcase briefcase
@@ -9600,6 +9607,7 @@ iab conitnuiong continuing
 iab conitnuous continuous
 iab conitonioyusluy continuously
 iab conituynously continuously
+iab conmbination combination
 iab conmbinations combinations
 iab conmcept concept
 iab conme come
@@ -10852,6 +10860,7 @@ iab ddddoing doing
 iab ddditional additional
 iab ddebubggger debugger
 iab ddefault default
+iab ddemarcate demarcate
 iab ddependcy dependency
 iab ddeper deeper
 iab ddesvribe describe
@@ -10977,6 +10986,7 @@ iab decxetirty dexterity
 iab dedcdribe describe
 iab dedcidign deciding
 iab dedevlopmenet development
+iab dedice decide
 iab deductable deductible
 iab deelay delay
 iab deeleting deleting
@@ -12884,6 +12894,7 @@ iab easuiest easiest
 iab easuly easily
 iab easyh easy
 iab easyt easy
+iab eateing eating
 iab eatg eat
 iab eath earth
 iab eather either
@@ -15466,6 +15477,7 @@ iab fictoin fiction
 iab ficutre figure
 iab ficve five
 iab ficx fix
+iab ficxes fixes
 iab fidgietiness fidgetiness
 iab fidigiting fidgeting
 iab fidldling fiddling
@@ -19958,6 +19970,7 @@ iab knolwewldge knowledge
 iab knolwledge knowledge
 iab knoriw know
 iab knotes notes
+iab knotice notice
 iab know3eldge knowledge
 iab know3n known
 iab knowe know
@@ -21507,6 +21520,7 @@ iab middl3 middle
 iab middle34 middle
 iab midlde middle
 iab midn mind
+iab midns minds
 iab midpouint midpoint
 iab mieaning meaning
 iab miery misery
@@ -22155,6 +22169,7 @@ iab mutliple multiple
 iab mutliuple multiple
 iab mutluple multiple
 iab mutplme multiple
+iab muwsic music
 iab muxh much
 iab muy my
 iab muych much
@@ -29498,6 +29513,7 @@ iab sidxty sixty
 iab sientence sentence
 iab sieren siren
 iab siet site
+iab sietitng sitting
 iab sietting sitting
 iab sieziswex sizes
 iab siffering suffering
@@ -29553,6 +29569,8 @@ iab simiilar similar
 iab similaryly similarly
 iab similation simulation
 iab similiar similar
+iab similie simile
+iab similies similes
 iab simiply simply
 iab simlations simulations
 iab simlple simple
@@ -29704,6 +29722,7 @@ iab siteting sitting
 iab sithuautoiubnl situation
 iab sitimilating stimulating
 iab sitimulus stimulus
+iab sitingg sitting
 iab sitipulation stipulation
 iab sititing sitting
 iab sititng sitting
@@ -33138,6 +33157,7 @@ iab transaparenecies transparencies
 iab transastyions transactions
 iab transatiions translations
 iab transcdribe transcribe
+iab transcerbiing transcribing
 iab transcerige transcribe
 iab transcfionts transactions
 iab transcirbing transcribing
@@ -33283,6 +33303,7 @@ iab trkcaign tracking
 iab trkdaignt tracking
 iab trlak talk
 iab trnaitions transitions
+iab trnascription transcription
 iab trnasition transition
 iab tro to
 iab trobule trouble
@@ -33574,6 +33595,7 @@ iab tyopying typing
 iab tyos to
 iab tyou you
 iab typcial typical
+iab typeed typed
 iab typerwiter typewriter
 iab typerwriter typewriter
 iab typerwritter typewriter
@@ -34440,6 +34462,7 @@ iab usersnames usernames
 iab usesd used
 iab uset use
 iab useually usually
+iab useuckl useful
 iab useufl useful
 iab useules useless
 iab useuless useless
