@@ -6120,6 +6120,7 @@ iab asbsolutely absolutely
 iab asccess access
 iab asccording according
 iab ascehsism asceticism
+iab ascertations ascertains
 iab ascratch scratch
 iab asd as
 iab asdd and
@@ -6419,6 +6420,7 @@ iab attneded attended
 iab attnetion attention
 iab attntetnion attention
 iab attracktiojhn attraction
+iab attreibyuted attributed
 iab attribityuing attributing
 iab attribles attributes
 iab attribure attribute
@@ -8797,6 +8799,7 @@ iab cntinute continue
 iab cnttorlller controller
 iab coampoainned complained
 iab coarbon carbon
+iab coard cord
 iab coardsely coarsely
 iab cobnsole console
 iab cobntrol control
@@ -8899,6 +8902,7 @@ iab colleauges colleagues
 iab collecdt collect
 iab collecdtion collection
 iab collecdts collects
+iab colleceted collected
 iab collecfion collection
 iab collecftion collection
 iab collecftions collections
@@ -9528,6 +9532,7 @@ iab conenct connect
 iab conencted connected
 iab conencting connecting
 iab conenction connection
+iab conenctions connections
 iab conenctyration concentration
 iab coneneced connected
 iab conenected connected
@@ -13823,6 +13828,7 @@ iab enthhusiastic enthusiastic
 iab enthisuastic enthusiastic
 iab enthrhussiastic enthusiastic
 iab enthsiuastic enthusiastic
+iab enthsuastic enthusiastic
 iab enthuasuastic enthusiastic
 iab enthusaism enthusiasm
 iab enthusiaistic enthusiastic
@@ -16334,6 +16340,7 @@ iab fve4ry very
 iab fvew few
 iab fvie five
 iab fview view
+iab fvorgotten forgotten
 iab fwe few
 iab fxing fixing
 iab fybctiun function
@@ -16404,6 +16411,7 @@ iab gebecause because
 iab geenrate generate
 iab geerneosity generosity
 iab geetting getting
+iab gegtting getting
 iab geit get
 iab genearate generate
 iab genearlly generally
@@ -18915,6 +18923,7 @@ iab insode inside
 iab inspecet inspect
 iab inspecft inspect
 iab inspecfted inspected
+iab inspecition inspection
 iab inspectes inspects
 iab inspectiion inspection
 iab inspeepratable inseparable
@@ -19621,6 +19630,7 @@ iab isnterad instead
 iab isntewad instead
 iab isntiictibly instinctively
 iab isntrances instances
+iab isntwaed instead
 iab isochronism isochronous
 iab isogprah isograph
 iab isoloated isolated
@@ -20938,6 +20948,7 @@ iab lvigin living
 iab lviign living
 iab lvoe love
 iab lvoes loves
+iab lwalk walk
 iab lwer lower
 iab lwoer lower
 iab lyandry laundry
@@ -23891,6 +23902,7 @@ iab otuch touch
 iab otucime outcome
 iab otuer other
 iab oturight outright
+iab otuside outside
 iab otusiede outside
 iab otusitretched outstretched
 iab otyhers others
@@ -25702,6 +25714,7 @@ iab prediiclifitons predilections
 iab predispoistion predisposition
 iab preeceived perceived
 iab preent present
+iab preepration preparation
 iab preerably preferably
 iab preerences preferences
 iab preerrable preferable
@@ -31619,6 +31632,7 @@ iab swpellings spellings
 iab swpet swept
 iab swrever server
 iab swriting writing
+iab swtich switch
 iab swtomach stomach
 iab swutch switch
 iab swweep sweep
@@ -33128,6 +33142,7 @@ iab tomiorrow tomorrow
 iab tomoorrow tomorrow
 iab tomororw tomorrow
 iab tomorro tomorrow
+iab tomorrowe tomorrow
 iab tomroorw tomorrow
 iab tomrororw tomorrow
 iab tomrorow tomorrow
@@ -34906,6 +34921,7 @@ iab velictity velocity
 iab veloicity velocity
 iab venefits benefits
 iab venetable vegetable
+iab venrated venerated
 iab verabalises verbalises
 iab verabl verbal
 iab verable verbal
@@ -35855,6 +35871,7 @@ iab wlak walk
 iab wlakign walking
 iab wlaking walking
 iab wlal wall
+iab wlalk walk
 iab wlealthy wealthy
 iab wlecome welcome
 iab wlel well
