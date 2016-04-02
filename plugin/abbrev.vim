@@ -110,6 +110,7 @@ iab Apparenlty Apparently
 iab Apparenly Apparently
 iab Appendic Appendix
 iab Appendicx Appendix
+iab Appleid Applied
 iab Apprecited Appreciated
 iab Appreised Apprised
 iab Aprepeciate Appreciate
@@ -480,6 +481,7 @@ iab Currnelty Currently
 iab Cutrnet Current
 iab Cuyrrently Currently
 iab Cvontinueously Continuously
+iab Cybver Cyber
 iab Cyrrently Currently
 iab DAnce Dance
 iab DAvison Davison
@@ -542,6 +544,7 @@ iab Dedficits Deficits
 iab Deeop Deep
 iab Definiing Defining
 iab Deliusion Delusion
+iab Delvoper Developer
 iab Demonstarted Demonstrated
 iab Deos Does
 iab Depribved Deprived
@@ -590,6 +593,7 @@ iab Devleoped Developed
 iab Devleoper Developer
 iab Devleopers Developers
 iab Devleopment Development
+iab Devloper Developer
 iab Devlopers Developers
 iab Devlopment Development
 iab Devolcves Devolves
@@ -3566,6 +3570,7 @@ iab WEb Web
 iab WEbseter Webster
 iab WEbsetr Webster
 iab WEbster Webster
+iab WEeb Web
 iab WEebster Webster
 iab WEeek Week
 iab WEekend Weekend
