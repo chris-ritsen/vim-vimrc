@@ -126,6 +126,14 @@ nnoremap <silent> <leader>h :noh<CR>
 nnoremap <silent> <leader>n :NERDTreeFind<CR>
 nnoremap <silent> x x:call Redefine_x_ForVirtualEdit()<CR>
 
+nnoremap <silent> <C-left> <C-w>h
+nnoremap <silent> <C-down> <C-w>j
+nnoremap <silent> <C-up> <C-w>k
+nnoremap <silent> <C-right> <C-w>l
+
+nnoremap <silent> <S-right> :bn<cr>
+nnoremap <silent> <S-left> :bp<cr>
+
 " nnoremap <up> <nop>
 
 nnoremap J mzJ`z
