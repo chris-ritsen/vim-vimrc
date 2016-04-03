@@ -2355,6 +2355,7 @@ iab RAspberry Raspberry
 iab RAther Rather
 iab REAd Read
 iab REAdigning Reading
+iab REQWUEST REQUEST
 iab RESIZWE RESIZE
 iab RESelmbingl Resembling
 iab RESelmbiong Resembling
@@ -28314,6 +28315,7 @@ iab revodrintgds reverends
 iab revoerd record
 iab revolutiohn revolution
 iab revuene revenue
+iab rewad read
 iab rewally really
 iab rewaosn reason
 iab rewared reward
