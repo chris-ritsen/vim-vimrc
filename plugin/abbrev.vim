@@ -36608,3 +36608,23 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
+iab epxierience experience
+iab vinm vim
+iab bakc back
+iab hsoted hosted
+iab githnbu github
+iab maintian maintain
+iab primairily primarily
+iab tgaht that
+iab befire before
+iab secoibdary secondary
+iab databsaed database
+iab transiactions transactions
+iab payemtsn payments
+iab tickests tickets
+iab imoprotannt important
+iab findiing finding
+iab alwayus always
+iab weithout without
+iab requiqwrted required
+iab owthers others
