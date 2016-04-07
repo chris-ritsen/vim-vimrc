@@ -3762,6 +3762,7 @@ iab Wjhat What
 iab Wjy Why
 iab Wlemcome Welcome
 iab Wnidows Windows
+iab Woek Woke
 iab Woithout Without
 iab Wokring Working
 iab Wokrs Works
@@ -4917,6 +4918,7 @@ iab alabels labels
 iab aladry already
 iab alaid laid
 iab alalogies analogies
+iab alamrm alarm
 iab alaready already
 iab alaredy already
 iab alaways always
@@ -6539,9 +6541,11 @@ iab autoamicaltly automatically
 iab autoamtically automatically
 iab autoatically automatically
 iab autocirerection autocorrection
+iab autocorecdtiosn autocorrections
 iab autocorection autocorrection
 iab autocorections autocorrections
 iab autocorrcdtions autocorrections
+iab autocorrctions autocorrections
 iab autocorrecdtions autocorrections
 iab autocorreced autocorrected
 iab autocorrecetd autocorrected
@@ -12713,6 +12717,7 @@ iab dreasm dreams
 iab dreivers drivers
 iab dreives drives
 iab dremaed dreamed
+iab dremawing dreaming
 iab dresearch research
 iab drga drag
 iab drian drain
@@ -18154,6 +18159,7 @@ iab impersonarting impersonating
 iab impitrtant important
 iab implannts implants
 iab implciations implications
+iab implcict implicit
 iab impleemntnation implementation
 iab implemenataitons implementations
 iab implemenation implementation
@@ -23197,7 +23203,7 @@ iab oblidgtations obligations
 iab obligiatrory obligatory
 iab obligtations obligations
 iab oblvcigations obligations
-iab obn own
+iab obn on
 iab oboejct object
 iab obothe both
 iab obovius obvious
@@ -28648,6 +28654,7 @@ iab rmeove remove
 iab rmeoved removed
 iab rmeoving removing
 iab rmonths months
+iab rmorning morning
 iab rmouse mouse
 iab rnadom random
 iab rnadomly randomly
@@ -28952,6 +28959,7 @@ iab satable stable
 iab sataring staring
 iab satarting starting
 iab satartup startup
+iab satay stay
 iab satays stays
 iab satelliite satellite
 iab satiddfy satisfy
@@ -32505,6 +32513,7 @@ iab termunal terminal
 iab terrbile terrible
 iab terrestional correctional
 iab terribel terrible
+iab terribile terrible
 iab terribley terribly
 iab terriblie terrible
 iab terriblwe terrible
@@ -34075,6 +34084,7 @@ iab tyrn turn
 iab tyrns turns
 iab tyrupe troupe
 iab tyruraukl tutorial
+iab tyryingf trying
 iab tytirak tutorial
 iab tytuioral tutorial
 iab tytyrka tutorial
