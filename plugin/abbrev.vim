@@ -21600,6 +21600,7 @@ iab memery memory
 iab memgbers members
 iab memmmmroy memory
 iab memmory memory
+iab memmos memos
 iab memoeoies memories
 iab memoeries memories
 iab memoery memory
@@ -23493,6 +23494,7 @@ iab offree offerer
 iab offste offset
 iab offswet offset
 iab offten often
+iab offter offer
 iab offxet offset
 iab ofg of
 iab ofgten often
@@ -32952,6 +32954,7 @@ iab thiss this
 iab thissss this
 iab thisw this
 iab thisws this
+iab thits this
 iab thiungs things
 iab thius this
 iab thiw this
@@ -34920,6 +34923,7 @@ iab usew use
 iab usewd used
 iab usewful useful
 iab usews users
+iab usfeucvl useful
 iab usful useful
 iab ushc such
 iab usi9ng using
@@ -35350,6 +35354,7 @@ iab voerturnered overturned
 iab voets votes
 iab voibratioa vibration
 iab voicees voices
+iab voicem voice
 iab voicmail voicemail
 iab voiew view
 iab voing going
@@ -36212,6 +36217,7 @@ iab worhtlwhile worthwhile
 iab worhtwhile worthwhile
 iab woriker worker
 iab workded worked
+iab workds words
 iab workeda worked
 iab workedd worked
 iab workeed worked
