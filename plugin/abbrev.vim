@@ -2522,6 +2522,7 @@ iab RObert Robert
 iab ROlling Rolling
 iab RTHanks Thanks
 iab RTHere There
+iab RTemeniceses Reminisces
 iab RTesteraunt Restaurant
 iab RThansks Thanks
 iab RThe The
@@ -2846,6 +2847,7 @@ iab Securuty Security
 iab Seee See
 iab Seeinug Seeing
 iab Seeiung Seeing
+iab Sef3everal Several
 iab Sefver Server
 iab Seinfled Seinfeld
 iab Seioruysly Seriously
@@ -3406,6 +3408,7 @@ iab Trunred Turned
 iab Trurths Truths
 iab Tryign Trying
 iab Tryily Truly
+iab Tryingt Trying
 iab Tryrign Trying
 iab Tryuth Truth
 iab Tseting Testing
@@ -3771,6 +3774,7 @@ iab Workpalce Workplace
 iab Wortks Works
 iab Woudl Would
 iab Wouln Wouldn
+iab Wreiting Writing
 iab Wrihat What
 iab Wriiting Writing
 iab Wrirting Writing
@@ -5163,6 +5167,7 @@ iab amking making
 iab amlmost almost
 iab amm am
 iab ammend amend
+iab ammended amended
 iab amment amend
 iab amnazing amazing
 iab amnimal animal
@@ -5919,6 +5924,7 @@ iab approvach approach
 iab approvla approval
 iab approxiamgtelyh approximately
 iab approxiation approximation
+iab approxiimately approximately
 iab approximage approximate
 iab approximatley approximately
 iab approximatly approximately
@@ -8330,8 +8336,10 @@ iab chanllenging challenging
 iab chanmber chamber
 iab channek channel
 iab channekles channels
+iab channenl channel
 iab channgels channels
 iab channlels channels
+iab channnel channel
 iab chantgevd changed
 iab chaply cheaply
 iab chapmber chamber
@@ -9698,6 +9706,7 @@ iab conifguration configuration
 iab conineced convinced
 iab conirfugured configured
 iab conisdernation consternation
+iab conisdiering considering
 iab conisider consider
 iab conisnduering considering
 iab conistnsntly consistently
@@ -14433,6 +14442,7 @@ iab euerope europe
 iab euqaloly equally
 iab euqipment equipment
 iab euqiuopment equipment
+iab euqlal equal
 iab euqwoipemtn equipment
 iab eurpe europe
 iab eusing using
@@ -16155,6 +16165,7 @@ iab frewwriting freewriting
 iab frgabments fragments
 iab friciton friction
 iab frictoin friction
+iab fridnldy friendly
 iab friebd friend
 iab friedly friendly
 iab friendf friend
@@ -17393,6 +17404,7 @@ iab hlaf half
 iab hlelban hellban
 iab hlep help
 iab hleped helped
+iab hlped helped
 iab hlw how
 iab hman human
 iab hmsdet hmset
@@ -17503,6 +17515,7 @@ iab howefver however
 iab howerfver however
 iab howevefr however
 iab howt how
+iab howurs hours
 iab howver however
 iab hoyur hour
 iab hpainess happiness
@@ -17728,6 +17741,7 @@ iab hwtwere where
 iab hwy why
 iab hyard yard
 iab hyaving having
+iab hybndred hundred
 iab hyears years
 iab hyesterday yesterday
 iab hygeine hygiene
@@ -18448,6 +18462,7 @@ iab incidientla incidental
 iab inciment inclement
 iab incionsiisntances inconsistencies
 iab inciororclty incorrectly
+iab inciorrcltly incorrectly
 iab inciplete incomplete
 iab incirrect incorrect
 iab inciulding including
@@ -23063,6 +23078,7 @@ iab nught might
 iab nuibmer number
 iab nuill null
 iab nuimbers numbers
+iab nullifivcation nullification
 iab numb3r number
 iab numbeing numbing
 iab numberous numerous
@@ -25005,6 +25021,7 @@ iab phsyche psyche
 iab phsychic psychic
 iab phsychlological psychological
 iab phsycial physical
+iab phsycics physics
 iab phsycis physics
 iab phsyciuc physic
 iab phsycoholgists psychologists
@@ -27711,10 +27728,12 @@ iab remembver remember
 iab remembvered remembered
 iab rememdied remedied
 iab rememedy remedy
+iab rememenisses reminisces
 iab rememer remember
 iab rememering remembering
 iab rememgbered remembered
 iab rememger remember
+iab rememiseses reminisces
 iab rememrber remember
 iab rememvber remember
 iab rememvbered remembered
@@ -27723,12 +27742,16 @@ iab rememvered remembered
 iab rememvoing removing
 iab rememvver remember
 iab remenaiong remaining
+iab remeneisses reminisces
+iab remenicse reminisce
+iab remenisise reminisce
 iab remeoved removed
 iab remever remember
 iab remian remain
 iab remiander remainder
 iab remiangin remaining
 iab remianing remaining
+iab remianining remaining
 iab remiann remain
 iab remians remains
 iab remiansd remains
@@ -27738,7 +27761,13 @@ iab remidns reminds
 iab remidnsws reminds
 iab remindsers reminders
 iab remindws reminds
+iab reminiceses reminisces
+iab reminiiceses reminisces
+iab remininences reminisces
+iab remininsces reminisces
 iab reminiscense reminiscence
+iab reminiseses reminisces
+iab reminisieses reminisces
 iab remisdnsd reminds
 iab remlutoely remotely
 iab remmarkable remarkable
@@ -31074,6 +31103,7 @@ iab stoppiung stopping
 iab stoppped stopped
 iab stoppping stopping
 iab stoppss stops
+iab stoppuign stopping
 iab storagew storage
 iab storave storage
 iab storeagae storage
@@ -33224,6 +33254,7 @@ iab tneatnantive tentative
 iab tnesion tension
 iab tnetnative tentative
 iab tnight night
+iab tniight tonight
 iab tning thing
 iab tnire entire
 iab tnogiht tonight
@@ -33347,6 +33378,7 @@ iab tonigiht tonight
 iab tonigith tonight
 iab tonigth tonight
 iab tonigtht tonight
+iab tonite tonight
 iab tonke token
 iab tonogiht tonight
 iab tontorl control
