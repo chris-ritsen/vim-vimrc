@@ -113,8 +113,7 @@ nnoremap <leader>d :call AddAbbrev()<cr>
 function! LookupWordDefinition()
   " Doesnt' page the output correctly
   let l:word = expand("<cword>")
-  execute "!clear && sdcv " . l:word . " | less"
-  redraw!
+  execute ":!clear && sdcv -n " . l:word . " | less"
 endfunction
 
 nnoremap <leader>u <esc>:call LookupWordDefinition()<cr><cr>
