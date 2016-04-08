@@ -109,6 +109,15 @@ nnoremap <F6> :!vlock<cr>
 nnoremap <Q <nop>
 nnoremap <down> <nop>
 nnoremap <leader>d :call AddAbbrev()<cr>
+
+function! LookupWordDefinition()
+  " Doesnt' page the output correctly
+  let l:word = expand("<cword>")
+  execute "!clear && sdcv " . l:word
+endfunction
+
+nnoremap <leader>u <esc>:call LookupWordDefinition()<cr>
+
 nnoremap <c-w>m :silent! execute 1 . "wincmd w"<cr>
 
 nnoremap <silent> <C-h> 1zh
