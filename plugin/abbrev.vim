@@ -268,6 +268,7 @@ iab Characteriwstidcs Characteristics
 iab Charaxcteristics Characteristics
 iab Chcane Chance
 iab Chekc Check
+iab Chekcingt Checking
 iab Chicjkelds Chuckles
 iab Chickles Chuckles
 iab Chiense Chinese
@@ -3825,6 +3826,7 @@ iab Wrirting Writing
 iab Writihn Writing
 iab Wrods Words
 iab Wroking Working
+iab Wropte Wrote
 iab Wsa Was
 iab Wteleve Twelve
 iab Wuith With
@@ -15382,6 +15384,7 @@ iab expwnsive expensive
 iab exremely extremely
 iab exremley extremely
 iab exrrcise exercise
+iab exsampels examples
 iab exsample example
 iab exsamples examples
 iab exsatly exactly
@@ -23844,6 +23847,7 @@ iab operatinga operating
 iab operatino operating
 iab operatioinal operational
 iab operhating operating
+iab operiating operating
 iab operiod period
 iab operipherals peripherals
 iab operoating operating
@@ -26474,6 +26478,7 @@ iab proessing processing
 iab proessional professional
 iab proevious previous
 iab profecssion profession
+iab profeisiosnal professional
 iab profeissional professional
 iab profesion profession
 iab profesionals professionals
