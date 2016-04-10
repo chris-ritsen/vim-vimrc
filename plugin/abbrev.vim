@@ -761,6 +761,7 @@ iab Eelctric Electric
 iab Eeldctric Electric
 iab Eelectric Electric
 iab Eequipment Equipment
+iab Eerpoa Europa
 iab Eevnetyually Eventually
 iab Eevrentually Eventually
 iab Eexpected Expected
@@ -853,6 +854,8 @@ iab Etiher Either
 iab Etihetr Either
 iab Euchure Euchre
 iab Euqla Equal
+iab Europosa Europa
+iab Eurpoa Europa
 iab Evebn Even
 iab Evenetually Eventually
 iab Eventaylly Eventually
@@ -2153,6 +2156,7 @@ iab Passsiontate Passionate
 iab Paswword Password
 iab Patisambhida Paṭisambhidā
 iab Pbhantom Phantom
+iab Pcaing Pacing
 iab Pefect Perfect
 iab Pefewcft Perfect
 iab Peices Pieces
@@ -4439,6 +4443,7 @@ iab acitvity activity
 iab acivity acidity
 iab acivtivism activism
 iab ackknowledge acknowledge
+iab acknowledgement acknowledgment
 iab acknowlege acknowledge
 iab aclaled called
 iab acnihent ancient
@@ -11305,6 +11310,7 @@ iab deisnedec designed
 iab deistinction distinction
 iab deither either
 iab deivceis devices
+iab deja déjà
 iab dejcected dejected
 iab dejecdted dejected
 iab deklveopemnt development
@@ -26269,6 +26275,7 @@ iab prevoisuly previously
 iab prevoius previous
 iab prevoiusluy previously
 iab prevoiusly previously
+iab prevouosly previously
 iab prevous previous
 iab prevvise precise
 iab prevwsently presently
@@ -33578,6 +33585,7 @@ iab toingith tonight
 iab toinight tonight
 iab toip top
 iab toipic topic
+iab toiuny tiny
 iab toixns toxins
 iab tokme token
 iab tokmenn token
@@ -34212,6 +34220,7 @@ iab twithoyut without
 iab twjhtcj twitch
 iab twleve twelve
 iab twlevel twelve
+iab twnetmy twenty
 iab twnety twenty
 iab twnty twenty
 iab twoard toward
@@ -34342,6 +34351,7 @@ iab ubiquoutuous ubiquitous
 iab ubiquoutus ubiquitous
 iab ubiqutous ubiquitous
 iab ubitioutuise ubiquitous
+iab ubnheard unheard
 iab ubnix unix
 iab ubquiotouiuos ubiquitous
 iab ubquiouytpus ubiquitous
