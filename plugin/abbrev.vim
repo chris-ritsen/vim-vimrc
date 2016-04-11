@@ -233,6 +233,7 @@ iab CHristopher Christopher
 iab CHristophjer Christopher
 iab CHristttopoher Christopher
 iab CHromium Chromium
+iab CHtirs Chris
 iab CLearly Clearly
 iab CLociking Clicking
 iab CLock Clock
@@ -1106,6 +1107,7 @@ iab Gradident Gradient
 iab Greenes Greens
 iab Groipiping Gripping
 iab Grpahics Graphics
+iab Gsary Gary
 iab Guiard Guard
 iab Guideliunes Guidelines
 iab Guidlines Guidelines
@@ -2680,6 +2682,7 @@ iab Ristn Ritsen
 iab Ristnde Ritsen
 iab Ristne Ritsen
 iab Ristnwe Ritsen
+iab Riten Ritsen
 iab Ritnsen Ritsen
 iab Rits4en Ritsen
 iab Ritsen4 Ritsen
@@ -3016,6 +3019,7 @@ iab Sotapatti Sotāpatti
 iab Sotuh South
 iab Soudns Sounds
 iab Souremaps Sourcemaps
+iab Soutfhield Southfield
 iab Southh South
 iab Sovled Solved
 iab Speakling Speaking
@@ -3159,6 +3163,7 @@ iab THIs This
 iab THaniks Thanks
 iab THank Thank
 iab THanks Thanks
+iab THanmks Thanks
 iab THansk Thanks
 iab THat That
 iab THe The
@@ -9223,6 +9228,7 @@ iab communitcate communicate
 iab communitity community
 iab communityies communities
 iab communnicated communicated
+iab communting commuting
 iab communucation communication
 iab commutting committing
 iab commuuncation communication
@@ -23958,6 +23964,7 @@ iab opower power
 iab opporitunities opportunities
 iab opporitunity opportunity
 iab opporiutnity opportunity
+iab opportiniteis opportunities
 iab opportinuty opportunity
 iab opportiunity opportunity
 iab opportiutunity opportunity
