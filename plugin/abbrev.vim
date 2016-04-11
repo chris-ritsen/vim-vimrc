@@ -628,6 +628,7 @@ iab Devolcves Devolves
 iab Dhyana Dhyāna
 iab Dialy Daily
 iab Diblbert Dilbert
+iab Dicifficult Difficult
 iab Differnet Different
 iab Digiital Digital
 iab Digittal Digital
@@ -5020,6 +5021,7 @@ iab algint align
 iab algoirthm algorithm
 iab algorhtims algorithms
 iab algothirms algorithms
+iab algothorithms algorithms
 iab algporthim algorithm
 iab algsaeg algae
 iab aliad alias
@@ -5651,6 +5653,7 @@ iab apaopretnmtn apartment
 iab apapanrelty apparently
 iab apapermtlhu apparently
 iab apapermtnet apartment
+iab apaperntly apparently
 iab apapnerlty apparently
 iab apapremtbnt apparent
 iab apapremtnly apparently
@@ -10362,6 +10365,7 @@ iab contrrols controls
 iab contrtact contract
 iab contrubiting contributing
 iab contrubute contribute
+iab contruibute contribute
 iab contsnat constant
 iab contsrianed constrained
 iab contstant contestant
@@ -10507,6 +10511,7 @@ iab copyijng copying
 iab copys copies
 iab coreated created
 iab corecspond correspond
+iab corect correct
 iab corecte correct
 iab corected corrected
 iab corections corrections
@@ -13850,6 +13855,7 @@ iab encomopasssing encompassing
 iab encouaged encouraged
 iab encoubnter encounter
 iab encounterd encountered
+iab encouranging encouraging
 iab encoursaged encouraged
 iab encoursaging encouraging
 iab encoursange encourage
@@ -15311,6 +15317,7 @@ iab experince experience
 iab experinece experience
 iab experioence experience
 iab experise expertise
+iab experitise expertise
 iab experitritese expertise
 iab experiwence experience
 iab expermeinatla experimental
@@ -17809,6 +17816,7 @@ iab huidnerancfe hindrance
 iab huim him
 iab huiman human
 iab huindrances hindrances
+iab huint hunt
 iab humanss humans
 iab humiluation humiliation
 iab hunddred hundred
@@ -17824,6 +17832,7 @@ iab hundresd hundreds
 iab hundrfed hundred
 iab hunfred hundred
 iab hungrey hungry
+iab hunit hint
 iab hunless unless
 iab hunman human
 iab hunnder hunger
@@ -18474,6 +18483,7 @@ iab improtarnt important
 iab improtatly importantly
 iab improtatnart important
 iab improtive improve
+iab improtmnant important
 iab improtnat important
 iab improtnatl important
 iab improtnatn important
@@ -20078,6 +20088,7 @@ iab javqsipt javascript
 iab javsacript javascript
 iab javscript javascript
 iab jbo job
+iab jbos jobs
 iab jcariousel jcarousel
 iab jcsarousel jcarousel
 iab jdhanas jhānas
@@ -20619,6 +20630,7 @@ iab lboth both
 iab lbowing blowing
 iab lbue blue
 iab lbues blues
+iab lcak lack
 iab lcaol local
 iab lcddoleldt collect
 iab lceaning cleaning
@@ -23774,6 +23786,7 @@ iab omre more
 iab omring morning
 iab omrnig morning
 iab omterset intersect
+iab omving moving
 iab onChnage onChange
 iab oncde once
 iab oncecerntred concerned
@@ -26514,6 +26527,7 @@ iab produvt product
 iab produycues produces
 iab produyviding providing
 iab prodviding providing
+iab proebolem problem
 iab proecess process
 iab proecesses precesses
 iab proecss process
@@ -28890,6 +28904,7 @@ iab roflection reflection
 iab rogbged robbed
 iab roiginal original
 iab roiutine routine
+iab roject project
 iab rollled rolled
 iab roloover rollover
 iab romo room
@@ -29113,6 +29128,7 @@ iab saing saying
 iab saiod said
 iab saiticdfying satisfying
 iab sakadagami sakadāgāmi
+iab salalry salary
 iab salamni salami
 iab salargy salary
 iab saled salad
@@ -32422,6 +32438,7 @@ iab teawms teams
 iab tebh the
 iab tecacher teacher
 iab tecdt text
+iab tecfhonlogiies technologies
 iab tecgbikigy technology
 iab tecghnical technical
 iab techical technical
@@ -35180,6 +35197,7 @@ iab usper super
 iab usqe use
 iab usqing using
 iab ussing using
+iab ussually usually
 iab ust use
 iab ustinels utensils
 iab ustu just
