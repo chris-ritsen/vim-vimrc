@@ -241,6 +241,7 @@ iab CHtirs Chris
 iab CLearly Clearly
 iab CLociking Clicking
 iab CLock Clock
+iab CLoud Cloud
 iab CONtrols Controls
 iab COde Code
 iab COmbinatyion Combination
@@ -2742,6 +2743,7 @@ iab Rythem Rhythm
 iab SAhe She
 iab SAlmost Almost
 iab SAme Same
+iab SAndf And
 iab SApent Spent
 iab SAsytem System
 iab SAtage Stage
@@ -9250,6 +9252,7 @@ iab communicatyor communicator
 iab communiciate communicate
 iab communictated communicated
 iab communitcate communicate
+iab communitiehy community
 iab communitity community
 iab communityies communities
 iab communnicated communicated
@@ -9279,6 +9282,7 @@ iab comomn common
 iab comon common
 iab comondeers commandeers
 iab comopnetns components
+iab comoposers composers
 iab comoposiution composition
 iab comoptyuers computers
 iab comopuyter computer
@@ -9425,6 +9429,7 @@ iab compoentn component
 iab compoeted competed
 iab compoetely completely
 iab compoiled compiled
+iab compoistion composition
 iab compolaints complaints
 iab compolete complete
 iab compoleted completed
@@ -12805,6 +12810,7 @@ iab doucmentation documentation
 iab doucmenting documenting
 iab doucmetn document
 iab doucmntiaontn documentation
+iab douesn doesn
 iab dould could
 iab doulw would
 iab dout out
@@ -12937,6 +12943,7 @@ iab dsekt desk
 iab dselveopment development
 iab dsesired desired
 iab dsesk desk
+iab dsestination destination
 iab dsevies devices
 iab dsevleopment development
 iab dsewsnation sensation
@@ -13472,7 +13479,7 @@ iab egnage engage
 iab egnaged engaged
 iab egriougous egregious
 iab ehabit habit
-iab ehad head
+iab ehad had
 iab ehader header
 iab ehalth health
 iab ehard heard
@@ -14058,6 +14065,7 @@ iab enouigh enough
 iab enourmous enormous
 iab enourmously enormously
 iab enourmousw enormous
+iab enouyrmous enormous
 iab enoygh enough
 iab enpoty empty
 iab ensaure ensure
@@ -14796,6 +14804,7 @@ iab evewrything everything
 iab eveyone everyone
 iab eveyr every
 iab eveyrhitng everything
+iab eveyrhting everything
 iab eveyrone everyone
 iab eveyrthing everything
 iab eveyrwone everyone
@@ -15716,6 +15725,7 @@ iab fasle false
 iab faslse false
 iab fasntasty fantasy
 iab faste fast
+iab fastewtst fastest
 iab fastrer faster
 iab fastwer faster
 iab fatehr father
@@ -15847,6 +15857,7 @@ iab fgorm form
 iab fgoverner governor
 iab fgunction function
 iab fi9les files
+iab fiales finales
 iab fials fails
 iab fiance fiancé
 iab fiar fair
@@ -17122,6 +17133,7 @@ iab hanlding handling
 iab hanlmding handling
 iab haope hope
 iab haove have
+iab haox hoax
 iab hapahzardly haphazardly
 iab hapazerdly haphazardly
 iab hapbit habit
@@ -17609,6 +17621,7 @@ iab hmyself myself
 iab hnching hunching
 iab hneed need
 iab hneeding needing
+iab hnermit hermit
 iab hnours hours
 iab hoaw how
 iab hobbiest hobbyist
@@ -19377,6 +19390,7 @@ iab insufficuent insufficient
 iab insuight insight
 iab insuramountable insurmountable
 iab insurancde insurance
+iab insurancve insurance
 iab insureance insurance
 iab insurrments instruments
 iab insusceptable insusceptible
@@ -22439,6 +22453,7 @@ iab monent moment
 iab monestary monastery
 iab moneteize monetize
 iab moneth month
+iab monethgs months
 iab monety money
 iab monheys monkeys
 iab monid mind
@@ -24177,6 +24192,7 @@ iab organiztionsal organizational
 iab organizzing organizing
 iab organmissm organism
 iab organziing organizing
+iab orgianism organism
 iab orgini origin
 iab orgnaised organised
 iab orgnaism organism
@@ -25128,6 +25144,7 @@ iab perosnality personality
 iab perosnalized personalized
 iab perosnallity personality
 iab perosnally personally
+iab perosnallyity personality
 iab perous period
 iab perpedtuates perpetuates
 iab perphaps perhaps
@@ -25242,6 +25259,7 @@ iab phgrases phrases
 iab phgysicsa physics
 iab phicsal physical
 iab philisophical philosophical
+iab philosohy philosophy
 iab philosoophical philosophical
 iab philosophial philosophical
 iab philosopy philosophy
@@ -25670,6 +25688,7 @@ iab pokemon pokémon
 iab pokgin poking
 iab polalr polar
 iab polaoce place
+iab polayed played
 iab polayer player
 iab polaying playing
 iab polcies polices
@@ -29307,6 +29326,7 @@ iab savailable available
 iab savedf saved
 iab savedwe saved
 iab saveing saving
+iab saviigns savings
 iab savr save
 iab sawallowing swallowing
 iab saway sway
@@ -30232,6 +30252,7 @@ iab sifgnificant significant
 iab sifgnigiciant significant
 iab sifnificant significant
 iab sigfnificant significant
+iab siginficant significant
 iab siginificant significant
 iab signautures signatures
 iab signel single
@@ -30264,6 +30285,7 @@ iab sijngle single
 iab sikck sick
 iab sikin skin
 iab sikll skill
+iab silcence silence
 iab silcene silence
 iab silebnt silent
 iab silenece silence
@@ -31115,6 +31137,7 @@ iab spwcrbar spacebar
 iab sqeezing squeezing
 iab sqquare square
 iab sqquiarely squarely
+iab squaks squawks
 iab squieaking squeaking
 iab squisshed squished
 iab sqwitch switch
@@ -31822,6 +31845,7 @@ iab sultuoins solutions
 iab sumamry summary
 iab summaryu summary
 iab sumobulde submodule
+iab sunddelntly suddenly
 iab sunddenly suddenly
 iab sunds sounds
 iab sunt shunt
@@ -32085,6 +32109,7 @@ iab sutiation situation
 iab sutible suitable
 iab sutiible suitable
 iab sutoudpuity stupidity
+iab sutrivve survive
 iab suualluy usually
 iab suually usually
 iab suupport support
@@ -34359,6 +34384,7 @@ iab tyerms terms
 iab tyghrough through
 iab tyhat that
 iab tyhe the
+iab tyheere there
 iab tyhere there
 iab tyhese these
 iab tyhis this
