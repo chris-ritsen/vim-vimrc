@@ -1409,6 +1409,7 @@ iab Imrpoatnt Important
 iab Imrporiving Improving
 iab Imrpotant Important
 iab Imrprovign Improving
+iab Imrpvoe Improve
 iab Imrpvogin Improving
 iab Inactivbity Inactivity
 iab Incirelicbuy Incredibly
@@ -3092,6 +3093,7 @@ iab Stoppping Stopping
 iab Strage Stage
 iab Stranbe Strange
 iab Strony Strong
+iab Strorage Storage
 iab Stuido Studio
 iab Stydy Study
 iab Styelsheets Stylesheets
@@ -8284,6 +8286,7 @@ iab categoriew categories
 iab categorigcal categorical
 iab cathc catch
 iab catostrophic catastrophic
+iab catregory category
 iab caty cat
 iab caudsing causing
 iab cauled called
@@ -9166,6 +9169,7 @@ iab comapby company
 iab comaphny company
 iab comapny company
 iab comappany company
+iab comapred compared
 iab combiations combinations
 iab combinationsa combination
 iab combinded combined
@@ -9403,6 +9407,7 @@ iab comphrenension comprehension
 iab comphter computer
 iab comphters computers
 iab compieled compiled
+iab compiliation compilation
 iab compiule compile
 iab compiuled compiled
 iab complaing complain
@@ -9974,6 +9979,7 @@ iab consciousley consciously
 iab conscioussness consciousness
 iab consciouys conscious
 iab conscioyusness consciousness
+iab conscise concise
 iab conscoiniousness consciousness
 iab conscoius conscious
 iab conscoiusness consciousness
@@ -10001,6 +10007,7 @@ iab consicous conscious
 iab consicousness consciousness
 iab consideraytion consideration
 iab considerd considered
+iab consideres considers
 iab consideried considered
 iab considerin considering
 iab consideringa considering
@@ -10835,6 +10842,7 @@ iab creaetd created
 iab creaitgin creating
 iab crearted created
 iab creashing crashing
+iab creasted created
 iab creat create
 iab creataing creating
 iab creatawed created
@@ -13457,6 +13465,7 @@ iab effecsdtes effects
 iab effectibel effectively
 iab effectife effective
 iab effectily effectively
+iab effectiveily effectively
 iab effectiveley effectively
 iab effectivley effectively
 iab effectivly effectively
@@ -14057,6 +14066,7 @@ iab engergize energize
 iab engergy energy
 iab enggergy energy
 iab engieeer engineer
+iab engiens engines
 iab engineeer engineer
 iab engineerign engineering
 iab engineerring engineering
@@ -15784,6 +15794,7 @@ iab farenheight fahrenheit
 iab farily fairly
 iab farvorable favorable
 iab farvorably favorably
+iab fascade facade
 iab fascebokok facebook
 iab fascillitate facilitate
 iab fascscinating fascinating
@@ -16699,7 +16710,7 @@ iab futeur future
 iab futeurther further
 iab futgure future
 iab futher further
-iab futherest furtherest
+iab futherest furthest
 iab futilte futile
 iab futrnance furnace
 iab futuer future
@@ -19994,6 +20005,7 @@ iab irequring requiring
 iab ireutrn return
 iab irght right
 iab iridescnet iridescent
+iab irlrelevent irrelevant
 iab irlrelvenvant irrelevant
 iab irlrevelvant irrelevant
 iab irmpotaarnt important
@@ -20195,6 +20207,7 @@ iab ivideo video
 iab ivisible visible
 iab ivisot visit
 iab ivlolved involved
+iab ivnalid invalid
 iab ivnariabilby invariably
 iab ivoes videos
 iab iwas was
@@ -26046,6 +26059,7 @@ iab poteintially potentially
 iab poteiontailly potentially
 iab poteiontial potential
 iab poteiontl potential
+iab poteitnailly potentially
 iab potenail potential
 iab potenetially potentially
 iab potentaiolly potentially
@@ -26546,6 +26560,7 @@ iab priivate private
 iab priject project
 iab primairily primarily
 iab primarl primal
+iab primarlly primarily
 iab primart primary
 iab primaruly primarily
 iab primcinple principle
@@ -30151,6 +30166,7 @@ iab seuencing sequencing
 iab seumiconductor semiconductor
 iab seuqnece sequence
 iab seutp setup
+iab sevceral several
 iab seveal several
 iab seveeral several
 iab sevelal several
@@ -31687,6 +31703,7 @@ iab strentch strength
 iab strenth strength
 iab stressfeul stressful
 iab stretchd stretch
+iab stretdhc stretch
 iab streteched stretched
 iab streteches stretches
 iab streteching stretching
@@ -32221,6 +32238,7 @@ iab suseful useful
 iab suseptible susceptible
 iab susequenet subsequent
 iab suses uses
+iab susgest suggest
 iab susggedstions suggestions
 iab suspcetable susceptible
 iab suspcetible susceptible
@@ -32840,6 +32858,7 @@ iab teightening tightening
 iab teim time
 iab teime time
 iab teiodusl tedious
+iab teiouds tedious
 iab teisng testing
 iab teither either
 iab telagraphic telegraphic
@@ -33946,6 +33965,7 @@ iab topicd topic
 iab topicds topics
 iab topicsd topics
 iab topiuc topic
+iab topopic topic
 iab topor torpor
 iab topuc topic
 iab topuic topic
@@ -34649,6 +34669,7 @@ iab uailityh quality
 iab uanble unable
 iab uasable usable
 iab uasers users
+iab uatiomation automation
 iab ubiosuoyuqs ubiquitous
 iab ubiquiotous ubiquitous
 iab ubiquioutus ubiquitous
@@ -36353,6 +36374,7 @@ iab whay what
 iab whayt what
 iab whcih which
 iab whcihs which
+iab whcij which
 iab wheatever whatever
 iab wheele wheel
 iab wheelled wheeled
@@ -36853,6 +36875,7 @@ iab wortthy worthy
 iab wortwhile worthwhile
 iab wortyhy worthy
 iab wotih with
+iab wotrth worth
 iab wotthwhilw worthwhile
 iab woudl would
 iab woudlb would
