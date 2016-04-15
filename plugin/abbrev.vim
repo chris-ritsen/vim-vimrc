@@ -6250,6 +6250,7 @@ iab artgumnets arguments
 iab articdle article
 iab articel article
 iab articels articles
+iab articiels articles
 iab articifical artificial
 iab articifiucla artificial
 iab articifual artificial
@@ -11363,6 +11364,7 @@ iab deffined defined
 iab defiault default
 iab defices devices
 iab defiend defined
+iab defiest defies
 iab defiinte definite
 iab defiiotion definition
 iab defilementxs defilements
@@ -11910,6 +11912,7 @@ iab devleopmetn development
 iab devleopnmet development
 iab devleopoed developed
 iab devleoprs developers
+iab devleopuing developing
 iab devleping developing
 iab devlepinig developing
 iab devlepo develop
@@ -13502,6 +13505,7 @@ iab effexts effects
 iab efffect effect
 iab efffexsts effects
 iab efffffffects effects
+iab effficiency efficiency
 iab efffort effort
 iab efffortless effortless
 iab efficent efficient
@@ -14013,6 +14017,7 @@ iab endevaor endeavor
 iab endfunctino endfunction
 iab endgine engine
 iab endign ending
+iab endiung ending
 iab endleslly endlessly
 iab endleslsly endlessly
 iab endneagenered endangered
@@ -15805,6 +15810,7 @@ iab famililar familiar
 iab familiy familia
 iab familkar familiar
 iab familliar familiar
+iab famillkari familiar
 iab familly family
 iab familuar familiar
 iab familyar familiar
@@ -19561,6 +19567,7 @@ iab integratied integrated
 iab inteimimately intimately
 iab inteinotionally intentionally
 iab inteintioabnly intentionally
+iab inteintioanl intentional
 iab inteintion intention
 iab inteintional intentional
 iab inteintionally intentionally
@@ -31933,6 +31940,7 @@ iab subjecddts subjects
 iab subjecdt subject
 iab subjecdyt subject
 iab subjecet subject
+iab subjectes subjects
 iab subjecti subject
 iab subjecvt subject
 iab subjedct subject
@@ -33675,6 +33683,7 @@ iab thoutghts thoughts
 iab thouths thoughts
 iab thouygh though
 iab thouyrloughly thoroughly
+iab thouyroughly thoroughly
 iab thow how
 iab thqt that
 iab thre three
@@ -35165,8 +35174,10 @@ iab unexpecietd unexpected
 iab unexpectealy unexpectedly
 iab unexpewctedly unexpectedly
 iab unfamiilayr unfamiliar
+iab unfamililar unfamiliar
 iab unfamiliy unfamiliar
 iab unfamillar unfamiliar
+iab unfamilliar unfamiliar
 iab unfamliar unfamiliar
 iab unfamuliar unfamiliar
 iab unfcoused unfocused
@@ -35202,6 +35213,7 @@ iab unforutnate unfortunate
 iab unfoucising unfocusing
 iab unfrienldy unfriendly
 iab unfrontaunte unfortunate
+iab unfrorntautely unfortunately
 iab unfrorunately unfortunately
 iab unfulfulled unfulfilled
 iab unfurtoabnte unfortunate
@@ -35732,6 +35744,7 @@ iab varialbe variable
 iab varialbes variables
 iab variaous various
 iab variatn variant
+iab varieity variety
 iab varierty variety
 iab variesd varied
 iab variing varying
@@ -36735,6 +36748,7 @@ iab withiout without
 iab withnessed witnessed
 iab withnout without
 iab withoin within
+iab withoiut without
 iab withoout without
 iab withoput without
 iab withot without
@@ -37215,6 +37229,7 @@ iab wwrite write
 iab wwritest wrist
 iab wwriting writing
 iab wwritten written
+iab wwrong wrong
 iab wwwas was
 iab wya way
 iab wyas ways
