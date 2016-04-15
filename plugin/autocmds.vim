@@ -73,10 +73,10 @@ autocmd! FileType make setlocal noexpandtab
 " JavaScript {{{
 
 autocmd! BufRead,BufNewFile .eslintrc set filetype=json
+autocmd! BufRead,BufNewFile *.json set filetype=json
 autocmd! BufReadPost *.jshintrc setf json
 autocmd! BufWritePre *.js :%s/\s\+$//e
 autocmd! FileType javascript setlocal foldmethod=marker foldmarker={,} commentstring=\/\/\ %s
-autocmd! Syntax vim setlocal foldmethod=marker | normal zM
 
 " }}}4
 
@@ -111,7 +111,6 @@ autocmd! BufReadPost *.css,*scss silent! g/base64.\+/normal zc
 
 " }}}4
 
-autocmd! BufRead,BufNewFile *.json set filetype=json
 autocmd! BufRead,BufNewFile *.tex set filetype=tex
 
 autocmd! BufRead,BufNewFile .lynxrc set filetype=lynx
@@ -263,6 +262,7 @@ autocmd! FileType sshconfig set nowrap foldmethod=indent
 " vim {{{3
 
 autocmd! BufNewFile,BufRead *.vim setf vim
+autocmd! Syntax vim setlocal foldmethod=marker | normal zM
 
 autocmd! BufRead,BufNewFile ~/.config/vim/plugins/pathogen/autoload/pathogen.vim set foldmethod=marker
 autocmd! FileType vim setlocal commentstring=\"\ %s comments=b:\"
