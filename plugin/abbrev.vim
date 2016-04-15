@@ -37449,3 +37449,13 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
+iab moslty mostly
+iab webswaite website
+iab qabout about
+iab essnetialy essentially
+iab obviosyuly obviously
+iab nesccesarily necessarily
+iab filenaems filenames
+iab reformating reformatting
+iab Recongise Recognise
+iab sheell shell

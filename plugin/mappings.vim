@@ -111,9 +111,8 @@ nnoremap <down> <nop>
 nnoremap <leader>d :call AddAbbrev()<cr>
 
 function! LookupWordDefinition()
-  " Doesnt' page the output correctly
   let l:word = expand("<cword>")
-  execute ":!clear && sdcv -n " . l:word . " | less"
+  execute ":!clear && sdcv -n " . l:word . " | $PAGER"
 endfunction
 
 nnoremap <leader>u <esc>:call LookupWordDefinition()<cr><cr>
@@ -236,12 +235,6 @@ vnoremap <up> <nop>
 " TODO: {{{
 
 " TODO: set this up {{{
-
-" cmap <c-j> <esc>
-
-" Why the hell did you enable this?
-" imap <c-j> <esc>
-" nmap <c-j> :
 
 " %!xmlformat --indent 2 --indent-char ' '  --preserve 'style foreignobject' --outencoding 'utf-8' -
 
