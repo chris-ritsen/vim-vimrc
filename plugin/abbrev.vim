@@ -64,6 +64,7 @@ iab Additonally Additionally
 iab Adhereance Adherence
 iab Adidtioanly Additionally
 iab Adjustewd Adjusted
+iab Administroarttor Administrator
 iab Admisinstrator Administrator
 iab Advangenage Advantage
 iab Advnatnage Advantage
@@ -119,6 +120,7 @@ iab Apparenly Apparently
 iab Appendic Appendix
 iab Appendicx Appendix
 iab Appleid Applied
+iab Appliced Applied
 iab Apprecited Appreciated
 iab Appreised Apprised
 iab Aprepeciate Appreciate
@@ -631,6 +633,7 @@ iab Develpoper Developer
 iab Devember December
 iab Deveopelopers Developers
 iab Devisingh Devising
+iab Devkleoper Developer
 iab Devleioper Developer
 iab Devleoped Developed
 iab Devleoper Developer
@@ -1004,6 +1007,7 @@ iab FRom From
 iab FRutehr Further
 iab FUNTION FUNCTION
 iab FUck Fuck
+iab FUll Full
 iab FUnction Function
 iab Facbook Facebook
 iab Failry Fairly
@@ -1144,6 +1148,7 @@ iab HIlls Hills
 iab HIs His
 iab HIts Hits
 iab HMTL HTML
+iab HOEM HOME
 iab HOem Home
 iab HOever However
 iab HOld Hold
@@ -1460,6 +1465,7 @@ iab Indivusuals Individuals
 iab Indlucling Indulging
 iab Indtorducucing Introducing
 iab Inevieilatlby Inevitably
+iab Infiuriatiing Infuriating
 iab Infomration Information
 iab Informationtal Informational
 iab Informatnion Information
@@ -1875,6 +1881,7 @@ iab NIrbvana Nirvāṇa
 iab NMonitor Monitor
 iab NNo No
 iab NOTRE NOTE
+iab NOTRhign Nothing
 iab NObel Nobel
 iab NOble Noble
 iab NObody Nobody
@@ -2832,6 +2839,7 @@ iab SOMETHIGN SOMETHING
 iab SOMeone Someone
 iab SOMeting Something
 iab SOle Sole
+iab SOlid Solid
 iab SOme Some
 iab SOmehow Somehow
 iab SOmeone Someone
@@ -2955,6 +2963,7 @@ iab Senseations Sensations
 iab Sepcically Specifically
 iab Sepcifically Specifically
 iab Sepcififically Specifically
+iab Sepnding Spending
 iab Septebmber September
 iab Sercive Service
 iab Serentity Serenity
@@ -4849,6 +4858,7 @@ iab adws as
 iab ady day
 iab aeach each
 iab aeen been
+iab aemacs emacs
 iab aenemey enemy
 iab aenough enough
 iab aer are
@@ -6095,6 +6105,7 @@ iab apsect aspect
 iab apsiriations aspirations
 iab aptch patch
 iab apth path
+iab apwepr paper
 iab apy pay
 iab aqbout about
 iab aqeuire acquire
@@ -6558,6 +6569,7 @@ iab attascdhed attached
 iab attatached attached
 iab attatcghnment attachment
 iab attatchement attachment
+iab attatchements attachments
 iab attcadhced attached
 iab atte ate
 iab atteached attached
@@ -7563,6 +7575,7 @@ iab blalpint ballpoint
 iab blamancing balancing
 iab blanace balance
 iab blankiong blanking
+iab blankj blank
 iab blanknet blanket
 iab blanmming blaming
 iab blaqck black
@@ -10839,6 +10852,7 @@ iab craete create
 iab craeting creating
 iab cralwer crawler
 iab crasdh crash
+iab crasxh crash
 iab crateive creative
 iab cration creation
 iab crative creative
@@ -12998,6 +13012,7 @@ iab drivr driver
 iab drkining drinking
 iab drlls drills
 iab drnak drank
+iab droawing drawing
 iab drobox dropbox
 iab droopuing drooping
 iab droown drown
@@ -16013,6 +16028,7 @@ iab figners fingers
 iab fignertips fingertips
 iab figngers fingers
 iab figther fighter
+iab figuire figure
 iab figuratevely figuratively
 iab figureing figuring
 iab figurout figure
@@ -16198,6 +16214,7 @@ iab flaswsa flaws
 iab flawwed flawed
 iab flecible flexible
 iab flet felt
+iab flexabililty flexibility
 iab flexability flexibility
 iab flexc flex
 iab flexdbox flexbox
@@ -26651,6 +26668,7 @@ iab priovdie provide
 iab priovide provide
 iab priovoing proving
 iab pripherals peripherals
+iab pririoty priority
 iab prirotize prioritize
 iab prision prison
 iab priti prīti
@@ -30263,6 +30281,7 @@ iab sewating sweating
 iab sewatshirt sweatshirt
 iab sewconds seconds
 iab sewction section
+iab sewcurity security
 iab sewearing swearing
 iab sewems seems
 iab sewitdgched switched
@@ -37532,3 +37551,10 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
+iab SAturday Saturday
+iab Claisical Classical
+iab clasiccal classical
+iab mmintesu minutes
+iab twennty twenty
+iab DNoen Done
+iab drwawing drawing
