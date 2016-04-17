@@ -986,6 +986,7 @@ iab FIx Fix
 iab FIxed Fixed
 iab FLIR FLIR
 iab FLowing Flowing
+iab FLox Phlox
 iab FMXAME FIXME
 iab FOXME FIXME
 iab FOcus Focus
@@ -36243,6 +36244,7 @@ iab wbehther whether
 iab wbseite website
 iab wbsite website
 iab wbsites websites
+iab wchih which
 iab wchoices choices
 iab wchool school
 iab wcould could
@@ -37160,6 +37162,7 @@ iab wsay way
 iab wscope scope
 iab wscrewen screen
 iab wsdtazted wasted
+iab wsecen scene
 iab wseciots besots
 iab wseession session
 iab wsesnsation sensation
