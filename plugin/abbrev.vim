@@ -334,6 +334,7 @@ iab Cirtierion Criterion
 iab Citrytreion Criterion
 iab Cjhris Chris
 iab Clairfontaine Clairefontaine
+iab Claisical Classical
 iab Clal Call
 iab Clarifaication Clarification
 iab Clarift Clarify
@@ -553,6 +554,7 @@ iab DIoitot Idiot
 iab DIsalbg2 Disable
 iab DIsiable Disable
 iab DIsplay Display
+iab DNoen Done
 iab DOctor Doctor
 iab DOes Does
 iab DOing Doing
@@ -2770,6 +2772,7 @@ iab SApent Spent
 iab SAsytem System
 iab SAtage Stage
 iab SAtruday Saturday
+iab SAturday Saturday
 iab SAtyrdasy Saturday
 iab SAvely Safely
 iab SAys Says
@@ -8806,6 +8809,7 @@ iab clarityh clarity
 iab clariyty clarity
 iab clas class
 iab clases classes
+iab clasiccal classical
 iab clasisic classic
 iab classamic classic
 iab classees classes
@@ -13031,6 +13035,7 @@ iab drugery drudgery
 iab drunkennewss drunkenness
 iab drunking drinking
 iab drvie drive
+iab drwawing drawing
 iab dsaid said
 iab dsay say
 iab dsciriminating discriminating
@@ -22450,6 +22455,7 @@ iab mmeroy memory
 iab mmicsrophoen microphone
 iab mmidnight midnight
 iab mmight might
+iab mmintesu minutes
 iab mmode mode
 iab mmoemnt moment
 iab mmoemtn moment
@@ -34625,6 +34631,7 @@ iab twaught taught
 iab tweleve twelve
 iab twellve twelve
 iab twenety twenty
+iab twennty twenty
 iab tweo two
 iab twevele twelve
 iab twext text
@@ -37551,10 +37558,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab SAturday Saturday
-iab Claisical Classical
-iab clasiccal classical
-iab mmintesu minutes
-iab twennty twenty
-iab DNoen Done
-iab drwawing drawing
