@@ -147,11 +147,11 @@ autocmd! BufRead,BufNewFile ~/.drirc set filetype=xml
 
 " mpd {{{
 
-autocmd! BufRead,BufNewFile ~/.config/mpd/books/books.conf set filetype=conf foldmethod=marker foldmarker={,}
-autocmd! BufRead,BufNewFile ~/.config/mpd/mpd.conf set filetype=conf foldmethod=marker foldmarker={,}
-autocmd! BufRead,BufNewFile ~/.config/mpd/music/music.conf set filetype=conf foldmethod=marker foldmarker={,}
-autocmd! BufRead,BufNewFile ~/.config/mpd/stream/stream.conf set filetype=conf foldmethod=marker foldmarker={,}
-autocmd! BufRead,BufNewFile ~/.config/mpd/voice/voice.conf set filetype=conf foldmethod=marker foldmarker={,}
+autocmd! BufRead,BufNewFile ~/.config/mpd/books/books.conf set filetype=conf foldmethod=marker foldmarker={,} commentstring=#\ %s  
+autocmd! BufRead,BufNewFile ~/.config/mpd/mpd.conf set filetype=conf foldmethod=marker foldmarker={,} commentstring=#\ %s  
+autocmd! BufRead,BufNewFile ~/.config/mpd/music/music.conf set filetype=conf foldmethod=marker foldmarker={,} commentstring=#\ %s  
+autocmd! BufRead,BufNewFile ~/.config/mpd/stream/stream.conf set filetype=conf foldmethod=marker foldmarker={,} commentstring=#\ %s  
+autocmd! BufRead,BufNewFile ~/.config/mpd/voice/voice.conf set filetype=conf foldmethod=marker foldmarker={,} commentstring=#\ %s 
 
 " vimpc {{{
 
