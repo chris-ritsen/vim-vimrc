@@ -968,6 +968,7 @@ iab FEeling Feeling
 iab FGive Five
 iab FIXAME FIXME
 iab FIXMDE FIXME
+iab FIXMRE FIXME
 iab FIgure Figure
 iab FIle File
 iab FIles Files
@@ -1084,6 +1085,7 @@ iab GHoing Going
 iab GIt Git
 iab GIven Given
 iab GOBserfvaionts Observations
+iab GOal Goal
 iab GOd God
 iab GOign Going
 iab GOing Going
@@ -4884,6 +4886,7 @@ iab aexperiences experiences
 iab aexplaination explanation
 iab afagin again
 iab afalse false
+iab afcitgivated1 activated
 iab afct fact
 iab afdvertised advertised
 iab afdvertising advertising
@@ -9027,6 +9030,7 @@ iab cnosoel console
 iab cnosoele console
 iab cnosoelll console
 iab cnosole console
+iab cnosoloe console
 iab cnosooe console
 iab cnsciousyess consciousness
 iab cnsider consider
@@ -9741,6 +9745,7 @@ iab concsoisu conscious
 iab concsole console
 iab conctarct contract
 iab conctarctor contractor
+iab conctorller controller
 iab conctrol control
 iab conctrollers controllers
 iab conculsion conclusion
@@ -17272,6 +17277,7 @@ iab handlgin handling
 iab handlign handling
 iab handly handy
 iab handmling handling
+iab handoler handler
 iab hanges hangers
 iab hanlder handler
 iab hanldign handling
@@ -17962,6 +17968,7 @@ iab hten then
 iab htere there
 iab htese these
 iab htesee these
+iab htesew these
 iab hteshaurs thesaurus
 iab hteumb thumb
 iab htew thew
@@ -22517,6 +22524,7 @@ iab modalityh modality
 iab modawl modal
 iab moderantely moderately
 iab modfal modal
+iab modfieid modified
 iab modfitying modifying
 iab modfiy modify
 iab modicfacation modification
@@ -22578,6 +22586,7 @@ iab moicipmlete omnicomplete
 iab moicirphone microphone
 iab moicrpohne microphone
 iab moidified modified
+iab moidiified modified
 iab moind mind
 iab moinitor monitor
 iab mointain maintain
@@ -29808,6 +29817,7 @@ iab sdevised devised
 iab sdevleopemnt development
 iab sdevleopers developers
 iab sdevliopmetn development
+iab sdewrver server
 iab sdimply simply
 iab sdiomethow somehow
 iab sdisabled disabled
@@ -31940,6 +31950,7 @@ iab styelsss styles
 iab styleesheets stylesheets
 iab stylefs styles
 iab stylel styler
+iab styleshet stylesheet
 iab stylews styles
 iab stynadnard standard
 iab styoele style
@@ -36441,6 +36452,7 @@ iab wexperience experience
 iab wexplores explores
 iab weyes eyes
 iab wgbsite website
+iab wghat what
 iab wghere where
 iab whaat what
 iab whaen when
