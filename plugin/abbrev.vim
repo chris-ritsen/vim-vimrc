@@ -4226,6 +4226,7 @@ iab accepetd accepted
 iab accepeted accepted
 iab acceppeted accepted
 iab acceprtable acceptable
+iab accepteds accepted
 iab acces access
 iab accesible accessible
 iab accesisible accessible
@@ -5686,6 +5687,7 @@ iab anywone anyone
 iab anywthing anything
 iab anyy any
 iab aobiovus obvious
+iab aobit about
 iab aobout about
 iab aobuelt about
 iab aobut about
@@ -24546,6 +24548,7 @@ iab otopsions options
 iab otp top
 iab otpical topical
 iab otpion option
+iab otpiosns options
 iab otther other
 iab ottold told
 iab otu out
