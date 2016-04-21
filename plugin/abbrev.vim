@@ -37597,3 +37597,8 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
+iab technoliogies technologies
+iab smaple sample
+iab topcally topically
+iab lcokc clock
+iab -tuytle -title
