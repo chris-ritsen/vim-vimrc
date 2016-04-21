@@ -296,6 +296,7 @@ iab Chinse Chinese
 iab Chires Chris
 iab Chirs Chris
 iab Chirsa Chris
+iab Chirsotpher Christopher
 iab Chiuld Child
 iab Chnage Change
 iab Chorme Chrome
@@ -1005,6 +1006,8 @@ iab FOrward Forward
 iab FOund Found
 iab FOunders Founders
 iab FOur Four
+iab FRAming Framing
+iab FRaming Framing
 iab FRankenmuth Frankenmuth
 iab FReewriting Freewriting
 iab FRom From
@@ -2785,6 +2788,7 @@ iab SCratcdhing Scratching
 iab SCreaming Screaming
 iab SCreen Screen
 iab SCrum Scrum
+iab SDOunds Sounds
 iab SDTate State
 iab SDeeing Seeing
 iab SDervice Service
@@ -4698,6 +4702,7 @@ iab adciehve achieve
 iab adctions actions
 iab adctivity activity
 iab adctually actually
+iab adddded added
 iab addded added
 iab adddress address
 iab addeed added
@@ -7379,6 +7384,7 @@ iab beo be
 iab beocme become
 iab beocmes becomes
 iab beocming becoming
+iab beocmming becoming
 iab beofer before
 iab beofre before
 iab beoing being
@@ -8451,6 +8457,7 @@ iab certyain certain
 iab certyainly certainly
 iab cerytain certain
 iab cetain certain
+iab cetianly certainly
 iab cetnaur centaur
 iab cetner center
 iab cetnruty century
@@ -14235,6 +14242,7 @@ iab enthusiaxdtic enthusiastic
 iab enthusiaxstic enthusiastic
 iab enthusiiastic enthusiastic
 iab enthusoiaistic enthusiastic
+iab enthusuaistic enthusiastic
 iab enthusuasm enthusiasm
 iab enthusuaxstic enthusiastic
 iab enticiing enticing
@@ -19803,6 +19811,8 @@ iab intervew interview
 iab intervial interval
 iab intervice interview
 iab intervicew interview
+iab interviefw interview
+iab intervieqw interview
 iab intervier interview
 iab intervies interviews
 iab intervievw interview
@@ -23857,6 +23867,7 @@ iab ocmmunity community
 iab ocmoeutpers computers
 iab ocmopments components
 iab ocmopytuer computer
+iab ocmpanioes companies
 iab ocmpaniyes companies
 iab ocmpanred compared
 iab ocmpany company
@@ -24273,6 +24284,7 @@ iab oppportunities opportunities
 iab oppporuituoinies opportunities
 iab oppposite opposite
 iab oppresion oppression
+iab oppriottunity opportunity
 iab oppritunity opportunity
 iab opproithjnites opportunities
 iab opprootunty opportunity
@@ -27884,6 +27896,7 @@ iab recogfnize recognize
 iab recognation recognition
 iab recogniised recognised
 iab recogniseing recognising
+iab recognisse recognise
 iab recognistion recognition
 iab recognizeable recognizable
 iab recoikgning recognizing
@@ -32932,6 +32945,7 @@ iab tegy they
 iab teh the
 iab tehat that
 iab tehater theater
+iab tehc tech
 iab tehcincial technical
 iab tehcnical technical
 iab tehcnice technique
@@ -37347,6 +37361,7 @@ iab yedsterday yesterday
 iab yeild yield
 iab yeilded yielded
 iab yelk0ping yelping
+iab yeraerday yesterday
 iab yeras years
 iab yerouslef yourself
 iab yers years
