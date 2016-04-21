@@ -20917,6 +20917,7 @@ iab lcoate locate
 iab lcoation location
 iab lcodation location
 iab lcoesley closely
+iab lcokc clock
 iab lcoked locked
 iab lcollect collect
 iab lconsole console
@@ -30906,6 +30907,7 @@ iab slwoest slowest
 iab smae same
 iab smalleset smallest
 iab smaoke smoke
+iab smaple sample
 iab smaplkings samplings
 iab smapoe sample
 iab sme me
@@ -32901,6 +32903,7 @@ iab technolgoies technologies
 iab technolgoy technology
 iab technolhogy technology
 iab technoligies technologies
+iab technoliogies technologies
 iab technollgies technologies
 iab technologiy technology
 iab technologoies technologies
@@ -34090,6 +34093,7 @@ iab toooyda today
 iab toopic topic
 iab toorrow tomorrow
 iab toosl tools
+iab topcally topically
 iab topci topic
 iab topcially topically
 iab topcis topics
@@ -34660,6 +34664,7 @@ iab tuypes types
 iab tuyping typing
 iab tuypos typos
 iab tuyrned turned
+iab tuytle title
 iab tvery very
 iab twards towards
 iab twaught taught
@@ -37597,8 +37602,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab technoliogies technologies
-iab smaple sample
-iab topcally topically
-iab lcokc clock
-iab -tuytle -title
