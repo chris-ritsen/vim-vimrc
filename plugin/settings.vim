@@ -63,9 +63,10 @@ set foldlevel=20
 set foldlevelstart=20
 set foldmethod=marker
 set foldminlines=1
-set formatlistpat=^\\s*\\d\\+[\\]:.)}\\t\ ]\\s*\\\|^\\*\\s*\|^\\s*∙\\s*\|^\\s*•\\s*  
+set formatlistpat=^\\s*\\d\\+[\\]:.)}\\t\ ]\\s*\\\|^\\*\\s*\|^\\s*∙\\s*\|^\\s*•\\s*
 
-" 'w' leaves trailing whitespace
+" 'w' leaves trailing whitespace, but I'm remembering an issue with list
+" formating
 " set formatoptions+=njw
 
 set formatoptions+=nj
