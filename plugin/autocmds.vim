@@ -111,7 +111,14 @@ autocmd! BufReadPost *.css,*scss silent! g/base64.\+/normal zc
 
 " }}}4
 
+" tex {{{
+
 autocmd! BufRead,BufNewFile *.tex set filetype=tex
+autocmd! FileType tex setlocal commentstring=\%\ %s
+
+" }}}
+
+autocmd! FileType text setlocal commentstring=%s
 
 autocmd! BufRead,BufNewFile .lynxrc set filetype=lynx
 autocmd! BufRead,BufNewFile .offlineimaprc setlocal commentstring=#\ %s
