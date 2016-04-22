@@ -64,7 +64,12 @@ set foldlevelstart=20
 set foldmethod=marker
 set foldminlines=1
 set formatlistpat=^\\s*\\d\\+[\\]:.)}\\t\ ]\\s*\\\|^\\*\\s*\|^\\s*∙\\s*\|^\\s*•\\s*  
-set formatoptions+=njw
+
+" 'w' leaves trailing whitespace
+" set formatoptions+=njw
+
+set formatoptions+=nj
+
 set guiheadroom=0
 set nrformats=octal,hex
 set hidden

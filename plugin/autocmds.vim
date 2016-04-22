@@ -119,6 +119,7 @@ autocmd! FileType tex setlocal commentstring=\%\ %s
 " }}}
 
 autocmd! FileType text setlocal commentstring=%s
+autocmd! FileType systemd setlocal tw=0 commentstring=#\ %s
 
 autocmd! BufRead,BufNewFile .lynxrc set filetype=lynx
 autocmd! BufRead,BufNewFile .offlineimaprc setlocal commentstring=#\ %s
