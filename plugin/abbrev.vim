@@ -405,6 +405,7 @@ iab Constnatn Constant
 iab Constnawnt Constant
 iab Constnawt Constant
 iab Constnawtn Constant
+iab Contarct Contact
 iab Contastly Constantly
 iab Contect Content
 iab Conteset Contest
@@ -2726,6 +2727,7 @@ iab Ristene Ritsen
 iab Ristn Ritsen
 iab Ristnde Ritsen
 iab Ristne Ritsen
+iab Ristnee Ritsen
 iab Ristnwe Ritsen
 iab Riten Ritsen
 iab Ritnsen Ritsen
@@ -5341,6 +5343,7 @@ iab amoung among
 iab amounto amount
 iab amoutn amount
 iab amoutns amounts
+iab amowutn amount
 iab ampaermtnet apartment
 iab amparpetn apparent
 iab amplidute amplitude
@@ -7112,6 +7115,7 @@ iab basica basic
 iab basiccs basics
 iab basisc basic
 iab basiss basis
+iab basns bans
 iab basrely barely
 iab basus basis
 iab batchd batch
@@ -9417,6 +9421,7 @@ iab compayn company
 iab compayny company
 iab compbine combine
 iab compeassion compassion
+iab compeelling compelling
 iab compelete complete
 iab compeleted completed
 iab compeleting completing
@@ -9632,6 +9637,7 @@ iab comtpyer computer
 iab comtpyuer computer
 iab conaecntration concentration
 iab conbinatin combination
+iab conbsole console
 iab conbtent content
 iab conc8lusion conclusion
 iab concabe concave
@@ -17655,6 +17661,7 @@ iab hhungryt hungry
 iab hiccupping hiccuping
 iab hiccuppnig hiccuping
 iab hich which
+iab hiddden hidden
 iab hiddeb hidden
 iab hiddne hidden
 iab hideen hidden
@@ -17763,6 +17770,7 @@ iab histyr history
 iab hittin hitting
 iab hitttng hitting
 iab hiugh high
+iab hiwle while
 iab hjad head
 iab hjajhan jhāna
 iab hjandle handle
@@ -18293,6 +18301,7 @@ iab igantic gigantic
 iab ighly highly
 iab ighnored ignored
 iab igiving giving
+iab igivng giving
 iab igniring ignoring
 iab ignirong ignoring
 iab ignopre ignore
@@ -23616,6 +23625,7 @@ iab oall all
 iab oanother another
 iab oaother another
 iab oas as
+iab oasbut about
 iab obcviously obviously
 iab obdervatyions observations
 iab obderve observe
@@ -27776,6 +27786,7 @@ iab reasdon reason
 iab reasdtwerts restarts
 iab reasearch research
 iab reasearfch research
+iab reasearhc research
 iab reaseearchign researching
 iab reasehdarching researching
 iab reasen reason
@@ -28157,6 +28168,7 @@ iab reinaamining remaining
 iab reindering rendering
 iab reinffoces reinforces
 iab reinfocements reinforcements
+iab reinstante reinstate
 iab reisk risk
 iab reisntalled reinstalled
 iab reitereated reiterated
@@ -28700,6 +28712,7 @@ iab rerturend returned
 iab rerturn return
 iab rerutn return
 iab resaching reaching
+iab resady ready
 iab resaearch research
 iab resaearchers researchers
 iab resaerachers researchers
@@ -28994,6 +29007,7 @@ iab retrun return
 iab retrunk return
 iab retstrict restrict
 iab retuern return
+iab retuiren return
 iab retuirn return
 iab retunr return
 iab retunred returned
@@ -29059,6 +29073,7 @@ iab reutenr return
 iab reutirn return
 iab reutn return
 iab reutnr return
+iab reutnre return
 iab reutnrn return
 iab reutnrs returns
 iab reutnrsa returns
@@ -29677,6 +29692,7 @@ iab scetch sketch
 iab scetion section
 iab scfript script
 iab scfrreen screen
+iab schceme scheme
 iab scheduel schedule
 iab scheduyle schedule
 iab schematicss schematics
@@ -29695,6 +29711,7 @@ iab schipe scope
 iab schoedule schedule
 iab scholdar scholar
 iab scholl school
+iab scholstic scholastic
 iab schoool school
 iab schoosew choose
 iab schuel schedule
@@ -29745,6 +29762,7 @@ iab scorp scope
 iab scould could
 iab scpope scope
 iab scqale scale
+iab scraptes scrapes
 iab scratchning scratching
 iab scratech scratch
 iab scrdipt script
@@ -31542,6 +31560,7 @@ iab staricasde staircase
 iab starit start
 iab staritgn starting
 iab staritng starting
+iab starndard standard
 iab starnge strange
 iab starngers strangers
 iab starrt start
@@ -33303,6 +33322,7 @@ iab tfood food
 iab tfor for
 iab tfpewriter typewriter
 iab tfurther further
+iab tgabs tabs
 iab tgaht that
 iab tgat that
 iab tge the
@@ -34263,6 +34283,7 @@ iab trakdcpad trackpad
 iab trake take
 iab trakpad trackpad
 iab trakzxcdpad trackpad
+iab tralking talking
 iab tralveling traveling
 iab trama trauma
 iab tramsitters transmitters
@@ -36332,6 +36353,7 @@ iab webservefr webserver
 iab websever webserver
 iab websie website
 iab websitee website
+iab websitew website
 iab websitsees websites
 iab websocet websocket
 iab websocoket websocket
@@ -36811,6 +36833,7 @@ iab wisth width
 iab wisthds widths
 iab witdom wisdom
 iab witeh with
+iab witespace whitespace
 iab witgh with
 iab withdrawl withdrawal
 iab withg with
@@ -37609,25 +37632,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab Contarct Contact
-iab Ristnee Ritsen
-iab scholstic scholastic
-iab oasbut about
-iab igivng giving
-iab hiddden hidden
-iab witespace whitespace
-iab tgabs tabs
-iab retuiren return
-iab conbsole console
-iab resady ready
-iab scraptes scrapes
-iab compeelling compelling
-iab reasearhc research
-iab tralking talking
-iab websitew website
-iab basns bans
-iab reinstante reinstate
-iab hiwle while
-iab amowutn amount
-iab starndard standard
-iab reutnre return
