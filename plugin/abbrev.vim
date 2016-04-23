@@ -1344,6 +1344,7 @@ iab INtermediate Intermediate
 iab INternally Internally
 iab INternet Internet
 iab INterview Interview
+iab INvective Invective
 iab INvestigate Investigate
 iab INvisible Invisible
 iab INvockations Invocations
@@ -8698,6 +8699,7 @@ iab chopiness choppiness
 iab chorme chrome
 iab chormicles chronicles
 iab chornbicles chronicles
+iab chornme chrome
 iab chornnicles chronicles
 iab chorse chore
 iab chosne chosen
@@ -8715,6 +8717,7 @@ iab chroem chrome
 iab chrojium chromium
 iab chromicles chronicles
 iab chromicsles chronicles
+iab chromum chromium
 iab chronicleer chronicler
 iab chronmium chromium
 iab chruch church
@@ -11393,6 +11396,7 @@ iab deeping deeply
 iab deeplyy deeply
 iab deeprer deeper
 iab deetail detail
+iab deetect detect
 iab deetermines determines
 iab deevelppoed developed
 iab defailts defaults
@@ -21120,6 +21124,7 @@ iab lgiths lights
 iab lgo log
 iab lgo0 log
 iab lgoic logic
+iab lgoin login
 iab lgos logs
 iab lhave have
 iab lhealthy healthy
@@ -29498,6 +29503,7 @@ iab rythm rhythm
 iab rythmyic rhythmic
 iab rythymic rhythmic
 iab rytphtimuic rhythmic
+iab ryunning running
 iab s00cpan s00pcan
 iab s3eries series
 iab s3et set
