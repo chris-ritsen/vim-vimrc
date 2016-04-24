@@ -8717,6 +8717,7 @@ iab chroem chrome
 iab chrojium chromium
 iab chromicles chronicles
 iab chromicsles chronicles
+iab chromum chromium
 iab chronicleer chronicler
 iab chronmium chromium
 iab chruch church
@@ -29697,6 +29698,7 @@ iab scetch sketch
 iab scetion section
 iab scfript script
 iab scfrreen screen
+iab schceme scheme
 iab scheduel schedule
 iab scheduyle schedule
 iab schematicss schematics
@@ -37636,4 +37638,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab chromum chromium

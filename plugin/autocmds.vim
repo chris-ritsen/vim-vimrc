@@ -90,6 +90,12 @@ autocmd! FileType zsh setlocal softtabstop=2 tabstop=2 shiftwidth=2 expandtab fo
 
 autocmd! BufNewFile,BufRead *.ldg,*.ledger setf ledger
 
+" scheme {{{
+
+autocmd! FileType scheme setlocal commentstring=;\ %s
+
+" }}}
+
 " Dot Net {{{
 
 autocmd! BufRead,BufNewFile *.aspx,*.asmx,*.ascx set filetype=aspnet
