@@ -270,7 +270,7 @@ autocmd! BufRead,BufNewFile ~/.irssi/config,~/.irssi/default.theme setfiletype c
 " SSH {{{3
 
 autocmd! FileType .ssh/config set sshconfig
-autocmd! FileType sshconfig set nowrap foldmethod=indent
+autocmd! FileType sshconfig set nowrap foldmethod=indent commentstring=#\ %s
 
 " }}}3
 
