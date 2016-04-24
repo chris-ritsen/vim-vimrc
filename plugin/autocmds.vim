@@ -93,6 +93,7 @@ autocmd! BufNewFile,BufRead *.ldg,*.ledger setf ledger
 " scheme {{{
 
 autocmd! FileType scheme setlocal commentstring=;\ %s
+autocmd! BufNewFile,BufRead *.gule setf scheme
 
 " }}}
 
