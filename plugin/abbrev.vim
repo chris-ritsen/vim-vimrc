@@ -634,6 +634,7 @@ iab Developeers Developers
 iab Developmenet Development
 iab Developmetn Development
 iab Developpment Development
+iab Develpoment Development
 iab Develpoper Developer
 iab Devember December
 iab Deveopelopers Developers
@@ -857,6 +858,7 @@ iab Enviorment Environment
 iab Enviormente Environment
 iab Envirioment Environment
 iab Enviromentent Environment
+iab Environmetn Environment
 iab Ephermelral Ephemeral
 iab Episoddic Episodic
 iab Equanitmity Equanimity
@@ -1420,6 +1422,7 @@ iab Improtnat Important
 iab Improvemnets Improvements
 iab Improvemtn Improvement
 iab Improvign Improving
+iab Improvmenets Improvements
 iab Improvment Improvement
 iab Improvments Improvements
 iab Imrivoving Improving
@@ -6669,6 +6672,7 @@ iab atucorrected autocorrected
 iab atuo auto
 iab atuobiohgraphical autobiographical
 iab atuomatically automatically
+iab atup auto
 iab aty at
 iab audaciious audacious
 iab audfio audio
@@ -6703,6 +6707,7 @@ iab authfor author
 iab authoization authorization
 iab authoriation authorization
 iab authorizatkon authorization
+iab authort author
 iab autio audio
 iab autioamted automated
 iab autiomateds automated
@@ -22706,6 +22711,7 @@ iab monotoiniouys monotonous
 iab monring morning
 iab monrning morning
 iab monrthly monthly
+iab monstrosu monstrous
 iab montgh month
 iab montghl month
 iab monther mother
@@ -27869,6 +27875,7 @@ iab receivef received
 iab receivevd received
 iab receivved received
 iab recelrnlty recently
+iab receltnly recently
 iab receltnoy recently
 iab receltyly recently
 iab recencnelty recently
@@ -30400,6 +30407,7 @@ iab sharting sharing
 iab sharwe share
 iab shatered shattered
 iab shavign shaving
+iab shceme scheme
 iab shchool school
 iab shcolarship scholarship
 iab shcools schools
@@ -31346,6 +31354,7 @@ iab specificv specific
 iab specifiic specific
 iab specifiically specifically
 iab specifiicilay specifically
+iab specifiicvally specifically
 iab specifiied specified
 iab specifiy specify
 iab specifiying specifying
