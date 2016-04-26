@@ -37653,3 +37653,5 @@ iab ztaships starships
 iab arugmetns arguments
 iab shold should
 iab uneivrasal universal
+iab synonnym synonym
+iab bequtyi beauty
