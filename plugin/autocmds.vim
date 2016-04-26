@@ -94,6 +94,7 @@ autocmd! BufNewFile,BufRead *.ldg,*.ledger setf ledger
 
 autocmd! FileType scheme setlocal commentstring=;\ %s
 autocmd! BufNewFile,BufRead *.guile setf scheme
+autocmd! BufNewFile,BufRead *.csirc setf scheme
 
 " }}}
 
