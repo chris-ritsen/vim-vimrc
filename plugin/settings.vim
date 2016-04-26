@@ -22,7 +22,9 @@ endif
 
 " General Settings {{{2
 
+" This is the universal default; not sure why the slash-splat is used 
 " set commentstring=#\ %s
+
 " set completeopt=menuone,menu,longest,preview
 
 " FIXME: This is messing with control of highlight elshwewere, and these 
