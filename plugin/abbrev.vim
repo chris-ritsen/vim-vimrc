@@ -16660,6 +16660,8 @@ iab ftricky tricky
 iab ftuure future
 iab ftuurehter further
 iab fucdtuniion function
+iab fuceker fucker
+iab fucekr fucker
 iab fucikmkgin fucking
 iab fuckgin fucking
 iab fuckging fucking
@@ -18907,6 +18909,7 @@ iab incalculaable incalculable
 iab incapblre incapable
 iab incapoble incapable
 iab inccorrect incorrect
+iab inccorrectly incorrectly
 iab inccsnenwse incense
 iab incdiciate indicate
 iab incdreae increase
@@ -19166,6 +19169,7 @@ iab indesx index
 iab indeteprminable indeterminable
 iab indeterminatable indeterminable
 iab indetniermate indeterminate
+iab indexz index
 iab indiating indicating
 iab indicateors indicators
 iab indicatorsy indicators
@@ -20584,6 +20588,7 @@ iab k3eyboawd keyboard
 iab k3yboard keyboard
 iab k3yeboard keyboard
 iab kar4mic karmic
+iab karama karma
 iab kasina kasiṇa
 iab kdiney kidney
 iab kealousy jealousy
@@ -23427,6 +23432,7 @@ iab niceyl nicely
 iab nicley nicely
 iab nicrley nicely
 iab nicsnse incense
+iab nicw nice
 iab niether neither
 iab nighits nights
 iab nightl night
@@ -30659,6 +30665,7 @@ iab shrot short
 iab shroter shorter
 iab shrts shirts
 iab shthis this
+iab shti shit
 iab shuch such
 iab shuft shift
 iab shuift shift
@@ -31817,6 +31824,7 @@ iab sthat that
 iab sthe the
 iab sthem them
 iab sthere there
+iab sthit shit
 iab stiacrase staircase
 iab stiaercaew staircase
 iab stiarcae staircase
@@ -37778,11 +37786,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab inccorrectly incorrectly
-iab indexz index
-iab fuceker fucker
-iab karama karma
-iab fucekr fucker
-iab shti shit
-iab sthit shit
-iab nicw nice
