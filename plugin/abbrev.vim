@@ -259,6 +259,7 @@ iab COmmunication Communication
 iab COmpromises Compromises
 iab COmread Comrade
 iab COndiser Consider
+iab COnfirmed Confirmed
 iab COntact Contact
 iab COntorsl Controls
 iab COudl Could
@@ -1066,6 +1067,7 @@ iab Follwoing Following
 iab Foloow Follow
 iab Folow Follow
 iab Foolowing Following
+iab Fopr For
 iab Forewward Foreword
 iab Formerely Formerly
 iab Foudn Found
@@ -1365,6 +1367,7 @@ iab Icvncations Invocations
 iab Ideallly Ideally
 iab Idelaly Ideally
 iab Idenfityf Identity
+iab Idenitifiers Identifiers
 iab Identefy Identify
 iab Identeify Identify
 iab Identfy Identify
@@ -1400,6 +1403,8 @@ iab Immensly Immensely
 iab Immiedatelyl Immediately
 iab Imoprove Improve
 iab Impleemnntations Implementations
+iab Implemetneations Implementations
+iab Implenmentation Implementation
 iab Implictly Implicitly
 iab Implmeented Implemented
 iab Implmeneted Implemented
@@ -2343,6 +2348,7 @@ iab Previoulsy Previously
 iab Prevoius Previous
 iab Prevoiusly Previously
 iab Prevopus Previous
+iab Prgioramming Programming
 iab Pricicy Privacy
 iab Pricvacy Privacy
 iab Prinrtingt Printing
@@ -3868,6 +3874,7 @@ iab Whhy Why
 iab Whiel While
 iab Whio Who
 iab Whishful Wishful
+iab Whit3espace Whitespace
 iab Whitment Whitman
 iab Whoefver Whoever
 iab Wholeheartleyl Wholeheartedly
@@ -4238,6 +4245,7 @@ iab acceidsisble accessible
 iab accelearated accelerated
 iab accellerated accelerated
 iab accelrate accelerate
+iab accepetable acceptable
 iab accepetagble acceptable
 iab accepetd accepted
 iab accepeted accepted
@@ -5814,6 +5822,7 @@ iab apeparnce appearance
 iab apepars appears
 iab apge page
 iab aphabeticalluy alphabetically
+iab aphlabetic alphabetic
 iab apirs pairs
 iab aplicaiton application
 iab aplicaitons applications
@@ -6379,6 +6388,7 @@ iab askeeed asked
 iab askign asking
 iab askingf asking
 iab askjs asks
+iab askks asks
 iab aslalaried salaried
 iab asleeep asleep
 iab asleepp asleep
@@ -7729,6 +7739,7 @@ iab booko book
 iab booksheleves bookshelves
 iab bookw books
 iab booleanins booleans
+iab boollean boolean
 iab boostrap bootstrap
 iab bootabl bootable
 iab bootstrrap bootstrap
@@ -8619,6 +8630,7 @@ iab chatavteristics characteristics
 iab chateaavter character
 iab chater charger
 iab chatravteristcs characteristics
+iab chattacters characters
 iab chauasing causing
 iab chcange change
 iab chceking checking
@@ -8795,6 +8807,7 @@ iab circumestances circumstances
 iab circumsatances circumstances
 iab circumsatenaces circumstances
 iab circumsatnaces circumstances
+iab circumstaannnces circumstances
 iab circusmtances circumstances
 iab circut circuit
 iab ciricle circle
@@ -10231,6 +10244,7 @@ iab constnancty constancy
 iab constnantly constantly
 iab constnat constant
 iab constnatly constantly
+iab constnats constants
 iab constoantly constantly
 iab constraines constrains
 iab constraintg constraint
@@ -10565,6 +10579,7 @@ iab converup coverup
 iab convery convey
 iab convesation conversation
 iab convesratoion conversation
+iab convetinion convention
 iab convetionaal conventional
 iab convetnion convention
 iab convewtions conventions
@@ -11706,6 +11721,7 @@ iab descrliptive descriptive
 iab descrobe describe
 iab descroition description
 iab descrpption description
+iab descrption description
 iab descrpton description
 iab descrribed described
 iab descrtibe describe
@@ -12681,6 +12697,7 @@ iab distiant distant
 iab disticnt distinct
 iab disticntion distinction
 iab distiction distinction
+iab distignuesd distinguished
 iab distigunsiosng distinguishing
 iab distiincitive distinctive
 iab distiingiuses distinguishes
@@ -13907,6 +13924,7 @@ iab elsewher elsewhere
 iab elsewhre elsewhere
 iab elsewhwere elsewhere
 iab elsewwhere elsewhere
+iab elshwewere elsewhere
 iab elss else
 iab elswehere elsewhere
 iab elswewhre elsewhere
@@ -14388,6 +14406,7 @@ iab envoirnoment environment
 iab envoiroment environment
 iab envoironment environment
 iab envorinement environment
+iab envorinment environment
 iab envorioemtn environment
 iab envornment environment
 iab envoroments environments
@@ -14810,6 +14829,7 @@ iab euyar year
 iab evaaluated evaluated
 iab evaltuated evaluated
 iab evaltutation evaluation
+iab evaluatate evaluate
 iab evaluationg evaluating
 iab evalutaiotn evaluation
 iab evalyate evaluate
@@ -15212,6 +15232,7 @@ iab excpetional exceptional
 iab excpetionally exceptionally
 iab excplicit explicit
 iab excplkitnain explanation
+iab excplolcitly explicitly
 iab excplosed exposed
 iab exctapolating extrapolating
 iab exctatic ecstatic
@@ -15239,6 +15260,7 @@ iab execrice exercise
 iab exectue execute
 iab exectured executed
 iab exectution execution
+iab executeion execution
 iab executibe executive
 iab executibes executives
 iab executruives executives
@@ -15690,6 +15712,7 @@ iab extaordinary extraordinary
 iab extar extra
 iab extecfice exercise
 iab extemrmeities extremities
+iab exten3erally externally
 iab extenal external
 iab extenbsion extension
 iab extendions extensions
@@ -17751,6 +17774,7 @@ iab hindedr hinder
 iab hinderancde hindrance
 iab hinderance hindrance
 iab hinderances hindrances
+iab hindereance hindrance
 iab hinderence hindrance
 iab hinderes hinders
 iab hindtrances hindrances
@@ -18242,9 +18266,12 @@ iab idel idle
 iab idela ideal
 iab idelalistic idealistic
 iab idenefitier identifier
+iab idenetifier identifier
 iab idenfiefie identified
+iab idenfieir identifier
 iab idenfitifes identifies
 iab idenftidfy identify
+iab idenntifier identifier
 iab identeical identical
 iab identeically identically
 iab identeifed identified
@@ -18583,6 +18610,7 @@ iab implannts implants
 iab implciations implications
 iab implcict implicit
 iab impleemntnation implementation
+iab impleentations implementations
 iab implemenataitons implementations
 iab implemenation implementation
 iab implemenattion implementation
@@ -18608,10 +18636,12 @@ iab implemmented implemented
 iab implemnentation implementation
 iab implemnentations implementations
 iab implemnented implemented
+iab implemnetation implementation
 iab implemnetations implementations
 iab implemneted implemented
 iab implemneting implementing
 iab implemnetn implement
+iab implemnetnation implementation
 iab implemntation implementation
 iab implemtation implementation
 iab implemtenetgd implemented
@@ -18619,8 +18649,12 @@ iab implemtnation implementation
 iab implenenation implementation
 iab implenent implement
 iab implenentations implementations
+iab implenetbnations implementations
 iab implenetnastion implementation
+iab implenetnation implementation
 iab implenmentations implementations
+iab implenmetantion implementation
+iab implenmntation implementation
 iab implermenatn impermanent
 iab implicityl implicitly
 iab implict implicit
@@ -19135,6 +19169,7 @@ iab indetniermate indeterminate
 iab indiating indicating
 iab indicateors indicators
 iab indicatorsy indicators
+iab indiciates indicates
 iab indicies indices
 iab indicitabie indicative
 iab indicitave indicative
@@ -19145,6 +19180,7 @@ iab indicivudal individual
 iab indicsator indicator
 iab indicvidual individual
 iab indidvudual individual
+iab indiefitier identifier
 iab indieivislibe indivisible
 iab indifvudual individual
 iab indirecrtly indirectly
@@ -19158,6 +19194,7 @@ iab indistruial industrial
 iab indistruy industry
 iab indisturtyt industry
 iab indivators indicators
+iab indivbisdible indivisible
 iab indivdiaul individual
 iab indivdiual individual
 iab individal individual
@@ -19209,6 +19246,7 @@ iab inehrent inherent
 iab inehrently inherently
 iab inehritance inheritance
 iab inehrited inherited
+iab ineitial initial
 iab ineiveitalbe inevitable
 iab ineiviatalbe inevitable
 iab inejcting injecting
@@ -21084,6 +21122,7 @@ iab legth length
 iab lehatlh health
 iab leike like
 iab leittle little
+iab leixical lexical
 iab lendgth length
 iab lenegth length
 iab leneses lenses
@@ -22228,6 +22267,7 @@ iab metioned mentioned
 iab metioning mentioning
 iab metjhod method
 iab metnal mental
+iab metneionted mentioned
 iab metnioend mentioned
 iab metnioned mentioned
 iab metnioning mentioning
@@ -23340,6 +23380,7 @@ iab newarly nearly
 iab newert newer
 iab newetowrk network
 iab newewer newer
+iab newlinews newlines
 iab nework network
 iab newsfoed newsfeed
 iab newsleteter newsletter
@@ -23431,6 +23472,7 @@ iab nmbier number
 iab nmemditation meditation
 iab nmiming miming
 iab nmind mind
+iab nmmber number
 iab nmmonth month
 iab nmodule module
 iab nmore more
@@ -23893,6 +23935,7 @@ iab occiital occipital
 iab occiurs occurs
 iab occoasions occasions
 iab occours occurs
+iab occru occur
 iab occuies occupies
 iab occupatino occupation
 iab occurance occurrence
@@ -25317,6 +25360,7 @@ iab perementaltly permanently
 iab peremneance permanence
 iab perepare prepare
 iab perepetuates perpetuates
+iab perevious previous
 iab perf per
 iab perfavisve pervasive
 iab perfcdeet perfect
@@ -26477,6 +26521,7 @@ iab preciosion precision
 iab preciscely precisely
 iab precisciely precisely
 iab precisiely precisely
+iab precisley precisely
 iab precison precision
 iab precluses precludes
 iab precoessing precessing
@@ -26492,6 +26537,7 @@ iab predictalbye predictable
 iab prediiclifitons predilections
 iab predilitction predilection
 iab predispoistion predisposition
+iab preducates predicates
 iab preeceived perceived
 iab preemets preempts
 iab preemtpive preemptive
@@ -26950,6 +26996,7 @@ iab produycues produces
 iab produyviding providing
 iab prodviding providing
 iab proebolem problem
+iab proecedures procedures
 iab proecess process
 iab proecesses precesses
 iab proecss process
@@ -27731,6 +27778,7 @@ iab re2uire require
 iab reaad read
 iab reaal real
 iab reaason reason
+iab reability readability
 iab reacdhed reached
 iab reaceivec received
 iab reacently recently
@@ -27742,6 +27790,7 @@ iab reacrtive reactive
 iab reacticee reactive
 iab reacvt react
 iab readahched researched
+iab readaibility readability
 iab readalbilty readability
 iab readble readable
 iab readch reach
@@ -28038,6 +28087,7 @@ iab recruiging recruiting
 iab recsistance resistance
 iab rectalcngle rectangle
 iab rectangel rectangle
+iab recturns returns
 iab recuction reduction
 iab recuirtment recruitment
 iab recularly regularly
@@ -28584,6 +28634,7 @@ iab reporets reports
 iab reporitng reporting
 iab reportign reporting
 iab reportsa reports
+iab reporty report
 iab reporudce reproduce
 iab repositiories repositories
 iab repositiory repository
@@ -28607,6 +28658,7 @@ iab represeentations representations
 iab represend represent
 iab represendign representing
 iab represending representing
+iab represeneted represented
 iab represenging representing
 iab representeation representation
 iab representes represents
@@ -29089,6 +29141,7 @@ iab returnb return
 iab returnde returned
 iab returneer returner
 iab returnign returning
+iab returnred returned
 iab returnsed returned
 iab returnxs returns
 iab retursns returns
@@ -29148,6 +29201,7 @@ iab reutnrsa returns
 iab reutrbn return
 iab reutrn return
 iab reutrne return
+iab reutrned returned
 iab reutrning returning
 iab reutrns returns
 iab reutrrnt return
@@ -29237,6 +29291,7 @@ iab rewwriting rewriting
 iab rexample example
 iab rexotic exotic
 iab rexsuslting resulting
+iab rextrriction restriction
 iab reye eye
 iab rezise resize
 iab rezized resized
@@ -30435,6 +30490,7 @@ iab sewrver server
 iab sewrviece service
 iab sewssion session
 iab sewtting setting
+iab sewveral several
 iab sewverlal several
 iab sexrice exercise
 iab sexusal sexual
@@ -31588,6 +31644,7 @@ iab ssymbol symbol
 iab ssytemd systemd
 iab ssytems systems
 iab st4riking striking
+iab staart start
 iab stabilizqiton stabilization
 iab stabiltiy stability
 iab stache scratch
@@ -34117,6 +34174,7 @@ iab toehr other
 iab toehrs others
 iab toeken token
 iab toekn token
+iab toekns tokens
 iab tof of
 iab tofrth forth
 iab togehtehr together
@@ -34842,6 +34900,7 @@ iab tyos to
 iab tyou you
 iab typ3ed typed
 iab typcial typical
+iab typcially typically
 iab typeed typed
 iab typerwiter typewriter
 iab typerwriter typewriter
@@ -35589,6 +35648,7 @@ iab unsikillful unskillful
 iab unsisable unusable
 iab unsivrersal universal
 iab unskillfull unskillful
+iab unspecifiied unspecified
 iab unstpopablwe unstoppable
 iab unsuabble unusable
 iab unsuable unusable
@@ -35769,6 +35829,7 @@ iab usleess useless
 iab uslesess useless
 iab usless useless
 iab uslually usually
+iab usnepsiciefied unspecified
 iab usnsafe unsafe
 iab usntalbe unstable
 iab usoing using
@@ -37717,64 +37778,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab Implemetneations Implementations
-iab reporty report
-iab metneionted mentioned
-iab excplolcitly explicitly
-iab returnred returned
-iab implenmetantion implementation
-iab evaluatate evaluate
-iab unspecifiied unspecified
-iab implenetnation implementation
-iab implenmntation implementation
-iab Implenmentation Implementation
-iab rextrriction restriction
-iab executeion execution
-iab implemnetnation implementation
-iab circumstaannnces circumstances
-iab implemnetation implementation
-iab exten3erally externally
-iab represeneted represented
-iab envorinment environment
-iab ineitial initial
-iab precisley precisely
-iab preducates predicates
-iab boollean boolean
-iab proecedures procedures
-iab usnepsiciefied unspecified
-iab reutrned returned
-iab Fopr For
-iab convetinion convention
-iab recturns returns
-iab distignuesd distinguished
-iab constnats constants
-iab idenntifier identifier
-iab implenetbnations implementations
-iab impleentations implementations
-iab accepetable acceptable
-iab chattacters characters
-iab aphlabetic alphabetic
-iab Idenitifiers Identifiers
-iab idenetifier identifier
-iab newlinews newlines
-iab indivbisdible indivisible
-iab idenfieir identifier
-iab staart start
-iab indiciates indicates
-iab toekns tokens
-iab occru occur
-iab nmmber number
-iab indiefitier identifier
-iab leixical lexical
-iab readaibility readability
-iab reability readability
-iab Whit3espace Whitespace
-iab typcially typically
-iab elshwewere elsewhere
-iab Prgioramming Programming
-iab sewveral several
-iab askks asks
-iab descrption description
-iab perevious previous
-iab hindereance hindrance
-iab COnfirmed Confirmed
