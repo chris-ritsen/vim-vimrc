@@ -15,6 +15,7 @@ let g:html_indent_autotags = ""
 let g:html_indent_inctags = "html,body,head,tbody"
 let g:html_indent_script1 = "zero"
 let g:html_indent_style1 = "zero"
+let g:loaded_matchparen=1
 let g:mapleader = "\\"
 let g:neocomplcache_enable_at_startup = 0
 let g:netrw_http_cmd = "curl -sL -o"

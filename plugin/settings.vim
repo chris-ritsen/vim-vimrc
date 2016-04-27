@@ -27,7 +27,7 @@ endif
 
 " set completeopt=menuone,menu,longest,preview
 
-" FIXME: This is messing with control of highlight elshwewere, and these 
+" FIXME: This is messing with control of highlight elsewhere, and these 
 " overrides are invisible to the :highlight list
 
 " set hl+=D:DiffDelete,T:DiffText,>:SignColumn,-:Conceal
