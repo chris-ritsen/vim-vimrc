@@ -2972,6 +2972,7 @@ iab Seawrch Search
 iab Sebastion Sebastian
 iab Seciobd Second
 iab Secirytity Security
+iab Secruity Security
 iab Sectopino Sectoring
 iab Secuitrty Security
 iab Securuty Security
@@ -6273,6 +6274,7 @@ iab aroiund around
 iab aroudn around
 iab arouned around
 iab aroung around
+iab aroungf around
 iab arouydn around
 iab arparentment apartment
 iab arparmtnet apartment
@@ -11636,6 +11638,7 @@ iab depoth depth
 iab depper deeper
 iab deprecrtated deprecated
 iab deprectteed deprecated
+iab depreessing depressing
 iab depreession depression
 iab depsite despite
 iab depsoitg deposit
@@ -15604,6 +15607,7 @@ iab expewcrience experience
 iab expewct expect
 iab expewireince experience
 iab expewiriced expired
+iab expewirience experience
 iab expewlrieince experience
 iab expewnsive expensive
 iab expewrieicing experiencing
@@ -17902,6 +17906,7 @@ iab hopelleslsy hopelessly
 iab hopess hopes
 iab hopeully hopefully
 iab hopless hopeless
+iab hoppe hope
 iab hoppocamoous hippocampus
 iab hopythoseised hypothesised
 iab horible horrible
@@ -25746,6 +25751,7 @@ iab piosition position
 iab piositon position
 iab piosoituioned positioned
 iab piososbile possible
+iab piossible possible
 iab piostion position
 iab piostions positions
 iab piostionso positions
@@ -27151,6 +27157,7 @@ iab promtp prompt
 iab promtpt prompt
 iab pronoucned pronounced
 iab pronunce pronounce
+iab proocedure procedure
 iab proofresadin proofreading
 iab proomotion promotion
 iab proomte promote
