@@ -14737,6 +14737,7 @@ iab essentail essential
 iab essentill essential
 iab essentiual essential
 iab essetnially essentially
+iab essetntial essential
 iab essewntially essentially
 iab essiental essential
 iab essientauilly essentially
@@ -21158,6 +21159,7 @@ iab lese else
 iab leter letter
 iab leters letters
 iab letetre letter
+iab letm let
 iab letteer letter
 iab lettesr letters
 iab lettters letters
@@ -28028,6 +28030,7 @@ iab reclently recently
 iab recliing reclining
 iab reclinging reclining
 iab recnelty recently
+iab recnenlty recently
 iab recnent recent
 iab recnernt recent
 iab recnet recent
