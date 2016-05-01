@@ -37804,3 +37804,15 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
+iab cpomanyt company
+iab yestewrsady yesterday
+iab ineterivew interview
+iab deiccion decision
+iab FRiday Friday
+iab althoeugh although
+iab OTehr Other
+iab inteview interview
+iab wokting working
+iab Dicontinuitiy Discontinuity
+iab Discontionoutitious Discontinuous
+iab Discontinuitous Discontinuous
