@@ -658,6 +658,7 @@ iab Dhyana Dhyāna
 iab Dialy Daily
 iab Diblbert Dilbert
 iab Dicifficult Difficult
+iab Dicontinuitiy Discontinuity
 iab Differnet Different
 iab Digiital Digital
 iab Digittal Digital
@@ -671,6 +672,8 @@ iab Diruring During
 iab Disalbed Disabled
 iab Discipines Disciplines
 iab Disconcerning Disconcerting
+iab Discontinuitous Discontinuous
+iab Discontionoutitious Discontinuous
 iab Discources Discourses
 iab Discoverd Discovered
 iab Discugsting Disgusting
@@ -1019,6 +1022,7 @@ iab FRAming Framing
 iab FRaming Framing
 iab FRankenmuth Frankenmuth
 iab FReewriting Freewriting
+iab FRiday Friday
 iab FRom From
 iab FRutehr Further
 iab FUNTION FUNCTION
@@ -2024,6 +2028,7 @@ iab ORigianl Original
 iab OSometimes Sometimes
 iab OTDO TODO
 iab OTOD TODO
+iab OTehr Other
 iab OTher Other
 iab OThers Others
 iab OTherwise Otherwise
@@ -5283,6 +5288,7 @@ iab alterted alerted
 iab altetrnative alternative
 iab altheltes athletes
 iab althoegetoher altogether
+iab althoeugh although
 iab althog3ethehtrr altogether
 iab althogether altogether
 iab althoguh although
@@ -10908,6 +10914,7 @@ iab cpmplicated complicated
 iab cpmptoeuir computer
 iab cpoies copies
 iab cpolmeted completed
+iab cpomanyt company
 iab cpomleted completed
 iab cpomparison comparison
 iab cpomplaining complaining
@@ -11502,6 +11509,7 @@ iab degreades degrades
 iab degreee degree
 iab degugger debugger
 iab deiath death
+iab deiccion decision
 iab deicede decided
 iab deicided decided
 iab deicied deiced
@@ -19271,6 +19279,7 @@ iab inelligent intelligent
 iab inemitable inimitable
 iab inernet internet
 iab inerrupt interrupt
+iab ineterivew interview
 iab inetersting interesting
 iab ineteruppeted interrupted
 iab ineveitable inevitable
@@ -19973,6 +19982,7 @@ iab intetgration integration
 iab intetion intention
 iab inteutuively intuitively
 iab inteval interval
+iab inteview interview
 iab intewresting interesting
 iab intewrsting interesting
 iab intferior inferior
@@ -37113,6 +37123,7 @@ iab wokrred worked
 iab wokrs works
 iab wokrspace workspace
 iab wokt work
+iab wokting working
 iab wolrd world
 iab wolrld world
 iab wonamn woman
@@ -37606,6 +37617,7 @@ iab yestersdya yesterday
 iab yesterytdasy yesterday
 iab yestewrday yesterday
 iab yestewrdsay yesterday
+iab yestewrsady yesterday
 iab yestrday yesterday
 iab yestreday yesterday
 iab yestwdrday yesterday
@@ -37804,15 +37816,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab cpomanyt company
-iab yestewrsady yesterday
-iab ineterivew interview
-iab deiccion decision
-iab FRiday Friday
-iab althoeugh although
-iab OTehr Other
-iab inteview interview
-iab wokting working
-iab Dicontinuitiy Discontinuity
-iab Discontionoutitious Discontinuous
-iab Discontinuitous Discontinuous
