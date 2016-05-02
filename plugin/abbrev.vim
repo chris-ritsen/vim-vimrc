@@ -37816,3 +37816,18 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
+iab ecxcuse excuse
+iab desperite desperate
+iab Orifginally Originally
+iab devleopiing developing
+iab probalbe probable
+iab doiung doing
+iab nodek node
+iab weka weak
+iab hurtying hurting
+iab goood good
+iab requestsa requests
+iab anywayehere anywhere
+iab pleynty plenty
+iab junionr junior
+iab opositions positions
