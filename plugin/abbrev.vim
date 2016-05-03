@@ -1537,6 +1537,7 @@ iab Interluede Interlude
 iab Interseting Interesting
 iab Interuldes Interludes
 iab Intetnet Internet
+iab Inteview Interview
 iab Intiialise Initialise
 iab Intimiate Intimate
 iab Intrefeaces Interfaces
@@ -2052,6 +2053,9 @@ iab Obivoyusly Obviously
 iab Objxsetvations Observations
 iab Oboviusly Obviously
 iab Obse4rved Observed
+iab Obseiousouq Obsequious
+iab Obseqioues Obsequious
+iab Obseqious Obsequious
 iab Obseravatisons Observations
 iab Obserfvatiosn Observations
 iab Observationst Observations
@@ -2099,6 +2103,7 @@ iab Orderddd Ordered
 iab Orderedd Ordered
 iab Ored3erd Ordered
 iab Oridered Ordered
+iab Orifginally Originally
 iab Oriiginal Original
 iab Orthodoc Orthodox
 iab Otherwide Otherwise
@@ -3951,6 +3956,7 @@ iab Wwrirting Writing
 iab XCHris Chris
 iab XCOmputer Computer
 iab XChecking Checking
+iab XCracking Cracking
 iab Xhris Chris
 iab Xptiaions Captains
 iab Xuox Xbox
@@ -5264,6 +5270,7 @@ iab alrightr alright
 iab alritght alright
 iab alrready already
 iab alrrtered altered
+iab alrthough although
 iab alruigfhrt alright
 iab alsat last
 iab alseep asleep
@@ -5716,6 +5723,7 @@ iab anytuihing anything
 iab anyv any
 iab anywa anyway
 iab anywasys anyways
+iab anywayehere anywhere
 iab anywehre anywhere
 iab anywhay anyway
 iab anywher anywhere
@@ -9414,6 +9422,7 @@ iab comoing coming
 iab comoment comment
 iab comomn common
 iab comon common
+iab comonapines companies
 iab comondeers commandeers
 iab comopnetns components
 iab comoposers composers
@@ -11211,6 +11220,7 @@ iab damageed damaged
 iab damagie damage
 iab damamged damaged
 iab damamging damaging
+iab daman damn
 iab damange damage
 iab damanged damaged
 iab damoen daemon
@@ -11801,6 +11811,7 @@ iab desparaltey desperately
 iab desparate desperate
 iab desparately desperately
 iab despcrptioins descriptions
+iab desperite desperate
 iab despiar despair
 iab despiite despite
 iab despoite despite
@@ -11997,6 +12008,7 @@ iab devleoper developer
 iab devleoperes developers
 iab devleopers developers
 iab devleopertm developer
+iab devleopiing developing
 iab devleoping developing
 iab devleopipmental developmental
 iab devleopme3tn development
@@ -12944,6 +12956,7 @@ iab doingg doing
 iab doinvg doing
 iab doirectoves directives
 iab doitng doing
+iab doiung doing
 iab dojwn down
 iab dokcs docks
 iab dolallars dollars
@@ -13489,6 +13502,7 @@ iab ecxat exact
 iab ecxcellenet excellent
 iab ecxcept except
 iab ecxclucivfe exclusive
+iab ecxcuse excuse
 iab ecxecuted executed
 iab ecxept except
 iab ecxist exist
@@ -17130,6 +17144,7 @@ iab gonig going
 iab gonigt going
 iab goning going
 iab gooes goes
+iab goood good
 iab gooooing going
 iab gooooooooing going
 iab gorceryies groceries
@@ -18161,6 +18176,7 @@ iab hunred hundred
 iab hunrededs hundreds
 iab hunrgry hungry
 iab hurended hundred
+iab hurtying hurting
 iab hurtzs hurts
 iab huselss useless
 iab hustband husband
@@ -20575,6 +20591,7 @@ iab jumnk junk
 iab jumpbed jumbled
 iab jumpingf jumping
 iab junblmeed jumbled
+iab junionr junior
 iab junt just
 iab jupm jump
 iab jupming jumping
@@ -23533,6 +23550,7 @@ iab nobodiy nobody
 iab nociting noticing
 iab node3 node
 iab nodeas ideas
+iab nodek node
 iab nodews nodes
 iab nodjes nodejs
 iab noeed need
@@ -23749,6 +23767,7 @@ iab oasbut about
 iab obcviously obviously
 iab obdervatyions observations
 iab obderve observe
+iab obdseqious obsequious
 iab obdy body
 iab obectionalbe objectionable
 iab obects objects
@@ -23833,8 +23852,15 @@ iab obscioure obscure
 iab obsciured obscured
 iab obscrtructions obstructions
 iab obscuraatiopns obscurations
+iab obsdeqious obsequious
+iab obseioqus obsequious
+iab obseiqious obsequious
+iab obseiqous obsequious
 iab obsensibly ostensibly
 iab obsentsibley ostensibly
+iab obseqious obsequious
+iab obseqiouus obsequious
+iab obsequoius obsequious
 iab obserbve observe
 iab obserf34eved observed
 iab obserfsvawtsions observations
@@ -24148,6 +24174,7 @@ iab ofver over
 iab ogbsetsvwatsion observation
 iab ogf of
 iab oging going
+iab ogiong going
 iab ogod good
 iab ogoign going
 iab ogranic organic
@@ -24188,6 +24215,7 @@ iab oiriginated originated
 iab oirignal original
 iab oiroginal original
 iab oisnteawd instead
+iab oistuion position
 iab oit it
 iab oiuld would
 iab oiur our
@@ -24395,6 +24423,7 @@ iab opopsites opposites
 iab opopulatioe populated
 iab opopup popup
 iab oportuntity opportunity
+iab opositions positions
 iab opost post
 iab opotential potential
 iab opotion option
@@ -25902,6 +25931,7 @@ iab plesase please
 iab pletny plenty
 iab plewaaae please
 iab plewase please
+iab pleynty plenty
 iab plgague plague
 iab plghysicxal physical
 iab plguin plugin
@@ -26893,6 +26923,7 @@ iab probablyu probably
 iab probabuyy probably
 iab probabyl probably
 iab probagly probably
+iab probalbe probable
 iab probalbly probably
 iab probalbuy probably
 iab probalby probably
@@ -27630,6 +27661,7 @@ iab quetsion question
 iab quetty query
 iab quewiotn question
 iab quewries queries
+iab quewtsioning questioning
 iab quextion question
 iab queztion question
 iab quiackly quickly
@@ -28406,6 +28438,7 @@ iab relelaszxyed released
 iab relelavant relevant
 iab relelvant relevant
 iab relelveant relevant
+iab relelvenat relevant
 iab relemavant relevant
 iab releqased released
 iab relevantion revelation
@@ -28725,6 +28758,7 @@ iab repsected respected
 iab repsectiable respectable
 iab repsectively respectively
 iab repsectiverly respectively
+iab repseectable respectable
 iab repsent present
 iab repsoisiteion reposition
 iab repsoisitioned repositioned
@@ -28775,6 +28809,7 @@ iab requesdt request
 iab requeset request
 iab requesiite requisite
 iab requesite requisite
+iab requestsa requests
 iab requets requests
 iab requetsz request
 iab requewt request
@@ -31210,6 +31245,7 @@ iab softeaware software
 iab softewaare software
 iab softewae software
 iab softeware software
+iab softgware software
 iab softqare software
 iab softts sorts
 iab softw soft
@@ -31745,6 +31781,7 @@ iab startred started
 iab startt start
 iab startted started
 iab startupo startup
+iab startutps startups
 iab starty start
 iab startying starting
 iab starup startup
@@ -34385,6 +34422,7 @@ iab tpyos typos
 iab tpype type
 iab tpyping typing
 iab tqarget target
+iab tqasks tasks
 iab traaaaaaaaacks tracks
 iab trabsfer transfer
 iab tracded traced
@@ -36617,6 +36655,7 @@ iab weith with
 iab weither either
 iab weithout without
 iab weiwght weight
+iab weka weak
 iab weke week
 iab wekeekend weekend
 iab wekeekne weekend
@@ -37204,6 +37243,7 @@ iab workstaions workstations
 iab workstatiosn workstations
 iab workstattions workstations
 iab workters workers
+iab workth worth
 iab workthless worthless
 iab workuing working
 iab workung working
@@ -37816,18 +37856,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab ecxcuse excuse
-iab desperite desperate
-iab Orifginally Originally
-iab devleopiing developing
-iab probalbe probable
-iab doiung doing
-iab nodek node
-iab weka weak
-iab hurtying hurting
-iab goood good
-iab requestsa requests
-iab anywayehere anywhere
-iab pleynty plenty
-iab junionr junior
-iab opositions positions
