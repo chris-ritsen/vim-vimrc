@@ -37867,3 +37867,10 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
+iab WAthcintg Watching
+iab incomprehendsible incomprehensible
+iab prerequesite prerequisite
+iab severaly severely
+iab uinderstanding understanding
+iab furrtther further
+iab hdinering hindering
