@@ -37874,3 +37874,13 @@ iab severaly severely
 iab uinderstanding understanding
 iab furrtther further
 iab hdinering hindering
+iab vidweo video
+iab streching stretching
+iab Stqa45tiung Starting
+iab anothere another
+iab STarting Starting
+iab narritivbe narrative
+iab reoslved resolved
+iab preomises promises
+iab untuik until
+iab Wuiat Wait
