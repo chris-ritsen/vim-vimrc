@@ -3149,6 +3149,7 @@ iab Stnandard Standard
 iab Stocasticity Stochasticity
 iab Stoiciism Stoicism
 iab Stoppping Stopping
+iab Stqa45tiung Starting
 iab Strage Stage
 iab Stranbe Strange
 iab Strony Strong
@@ -3751,6 +3752,7 @@ iab WAterflals Waterfalls
 iab WAtevver Whatever
 iab WAtewerfalls Waterfalls
 iab WAthc Watch
+iab WAthcintg Watching
 iab WAtts Watts
 iab WEHy Why
 iab WEay Way
@@ -3952,6 +3954,7 @@ iab Wroking Working
 iab Wropte Wrote
 iab Wsa Was
 iab Wteleve Twelve
+iab Wuiat Wait
 iab Wuith With
 iab Wwatiing Waiting
 iab Wwrirting Writing
@@ -16857,6 +16860,7 @@ iab furnitture furniture
 iab furnthure furniture
 iab furnture furniture
 iab furrhter further
+iab furrtther further
 iab furst first
 iab furstarated frustrated
 iab furstarting frustrating
@@ -17578,6 +17582,7 @@ iab hcoose choose
 iab hcris chris
 iab hday day
 iab hdiden hidden
+iab hdinering hindering
 iab hdml html
 iab hdtml html
 iab he34sitatiojn hesitation
@@ -19028,6 +19033,7 @@ iab incompetant incompetent
 iab incomplatible incompatible
 iab incompletye incomplete
 iab incomprehehsivlbel incomprehensible
+iab incomprehendsible incomprehensible
 iab incomprehesible incomprehensible
 iab incomprelhesible incomprehensible
 iab incompresheiblity incomprehensibility
@@ -23168,6 +23174,7 @@ iab naothber another
 iab naother another
 iab narcisissm narcissism
 iab narriative narrative
+iab narritivbe narrative
 iab narrowluy narrowly
 iab narrrating narrating
 iab narrtating narrating
@@ -26684,6 +26691,7 @@ iab preoivpuslu previously
 iab preoivsiluly previously
 iab preojcfts projects
 iab preojewct project
+iab preomises promises
 iab preopared prepared
 iab preopertyy property
 iab preopisitions prepositions
@@ -26719,6 +26727,7 @@ iab preproceessor preprocessor
 iab preptrearing preparing
 iab prepvent prevent
 iab prequired required
+iab prerequesite prerequisite
 iab pres3ented presented
 iab pres4ent present
 iab presaentaiont presentation
@@ -28650,6 +28659,7 @@ iab reoocurruing reoccurring
 iab reorced recored
 iab reordingds recordings
 iab reorganisw reorganise
+iab reoslved resolved
 iab reosurce resource
 iab reousrce resource
 iab reousrces resources
@@ -30526,6 +30536,7 @@ iab sevelal several
 iab sevelopment development
 iab sevelra several
 iab seventewen seventeen
+iab severaly severely
 iab severeral several
 iab severl several
 iab severla several
@@ -32044,6 +32055,7 @@ iab streaight straight
 iab streained strained
 iab streatching stretching
 iab strech stretch
+iab streching stretching
 iab strectch stretch
 iab streelamps streetlamps
 iab streess stress
@@ -35188,6 +35200,7 @@ iab uiitnense intense
 iab uiltity utility
 iab uin in
 iab uincense incense
+iab uinderstanding understanding
 iab uindustry industry
 iab uinmagined unimagined
 iab uinniofication unification
@@ -35751,6 +35764,7 @@ iab untiy unity
 iab untkil until
 iab untli until
 iab untmil until
+iab untuik until
 iab unuasable unusable
 iab unucuasal unusual
 iab unuit unit
@@ -36234,6 +36248,7 @@ iab vidoeos videos
 iab vidoes videos
 iab vidoie video
 iab vidtality vitality
+iab vidweo video
 iab vie2w view
 iab viedeo video
 iab viesual visual
@@ -37867,20 +37882,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab WAthcintg Watching
-iab incomprehendsible incomprehensible
-iab prerequesite prerequisite
-iab severaly severely
-iab uinderstanding understanding
-iab furrtther further
-iab hdinering hindering
-iab vidweo video
-iab streching stretching
-iab Stqa45tiung Starting
-iab anothere another
-iab STarting Starting
-iab narritivbe narrative
-iab reoslved resolved
-iab preomises promises
-iab untuik until
-iab Wuiat Wait
