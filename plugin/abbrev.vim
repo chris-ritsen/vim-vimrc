@@ -29607,6 +29607,7 @@ iab rquivalent equivalent
 iab rrequire require
 iab rrestlessness restlessness
 iab rresults results
+iab rreutrn return
 iab rreview review
 iab rright right
 iab rroad road
@@ -37882,4 +37883,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab rreutrn return
