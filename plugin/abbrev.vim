@@ -3733,6 +3733,7 @@ iab Volumnoioius Voluminous
 iab Vruce Bruce
 iab Vulnderable Vulnerable
 iab WATched Watched
+iab WATchign Watching
 iab WATching Watching
 iab WAht What
 iab WAitign Waiting
@@ -3949,6 +3950,7 @@ iab Wrihat What
 iab Wriiting Writing
 iab Wrirting Writing
 iab Writihn Writing
+iab Writr5ing Writing
 iab Wrods Words
 iab Wroking Working
 iab Wropte Wrote
@@ -8108,6 +8110,7 @@ iab buyt but
 iab buyzzing buzzing
 iab bvackground background
 iab bvapors vapors
+iab bve be
 iab bveen been
 iab bvefore before
 iab bveicle vehicle
@@ -13105,6 +13108,7 @@ iab drifvers drivers
 iab drijnking drinking
 iab drilll drill
 iab dringiking drinking
+iab drinkgin drinking
 iab drinkign drinking
 iab drinkj drink
 iab drinkk drink
@@ -22978,6 +22982,7 @@ iab mroening morning
 iab mrongig morning
 iab mrongin morning
 iab mronign morning
+iab mroning morning
 iab mronrign morning
 iab mrore more
 iab mruderers murderers
@@ -23265,6 +23270,7 @@ iab neawrly nearly
 iab necassary necessary
 iab neccessary necessary
 iab necedsarily necessarily
+iab necedssarily necessarily
 iab necedssary necessary
 iab necedssayry necessary
 iab neceesary necessary
@@ -23778,6 +23784,7 @@ iab oanother another
 iab oaother another
 iab oas as
 iab oasbut about
+iab oaubt about
 iab obcviously obviously
 iab obdervatyions observations
 iab obderve observe
@@ -25473,6 +25480,7 @@ iab perforemed performed
 iab performacnes performances
 iab performane performance
 iab performated performed
+iab performations perforations
 iab performedd performed
 iab performence performance
 iab perfpheral peripheral
@@ -29313,6 +29321,7 @@ iab reventge revenge
 iab rever refer
 iab reverbaating reverberating
 iab reverrred referred
+iab reversable reversible
 iab reversence reference
 iab revewign reviewing
 iab reveyr every
@@ -36286,6 +36295,7 @@ iab virual virtual
 iab virutal virtual
 iab virutalbox virtualbox
 iab visbidle visible
+iab visble visible
 iab visblie visible
 iab visdiual visual
 iab visdual visual
