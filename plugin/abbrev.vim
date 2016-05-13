@@ -3821,6 +3821,7 @@ iab WOrkflow Workflow
 iab WOrkgin Working
 iab WOrkign Working
 iab WOrking Working
+iab WOudl Would
 iab WOuld Would
 iab WOw Wow
 iab WQhat What
@@ -4161,6 +4162,7 @@ iab abohility ability
 iab aboht about
 iab aboid avoid
 iab aboility ability
+iab aboiltiy ability
 iab aboiugt about
 iab aboiut about
 iab aboive above
@@ -9508,6 +9510,7 @@ iab companu company
 iab companuy company
 iab companyes companies
 iab companygs companies
+iab companyhies company
 iab companyies companies
 iab companys companies
 iab companyt company
@@ -12282,6 +12285,7 @@ iab differenrt different
 iab differentce difference
 iab differente different
 iab differentlyh differently
+iab differentt different
 iab differenwce difference
 iab differenxtly differently
 iab differes differs
@@ -13425,6 +13429,7 @@ iab ealruuer earlier
 iab ealruyer earlier
 iab ealry early
 iab ealryer earlier
+iab ealryu early
 iab ealsiy easily
 iab eamail email
 iab eamcs emacs
@@ -13514,6 +13519,7 @@ iab eavoied avoided
 iab eawrliest earliest
 iab eawsier easier
 iab eaxactly exactly
+iab eaxsier easier
 iab eaxtt exact
 iab eayrs years
 iab eazcdh each
@@ -15201,6 +15207,7 @@ iab eweight weight
 iab ewent went
 iab ewere were
 iab ewery every
+iab ewffwect effect
 iab ewhen when
 iab ewhenever whenever
 iab ewhether whether
@@ -16174,6 +16181,7 @@ iab fewewer fewer
 iab fewewest fewest
 iab fewewr fewer
 iab fewllow fellow
+iab fewwer fewer
 iab fextuture texture
 iab ffacto fact
 iab ffactorial factorial
@@ -20335,6 +20343,7 @@ iab irectly directly
 iab ireercocovaly irrevocably
 iab irelaly really
 iab irelelveant irrelevant
+iab irelevelvant irrelevant
 iab irellevent irrelevant
 iab irequires requires
 iab irequring requiring
@@ -22976,6 +22985,7 @@ iab montyh month
 iab monye money
 iab monyth month
 iab moobile mobile
+iab moodifying modifying
 iab mooment moment
 iab moonitors monitors
 iab moorninp morning
@@ -25439,6 +25449,7 @@ iab peieces pieces
 iab peioepl people
 iab peiopel people
 iab peiople people
+iab peiopolpe people
 iab peiple people
 iab peipole people
 iab pelasant pleasant
@@ -25772,6 +25783,7 @@ iab petiualnt petulant
 iab petoential potential
 iab peturbation perturbation
 iab peview preview
+iab pewoiple people
 iab pexierience experience
 iab pexperieince experience
 iab pfocess process
@@ -26536,6 +26548,7 @@ iab pposotions positions
 iab ppostal postal
 iab pposts posts
 iab ppower power
+iab ppposition position
 iab ppppiontless pointless
 iab pppppoint point
 iab ppresident president
@@ -26825,8 +26838,10 @@ iab preocuedure procedure
 iab preoduce produce
 iab preoduct product
 iab preoduction production
+iab preofessional professional
 iab preofious previous
 iab preogramming programming
+iab preograms programs
 iab preoiviosuly previously
 iab preoiviously previously
 iab preoivpuslu previously
@@ -30106,6 +30121,7 @@ iab sciense science
 iab scienteific scientific
 iab scienticif scientific
 iab scientiest scientist
+iab sciewnce science
 iab scinetific scientific
 iab sciope scope
 iab sciopet scope
@@ -32251,8 +32267,11 @@ iab strengnthing strengthening
 iab strengthhening strengthening
 iab strengthhinening strengthening
 iab strengthing strengthening
+iab strennntch strength
 iab strenous strenuous
+iab strentcght strength
 iab strentch strength
+iab strentchgt strength
 iab strenth strength
 iab stressfeul stressful
 iab stretchd stretch
@@ -33021,6 +33040,7 @@ iab systematicially systematically
 iab systemm system
 iab systemr system
 iab systemsm systems
+iab systemws system
 iab systen system
 iab systenm system
 iab systme system
@@ -33350,6 +33370,7 @@ iab technuqe technique
 iab technuyqe technique
 iab techologies technologies
 iab techonoglotgies technologies
+iab techonolgies technologies
 iab techonoligical technological
 iab techonologty technology
 iab techqnitues techniques
@@ -35676,6 +35697,8 @@ iab unempoyable unemployable
 iab unempoyment unemployment
 iab unenesseary unnecessary
 iab unenscessary unnecessary
+iab unequiviably unequivocally
+iab unequivicably unequivocally
 iab unerstand understand
 iab unespxected unexpected
 iab unexepected unexpected
