@@ -9207,6 +9207,7 @@ iab coidulk could
 iab coiinceide coincide
 iab coimplains complaints
 iab coimpletion completion
+iab coincat concat
 iab coinfig config
 iab coinsoel console
 iab coinstant constant
@@ -11492,6 +11493,7 @@ iab defailts defaults
 iab defatult default
 iab defauolt default
 iab defautls defaults
+iab defayult default
 iab defecdts defects
 iab defeinsiveneess defensiveness
 iab defelopment development
@@ -16207,6 +16209,7 @@ iab filded filed
 iab fileds fields
 iab filenaem filename
 iab filenaems filenames
+iab filenmame filename
 iab filesa files
 iab filesnames filenames
 iab filess files
@@ -16301,6 +16304,7 @@ iab finsihing finishing
 iab finslaly finally
 iab fintger finger
 iab finxing fixing
+iab fiolename filename
 iab fior for
 iab fiorst first
 iab fioscud focused
@@ -16782,6 +16786,7 @@ iab fugireudf figured
 iab fuhirst first
 iab fuickler fucker
 iab fuile file
+iab fuilename filename
 iab fuilter filter
 iab fuinciton function
 iab fuinction function
@@ -18373,6 +18378,7 @@ iab identifiying identifying
 iab identiifes identifies
 iab identiified identified
 iab identitcal identical
+iab identiy identity
 iab identlfiying identifying
 iab identnification identification
 iab identnifications identifications
@@ -26959,9 +26965,11 @@ iab priti prīti
 iab pritn print
 iab pritner printer
 iab pritners printers
+iab pritnf printf
 iab pritnied printed
 iab pritning printing
 iab priunciple principle
+iab priuntf printf
 iab privacty privacy
 iab privatey private
 iab privude provide
@@ -27407,6 +27415,7 @@ iab prset preset
 iab prseume presume
 iab prsions prisons
 iab prsusre pressure
+iab prtinf printf
 iab prtoceeds proceeds
 iab pruahcasdec purchased
 iab pruahced purchased
@@ -36191,6 +36200,7 @@ iab vbote vote
 iab vboundary boundary
 iab vbrekase brakes
 iab vbut but
+iab vcalue value
 iab vccufflings cufflings
 iab vccufflings cufflinks
 iab vcersuoin version
@@ -37958,3 +37968,5 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
+iab TBHis This
+iab findf find
