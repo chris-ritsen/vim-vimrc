@@ -69,6 +69,7 @@ iab Administroarttor Administrator
 iab Admisinstrator Administrator
 iab Advangenage Advantage
 iab Advnatnage Advantage
+iab Aecthetisism Aestheticism
 iab Afetr After
 iab Aftert After
 iab Againl Again
@@ -1167,6 +1168,7 @@ iab Guiard Guard
 iab Guideliunes Guidelines
 iab Guidlines Guidelines
 iab Gusard Guard
+iab Gutama Gautama
 iab Guuild Guild
 iab Guven Given
 iab Guyide Guide
@@ -1721,6 +1723,7 @@ iab Listenig Listening
 iab Listenign Listening
 iab Listenrer Listener
 iab Listerner Listener
+iab Listewning Listening
 iab Listgenign Listening
 iab Listinening Listening
 iab Listneing Listening
@@ -3062,6 +3065,10 @@ iab Shovitng Shoving
 iab Shpemtnets Shipments
 iab Shphinx Sphinx
 iab Shyut Shout
+iab Siddharath Siddhārtha
+iab Siddharatha Siddhārtha
+iab Siddhartha Siddhārtha
+iab Sidhartha Siddhārtha
 iab Sigmundsoson Sigmundsson
 iab Signes Signs
 iab Signle Single
@@ -3554,6 +3561,7 @@ iab Tjshi This
 iab Tkae Take
 iab Tkling Talking
 iab Tlaked Talked
+iab Tlakinag Talking
 iab Tlaking Talking
 iab Tmxu Tmux
 iab Tnaknks Thanks
@@ -23147,6 +23155,7 @@ iab msyuefl myself
 iab mthe the
 iab mthem them
 iab mthod method
+iab mthy myth
 iab mtux tmux
 iab mtytologied mythologies
 iab mtyx tmux
@@ -38111,3 +38120,10 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
+iab evren even
+iab photseo photos
+iab phoptos photos
+iab cehco echo
+iab photoso photos
+iab Srtill Still
+iab phootes photos
