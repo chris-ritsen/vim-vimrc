@@ -6090,6 +6090,7 @@ iab applicatoipn application
 iab applicaton application
 iab applicatopin application
 iab applicdation application
+iab applicdatoipns applications
 iab applicdtion application
 iab applices applies
 iab applicqable applicable
@@ -6755,6 +6756,7 @@ iab attmeptign attempting
 iab attmepting attempting
 iab attmeptited attempted
 iab attmepts attempts
+iab attmpet attempt
 iab attmtepmted attempted
 iab attneded attended
 iab attnetion attention
@@ -10398,6 +10400,7 @@ iab consuminging consuming
 iab consuminmg consuming
 iab consumtion consumption
 iab consumung consuming
+iab consupmtion consumption
 iab consupmtionb consumption
 iab consuption consumption
 iab conszstant constant
@@ -13401,6 +13404,7 @@ iab dw3llintg dwelling
 iab dwardfs dwarfs
 iab dwebugger debugger
 iab dwesctruction destruction
+iab dwevlopermenet development
 iab dwewlling dwelling
 iab dwifferent different
 iab dwith with
@@ -14655,6 +14659,7 @@ iab epxerience experience
 iab epxeriience experience
 iab epxeriiences experiences
 iab epxerimeces experiences
+iab epxerioeince experience
 iab epxermeiments experiments
 iab epxetcted Expected
 iab epxeting expecting
@@ -15712,6 +15717,7 @@ iab experieince experience
 iab experieinced experienced
 iab experieinceing experiencing
 iab experieinces experiences
+iab experieincg experience
 iab experieincing experiencing
 iab experieincingy experiencing
 iab experieincve experience
@@ -24229,6 +24235,7 @@ iab ocme come
 iab ocmeb come
 iab ocmes comes
 iab ocming coming
+iab ocmmand command
 iab ocmmands commands
 iab ocmment comment
 iab ocmmercial commercial
@@ -26863,6 +26870,7 @@ iab preferrably preferably
 iab preferrede preferred
 iab prefescriptions prescriptions
 iab preffered preferred
+iab prefger prefer
 iab prefgerences preferences
 iab prefixds prefixes
 iab prefserve preserve
@@ -33407,6 +33415,7 @@ iab techniolgies technologies
 iab techniolgoies technologies
 iab techniolgy technology
 iab techniollgy technology
+iab techniologies technologies
 iab techniq technique
 iab techniqueas techniques
 iab techniquqes techniques
@@ -37180,6 +37189,7 @@ iab whiet white
 iab whif whiff
 iab whih which
 iab whihc which
+iab whihchsend which
 iab whihf which
 iab whiiel while
 iab whiile while
@@ -37987,6 +37997,7 @@ iab yeszterday yesterday
 iab yetseraday yesterday
 iab yetserday yesterday
 iab yeuah yeah
+iab yeuars years
 iab yeulding yielding
 iab yewar year
 iab yewars years
