@@ -52,6 +52,7 @@ iab AVoiding Avoiding
 iab AWakening Awakening
 iab Abasolteu Absolute
 iab Abdosulte Absolute
+iab Aboslutele Absolute
 iab Absaoulte Absolute
 iab Absluote Absolute
 iab Absolulte Absolute
@@ -64,6 +65,7 @@ iab Actiually Actually
 iab Acutaully Actually
 iab Adavnce Advance
 iab Additonally Additionally
+iab AddressS Address
 iab Adhereance Adherence
 iab Adidtioanly Additionally
 iab Adjustewd Adjusted
@@ -215,6 +217,7 @@ iab Blsack Black
 iab Bluye Blue
 iab Bootstrapp Bootstrap
 iab Bothe Both
+iab Bowess Bowes
 iab Bqack Back
 iab Brahama Brahma
 iab Brevetiy Brevity
@@ -266,7 +269,9 @@ iab COmbinatyion Combination
 iab COming Coming
 iab COmmon Common
 iab COmmunication Communication
+iab COmpany Company
 iab COmpromises Compromises
+iab COmputer Computer
 iab COmread Comrade
 iab COndiser Consider
 iab COnfirmed Confirmed
@@ -419,6 +424,7 @@ iab Constnatn Constant
 iab Constnawnt Constant
 iab Constnawt Constant
 iab Constnawtn Constant
+iab Consultnate Consultant
 iab Contarct Contact
 iab Contastly Constantly
 iab Contect Content
@@ -648,6 +654,7 @@ iab Detoirt Detroit
 iab Detorit Detroit
 iab Devekoper Developer
 iab Devekopment Development
+iab Develiopper Developer
 iab Developeers Developers
 iab Developlment Development
 iab Developmenet Development
@@ -752,6 +759,7 @@ iab ELDGER LEDGER
 iab EMail Email
 iab ENVorhometn Environment
 iab ENd End
+iab ENding Ending
 iab ENgine Engine
 iab ENgineereing Engineering
 iab ENgineering Engineering
@@ -850,6 +858,7 @@ iab Emerig Emerging
 iab Emial Email
 iab Emipre Empire
 iab Encoutnered Encountered
+iab Endign Ending
 iab Enemeies Enemies
 iab Enemey Enemy
 iab Eneterrrrprise Enterprise
@@ -1189,6 +1198,7 @@ iab HIgh High
 iab HIghlander Highlander
 iab HIlls Hills
 iab HIs His
+iab HIstory History
 iab HIts Hits
 iab HMTL HTML
 iab HOEM HOME
@@ -1867,6 +1877,7 @@ iab Michaael Michael
 iab Michale Michael
 iab Michevious Mischievous
 iab Michgael Michael
+iab Michgian Michigan
 iab Michiael Michael
 iab Michigna Michigan
 iab Micrdosoft Microsoft
@@ -1969,6 +1980,7 @@ iab NOtning Nothing
 iab NOvi Novi
 iab NOw Now
 iab NUmber Number
+iab NUumber Number
 iab Namepsace Namespace
 iab Narrowlwy Narrowly
 iab Naturalloy Naturally
@@ -2037,6 +2049,7 @@ iab ONly Only
 iab ONto Onto
 iab ONy Only
 iab OPNe One
+iab OPTAERG OPTARG
 iab OPen Open
 iab OPened Opened
 iab OPening Opening
@@ -4896,6 +4909,7 @@ iab admih admin
 iab admihnb admin
 iab admim admin
 iab adminb admin
+iab administartaion administration
 iab administartion administration
 iab administartive administrative
 iab administartoin administration
@@ -8428,6 +8442,7 @@ iab careero career
 iab careerq career
 iab carefuyl careful
 iab carefylly carefully
+iab caregory category
 iab carerer career
 iab carete create
 iab carew cares
@@ -8456,10 +8471,13 @@ iab casusing causing
 iab caswe case
 iab catalityst catalyst
 iab cataloghiing cataloging
+iab categbory category
 iab categeory category
 iab categoriacal categorical
 iab categoriew categories
 iab categorigcal categorical
+iab categoriry category
+iab catgory category
 iab cathc catch
 iab catostrophic catastrophic
 iab catregory category
@@ -13597,6 +13615,7 @@ iab ecet except
 iab ecexewcuytuves executives
 iab eching echoing
 iab echjo echo
+iab echoo echo
 iab ecistence existence
 iab ecistewd existed
 iab ecited excited
@@ -19783,6 +19802,7 @@ iab inspirted inspired
 iab inspriation inspiration
 iab inspriration inspiration
 iab insrelclbyl incredibly
+iab insrt insert
 iab insrtaneces instances
 iab insruance insurance
 iab instace instance
@@ -20489,6 +20509,7 @@ iab isntadw instead
 iab isntaed instead
 iab isntall install
 iab isntalled installed
+iab isntalling installing
 iab isntance instance
 iab isntances instances
 iab isntancs instances
@@ -21254,6 +21275,7 @@ iab lcokc clock
 iab lcoked locked
 iab lcollect collect
 iab lconsole console
+iab lcontinue continue
 iab lcose close
 iab lcosed closed
 iab lcosest closest
@@ -22586,6 +22608,7 @@ iab micrpohoen microphone
 iab micrpohone microphone
 iab micrpoohone microphone
 iab micxrohpne microphone
+iab midaevel medieval
 iab middl3 middle
 iab middle34 middle
 iab midlde middle
@@ -25980,7 +26003,9 @@ iab phsytcial physical
 iab phsyucial physical
 iab phtoo photo
 iab phtoos photos
+iab phtoots photos
 iab phtoto photo
+iab phtotos photos
 iab phuiscail physical
 iab phuysocal physical
 iab phwsyucial physical
@@ -38192,22 +38217,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab echoo echo
-iab phtotos photos
-iab phtoots photos
-iab lcontinue continue
-iab HIstory History
-iab COmpany Company
-iab NUumber Number
-iab Michgian Michigan
-iab COmputer Computer
-iab isntalling installing
-iab AddressS Address
-iab Bowess Bowes
-iab Endign Ending
-iab ENding Ending
-iab Consultnate Consultant
-iab Develiopper Developer
-iab administartaion administration
-iab Aboslutele Absolute
-iab midaevel medieval
