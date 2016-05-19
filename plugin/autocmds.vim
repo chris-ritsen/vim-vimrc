@@ -300,7 +300,7 @@ autocmd! Syntax vim setlocal foldmethod=marker | normal zM
 
 " Python {{{
 
-autocmd! Syntax python setlocal foldmethod=indent shiftwidth=4
+autocmd! Syntax python setlocal foldmethod=indent shiftwidth=2 commentstring=#\ %s 
 
 " }}}
 
