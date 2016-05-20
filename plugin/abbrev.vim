@@ -139,6 +139,7 @@ iab Arlight Alright
 iab Arlright Alright
 iab Aroudn Around
 iab Artch Arch
+iab Arthritius Arthritis
 iab Arttempt Attempt
 iab Aruging Arguing
 iab Arugments Arguments
