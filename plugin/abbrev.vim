@@ -38323,3 +38323,6 @@ iab ztaships starships
 
 iab consolle console
 iab euqla equal
+iab FUcking Fucking
+iab Classs Class
+iab SOlutoin Solution
