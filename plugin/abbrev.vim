@@ -406,6 +406,7 @@ iab Conetinually Continually
 iab Confirmity Conformity
 iab Confiusiuon Confusion
 iab Congtratulations Congratulations
+iab Connectd Connected
 iab Conrifrmed Confirmed
 iab Conrotoversy Controversy
 iab Conrrad Conrad
@@ -8226,6 +8227,7 @@ iab bveen been
 iab bvefore before
 iab bveicle vehicle
 iab bvery very
+iab bvind bind
 iab bvoilume volume
 iab bvudget budget
 iab bwe be
@@ -16135,6 +16137,7 @@ iab facvotite favorite
 iab fadde fade
 iab faeded faded
 iab faield failed
+iab faild failed
 iab failpyre failure
 iab failry fairly
 iab failture failure
@@ -18831,6 +18834,7 @@ iab immortaltity immortality
 iab immunte immune
 iab imn in
 iab imnages images
+iab imncooplete incomplete
 iab imnfomration information
 iab imnsert insert
 iab imnspection inspection
@@ -20813,6 +20817,7 @@ iab jode code
 iab joealous jealous
 iab joiking joking
 iab joininig joining
+iab joinm join
 iab jokgin joking
 iab jome home
 iab jopb job
@@ -22591,6 +22596,7 @@ iab methadologiest methodologies
 iab methaphor metaphor
 iab methd method
 iab methdo method
+iab methodf method
 iab methodoligies methodologies
 iab methodoligy methodology
 iab methoe method
@@ -32777,6 +32783,7 @@ iab suggesteions suggestions
 iab suggestioj suggestion
 iab suggggesting suggesting
 iab suging using
+iab sugint using
 iab suhipmetn shipment
 iab suhould should
 iab suibmitting submitting
@@ -35061,6 +35068,7 @@ iab trhicks tricks
 iab trhinks thinks
 iab trhoguht thought
 iab trhough through
+iab trialing trailing
 iab trid tried
 iab trieed tried
 iab triewst tries
