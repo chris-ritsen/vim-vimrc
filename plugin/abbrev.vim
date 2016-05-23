@@ -360,6 +360,7 @@ iab Claisical Classical
 iab Clal Call
 iab Clarifaication Clarification
 iab Clarift Clarify
+iab Classs Class
 iab Clcik Click
 iab Cleawn Clean
 iab Cleearly Clearly
@@ -1055,6 +1056,7 @@ iab FRom From
 iab FRutehr Further
 iab FUNTION FUNCTION
 iab FUck Fuck
+iab FUcking Fucking
 iab FUll Full
 iab FUnction Function
 iab Facbook Facebook
@@ -2933,6 +2935,7 @@ iab SOMeone Someone
 iab SOMeting Something
 iab SOle Sole
 iab SOlid Solid
+iab SOlutoin Solution
 iab SOme Some
 iab SOmehow Somehow
 iab SOmeone Someone
@@ -7201,6 +7204,7 @@ iab baid bait
 iab bakc back
 iab bakcend backend
 iab bakcground background
+iab bakck back
 iab bakclight backlight
 iab bakend backend
 iab bakgorund background
@@ -10375,6 +10379,7 @@ iab consoius conscious
 iab consoiusness consciousness
 iab consol console
 iab consolel console
+iab consolle console
 iab consolodating consolidating
 iab consoloe console
 iab consooe console
@@ -15045,6 +15050,7 @@ iab euerope europe
 iab euqaloly equally
 iab euqipment equipment
 iab euqiuopment equipment
+iab euqla equal
 iab euqlal equal
 iab euqwoipemtn equipment
 iab eurpe europe
@@ -16423,6 +16429,7 @@ iab fimrware firmware
 iab finaally finally
 iab finacial financial
 iab finacnes finances
+iab finallY finally
 iab finallly finally
 iab finallya finally
 iab finaly finally
@@ -38321,7 +38328,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab consolle console
-iab euqla equal
-iab bakck back
-iab finallY finally
