@@ -311,6 +311,15 @@ call unite#custom#source('buffer', 'matchers', ['matcher_fuzzy', 'matcher_hide_c
 
 " if exists('*s:unite_settings')
 
+
+nnoremap <silent> <leader>s :<C-U>Unite grep:. -buffer-name=search-buffer<CR>
+if executable('pt')
+  let g:unite_source_grep_command = 'pt'
+  let g:unite_source_grep_default_opts = '--nogroup --nocolor'
+  let g:unite_source_grep_recursive_opt = ''
+  let g:unite_source_grep_encoding = 'utf-8'
+endif
+
 autocmd FileType unite call s:unite_settings()
 
 " endif

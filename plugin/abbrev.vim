@@ -38323,3 +38323,5 @@ iab ztaships starships
 
 iab consolle console
 iab euqla equal
+iab bakck back
+iab finallY finally
