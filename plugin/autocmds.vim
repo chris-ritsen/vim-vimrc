@@ -34,6 +34,7 @@ let g:hostname_work = 'work_vm'
 autocmd! BufRead,BufNewFile *.cshtml setlocal filetype=cshtml commentstring=@*%s*@
 " autocmd! BufRead,BufNewFile *.cshtml if g:hostname == g:hostname_work | setlocal filetype=cshtml commentstring=@*%s*@ | source $VIMRC_PLUGIN_DIR/conceal.vim | endif
 " autocmd! BufRead,BufNewFile *cs if g:hostname == g:hostname_work | source $VIMRC_PLUGIN_DIR/conceal.vim | endif
+autocmd! BufRead,BufNewFile *cs set sw=2 ts=2
 
 " autocmd! Syntax html source $VIMRC_PLUGIN_DIR/conceal.vim
 
@@ -58,6 +59,11 @@ autocmd! Syntax mail setlocal commentstring=>\ %s
 autocmd! BufNewFile,BufRead *.c,*.cpp set foldmethod=syntax
 autocmd! Syntax c,cpp,php,perl setlocal foldmethod=syntax | normal zM
 autocmd! FileType c setlocal foldmethod=syntax commentstring=\/\/\ %s
+
+autocmd! BufRead,BufNewFile *.cc set filetype=cpp
+
+autocmd! FileType cpp setlocal foldmethod=syntax commentstring=\/\/\ %s
+
 
 " }}}4
 
@@ -289,9 +295,6 @@ autocmd! FileType vim setlocal commentstring=\"\ %s comments=b:\"
 " This was the default… not sure what the three-piece comment intent was.
 " autocmd! FileType vim setlocal commentstring=\"\ %s comments=sO:\"\ -,mO:\"\ \ ,eO:\"\",b:\"
 
-" ajhsdkfjahsdf kasjhdfk asdhfja sdfhafks djhasdf lashdf alskfhj asldhf
-" asdfkljhas dfkljh sadfkljahs dfdjhfkas
-
 autocmd! Syntax vim setlocal foldmethod=marker | normal zM
 
 " }}}3
@@ -403,15 +406,12 @@ autocmd! BufRead,BufNewFile abbrev.vim nnoremap <silent> <leader>k :silent! %s/^
 
 " FIXME: This section is a complete mess.
 
-" HUH? What is <leader>p ... opens some kind of command prompt.
+" Huh? What is <leader>p ... opens some kind of command prompt.
 
 augroup omnisharp_commands
   autocmd!
 
   if exists('g:OmniSharp_loaded')
-
-    " FIXME: check if OmniSharp has been loaded before adding these
-    " autocommands.
 
 		let g:OmniSharp_timeout = 1
 
@@ -449,13 +449,13 @@ augroup omnisharp_commands
     autocmd! FileType cs setlocal updatetime=500
     autocmd! FileType cs setlocal cmdheight=2
 
+    autocmd CursorHold *.cs call OmniSharp#TypeLookupWithoutDocumentation()
+
+    command! -nargs=1 Rename :call OmniSharp#RenameTo("<args>")
+
   endif
 
 augroup END
-
-autocmd CursorHold *.cs call OmniSharp#TypeLookupWithoutDocumentation()
-
-command! -nargs=1 Rename :call OmniSharp#RenameTo("<args>")
 
 " nnoremap <F2> :OmniSharpRename<cr>
 " nnoremap <leader>cf :OmniSharpCodeFormat<cr>

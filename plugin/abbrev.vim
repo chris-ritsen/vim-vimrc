@@ -38336,3 +38336,10 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
+iab pyuthon python
+iab COnosle Console
+iab PROblems Problems
+iab comoma comma
+iab argvb argv
+iab SOlution Solution
+iab msatric matrix

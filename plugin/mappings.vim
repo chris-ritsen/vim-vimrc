@@ -274,16 +274,20 @@ nnoremap <silent> ]o <nop>
 
 " omnisharp {{{
 
-nnoremap <leader>rn :OmniSharpRename<cr>
-nnoremap <leader>ca :OmniSharpGetCodeActions<cr>
-nnoremap <leader>cf :OmniSharpCodeFormat<cr>
-nnoremap <leader>nm :OmniSharpRename<cr>
-nnoremap <leader>rl :OmniSharpReloadSolution<cr>
-nnoremap <leader>sp :OmniSharpStopServer<cr>
-nnoremap <leader>ss :OmniSharpStartServer<cr>
-nnoremap <leader>th :OmniSharpHighlightTypes<cr>
-nnoremap <leader>tp :OmniSharpAddToProject<cr>
-vnoremap <leader>ga :call OmniSharp#GetCodeActions('visual')<cr>
+if exists('g:OmniSharp_loaded')
+
+  nnoremap <leader>rn :OmniSharpRename<cr>
+  nnoremap <leader>ca :OmniSharpGetCodeActions<cr>
+  nnoremap <leader>cf :OmniSharpCodeFormat<cr>
+  nnoremap <leader>nm :OmniSharpRename<cr>
+  nnoremap <leader>rl :OmniSharpReloadSolution<cr>
+  nnoremap <leader>sp :OmniSharpStopServer<cr>
+  nnoremap <leader>ss :OmniSharpStartServer<cr>
+  nnoremap <leader>th :OmniSharpHighlightTypes<cr>
+  nnoremap <leader>tp :OmniSharpAddToProject<cr>
+  vnoremap <leader>ga :call OmniSharp#GetCodeActions('visual')<cr>
+
+endif
 
 " }}}
 
