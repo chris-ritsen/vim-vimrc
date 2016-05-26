@@ -38416,3 +38416,10 @@ iab ztart start
 iab ztaships starships
 
 iab iodiot idiot
+iab attachced attached
+iab cuyrsor cursor
+iab attacdhes attaches
+iab Lloops Loops
+iab passsed passed
+iab deatched detached
+iab monuitor monitor
