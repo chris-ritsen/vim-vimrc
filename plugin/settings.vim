@@ -71,7 +71,9 @@ set formatlistpat=^\\s*\\d\\+[\\]:.)}\\t\ ]\\s*\\\|^\\*\\s*\|^\\s*∙\\s*\|^\\s*
 " formating
 " set formatoptions+=njw
 
-set formatoptions+=njb
+" not sure how I feel about +b
+
+set formatoptions+=nj
 
 set guiheadroom=0
 set nrformats=octal,hex
