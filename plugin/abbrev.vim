@@ -1335,6 +1335,7 @@ iab ILLeaving Leaving
 iab IMage Image
 iab IMagine Imagine
 iab IMplemeneted Implemented
+iab IMplemtend1 Implemented
 iab IMportnatn Important
 iab IMprotant Important
 iab IMprove Improve
@@ -1451,6 +1452,7 @@ iab Immiedatelyl Immediately
 iab Imoprove Improve
 iab Impleemnntations Implementations
 iab Implemetneations Implementations
+iab Implemetned Implemented
 iab Implenmentation Implementation
 iab Implictly Implicitly
 iab Implmeented Implemented
@@ -1504,6 +1506,7 @@ iab Incosopsisitnances Inconsistencies
 iab Incpomatability Incompatibility
 iab Increasting Increasing
 iab Incredcibily Incredibly
+iab Incredibily Incredibly
 iab Incredilbly Incredibly
 iab Incredilby Incredibly
 iab Incredilbye Incredibly
@@ -1648,6 +1651,7 @@ iab Jhans Jhānas
 iab Joghn John
 iab Jogn John
 iab Johyn John
+iab Joyhnson Johnson
 iab Jsavasscript Javascript
 iab Jsut Just
 iab Judgenment Judgment
@@ -2323,6 +2327,7 @@ iab Phsisscict Physicist
 iab Phsuicasl Physical
 iab Phsyical Physical
 iab Phsyiucal Physical
+iab Phtooso Photos
 iab Phycial Physical
 iab Physiciolgy Physiology
 iab Physuical Physical
@@ -3881,6 +3886,7 @@ iab WOn Won
 iab WOnder Wonder
 iab WOrdPress WordPress
 iab WOrk Work
+iab WOrked Worked
 iab WOrkflow Workflow
 iab WOrkgin Working
 iab WOrkign Working
@@ -4023,6 +4029,7 @@ iab Woek Woke
 iab Woithout Without
 iab Wokring Working
 iab Wokrs Works
+iab Woreke Worked
 iab Woriking Working
 iab Worires Worries
 iab Workgin Working
@@ -4794,6 +4801,7 @@ iab actuallyy actually
 iab actualy actually
 iab actualyl actually
 iab actuibn action
+iab actuion auction
 iab actuions actions
 iab actuiviity activity
 iab actully actually
@@ -8105,6 +8113,7 @@ iab browsign browsing
 iab browswer browser
 iab browswers browsers
 iab browwser browser
+iab browwsers browsers
 iab brrain brain
 iab brteath breath
 iab brteawks breaks
@@ -9664,6 +9673,7 @@ iab compelting completing
 iab compeltlety completely
 iab compelx complex
 iab compenetecy competency
+iab compenieonts components
 iab compensatioed compensation
 iab compentency competency
 iab compentsatie compensate
@@ -11104,6 +11114,7 @@ iab covere covered
 iab covererd covered
 iab covred covered
 iab cowoerkers coworkers
+iab cowokers coworkers
 iab coworkekr coworker
 iab coworkesrs coworkers
 iab coxnsisitently consistently
@@ -13937,6 +13948,7 @@ iab ehabit habit
 iab ehad had
 iab ehader header
 iab ehalth health
+iab ehanbnced enhanced
 iab ehard heard
 iab ehcho echo
 iab ehco echo
@@ -14756,6 +14768,7 @@ iab epsidoese episodes
 iab epsisodes episodes
 iab eputtion elution
 iab epwould would
+iab epxanded expanded
 iab epxcected expected
 iab epxcliclitly explicitly
 iab epxderieinced experienced
@@ -16225,6 +16238,7 @@ iab falvor flavor
 iab falwe false
 iab famiiliar familiar
 iab familar familiar
+iab familiarit familiarity
 iab familiiarze familiarize
 iab famililar familiar
 iab familiy familia
@@ -18988,6 +19002,7 @@ iab implementeation implementation
 iab implementeing implementing
 iab implemetaiton implementation
 iab implemetation implementation
+iab implemeting implementing
 iab implemetnation implementation
 iab implemetned implemented
 iab implemmentations implementations
@@ -21527,6 +21542,7 @@ iab legaciy legacy
 iab legaciyy legacy
 iab legacty legacy
 iab legandardy legendary
+iab legaxy legacy
 iab leggs legs
 iab legibilty legibility
 iab legiblel legible
@@ -23061,6 +23077,7 @@ iab mobiel mobile
 iab mobnhts months
 iab mobnile mobile
 iab mobniutors monitors
+iab mobuile mobile
 iab mocde mode
 iab mocern modern
 iab modafininal modafinil
@@ -27345,6 +27362,7 @@ iab prioritiyes priorities
 iab prioroity priority
 iab prioroties priorities
 iab priorties priorities
+iab priorty priority
 iab priovdie provide
 iab priovide provide
 iab priovoing proving
@@ -27668,6 +27686,7 @@ iab promnote promote
 iab promoised promised
 iab promoises promises
 iab promoisuing promising
+iab promomeinetnm prominent
 iab promopt prompt
 iab promopted prompted
 iab promosing promising
@@ -29640,6 +29659,7 @@ iab restrivted restricted
 iab restrixted restricted
 iab restrookm restroom
 iab resturns returns
+iab resuable reusable
 iab resuem resume
 iab resuest request
 iab resuistnece resistance
@@ -35108,6 +35128,7 @@ iab transiiostioning transitioning
 iab transiotion transition
 iab translateions translations
 iab translqtion translation
+iab translsated translated
 iab translucenet translucent
 iab transofmored transformed
 iab transofrmations transformations
@@ -36254,6 +36275,7 @@ iab unreeaslnable unreasonable
 iab unregisterd unregistered
 iab unregistrerd unregistered
 iab unrelaiable unreliable
+iab unrelaible unreliable
 iab unrelaibled unreliable
 iab unreleated unrelated
 iab unreliabily unreliably
@@ -37208,6 +37230,7 @@ iab wegbstie website
 iab wegbwe web
 iab wegbwites websites
 iab weget wget
+iab wegsites websites
 iab wehat what
 iab wehate what
 iab wehatever whatever
@@ -37304,6 +37327,7 @@ iab weverything everything
 iab weverywhere everywhere
 iab wevnetually eventually
 iab wevsite website
+iab wewbsites websites
 iab wewird weird
 iab wewks weeks
 iab wewre were
@@ -38456,27 +38480,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab cowokers coworkers
-iab wewbsites websites
-iab Joyhnson Johnson
-iab translsated translated
-iab Implemetned Implemented
-iab Woreke Worked
-iab epxanded expanded
-iab mobuile mobile
-iab ehanbnced enhanced
-iab wegsites websites
-iab WOrked Worked
-iab unrelaible unreliable
-iab Incredibily Incredibly
-iab implemeting implementing
-iab legaxy legacy
-iab priorty priority
-iab browwsers browsers
-iab compenieonts components
-iab resuable reusable
-iab Phtooso Photos
-iab actuion auction
-iab familiarit familiarity
-iab IMplemtend1 Implemented
-iab promomeinetnm prominent
