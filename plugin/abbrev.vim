@@ -4025,6 +4025,7 @@ iab Workgin Working
 iab Workign Working
 iab Workoded Worked
 iab Workpalce Workplace
+iab Workted Worked
 iab Wortks Works
 iab Woudl Would
 iab Wouln Wouldn
@@ -11644,6 +11645,7 @@ iab deductable deductible
 iab deefinitely definitely
 iab deelay delay
 iab deeleting deleting
+iab deeliver deliver
 iab deeop deep
 iab deeparment department
 iab deepend deepen
@@ -16532,6 +16534,7 @@ iab finsihewd finished
 iab finsihiing finishing
 iab finsihing finishing
 iab finslaly finally
+iab fint find
 iab fintger finger
 iab finxing fixing
 iab fiolename filename
@@ -19374,6 +19377,7 @@ iab incoomprewsibilitiy incomprehensibility
 iab incoorcedly incorrectly
 iab incopmatible incompatible
 iab incopmetent incompetent
+iab incopmetetnt incompetent
 iab incopmlete incomplete
 iab incorerescdtly incorrectly
 iab incorperate incorporate
@@ -38428,7 +38432,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab Workted Worked
-iab incopmetetnt incompetent
-iab deeliver deliver
-iab fint find
