@@ -38428,3 +38428,6 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
+iab Workted Worked
+iab incopmetetnt incompetent
+iab deeliver deliver

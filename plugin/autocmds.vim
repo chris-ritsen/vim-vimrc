@@ -73,6 +73,8 @@ autocmd! FileType readline setlocal commentstring=#\ %s
 autocmd! FileType markdown setlocal omnifunc=htmlcomplete#CompleteTags foldmethod=indent
 autocmd! FileType lisp setlocal foldmethod=syntax commentstring=;\ %s
 
+autocmd! BufNewFile,BufRead zathurarc  setlocal commentstring=#\ %s
+
 " }}}
 
 autocmd! FileType make setlocal noexpandtab
