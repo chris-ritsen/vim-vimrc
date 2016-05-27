@@ -1822,8 +1822,9 @@ iab Machona Maconha
 iab Machonha Maconha
 iab Magnaese Maganese
 iab Mahcinavellian Machiavellian
+iab Mainitanined Maintained
 iab Maintainaed Maintained
-iab Maintained Maintainer
+iab Maintained Maintained
 iab Mainteneance Maintenance
 iab Maintenenace Maintenance
 iab Maintennace Maintenance
@@ -1884,6 +1885,7 @@ iab Metroit Metro
 iab Mgiht Might
 iab Mhipment Shipment
 iab Mhommad Mohammad
+iab Miantianed Maintained
 iab Micehvois Mischevious
 iab Michaael Michael
 iab Michale Michael
@@ -1901,6 +1903,7 @@ iab Miek Mike
 iab Mihcigan Michigan
 iab Mikke Mike
 iab Minainted Maintained
+iab Minatinaed Maintained
 iab Mindfiulness Mindfulness
 iab Minium Minimum
 iab Mintues Minutes
@@ -10133,6 +10136,7 @@ iab confisdently confidently
 iab confiugere configure
 iab confiugraiotn configuration
 iab confiugrations configurations
+iab confiugring configuring
 iab confiurable configurable
 iab confiused confused
 iab confiusin confusing
@@ -19076,6 +19080,7 @@ iab importantce importance
 iab importanty important
 iab importatn important
 iab importiant important
+iab importna important
 iab importnace importance
 iab importnaet important
 iab importnant important
@@ -19929,6 +19934,7 @@ iab instaces instances
 iab instacne instance
 iab instad instead
 iab instaed instead
+iab instaeed instead
 iab instaences instances
 iab instaewc instead
 iab instagaam instagram
@@ -38432,3 +38438,4 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
+iab iisnntance instance
