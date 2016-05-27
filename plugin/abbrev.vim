@@ -7289,6 +7289,7 @@ iab baseilne baseline
 iab basially basically
 iab basica basic
 iab basiccs basics
+iab basilcally basically
 iab basisc basic
 iab basiss basis
 iab basns bans
@@ -12052,6 +12053,7 @@ iab destionation destination
 iab destionaton destination
 iab destitation destination
 iab destitude destitute
+iab destkop desktop
 iab destnation destination
 iab destoroeyded destroyed
 iab destoroying destroying
@@ -17104,6 +17106,7 @@ iab funfixed unfixed
 iab funftions functions
 iab fungers fingers
 iab funiture furniture
+iab funmction function
 iab funncial financial
 iab funnction function
 iab funtcdtion function
@@ -38425,7 +38428,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab reate rate
-iab funmction function
-iab basilcally basically
-iab destkop desktop
