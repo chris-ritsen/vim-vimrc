@@ -1761,6 +1761,7 @@ iab Listnening Listening
 iab Listning Listening
 iab Litened Listened
 iab Livelihiood Livelihood
+iab Lloops Loops
 iab Lniux Linux
 iab Lnks Links
 iab Loadfing Loading
@@ -6720,7 +6721,9 @@ iab attaaoin attain
 iab attacdhed attached
 iab attacdhedd attached
 iab attacdhements attachments
+iab attacdhes attaches
 iab attachc attach
+iab attachced attached
 iab attachec attached
 iab attacheds attaches
 iab attachement attachment
@@ -11340,6 +11343,7 @@ iab customres customers
 iab cusuiobn cushion
 iab cutaenous cutaneous
 iab cuttin cutting
+iab cuyrsor cursor
 iab cuystomer customer
 iab cvamera camera
 iab cvan can
@@ -11534,6 +11538,7 @@ iab dealy delay
 iab dearxh search
 iab deasd dead
 iab deatails details
+iab deatched detached
 iab deate date
 iab deatuh death
 iab deawl deal
@@ -12073,6 +12078,7 @@ iab deszciousions decisions
 iab det3emrinteation determination
 iab detaail detail
 iab detachedf detached
+iab detactched detached
 iab detah death
 iab detaiol detail
 iab detatched detached
@@ -20395,6 +20401,7 @@ iab inuition intuition
 iab inutitvely intuitively
 iab inuvolved involved
 iab inv in
+iab invairiant invariant
 iab invalable invaluable
 iab invaraiably invariably
 iab invaraible invariable
@@ -22623,6 +22630,7 @@ iab mesaure measure
 iab mesaures measures
 iab mesdsage message
 iab mesmarising mesmerising
+iab messaage message
 iab messag message
 iab messagess messages
 iab messagews messages
@@ -23197,6 +23205,7 @@ iab montior monitor
 iab montiros monitors
 iab montsh months
 iab montyh month
+iab monuitor monitor
 iab monye money
 iab monyth month
 iab moobile mobile
@@ -25569,6 +25578,7 @@ iab passiung passing
 iab passord password
 iab passowrd password
 iab passs pass
+iab passsed passed
 iab passsionate passionate
 iab passw pass
 iab passw2ord password
@@ -38415,14 +38425,7 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab iodiot idiot
-iab attachced attached
-iab cuyrsor cursor
-iab attacdhes attaches
-iab Lloops Loops
-iab passsed passed
-iab deatched detached
-iab monuitor monitor
-iab detactched detached
-iab invairiant invariant
-iab messaage message
+iab reate rate
+iab funmction function
+iab basilcally basically
+iab destkop desktop
