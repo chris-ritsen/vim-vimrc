@@ -52,6 +52,7 @@ set autoread
 set backspace=eol,start,indent
 set cmdheight=1
 set comments+=fb:•
+set comments+=fb:~
 set comments+=fb:∙
 set completeopt=
 set cpoptions=aABceFsJ "+=J
@@ -65,7 +66,7 @@ set foldlevel=20
 set foldlevelstart=20
 set foldmethod=marker
 set foldminlines=1
-set formatlistpat=^\\s*\\d\\+[\\]:.)}\\t\ ]\\s*\\\|^\\*\\s*\|^\\s*∙\\s*\|^\\s*•\\s*
+set formatlistpat=^\\s*\\d\\+[\\]:.)}\\t\ ]\\s*\\\|^\\*\\s*\|^\\s*∙\\s*\|^\\s*[•~]\\s*
 
 " 'w' leaves trailing whitespace, but I'm remembering an issue with list
 " formating

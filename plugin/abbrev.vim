@@ -3031,6 +3031,7 @@ iab Satyrday Saturday
 iab Satyurdasy Saturday
 iab Satyurday Saturday
 iab Saybe Save
+iab Sbuscribe Subscribe
 iab Scarecrpw Scarecrow
 iab Scewince Sconce
 iab Scgheme Scheme
@@ -38455,4 +38456,27 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab Sbuscribe Subscribe
+iab cowokers coworkers
+iab wewbsites websites
+iab Joyhnson Johnson
+iab translsated translated
+iab Implemetned Implemented
+iab Woreke Worked
+iab epxanded expanded
+iab mobuile mobile
+iab ehanbnced enhanced
+iab wegsites websites
+iab WOrked Worked
+iab unrelaible unreliable
+iab Incredibily Incredibly
+iab implemeting implementing
+iab legaxy legacy
+iab priorty priority
+iab browwsers browsers
+iab compenieonts components
+iab resuable reusable
+iab Phtooso Photos
+iab actuion auction
+iab familiarit familiarity
+iab IMplemtend1 Implemented
+iab promomeinetnm prominent
