@@ -38481,3 +38481,13 @@ iab ztart start
 iab ztaships starships
 
 iab Airial Arial
+iab xprintidel xprintidle
+iab whateve4r whatever
+iab yourselfv yourself
+iab styuff stuff
+iab descruiption description
+iab valu2 value
+iab sockept socket
+iab xodotool xdotool
+iab contnuue continue
+iab yeus yes
