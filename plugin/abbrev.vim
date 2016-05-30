@@ -81,6 +81,7 @@ iab Againu Again
 iab Aghhast Aghast
 iab Ahving Having
 iab Aircaraft Aircraft
+iab Airial Arial
 iab Akrugrt Alright
 iab Algorthims Algorithms
 iab Almos Almost
@@ -10693,6 +10694,7 @@ iab contnetn content
 iab contnieue continue
 iab contniinues continues
 iab contnnnnue continue
+iab contnuue continue
 iab contoerl control
 iab contoinoius continuous
 iab contoinue continue
@@ -11980,6 +11982,7 @@ iab descrtibe describe
 iab descrtibed described
 iab descruibed described
 iab descruipbe describe
+iab descruiption description
 iab descrweiption description
 iab descrwibed described
 iab descsrives describes
@@ -20245,6 +20248,7 @@ iab intergrated integrated
 iab interhietence inheritance
 iab interia inertia
 iab interinal internal
+iab interinet internet
 iab interivei3w interview
 iab interivew interview
 iab interlaly internally
@@ -31746,6 +31750,7 @@ iab socail social
 iab socializzing socializing
 iab socieity society
 iab sockeft socket
+iab sockept socket
 iab sockest sockets
 iab socopes scopes
 iab socoring scoring
@@ -32207,6 +32212,7 @@ iab squieaking squeaking
 iab squisshed squished
 iab sqwitch switch
 iab srangley strangely
+iab srarted started
 iab sreach search
 iab srestart restart
 iab srevearl several
@@ -32312,6 +32318,7 @@ iab starrt start
 iab starrted started
 iab starrtups startups
 iab startd started
+iab startdd started
 iab startede started
 iab startedrs starters
 iab startes starts
@@ -32761,6 +32768,7 @@ iab stypeshet stylesheet
 iab styroy story
 iab stystem system
 iab styudy study
+iab styuff stuff
 iab styulews styles
 iab styyles styles
 iab suage usage
@@ -36617,6 +36625,7 @@ iab validatiopn validation
 iab valiud valid
 iab valouable valuable
 iab valu value
+iab valu2 value
 iab valuabnle valuable
 iab valualbe valuable
 iab valud valid
@@ -37361,6 +37370,7 @@ iab whatesoever whatsoever
 iab whatesorever whatsoever
 iab whatev whatever
 iab whatevaer whatever
+iab whateve4r whatever
 iab whatevefr whatever
 iab whatevere whatever
 iab whatevfer whatever
@@ -38196,6 +38206,7 @@ iab xleared cleared
 iab xmoand xmonad
 iab xmonawd xmonad
 iab xmsaple example
+iab xodotool xdotool
 iab xomplains complains
 iab xomputer computer
 iab xontinue continue
@@ -38203,6 +38214,7 @@ iab xoon soon
 iab xpect expect
 iab xploration exploration
 iab xpoi xpo
+iab xprintidel xprintidle
 iab xrnadr xrandr
 iab xselect select
 iab xtereme extreme
@@ -38287,6 +38299,7 @@ iab yetserday yesterday
 iab yeuah yeah
 iab yeuars years
 iab yeulding yielding
+iab yeus yes
 iab yewar year
 iab yewars years
 iab yewt yet
@@ -38360,6 +38373,7 @@ iab yoursalef yourself
 iab yoursefl yourself
 iab yourseflf yourself
 iab yourseklf yourself
+iab yourselfv yourself
 iab yourslef yourself
 iab yourslefl yourself
 iab youtbe youtube
@@ -38480,15 +38494,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab Airial Arial
-iab xprintidel xprintidle
-iab whateve4r whatever
-iab yourselfv yourself
-iab styuff stuff
-iab descruiption description
-iab valu2 value
-iab sockept socket
-iab xodotool xdotool
-iab contnuue continue
-iab yeus yes
-iab interinet internet
