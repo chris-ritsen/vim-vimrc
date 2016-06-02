@@ -89,6 +89,11 @@ autocmd! FileType javascript setlocal foldmethod=marker foldmarker={,} commentst
 
 " }}}4
 
+" ruby {{{
+
+autocmd! FileType ruby setlocal softtabstop=2 tabstop=2 shiftwidth=2 expandtab commentstring=#\ %s
+" }}}
+
 " zsh {{{
 
 autocmd! BufRead,BufNewFile /tmp/zsh* set filetype=zsh tw=0 nowrap
