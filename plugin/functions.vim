@@ -107,7 +107,7 @@ function! AddAbbrev()
   " {{{
 
   " let a:abbrev_file = '$VIMRC_PLUGIN_DIR/abbrev.vim'
-  let a:abbrev_file = '/home/chris/.config/vim/bundle/vimrc/plugin/abbrev.vim'
+  let a:abbrev_file = '/home/chris/.config/vim/bundle/vimrc/abbrev.vim'
   let a:lines = [abbrev_entry]
 
   " }}}

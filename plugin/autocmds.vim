@@ -85,7 +85,7 @@ autocmd! BufRead,BufNewFile .eslintrc set filetype=json
 autocmd! BufRead,BufNewFile *.json set filetype=json
 autocmd! BufReadPost *.jshintrc setf json
 autocmd! BufWritePre *.js :%s/\s\+$//e
-autocmd! FileType javascript setlocal foldmethod=marker foldmarker={,} commentstring=\/\/\ %s
+autocmd! FileType javascript setlocal suffixesadd+=.js foldmethod=marker foldmarker={,} commentstring=\/\/\ %s
 
 " }}}4
 
@@ -124,7 +124,7 @@ autocmd! FileType vb setlocal commentstring='\ %s
 
 autocmd! BufRead,BufNewFile *.css.map set filetype=json
 
-autocmd! FileType css setlocal nowrap foldmethod=indent fmr={,} suffixesadd+=.css
+autocmd! FileType css setlocal nowrap foldmethod=indent fmr={,} suffixesadd+=.less,.sass,.css
 autocmd! FileType less setlocal nowrap foldmethod=indent fmr={,}
 autocmd! FileType scss setlocal nowrap foldmethod=indent fmr={,}
 
@@ -310,7 +310,7 @@ autocmd! Syntax vim setlocal foldmethod=marker | normal zM
 
 " Python {{{
 
-autocmd! Syntax python setlocal foldmethod=indent shiftwidth=2 softtabstop=2 commentstring=#\ %s 
+autocmd! Syntax python setlocal suffixesadd+=.py foldmethod=indent shiftwidth=2 softtabstop=2 commentstring=#\ %s 
 
 " }}}
 
@@ -393,7 +393,7 @@ autocmd! BufRead,BufNewFile ~/Documents/notes nnoremap <silent> <leader>l <esc>G
 " TODO: What this really needs is a staging area for recently added but not
 " verified or corrected abbreviations.
 
-" $VIM_BUNDLE_DIR/vimrc/plugin/abbrev.vim
+" $VIM_BUNDLE_DIR/vimrc/abbrev.vim
 
 " autocmd! BufWritePre *.js :%s/\s\+$//e
 

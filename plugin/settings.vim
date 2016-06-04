@@ -126,7 +126,7 @@ set spellfile=~/.config/vim/spell/dict.add
 set spelllang=en_us
 set splitbelow
 set splitright
-set suffixesadd+=.js,.h,.inc,.txt
+set suffixesadd+=.h,.inc,.txt
 set switchbuf=useopen,usetab,newtab
 set synmaxcol=0
 set t_vb=
