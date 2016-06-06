@@ -2615,7 +2615,10 @@ iab REelax Relax
 iab REesteraunt Restaurant
 iab REevaluate Reevaluate
 iab REfelctions Reflections
+iab REfernces References
+iab REfgerneces References
 iab REfilled Refilled
+iab REfnewrecs References
 iab REgardleess Regardless
 iab REgardless Regardless
 iab REgister Register
@@ -2766,6 +2769,8 @@ iab Redusce Reduce
 iab Reeally Really
 iab Reember Remember
 iab Reestart Restart
+iab Refences References
+iab Refernces References
 iab Referneces References
 iab Refractorign Refactoring
 iab Refrences References
@@ -2798,7 +2803,9 @@ iab Requewt Request
 iab RequireJSd RequireJS
 iab Requst Request
 iab Reqwriting Rewriting
+iab Rerefenrecse References
 iab Rererence Reference
+iab Rerturns Returns
 iab Resaurant Restaurant
 iab Reselmving Resembling
 iab Respnose Response
@@ -3791,6 +3798,7 @@ iab VErsion Version
 iab VEry Very
 iab VIdoes Videos
 iab VIm Vim
+iab VOlumes Volumes
 iab Vactations Vacations
 iab Vakye Value
 iab Valeuy Value
@@ -6674,6 +6682,7 @@ iab asyncoronus asynchronous
 iab asyncronous asynchronous
 iab asyunc async
 iab ataching attaching
+iab atachred attached
 iab atain attain
 iab ataking taking
 iab atalbe table
@@ -6754,6 +6763,7 @@ iab attacdhements attachments
 iab attacdhes attaches
 iab attachc attach
 iab attachced attached
+iab attachea attached
 iab attachec attached
 iab attacheds attaches
 iab attachement attachment
@@ -6786,6 +6796,7 @@ iab attatached attached
 iab attatcghnment attachment
 iab attatchement attachment
 iab attatchements attachments
+iab attcache3d attached
 iab attcadhced attached
 iab atte ate
 iab atteached attached
@@ -6826,6 +6837,8 @@ iab attetnion attention
 iab attetntion attention
 iab attewmpt attempt
 iab attewmpting attempting
+iab atthascded attached
+iab atthcdafed attached
 iab attiantalble attainable
 iab attibute attribute
 iab attidute attitude
@@ -9735,6 +9748,7 @@ iab complementatry complementary
 iab complemte complete
 iab complesx complex
 iab complet complete
+iab completcd completed
 iab completdd completed
 iab completedd completed
 iab completeing completing
@@ -10960,6 +10974,7 @@ iab coreret correct
 iab coretions corrections
 iab corffee coffee
 iab corlo color
+iab cornfirming confirming
 iab cornrer corner
 iab coroect correct
 iab coroerct correct
@@ -26349,6 +26364,7 @@ iab plams palms
 iab planbet planet
 iab planeted planted
 iab planneed planned
+iab plannig planing
 iab plannign planning
 iab plaqy play
 iab plastesd placed
@@ -28313,6 +28329,7 @@ iab qyuality quality
 iab qyucj quick
 iab qyucjly quickly
 iab qyucly quickly
+iab qyuery query
 iab qyuickjy quickly
 iab qyuiclly quickly
 iab qyuicluy quickly
@@ -29782,6 +29799,7 @@ iab returend returned
 iab returened returned
 iab returenjd returned
 iab returhn return
+iab return4e return
 iab returnb return
 iab returnde returned
 iab returneer returner
@@ -35940,6 +35958,7 @@ iab undeasyiness uneasiness
 iab undecritnaty uncertainty
 iab undedetacble undetectable
 iab undediced undecided
+iab undedr under
 iab undedrsriabile undesirable
 iab undeexpecfted unexpected
 iab undefefined undefined
@@ -38558,5 +38577,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab plannig planing
-iab cornfirming confirming
