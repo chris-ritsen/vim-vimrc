@@ -54,6 +54,7 @@ set cmdheight=1
 set comments+=fb:•
 set comments+=fb:~
 set comments+=fb:∙
+set comments+=fb:*
 set completeopt=
 set cpoptions=aABceFsJ "+=J
 set dictionary+=/usr/share/dict/words
