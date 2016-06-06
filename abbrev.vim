@@ -38558,3 +38558,5 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
+iab plannig planing
+iab cornfirming confirming
