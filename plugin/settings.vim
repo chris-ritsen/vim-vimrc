@@ -26,31 +26,6 @@ endif
 
 " General Settings {{{2
 
-" This is the universal default; not sure why the slash-splat is used 
-" set commentstring=#\ %s
-
-" set completeopt=menuone,menu,longest,preview
-
-" FIXME: This is messing with control of highlight elsewhere, and these 
-" overrides are invisible to the :highlight list
-
-" set hl+=D:DiffDelete,T:DiffText,>:SignColumn,-:Conceal
-
-" set hl=8:SpecialKey,@:NonText,d:Directory,e:ErrorMsg,i:IncSearch,l:Search
-
-" set hl+=!:CursorColumn,.:CursorLine,o:ColorColumn:set
-
-" set hl+=Bs
-" set hl+=Pn
-
-" set hl+=R:SpellRare,L:SpellLocal
-
-" set hl+=+:Pmenu,=:PmenuSel,x:PmenuSbar,X:PmenuThumb
-" set hl+=\*:TabLine,#:TabLineSel,_:TabLineFill
-" set hl+=m:MoreMsg,M:ModeMsg,n:LineNr,N:CursorLineNr,r:Question
-" set hl+=s:StatusLine,S:StatusLineNC,c:VertSplit,t:Title,v:Visual,V:VisualNOS
-" set hl+=w:WarningMsg,W\ :WildMenu,f:Folded,F:FoldColumn,A:DiffAdd,C:DiffChange
-
 set autoindent
 set autoread
 set backspace=eol,start,indent
@@ -217,9 +192,6 @@ set includeexpr=IncludeExpressionWhatever()
 " }}}
 
 " }}}
-
-" set t_Co=256
-" set ttimeoutlen=50
 
 "}}}1
 
