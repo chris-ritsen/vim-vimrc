@@ -38580,3 +38580,6 @@ iab ztaships starships
 iab stsarted started
 iab sopcket socket
 iab socekt socket
+iab plalist1 playlist
+iab curfrent current
+iab shjuffle shuffle
