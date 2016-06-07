@@ -7,11 +7,15 @@ if &tabpagemax < 50
   set tabpagemax=50
 endif
 
-if has('mouse_urxvt') && $TERM == 'rxvt-unicode-256color' && $TMUX == ''
-  " TODO: Interferes with tmux
-  set ttymouse=urxvt
-else
-  set ttymouse=xterm2
+if !has('nvim') 
+  set encoding=utf-8
+
+  if has('mouse_urxvt') && $TERM == 'rxvt-unicode-256color' && $TMUX == ''
+    " TODO: Interferes with tmux
+    set ttymouse=urxvt
+  else
+    set ttymouse=xterm2
+  endif
 endif
 
 if &diff
@@ -59,7 +63,6 @@ set completeopt=
 set cpoptions=aABceFsJ "+=J
 set dictionary+=/usr/share/dict/words
 set dir=~/.vim/swap//,/tmp//,.
-set encoding=utf-8
 set expandtab
 set fileformats+=mac
 set fillchars=
