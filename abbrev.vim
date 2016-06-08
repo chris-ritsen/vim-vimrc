@@ -1091,6 +1091,7 @@ iab Fiddlign Fiddling
 iab Fided Fixed
 iab Fiexed Fixed
 iab Figyure Figure
+iab Filenaem Filename
 iab Finace Finance
 iab Finrsihed Finished
 iab Finsiehd Finished
@@ -2776,6 +2777,7 @@ iab Refractorign Refactoring
 iab Refrences References
 iab Regeret Regret
 iab Regualr Regular
+iab Reimpmeent Reimplement
 iab Relaly Really
 iab Relatiopnsshiops Relationships
 iab Releslesnsess Restlessness
@@ -11326,6 +11328,7 @@ iab cuews cues
 iab cufnction function
 iab cuircles circles
 iab cuircuit circuit
+iab cuirrent current
 iab cuistomer customer
 iab culdtures cultures
 iab culmibinate culminate
@@ -11347,6 +11350,7 @@ iab cureent current
 iab curent current
 iab curernt current
 iab curewrnt current
+iab curfrent current
 iab curicial crucial
 iab curicuit circuit
 iab curiousities curiosities
@@ -11671,6 +11675,7 @@ iab decleopment development
 iab decliend declined
 iab declkare declare
 iab decnt decent
+iab decod3e decode
 iab decomishon decommission
 iab deconstrucdt deconstruct
 iab deconstrucdts deconstructs
@@ -14050,7 +14055,9 @@ iab einvolve involve
 iab einvorment environment
 iab einvronment environment
 iab eipisode episode
+iab eipside episode
 iab eipsode episode
+iab eipsodes episodes
 iab eiralier earlier
 iab eist exist
 iab eists exists
@@ -14068,6 +14075,7 @@ iab eixissence existence
 iab eixsietnce existence
 iab eixsisntg existing
 iab eixsting existing
+iab eixt exit
 iab eixtisting existing
 iab eixwting existing
 iab ekbyardo keyboard
@@ -16503,6 +16511,7 @@ iab figyuring figuring
 iab fihgts fights
 iab fijnished finished
 iab filded filed
+iab fileanemeds filenames
 iab fileds fields
 iab filenaem filename
 iab filenaems filenames
@@ -17143,6 +17152,7 @@ iab functioN function
 iab functioanl functional
 iab functionab functional
 iab functionalbity functionality
+iab functionali9ty functionality
 iab functionallity functionality
 iab functionaluity functionality
 iab functionaly functionality
@@ -19177,6 +19187,7 @@ iab impossiible impossible
 iab imposssible impossible
 iab imposter impostor
 iab impotant important
+iab impotrt import
 iab impove improve
 iab impprtance importance
 iab impprtant important
@@ -21616,6 +21627,7 @@ iab lenghth length
 iab lenghty lengthy
 iab lengtb length
 iab lengtehned lengthened
+iab lengtrh length
 iab lenigli9shentemtn enlightenment
 iab leqast least
 iab leran learn
@@ -25480,6 +25492,7 @@ iab palcing placing
 iab palec place
 iab pallete palette
 iab pallette palette
+iab pallylist playlist
 iab paln plan
 iab palnened planned
 iab palnned planned
@@ -26252,6 +26265,7 @@ iab phsyucial physical
 iab phtoo photo
 iab phtoos photos
 iab phtoots photos
+iab phtopots photos
 iab phtoto photo
 iab phtotos photos
 iab phuiscail physical
@@ -26359,6 +26373,7 @@ iab plahying playing
 iab plaibnu plain
 iab plaincy pliancy
 iab plaing playing
+iab plalist1 playlist
 iab plalnning planning
 iab plams palms
 iab planbet planet
@@ -28352,6 +28367,7 @@ iab radtional rational
 iab raeading reading
 iab raelly really
 iab raerely rarely
+iab ragne range
 iab ragqa raga
 iab raher rather
 iab rahter rather
@@ -28406,6 +28422,7 @@ iab razied raised
 iab rbeself oneself
 iab rbuy ruby
 iab rcecordings recordings
+iab rcold cold
 iab rcompletely completely
 iab rcomputer computer
 iab rcope scope
@@ -31261,6 +31278,8 @@ iab shithis this
 iab shiup ship
 iab shiupment shipment
 iab shiupmetns shipments
+iab shjows shows
+iab shjuffle shuffle
 iab shlec shelf
 iab shlef shelf
 iab shlev shelf
@@ -31650,6 +31669,7 @@ iab skillfyl skillful
 iab skillst skills
 iab skils skills
 iab skilsl skills
+iab skiop skip
 iab skirsts skirts
 iab skiup skip
 iab skjills skills
@@ -31818,6 +31838,7 @@ iab snumbers numbers
 iab sny any
 iab snyergy synergy
 iab socail social
+iab socekt socket
 iab socializzing socializing
 iab socieity society
 iab sockeft socket
@@ -32025,6 +32046,7 @@ iab soonn soon
 iab sooon soon
 iab sopacebar spacebar
 iab sopce scope
+iab sopcket socket
 iab sopeed speed
 iab sopent spent
 iab sophohhiticated sophisticated
@@ -32036,6 +32058,7 @@ iab soports sports
 iab sopt stop
 iab sordt sort
 iab sordted sorted
+iab sorrted sorted
 iab sorrtow sorrow
 iab sorryb sorry
 iab sorteded sorted
@@ -32777,6 +32800,7 @@ iab strying trying
 iab stryle style
 iab strztegety strategy
 iab stsack stack
+iab stsarted started
 iab stsble stable
 iab ststens systems
 iab ststus status
@@ -38577,10 +38601,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab stsarted started
-iab sopcket socket
-iab socekt socket
-iab plalist1 playlist
-iab curfrent current
-iab shjuffle shuffle
-iab alwyas always
