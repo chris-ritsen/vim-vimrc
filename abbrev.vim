@@ -1332,6 +1332,7 @@ iab Hpyer Hyper
 iab Hqvae Have
 iab Hrere Here
 iab Hsa Has
+iab Hsaving Having
 iab Hundres Hundreds
 iab Hvae Have
 iab Hvevenly Heavenly
@@ -6752,6 +6753,7 @@ iab atetemping attempting
 iab atetempt attempt
 iab atetention attention
 iab atetmpting attempting
+iab atetmtepting attempting
 iab atetnetion attention
 iab atetntion attention
 iab atewr water
@@ -7500,6 +7502,7 @@ iab becuase because
 iab becuazse because
 iab becuse because
 iab becvame became
+iab becvausde because
 iab becvause because
 iab becvauswe because
 iab becvfore before
@@ -10619,6 +10622,7 @@ iab contacdt contact
 iab contacdts contacts
 iab contacft contact
 iab contacteding contacting
+iab contacty contact
 iab contaft contact
 iab contaienr container
 iab contaier container
@@ -11503,6 +11507,7 @@ iab cvonformity conformity
 iab cvonsciousness consciousness
 iab cvonsoel console
 iab cvonstnat constant
+iab cvontacts contacts
 iab cvontemplation contemplation
 iab cvontext context
 iab cvoourse course
@@ -14189,6 +14194,7 @@ iab elanguages languages
 iab elanred learned
 iab elarier earlier
 iab elarluyer earlier
+iab elarnning learning
 iab elast last
 iab elave leave
 iab elaving leaving
@@ -19929,6 +19935,7 @@ iab infrmmatoin information
 iab infroaered infrared
 iab infroamtion information
 iab infroared infrared
+iab infroatmion information
 iab infromatin information
 iab infromation information
 iab infromational informational
@@ -19998,6 +20005,7 @@ iab initialllly initially
 iab inititaite initiate
 iab initital initial
 iab inititalise initialise
+iab inititally initially
 iab inititate initiate
 iab initlaize initialize
 iab initliaize initialize
@@ -24234,6 +24242,7 @@ iab nonsese nonsense
 iab nonsesne nonsense
 iab nonsnesne nonsense
 iab nooise noise
+iab nooises noises
 iab noosense nuisance
 iab nopt not
 iab nopthbing nothing
@@ -27330,6 +27339,7 @@ iab predispoistion predisposition
 iab preducates predicates
 iab preeceived perceived
 iab preemets preempts
+iab preempetivley preemptively
 iab preemtpive preemptive
 iab preent present
 iab preepration preparation
@@ -27858,6 +27868,7 @@ iab profiel profile
 iab profiels profiles
 iab profiessionatal professional
 iab profiound profound
+iab profivilege privilege
 iab profoiund profound
 iab profreading proofreading
 iab profrssionalism professionalism
@@ -28987,6 +28998,7 @@ iab redstore restore
 iab redsutl result
 iab reducded reduced
 iab reducte reduce
+iab reducxce reduce
 iab redudancy redundancy
 iab redudant redundant
 iab redudent redundant
@@ -36541,6 +36553,7 @@ iab unklearn unlearn
 iab unklikely unlikely
 iab unknon unknown
 iab unknonw unknown
+iab unknowen unknown
 iab unknowne unknown
 iab unknowningly unknowingly
 iab unknwione unknown
@@ -36704,6 +36717,7 @@ iab unusuual unusual
 iab unuusal unusual
 iab unuusual unusual
 iab unviersae universe
+iab unware unaware
 iab unwareare unaware
 iab unwatcdhed unwatched
 iab unwathecd unwatched
