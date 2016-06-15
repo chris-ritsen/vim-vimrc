@@ -310,7 +310,7 @@ autocmd! Syntax vim setlocal foldmethod=marker | normal zM
 
 " Python {{{
 
-autocmd! Syntax python setlocal suffixesadd+=.py foldmethod=indent shiftwidth=2 softtabstop=2 commentstring=#\ %s 
+autocmd! Syntax python setlocal suffixesadd+=.py foldmethod=indent expandtab shiftwidth=2 softtabstop=2 commentstring=#\ %s 
 
 " }}}
 
