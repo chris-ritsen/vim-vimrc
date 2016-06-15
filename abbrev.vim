@@ -377,6 +377,7 @@ iab Cleearly Clearly
 iab Cliarify Clarify
 iab Cliche Cliché
 iab Cliched Clichéd
+iab Cllection Collection
 iab Clsoe Close
 iab Clsoely Closely
 iab Cmomputers Computers
@@ -3255,6 +3256,7 @@ iab Staretd Started
 iab Staritng Starting
 iab Statew State
 iab Statge Stage
+iab Stepghen Stephen
 iab Steragetgy Strategy
 iab Stgarting Starting
 iab Stimiulating Stimulating
@@ -4100,6 +4102,7 @@ iab Wwrirting Writing
 iab XCHris Chris
 iab XCOmputer Computer
 iab XChecking Checking
+iab XCopying Copying
 iab XCracking Cracking
 iab Xhris Chris
 iab Xptiaions Captains
@@ -7168,6 +7171,7 @@ iab aweaske awake
 iab aweay away
 iab awebsolyutely absolutely
 iab aweful awful
+iab awefyul awful
 iab awekae awake
 iab aweknoweledbed acknowledged
 iab awekward awkward
@@ -10311,6 +10315,7 @@ iab conistraining constraining
 iab conitinue continue
 iab conitjnously contiguously
 iab conitnue continue
+iab conitnuiing continuing
 iab conitnuiong continuing
 iab conitnuous continuous
 iab conitonioyusluy continuously
@@ -10755,6 +10760,7 @@ iab continuueum continuum
 iab continuuously continuously
 iab continuutity continuity
 iab continyous continuous
+iab continyue continue
 iab continyuinig continuing
 iab contiojue continue
 iab contionious continuous
@@ -18320,6 +18326,7 @@ iab hioenstly honestly
 iab hioghest highest
 iab hiolicay holiday
 iab hiopefully hopefully
+iab hiours hours
 iab hipe hope
 iab hipet hipset
 iab hipocamous hippocampus
@@ -26567,6 +26574,7 @@ iab plalist1 playlist
 iab plalnning planning
 iab plams palms
 iab planbet planet
+iab planened planned
 iab planeted planted
 iab planneed planned
 iab plannig planing
@@ -30437,6 +30445,7 @@ iab rroad road
 iab rsee see
 iab rsepond respond
 iab rseume resume
+iab rsik risk
 iab rslae false
 iab rsponse response
 iab rsponsisve responsive
@@ -33013,6 +33022,7 @@ iab stroage storage
 iab strogfing storing
 iab stroging storing
 iab stronbgly strongly
+iab stronfgly strongly
 iab stronlgly strongly
 iab strooll stroll
 iab strorngly strongly
@@ -34179,6 +34189,7 @@ iab televlision television
 iab telexscope telescope
 iab telleviesion television
 iab telll tell
+iab teltevision television
 iab telveigion television
 iab telvelvision television
 iab telvigision television
@@ -35264,6 +35275,7 @@ iab topci topic
 iab topcially topically
 iab topcis topics
 iab topcui topic
+iab topday today
 iab topicd topic
 iab topicds topics
 iab topicsd topics
@@ -35649,6 +35661,7 @@ iab tryifng trying
 iab tryign trying
 iab tryihng trying
 iab tryin trying
+iab tryinfg trying
 iab tryingh trying
 iab tryinig trying
 iab tryly truly
@@ -36602,6 +36615,7 @@ iab unnecssary unnecessary
 iab unnencessary unnecessary
 iab unnesseary unnecessary
 iab unnesssaryt unnecessary
+iab unninstalled uninstalled
 iab unnintreripted uninterrupted
 iab unnonticesd unnoticed
 iab unnoticfed unnoticed
@@ -38326,6 +38340,7 @@ iab wqithout without
 iab wqlality quality
 iab wqorks works
 iab wqtching watching
+iab wqthcg watch
 iab wqual equal
 iab wquestion question
 iab wquestions questions
