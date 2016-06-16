@@ -56,7 +56,7 @@ set formatlistpat=^\\s*\\d\\+[\\]:.)}\\t\ ]\\s*\\\|^\\*\\s*\|^\\s*∙\\s*\|^\\s*
 set formatoptions+=nj
 
 set guiheadroom=0
-set nrformats=octal,hex
+set nrformats=hex
 set hidden
 set history=10000
 set ignorecase

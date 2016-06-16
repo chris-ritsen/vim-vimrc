@@ -666,6 +666,7 @@ iab Destoryed Destroyed
 iab Destrohy Destroy
 iab Desulrtrory Desultory
 iab Detatching Detaching
+iab Detecvt Detect
 iab Detials Details
 iab Detoirt Detroit
 iab Detorit Detroit
@@ -3271,6 +3272,7 @@ iab Strage Stage
 iab Stranbe Strange
 iab Strony Strong
 iab Strorage Storage
+iab Strupdi Stupid
 iab Stuido Studio
 iab Stydy Study
 iab Styelsheets Stylesheets
@@ -6360,6 +6362,7 @@ iab aprtment apartment
 iab aprtments apartments
 iab apsect aspect
 iab apsiriations aspirations
+iab apsirin aspirin
 iab aptch patch
 iab apth path
 iab apwepr paper
@@ -6641,6 +6644,7 @@ iab aspelled spelled
 iab aspexcts aspects
 iab aspexts aspects
 iab aspirnk aspirin
+iab aspiron aspirin
 iab asprin aspirin
 iab aspurin aspirin
 iab aspyrin aspirin
@@ -7549,6 +7553,7 @@ iab beforwe before
 iab beftter better
 iab befure before
 iab befvacyse because
+iab befvcore before
 iab befverages beverages
 iab befvore before
 iab begaan began
@@ -9591,6 +9596,7 @@ iab comfortalbeyl comfortably
 iab comfortant comfort
 iab comfport comfort
 iab comfputer computer
+iab comfrotable comfortable
 iab comging combing
 iab comibnation combination
 iab comicile domicile
@@ -9707,6 +9713,7 @@ iab comon common
 iab comonapines companies
 iab comondeers commandeers
 iab comopanies companies
+iab comopicated complicated
 iab comopnetns components
 iab comoposers composers
 iab comoposiution composition
@@ -10769,6 +10776,7 @@ iab contionoiulsyu continuously
 iab contionous continuous
 iab contionously continuously
 iab contionue continue
+iab contionued continued
 iab contionuing continuing
 iab contionyuoing continuing
 iab contiooiuslsyl continuously
@@ -11171,6 +11179,7 @@ iab cotnently contently
 iab cotnents contents
 iab cotninu7e continue
 iab cotninue continue
+iab cotnninue continue
 iab cotnorl control
 iab cotnrolled controlled
 iab cotnroller controller
@@ -13463,6 +13472,7 @@ iab dr4ive drive
 iab dr8ink drink
 iab draaws draws
 iab drafgon dragon
+iab draink drank
 iab drammaitically dramatically
 iab drammatic dramatic
 iab dramnatic dramatic
@@ -14656,6 +14666,7 @@ iab enjooyuable enjoyable
 iab enjouy enjoy
 iab enjoyalbge enjoyable
 iab enjoyasble enjoyable
+iab enjoyedn enjoyed
 iab enjoygtable enjoyable
 iab enjoyu enjoy
 iab enlage enlarge
@@ -16380,6 +16391,7 @@ iab faeded faded
 iab faield failed
 iab faild failed
 iab failpyre failure
+iab failrly fairly
 iab failry fairly
 iab failture failure
 iab failtying failing
@@ -18086,6 +18098,7 @@ iab headhones headphones
 iab headign heading
 iab headiphones headphones
 iab headoagche headache
+iab headpache headache
 iab headpbones headphones
 iab headphens headphones
 iab headpheosn headphones
@@ -20761,6 +20774,7 @@ iab iother other
 iab iotherwise otherwise
 iab iout out
 iab ioverwrite overwrite
+iab ipburpohoen ibuprofen
 iab iphlone iphone
 iab ipieces pieces
 iab ipliations implications
@@ -21605,6 +21619,7 @@ iab lawte late
 iab lawys laws
 iab laxirty laxity
 iab laxt last
+iab layed laid
 iab layhout layout
 iab layhtouts layouts
 iab layndry laundry
@@ -23455,6 +23470,7 @@ iab monid mind
 iab monidfiying modifying
 iab monintors monitors
 iab moniootionous monotonous
+iab moniteso monitors
 iab monitony monotony
 iab monitopr monitor
 iab monitorin monitoring
@@ -25922,6 +25938,7 @@ iab paunfiul painful
 iab pauritcyualr particular
 iab paus3 pause
 iab pause3 pause
+iab pauseddd paused
 iab pausse pause
 iab pauyse pause
 iab pawdding padding
@@ -27985,6 +28002,7 @@ iab promotp prompt
 iab promotps prompts
 iab promply promptly
 iab prompoute promote
+iab prompping propping
 iab promppted prompted
 iab promption promotion
 iab promsies promises
@@ -28263,6 +28281,7 @@ iab pudzzling puzzling
 iab puerilie puerile
 iab pugin plugin
 iab puiece piece
+iab puillows pillows
 iab punchign punching
 iab punctiation punctuation
 iab punctuartion punctuation
@@ -30059,6 +30078,7 @@ iab retursns returns
 iab returtn return
 iab returtning returning
 iab retutn return
+iab retutrn return
 iab retuyrn return
 iab retyrb return
 iab retyurn return
@@ -32073,6 +32093,7 @@ iab snetnencing sentencing
 iab snetnende sentence
 iab snew new
 iab sniice since
+iab sniipet snippet
 iab sniippets snippets
 iab snking sinking
 iab snnow snow
@@ -34870,6 +34891,7 @@ iab thoings things
 iab thoinik think
 iab thoinking thinking
 iab thois this
+iab thorat throat
 iab thorhoughly thoroughly
 iab thorioughly thoroughly
 iab thorogh through
@@ -35168,6 +35190,7 @@ iab todaty today
 iab todauy today
 iab todawy today
 iab todayh today
+iab todayl today
 iab todayq today
 iab todayu today
 iab todday today
@@ -37339,6 +37362,7 @@ iab voiecemails voicemails
 iab voiew view
 iab voing going
 iab voive voice
+iab vokda vodka
 iab volcal vocal
 iab volcalizations vocalizations
 iab volidile volatile
@@ -37407,6 +37431,7 @@ iab wahave have
 iab wahen when
 iab waht what
 iab wahtefver whatever
+iab wahter water
 iab wahterever whatever
 iab wahtever whatever
 iab wahtewver whatever
@@ -38033,6 +38058,7 @@ iab winnner winner
 iab winodw window
 iab winudow window
 iab winwdoerful wonderful
+iab wioke woke
 iab wiold wield
 iab wiords words
 iab wiork work
