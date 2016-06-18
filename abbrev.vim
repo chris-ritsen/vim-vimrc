@@ -6683,12 +6683,15 @@ iab asrise arise
 iab assaets assets
 iab assaociated associated
 iab asscoftioaion association
+iab assedessment assessment
 iab asseessment assessment
+iab assemssment assessment
 iab assertation assertion
 iab assertiaion assertion
 iab assertiion assertion
 iab assertino assertion
 iab assesement assessment
+iab assesmsmetn assessment
 iab assessmetn assessment
 iab assewts assets
 iab assiciatecd associated
@@ -9507,6 +9510,7 @@ iab cofmort comfort
 iab cofngi config
 iab cofnig config
 iab cofnigured configured
+iab cofnrim confirm
 iab cofucs focus
 iab cognitigtve cognitive
 iab cohereent coherent
@@ -15694,6 +15698,7 @@ iab exactlyy exactly
 iab exacxetrly exactly
 iab exagegeration exaggeration
 iab exalain explain
+iab exame exam
 iab exames exams
 iab examiniation examination
 iab examiniing examining
@@ -20465,6 +20470,7 @@ iab intellgent intelligent
 iab intellicgaence intelligence
 iab intelliginble intelligible
 iab intenatley intimately
+iab intendded intended
 iab intendend intended
 iab intendets indents
 iab intendnetgd intended
@@ -27213,6 +27219,7 @@ iab possiession possession
 iab possigsilbe possible
 iab possilbiyt possibly
 iab possilby possibly
+iab possiobilty possibility
 iab possiotion position
 iab possition position
 iab posslby possibly

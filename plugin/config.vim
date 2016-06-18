@@ -217,6 +217,8 @@ let g:sparkupNextMapping = ""
 
 " general settings {{{
 
+let g:syntastic_python_checkers=['flake8', 'pylint']
+let g:syntastic_python_flake8_args='--ignore=W391,E121'
 let g:syntastic_c_compiler_options = '-std=c11 -include stdio.h'
 let g:syntastic_cpp_compiler_options = '-std=c++11'
 let g:syntastic_css_csslint_args = '--ignore box-sizing,unique-headings'
@@ -237,6 +239,7 @@ let g:syntastic_mode_map = {
   \ 'less',
   \ 'lisp',
   \ 'php',
+  \ 'python',
   \ 'ruby',
   \ 'typescript',
   \ 'xml'
