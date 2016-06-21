@@ -501,6 +501,7 @@ iab Coommercials Commercials
 iab Copule Couple
 iab Copywright Copyright
 iab Correcdlty Correctly
+iab Correctes Corrects
 iab Corredcting Correcting
 iab Correlclty Correctly
 iab Cosnciousness Consciousness
@@ -2887,6 +2888,7 @@ iab Riten Ritsen
 iab Ritnsen Ritsen
 iab Rits4en Ritsen
 iab Ritsen4 Ritsen
+iab Ritsenn Ritsen
 iab Ritsne Ritsen
 iab Ritsnee Ritsen
 iab Ritsnen Ritsen
@@ -8562,6 +8564,7 @@ iab camnn can
 iab camoflage camouflage
 iab campaighns campaigns
 iab campaigsn campaigns
+iab camra camera
 iab camreas cameras
 iab camteras cameras
 iab canb can
@@ -17266,6 +17269,7 @@ iab frormat format
 iab frowzen frozen
 iab frpm from
 iab frquently frequently
+iab frrame frame
 iab frsutrated frustrated
 iab fruidts fruits
 iab fruitds fruits
@@ -20528,6 +20532,7 @@ iab interdpependent interdependent
 iab intereacions interactions
 iab intereacting interacting
 iab intereaction interaction
+iab intereested interested
 iab intereesting interesting
 iab intereface interface
 iab interefaces interfaces
@@ -20769,6 +20774,7 @@ iab intrugied intrigued
 iab intruguing intriguing
 iab intruiging intriguing
 iab intrustive intrusive
+iab intt3erested interested
 iab intterupted interrupted
 iab intuiotion intuition
 iab intuiotions intuitions
@@ -25087,6 +25093,7 @@ iab omn on
 iab omnicompleete omnicomplete
 iab omnifunct onmifunc
 iab omnipitant omnipotent
+iab omoment moment
 iab omoments moments
 iab omore more
 iab omplext complex
@@ -27550,6 +27557,7 @@ iab preetty pretty
 iab prefenrences preferences
 iab preferabley preferably
 iab preferaibly preferably
+iab preferalbe preferable
 iab prefereable preferable
 iab prefereacnes preferences
 iab prefereanceble preferable
@@ -27563,6 +27571,7 @@ iab prefernce preference
 iab preferrable preferable
 iab preferrably preferably
 iab preferrede preferred
+iab preferreded preferred
 iab preferrign preferring
 iab prefescriptions prescriptions
 iab preffered preferred
@@ -29133,6 +29142,7 @@ iab recordingd recording
 iab recordingds recordings
 iab recordingsd recordings
 iab recordsinge recordings
+iab recored record
 iab recoredcings recordings
 iab recoredd record
 iab recoreded recorded
@@ -30501,6 +30511,7 @@ iab rleasign releasing
 iab rleiance reliance
 iab rleivrf relief
 iab rletters letters
+iab rmains remains
 iab rmaintiangin maintaining
 iab rmeanin remain
 iab rmeember remember
@@ -37338,6 +37349,7 @@ iab vcideo video
 iab vciew view
 iab vcruicial crucial
 iab vdevelopment development
+iab vdideo video
 iab vdido video
 iab vdieeo video
 iab vdieo video
@@ -38443,6 +38455,7 @@ iab wone one
 iab woorking working
 iab woould would
 iab woprk work
+iab wopy copy
 iab wor work
 iab wordddd word
 iab wordf word
