@@ -1029,6 +1029,7 @@ iab FActs Facts
 iab FArmington Farmington
 iab FEatureless Featureless
 iab FEderal Federal
+iab FEderation Federation
 iab FEeeidng Feeding
 iab FEeel Feel
 iab FEeling Feeling
@@ -3047,6 +3048,7 @@ iab STagre Stage
 iab STand Stand
 iab STandard Standard
 iab STar Star
+iab STarfleet Starfleet
 iab STaring Staring
 iab STart Start
 iab STarting Starting
@@ -4098,6 +4100,7 @@ iab Woek Woke
 iab Woithout Without
 iab Wokring Working
 iab Wokrs Works
+iab Woprf Worf
 iab Woreke Worked
 iab Woriking Working
 iab Worires Worries
@@ -4110,6 +4113,7 @@ iab Workted Worked
 iab Wortks Works
 iab Woudl Would
 iab Wouln Wouldn
+iab Wouyld Would
 iab Wreiting Writing
 iab Wrihat What
 iab Wriiting Writing
@@ -5735,6 +5739,7 @@ iab annyong annoying
 iab annyyoing annoying
 iab anoather another
 iab anod and
+iab anoether another
 iab anohter another
 iab anoitehr another
 iab anolog analog
@@ -7890,6 +7895,7 @@ iab biolerplate boilerplate
 iab bioligy biology
 iab biolocigical biological
 iab biorder border
+iab biotterness bitterness
 iab birdds birds
 iab bireef brief
 iab biref brief
@@ -7909,6 +7915,7 @@ iab bision vision
 iab bisiting visiting
 iab bitcioins bitcoins
 iab bithces bitches
+iab bitternesss bitterness
 iab biuld build
 iab biuldings buildings
 iab biuldpack buildpack
@@ -24062,6 +24069,7 @@ iab nearlyu nearly
 iab neasrntly neatly
 iab neaver never
 iab neawrly nearly
+iab nec4esasry necessary
 iab necassary necessary
 iab neccessary necessary
 iab necedsarily necessarily
@@ -24748,6 +24756,7 @@ iab obsvserve observe
 iab obtaineed obtained
 iab obtaion obtain
 iab obtaioned obtained
+iab obth both
 iab obttom bottom
 iab obught bought
 iab obuosvly obviously
@@ -39110,6 +39119,7 @@ iab yues yes
 iab yuesterday yesterday
 iab yunchangeable unchangeable
 iab yunder under
+iab yundersnad understand
 iab yunderstanding understanding
 iab yundvovered uncovered
 iab yungrammicatcialy ungrammatically
