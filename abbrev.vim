@@ -66,6 +66,7 @@ iab Accitenyt Accident
 iab Accplmplisihing Accomplishing
 iab Actiually Actually
 iab Acutaully Actually
+iab Adatper Adapter
 iab Adavnce Advance
 iab Adderal Adderall
 iab Additonally Additionally
@@ -291,6 +292,7 @@ iab COndiser Consider
 iab COnfirmed Confirmed
 iab COnner Conner
 iab COnosle Console
+iab COnsole Console
 iab COntact Contact
 iab COntorsl Controls
 iab COudl Could
@@ -432,6 +434,7 @@ iab Consequ3ence Consequence
 iab Considder Consider
 iab Consiidering Considering
 iab Consioussness Consciousness
+iab Consoel Console
 iab Conspicious Conspicuous
 iab Conssciousness Consciousness
 iab Constawnt Constant
@@ -907,6 +910,7 @@ iab Englisuh English
 iab Englsih English
 iab Englusi English
 iab Engoislh English
+iab Engune Engine
 iab Enmglish English
 iab Ensighn Ensign
 iab Enteirng Entering
@@ -1072,6 +1076,7 @@ iab FOrty Forty
 iab FOrutnatley Fortunately
 iab FOrward Forward
 iab FOund Found
+iab FOunded Founded
 iab FOunders Founders
 iab FOur Four
 iab FRAming Framing
@@ -1330,6 +1335,7 @@ iab Howevefr However
 iab However3 However
 iab Howevfer However
 iab Howlett Hewlett
+iab Howq How
 iab Howve3r4 However
 iab Howveer However
 iab Howveferr However
@@ -2058,6 +2064,7 @@ iab Newpoirt Newport
 iab Nexdt Next
 iab Nexst Next
 iab Nexty Next
+iab Neytwork Network
 iab Nhisance Nuisance
 iab Nibbana Nibbāna
 iab Niola Nickla
@@ -2643,6 +2650,7 @@ iab REcipient Recipient
 iab REcipoieuint Recipient
 iab REcoiommendations Recommendations
 iab REcompile Recompile
+iab REcord Record
 iab REcorded Recorded
 iab REcords Records
 iab REcreate Recreate
@@ -2785,6 +2793,9 @@ iab RThis This
 iab RTired Tired
 iab RTun Run
 iab RUn Run
+iab Rachale Rachael
+iab Racheal Rachael
+iab Racheale Rachel
 iab Radient Radiant
 iab Rahter Rather
 iab Randm Random
@@ -2888,6 +2899,7 @@ iab Ristnwe Ritsen
 iab Riten Ritsen
 iab Ritnsen Ritsen
 iab Rits4en Ritsen
+iab Ritsedn Ritsen
 iab Ritsen4 Ritsen
 iab Ritsenn Ritsen
 iab Ritsne Ritsen
@@ -3126,6 +3138,7 @@ iab Sebastion Sebastian
 iab Seciobd Second
 iab Secirytity Security
 iab Secruity Security
+iab Secrutiy Security
 iab Sectopino Sectoring
 iab Secuitrty Security
 iab Securuty Security
@@ -4117,6 +4130,7 @@ iab Wouyld Would
 iab Wreiting Writing
 iab Wrihat What
 iab Wriiting Writing
+iab Wriote Write
 iab Wrirting Writing
 iab Writihn Writing
 iab Writr5ing Writing
@@ -6485,6 +6499,7 @@ iab argment argument
 iab argmnuemtns arguments
 iab argmuemtns arguments
 iab argmuetnns arguments
+iab argss args
 iab arguemnts arguments
 iab arguemtnes arguments
 iab arguemtns arguments
@@ -8642,6 +8657,7 @@ iab captial capital
 iab captialisation capitalisation
 iab captian captain
 iab captiojn caption
+iab capturiing capturing
 iab capturwe capture
 iab caqble cable
 iab caracter character
@@ -9229,6 +9245,7 @@ iab clasisic classic
 iab classamic classic
 iab classees classes
 iab classicall classical
+iab classs class
 iab classses classes
 iab classsic classic
 iab classssic classic
@@ -11919,6 +11936,7 @@ iab defecdts defects
 iab defeinsiveneess defensiveness
 iab defeintely definitely
 iab defelopment development
+iab defeneer defender
 iab defent defend
 iab defeulments defilements
 iab deffined defined
@@ -13773,6 +13791,7 @@ iab dveam dream
 iab dveeloper developer
 iab dveelpeoped developed
 iab dveelpment development
+iab dveice device
 iab dveices devices
 iab dveleoper developer
 iab dveleopre developer
@@ -14787,6 +14806,7 @@ iab enlightnmemt enlightenment
 iab enlugh enough
 iab enmoough enough
 iab enmtpy empty
+iab enmu enum
 iab ennds ends
 iab ennergy energy
 iab enngineering engineering
@@ -24589,6 +24609,7 @@ iab nwew new
 iab nwo now
 iab nwrap nowrap
 iab nwtork network
+iab nwtowrk network
 iab nwwton newton
 iab nymber number
 iab nything anything
@@ -26349,6 +26370,7 @@ iab perfomrances performances
 iab perfomred performed
 iab perfomring performing
 iab perfomrmed performed
+iab perforamce performance
 iab perforamnce performance
 iab perforance performance
 iab perforemed performed
@@ -29179,6 +29201,7 @@ iab recrationtal recreational
 iab recreasete recreate
 iab recreattions recreations
 iab recriotedr recruiter
+iab recrodign recording
 iab recruiging recruiting
 iab recruruiter recruiter
 iab recrutiers recruiters
@@ -31233,6 +31256,7 @@ iab sectret secret
 iab sectuion section
 iab seculded secluded
 iab seculuction seclusion
+iab securirty security
 iab securly securely
 iab securtity security
 iab securuty security
@@ -31837,6 +31861,7 @@ iab shumpment shipment
 iab shup ship
 iab shupment shipment
 iab shurely surely
+iab shutul shutil
 iab shuyt shut
 iab shxousl should
 iab siad said
@@ -34433,6 +34458,7 @@ iab telelecvbiision television
 iab telelviision television
 iab telelvision television
 iab telelvisoin television
+iab telemtry telemetry
 iab telephaty telepathy
 iab telescoope telescope
 iab telescpe telescope
@@ -37840,6 +37866,7 @@ iab webkity webkit
 iab webkiut webkit
 iab webocket websocket
 iab weboskcet websocket
+iab webscam webcam
 iab webscsokets websockets
 iab webserfver webserver
 iab webservefr webserver
