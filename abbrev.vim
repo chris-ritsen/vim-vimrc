@@ -1995,6 +1995,7 @@ iab MsacBook Macbook
 iab Msotly Mostly
 iab Msucles Muscles
 iab Muichigan Michigan
+iab Mulptile Multiple
 iab Musch Much
 iab Myabe Maybe
 iab Myu My
@@ -3064,6 +3065,7 @@ iab STarfleet Starfleet
 iab STaring Staring
 iab STart Start
 iab STarting Starting
+iab STartup Startup
 iab STate State
 iab STates States
 iab STay Stay
@@ -3272,6 +3274,7 @@ iab Speciiffilyaly Specifically
 iab Speciifially Specifically
 iab Specrum Spectrum
 iab Speeidng Speeding
+iab Speicfic Specific
 iab Spellchevk Spellcheck
 iab Spengindg Spending
 iab Spining Spinning
@@ -16717,6 +16720,7 @@ iab fgoal goal
 iab fgoing going
 iab fgor for
 iab fgorm form
+iab fgot got
 iab fgoverner governor
 iab fgunction function
 iab fi9les files
@@ -20681,6 +20685,7 @@ iab intervice interview
 iab intervicew interview
 iab interviefw interview
 iab intervieqw interview
+iab intervieqws interviews
 iab intervier interview
 iab intervies interviews
 iab intervievw interview
@@ -27138,6 +27143,7 @@ iab posessing possessing
 iab posi4tion position
 iab posiblble possible
 iab posible possible
+iab posigblbe possible
 iab posiiotiosn positions
 iab posiiotn position
 iab posiition position
@@ -29137,6 +29143,7 @@ iab recnet recent
 iab recnetly recently
 iab recnetrly recently
 iab recnt3elty recently
+iab recntely recently
 iab recoerd record
 iab recogfniehse recognise
 iab recogfnize recognize
@@ -32815,6 +32822,7 @@ iab sqwitch switch
 iab srangley strangely
 iab srarted started
 iab sreach search
+iab sreen screen
 iab srestart restart
 iab srevearl several
 iab srever server
@@ -32944,6 +32952,7 @@ iab starying straying
 iab stasndard standard
 iab stasrt start
 iab stasrted started
+iab stasrutp startup
 iab stastus status
 iab stasying staying
 iab statees states
@@ -33900,6 +33909,7 @@ iab swent went
 iab swereverd swerved
 iab swerv3er server
 iab swerver server
+iab swession session
 iab swetp swept
 iab swetup setup
 iab sweven seven
@@ -34367,6 +34377,7 @@ iab techonolgies technologies
 iab techonoligical technological
 iab techonologty technology
 iab techqnitues techniques
+iab techtical technical
 iab tecnical technical
 iab tecvhnique technique
 iab tedation sedation
@@ -37556,6 +37567,7 @@ iab visibillie visible
 iab visibilty visibility
 iab visibl visible
 iab visibuility visibility
+iab visibvle visible
 iab visidble visible
 iab visiion vision
 iab visilble visible
@@ -38488,7 +38500,6 @@ iab wonderous wondrous
 iab wondersa wonders
 iab wondwer wonder
 iab wondwering wondering
-iab wone one
 iab woorking working
 iab woould would
 iab woprk work
@@ -38959,6 +38970,7 @@ iab yeserday yesterday
 iab yesgterday yesterday
 iab yesreas years
 iab yess yes
+iab yestdrday yesterday
 iab yestearady yesterday
 iab yesteardy yesterday
 iab yesteardya yesterday
