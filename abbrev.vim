@@ -709,6 +709,7 @@ iab Dicontinuitiy Discontinuity
 iab Differnet Different
 iab Digiital Digital
 iab Digittal Digital
+iab Digstusted Disgusted
 iab Diiodt Idiot
 iab Dilbewrt Dilbert
 iab Dillbert Dilbert
@@ -755,6 +756,7 @@ iab Drooop Droop
 iab Drsribe Describe
 iab Drunking Drinking
 iab Dsiable Disable
+iab Dsiguststed Disgusted
 iab Duratoin Duration
 iab Dveelopement Development
 iab Dveloped Developed
@@ -2288,6 +2290,7 @@ iab PRojects Projects
 iab PRtacityce Practice
 iab PUblic Public
 iab PUlling Pulling
+iab PUppy Puppy
 iab PUrchase Purchase
 iab Paaramtneeers Parameters
 iab Paarmanters Parameters
@@ -2943,6 +2946,7 @@ iab Ryhymes Rhymes
 iab Ryna Ryan
 iab Ryoayl Royal
 iab Rythem Rhythm
+iab SAd Sad
 iab SAhe She
 iab SAlmost Almost
 iab SAme Same
@@ -3378,6 +3382,7 @@ iab TEantatnaive Tentative
 iab TEantive Tentative
 iab TEanttaitve Tentative
 iab TEchicnal Technical
+iab TEchincdal Technical
 iab TEchnical Technical
 iab TEchnique Technique
 iab TEchniquqe Technique
@@ -5554,6 +5559,7 @@ iab alwasys always
 iab alwayas always
 iab alwayss always
 iab alwayus always
+iab alwive alive
 iab alwqasys always
 iab alwyas always
 iab alwyasm always
@@ -5741,6 +5747,7 @@ iab annonmous anonymous
 iab annooyed annoyed
 iab annooynace annoyance
 iab annouing annoying
+iab annoyabces annoyances
 iab annoyanbce annoyance
 iab annoyannce annoyance
 iab annoybnace annoyance
@@ -5801,6 +5808,7 @@ iab ansering angering
 iab ansering answering
 iab ansers answers
 iab ansewr answer
+iab ansewred answered
 iab anstronomers astronomers
 iab answer5s answers
 iab answerd answers
@@ -5966,6 +5974,7 @@ iab anywa anyway
 iab anywasys anyways
 iab anywayehere anywhere
 iab anywehre anywhere
+iab anyweysa anyway
 iab anywhay anyway
 iab anywher anywhere
 iab anywherew anywhere
@@ -9351,6 +9360,7 @@ iab closelty closely
 iab closethes clothes
 iab closewd closed
 iab closewr closer
+iab closhing closing
 iab closign closing
 iab closiung closing
 iab closlely closely
@@ -11911,6 +11921,7 @@ iab decude decide
 iab decvice device
 iab decvices devices
 iab decxetirty dexterity
+iab dedal deal
 iab dedcdribe describe
 iab dedcidign deciding
 iab dedevlopmenet development
@@ -23296,6 +23307,7 @@ iab miontues minutes
 iab mionute minute
 iab mionutes minutes
 iab miost most
+iab miouth mouth
 iab mipcrhone microphone
 iab miprepare prepare
 iab miricle miracle
@@ -25610,6 +25622,7 @@ iab othewrise otherwise
 iab othewriwse otherwise
 iab othger other
 iab othings things
+iab othw3erise otherwise
 iab othyer other
 iab oticed noticed
 iab otime time
@@ -25800,6 +25813,7 @@ iab oyt out
 iab oyu you
 iab oyur your
 iab oyut out
+iab p0lan plan
 iab p4ereopective perspective
 iab p4eriods periods
 iab p4ractice practice
@@ -30519,6 +30533,7 @@ iab righly rightly
 iab rightb right
 iab rightn right
 iab rightr right
+iab rightr5 right
 iab rightrj right
 iab rightt right
 iab rigit rigid
@@ -33061,6 +33076,7 @@ iab stiarcate staircase
 iab stiars sitars
 iab sticdky sticky
 iab sticekr sticker
+iab stichtches stitches
 iab stie site
 iab stigmitized stigmatized
 iab stiill still
@@ -33196,6 +33212,7 @@ iab stratetgy strategy
 iab strcit strict
 iab streaight straight
 iab streained strained
+iab streatches stretches
 iab streatching stretching
 iab strech stretch
 iab streching stretching
@@ -38970,6 +38987,7 @@ iab yeserday yesterday
 iab yesgterday yesterday
 iab yesreas years
 iab yess yes
+iab yestaerday yesterday
 iab yestdrday yesterday
 iab yestearady yesterday
 iab yesteardy yesterday
