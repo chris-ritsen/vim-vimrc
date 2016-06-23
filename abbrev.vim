@@ -85,6 +85,7 @@ iab Aftert After
 iab Againl Again
 iab Againu Again
 iab Aghhast Aghast
+iab Aglie Agile
 iab Ahving Having
 iab Aircaraft Aircraft
 iab Airial Arial
@@ -1147,6 +1148,7 @@ iab Fopr For
 iab Forewward Foreword
 iab Formerely Formerly
 iab Foudn Found
+iab Foudned Founded
 iab Foundaintion Foundation
 iab Fransiciso Fransisco
 iab Freequency Frequency
@@ -1162,6 +1164,7 @@ iab Fuction Function
 iab Functoins Functions
 iab Fundamnentally Fundamentally
 iab Futlers Filters
+iab GBeck Beck
 iab GBut But
 iab GBy Gaby
 iab GEnerate Generate
@@ -1903,6 +1906,13 @@ iab Maybye Maybe
 iab Mayhbe Maybe
 iab Mayhble Maybe
 iab Maynbe Maybe
+iab Mchieelele Michelle
+iab Mchiele Michelle
+iab Mchieleel Michelle
+iab Mchielel Michelle
+iab Mchielele Michelle
+iab Mchielle Michelle
+iab Mchienlle Michelle
 iab Mchigan Michigan
 iab Mcicighan Michigan
 iab Meanahiwle Meanwhile
@@ -1931,17 +1941,24 @@ iab Metephor Metaphor
 iab Metroit Metro
 iab Mewditation Meditation
 iab Mgiht Might
+iab Mhcielle Michelle
+iab Mhcilele Michelle
+iab Mhicehelle Michelle
+iab Mhicnelel Michelle
 iab Mhipment Shipment
 iab Mhommad Mohammad
 iab Miantianed Maintained
 iab Micehvois Mischevious
 iab Michaael Michael
 iab Michale Michael
+iab Michelel Michelle
 iab Michevious Mischievous
 iab Michgael Michael
 iab Michgian Michigan
 iab Michiael Michael
+iab Michielle Michelle
 iab Michigna Michigan
+iab Michlele Michelle
 iab Micrdosoft Microsoft
 iab Microfoft Microsoft
 iab Microsfoft Microsoft
@@ -3279,6 +3296,7 @@ iab Speciifially Specifically
 iab Specrum Spectrum
 iab Speeidng Speeding
 iab Speicfic Specific
+iab Spekaing Speaking
 iab Spellchevk Spellcheck
 iab Spengindg Spending
 iab Spining Spinning
@@ -5227,6 +5245,7 @@ iab aginst against
 iab agistaionts agitations
 iab agistation agitation
 iab agistations agitations
+iab aglie agile
 iab aglorithm algorithm
 iab agmaes games
 iab agnecy agency
@@ -10723,6 +10742,7 @@ iab construts constructs
 iab constsntly constantly
 iab consttant constant
 iab constuitute constitute
+iab constuom custom
 iab consturct construct
 iab consturcts constructs
 iab consturcuted constructed
@@ -21150,6 +21170,7 @@ iab itnerested interested
 iab itnerestinsg interesting
 iab itnerface interface
 iab itnerfaces interfaces
+iab itnerivew interview
 iab itnerntet internet
 iab itnerrupted interrupted
 iab itnersted interested
@@ -21823,6 +21844,7 @@ iab lbi lib
 iab lbi3eration liberation
 iab lbierarty library
 iab lbinded blinded
+iab lbiraries libraries
 iab lbiriaresi libraries
 iab lbnliss bliss
 iab lbock block
@@ -27685,6 +27707,7 @@ iab preoiviosuly previously
 iab preoiviously previously
 iab preoivpuslu previously
 iab preoivsiluly previously
+iab preoivus previous
 iab preojcfts projects
 iab preojewct project
 iab preomises promises
@@ -35552,6 +35575,7 @@ iab tomoorrow tomorrow
 iab tomororw tomorrow
 iab tomorro tomorrow
 iab tomorrowe tomorrow
+iab tomotrorw tomorrow
 iab tomroorw tomorrow
 iab tomrororw tomorrow
 iab tomrorow tomorrow
