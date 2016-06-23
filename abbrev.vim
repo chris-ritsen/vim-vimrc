@@ -38043,6 +38043,7 @@ iab wesather weather
 iab wetahter weather
 iab wether whether
 iab wetherh whether
+iab wevbcam webcam
 iab wevbsite website
 iab weven even
 iab wevent event
