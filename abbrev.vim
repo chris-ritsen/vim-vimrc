@@ -5556,6 +5556,7 @@ iab altenrating alternating
 iab altenratly alternately
 iab alterantive alternative
 iab alterative alternative
+iab altergnative alternative
 iab alterinatve alternative
 iab alternaating alternating
 iab alternateive alternative
@@ -7969,6 +7970,7 @@ iab biolerplate boilerplate
 iab bioligy biology
 iab biolocigical biological
 iab biorder border
+iab bioth both
 iab biotterness bitterness
 iab birdds birds
 iab bireef brief
@@ -8579,6 +8581,7 @@ iab cahech3ed cached
 iab cahgne change
 iab cahgned changed
 iab cahgnes changes
+iab cahisert cashier
 iab cahlleneged challenged
 iab cahn can
 iab cahnce chance
@@ -8763,6 +8766,7 @@ iab cascaiding cascading
 iab casde case
 iab casew case
 iab cashign cashing
+iab casiher cashier
 iab casued caused
 iab casues causes
 iab casusing causing
@@ -18926,6 +18930,7 @@ iab hundresd hundreds
 iab hundrfed hundred
 iab hunfred hundred
 iab hungrey hungry
+iab hungryu hungry
 iab hunit hint
 iab hunless unless
 iab hunman human
@@ -21634,6 +21639,7 @@ iab kjey key
 iab kjeys keys
 iab kjhana jhāna
 iab kjhjahgan jhāna
+iab kjoke joke
 iab kjust just
 iab klearn learn
 iab kless less
@@ -21825,6 +21831,7 @@ iab larelgy largely
 iab larelty lately
 iab larely largely
 iab largeley largely
+iab largrest largest
 iab laright alright
 iab larmps lamps
 iab lasdt last
@@ -28358,6 +28365,7 @@ iab promtion promotion
 iab promtp prompt
 iab promtpt prompt
 iab pronoucned pronounced
+iab pronucisation pronunciation
 iab pronunce pronounce
 iab proocedure procedure
 iab proofresadin proofreading
@@ -33056,6 +33064,7 @@ iab stanrdard standard
 iab stantement statement
 iab starage storage
 iab stareed started
+iab staret start
 iab staretd started
 iab staretdd started
 iab starets starts
@@ -35364,6 +35373,7 @@ iab thourougly thoroughly
 iab thouruoghly thoroughly
 iab thousdnas thousands
 iab thouse those
+iab thousnad thousand
 iab thoutghts thoughts
 iab thouths thoughts
 iab thouygh though
