@@ -184,6 +184,7 @@ iab Atuicle Article
 iab Atuoamtically Automatically
 iab Aujtomated Automated
 iab Authenticatyions Authentications
+iab Autiobiography Autobiography
 iab Autmoated Automated
 iab Automaatically Automatically
 iab Availablility Availability
@@ -11199,6 +11200,7 @@ iab copuy copy
 iab copya copy
 iab copyijng copying
 iab copys copies
+iab copyuies copies
 iab cor4rected corrected
 iab coreated created
 iab corecspond correspond
@@ -27642,6 +27644,7 @@ iab preciosion precision
 iab preciscely precisely
 iab precisciely precisely
 iab precisiely precisely
+iab precislely precisely
 iab precisley precisely
 iab precison precision
 iab precluses precludes
@@ -27839,6 +27842,7 @@ iab prespective prospective
 iab presscent present
 iab pressuing pressing
 iab pressur4e pressure
+iab presumabley presumably
 iab presumasbly presumably
 iab presumtion presumption
 iab presure pressure
@@ -34068,6 +34072,7 @@ iab sxounds sounds
 iab sxterictly strictly
 iab sya say
 iab syaing saying
+iab syauing saying
 iab sybhects subjects
 iab syhstem system
 iab symboloic symbolic
