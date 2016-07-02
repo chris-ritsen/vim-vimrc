@@ -2246,6 +2246,7 @@ iab Oridered Ordered
 iab Orifginally Originally
 iab Oriiginal Original
 iab Orthodoc Orthodox
+iab Ostensibley Ostensibly
 iab Othere Other
 iab Otherwide Otherwise
 iab Ouptut Output
@@ -2624,6 +2625,7 @@ iab Purahcaese Purchase
 iab Purchasde Purchase
 iab Purefly Purely
 iab Purissts Purists
+iab Purpotedly Purportedly
 iab Putitng Putting
 iab Pya Pay
 iab Pyrde Pryde
@@ -8083,6 +8085,7 @@ iab blynt blunt
 iab blyue blue
 iab bne be
 iab bneed need
+iab bnehc bench
 iab bneing being
 iab bnew new
 iab bnold bold
@@ -9823,8 +9826,10 @@ iab commomn common
 iab commonplade commonplace
 iab commputer computer
 iab commuatator commutator
+iab commuciating communicating
 iab commuciation communication
 iab commuete commute
+iab commuicated communicated
 iab commuication communication
 iab commuinicated communicated
 iab commuites commutes
@@ -11158,6 +11163,7 @@ iab coopuopus copious
 iab coopying copying
 iab coordiante coordinate
 iab coorerected corrected
+iab cooridnated coordinated
 iab cooridnates coordinates
 iab cooridnation coordination
 iab coorrdct correct
@@ -11585,6 +11591,7 @@ iab csot cost
 iab csuotmer customer
 iab ctases cases
 iab ctasy crazy
+iab ctener center
 iab ctonionolusly continuously
 iab ctonroller controller
 iab ctrieteria criteria
@@ -12827,6 +12834,7 @@ iab difficilt difficult
 iab difficilutt difficult
 iab difficiutl difficult
 iab difficlilht difficult
+iab difficlit difficult
 iab difficlitu difficult
 iab difficliyt difficulty
 iab difficlut difficult
@@ -13716,6 +13724,7 @@ iab drivft drift
 iab driviers drivers
 iab drivnk drink
 iab drivr driver
+iab drivying driving
 iab drkining drinking
 iab drlls drills
 iab drnak drank
@@ -15825,6 +15834,7 @@ iab exampels examples
 iab examplew example
 iab examplify exemplify
 iab examplke example
+iab examploes examples
 iab exampnded expanded
 iab exampoel example
 iab exampole example
@@ -15886,6 +15896,7 @@ iab excercising exercising
 iab exceretion excretion
 iab excexsive excessive
 iab exchagned exchanged
+iab exchance exchange
 iab exchaults exults
 iab exchaust exhaust
 iab exchausted exhausted
@@ -17473,6 +17484,7 @@ iab fuinctiuno function
 iab fuinds finds
 iab fuinisdhed finished
 iab fuionction function
+iab fuirther further
 iab fukc fuck
 iab fukcgin fucking
 iab fukcing fucking
@@ -21233,6 +21245,7 @@ iab itnednted intended
 iab itnenraval interval
 iab itnensely intensely
 iab itneraction interaction
+iab itnereistign interesting
 iab itnerepreation interpretation
 iab itnerest interest
 iab itnerested interested
@@ -25350,6 +25363,7 @@ iab ooptical optical
 iab ooption option
 iab ooptions options
 iab oor or
+iab ooterhs others
 iab oother other
 iab ootpions options
 iab oout out
@@ -30390,6 +30404,7 @@ iab resuylts results
 iab resuyme resume
 iab reswpaning respawning
 iab resxistance resistance
+iab resxolved resolved
 iab resyume resume
 iab retantion retention
 iab retecently recently
@@ -32907,6 +32922,7 @@ iab spirirted spirited
 iab spiritiual spiritual
 iab spirituallit8y spirituality
 iab spiritys spirits
+iab spirti spirit
 iab spirtuutal spiritual
 iab spiruitual spiritual
 iab spirutaial spiritual
@@ -32924,6 +32940,7 @@ iab spoekn spoken
 iab spoent spent
 iab spogne sponge
 iab spoiles spoils
+iab spoit spot
 iab spome some
 iab sponanouesly spontaneously
 iab sponantously spontaneously
@@ -33314,6 +33331,7 @@ iab storign storing
 iab storiogn storing
 iab storires stories
 iab storng strong
+iab storngly strongly
 iab stornrg strong
 iab storuy story
 iab storyes stories
@@ -35389,6 +35407,7 @@ iab threee three
 iab threfore therefore
 iab threshhold threshold
 iab thresholld threshold
+iab thriough through
 iab thrity thirty
 iab throew throw
 iab throfugh through
@@ -36836,6 +36855,7 @@ iab undewrstnad understand
 iab undgrammatical ungrammatical
 iab undienfied undefined
 iab undinefed undefined
+iab undiscolsed undisclosed
 iab undispilined undisciplined
 iab undistiracted undistributed
 iab undiverse universe
@@ -38610,6 +38630,7 @@ iab wkork work
 iab wkorking working
 iab wkwkened weekend
 iab wlak walk
+iab wlaked walked
 iab wlakign walking
 iab wlaking walking
 iab wlal wall
@@ -38993,6 +39014,7 @@ iab wtater water
 iab wtatweferfallls waterfalls
 iab wtching watching
 iab wthat that
+iab wthe the
 iab wthehr whether
 iab wtherh whether
 iab wtherther whether
