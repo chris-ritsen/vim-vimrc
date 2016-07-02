@@ -6240,6 +6240,7 @@ iab appearanche appearance
 iab appearancves appearances
 iab appearas appears
 iab appearnace appearance
+iab appearnaces appearances
 iab appearnacexss appearances
 iab appearnacve appearance
 iab appearnance appearance
@@ -6920,6 +6921,7 @@ iab atrributes attributes
 iab atrtiburtes attributes
 iab atrtibutes attributes
 iab atrticicial artificial
+iab atrtribiuted attributed
 iab att6achement attachment
 iab attaacking attacking
 iab attaaoin attain
@@ -7023,6 +7025,7 @@ iab attnetion attention
 iab attntetnion attention
 iab attracktiojhn attraction
 iab attreibyuted attributed
+iab attribitive attributive
 iab attribityuing attributing
 iab attribles attributes
 iab attribure attribute
@@ -8919,6 +8922,7 @@ iab certificvatioin certification
 iab certificvatyions certifications
 iab certififations certifications
 iab certina certain
+iab certinaly certainly
 iab certnyainly certainly
 iab certrina certain
 iab certtain certain
@@ -11095,6 +11099,7 @@ iab conventiaionl conventional
 iab convential convention
 iab conventianal conventional
 iab conventiianl conventional
+iab conventioally conventionally
 iab conventuionally conventionally
 iab convept concept
 iab converasation conversation
@@ -11944,6 +11949,7 @@ iab decidied decided
 iab decidign deciding
 iab decidingt deciding
 iab decidion decision
+iab decidsion decision
 iab decie device
 iab deciecdied decided
 iab deciecer deceiver
@@ -12178,6 +12184,7 @@ iab demonstate demonstrate
 iab demonstratiing demonstrating
 iab demostrated demonstrated
 iab demponstrate demonstrate
+iab demsonstratiojn demonstration
 iab denbugger debugger
 iab denough enough
 iab denumerated enumerated
@@ -16672,6 +16679,7 @@ iab farvorably favorably
 iab fascade facade
 iab fascebokok facebook
 iab fascillitate facilitate
+iab fascillitatior facilitator
 iab fascscinating fascinating
 iab fasghionsed fashioned
 iab fashiion fashion
@@ -16766,6 +16774,7 @@ iab fefatuers features
 iab feffort effort
 iab feffortnelssess effortlessness
 iab fefine define
+iab feieature feature
 iab feield field
 iab feils files
 iab feirfcely fiercely
@@ -19980,6 +19989,7 @@ iab increreased increased
 iab incresase increase
 iab incresiasing increasing
 iab incrfelcbiyly incredibly
+iab incriedlbel incredible
 iab incrledbfly incredibly
 iab incrledbly incredibly
 iab incrledbyy incredibly
@@ -25133,6 +25143,7 @@ iab oemthign something
 iab oemthithign something
 iab oens ones
 iab oeopele people
+iab oepen open
 iab oepeople people
 iab oepn open
 iab oepopel people
@@ -26888,6 +26899,7 @@ iab piosition position
 iab piositon position
 iab piosoituioned positioned
 iab piososbile possible
+iab piososibltity possibility
 iab piosotion position
 iab piossible possible
 iab piostiion position
@@ -28530,6 +28542,7 @@ iab prumed pruned
 iab pruple purple
 iab prupose propose
 iab pruposes purposes
+iab pruprort purport
 iab prupses purposes
 iab prupsoe propose
 iab prupsssoe purpose
@@ -31805,6 +31818,7 @@ iab sevelra several
 iab seventewen seventeen
 iab severaly severely
 iab severeral several
+iab severfal several
 iab severl several
 iab severla several
 iab severley severely
@@ -32876,6 +32890,7 @@ iab speicaill spacial
 iab speical special
 iab speicdifilaly specifically
 iab speicialised specialised
+iab speicicf specific
 iab speicifc specific
 iab speicifcy specific
 iab speicific specific
@@ -33338,6 +33353,7 @@ iab storyes stories
 iab stotrage storage
 iab stoyp stop
 iab stoyr story
+iab stpending spending
 iab stpes steps
 iab stpo stop
 iab stpop stop
@@ -33945,6 +33961,7 @@ iab surpruiseid surprised
 iab surprupseds surprises
 iab surprused surprised
 iab surprusied surprised
+iab surpsie surprise
 iab surpsirignluy surprisingly
 iab surpsirignly surprisingly
 iab surpsirnigly surprisingly
@@ -34635,6 +34652,7 @@ iab teither either
 iab telagraphic telegraphic
 iab telecraphic telegraphic
 iab telecscope telescope
+iab teleepathy telepathy
 iab telegraphgic telegraphic
 iab telegraphuc telegraphic
 iab telegvision television
@@ -35957,6 +35975,7 @@ iab transcerige transcribe
 iab transcfionts transactions
 iab transcirbing transcribing
 iab transcirpt transcript
+iab transcirption transcription
 iab transcpribed transcribed
 iab transcribefd transcribed
 iab transcripbiing transcribing
