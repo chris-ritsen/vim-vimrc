@@ -98,6 +98,7 @@ iab Algorthims Algorithms
 iab Almos Almost
 iab Alrealduy Already
 iab Alreayd Already
+iab Alredy Already
 iab Alreight Alright
 iab Alrhoguth Although
 iab Alrifght Alright
@@ -3064,6 +3065,7 @@ iab SOle Sole
 iab SOlid Solid
 iab SOlution Solution
 iab SOlutoin Solution
+iab SOlved Solved
 iab SOme Some
 iab SOmehow Somehow
 iab SOmeone Someone
@@ -19509,6 +19511,7 @@ iab implict implicit
 iab implictly implicitly
 iab implie imply
 iab implises implies
+iab implkemetned implemented
 iab implmeent implement
 iab implmeented implemented
 iab implmementation implementation
@@ -23957,6 +23960,7 @@ iab mself myself
 iab mselfy myself
 iab mseyself myself
 iab msising missing
+iab msispelled misspelled
 iab msistakes mistakes
 iab msistkane mistaken
 iab msitake mistake
@@ -31544,6 +31548,7 @@ iab seme same
 iab semed seemed
 iab semeed seemed
 iab semeing seeming
+iab semeingly seemingly
 iab semem seem
 iab sememingly seemingly
 iab sememlingly seemingly
@@ -32754,6 +32759,7 @@ iab sortware software
 iab sorucde source
 iab soruce source
 iab soruces sources
+iab sorucing sourcing
 iab sosmeone someone
 iab sosmetimes sometimes
 iab sotapatti sotāpatti
@@ -33537,6 +33543,7 @@ iab stumblining stumbling
 iab stumulating stimulating
 iab stumuluis stimulus
 iab stuop stop
+iab stupdily stupidly
 iab stupdsi stupid
 iab stupidu stupid
 iab stupisd stupid
@@ -39434,4 +39441,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab SOlved Solved
