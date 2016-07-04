@@ -5798,6 +5798,7 @@ iab annoyabces annoyances
 iab annoyanbce annoyance
 iab annoyannce annoyance
 iab annoybnace annoyance
+iab annoycances annoyances
 iab annoymys anonymous
 iab annoyoing annoying
 iab annoyong annoying
@@ -8005,6 +8006,7 @@ iab biuldpack buildpack
 iab biutton button
 iab bivrations vibrations
 iab bizzare bizarre
+iab bizzarely bizarrely
 iab bkac back
 iab bkinding binding
 iab blaalance balance
@@ -9364,6 +9366,7 @@ iab clhteosh clothes
 iab clhtes clothes
 iab clhteso clothes
 iab clhtesoh clothes
+iab clhthoes clothes
 iab clhtoes clothes
 iab clhtoesh clothes
 iab cliche cliché
@@ -9785,6 +9788,7 @@ iab comloment comment
 iab commaand command
 iab commadn command
 iab commadnd command
+iab commadns commands
 iab commamnds commands
 iab commant command
 iab commasnds commands
@@ -10240,6 +10244,7 @@ iab concider consider
 iab concie concise
 iab concieve conceive
 iab concifience confidence
+iab concifugrations configurations
 iab concinosusness consciousness
 iab conciosucness consciousness
 iab conciosuness consciousness
@@ -10401,6 +10406,7 @@ iab confgi config
 iab confgiryuing configuring
 iab confgronted confronted
 iab confgurated configured
+iab confgurations configurations
 iab conficdfence confidence
 iab conficence confidence
 iab conficentally confidently
@@ -10480,6 +10486,7 @@ iab confversations conversations
 iab confvince convince
 iab congifutraiton configuration
 iab congiguration configuration
+iab congiruign configuring
 iab congitive cognitive
 iab congitivie cognitive
 iab congnitive cognitive
@@ -14219,6 +14226,7 @@ iab eevery every
 iab eevnriomtent environment
 iab eexcept except
 iab eexecute execute
+iab eexecuted executed
 iab eexercisde exercise
 iab eeyes eyes
 iab efecet effect
@@ -14979,6 +14987,7 @@ iab enthhusiastic enthusiastic
 iab enthisuastic enthusiastic
 iab enthrhussiastic enthusiastic
 iab enthsiuastic enthusiastic
+iab enthsuaiasm enthusiasm
 iab enthsuastic enthusiastic
 iab enthuasuastic enthusiastic
 iab enthusaism enthusiasm
@@ -17376,6 +17385,7 @@ iab frienldy friendly
 iab friensd friends
 iab frightented frightened
 iab frightetned frightened
+iab frigst first
 iab frilvolous frivolous
 iab frind friend
 iab frinds friends
@@ -20428,6 +20438,7 @@ iab insitincitlybvely instinctively
 iab insitudutions institutions
 iab insivilbel invisible
 iab insjectiopn injection
+iab insnane insane
 iab insnanne insane
 iab insnesntive insensitive
 iab insode inside
@@ -20814,6 +20825,7 @@ iab intervieqws interviews
 iab intervier interview
 iab intervies interviews
 iab intervievw interview
+iab interviewedss interviews
 iab interviewf interview
 iab interviewfs interviews
 iab interviewsk interviews
@@ -23656,6 +23668,7 @@ iab modfitying modifying
 iab modfiy modify
 iab modicfacation modification
 iab modicied modified
+iab modiefied modified
 iab modifcations modifications
 iab modifed modified
 iab modififations modifications
@@ -27909,6 +27922,7 @@ iab presige prestige
 iab presious precious
 iab presiously previously
 iab presiovulsy previously
+iab presnelty presently
 iab presnet present
 iab presnetable presentable
 iab presnetly presently
@@ -33123,6 +33137,7 @@ iab startd started
 iab startdd started
 iab startede started
 iab startedrs starters
+iab starterd started
 iab startes starts
 iab startewd started
 iab startginn starting
@@ -33690,6 +33705,7 @@ iab successs success
 iab successsive successive
 iab succpebible susceptible
 iab sucdess success
+iab sucdh such
 iab sucecss success
 iab sucecwss success
 iab suceh such
@@ -36131,6 +36147,7 @@ iab trkacing tracking
 iab trkcaign tracking
 iab trkdaignt tracking
 iab trlak talk
+iab trminal terminal
 iab trnaitions transitions
 iab trnascription transcription
 iab trnasition transition
@@ -39441,16 +39458,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab concifugrations configurations
-iab insnane insane
-iab sucdh such
-iab confgurations configurations
-iab frigst first
-iab annoycances annoyances
-iab starterd started
-iab interviewedss interviews
-iab enthsuaiasm enthusiasm
-iab presnelty presently
-iab congiruign configuring
-iab commadns commands
-iab trminal terminal

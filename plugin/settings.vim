@@ -10,6 +10,7 @@ endif
 if !has('nvim') 
   set encoding=utf-8
   set viminfo=!,'100,\"100,:20,<50,s10,h,n~/.viminfo
+  set ttyfast
 
   if has('mouse_urxvt') && $TERM == 'rxvt-unicode-256color' && $TMUX == ''
     " TODO: Interferes with tmux
@@ -116,7 +117,6 @@ set tabstop=2
 set tags=~/.git/tags,./tags,./TAGS,tags,TAGS,./tags,/usr/include/tags
 set textwidth=78
 set timeoutlen=500
-set ttyfast
 set undodir=~/.vim/undo
 set undofile
 set undolevels=10000
