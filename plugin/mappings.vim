@@ -112,7 +112,12 @@ nnoremap <leader>d :call AddAbbrev()<cr>
 
 function! LookupWordDefinition()
   let l:word = expand("<cword>")
-  execute ":!clear && sdcv -n " . l:word . " | $PAGER"
+
+  if !has('nvim') && !has('terminal')  
+    execute ":!clear && sdcv -n " . l:word . " | $PAGER"
+  else
+    execute ":terminal sdcv -n " . l:word . " | $PAGER"
+  endif
 endfunction
 
 nnoremap <leader>u <esc>:call LookupWordDefinition()<cr><cr>

@@ -39441,3 +39441,16 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
+iab concifugrations configurations
+iab insnane insane
+iab sucdh such
+iab confgurations configurations
+iab frigst first
+iab annoycances annoyances
+iab starterd started
+iab interviewedss interviews
+iab enthsuaiasm enthusiasm
+iab presnelty presently
+iab congiruign configuring
+iab commadns commands
+iab trminal terminal
