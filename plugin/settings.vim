@@ -9,6 +9,7 @@ endif
 
 if !has('nvim') 
   set encoding=utf-8
+  set viminfo=!,'100,\"100,:20,<50,s10,h,n~/.viminfo
 
   if has('mouse_urxvt') && $TERM == 'rxvt-unicode-256color' && $TMUX == ''
     " TODO: Interferes with tmux
@@ -16,6 +17,8 @@ if !has('nvim')
   else
     set ttymouse=xterm2
   endif
+else
+  set viminfo=!,'100,\"100,:20,<50,s10,h,n~/.nviminfo
 endif
 
 if &diff
@@ -120,7 +123,6 @@ set undolevels=10000
 set undoreload=10000
 set updatetime=1000
 set updatetime=500
-set viminfo=!,'100,\"100,:20,<50,s10,h,n~/.viminfo
 set virtualedit=all
 set whichwrap+=<,>,h,l
 set wildmenu
@@ -194,4 +196,10 @@ set includeexpr=IncludeExpressionWhatever()
 " }}}
 
 "}}}1
+
+" if version >= 700
+  " set spl=en spell
+  " set spellfile=~/.config/vim/spell/en.utf-8.add
+  " set nospell
+" endif
 
