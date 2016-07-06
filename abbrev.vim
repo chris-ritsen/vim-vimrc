@@ -2379,6 +2379,7 @@ iab Pelases Pleases
 iab Pelasews Pleases
 iab Pelaswes Pleases
 iab Pelsaes Pleases
+iab Peoiple People
 iab Peopel People
 iab Peopl People
 iab Peopole People
@@ -3968,6 +3969,7 @@ iab WAtevver Whatever
 iab WAtewerfalls Waterfalls
 iab WAthc Watch
 iab WAthcintg Watching
+iab WAtiting Waiting
 iab WAtts Watts
 iab WEHy Why
 iab WEather Weather
@@ -6218,6 +6220,7 @@ iab apparenltuy apparently
 iab apparenlty apparently
 iab apparenly apparently
 iab apparenmtmnt apartment
+iab apparentmebnt apartment
 iab apparentmly apparently
 iab appareting appearing
 iab apparetnly apparently
@@ -6235,6 +6238,7 @@ iab apparopriate appropriate
 iab appart apart
 iab appartenlty apparently
 iab appartenly apparently
+iab appartment apartment
 iab appartnely apparently
 iab appaterns patterns
 iab appaths paths
@@ -16067,6 +16071,7 @@ iab exhivits exhibits
 iab exiccted exacted
 iab exiccted excited
 iab exicinting exciting
+iab exicited excited
 iab exiciting exciting
 iab exicitng exciting
 iab exicstence existence
