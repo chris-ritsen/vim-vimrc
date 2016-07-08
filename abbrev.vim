@@ -853,6 +853,7 @@ iab Edgjar Edgar
 iab Editoprs Editors
 iab Edware Edward
 iab Eeach Each
+iab Eeat Eat
 iab Eeating Eating
 iab Eeinstein Einstein
 iab Eelctric Electric
@@ -27002,6 +27003,7 @@ iab plausable plausible
 iab plausaible plausible
 iab plausiable plausible
 iab plawdce placed
+iab playbakc playback
 iab playbkack playback
 iab playedch played
 iab playetr player
@@ -36171,6 +36173,7 @@ iab troublishooting troubleshooting
 iab troubnle trouble
 iab trpoue troupe
 iab trrying trying
+iab trsavel travel
 iab trscakpa trackpad
 iab trtue true
 iab trturlau tutorial
