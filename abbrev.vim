@@ -3201,6 +3201,7 @@ iab Sendiung Sending
 iab Senese Sense
 iab Senionr Senior
 iab Senseations Sensations
+iab Seotmghing Something
 iab Sepcically Specifically
 iab Sepcifically Specifically
 iab Sepcififically Specifically
@@ -8069,6 +8070,7 @@ iab blmae blame
 iab blnanket blanket
 iab blocgs blogs
 iab blockedd blocked
+iab blockign blocking
 iab blockl block
 iab blocksd blocks
 iab blockwed blocked
@@ -17600,6 +17602,7 @@ iab funnction function
 iab funtcdtion function
 iab funtdion function
 iab funtion function
+iab funtionality functionality
 iab funtxtion function
 iab funxction function
 iab funxdtion function
@@ -20488,6 +20491,7 @@ iab instancens instances
 iab instandce instance
 iab instane instance
 iab instanfes instances
+iab instanllation installation
 iab instanlty instantly
 iab instanly instantly
 iab instanscdes instances
@@ -21196,6 +21200,7 @@ iab isntad instead
 iab isntadw instead
 iab isntaed instead
 iab isntall install
+iab isntallations installations
 iab isntalled installed
 iab isntalling installing
 iab isntance instance
@@ -24839,6 +24844,7 @@ iab objeccts objects
 iab objecd object
 iab objecdt object
 iab objecdtionaly objectionably
+iab objecdtive objective
 iab objecdtives objectives
 iab objecdts objects
 iab objecf object
@@ -28574,7 +28580,7 @@ iab prupose propose
 iab pruposes purposes
 iab pruprort purport
 iab prupses purposes
-iab prupsoe propose
+iab prupsoe purpose
 iab prupsssoe purpose
 iab prurchaced purchased
 iab prurisuit pursuit
@@ -32276,6 +32282,7 @@ iab singla signal
 iab singlal signal
 iab singlas signals
 iab singless signless
+iab singlular singular
 iab singlyular singular
 iab singnal signal
 iab sinificance significance
@@ -36712,6 +36719,7 @@ iab unabivgiously unambiguously
 iab unabivoidable unavoidable
 iab unable3 unable
 iab unabloidable unavoidable
+iab unaccpetalbe unacceptable
 iab unacviaiodiable unavoidable
 iab unahppinieess unhappiness
 iab unalbel unable
@@ -37535,6 +37543,7 @@ iab v3erify verify
 iab v3ery very
 iab v4ersion version
 iab vaar var
+iab vacciines vaccines
 iab vactaion vacation
 iab vactation vacation
 iab vacujuming vacuuming
@@ -38035,6 +38044,7 @@ iab watchg watch
 iab watchgify watchify
 iab watchign watching
 iab watchin watching
+iab watchinnng watching
 iab watchint watching
 iab watchung watching
 iab watcihtgn watching
