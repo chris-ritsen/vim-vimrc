@@ -1505,6 +1505,7 @@ iab Immemslty Immensely
 iab Immensly Immensely
 iab Immiedatelyl Immediately
 iab Imoprove Improve
+iab Impendign Impending
 iab Impleemnntations Implementations
 iab Implemetneations Implementations
 iab Implemetned Implemented
@@ -4089,6 +4090,7 @@ iab Wewnt Went
 iab Wgere Where
 iab Wh7y Why
 iab Wha5t What
+iab Whaaaat What
 iab Whaat What
 iab Whas What
 iab Whateber Whatever
@@ -4146,6 +4148,7 @@ iab Wiht Whit
 iab Willpoewr Willpower
 iab Willuingness Willingness
 iab Winodws Windows
+iab Wiodnerflul Wonderful
 iab Wiorked Worked
 iab Wiriting Writing
 iab Wiritng Writing
@@ -9873,6 +9876,7 @@ iab communitiehy community
 iab communitity community
 iab communityies communities
 iab communnicated communicated
+iab communte commute
 iab communting commuting
 iab communucation communication
 iab commutting committing
@@ -9919,6 +9923,7 @@ iab compained complained
 iab compalin complain
 iab compalined complained
 iab compaly company
+iab compamny company
 iab compamy company
 iab companhuyies companies
 iab companhy company
@@ -11317,6 +11322,7 @@ iab correcsponding corresponding
 iab correct3d corrected
 iab correctd corrected
 iab correcte correct
+iab correctedd corrected
 iab correctedf corrected
 iab correctgion correction
 iab correctin correcting
@@ -12074,6 +12080,7 @@ iab definitaltely definitely
 iab definiteions definitions
 iab definitelyl definitely
 iab definitne definite
+iab definnitely definitely
 iab definte definite
 iab definted defined
 iab defintely definitely
@@ -21295,6 +21302,7 @@ iab itnereistign interesting
 iab itnerepreation interpretation
 iab itnerest interest
 iab itnerested interested
+iab itneresting interesting
 iab itnerestinsg interesting
 iab itnerface interface
 iab itnerfaces interfaces
@@ -21605,6 +21613,7 @@ iab keyaboarsd keyboard
 iab keyaboarsxd keyboard
 iab keyaobbrd keyboard
 iab keyarboard keyboard
+iab keybaoard keyboard
 iab keybaord keyboard
 iab keybaords keyboards
 iab keybard keyboard
@@ -22769,6 +22778,7 @@ iab maintinence maintenance
 iab maintiniagin maintaining
 iab maintining maintaining
 iab maintnenahce maintenance
+iab maintsay mainstay
 iab mairng margin
 iab maitanin maintain
 iab maitching matching
@@ -23473,6 +23483,7 @@ iab miost most
 iab miouth mouth
 iab mipcrhone microphone
 iab miprepare prepare
+iab miricile miracle
 iab miricle miracle
 iab miriclres miracles
 iab mirophone microphone
@@ -25094,6 +25105,7 @@ iab ocmoeutpers computers
 iab ocmopments components
 iab ocmoputer computer
 iab ocmopytuer computer
+iab ocmpamy company
 iab ocmpanioes companies
 iab ocmpaniyes companies
 iab ocmpanred compared
@@ -25711,6 +25723,7 @@ iab orirtiganl original
 iab oritdinary ordinary
 iab oritinetation orientation
 iab oritineted oriented
+iab oritnally originally
 iab orittentation orientation
 iab orldwide worldwide
 iab orle role
@@ -25863,6 +25876,7 @@ iab outragous outrageous
 iab outsaide outside
 iab outsiddde outside
 iab outsided outside
+iab outsidee outside
 iab outsidse outside
 iab outsidte outside
 iab outsiede outside
@@ -27578,6 +27592,7 @@ iab praciiticing practicing
 iab pracirtice practice
 iab pracirtices practices
 iab pracitailly practically
+iab pracitally practically
 iab pracitce practice
 iab pracitcie practice
 iab pracitcies practices
@@ -28577,6 +28592,7 @@ iab pruahcasdec purchased
 iab pruahced purchased
 iab prucahigns purchasing
 iab prucahse purchase
+iab prucdhase purchase
 iab pruchahse purchase
 iab pruchainsg purchasing
 iab pruchase purchase
@@ -33634,6 +33650,7 @@ iab styuff stuff
 iab styulews styles
 iab styyles styles
 iab suage usage
+iab suagsage sausage
 iab sually usually
 iab subconscoius subconscious
 iab subconsious subconscious
@@ -34394,6 +34411,7 @@ iab talbe table
 iab talbel table
 iab talble table
 iab talbr table
+iab talemnted talented
 iab talen talent
 iab taleneted talented
 iab talensts talents
@@ -34910,6 +34928,7 @@ iab termunal terminal
 iab terrbile terrible
 iab terrestional correctional
 iab terribel terrible
+iab terribiel terrible
 iab terribile terrible
 iab terribley terribly
 iab terriblie terrible
@@ -35796,6 +35815,7 @@ iab tomiorrow tomorrow
 iab tomoorrow tomorrow
 iab tomororw tomorrow
 iab tomorro tomorrow
+iab tomorrorw tomorrow
 iab tomorrowe tomorrow
 iab tomotrorw tomorrow
 iab tomroorw tomorrow
@@ -35899,6 +35919,7 @@ iab toyped typed
 iab toyping typing
 iab tp to
 iab tphrases phrases
+iab tpicic topic
 iab tpiying typing
 iab tpo to
 iab tpoic topic
@@ -36994,6 +37015,7 @@ iab unemmployed unemployed
 iab unemoployment unemployment
 iab unempeloeycd unemployed
 iab unempleoyment unemployment
+iab unemplkyment unemployment
 iab unemplouyed unemployed
 iab unemploymebt unemployment
 iab unemplyed unemployed
