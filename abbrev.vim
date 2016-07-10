@@ -4285,6 +4285,7 @@ iab aand and
 iab aandb and
 iab aangular angular
 iab aangularjs angularjs
+iab aanotehr another
 iab aanother another
 iab aany any
 iab aapplied applied
@@ -5904,6 +5905,7 @@ iab anticpated anticipated
 iab antimicatped anticipated
 iab antining anything
 iab antipciapting anticipating
+iab antipciate anticipate
 iab antiyng anything
 iab antoehr another
 iab antoher another
@@ -7704,6 +7706,7 @@ iab begger beggar
 iab begginining beginning
 iab begginner beginner
 iab beghin begin
+iab beghind behind
 iab beging being
 iab begings begins
 iab begining beginning
@@ -7774,6 +7777,7 @@ iab belevevent benevolent
 iab beliefe believe
 iab believ believe
 iab believbiable believable
+iab believeing believing
 iab believf believe
 iab believign believing
 iab belifs beliefs
@@ -8681,6 +8685,7 @@ iab canb can
 iab cancelling canceling
 iab cancidate candidate
 iab candiate candidate
+iab candidateds candidates
 iab candlessss candles
 iab canelde candle
 iab caniseter canister
@@ -10336,6 +10341,7 @@ iab condfenses condenses
 iab condfidence confidence
 iab condiction condition
 iab condiditions conditions
+iab condier consider
 iab condiitioned conditioned
 iab condiitions conditions
 iab condintions conditions
@@ -10435,6 +10441,7 @@ iab confied confide
 iab confiedence confidence
 iab confifg config
 iab confifgurations configurations
+iab configdent confident
 iab configiration configuration
 iab configraution configuration
 iab configruation configuration
@@ -12259,6 +12266,7 @@ iab deplpy deploy
 iab depositied deposited
 iab depoth depth
 iab depper deeper
+iab depreceiated depreciated
 iab deprecrtated deprecated
 iab deprectteed deprecated
 iab depreessing depressing
@@ -14257,6 +14265,7 @@ iab efeecdt effect
 iab efeect effect
 iab efefort effort
 iab efents events
+iab eferverything everything
 iab effct effect
 iab effecctive effective
 iab effecdt effect
@@ -15330,6 +15339,7 @@ iab erad read
 iab eradicatoin eradication
 iab eral real
 iab eralier earlier
+iab eraliest earliest
 iab eralire earlier
 iab erally really
 iab eralyt early
@@ -15507,6 +15517,7 @@ iab esxpanding expanding
 iab esxpeiricingce3yin experiencing
 iab esxpeirience experience
 iab esxperimental experimental
+iab esxperitse expertise
 iab esxrmley extremely
 iab esxtewnsion extension
 iab esxtreme extreme
@@ -16055,6 +16066,7 @@ iab exercvisign exercising
 iab exericie exercise
 iab exericise exercise
 iab exerics3 exercise
+iab exericse exercise
 iab exericsiing exercising
 iab exerioecie exercise
 iab exerpciese exercises
@@ -17640,6 +17652,7 @@ iab furrtther further
 iab furst first
 iab furstarated frustrated
 iab furstarting frustrating
+iab furstehr further
 iab fursther further
 iab furstiraigng frustrating
 iab furstrate frustrate
@@ -18099,6 +18112,7 @@ iab h5ml html
 iab hTML HTML
 iab haalf half
 iab haand hand
+iab haapepns happens
 iab habanaeros habanero
 iab habe have
 iab habenero habanero
@@ -20779,6 +20793,7 @@ iab interfavales interfiles
 iab interfce interface
 iab interfecerence interference
 iab interfedrred interfered
+iab interfview interview
 iab intergral integral
 iab intergrated integrated
 iab interhietence inheritance
@@ -21306,6 +21321,7 @@ iab itneresting interesting
 iab itnerestinsg interesting
 iab itnerface interface
 iab itnerfaces interfaces
+iab itnerfview interview
 iab itnerivew interview
 iab itnerntet internet
 iab itnerrupted interrupted
@@ -23448,6 +23464,7 @@ iab miniumum minimum
 iab miniute minute
 iab miniutes minutes
 iab minizmizes minimizes
+iab minnee mine
 iab minnimal minimal
 iab minnimaze minimize
 iab minnium minimum
@@ -27418,6 +27435,7 @@ iab positiosnws positions
 iab positioun position
 iab positison position
 iab positiuon position
+iab positivei positive
 iab positkon position
 iab positoin position
 iab positoisn positions
@@ -30189,6 +30207,7 @@ iab requstet request
 iab requsts requests
 iab requting requiring
 iab requuire require
+iab requwesting requesting
 iab requwests requests
 iab requyired1 required
 iab reqwritten rewritten
@@ -30384,6 +30403,7 @@ iab responsed responded
 iab responsee response
 iab responsiablyt responsibly
 iab responsibiilites responsibilities
+iab responsibileiity responsibility
 iab responsibiliites responsibilities
 iab responsibiliteis responsibilities
 iab responsibilites responsibilities
@@ -30872,6 +30892,7 @@ iab rpaictice practice
 iab rparties parties
 iab rpbabouly probably
 iab rpboably probably
+iab rpbolems problems
 iab rpeat repeat
 iab rpeating repeating
 iab rpedict predict
@@ -31284,6 +31305,7 @@ iab scirpts scripts
 iab scity city
 iab sclothes clothes
 iab scnaeari0o scenario
+iab scneario scenario
 iab scnee scene
 iab scnool school
 iab scnwees scenes
@@ -32465,10 +32487,12 @@ iab slef self
 iab slefless selfless
 iab slefv self
 iab slehf shelf
+iab slel sell
 iab slel3ect select
 iab slelctecd selected
 iab slelecfewd selected
 iab slelected selected
+iab sleling selling
 iab slepe sleep
 iab slepeing sleeping
 iab slepep sleep
@@ -32714,6 +32738,7 @@ iab someshere somewhere
 iab somet some
 iab sometghing something
 iab someth8ing something
+iab somethig something
 iab somethighn something
 iab somethigin something
 iab somethign something
