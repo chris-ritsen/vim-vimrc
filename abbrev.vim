@@ -1343,6 +1343,7 @@ iab Holllywood Hollywood
 iab Hoopefully Hopefully
 iab Hopeeuflly Hopefully
 iab Hopefull Hopefully
+iab Hopuing Hoping
 iab Hopw How
 iab Hourk Hour
 iab Howeever However
@@ -2597,6 +2598,7 @@ iab Propybalby Probably
 iab Protecetion Protection
 iab Protfolio Portfolio
 iab Protien Protein
+iab Protoests Protests
 iab Provablyly Probably
 iab Providided Provided
 iab Providied Provided
@@ -5216,6 +5218,7 @@ iab affctivitiews activities
 iab affeca affect
 iab affecdt affect
 iab affecdtes affects
+iab affecdts affects
 iab affecet affect
 iab affet affect
 iab affeting affecting
@@ -10352,6 +10355,7 @@ iab conditionaer conditioner
 iab conditionahs conditions
 iab conditionas conditions
 iab conditiosn conditions
+iab condititioning conditioning
 iab conditnue continue
 iab conditon condition
 iab condiucting conducting
@@ -11011,6 +11015,7 @@ iab contiynue continue
 iab contiyually continually
 iab contmeinue continue
 iab contneditions conditions
+iab contnenction connection
 iab contnent continent
 iab contnet content
 iab contnetn content
@@ -19440,6 +19445,7 @@ iab impediatet immediate
 iab impedimanents impediments
 iab impedtge impede
 iab impeediments impediments
+iab impeeritive imperative
 iab impelemntnations implementations
 iab impelemtnign implementing
 iab impelmetned implemented
@@ -20575,6 +20581,7 @@ iab insudrry industry
 iab insudstry industry
 iab insufficent insufficient
 iab insufficuent insufficient
+iab insuffucient insufficient
 iab insuight insight
 iab insuramountable insurmountable
 iab insurancde insurance
@@ -22774,6 +22781,7 @@ iab majoical magical
 iab majoirty majority
 iab majojroity majority
 iab majorirty majority
+iab majoyr major
 iab majoyrity majority
 iab mak make
 iab makei make
@@ -26213,6 +26221,7 @@ iab particapants participants
 iab particapnts participants
 iab particaular particular
 iab particdaular particular
+iab particdipate participate
 iab particdufalry particular
 iab particels particles
 iab particflaulr particular
@@ -27318,6 +27327,7 @@ iab portalbe portable
 iab portarait portrait
 iab portarati portrait
 iab portariat portrait
+iab portesting protesting
 iab portiion portion
 iab portiions portions
 iab portino portion
@@ -27939,6 +27949,7 @@ iab presige prestige
 iab presious precious
 iab presiously previously
 iab presiovulsy previously
+iab presitdent president
 iab presnelty presently
 iab presnet present
 iab presnetable presentable
@@ -28746,6 +28757,7 @@ iab purpose3 purpose
 iab purposefuloy purposefully
 iab purposefuly purposefully
 iab purpoxdes purposes
+iab purppose purpose
 iab purpse purpose
 iab purpsie purpose
 iab purpsoe purpose
@@ -34790,6 +34802,7 @@ iab temprauture3 temperature
 iab tempriarily temporarily
 iab temproarily temporarily
 iab temproary temporary
+iab temprorarily temporarily
 iab temprorayr temporary
 iab temprory temporary
 iab temr term
@@ -35142,6 +35155,7 @@ iab thenm them
 iab thenmes themes
 iab thenmselves themselves
 iab thension tension
+iab theoriatical theoretical
 iab theoriteical theoretical
 iab theoropy therapy
 iab thep the
@@ -35510,6 +35524,7 @@ iab thte the
 iab thtem them
 iab thtese these
 iab thtis this
+iab thtose those
 iab thtree three
 iab thuis this
 iab thumbail thumbnail
