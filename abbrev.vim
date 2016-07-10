@@ -176,6 +176,7 @@ iab Atmtempts Attempts
 iab Atmtepteing Attempting
 iab Atrch Arch
 iab Atricles Articles
+iab Atrtended Attended
 iab Attach3ed Attached
 iab Attempeting Attempting
 iab Attenmptinug Attempting
@@ -325,6 +326,7 @@ iab Cehck Check
 iab Certiaan Certain
 iab Certifcations Certifications
 iab Chabcne Chance
+iab Chameleom Chameleon
 iab Chanigng Changing
 iab Characcteristics Characteristics
 iab Characeters Characters
@@ -651,6 +653,7 @@ iab Definiing Defining
 iab Degleooper Developer
 iab Delebopver Developer
 iab Deleeted Deleted
+iab Delevoper Developer
 iab Deliusion Delusion
 iab Delvoper Developer
 iab Demonstarted Demonstrated
@@ -692,6 +695,7 @@ iab Detorit Detroit
 iab Devekoper Developer
 iab Devekopment Development
 iab Develiopper Developer
+iab Develloper Developer
 iab Developeers Developers
 iab Developlment Development
 iab Developmenet Development
@@ -2839,6 +2843,7 @@ iab RTired Tired
 iab RTun Run
 iab RUn Run
 iab Rachale Rachael
+iab Rachale Rachel
 iab Racheal Rachael
 iab Racheale Rachel
 iab Radient Radiant
@@ -39545,8 +39550,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab Chameleom Chameleon
-iab Rachale Rachel
-iab Atrtended Attended
-iab Develloper Developer
-iab Delevoper Developer
