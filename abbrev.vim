@@ -15536,7 +15536,7 @@ iab etenrw entire
 iab eterninty eternity
 iab etext text
 iab ethat that
-iab ethe Ethe
+iab ethe the
 iab etheir their
 iab ethisuasitic enthusiastic
 iab ethnusiasitc enthusiastic
@@ -16605,7 +16605,7 @@ iab exverpts excerpts
 iab exwercise exercise
 iab exxceeds exceeds
 iab exxcept except
-iab exxpected Expected
+iab exxpected expected
 iab exxperience experience
 iab exxxcept except
 iab eyar year
