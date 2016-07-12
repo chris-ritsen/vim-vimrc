@@ -1077,7 +1077,6 @@ iab FIsh Fish
 iab FIsniehd Finished
 iab FIx Fix
 iab FIxed Fixed
-iab FLIR FLIR
 iab FLowing Flowing
 iab FLox Phlox
 iab FMXAME FIXME
