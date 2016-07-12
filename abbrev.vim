@@ -3462,6 +3462,7 @@ iab TEntatitive Tentative
 iab TEntative Tentative
 iab TEnteativie Tentative
 iab TErmapruate Temperature
+iab TEsitngw Testing
 iab TExt Text
 iab TGe The
 iab TGhe The
@@ -8847,6 +8848,7 @@ iab ccontinue continue
 iab ccontro control
 iab ccorosswalk crosswalk
 iab ccould could
+iab ccreate create
 iab ccreating creating
 iab cdan can
 iab cdemo demo
@@ -9964,6 +9966,7 @@ iab comparying comparing
 iab compassdion compassion
 iab compassionatwe compassionate
 iab compatability compatibility
+iab compatiability compatibility
 iab compauter computer
 iab compay company
 iab compayn company
@@ -10524,6 +10527,7 @@ iab congtract contract
 iab coniditions conditions
 iab conidoiunous continuous
 iab conifguration configuration
+iab conigrugred configured
 iab conineced convinced
 iab conirfugured configured
 iab conisdernation consternation
@@ -11184,7 +11188,6 @@ iab cooffee coffee
 iab cookeies cookies
 iab cookeis cookies
 iab cookines cookies
-iab coolor color
 iab coolored colored
 iab coommentsa comments
 iab coommon common
@@ -15924,6 +15927,7 @@ iab excample example
 iab excape escape
 iab excatly exactly
 iab exccel excel
+iab exccept except
 iab excchanged exchanged
 iab exccisted existed
 iab excclucively exclusively
@@ -19073,6 +19077,7 @@ iab hyears years
 iab hyesterday yesterday
 iab hygeine hygiene
 iab hygine hygiene
+iab hyndered hundred
 iab hyndred hundred
 iab hyndreds hundreds
 iab hyou you
@@ -25886,6 +25891,7 @@ iab ourselfves ourselves
 iab ourslefes ourselves
 iab oustanding outstanding
 iab oustiide outside
+iab outcoe outcome
 iab outcside outside
 iab outcuome outcome
 iab outdclassed outclassed
@@ -27318,6 +27324,7 @@ iab pon on
 iab ponit point
 iab ponitless pointless
 iab pont point
+iab pontiless pointless
 iab pooint point
 iab pooints points
 iab poolicy policy
@@ -28411,6 +28418,7 @@ iab prograsm programs
 iab prograss progress
 iab progresseed progressed
 iab progresss progress
+iab progrlely properly
 iab progrma program
 iab progrmamgmin programming
 iab progrmamign programming

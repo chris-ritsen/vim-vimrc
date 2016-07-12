@@ -396,6 +396,10 @@ let xml_syntax_folding = 1
 
 " }}}1
 
+let g:surround_no_insert_mappings = 0
+let g:surround_no_mappings = 0
+  
+
 " Dead code {{{1
 
 " omnisharp {{{
