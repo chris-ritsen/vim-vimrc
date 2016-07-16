@@ -258,6 +258,7 @@ iab Bothe Both
 iab Bowess Bowes
 iab Bqack Back
 iab Brahama Brahma
+iab Breanches Branches
 iab Brevetiy Brevity
 iab Brigton Brighton
 iab Brtoken Broken
@@ -343,6 +344,7 @@ iab Certifcations Certifications
 iab Chabcne Chance
 iab Chameleom Chameleon
 iab Chanigng Changing
+iab Chaops Chaos
 iab Characcteristics Characteristics
 iab Characeters Characters
 iab Characteriwstidcs Characteristics
@@ -436,6 +438,7 @@ iab Compatability Compatibility
 iab Compelted Completed
 iab Compesation Compensation
 iab Completley Completely
+iab Complixcated Complicated
 iab Compoutesr Computers
 iab Comprompise Compromise
 iab Comptuer Computer
@@ -822,6 +825,7 @@ iab EAtiing Eating
 iab EAting Eating
 iab EFeevertything Everything
 iab EFen Even
+iab EGven Even
 iab EIther Either
 iab ELDGER LEDGER
 iab EMail Email
@@ -853,6 +857,7 @@ iab EVentyally Eventually
 iab EVentyually Eventually
 iab EVer Ever
 iab EVertyhing Everything
+iab EVertything Everything
 iab EVery Every
 iab EVerybody Everybody
 iab EVeryhing Everything
@@ -3427,6 +3432,7 @@ iab Styudy Study
 iab Submision Submission
 iab Subscripe Subscribe
 iab Subscriptiuons Subscriptions
+iab Suddelntly Suddenly
 iab Suddenlty Suddenly
 iab Suddlenly Suddenly
 iab Sudio Studio
@@ -4325,6 +4331,7 @@ iab Zavhary Zachary
 iab Zaxh Zach
 iab a2wareness awareness
 iab a4round around
+iab a5t at
 iab aAnother Another
 iab aEventually eventually
 iab aaaas as
@@ -4404,6 +4411,7 @@ iab abbreviatiosn abbreviations
 iab abbrevisaiosn abbreviations
 iab abbrevtaiotns abbreviations
 iab abbrevtioainos abbreviations
+iab abck back
 iab abd and
 iab abdsoutel absolute
 iab abe be
@@ -4740,6 +4748,7 @@ iab accpomlished accomplished
 iab accpomplish accomplish
 iab accpomplishments accomplishments
 iab accredidation accreditation
+iab accress access
 iab accros across
 iab accross across
 iab accruately accurately
@@ -5827,6 +5836,7 @@ iab ancientn ancient
 iab ancihient ancient
 iab anciosu anxious
 iab anda and
+iab andc and
 iab andd and
 iab andecdoes anecdotes
 iab andedotaly anecdotally
@@ -5864,6 +5874,7 @@ iab animaytes animates
 iab animla animal
 iab aninamting animating
 iab aninmal animal
+iab aniother another
 iab anither another
 iab aniticiipated anticipated
 iab anjd and
@@ -7185,6 +7196,7 @@ iab audicene audience
 iab audictory auditory
 iab audilt adult
 iab audioable audible
+iab audioble audible
 iab audioence audience
 iab audion audio
 iab audiotiory auditory
@@ -7644,6 +7656,7 @@ iab basiclaly basically
 iab basilcally basically
 iab basisc basic
 iab basiss basis
+iab baske4tball basketball
 iab basns bans
 iab basrely barely
 iab basus basis
@@ -7713,6 +7726,7 @@ iab beautifiyl beautiful
 iab beautifylly beautifully
 iab beautifyul beautiful
 iab beautufil beautiful
+iab beautuful beautiful
 iab beauturfil beautiful
 iab beautyfil beauty
 iab beavfsue because
@@ -7822,6 +7836,7 @@ iab begcoming becoming
 iab begger beggar
 iab begginining beginning
 iab begginner beginner
+iab beghan began
 iab beghin begin
 iab beghind behind
 iab beging being
@@ -8062,7 +8077,9 @@ iab bfore before
 iab bfour four
 iab bfrom from
 iab bgcvolor bgcolor
+iab bgecome become
 iab bgefore before
+iab bgegan began
 iab bgeginning beginning
 iab bgest best
 iab bgetter better
@@ -8629,6 +8646,7 @@ iab butr but
 iab buttion button
 iab buttions buttons
 iab buttojh button
+iab buttonis buttons
 iab buttter butter
 iab buttuer butter
 iab bututer butter
@@ -8924,6 +8942,7 @@ iab carzy crazy
 iab cascaiding cascading
 iab casde case
 iab casew case
+iab casews cases
 iab cashign cashing
 iab casiher cashier
 iab casued caused
@@ -9202,6 +9221,7 @@ iab charactoriestic characteristic
 iab charactoristics characteristics
 iab charactrer character
 iab charactristics characteristics
+iab characytersics characteristics
 iab charafetr character
 iab charaocitesitc characteristic
 iab charaoctiersitcs characteristics
@@ -9568,6 +9588,7 @@ iab cloihtes clothes
 iab cloithes clothes
 iab clolect collect
 iab clolledcting collecting
+iab clolors colors
 iab clolslepy closely
 iab clooelct collect
 iab cloothes clothes
@@ -9665,6 +9686,7 @@ iab cnaleds candles
 iab cnan can
 iab cnanobt cannot
 iab cnanot cannot
+iab cnavas canvas
 iab cnceived conceived
 iab cncerrn concern
 iab cnenter center
@@ -9778,6 +9800,7 @@ iab coibnsciousness consciousness
 iab coiding coding
 iab coidulk could
 iab coiinceide coincide
+iab coilors colors
 iab coimplains complaints
 iab coimpletion completion
 iab coincat concat
@@ -10035,6 +10058,7 @@ iab comntent content
 iab comnteplation contemplation
 iab comntept contempt
 iab comntrol control
+iab comoepletely completely
 iab comoeptlelelky completely
 iab comofrgable comfortable
 iab comoing coming
@@ -11208,6 +11232,7 @@ iab contracfting contracting
 iab contracidct contradict
 iab contracition contraction
 iab contracry contrary
+iab contracst contrast
 iab contracsted contrasted
 iab contractidoties contradictories
 iab contractoer contractor
@@ -11568,6 +11593,7 @@ iab coughts coughs
 iab couidl could
 iab couild could
 iab coul could
+iab coulbd could
 iab coulcd could
 iab couldb could
 iab couldd could
@@ -11744,6 +11770,7 @@ iab crteep creep
 iab crtyot crypt
 iab crubmling crumbling
 iab crucibble crucible
+iab crucisal crucial
 iab crudshed crushed
 iab crueshed crushed
 iab cruiase cruise
@@ -12833,6 +12860,7 @@ iab devlpeing developing
 iab devlpment development
 iab devlpo develop
 iab devoditing devoting
+iab devoirued devoured
 iab devoit devout
 iab dewlling dwelling
 iab dewsire desire
@@ -12884,6 +12912,7 @@ iab dfiv div
 iab dfo do
 iab dfoes does
 iab dfone done
+iab dfoor door
 iab dfown down
 iab dfrom from
 iab dfurtherst furthest
@@ -13140,6 +13169,7 @@ iab dimaensions dimensions
 iab dimensionsd dimensions
 iab dimensoins dimensions
 iab dimensons dimensions
+iab dimenstion dimension
 iab dimenstional dimensional
 iab dimesion dimension
 iab dimesnions dimensions
@@ -13497,6 +13527,7 @@ iab disrupsts disrupts
 iab dissapointments disappointments
 iab dissappearance disappearance
 iab dissincnes dissonance
+iab dissipiate dissipate
 iab dissiuade dissuade
 iab dissonence dissonance
 iab dissovles dissolves
@@ -13755,6 +13786,7 @@ iab doeer doer
 iab doen done
 iab doens doesn
 iab doensn doesn
+iab doeses doses
 iab doesnt doesn't
 iab doewnloading downloading
 iab doews does
@@ -13823,6 +13855,7 @@ iab dostrawted distracted
 iab dotteed dotted
 iab dottoed dotted
 iab doubhgt doubt
+iab doubht doubt
 iab doubtfyl doubtful
 iab doucld could
 iab doucment document
@@ -14677,6 +14710,7 @@ iab electic electric
 iab electical electrical
 iab electirciyt electricity
 iab electonic electronic
+iab electonric electronic
 iab electornic electronic
 iab electornics electronics
 iab electornidcs electronics
@@ -14964,6 +14998,7 @@ iab empplyer employer
 iab empppplo0yment employment
 iab emprty empty
 iab emptiiness emptiness
+iab emptin4ess emptiness
 iab emptiniess emptiness
 iab emptoy empty
 iab emptu empty
@@ -15046,6 +15081,7 @@ iab eneeeergy energy
 iab eneemy enemy
 iab eneergies energies
 iab eneergy energy
+iab enegergy energy
 iab enelsslely endlessly
 iab enemeies enemies
 iab enemey enemy
@@ -15068,10 +15104,12 @@ iab energty energy
 iab energuy energy
 iab enerigy energy
 iab enerngy energy
+iab enertgy energy
 iab enervy energy
 iab eneryg energy
 iab enerygy energy
 iab eneterprise enterprise
+iab enethralled enthralled
 iab enethsuiastic enthusiastic
 iab enetmies enemies
 iab enetry entry
@@ -15329,6 +15367,7 @@ iab envirpoment environment
 iab envirronment environment
 iab envisionsed envisioned
 iab envoelope envelope
+iab envoeloped enveloped
 iab envoirnoment environment
 iab envoiroment environment
 iab envoironment environment
@@ -15369,6 +15408,7 @@ iab eperience experience
 iab eperienced experienced
 iab ephmasise emphasise
 iab epiddoe episode
+iab epihaphasny epiphany
 iab epiophony epiphany
 iab epiphony epiphany
 iab episdode episode
@@ -15589,6 +15629,7 @@ iab ertcects erects
 iab ertsistance resistance
 iab erturn return
 iab erveryohn3e everyone
+iab erverytthing everything
 iab erxpercier exercise
 iab erxperieince experience
 iab esablished established
@@ -16293,6 +16334,7 @@ iab exeveal several
 iab exfceedingly exceedingly
 iab exfdeopt except
 iab exhahustivrely exhaustively
+iab exhaltued exalted
 iab exhamined examined
 iab exhault exalted
 iab exhaulted exalted
@@ -16514,6 +16556,7 @@ iab experet expert
 iab expericiing experiencing
 iab expericing experiencing
 iab expericining experiencing
+iab experidineces experiences
 iab experiece experience
 iab experiecing experiencing
 iab experiecnes experiences
@@ -16922,6 +16965,7 @@ iab familiairity familiarity
 iab familiarit familiarity
 iab familiiarze familiarize
 iab famililar familiar
+iab famililiar familiar
 iab familiy familia
 iab familkar familiar
 iab familliar familiar
@@ -16940,6 +16984,7 @@ iab farvorable favorable
 iab farvorably favorably
 iab fascade facade
 iab fascebokok facebook
+iab fascianted fascinated
 iab fascillitate facilitate
 iab fascillitatior facilitator
 iab fascscinating fascinating
@@ -17413,6 +17458,7 @@ iab folliwioungr following
 iab folllow follow
 iab folllows follows
 iab folllw follow
+iab follo2ws follows
 iab followe follow
 iab followeing following
 iab followign following
@@ -17756,6 +17802,7 @@ iab fufulling fulfilling
 iab fugireudf figured
 iab fuhirst first
 iab fuickler fucker
+iab fuiel fuel
 iab fuile file
 iab fuilename filename
 iab fuilter filter
@@ -17986,6 +18033,7 @@ iab gartings gratings
 iab garvbage garbage
 iab gauard guard
 iab gaurd guard
+iab gavbe gave
 iab gbad bad
 iab gbe be
 iab gbecause because
@@ -18276,9 +18324,11 @@ iab greemn green
 iab greief grief
 iab greif grief
 iab greoup group
+iab grereted greeted
 iab gretest greatest
 iab griep grep
 iab griggerd triggered
+iab griound ground
 iab griowth growth
 iab grippuing gripping
 iab grocdrery grocery
@@ -18298,6 +18348,7 @@ iab grpahics graphics
 iab grpahite graphite
 iab grpou group
 iab grreatlhy greatly
+iab grwe grew
 iab gses gases
 iab gseture gesture
 iab gte get
@@ -19116,6 +19167,7 @@ iab hree here
 iab hrtis this
 iab hruts hurts
 iab hsa has
+iab hsad had
 iab hsares shares
 iab hsave have
 iab hsbinh using
@@ -19327,6 +19379,7 @@ iab hyourself yourself
 iab hypgenated hyphenated
 iab hyundred hundred
 iab hyundrey hundred
+iab hyurt hurt
 iab i9s is
 iab iCLoud iCloud
 iab iCLuod iCloud
@@ -20725,6 +20778,7 @@ iab insertred inserted
 iab insescts insects
 iab insesnenitve insensitive
 iab insgtead instead
+iab insidde inside
 iab insidght insight
 iab insidhgt insight
 iab insidse inside
@@ -20863,6 +20917,7 @@ iab instrumentlal instrumental
 iab instrutions instructions
 iab insttaed instead
 iab insturments instruments
+iab insturmetns instruments
 iab instyead instead
 iab insubstational insubstantial
 iab insuccfficient insufficient
@@ -20887,6 +20942,7 @@ iab insutruments instruments
 iab inswert insert
 iab int3efivrew interview
 iab int3eriviewed interviewed
+iab intagnible intangible
 iab intamtely intimately
 iab intatemlely intimately
 iab intavernently inadvertently
@@ -21103,6 +21159,7 @@ iab interrutpions interruptions
 iab intersactions intersections
 iab intersating interesting
 iab intersesting interesting
+iab intersetd interested
 iab intersetign interesting
 iab interseting interesting
 iab intersetinged interested
@@ -21160,6 +21217,7 @@ iab interviwe interview
 iab interviweing interviewing
 iab intervqal interval
 iab interwined intertwined
+iab interwining intertwining
 iab interwtung interesting
 iab intesaresting interesting
 iab intesne intense
@@ -21354,6 +21412,7 @@ iab invompetent incompetent
 iab invomves involves
 iab invonceneient inconvenient
 iab invoolved involved
+iab invosibile invisible
 iab invounlatry involuntary
 iab invoviing involving
 iab invovle involve
@@ -21788,6 +21847,7 @@ iab journy journey
 iab journyey journey
 iab journyies journeys
 iab joyu joy
+iab joyurney journey
 iab joyurnies journeys
 iab jpet kept
 iab jqeyuriyt jquery
@@ -21967,6 +22027,7 @@ iab ki9ds kids
 iab kiccking kicking
 iab kicthen kitchen
 iab kiddy kiddie
+iab kidenergsarten kindergarten
 iab kidns kinds
 iab kieybaord keyboard
 iab kill3ed killed
@@ -22244,6 +22305,7 @@ iab laucnh launch
 iab laudnry laundry
 iab laugable laughable
 iab laugbhing laughing
+iab laugheed laughed
 iab laughes laughs
 iab launcdry laundry
 iab laundery laundry
@@ -22343,6 +22405,7 @@ iab leaadershoioip leadership
 iab leaarned learned
 iab leaerning learning
 iab leafeves leaves
+iab leaff leaf
 iab leafving leaving
 iab leagacy legacy
 iab leages leagues
@@ -23372,6 +23435,7 @@ iab meawnt meant
 iab mebed embed
 iab mebers members
 iab mecahanics mechanics
+iab mecahnically mechanically
 iab mecanism mechanism
 iab mechainics mechanics
 iab mechancial mechanical
@@ -23877,6 +23941,7 @@ iab missles missiles
 iab misspeleled misspelled
 iab misspelleings misspellings
 iab missplelings misspellings
+iab misss miss
 iab misssing missing
 iab mistaies mistakes
 iab mistakeee mistake
@@ -24109,6 +24174,7 @@ iab momemnentary momentary
 iab momemnet moment
 iab momemnt moment
 iab momemntarily momentarily
+iab momemnts moments
 iab momemoetn moment
 iab momemtn moment
 iab momenet moment
@@ -24202,6 +24268,7 @@ iab moobile mobile
 iab moodifying modifying
 iab mooment moment
 iab moonitors monitors
+iab mooon moon
 iab moorninp morning
 iab moouse mouse
 iab mopoiints points
@@ -24283,6 +24350,7 @@ iab mousee mouse
 iab mousture moisture
 iab moutnains mountains
 iab moutyh mouth
+iab movedf moved
 iab moveements movements
 iab moveie movie
 iab moveies movies
@@ -24363,6 +24431,7 @@ iab msuycles muscles
 iab msyefl myself
 iab msyelf myself
 iab msyelzxef myself
+iab msyerlf myself
 iab msyewlf myself
 iab msylsefl myself
 iab msyself myself
@@ -24421,6 +24490,7 @@ iab musiciioan musician
 iab musicions musicians
 iab musicsion musician
 iab muslcles muscles
+iab musrhooms mushrooms
 iab musscles muscles
 iab musslcles muscles
 iab mustahe mustache
@@ -24483,6 +24553,7 @@ iab myslef myself
 iab mysleff myself
 iab mysleftg myself
 iab mysself myself
+iab mystewry mystery
 iab myt my
 iab mytgh myth
 iab mythllogies mythologies
@@ -24872,6 +24943,7 @@ iab ninsudries industries
 iab ninteen nineteen
 iab nintenies nineties
 iab ninterview interview
+iab nioise noise
 iab niotice notice
 iab niravana nirvāṇa
 iab nirvana nirvāṇa
@@ -25199,6 +25271,7 @@ iab obiovuyslky obviously
 iab obisvous obvious
 iab obivoisu obvious
 iab obivosu obvious
+iab obivosus obvious
 iab obivou obvious
 iab obivous obvious
 iab obivously obviously
@@ -25370,6 +25443,7 @@ iab obvisou obvious
 iab obvisouly obviously
 iab obvisously obviously
 iab obvject object
+iab obvliosious oblivious
 iab obvoiously obviously
 iab obvois obvious
 iab obvoisulky obviously
@@ -25430,6 +25504,7 @@ iab ocdes codes
 iab ocer over
 iab ocffee coffee
 iab oclor color
+iab oclored colored
 iab oclorlessness colorlessness
 iab oclors colors
 iab ocmaptiable compatible
@@ -25838,9 +25913,11 @@ iab opinionios opinions
 iab opinoin opinion
 iab opinoion opinion
 iab opl3easant pleasant
+iab opleased pleased
 iab opmleted completed
 iab opmnimitant omnipotent
 iab opn on
+iab opnened opened
 iab opninon opinion
 iab opnion opinion
 iab opoepn open
@@ -25922,6 +25999,7 @@ iab oproportioning proportioning
 iab oprts ports
 iab opsoition position
 iab opsoitions positions
+iab opsosible possible
 iab opssible possible
 iab opssioble possible
 iab optaion obtain
@@ -26440,6 +26518,7 @@ iab pairtuclsar particular
 iab pairutclar particular
 iab paised paused
 iab paitent patient
+iab paitko patio
 iab paitnesce patience
 iab pakistan Pakistan
 iab palaesdkj placed
@@ -26638,6 +26717,7 @@ iab partocuuarl particular
 iab partsLsit partsList
 iab partsd parts
 iab partsf parts
+iab parttern pattern
 iab partucular particular
 iab partuiclular particular
 iab partuicualry particular
@@ -26961,6 +27041,7 @@ iab perfpheral peripheral
 iab perfrect perfect
 iab perfspeftive perspective
 iab perfvaeds pervades
+iab perfveclty perfectly
 iab perhiperhalls peripherals
 iab perhipherals peripherals
 iab peridiods periods
@@ -27389,6 +27470,7 @@ iab planneed planned
 iab plannig planing
 iab plannign planning
 iab plaqy play
+iab plasmqa plasma
 iab plastesd placed
 iab plastivf plastic
 iab plasys plays
@@ -27649,6 +27731,7 @@ iab poiwer power
 iab pokemon pokémon
 iab pokgin poking
 iab polalr polar
+iab polanetes planets
 iab polaoce place
 iab polayed played
 iab polayer player
@@ -28165,6 +28248,7 @@ iab preculuses precludes
 iab precveidley precisely
 iab predend pretend
 iab predfictions predictions
+iab predicatble predictable
 iab predicatesd predicates
 iab predicatlabe predictable
 iab predicdtable predictable
@@ -28250,6 +28334,7 @@ iab prenenancy pregnancy
 iab preobablyu probably
 iab preoblem problem
 iab preoblesm problems
+iab preocciupied preoccupied
 iab preocess process
 iab preocesses processes
 iab preocessing processing
@@ -28950,6 +29035,7 @@ iab provdie provide
 iab provessing processing
 iab provideing providing
 iab providesa provides
+iab providied provided
 iab providign providing
 iab providuied provided
 iab providung providing
@@ -29091,6 +29177,7 @@ iab psuedo pseudo
 iab psuedoscience pseudoscience
 iab psuzzles puzzles
 iab psychcih psychic
+iab psychedlelic psychedelic
 iab psychjological psychological
 iab psycholiogical psychological
 iab psyhche psyche
@@ -29232,6 +29319,7 @@ iab pzrticupate participate
 iab qabout about
 iab qabouyt about
 iab qall all
+iab qalll all
 iab qalready already
 iab qan an
 iab qand and
@@ -29636,6 +29724,7 @@ iab rearely rarely
 iab rearfy rarefy
 iab reasarch research
 iab reascation reaction
+iab reasching reaching
 iab reasction reaction
 iab reasd read
 iab reasder reader
@@ -29797,9 +29886,11 @@ iab reconenct reconnect
 iab recongiition recognition
 iab recongisable recognisable
 iab recongizasbly recognizably
+iab recongnised recognised
 iab reconigising recognising
 iab reconigsing recognising
 iab reconise recognise
+iab reconisied recognised
 iab reconized recognized
 iab reconsgtriucting reconstructing
 iab recoonect reconnect
@@ -30205,6 +30296,7 @@ iab remamning remaining
 iab remanants remnants
 iab remanied remained
 iab remappted remapped
+iab remarabllyt remarkably
 iab rembwember remember
 iab remdinds reminds
 iab remeained remained
@@ -30624,6 +30716,7 @@ iab reridgerate refrigerate
 iab rerporter reporter
 iab rerraticated eradicated
 iab rerterieived retrieved
+iab rertired retired
 iab rertiribution retribution
 iab rerturend returned
 iab rerturn return
@@ -31119,6 +31212,7 @@ iab rextrriction restriction
 iab reye eye
 iab rezise resize
 iab rezized resized
+iab rfabric fabric
 iab rfall fall
 iab rfelfelction reflection
 iab rfersh refresh
@@ -31276,8 +31370,10 @@ iab rotationm rotation
 iab rotattoin rotation
 iab rotdsay today
 iab roudn round
+iab roufhgly roughly
 iab roughtly roughly
 iab rougly roughly
+iab routinlely routinely
 iab routinne routine
 iab rouyndabout roundabout
 iab rovk rock
@@ -32307,6 +32403,7 @@ iab seumiconductor semiconductor
 iab seuqnece sequence
 iab seutp setup
 iab sevceral several
+iab sevconds seconds
 iab seveal several
 iab seveeral several
 iab sevelal several
@@ -32420,6 +32517,7 @@ iab shiepmtesn shipments
 iab shiftwed shifted
 iab shimpemtns shipments
 iab shimpetn shipment
+iab shininig shining
 iab shioipments shipments
 iab shioment shipment
 iab shioments shipments
@@ -32550,6 +32648,7 @@ iab shuyt shut
 iab shxousl should
 iab siad said
 iab siaze size
+iab sice side
 iab sicentific scientific
 iab sicienctific scientific
 iab sicne sine
@@ -32611,6 +32710,7 @@ iab silcence silence
 iab silcene silence
 iab silebnt silent
 iab sileence silence
+iab silendtly silently
 iab silenece silence
 iab silennced silenced
 iab silentinly silently
@@ -33773,6 +33873,7 @@ iab stimiulus stimulus
 iab stimlulating stimulating
 iab stimmuli stimuli
 iab stimulands stimulants
+iab stimulatuion stimulation
 iab stimuluant stimulant
 iab stimumulate stimulate
 iab stimuslus stimulus
@@ -34000,6 +34101,7 @@ iab strorngly strongly
 iab strrange strange
 iab strrategy strategy
 iab strt start
+iab strtentgth strength
 iab strtetch stretch
 iab strtong strong
 iab strtuctures structures
@@ -34485,6 +34587,7 @@ iab surprupseds surprises
 iab surprused surprised
 iab surprusied surprised
 iab surpsie surprise
+iab surpsied surprised
 iab surpsirignluy surprisingly
 iab surpsirignly surprisingly
 iab surpsirnigly surprisingly
@@ -34499,6 +34602,7 @@ iab surrindoundgs surroundings
 iab surroudnign surrounding
 iab surroundede surrounded
 iab surroundign surrounding
+iab surrrounding surrounding
 iab survace surface
 iab surve4illence surveillance
 iab survelioence surveillance
@@ -34618,6 +34722,7 @@ iab sweatches swatches
 iab sweatching sweating
 iab sweathces swatches
 iab sweawt sweat
+iab sweeet sweet
 iab sweelsls swells
 iab swelf self
 iab swenations sensations
@@ -35976,6 +36081,7 @@ iab threfore therefore
 iab threshhold threshold
 iab thresholld threshold
 iab thriough through
+iab thriteen thirteen
 iab thrity thirty
 iab throew throw
 iab throfugh through
@@ -35993,6 +36099,7 @@ iab throughouyt throughout
 iab throught through
 iab throughtout throughout
 iab througn through
+iab througyhout throughout
 iab throuwing throwing
 iab thrtough through
 iab thruogh through
@@ -37227,6 +37334,7 @@ iab ultimialtely ultimately
 iab ultimiately ultimately
 iab ultimlately ultimately
 iab ultiomate ultimate
+iab ultuimately ultimately
 iab umgramlatical ungrammatical
 iab umpleoyed unemployed
 iab un8ity unity
@@ -37614,6 +37722,7 @@ iab unimipprtant unimportant
 iab unimiprotant unimportant
 iab unimlepd3ed unimpeded
 iab unimpoaried unimpaired
+iab unimpoirtant unimportant
 iab uninhibitied uninhibited
 iab uninietnneanlly unintentionally
 iab uniniteded unintended
@@ -38358,6 +38467,7 @@ iab visibible visible
 iab visibile visible
 iab visibillie visible
 iab visibilty visibility
+iab visibily visibly
 iab visibl visible
 iab visibuility visibility
 iab visibvle visible
@@ -38518,6 +38628,7 @@ iab wanet went
 iab wangint wanting
 iab wannnt want
 iab wansdering wandering
+iab wantdered wandered
 iab wante wanted
 iab wantedered wandered
 iab wanthing wanting
@@ -38549,6 +38660,7 @@ iab warraynty warranty
 iab warriers warriors
 iab warsd wars
 iab warwareness awareness
+iab wasc was
 iab wasd was
 iab wasdgtewd wasted
 iab wasehr washer
@@ -39775,6 +39887,7 @@ iab yedsterday yesterday
 iab yeild yield
 iab yeilded yielded
 iab yelk0ping yelping
+iab yelol9ow yellow
 iab yeoaurslef yourself
 iab yeraerday yesterday
 iab yeras years
