@@ -9372,6 +9372,7 @@ iab chronmium chromium
 iab chrouimium chromium
 iab chruch church
 iab chsances chances
+iab chsangede changed
 iab chsiosne chosen
 iab chuild child
 iab chuip chip
@@ -9744,6 +9745,7 @@ iab cocerns concerns
 iab cocllection collection
 iab cocnerns concerns
 iab cocomitant concomitant
+iab cocorrecitons corrections
 iab cocurs occurs
 iab cocvered covered
 iab cocvers covers
@@ -11504,11 +11506,13 @@ iab correctedf corrected
 iab correctgion correction
 iab correctin correcting
 iab correctiojns corrections
+iab correctios corrections
 iab correctiosn corrections
 iab correctling correcting
 iab correctlyu correctly
 iab correctnions corrections
 iab correctoins corrections
+iab correctons corrections
 iab correctsions corrections
 iab correctting correcting
 iab correctws corrects
@@ -11563,6 +11567,7 @@ iab costsa costs
 iab costss costs
 iab cosutwsmer custumer
 iab cotact contact
+iab cotiniue continue
 iab cotinue continue
 iab cotinues continues
 iab cotnainer container
@@ -31052,6 +31057,7 @@ iab returnign returning
 iab returnred returned
 iab returnsed returned
 iab returnxs returns
+iab retursn returns
 iab retursns returns
 iab returtn return
 iab returtning returning
@@ -34620,6 +34626,7 @@ iab suscetible susceptible
 iab suscpeitble susceptible
 iab suscpetiable susceptible
 iab suscpetible susceptible
+iab susdbustituting substituting
 iab sused used
 iab suseful useful
 iab suseptible susceptible
@@ -34627,6 +34634,7 @@ iab susequenet subsequent
 iab suses uses
 iab susgest suggest
 iab susggedstions suggestions
+iab susggestions suggestions
 iab suspcetable susceptible
 iab suspcetible susceptible
 iab suspecious suspicious
@@ -39021,6 +39029,7 @@ iab whehever whenever
 iab whehn when
 iab whehnever whenever
 iab whehter whether
+iab whehverer wherever
 iab whehvever whenever
 iab wheight weight
 iab whelel wheel
