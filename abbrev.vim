@@ -12998,6 +12998,7 @@ iab diambond diamond
 iab diangoise diagnose
 iab dianogising diagnosing
 iab dibelif disbelief
+iab dicdtionary dictionary
 iab dicernment discernment
 iab dichotopmy dichotomy
 iab diciple disciple
@@ -16353,6 +16354,7 @@ iab execitice exercise
 iab execpet except
 iab execrice exercise
 iab exectue execute
+iab execture execute
 iab exectured executed
 iab exectution execution
 iab executeion execution
@@ -22697,6 +22699,7 @@ iab lgither lighter
 iab lgiths lights
 iab lgo log
 iab lgo0 log
+iab lgobal global
 iab lgoic logic
 iab lgoin login
 iab lgos logs
@@ -23509,6 +23512,7 @@ iab mbringing bringing
 iab mcenter center
 iab mciro micro
 iab mcuh much
+iab mcuhc much
 iab mcuhgin much
 iab mcuht must
 iab mcyuh much
@@ -26526,6 +26530,7 @@ iab owman woman
 iab ownders wonders
 iab ownelrless ownerless
 iab owno own
+iab owords words
 iab owork work
 iab oworking working
 iab oworlds worlds
@@ -33929,6 +33934,7 @@ iab statisdics statistics
 iab statisfarctorily satisfactorily
 iab statisticds statistic
 iab statmenetsx statements
+iab statment statement
 iab statmentes statements
 iab statnemetn statement
 iab statred started
@@ -34048,6 +34054,7 @@ iab stioll still
 iab stiop stop
 iab stioppped stopped
 iab stiorage storage
+iab stipid stupid
 iab stircT strict
 iab stircdet strict
 iab stircdt strict
@@ -39792,6 +39799,7 @@ iab wrecorded recorded
 iab wree were
 iab wreer were
 iab wreiting writing
+iab wrekc wreck
 iab wrekcing wrecking
 iab wrep wrap
 iab wrere were
@@ -40339,3 +40347,41 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
+iab indeifnintely indefinitely
+iab SOmethign Something
+iab relaly really
+iab spellling spelling
+iab includse include
+iab seplling spelling
+iab deos does
+iab appreantly apparently
+iab substtution substitution
+iab contracdtion contraction
+iab wahy why
+iab Indeinfinitely Indefinitely
+iab berathing breathing
+iab tyrhing trying
+iab spellinug spelling
+iab SHit Shit
+iab qiucily quickly
+iab increifble incredible
+iab correcitons corrections
+iab Teistign Testing
+iab begofe before
+iab tocuhing touching
+iab sopa soap
+
+iab Suddelnly Suddenly
+iab Tradityionally Traditionally
+iab Trandiotiontally Traditionally
+iab Tranditaionlly Traditionally
+iab wrowds words
+iab BBLah Blah
+iab ablah blah
+iab corecldty correctly
+iab Hleping Helping
+iab billshit bullshit
+iab msisging missing
+iab statuse statue
+iab Prometheous Prometheus
+iab ARlgtiht Alright
