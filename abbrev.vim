@@ -3504,6 +3504,7 @@ iab Syntaax Syntax
 iab Syntaix Syntax
 iab Sype Skype
 iab Systmes Systems
+iab Systyemstically Systematically
 iab Sytlebot Stylebot
 iab Sytnax Syntax
 iab T4ehese These
@@ -4306,6 +4307,7 @@ iab Wriote Write
 iab Wrirting Writing
 iab Writihn Writing
 iab Writr5ing Writing
+iab Wrodl World
 iab Wrods Words
 iab Wroking Working
 iab Wropte Wrote
@@ -5202,6 +5204,7 @@ iab adfvertiging adverting
 iab adgjecties adjectives
 iab adgood good
 iab adhective adjective
+iab adheerence adherence
 iab adiditon addition
 iab adiditonal additional
 iab adiditonally additionally
@@ -7316,6 +7319,7 @@ iab autocorection autocorrection
 iab autocorections autocorrections
 iab autocorrcdtions autocorrections
 iab autocorrctions autocorrections
+iab autocorrecdtion autocorrection
 iab autocorrecdtions autocorrections
 iab autocorreced autocorrected
 iab autocorrecetd autocorrected
@@ -9158,6 +9162,7 @@ iab centeral central
 iab centern center
 iab centert center
 iab centrer center
+iab centrifpital centripetal
 iab centry century
 iab ceoncept concept
 iab ceonsensus consensus
@@ -12076,6 +12081,7 @@ iab cycel cycle
 iab cyckle cycle
 iab cyclre cycle
 iab cyhanlelenging challenging
+iab cyllintdrical cylindrical
 iab cyou you
 iab cyrotp crypt
 iab cytccle cycle
@@ -17938,6 +17944,7 @@ iab frontned frontend
 iab frormat format
 iab frowzen frozen
 iab frpm from
+iab frquenelty frequently
 iab frquently frequently
 iab frrame frame
 iab frsutrated frustrated
@@ -18893,6 +18900,7 @@ iab hcirs chris
 iab hckecintg checking
 iab hcnage change
 iab hcnaging changing
+iab hcoeherence coherence
 iab hcoice choice
 iab hcoihce choice
 iab hcontains contains
@@ -20351,6 +20359,7 @@ iab inactivbitiy inactivity
 iab inacurate inaccurate
 iab inadequecy inadequacy
 iab inadequete inadequate
+iab inadvernently inadvertently
 iab inadvertantly inadvertently
 iab inadverttently inadvertently
 iab inagibnue imagine
@@ -23351,6 +23360,7 @@ iab magneetic magnetic
 iab magnitide magnitude
 iab magnitize magnetize
 iab magnled mangled
+iab magnnetic magnetic
 iab mahichine machine
 iab mahny many
 iab mahu many
@@ -27351,6 +27361,7 @@ iab perfvaeds pervades
 iab perfveclty perfectly
 iab perhiperhalls peripherals
 iab perhipherals peripherals
+iab perhmuations permutations
 iab peridiods periods
 iab perifepehral peripheral
 iab perifpherals peripherals
@@ -31659,6 +31670,7 @@ iab rleivrf relief
 iab rletters letters
 iab rmains remains
 iab rmaintiangin maintaining
+iab rmeaining remaining
 iab rmeanin remain
 iab rmeember remember
 iab rmeidnws reminds
@@ -32986,6 +32998,7 @@ iab showne shown
 iab showoting shooting
 iab shpae shape
 iab shpehere sphere
+iab shpehrical spherical
 iab shpemtn shipment
 iab shpemtnt shipment
 iab shpeoimetns shipments
@@ -34395,6 +34408,7 @@ iab streawms streams
 iab strech stretch
 iab streching stretching
 iab strectch stretch
+iab strecthes stretches
 iab streelamps streetlamps
 iab streess stress
 iab streessing stressing
@@ -35214,6 +35228,7 @@ iab synchornously synchronously
 iab synchretic syncretic
 iab syncohornpouslf synchronous
 iab syncrhonise synchronise
+iab syncrhonization synchronization
 iab syncrhonize synchronize
 iab syncronise synchronise
 iab syncronous synchronous
@@ -37587,6 +37602,7 @@ iab tyuturlal tutorial
 iab u8dev udev
 iab uailityh quality
 iab uanble unable
+iab uantum quantum
 iab uasable usable
 iab uasers users
 iab uatiomation automation
