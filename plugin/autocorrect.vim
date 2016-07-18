@@ -129,6 +129,9 @@ function! AC(...) range
 
   let &cpoptions = old_cpoptions
 
+
+  " TODO: Clean up more of the junk left-over from the MRU window-open script.
+
   if a:0 == 0
     let m = copy(s:lines)
   else
