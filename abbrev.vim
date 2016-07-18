@@ -24028,6 +24028,7 @@ iab mildyly mildly
 iab milew miles
 iab milion million
 iab milisieconds milliseconds
+iab millenia millennia
 iab milleniums millenniums
 iab milleseonds milliseconds
 iab millicsecondfs milliseconds
