@@ -6,8 +6,19 @@ function! s:get_word(something)
   let corrections = {}
 
   " FIXME: Screws up around contractions.
+  "
+  " FIXME: Seems to loop infinitely if the line has two corrections and
+  " the line does not end with punctuation.
 
   while empty(s:badword) == 0
+    " echo s:badword
+    " echo items(corrections)
+
+    " Not a complete fix
+    if has_key(corrections, s:badword[0]) == 1
+      break
+    endif
+
     if s:badword[1] == 'bad'
       let s:suggestion = spellsuggest(s:badword[0], 5)
 
@@ -29,7 +40,14 @@ function! s:get_word(something)
       let s:badword = []
     else
       let words = split(a:something, s:badword[0])
-      let s:badword = spellbadword(string(words[1:-1]))
+
+      if len(words) == 1
+        let next_words = words[0:-1]
+      else
+        let next_words = words[1:-1]
+      endif
+
+      let s:badword = spellbadword(string(next_words))
     endif
   endwhile
 
@@ -37,8 +55,8 @@ function! s:get_word(something)
 endfunction
 
 function! s:AC_commit()
-  unlet s:corrections
-  unlet s:thing
+  unlet! s:corrections
+  unlet! s:thing
 
   let s:lines = getline(1, line('$'))
   let s:corrections = {}
@@ -52,6 +70,9 @@ function! s:AC_commit()
   exe 'sb ' . g:AC_last_buffer
 
   for key in keys(s:corrections)
+    " What about when a partial incorrect word replaces something in another
+    " word to create an erroneous result?
+
     execute g:begin_line . "," . g:end_line . " substitute /" . key . "/" . s:corrections[key] . "/ge"
 
     let incorrect_word = key
@@ -66,9 +87,9 @@ function! s:AC_commit()
 endfunction
 
 function! AC(...) range
-  unlet g:begin_line
-  unlet g:end_line
-  unlet s:corrections
+  unlet! g:begin_line
+  unlet! g:end_line
+  unlet! s:corrections
 
   let s:corrections = {}
   let s:lines = getline(a:firstline, a:lastline)
@@ -121,7 +142,7 @@ function! AC(...) range
     endif
   endif
 
-  unlet s:thing
+  unlet! s:thing
 
   for line in m
     let s:thing = s:get_word(line)
@@ -149,6 +170,8 @@ function! AC(...) range
   setlocal modifiable
   setlocal spell
   nnoremap <buffer> <silent> <CR> :call <SID>AC_commit()<CR>
+  nnoremap <buffer> <silent> q :close<CR>:exe 'sb ' . g:AC_last_buffer<CR>
+  nnoremap <buffer> <silent> <C-c> :close<CR>:exe 'sb ' . g:AC_last_buffer<CR> 
 
   " TODO: Don't even create the buffer if there is nothing to do.
 
@@ -164,5 +187,5 @@ endfunction
 
 command! -bar -nargs=0 -range=% AC <line1>,<line2>call AC()
 
-nnoremap <leader>d :call AC()<CR>
+nnoremap <silent> <leader>d <esc>vip:call AC()<CR>
 

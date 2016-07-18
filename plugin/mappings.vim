@@ -108,7 +108,7 @@ nnoremap <C-c> <nop>
 nnoremap <F6> :!vlock<cr>
 nnoremap <Q <nop>
 nnoremap <down> <nop>
-nnoremap <leader>d :call AddAbbrev()<cr>
+" nnoremap <leader>d :call AddAbbrev()<cr>
 
 function! LookupWordDefinition()
   let l:word = expand("<cword>")
