@@ -6,9 +6,6 @@ function! s:get_word(something)
   let corrections = {}
 
   " FIXME: Screws up around contractions.
-  "
-  " FIXME: Seems to loop infinitely if the line has two corrections and
-  " the line does not end with punctuation.
 
   while empty(s:badword) == 0
     " echo s:badword
