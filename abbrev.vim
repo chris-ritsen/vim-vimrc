@@ -1639,6 +1639,7 @@ iab Incredilbyu Incredibly
 iab Incredliby Incredibly
 iab Increicfilby Incredibly
 iab Increiclby Incredibly
+iab Increidble Incredible
 iab Increidbly Incredibly
 iab Increidilby Incredibly
 iab Increidlbly Incredibly
@@ -4521,6 +4522,7 @@ iab aboanodoned abandoned
 iab aboce above
 iab abohility ability
 iab aboht about
+iab abohujt about
 iab aboid avoid
 iab aboility ability
 iab aboiltiy ability
@@ -4816,6 +4818,7 @@ iab accress access
 iab accros across
 iab accross across
 iab accruately accurately
+iab accruatrley accurately
 iab acct act
 iab acctions actions
 iab acctivity activity
@@ -5309,6 +5312,7 @@ iab adujusting adjusting
 iab adusting adjusting
 iab advacned advanced
 iab advacnement advancement
+iab advancesments advancements
 iab advancted advanced
 iab advangagtes advantages
 iab advangate advantage
@@ -5839,6 +5843,7 @@ iab amomrtise amortise
 iab amonghst amongst
 iab amonsgst amongst
 iab amonst amongst
+iab amonstght amongst
 iab amonsts amongst
 iab amont amount
 iab amoong among
@@ -6473,6 +6478,7 @@ iab appendicies appendices
 iab appeneded appended
 iab apper paper
 iab appera appear
+iab apperar appear
 iab apperarded appeared
 iab apperasr appear
 iab apperasrs appearers
@@ -7437,6 +7443,7 @@ iab avalable available
 iab avaluable available
 iab avaluable valuable
 iab avaoialble available
+iab avarage average
 iab avastly vastly
 iab avay away
 iab avbiltiy ability
@@ -8880,6 +8887,7 @@ iab cacricatured caricatured
 iab cactch catch
 iab cacuum vacuum
 iab cadn can
+iab caen can
 iab caer care
 iab caese cease
 iab caeses cases
@@ -9340,6 +9348,7 @@ iab changinf changing
 iab changking changing
 iab changle candle
 iab changr change
+iab changs changes
 iab changte change
 iab changted changed
 iab chanigng changing
@@ -10117,6 +10126,7 @@ iab comforatbly comfortably
 iab comforatbnle comfortable
 iab comformtablly comfortably
 iab comforntable comfortable
+iab comforpting comforting
 iab comfortalbe comfortable
 iab comfortalbeyl comfortably
 iab comfortant comfort
@@ -11418,6 +11428,7 @@ iab contoujnously continuously
 iab contpatlemation contemplation
 iab contpemtlation contemplation
 iab contraaaaacting contracting
+iab contrac contract
 iab contracdictory contradictory
 iab contracdt contract
 iab contracdtion contraction
@@ -11912,6 +11923,7 @@ iab createing creating
 iab createion creation
 iab createive creative
 iab createoer creator
+iab creater creator
 iab createss creates
 iab creatibely creatively
 iab creatibity creativity
@@ -11925,6 +11937,7 @@ iab creativie creative
 iab creativiely creatively
 iab creatses creates
 iab creatte create
+iab creatued created
 iab creatuesrs creatures
 iab creatye create
 iab creawte create
@@ -12241,6 +12254,7 @@ iab daugther daughter
 iab dauy day
 iab daydraem daydream
 iab dayh day
+iab dayhs days
 iab dayk day
 iab daysd days
 iab daysdream daydream
@@ -12271,6 +12285,7 @@ iab dclothes clothes
 iab dcnanot cannot
 iab dcodwnaard downward
 iab dcoming coming
+iab dcompany company
 iab dcompare compare
 iab dcomputers computers
 iab dcompuyter computer
@@ -15788,6 +15803,7 @@ iab epxlains explains
 iab epxlaintion explanation
 iab epxlajin explain
 iab epxlicit explicit
+iab epxlkiclilty explicitly
 iab epxloiting exploiting
 iab epxlore explore
 iab epxlorer explorer
@@ -18563,6 +18579,7 @@ iab gmaes games
 iab gmial gmail
 iab gmonye money
 iab gnebral general
+iab gneerally generally
 iab gneerate generate
 iab gneerated generated
 iab gneerkoius generous
@@ -19804,6 +19821,7 @@ iab iclone clone
 iab iclude include
 iab icnlcduign including
 iab icnoroprate incorporate
+iab icnrease increase
 iab icnreasese increase
 iab icnreeased increased
 iab icnremental incremental
@@ -20079,6 +20097,7 @@ iab imind mind
 iab imiortyal immortal
 iab imipratnt important
 iab imisinterpreted misinterpreted
+iab imjmediately immediately
 iab imlluminate illuminate
 iab immage image
 iab immatelrial immaterial
@@ -20456,6 +20475,7 @@ iab imprtantceeeeee importance
 iab imprtantly importantly
 iab imprtarnt important
 iab imprtnat important
+iab imprtoamtnt important
 iab imprvoe improve
 iab imprwessaed impressed
 iab impsisbile impossible
@@ -21539,6 +21559,7 @@ iab intereview interview
 iab intereviewed interviewed
 iab interewating interesting
 iab interewst interest
+iab interewsted interested
 iab interewsting interesting
 iab interewted interested
 iab interfacee interface
@@ -22705,6 +22726,7 @@ iab larely largely
 iab largeley largely
 iab largrest largest
 iab laright alright
+iab larledy already
 iab larmps lamps
 iab lasdt last
 iab laset least
@@ -22779,6 +22801,7 @@ iab layting laying
 iab laytouf layout
 iab laytout layout
 iab layunrdy laundry
+iab lazilly lazily
 iab lazinessx laziness
 iab laziset laziest
 iab lazser laser
@@ -23226,6 +23249,7 @@ iab livoign living
 iab lixstening listening
 iab lkeast least
 iab lkeaving leaving
+iab lkebyarod keyboard
 iab lkeft left
 iab lkely likely
 iab lket let
@@ -23642,6 +23666,7 @@ iab makred marked
 iab makretable marketable
 iab makreting marketing
 iab makrewd marked
+iab makrked marked
 iab makrkers markers
 iab maksing masking
 iab malatdaptive maladaptive
@@ -24788,6 +24813,7 @@ iab motication motivation
 iab moticvates motivates
 iab moticvation motivation
 iab motificavtion motivation
+iab motifivation motivation
 iab motifvation motivation
 iab motiivation motivation
 iab motiniong motioning
@@ -28525,6 +28551,7 @@ iab potenail potential
 iab potenetially potentially
 iab potentail potential
 iab potentaiolly potentially
+iab potentallially potentially
 iab potentiual potential
 iab potentiually potentially
 iab potentual potential
@@ -30348,6 +30375,7 @@ iab reasoninig reasoning
 iab reasonlable reasonable
 iab reasonlably reasonably
 iab reasonmable reasonable
+iab reasontable reasonable
 iab reasonw reason
 iab reasosn reason
 iab reasown reason
@@ -31200,6 +31228,7 @@ iab reptillian reptilian
 iab reptition repetition
 iab reptorter reporter
 iab repurcussions repercussions
+iab repvent prevent
 iab reqal real
 iab reqason reason
 iab reqauests requests
@@ -31966,6 +31995,7 @@ iab rogbged robbed
 iab roiginal original
 iab roiutine routine
 iab roject project
+iab rokcgign rocking
 iab rollled rolled
 iab roloover rollover
 iab romo room
@@ -32022,6 +32052,7 @@ iab rpesently presently
 iab rpesewnted presented
 iab rpessssssure pressure
 iab rpevent prevent
+iab rpeverabbly preferably
 iab rpevoius previous
 iab rpimary primary
 iab rpipened ripened
@@ -37113,6 +37144,7 @@ iab tomatos tomatoes
 iab tomiorrow tomorrow
 iab tomoorrow tomorrow
 iab tomororw tomorrow
+iab tomorow tomorrow
 iab tomorro tomorrow
 iab tomorrorw tomorrow
 iab tomorrowe tomorrow
@@ -39989,6 +40021,7 @@ iab wihile while
 iab wihndows windows
 iab wihshing wishing
 iab wiht with
+iab wihth with
 iab wihthich which
 iab wihthout without
 iab wihtin within
@@ -40930,37 +40963,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab rokcgign rocking
-iab lkebyarod keyboard
-iab tomorow tomorrow
-iab motifivation motivation
-iab dayhs days
-iab larledy already
-iab imprtoamtnt important
-iab imjmediately immediately
-iab apperar appear
-iab creater creator
-iab makrked marked
-iab abohujt about
-iab creatued created
-iab reasontable reasonable
-iab epxlkiclilty explicitly
-iab icnrease increase
-iab lazilly lazily
-iab changs changes
-iab advancesments advancements
-iab potentallially potentially
-iab rpeverabbly preferably
-iab avarage average
-iab accruatrley accurately
-iab Increidble Incredible
-iab contrac contract
-iab repvent prevent
-iab comforpting comforting
-iab dcompany company
-iab idela ideal
-iab wihth with
-iab gneerally generally
-iab interewsted interested
-iab caen can
-iab amonstght amongst
