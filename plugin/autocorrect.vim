@@ -81,6 +81,9 @@ function! s:AC_commit()
     call writefile(readfile(a:abbrev_file)+a:lines, a:abbrev_file)
     execute 'iab ' incorrect_word . ' ' . correct_word
   endfor
+
+  execute 'wincmd _'
+  normal! }zz
 endfunction
 
 function! AC(...) range
@@ -160,6 +163,11 @@ function! AC(...) range
   if len(keys(s:corrections)) == 0
     close
     exe 'sb ' . g:AC_last_buffer
+
+    " Not really ideal
+
+    execute 'wincmd _'
+    normal! }zz
     return
   endif
 
