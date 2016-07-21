@@ -50,6 +50,7 @@ iab APGER PAGER
 iab APplied Applied
 iab ARbor Arbor
 iab ARch Arch
+iab ARchitecht Architect
 iab ARe Are
 iab ARising Arising
 iab ARiving Arriving
@@ -9321,6 +9322,7 @@ iab challeenges challenges
 iab challegned challenged
 iab challendges challenges
 iab challenege challenge
+iab challeneged challenged
 iab challenenges challenges
 iab challengding challenging
 iab challenge2 challenge
@@ -9623,6 +9625,7 @@ iab ciricle circle
 iab ciritcial critical
 iab ciriticiezed criticized
 iab ciriticism criticism
+iab ciriticulal critical
 iab ciritiixisms criticisms
 iab cirppled crippled
 iab cirriouscous cirrhosis
@@ -13140,6 +13143,7 @@ iab dfevleoped developed
 iab dfiarrhaea diarrhea
 iab dfid did
 iab dfidszxtnsweace distance
+iab dfificiulty difficulty
 iab dfiiferent different
 iab dfinding finding
 iab dfireceive directive
@@ -17512,6 +17516,7 @@ iab fidgietiness fidgetiness
 iab fidigiting fidgeting
 iab fidldling fiddling
 iab fidn find
+iab fidnign finding
 iab fidning finding
 iab fidnm find
 iab fiecrece fierce
@@ -21539,6 +21544,7 @@ iab intereste interest
 iab interestedd interested
 iab interesteded interested
 iab interesteds interested
+iab interesteed interested
 iab interesteing interesting
 iab interestes interests
 iab interestesing interesting
@@ -21639,6 +21645,7 @@ iab interupruted interrupted
 iab interupt interrupt
 iab interupttintg interrupting
 iab interutpuon interruption
+iab interveiew interview
 iab intervenet intervene
 iab intervew interview
 iab intervial interval
@@ -22066,6 +22073,7 @@ iab isssue issue
 iab issuesa issues
 iab issuexd issues
 iab issuie issue
+iab issuues issues
 iab istannct instant
 iab iste site
 iab istelf itself
@@ -28505,6 +28513,7 @@ iab possiotion position
 iab possition position
 iab posslby possibly
 iab posslibly possibly
+iab possoble possible
 iab posssible possible
 iab postewd posted
 iab postibie positive
@@ -29732,6 +29741,7 @@ iab psoon spoon
 iab psorst sports
 iab psosbile possible
 iab psosbily possibly
+iab psosibel possible
 iab psosibile possible
 iab psosibiley possibly
 iab psosibilities possibilities
@@ -38767,6 +38777,7 @@ iab upublished published
 iab upullled unplugged
 iab upushed pushed
 iab uputting putting
+iab uqaickly quickly
 iab uqbitouquts ubiquitous
 iab uqickly quickly
 iab uqseless useless
@@ -38961,6 +38972,7 @@ iab v3ery very
 iab v4ersion version
 iab vaar var
 iab vacciines vaccines
+iab vaciation vacation
 iab vactaion vacation
 iab vactation vacation
 iab vacujuming vacuuming
@@ -40204,6 +40216,7 @@ iab woiudl would
 iab woiuld would
 iab woiuldk would
 iab wokr work
+iab wokrded worked
 iab wokred worked
 iab wokrekrs workers
 iab wokrers workers
