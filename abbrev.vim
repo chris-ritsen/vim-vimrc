@@ -84,6 +84,7 @@ iab Actiually Actually
 iab Acutaully Actually
 iab Adatper Adapter
 iab Adavnce Advance
+iab Adccientlally Accidentally
 iab Adderal Adderall
 iab Additonally Additionally
 iab Addrelal Adderall
@@ -1261,6 +1262,7 @@ iab GTive Give
 iab GUET GET
 iab GUy Guy
 iab Gamil Gmail
+iab Gardenss Gardens
 iab Garnat Garant
 iab Gbecause Because
 iab Ged Get
@@ -1442,6 +1444,7 @@ iab Hygine Hygiene
 iab Hyndai Hyundai
 iab Hypheneated Hyphenated
 iab ICLicking Clicking
+iab IDea Idea
 iab IDsalbe Disable
 iab IGo Go
 iab IHOw How
@@ -2465,6 +2468,7 @@ iab Pelases Pleases
 iab Pelasews Pleases
 iab Pelaswes Pleases
 iab Pelsaes Pleases
+iab Penthosue Penthouse
 iab Peoiple People
 iab Peopel People
 iab Peopl People
@@ -5775,6 +5779,7 @@ iab altogetoehrr altogether
 iab altohgether altogether
 iab altoogether altogether
 iab altyernatley alternately
+iab altyhoguh although
 iab alue value
 iab alumninum aluminum
 iab aluring alluring
@@ -9126,6 +9131,7 @@ iab catgory category
 iab cathc catch
 iab catostrophic catastrophic
 iab catregory category
+iab catwlaks catwalks
 iab caty cat
 iab caudsing causing
 iab cauled called
@@ -13462,6 +13468,7 @@ iab direcdt direct
 iab direcdteions directions
 iab direcdtion direction
 iab direcdtions directions
+iab direcdtor director
 iab direcdtory directory
 iab direcgt direct
 iab direcgtr5ion direction
@@ -19272,6 +19279,7 @@ iab hiddden hidden
 iab hiddeb hidden
 iab hiddne hidden
 iab hideen hidden
+iab hideing hiding
 iab hideuous hideous
 iab hidnrancaes hindrances
 iab hidnrances hindrances
@@ -21712,6 +21720,7 @@ iab intesting interesting
 iab inteswting interesting
 iab intetgration integration
 iab intetion intention
+iab inteudrties industries
 iab inteutuively intuitively
 iab inteval interval
 iab inteview interview
@@ -24338,6 +24347,7 @@ iab minnium minimum
 iab minnute minute
 iab minodr minor
 iab minoitoring monitoring
+iab minstake mistake
 iab minstakne mistaken
 iab minstkane mistaken
 iab mintes minutes
@@ -26239,6 +26249,7 @@ iab oimpossible impossible
 iab oimprove improve
 iab oimprtantly importantly
 iab oimprtantnce importance
+iab oince once
 iab oincorreclty incorrectly
 iab oincreasing increasing
 iab oinly only
@@ -27310,6 +27321,7 @@ iab patheitc pathetic
 iab patheitic pathetic
 iab pathentic pathetic
 iab pathetci pathetic
+iab patheticg pathetic
 iab pathetix pathetic
 iab patht path
 iab patienc patience
@@ -28514,6 +28526,7 @@ iab possition position
 iab posslby possibly
 iab posslibly possibly
 iab possoble possible
+iab possoible possible
 iab posssible possible
 iab postewd posted
 iab postibie positive
@@ -30638,6 +30651,7 @@ iab reetained retained
 iab reetreat retreat
 iab reeturn return
 iab reevaelsed revealed
+iab reevolver revolver
 iab reewtdched researched
 iab refacter refactor
 iab refactoriing refactoring
@@ -31300,6 +31314,7 @@ iab requiredt required
 iab requiree require
 iab requireed required
 iab requireing requiring
+iab requireme3nt requirement
 iab requiremenst requirements
 iab requirementds requirements
 iab requirementsw requirements
@@ -32005,6 +32020,7 @@ iab rogbged robbed
 iab roiginal original
 iab roiutine routine
 iab roject project
+iab rokcets rockets
 iab rokcgign rocking
 iab rollled rolled
 iab roloover rollover
@@ -32960,6 +32976,7 @@ iab serbice service
 iab serbiv service
 iab serces serves
 iab sercie service
+iab serciruitiy security
 iab sercive service
 iab sercurity security
 iab sereneity serenity
@@ -34381,6 +34398,7 @@ iab st4riking striking
 iab staart start
 iab stabilizqiton stabilization
 iab stabiltiy stability
+iab stacak stack
 iab stache scratch
 iab stachel satchel
 iab stadard standard
@@ -37524,6 +37542,7 @@ iab trifvial trivial
 iab trigeer trigger
 iab triger trigger
 iab triggerd triggered
+iab triggerdd triggered
 iab triggereed triggered
 iab trigget trigger
 iab triigger trigger
@@ -38194,6 +38213,7 @@ iab uncopmrimising uncompromising
 iab uncormfortable uncomfortable
 iab uncorrcted uncorrected
 iab uncoscoiuslyy unconsciously
+iab uncosncous unconscious
 iab uncosniocus unconscious
 iab uncosnous unconscious
 iab uncouscnous unconscious
@@ -38450,6 +38470,7 @@ iab unforlding unfolding
 iab unforntaute unfortunate
 iab unfortgettable unforgettable
 iab unfortnantely unfortunately
+iab unfortnmuately unfortunately
 iab unfortnuate unfortunate
 iab unfortnuately unfortunately
 iab unfortuantley unfortunately
@@ -39977,6 +39998,7 @@ iab whuile while
 iab whule while
 iab whwatever whatever
 iab whwatwgver whatever
+iab whwehenver whenever
 iab whwen when
 iab whwere where
 iab whwerever wherever
