@@ -270,6 +270,7 @@ iab Bopredome Boredom
 iab Boredome Boredom
 iab Bothe Both
 iab Bowess Bowes
+iab Bpredom Boredom
 iab Bqack Back
 iab Brahama Brahma
 iab Breanches Branches
@@ -1711,6 +1712,7 @@ iab Interenet Internet
 iab Interluede Interlude
 iab Interseting Interesting
 iab Interuldes Interludes
+iab Intesreted Interested
 iab Intetnet Internet
 iab Inteview Interview
 iab Intiialise Initialise
@@ -2669,6 +2671,10 @@ iab Probyably Probably
 iab Probylaygb Probably
 iab Procesing Processing
 iab Procrastianting Procrastinating
+iab Prodigduius Prodigious
+iab Prodiguous Prodigious
+iab Prodisdgus Prodigious
+iab Produdgues Prodigious
 iab Produvt Product
 iab Proeducts Products
 iab Profesionals Professionals
@@ -2702,6 +2708,7 @@ iab Prpaboabyly Probably
 iab Prparing Preparing
 iab Prplboably Probably
 iab Prtoabyaly Probably
+iab Prtodiocuous Prodigious
 iab Pruinting Printing
 iab Pruobalby Probably
 iab Prybaboly Probably
@@ -3198,6 +3205,7 @@ iab SQuiggly Squiggly
 iab SSOmething Something
 iab SSQL SQL
 iab SShould Should
+iab SSome Some
 iab STArting Starting
 iab STPO STOP
 iab STackable Stackable
@@ -5632,6 +5640,7 @@ iab allarming alarming
 iab allb all
 iab alld all
 iab alleiviated alleviated
+iab allievation alleviation
 iab alliow allow
 iab alll all
 iab alllowing allowing
@@ -5848,6 +5857,7 @@ iab amognst amongst
 iab amoing among
 iab amomrtise amortise
 iab amonghst amongst
+iab amongset amongst
 iab amonsgst amongst
 iab amonst amongst
 iab amonstght amongst
@@ -6193,6 +6203,7 @@ iab anys any
 iab anyt any
 iab anyt9hgng anything
 iab anytbging anything
+iab anytbhnign anything
 iab anytbody anybody
 iab anytghing anything
 iab anytghiung anything
@@ -8505,6 +8516,7 @@ iab bothererd bothered
 iab botheribgn bothering
 iab bothg both
 iab bothj both
+iab bothterdd bothered
 iab bototm bottom
 iab bottole bottle
 iab bottomomost bottommost
@@ -12262,6 +12274,7 @@ iab datre date
 iab daughtor daughter
 iab daugther daughter
 iab dauy day
+iab dawy day
 iab daydraem daydream
 iab dayh day
 iab dayhs days
@@ -12377,6 +12390,7 @@ iab debuggin debugging
 iab debuggter debugger
 iab debugin debug
 iab debutg3er debugger
+iab debvelopments developments
 iab decalare declare
 iab decard decade
 iab decardes decades
@@ -12811,6 +12825,7 @@ iab desdiceds decides
 iab desdign design
 iab desdpreately desperately
 iab desdribed described
+iab deseprately desperately
 iab desereved deserved
 iab deservces deserves
 iab deservign deserving
@@ -14075,11 +14090,13 @@ iab doid did
 iab doig doing
 iab doign doing
 iab doignnn doing
+iab doignnnnn doing
 iab doignth doing
 iab doijg doing
 iab doinb doing
 iab doindg doing
 iab doingg doing
+iab doinging doing
 iab doinvg doing
 iab doirectoves directives
 iab doitng doing
@@ -14677,6 +14694,7 @@ iab ecvept except
 iab ecxat exact
 iab ecxcellenet excellent
 iab ecxcept except
+iab ecxcessive excessive
 iab ecxclucivfe exclusive
 iab ecxcuse excuse
 iab ecxecuted executed
@@ -18455,6 +18473,7 @@ iab geit get
 iab genearally generally
 iab genearate generate
 iab genearl general
+iab genearlal general
 iab genearlly generally
 iab geneerally generally
 iab geneeric generic
@@ -18944,6 +18963,7 @@ iab happe3ning happening
 iab happeened happened
 iab happeening happening
 iab happeier happier
+iab happeining happening
 iab happend happened
 iab happended happened
 iab happene happen
@@ -19404,6 +19424,7 @@ iab hjmust must
 iab hjoem home
 iab hjome home
 iab hjover hover
+iab hjowe how
 iab hjpyotetical hypothetical
 iab hjte the
 iab hjust just
@@ -20397,6 +20418,7 @@ iab imposisbily impossibly
 iab imposisble impossible
 iab imposisgbile impossible
 iab imposisible impossible
+iab imposisilby impossibly
 iab imposislboe impossible
 iab impossibdle impossible
 iab impossibel impossible
@@ -21548,6 +21570,7 @@ iab interesacting interacting
 iab interesaction interaction
 iab interesdt interest
 iab intereseting interesting
+iab interesfere interfere
 iab interesitng interesting
 iab interesperced interspersed
 iab intereste interest
@@ -24212,6 +24235,7 @@ iab metodoligy methodology
 iab metorite meteorite
 iab metpy empty
 iab mewidtaiton meditation
+iab meysefl myself
 iab meyself myself
 iab mfree free
 iab mfself myself
@@ -26440,6 +26464,7 @@ iab operatin operating
 iab operatinga operating
 iab operatino operating
 iab operatioinal operational
+iab operationg operations
 iab operhating operating
 iab operiating operating
 iab operiod period
@@ -29003,6 +29028,7 @@ iab prescene presence
 iab prescense presence
 iab prescess process
 iab prescisley precisely
+iab presdent present
 iab presebnt present
 iab presense presence
 iab presentaiton presentation
@@ -32047,6 +32073,7 @@ iab roudn round
 iab roufhgly roughly
 iab roughtly roughly
 iab rougly roughly
+iab routilnely routinely
 iab routinlely routinely
 iab routinne routine
 iab rouyndabout roundabout
@@ -32153,6 +32180,7 @@ iab rtesting testing
 iab rteturn return
 iab rteureturned returned
 iab rteurn return
+iab rtgiht right
 iab rthat that
 iab rthater rather
 iab rthe the
@@ -34598,6 +34626,7 @@ iab stie site
 iab stigmitized stigmatized
 iab stiill still
 iab stikck stick
+iab stikre strike
 iab stikres strikes
 iab stil still
 iab stilll still
@@ -35144,6 +35173,7 @@ iab suitiable suitable
 iab suitible suitable
 iab suitied suited
 iab suitilble suitable
+iab suituation situation
 iab suiz six
 iab sulddenly suddenly
 iab sulphyr sulphur
@@ -37067,6 +37097,7 @@ iab tning thing
 iab tnire entire
 iab tnocie notice
 iab tnogiht tonight
+iab tnohing nothing
 iab tnothign nothing
 iab tnow now
 iab tnowa now
@@ -38179,6 +38210,7 @@ iab uncertian uncertain
 iab uncertianity uncertainty
 iab uncertianty uncertainty
 iab uncertinty uncertainty
+iab uncesssary unnecessary
 iab uncfomfortable uncomfortable
 iab unchaged unchanged
 iab unchainging unchanging
@@ -39428,6 +39460,7 @@ iab wahatever whatever
 iab wahave have
 iab wahen when
 iab waht what
+iab wahtching watching
 iab wahtefver whatever
 iab wahter water
 iab wahterever whatever
@@ -40337,6 +40370,7 @@ iab workrry worry
 iab worksapces workspaces
 iab worksmanship workmanship
 iab workspammnship workmanship
+iab workspoaces workspaces
 iab workstaions workstations
 iab workstatiosn workstations
 iab workstattions workstations
@@ -40512,6 +40546,7 @@ iab writw write
 iab writwe write
 iab wriuings writings
 iab wriute write
+iab wriutten written
 iab wriwte write
 iab wrkecking wrecking
 iab wrld world

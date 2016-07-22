@@ -178,6 +178,7 @@ function! AC(...) range
   setlocal modifiable
   setlocal spell
   nnoremap <buffer> <silent> <CR> :call <SID>AC_commit()<CR>
+  nnoremap <buffer> <silent> <C-j> :call <SID>AC_commit()<CR>
   nnoremap <buffer> <silent> q :close<CR>:exe 'sb ' . g:AC_last_buffer<CR>
   nnoremap <buffer> <silent> <C-c> :close<CR>:exe 'sb ' . g:AC_last_buffer<CR> 
 
