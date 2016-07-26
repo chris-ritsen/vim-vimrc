@@ -3856,6 +3856,7 @@ iab Threateneed Threatened
 iab Threee Three
 iab Threse These
 iab Throughts Thoughts
+iab Thruday Thursday
 iab Thrusay Thruway
 iab Thsat That
 iab Thsdi This
