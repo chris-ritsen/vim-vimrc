@@ -89,6 +89,7 @@ iab Adderal Adderall
 iab Additonally Additionally
 iab Addrelal Adderall
 iab AddressS Address
+iab Adfvance Advance
 iab Adhereance Adherence
 iab Adidtioanly Additionally
 iab Adjustewd Adjusted
@@ -132,6 +133,7 @@ iab Amoing Among
 iab Amojgn Among
 iab Amonog Among
 iab Amoung Among
+iab Amouynt Amount
 iab Ampparently Apparently
 iab Anagami Anāgāmi
 iab Analogigous Analogous
@@ -173,6 +175,7 @@ iab Arlarmingly Alarmingly
 iab Arlgiht Alright
 iab Arlight Alright
 iab Arlright Alright
+iab Arnbor Arbor
 iab Aroudn Around
 iab Artch Arch
 iab Arthritius Arthritis
@@ -769,6 +772,7 @@ iab Dicifficult Difficult
 iab Dickss Dicks
 iab Dicontinuitiy Discontinuity
 iab Differnet Different
+iab Difrfrent Different
 iab Digiital Digital
 iab Digittal Digital
 iab Digstusted Disgusted
@@ -3476,6 +3480,7 @@ iab Strony Strong
 iab Strorage Storage
 iab Strupdi Stupid
 iab Stuido Studio
+iab Stuty Study
 iab Stydy Study
 iab Styelsheets Stylesheets
 iab Stypmied Stymied
@@ -3670,6 +3675,7 @@ iab TRhat That
 iab TRhe The
 iab TRhinkg Thinking
 iab TRhis Tris
+iab TRraffic Traffic
 iab TRuth Truth
 iab TVf TV
 iab TWo Two
@@ -3918,6 +3924,7 @@ iab Transfereed Transfered
 iab Transpikt Transit
 iab Trascribe Transcribe
 iab Trasnscribing Transcribing
+iab Trhreat Threat
 iab Triyn Trying
 iab Trsut Trust
 iab Trunred Turned
@@ -5098,6 +5105,7 @@ iab activityt activity
 iab activley actively
 iab activlyely actively
 iab activtuy activity
+iab activty activity
 iab activutry activity
 iab activuty activity
 iab activuyty activity
@@ -5326,6 +5334,7 @@ iab adujusting adjusting
 iab adusting adjusting
 iab advacned advanced
 iab advacnement advancement
+iab advancedc advanced
 iab advancesments advancements
 iab advancted advanced
 iab advangagtes advantages
@@ -6029,6 +6038,8 @@ iab anolog analog
 iab anomolous anomalous
 iab anomoulus anomalous
 iab anomyore anymore
+iab anonimity anonymity
+iab anonmous anonymous
 iab anonoyance annoyance
 iab anorther another
 iab anoteher another
@@ -7303,6 +7314,7 @@ iab attrrivutes attributes
 iab attrubte attribute
 iab attrubtes attributes
 iab atttached attached
+iab atttacks attacks
 iab atttempt attempt
 iab atttented attended
 iab atttmpet attempt
@@ -9001,6 +9013,7 @@ iab camer camera
 iab camers cameras
 iab camnn can
 iab camoflage camouflage
+iab campagins campaigns
 iab campaighns campaigns
 iab campaigsn campaigns
 iab camra camera
@@ -10220,6 +10233,7 @@ iab commoandws commands
 iab commobn common
 iab commomn common
 iab commonplade commonplace
+iab commplete complete
 iab commputer computer
 iab commuatator commutator
 iab commucate communicate
@@ -10799,6 +10813,7 @@ iab confcept concept
 iab confcisidred considered
 iab confcnetration concentration
 iab confdomrity conformity
+iab conferaencing conferencing
 iab confereance conference
 iab conferenc3 conference
 iab conferenc4re conference
@@ -11274,6 +11289,7 @@ iab contecentraiont concentration
 iab contecentration concentration
 iab contect context
 iab contecxts contexts
+iab contedxt context
 iab conteinue continue
 iab contelmpaltion contemplation
 iab contelmplpation contemplation
@@ -12936,6 +12952,7 @@ iab desxccribing describing
 iab desxcrfibe describe
 iab desxcribed described
 iab desxcription description
+iab desxignation designation
 iab desxterity dexterity
 iab deszciousions decisions
 iab det3emrinteation determination
@@ -15345,6 +15362,7 @@ iab emululators emulators
 iab emy my
 iab enabledk enabled
 iab enablve enable
+iab enablying enabling
 iab enacs emacs
 iab enadchcnatent enchantment
 iab enahcned enhanced
@@ -15567,6 +15585,7 @@ iab enterily entirely
 iab enteringn entering
 iab enterinyut eternity
 iab enterirely entirely
+iab enterirpise enterprise
 iab enteriung entering
 iab enternity eternity
 iab enterred entered
@@ -17019,6 +17038,7 @@ iab expewrieinced experienced
 iab expewrieinces experiences
 iab expewriiencing experiencing
 iab expexts expects
+iab exphiltration exfiltration
 iab expididted expedited
 iab expieicence experience
 iab expiereince experience
@@ -17630,6 +17650,7 @@ iab finallya finally
 iab finaly finally
 iab finalyl finally
 iab financinal financial
+iab finanical financial
 iab fincances finances
 iab finctional fictional
 iab findc find
@@ -20907,6 +20928,7 @@ iab indistinguisable indistinguishable
 iab indistruial industrial
 iab indistruy industry
 iab indisturtyt industry
+iab indivatoror indicator
 iab indivators indicators
 iab indivbisdible indivisible
 iab indivdiaul individual
@@ -21857,6 +21879,7 @@ iab investating investigating
 iab investeagqated investigated
 iab investeivatged investigated
 iab investers investors
+iab investgaitions investigations
 iab investgated investigated
 iab investicate investigate
 iab investicgation investigation
@@ -21874,6 +21897,7 @@ iab invetrviewsx interviews
 iab invexted invested
 iab invfrlated inflated
 iab invidisdual individual
+iab inviestigations investigations
 iab invilving involving
 iab invincilvbe invincible
 iab inviokling invoking
@@ -22766,8 +22790,10 @@ iab laregly largely
 iab larelgy largely
 iab larelty lately
 iab larely largely
+iab largeest largest
 iab largeley largely
 iab largrest largest
+iab largstt largest
 iab laright alright
 iab larledy already
 iab larmps lamps
@@ -24655,6 +24681,7 @@ iab modofiied modified
 iab modofiy modify
 iab modofying modifying
 iab moduels modules
+iab modulee module
 iab moduoles modules
 iab moduules moduules
 iab moelcule molecule
@@ -24853,6 +24880,7 @@ iab moswtly mostly
 iab motbh month
 iab motherobardsa motherboards
 iab mothing nothing
+iab mothnns moths
 iab mothsh moths
 iab motication motivation
 iab moticvates motivates
@@ -25400,6 +25428,7 @@ iab netires entires
 iab netity entity
 iab netowkk network
 iab netowkr network
+iab netowkrs networks
 iab nettwrok network
 iab netuiehr neither
 iab netuiher neither
@@ -28951,6 +28980,7 @@ iab preliminatry preliminary
 iab preliminiary preliminary
 iab prelimnary preliminary
 iab premire premiere
+iab premisis premises
 iab premissies premises
 iab premit permit
 iab prenenancy pregnancy
@@ -29341,6 +29371,7 @@ iab prodcutive productive
 iab prodcutivity productivity
 iab prodessing processing
 iab prodessional professional
+iab prodetction protection
 iab prodfuctive productive
 iab prodicols protocols
 iab prodictuve productive
@@ -29676,6 +29707,7 @@ iab provessing processing
 iab provideing providing
 iab providesa provides
 iab providied provided
+iab providier provider
 iab providign providing
 iab providuied provided
 iab providung providing
@@ -29740,6 +29772,7 @@ iab pruuple purple
 iab prved proved
 iab prviacyt privacy
 iab prvileneged privileged
+iab prvodiers providers
 iab prvoed proved
 iab psace space
 iab psaec space
@@ -30326,6 +30359,7 @@ iab realated related
 iab realating relating
 iab realationship relationship
 iab realdly really
+iab realease release
 iab realeased released
 iab realelease release
 iab realely really
@@ -30648,6 +30682,7 @@ iab redst rest
 iab redstore restore
 iab redsutl result
 iab reducded reduced
+iab reducse reduces
 iab reducte reduce
 iab reducxce reduce
 iab redudancy redundancy
@@ -32387,6 +32422,7 @@ iab satisyfing satisfying
 iab satiuyrda saturday
 iab satrtes starts
 iab satsified satisfied
+iab sattack attack
 iab saturdsay saturday
 iab satyrday saturday
 iab satyursay saturday
@@ -32616,6 +32652,7 @@ iab scvreens screens
 iab scvript script
 iab scylinder cylinder
 iab scymbol symbol
+iab sd4escription description
 iab sdame same
 iab sdaome some
 iab sdark dark
@@ -32705,6 +32742,7 @@ iab sebseses senses
 iab secanario scenario
 iab secction section
 iab secdetion section
+iab secdfurity security
 iab secdtion section
 iab secdtions sections
 iab secenario scenario
@@ -32720,6 +32758,7 @@ iab secionds seconds
 iab seciont section
 iab seciotn section
 iab seciotns seconds
+iab seciruty security
 iab secirutyy security
 iab seciryti security
 iab seciton section
@@ -32744,6 +32783,7 @@ iab sectret secret
 iab sectuion section
 iab seculded secluded
 iab seculuction seclusion
+iab securiing securing
 iab securirty security
 iab securly securely
 iab securtity security
@@ -33051,6 +33091,7 @@ iab servearla several
 iab servef server
 iab servefr server
 iab servefrs servers
+iab serveice service
 iab servera server
 iab serveral several
 iab serversa servers
@@ -38742,6 +38783,7 @@ iab unsivrersal universal
 iab unskillfull unskillful
 iab unspecifiied unspecified
 iab unstpopablwe unstoppable
+iab unstructuredf unstructured
 iab unsuabble unusable
 iab unsuable unusable
 iab unsubstational unsubstantial
@@ -39325,6 +39367,7 @@ iab visibillie visible
 iab visibilty visibility
 iab visibily visibly
 iab visibl visible
+iab visibliity visibility
 iab visibuility visibility
 iab visibvle visible
 iab visidble visible
@@ -39339,6 +39382,7 @@ iab visist visit
 iab visistors visitors
 iab visists visits
 iab visiual visual
+iab visivility visibility
 iab vislble visible
 iab visualisatoin visualisation
 iab visuble visible
