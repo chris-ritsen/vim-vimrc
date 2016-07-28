@@ -1349,6 +1349,7 @@ iab HPaseers Phasers
 iab HSELEL SHELL
 iab HTIs This
 iab HTMDL HTML
+iab HTMOL HTML
 iab HTe The
 iab HTen Then
 iab HTere There
@@ -3694,6 +3695,7 @@ iab TYpical Typical
 iab TYping Typing
 iab Tahnks Thanks
 iab Tahsnk Thanks
+iab Tahtw That
 iab Talkinag Talking
 iab Tallking Talking
 iab Talluying Tallying
@@ -5609,6 +5611,7 @@ iab algined aligned
 iab algint align
 iab algiriothms algorithms
 iab algirotihms algorithms
+iab algoifrithms algorithms
 iab algoirthm algorithm
 iab algoitryhtms algorithms
 iab algorhtims algorithms
@@ -6737,6 +6740,7 @@ iab apsiriations aspirations
 iab apsirin aspirin
 iab aptch patch
 iab apth path
+iab apthetic pathetic
 iab apwepr paper
 iab apy pay
 iab aqbout about
@@ -10351,6 +10355,7 @@ iab compay company
 iab compayn company
 iab compayny company
 iab compbine combine
+iab compcoents components
 iab compeassion compassion
 iab compeelling compelling
 iab compelete complete
@@ -10387,6 +10392,7 @@ iab compguers computers
 iab comphrenension comprehension
 iab comphter computer
 iab comphters computers
+iab compiele compile
 iab compieled compiled
 iab compiliation compilation
 iab compiule compile
@@ -10617,6 +10623,7 @@ iab concentraiton concentration
 iab concentreate concentrate
 iab conceopt concept
 iab conceoption conception
+iab concepcts concepts
 iab concepets concepts
 iab conceppets concepts
 iab conceptes concepts
@@ -15088,6 +15095,7 @@ iab elelctriicity electricity
 iab elelctronics electronics
 iab elelemtn element
 iab elelepghant elephant
+iab elelmetnes elements
 iab elelven eleven
 iab elelvent eleven
 iab elemenbts elements
@@ -17445,6 +17453,7 @@ iab featuesr features
 iab featuirng featuring
 iab featuresx features
 iab featurez features
+iab featurues features
 iab featuyre feature
 iab featuyres features
 iab featyures features
@@ -21649,6 +21658,7 @@ iab interive2w interview
 iab interivei3w interview
 iab interivew interview
 iab interivewiing interviewing
+iab interivwe interview
 iab interlaly internally
 iab interneal internal
 iab internela internal
@@ -22799,6 +22809,7 @@ iab largstt largest
 iab laright alright
 iab larledy already
 iab larmps lamps
+iab lartgest largest
 iab lasdt last
 iab laset least
 iab laste least
@@ -27196,6 +27207,7 @@ iab paralllel parallel
 iab paralyne parylene
 iab paramaters parameters
 iab parameeter parameter
+iab paramemer parameter
 iab parameneter parameter
 iab paramenter parameter
 iab paramentesr parameters
@@ -29565,6 +29577,7 @@ iab prologning prolonging
 iab prologoned prolonged
 iab prolongued prolonged
 iab prominemtly prominently
+iab prominiently prominently
 iab prominnnetly prominently
 iab promisihng promising
 iab promisisewss promises
@@ -32362,6 +32375,7 @@ iab sampekl sample
 iab sampels samples
 iab sampingls samplings
 iab sampings samplings
+iab sampple sample
 iab samre same
 iab samrt smart
 iab samsara saṃsāra
@@ -34260,6 +34274,7 @@ iab specificv specific
 iab specifiic specific
 iab specifiically specifically
 iab specifiicilay specifically
+iab specifiicity specificity
 iab specifiicvally specifically
 iab specifiied specified
 iab specifiy specify
@@ -39418,6 +39433,7 @@ iab voager voyager
 iab vocaubmarly vocabulary
 iab vocels voxels
 iab vociferious vociferous
+iab vocovered covered
 iab vocuabula4rly vocabulary
 iab vocuabulary vocabulary
 iab vodeps videos
