@@ -142,6 +142,7 @@ iab Anoither Another
 iab Anotegr Another
 iab Anotehr Another
 iab Anothr Another
+iab Anoyione Anyone
 iab Antoerh Another
 iab Anway Anyway
 iab Anwyays Anyways
@@ -907,6 +908,7 @@ iab Eavh Each
 iab Ebelow Below
 iab Ebngkisuy English
 iab Ecxchiled Exiled
+iab Ecxpected Expected
 iab Ecxpiting Exciting
 iab Edgjar Edgar
 iab Editoprs Editors
@@ -1929,6 +1931,7 @@ iab Loook Look
 iab Lraage Large
 iab Lsitening Listening
 iab Luagh Laugh
+iab Luike Like
 iab Lumnch Lunch
 iab Luncbh Lunch
 iab Lunux Linux
@@ -2060,6 +2063,8 @@ iab Michelel Michelle
 iab Michevious Mischievous
 iab Michgael Michael
 iab Michgian Michigan
+iab Michginga Michigan
+iab Michgitan Michigan
 iab Michiael Michael
 iab Michielle Michelle
 iab Michigna Michigan
@@ -3440,6 +3445,7 @@ iab Speciifially Specifically
 iab Specrum Spectrum
 iab Speeidng Speeding
 iab Speicfic Specific
+iab Speicifically Specifically
 iab Spekaing Speaking
 iab Spellchevk Spellcheck
 iab Spengindg Spending
@@ -3928,6 +3934,7 @@ iab Transfereed Transfered
 iab Transpikt Transit
 iab Trascribe Transcribe
 iab Trasnscribing Transcribing
+iab Trhee Three
 iab Trhreat Threat
 iab Triyn Trying
 iab Trsut Trust
@@ -5483,6 +5490,7 @@ iab agressive aggressive
 iab agrreed agreed
 iab agrrement agreement
 iab agruments arguments
+iab agsinast against
 iab agttention attention
 iab ahack hack
 iab ahad had
@@ -5609,12 +5617,15 @@ iab algebreic algebraic
 iab algin align
 iab algined aligned
 iab algint align
+iab algiorthims algorithms
 iab algiriothms algorithms
 iab algirotihms algorithms
 iab algoifrithms algorithms
 iab algoirthm algorithm
 iab algoitryhtms algorithms
+iab algoorithms algorithms
 iab algorhtims algorithms
+iab algortithms algorithms
 iab algothirms algorithms
 iab algothorithms algorithms
 iab algporthim algorithm
@@ -6676,6 +6687,7 @@ iab approcimate approximate
 iab approcimation approximation
 iab approcixmate approximate
 iab apprograiate appropriate
+iab approicach approach
 iab approicimlately approximately
 iab approixmaltye approximately
 iab approopriate appropriate
@@ -7377,6 +7389,7 @@ iab autlo auto
 iab autmatc automatic
 iab autmatically automatically
 iab autmoatically automatically
+iab autnmocaitlcaly automatically
 iab autoaccitally automatically
 iab autoamatically automatically
 iab autoamcitlally automatically
@@ -9931,6 +9944,7 @@ iab cnoceptual conceptual
 iab cnosious conscious
 iab cnosiuosness consciousness
 iab cnosle console
+iab cnoslle console
 iab cnosnle console
 iab cnosnoel console
 iab cnosoe console
@@ -10342,6 +10356,7 @@ iab companyu company
 iab compapre compare
 iab comparabile comparable
 iab comparatvely comparatively
+iab comparenedd compared
 iab compareted compared
 iab comparision comparison
 iab comparted compared
@@ -10948,6 +10963,7 @@ iab conmfigraution configuration
 iab conmpile compile
 iab conmplex complex
 iab conmpreshension comprehension
+iab conmsole console
 iab conmtnainment containment
 iab connecction connection
 iab connecdiotn connection
@@ -11034,6 +11050,7 @@ iab conscrutor constructor
 iab consder consider
 iab consdiderable considerable
 iab consdiousness consciousness
+iab consdole console
 iab consdstructed constructed
 iab consecioutive consecutive
 iab consecioutuve consecutive
@@ -11354,6 +11371,7 @@ iab contihously continuously
 iab contihue continue
 iab contihyunue continue
 iab contiitons conditions
+iab contijnonously continuously
 iab contin8ue continue
 iab continaes continues
 iab continbue continue
@@ -11701,6 +11719,7 @@ iab corect correct
 iab corecte correct
 iab corected corrected
 iab corections corrections
+iab corectly correctly
 iab corectrly correctly
 iab coredct correct
 iab corerct correct
@@ -12219,6 +12238,7 @@ iab cyrotp crypt
 iab cytccle cycle
 iab cyucles cycles
 iab cyulrtiaving cultivating
+iab d34esrcibe describe
 iab d3erived derived
 iab d3esirable desirable
 iab d4creasing decreasing
@@ -15878,6 +15898,7 @@ iab epxperieicne experience
 iab epxperiience experience
 iab epxsdierinces experiences
 iab epxxierineced experienced
+iab eqach each
 iab eqaillly equally
 iab eqalully equally
 iab eqanimity equanimity
@@ -16717,6 +16738,7 @@ iab exetreme extreme
 iab exeveal several
 iab exfceedingly exceedingly
 iab exfdeopt except
+iab exhahustive exhaustive
 iab exhahustivrely exhaustively
 iab exhaltued exalted
 iab exhamined examined
@@ -17343,6 +17365,7 @@ iab failpyre failure
 iab failrly fairly
 iab failry fairly
 iab failture failure
+iab failtures failures
 iab failtying failing
 iab failuyre failure
 iab failuyres failures
@@ -18281,6 +18304,7 @@ iab funck funk
 iab funcoin function
 iab funcrtion function
 iab funcsgtion function
+iab functOIN function
 iab functdion function
 iab functdionalyt functionality
 iab functdiosn functions
@@ -18747,6 +18771,7 @@ iab graspps grasps
 iab gratificatyion gratification
 iab gratter greater
 iab gratually gradually
+iab grauduating graduating
 iab gravbity gravity
 iab graviity gravity
 iab gravitationn gravitation
@@ -21114,6 +21139,7 @@ iab infromationational information
 iab infromsation information
 iab infrqeuently infrequently
 iab infruenqlty infrequently
+iab infterface interface
 iab infto into
 iab infuential influential
 iab infurenqlty infrequently
@@ -21658,6 +21684,7 @@ iab interive2w interview
 iab interivei3w interview
 iab interivew interview
 iab interivewiing interviewing
+iab interiviews interviews
 iab interivwe interview
 iab interlaly internally
 iab interneal internal
@@ -21712,6 +21739,7 @@ iab interupruted interrupted
 iab interupt interrupt
 iab interupttintg interrupting
 iab interutpuon interruption
+iab intervbiew interview
 iab interveiew interview
 iab intervenet intervene
 iab intervew interview
@@ -22663,6 +22691,7 @@ iab knowi9ntg knowing
 iab knowinly knowingly
 iab knowldge knowledge
 iab knowle4dge knowledge
+iab knowledcge knowledge
 iab knowleddge knowledge
 iab knowledgew knowledge
 iab knowledgfe knowledge
@@ -25187,6 +25216,7 @@ iab namake make
 iab nameas names
 iab namek name
 iab namepsace namespace
+iab namespacesa namespaces
 iab namign naming
 iab namiung naming
 iab nanies nannies
@@ -26833,6 +26863,7 @@ iab oteher other
 iab otehr other
 iab otehrg other
 iab otehrs others
+iab otehrt other
 iab otehrwise otherwise
 iab otehrws others
 iab otehwrwise otherwise
@@ -28329,6 +28360,7 @@ iab poionosed poisoned
 iab poiont point
 iab poiontless pointless
 iab poionts points
+iab poiountless pointless
 iab poisible possible
 iab poisined poisoned
 iab poision poison
@@ -29189,6 +29221,7 @@ iab prgoram program
 iab prgoramming programming
 iab prgramming programming
 iab prhases phrases
+iab prhrase phrase
 iab prhrases phrases
 iab prhy pry
 iab priamte primate
@@ -29631,6 +29664,7 @@ iab propegate propagate
 iab propell propel
 iab propelrty property
 iab propelry properly
+iab properiteis proprieties
 iab properites properties
 iab properities proprieties
 iab properition proportion
@@ -30102,6 +30136,7 @@ iab questiojns questions
 iab questionas questions
 iab questiones questions
 iab questionsg questions
+iab questionts questions
 iab questiopns questions
 iab questiosn questions
 iab quesytions questions
@@ -30520,6 +30555,7 @@ iab recdent recent
 iab recdor5ding recording
 iab recdruter recruiter
 iab recdtangle rectangle
+iab recdtend recent
 iab receddes recedes
 iab receied received
 iab receieve receive
@@ -30571,6 +30607,7 @@ iab recitre recite
 iab reclal recall
 iab reclall recall
 iab reclently recently
+iab recletly recently
 iab recliing reclining
 iab reclinging reclining
 iab recnelty recently
@@ -30772,6 +30809,7 @@ iab refeversed reversed
 iab refficiently efficiently
 iab reffusge refuge
 iab refgarded regarded
+iab refgernce reference
 iab refgular regular
 iab refiilled refilled
 iab reflecdt reflect
@@ -30812,6 +30850,7 @@ iab reg4retable regrettable
 iab regaqrds regards
 iab regardlessl regardless
 iab regardlesss regardless
+iab regardlewss regardless
 iab regardlkess regardless
 iab regardlless regardless
 iab regardlyess regardless
@@ -30845,6 +30884,7 @@ iab regrattable regrettable
 iab regretaable regrettable
 iab regretable regrettable
 iab regreteful regretful
+iab regualr regular
 iab regulalry regularly
 iab regularlly regularly
 iab regularluy regularly
@@ -35161,6 +35201,7 @@ iab sucj such
 iab sucrimsatance circumstance
 iab sucstrate substrate
 iab sucvh such
+iab sucxh such
 iab sudbstances substances
 iab sudbstrate substrate
 iab suddelntly suddenly
@@ -35767,6 +35808,8 @@ iab t3either either
 iab t4extr text
 iab t4hat that
 iab t4hee the
+iab t4o to
+iab t5hings things
 iab t9o to
 iab tHuman human
 iab tThis this
@@ -37699,6 +37742,7 @@ iab trupmets trumpets
 iab trurn turn
 iab trurths truths
 iab trurtutial tutorial
+iab trusiom truism
 iab trutyh truth
 iab trutyhs truths
 iab truye true
@@ -38897,6 +38941,7 @@ iab uqbitouquts ubiquitous
 iab uqickly quickly
 iab uqseless useless
 iab uqubiotuoqus ubiquitous
+iab uquestions questions
 iab uquliaty quality
 iab uquobutuqots ubiquitous
 iab uqwtions unctions
@@ -39891,6 +39936,7 @@ iab wexperience experience
 iab wexplores explores
 iab weyes eyes
 iab wgbsite website
+iab wgebsites websites
 iab wghat what
 iab wghere where
 iab whaat what
@@ -41098,50 +41144,3 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab Ecxpected Expected
-iab uquestions questions
-iab algortithms algorithms
-iab consdole console
-iab algiorthims algorithms
-iab intervbiew interview
-iab questionts questions
-iab corectly correctly
-iab exhahustive exhaustive
-iab failtures failures
-iab poiountless pointless
-iab t4o to
-iab contijnonously continuously
-iab Trhee Three
-iab algoorithms algorithms
-iab autnmocaitlcaly automatically
-iab regardlewss regardless
-iab agsinast against
-iab Anoyione Anyone
-iab Michginga Michigan
-iab grauduating graduating
-iab comparenedd compared
-iab trusiom truism
-iab otehrt other
-iab Michgitan Michigan
-iab d34esrcibe describe
-iab prhrase phrase
-iab recletly recently
-iab refgernce reference
-iab wgebsites websites
-iab interiviews interviews
-iab knowledcge knowledge
-iab t5hings things
-iab approicach approach
-iab Luike Like
-iab recdtend recent
-iab infterface interface
-iab eqach each
-iab regualr regular
-iab devieces devices
-iab sucxh such
-iab Speicifically Specifically
-iab properiteis proprieties
-iab namespacesa namespaces
-iab cnoslle console
-iab conmsole console
-iab functOIN function
