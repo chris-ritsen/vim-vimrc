@@ -1128,6 +1128,7 @@ iab FIles Files
 iab FIleter Filter
 iab FIling Filing
 iab FIlter Filter
+iab FIndf Find
 iab FInding Finding
 iab FInished Finished
 iab FInsiehd Finished
@@ -2228,6 +2229,7 @@ iab Notihgn Nothing
 iab Noty Not
 iab Nowehere Nowhere
 iab Nowhewre Nowhere
+iab Nrext Next
 iab Nthing Nothing
 iab Nthohing Nothing
 iab Nullifu Nullify
@@ -3913,6 +3915,7 @@ iab Tocuhging Touching
 iab Todau Today
 iab Todya Today
 iab Togeyther Together
+iab Tomororw Tomorrow
 iab Tongitht Tonight
 iab Tood Too
 iab Toropor Torpor
@@ -4307,6 +4310,7 @@ iab Wiatching Watching
 iab Wiating Waiting
 iab Widhth Width
 iab Wiethout Without
+iab Wiewating Waiting
 iab Wiht Whit
 iab Willpoewr Willpower
 iab Willuingness Willingness
@@ -6765,6 +6769,7 @@ iab aqr are
 iab aqre are
 iab aqt at
 iab aqualities qualities
+iab aquiannnted acquainted
 iab aquianted acquainted
 iab aquickered acquired
 iab aquicre acquire
@@ -9497,6 +9502,7 @@ iab checkkign checking
 iab checkpoind checkpoint
 iab checling checking
 iab checm check
+iab chedfk check
 iab chedk check
 iab chedked checked
 iab chefkt check
@@ -18670,6 +18676,7 @@ iab gnebral general
 iab gneerally generally
 iab gneerate generate
 iab gneerated generated
+iab gneerators generators
 iab gneerkoius generous
 iab gneeroistity generosity
 iab gneietails genitals
@@ -19342,6 +19349,7 @@ iab hgot got
 iab hgue huge
 iab hgwat what
 iab hhave have
+iab hhead head
 iab hhere here
 iab hhhas has
 iab hhighly highly
@@ -19894,6 +19902,7 @@ iab ialright alright
 iab iamge image
 iab iamges images
 iab ibioogaine ibogaine
+iab ibn in
 iab ibogain ibogaine
 iab ibogainme ibogaine
 iab ibuprhone ibuprofen
@@ -20341,6 +20350,7 @@ iab implementationg implementation
 iab implementbned implemented
 iab implementeation implementation
 iab implementeing implementing
+iab implementenatiolkn implementation
 iab implemetaiton implementation
 iab implemetation implementation
 iab implemeting implementing
@@ -20878,6 +20888,7 @@ iab incremenetally incrementally
 iab incremeneted incremented
 iab incremenetnlaly incrementally
 iab incremenets increments
+iab incrempents increments
 iab increndidbly incredibly
 iab increreased increased
 iab incresase increase
@@ -20936,6 +20947,7 @@ iab indesx index
 iab indeteprminable indeterminable
 iab indeterminatable indeterminable
 iab indetniermate indeterminate
+iab indexc index
 iab indexz index
 iab indiating indicating
 iab indicateors indicators
@@ -24435,6 +24447,7 @@ iab miniumum minimum
 iab miniute minute
 iab miniutes minutes
 iab minizmizes minimizes
+iab minmutens minutes
 iab minnee mine
 iab minnimal minimal
 iab minnimaze minimize
@@ -25001,6 +25014,7 @@ iab mre me
 iab mreember remember
 iab mrember remember
 iab mremember remember
+iab mremvember remember
 iab mreo more
 iab mrequests requests
 iab mreriro mirror
@@ -25193,6 +25207,7 @@ iab myy my
 iab myzdself myself
 iab n3ecessarily necessarily
 iab n3eeding needing
+iab n3ext next
 iab n3we new
 iab nEnrico Enrico
 iab nOo No
@@ -26338,6 +26353,7 @@ iab ohow how
 iab ohsotagesd hostages
 iab oht out
 iab oibovsuly obviously
+iab oicne once
 iab oif of
 iab oiften often
 iab oiike like
@@ -27024,6 +27040,7 @@ iab overturrend overturned
 iab overtuyrend overturned
 iab overtyrned overturned
 iab overvoming overcoming
+iab overw4rite overwrite
 iab overwehight overweight
 iab overwheight overweight
 iab overwhelmeing overwhelming
@@ -29742,8 +29759,10 @@ iab protopcol protocol
 iab protoperties properties
 iab prototipycal prototypical
 iab prototyle prototype
+iab protoype prototype
 iab protratyed portrayed
 iab prots ports
+iab protytype prototype
 iab proudcing producing
 iab prouracderination procrastination
 iab provacative provocative
@@ -29849,6 +29868,7 @@ iab psobile possible
 iab psoible possible
 iab psoiiotsions positions
 iab psoiostiosn positions
+iab psoiotin position
 iab psoisible possible
 iab psoisiotnss positions
 iab psoisiotsins positions
@@ -30147,6 +30167,7 @@ iab quetsion question
 iab quetty query
 iab quewiotn question
 iab quewries queries
+iab quewstions questions
 iab quewtion question
 iab quewtsioning questioning
 iab quextion question
@@ -30478,6 +30499,7 @@ iab reasching reaching
 iab reasction reaction
 iab reasd read
 iab reasder reader
+iab reasderch research
 iab reasdon reason
 iab reasdtwerts restarts
 iab reasear5chign researching
@@ -31671,6 +31693,7 @@ iab responisibliteis responsibilities
 iab responisiblites responsibilities
 iab responisilbiites responsibilities
 iab responsaiblilites responsibilities
+iab responsd respond
 iab responsde response
 iab responsed responded
 iab responsee response
@@ -31814,6 +31837,7 @@ iab retrived retrieved
 iab retrrrrrrravbil retrieval
 iab retrun return
 iab retrunk return
+iab retrurn return
 iab retstrict restrict
 iab retuern return
 iab retuiren return
@@ -32159,6 +32183,7 @@ iab rotateion rotation
 iab rotationm rotation
 iab rotattoin rotation
 iab rotdsay today
+iab rotqate rotate
 iab roudn round
 iab roufhgly roughly
 iab roughtly roughly
@@ -32290,6 +32315,7 @@ iab rturen return
 iab rtype type
 iab rueles rules
 iab ruetnrn return
+iab ruetrn return
 iab ruetrnt return
 iab rugelar regular
 iab rughly roughly
@@ -33913,6 +33939,7 @@ iab smoewhere somewhere
 iab smoke4 smoke
 iab smoklijng smoking
 iab smoknig smoking
+iab smome some
 iab smoothinly smoothly
 iab smoothlness smoothness
 iab smove move
@@ -37423,6 +37450,7 @@ iab tpopic topic
 iab tpraictice practice
 iab tpreferred preferred
 iab tpreovus previous
+iab tprojector projector
 iab tpurufication purification
 iab tpuying typing
 iab tpycal typical
@@ -37657,6 +37685,7 @@ iab trestrictyeeed restricted
 iab tretriavl retrieval
 iab treturn return
 iab treu true
+iab treutrn return
 iab trext text
 iab treying trying
 iab trhat that
