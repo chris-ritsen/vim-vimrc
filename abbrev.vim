@@ -358,6 +358,7 @@ iab Carruer Carrier
 iab Casues Causes
 iab Causdes Causes
 iab Cehck Check
+iab Ceratin Certain
 iab Certiaan Certain
 iab Certifcations Certifications
 iab Chabcne Chance
@@ -1723,6 +1724,7 @@ iab Interuldes Interludes
 iab Intesreted Interested
 iab Intetnet Internet
 iab Inteview Interview
+iab Intevirw Interview
 iab Intiialise Initialise
 iab Intimiate Intimate
 iab Intrefeaces Interfaces
@@ -1781,6 +1783,7 @@ iab JavaScfipt JavaScript
 iab JavaScipt JavaScript
 iab JavaScirpt JavaScript
 iab JavaScrit JavaScript
+iab JavaScvript Javascript
 iab JavaSript JavaScript
 iab JavaSvript JavaScript
 iab Javacript Javascript
@@ -2024,6 +2027,7 @@ iab Mchigan Michigan
 iab Mcicighan Michigan
 iab Meanahiwle Meanwhile
 iab Meditaiojtn Meditation
+iab Meditaite Meditate
 iab Meditaitive Meditative
 iab Meditaiton Meditation
 iab Meditaitvie Meditative
@@ -2375,6 +2379,7 @@ iab PLEsaews Pleases
 iab PLEzsde Please
 iab PLan Plan
 iab PLanets Planets
+iab PLayStation PlayStation
 iab PLayer Player
 iab PLaying Playing
 iab PLaylist Playlist
@@ -3451,6 +3456,7 @@ iab Speicifically Specifically
 iab Spekaing Speaking
 iab Spellchevk Spellcheck
 iab Spengindg Spending
+iab Spetn Spent
 iab Spining Spinning
 iab Splcie Splice
 iab Srriong Sarong
@@ -4412,6 +4418,7 @@ iab Yo8u You
 iab Yopu You
 iab Yorlk Yokk
 iab YouUtbue YouTube
+iab Youi You
 iab Youj You
 iab Youo You
 iab Youre You're
@@ -5050,6 +5057,7 @@ iab acrroiss across
 iab acrros across
 iab acrross across
 iab acrtions actions
+iab acrtiviites activities
 iab actaully actually
 iab actaullya actually
 iab actcitecteud architected
@@ -5108,6 +5116,7 @@ iab activites activates
 iab activitieeees activities
 iab activitiews activities
 iab activitiies activities
+iab activitites activities
 iab activitiy activity
 iab activitiyes activities
 iab activitiyies activities
@@ -5629,6 +5638,7 @@ iab algoirthm algorithm
 iab algoitryhtms algorithms
 iab algoorithms algorithms
 iab algorhtims algorithms
+iab algorithsms algorithms
 iab algortithms algorithms
 iab algothirms algorithms
 iab algothorithms algorithms
@@ -6366,6 +6376,7 @@ iab apareptmnt apartment
 iab aparment apartment
 iab aparmetnt apartment
 iab aparmt apart
+iab aparmten apartment
 iab aparmtenbt apartment
 iab aparmtenet apartment
 iab aparmtent apartment
@@ -6732,6 +6743,7 @@ iab aprameter parameter
 iab aprametmers parameters
 iab apramrtnet apartment
 iab aprarntbet apartment
+iab aprehivsive apprehensive
 iab aprepaivcicate appreciate
 iab aprepciative appreciative
 iab apreprent apparent
@@ -7513,6 +7525,7 @@ iab avdantageouys advantageous
 iab avdersaries adversaries
 iab avdisters advisers
 iab avdvaneced advanced
+iab avdvertising advertising
 iab avdvice advice
 iab aveasive evasive
 iab averate average
@@ -10347,6 +10360,7 @@ iab companiews companies
 iab companinions companions
 iab companinonship companionship
 iab companjies companies
+iab companmies companies
 iab compannnyy company
 iab companny company
 iab companseation compensation
@@ -11491,6 +11505,7 @@ iab contorlling controlling
 iab contorllled controlled
 iab contorlller controller
 iab contorloler controller
+iab contorlr control
 iab contorls controls
 iab contoroleler controller
 iab contoroler controller
@@ -16617,6 +16632,7 @@ iab excisted existed
 iab excisting existing
 iab excists exists
 iab exciteda excited
+iab exciteed excited
 iab excitemnet excitement
 iab excitied excited
 iab excitintg exciting
@@ -17128,6 +17144,7 @@ iab expode explode
 iab expoeiure experience
 iab expoerieicne experience
 iab expoerieinces experiences
+iab expoerience experience
 iab expoeriieicned experienced
 iab expoiunded expounded
 iab expolain explain
@@ -20129,6 +20146,7 @@ iab illustion illusion
 iab illutsion illusion
 iab illyumation illumination
 iab illyusion illusion
+iab ilnvolves involves
 iab ilrrelvevant irrelevant
 iab ilvonved involved
 iab ilvonvign involving
@@ -23144,6 +23162,7 @@ iab levensthtein levenshtein
 iab leverls levels
 iab levevators elevators
 iab levfer lever
+iab levl level
 iab levle level
 iab levles levels
 iab lewading leading
@@ -23188,6 +23207,7 @@ iab liaghing laughing
 iab liason liaison
 iab libarriy library
 iab libing living
+iab librairies libraries
 iab librairy library
 iab librariares libraries
 iab librarieis libraries
@@ -25663,6 +25683,7 @@ iab noene none
 iab noertes notes
 iab noerwpa nowrap
 iab noesense nonsense
+iab noethign nothing
 iab noething nothing
 iab noever never
 iab noew new
@@ -29246,6 +29267,7 @@ iab priblem problem
 iab pricavey privacy
 iab pricincioples principles
 iab pricniples principles
+iab pridouct product
 iab pridstine pristine
 iab prierotu8y priority
 iab prigoramming programming
@@ -30808,6 +30830,7 @@ iab refelxes reflexes
 iab refelxt reflect
 iab refenence reference
 iab referall referral
+iab refercnee reference
 iab referecne reference
 iab refereing referring
 iab referencde reference
@@ -35174,6 +35197,7 @@ iab subsription subscription
 iab substantilaly substantially
 iab substantionally substantially
 iab substatial substantial
+iab substatinioal substantial
 iab substational substantial
 iab substationally substantially
 iab substatnially substantially
@@ -36075,6 +36099,7 @@ iab tecgbikigy technology
 iab tecghnical technical
 iab techical technical
 iab techincal technical
+iab techincxal technical
 iab techinical technical
 iab techinque technique
 iab techinuqes techniques
@@ -38398,6 +38423,7 @@ iab undediced undecided
 iab undedr under
 iab undedrsriabile undesirable
 iab undedtrmiened undetermined
+iab undeer under
 iab undeexpecfted unexpected
 iab undefefined undefined
 iab undefied undefined
@@ -39746,6 +39772,7 @@ iab waxs was
 iab waysd ways
 iab wayt way
 iab waytching watching
+iab wayu way
 iab wazs was
 iab wazsted wasted
 iab wbarely barely
@@ -40551,6 +40578,7 @@ iab wortht worth
 iab wortthy worthy
 iab wortwhile worthwhile
 iab wortyhy worthy
+iab woryr worry
 iab wotih with
 iab wotrth worth
 iab wotthwhilw worthwhile
@@ -41048,6 +41076,7 @@ iab yourselfv yourself
 iab yourslef yourself
 iab yourslefl yourself
 iab yoursleves yourselves
+iab yourt your
 iab youtbe youtube
 iab youtbube youtube
 iab youtbue youtube
