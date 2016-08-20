@@ -180,6 +180,7 @@ iab Arnbor Arbor
 iab Aroudn Around
 iab Artch Arch
 iab Arthritius Arthritis
+iab Articels Articles
 iab Arttempt Attempt
 iab Aruging Arguing
 iab Arugments Arguments
@@ -582,6 +583,7 @@ iab Cotnsioner Container
 iab Coudl Could
 iab Counsoler Consoler
 iab Courney Courtney
+iab Coutner Counter
 iab Couydl Could
 iab Cowoekrkers Coworkers
 iab Cowokrers Coworkers
@@ -1201,6 +1203,7 @@ iab Fided Fixed
 iab Fiexed Fixed
 iab Figyure Figure
 iab Filenaem Filename
+iab Filtesr Filters
 iab Finace Finance
 iab Finrsihed Finished
 iab Finsiehd Finished
@@ -3919,6 +3922,7 @@ iab Tobasco Tabasco
 iab Tocpuhing Touching
 iab Tocuhging Touching
 iab Todau Today
+iab Toddo Todo
 iab Todya Today
 iab Togeyther Together
 iab Tomororw Tomorrow
@@ -4144,6 +4148,7 @@ iab WAtewerfalls Waterfalls
 iab WAthc Watch
 iab WAthcintg Watching
 iab WAtiting Waiting
+iab WAtsted Wasted
 iab WAtts Watts
 iab WEHy Why
 iab WEather Weather
@@ -8726,6 +8731,7 @@ iab browers browser
 iab browesed browsed
 iab browesrs browsers
 iab browing browsing
+iab browsderify browserify
 iab browsewr browser
 iab browsign browsing
 iab browswer browser
@@ -16924,6 +16930,7 @@ iab expectatoin expectation
 iab expectd expected
 iab expecteds expected
 iab expectedt expected
+iab expectiing expecting
 iab expection exception
 iab expectly expertly
 iab expectred expected
@@ -22523,6 +22530,7 @@ iab k3yeboard keyboard
 iab kar4mic karmic
 iab karama karma
 iab kasina kasiṇa
+iab kcik kick
 iab kdiney kidney
 iab ke2yboard keyboard
 iab kealousy jealousy
@@ -23457,8 +23465,8 @@ iab loaundry laundry
 iab loawded loaded
 iab locadtion location
 iab localied localized
-iab localstoerage localStorage
-iab localstorage localStorage
+iab localstoerage localstorage
+iab localstorage localstorage
 iab locationsa locations
 iab locationsl locations
 iab locatiopn location
@@ -28445,6 +28453,7 @@ iab poitential potential
 iab poitentially potentially
 iab poitned pointed
 iab poitneless pointless
+iab poitner pointer
 iab poitning pointing
 iab poitnless pointless
 iab poitsition position
@@ -28471,7 +28480,9 @@ iab politicas politics
 iab pollices polices
 iab pollled polled
 iab pon on
+iab ponioter pointer
 iab ponit point
+iab poniter pointer
 iab ponitless pointless
 iab pont point
 iab pontiless pointless
@@ -28722,6 +28733,7 @@ iab potieianl potential
 iab potieitnailly potentially
 iab potiental potential
 iab potientially potentially
+iab potiner pointer
 iab potioentooal potential
 iab potsts posts
 iab pottentially potentially
@@ -31234,6 +31246,7 @@ iab renderd rendered
 iab renderere renderer
 iab rendierng rendering
 iab rendinering rendering
+iab rendre render
 iab reneews renews
 iab renegate renegade
 iab renenwes renews
@@ -40034,6 +40047,7 @@ iab whath what
 iab whatn what
 iab whatsofever whatsoever
 iab whatsoveerver whatsoever
+iab whatsovefger whatsoever
 iab whatsovever whatsoever
 iab whatwegvegr whatever
 iab whatwever whatever
@@ -40563,6 +40577,7 @@ iab worrry worry
 iab worrya worry
 iab worryingb worrying
 iab worrysome worrisome
+iab worryu worry
 iab worsd words
 iab worsds words
 iab worset worst
