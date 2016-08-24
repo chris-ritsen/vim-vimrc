@@ -320,6 +320,7 @@ iab CHristttopoher Christopher
 iab CHromium Chromium
 iab CHtirs Chris
 iab CLearly Clearly
+iab CLicekr Clicker
 iab CLick Click
 iab CLociking Clicking
 iab CLock Clock
@@ -2213,6 +2214,7 @@ iab Nibbana Nibbāna
 iab Niola Nickla
 iab Niow Now
 iab Nirvana Nirvāṇa
+iab Nitnendo Nintendo
 iab Niune Nine
 iab Nnot Not
 iab Nnow Now
@@ -2821,6 +2823,7 @@ iab REcording Recording
 iab REcords Records
 iab REcovery Recovery
 iab REcreate Recreate
+iab REdux Redux
 iab REeact React
 iab REelax Relax
 iab REesteraunt Restaurant
@@ -5026,6 +5029,7 @@ iab acocomponied accompanied
 iab acocoutn account
 iab acocunt account
 iab acocunts accounts
+iab acocutn account
 iab acocutns accounts
 iab acofutn account
 iab acomidate accommodate
@@ -6847,6 +6851,7 @@ iab areladwy already
 iab arelady already
 iab areldasy already
 iab arelday already
+iab areldy already
 iab areleire earlier
 iab aremies armies
 iab areound around
@@ -9173,6 +9178,7 @@ iab carrorts carrots
 iab carryiw carry
 iab cartetgories categories
 iab cartheisis catharsis
+iab carticgdge cartridge
 iab carticge cartridge
 iab cartidge cartridge
 iab cartidtge cartridge
@@ -9824,6 +9830,7 @@ iab cliobber clobber
 iab clipnboard clipboard
 iab cliuck click
 iab clkear clear
+iab clkicks clicks
 iab clkock clock
 iab cllect collect
 iab clled called
@@ -11653,6 +11660,7 @@ iab coommentsa comments
 iab coommon common
 iab coompooents components
 iab coomputer computer
+iab coonnector connector
 iab coonsole console
 iab coontainer container
 iab coontemplation contemplation
@@ -12951,6 +12959,7 @@ iab desperite desperate
 iab despiar despair
 iab despiite despite
 iab despoite despite
+iab despperately desperately
 iab desprepatley desperately
 iab desprerate desperate
 iab desptroy destroy
@@ -20257,6 +20266,7 @@ iab immedilaalty immediately
 iab immedilaytly immediately
 iab immedlately immediately
 iab immedsiately immediately
+iab immeduatley immediately
 iab immeense immense
 iab immeidailtey immediately
 iab immeidaitely immediately
@@ -20320,6 +20330,7 @@ iab impedtge impede
 iab impeediments impediments
 iab impeeritive imperative
 iab impelemntnations implementations
+iab impelemtnation implementation
 iab impelemtnign implementing
 iab impelmetned implemented
 iab impememented implemented
@@ -20881,6 +20892,7 @@ iab increemental incremental
 iab increibile incredible
 iab increibly incredibly
 iab increicdbile incredible
+iab increicfdbile incredible
 iab increicible incredible
 iab increidbiel incredible
 iab increidbily incredibly
@@ -24399,6 +24411,7 @@ iab microphne microphone
 iab microphnoe microphone
 iab microphoen microphone
 iab microphpone microphone
+iab micropohene microphone
 iab micropohone microphone
 iab micrphne microphone
 iab micrphone microphone
@@ -25705,6 +25718,7 @@ iab noisee noise
 iab noisewss noises
 iab noiswe noise
 iab noit not
+iab noithing nothing
 iab nominiated nominated
 iab nomral normal
 iab nomrally normally
@@ -26455,6 +26469,7 @@ iab omring morning
 iab omrnig morning
 iab omterset intersect
 iab omving moving
+iab onChagne onChange
 iab onChnage onChange
 iab oncde once
 iab oncecerntred concerned
@@ -30314,6 +30329,7 @@ iab qyuicluy quickly
 iab qyuicuklyu quickly
 iab qyut quit
 iab r3egardlless regardless
+iab r3esponded responded
 iab r3euqrired required
 iab rETrvail Retrieval
 iab rScienctist Scientist
@@ -33557,6 +33573,7 @@ iab sifgnigiciant significant
 iab sifnificant significant
 iab sigfnificant significant
 iab siginficant significant
+iab siginficatnt significant
 iab siginificant significant
 iab signautures signatures
 iab signel single
@@ -33924,6 +33941,7 @@ iab sloberring slobbering
 iab sloewest slowest
 iab sloewset slowest
 iab sloewwest slowest
+iab slolution solution
 iab sloly slowly
 iab sloopes slopes
 iab slooppy sloppy
@@ -38606,6 +38624,7 @@ iab uneecsseary unnecessary
 iab uneffible ineffable
 iab uneivrasal universal
 iab uneless unless
+iab unelpoyed unemployed
 iab unelss unless
 iab unelsss unless
 iab unelwecome unwelcome
