@@ -1145,6 +1145,7 @@ iab FInsiehd Finished
 iab FInsihed Finished
 iab FInsxiehde Finished
 iab FIred Fired
+iab FIrfst First
 iab FIrst First
 iab FIsh Fish
 iab FIsniehd Finished
@@ -4059,6 +4060,7 @@ iab Unfortuantely Unfortunately
 iab Unfortunatenly Unfortunately
 iab Unifiversity University
 iab Unifiying Unifying
+iab Uniion Union
 iab Uniivuerse Universe
 iab Unit3ed United
 iab Univeristy University
@@ -4203,6 +4205,7 @@ iab WHere Where
 iab WHich Which
 iab WHichever Whichever
 iab WHile While
+iab WHite White
 iab WHo Who
 iab WHoa Whoa
 iab WHois Whois
@@ -7315,6 +7318,7 @@ iab attatchement attachment
 iab attatchements attachments
 iab attcache3d attached
 iab attcadhced attached
+iab attched attached
 iab atte ate
 iab atteached attached
 iab atteain attain
@@ -39581,6 +39585,7 @@ iab verhbaim verbatim
 iab verifiuablye verifiable
 iab verifiy verify
 iab verion version
+iab veriosm version
 iab veriosn version
 iab verious various
 iab verision version
