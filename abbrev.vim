@@ -1167,6 +1167,7 @@ iab FOrtunarely Fortunately
 iab FOrty Forty
 iab FOrutnatley Fortunately
 iab FOrward Forward
+iab FOudn Found
 iab FOund Found
 iab FOunded Founded
 iab FOunders Founders
@@ -1592,6 +1593,7 @@ iab Illiuminating Illuminating
 iab ImageMacick ImageMagick
 iab Imaghining Imagining
 iab Imaginaqtiobn Imagination
+iab Imediately Immediately
 iab Immediatley Immediately
 iab Immeialtey Immediately
 iab Immemslty Immensely
@@ -3290,6 +3292,7 @@ iab Samule Samuel
 iab Samulel Samuel
 iab Sancuary Sanctuary
 iab Sangha Saṅgha
+iab Sanscrit Sanskrit
 iab Saptically Spatially
 iab Sasturday Saturday
 iab Satars Stars
@@ -3394,6 +3397,7 @@ iab Shyut Shout
 iab Siddharath Siddhārtha
 iab Siddharatha Siddhārtha
 iab Siddhartha Siddhārtha
+iab Siddhasana Siddhāsana
 iab Sidhartha Siddhārtha
 iab Sigmundsoson Sigmundsson
 iab Signes Signs
@@ -3455,6 +3459,7 @@ iab Sotapatti Sotāpatti
 iab Sotuh South
 iab Soudns Sounds
 iab Souremaps Sourcemaps
+iab Soutfheield Southfield
 iab Soutfhield Southfield
 iab Southh South
 iab Sovled Solved
@@ -4065,6 +4070,7 @@ iab Univisreal Universal
 iab Univsere Universe
 iab Uniwverse Universe
 iab Unksillful Unskillful
+iab Unlikley Unlikely
 iab Unquestionalable Unquestionable
 iab Unresponsive3 Unresponsive
 iab Unsersal Universal
@@ -4102,6 +4108,7 @@ iab VErsion Version
 iab VEry Very
 iab VIdoes Videos
 iab VIm Vim
+iab VOlume Volume
 iab VOlumes Volumes
 iab Vactations Vacations
 iab Vakye Value
@@ -5464,6 +5471,7 @@ iab aformenetioned aforementioned
 iab afraaid afraid
 iab afriad afraid
 iab aftere after
+iab afternnon afternoon
 iab afternonon afternoon
 iab afternoono afternoon
 iab aftert after
@@ -6584,6 +6592,7 @@ iab appilcation application
 iab appintment appointment
 iab appionitment appointment
 iab appiontmetn appointment
+iab applarently apparently
 iab applcaitions applications
 iab applcaitiopnj application
 iab applcaitoin application
@@ -12645,6 +12654,7 @@ iab definiseivemenss defensiveness
 iab definitaltely definitely
 iab definiteions definitions
 iab definitelyl definitely
+iab definiteyuly definitely
 iab definitne definite
 iab definnitely definitely
 iab definte definite
@@ -12870,6 +12880,7 @@ iab desal deal
 iab desath death
 iab descbribes describes
 iab desccribed described
+iab desccriptions descriptions
 iab descdribe describe
 iab descdribed described
 iab descdribes describes
@@ -13058,6 +13069,7 @@ iab deswcribe describe
 iab desxccribing describing
 iab desxcrfibe describe
 iab desxcribed described
+iab desxcribing describing
 iab desxcription description
 iab desxignation designation
 iab desxterity dexterity
@@ -13469,6 +13481,7 @@ iab diffic8iult difficult
 iab difficient deficient
 iab difficilt difficult
 iab difficilutt difficult
+iab difficiulty difficulty
 iab difficiutl difficult
 iab difficlilht difficult
 iab difficlit difficult
@@ -13494,6 +13507,7 @@ iab diffiicultu difficult
 iab diffiiculty difficulty
 iab diffilciutt difficult
 iab diffilcudlt difficult
+iab diffilcult difficult
 iab diffilcut difficult
 iab diffilcydtu difficulty
 iab diffilcyt difficulty
@@ -13613,6 +13627,7 @@ iab direcdt direct
 iab direcdteions directions
 iab direcdtion direction
 iab direcdtions directions
+iab direcdtly directly
 iab direcdtor director
 iab direcdtory directory
 iab direcgt direct
@@ -17528,6 +17543,7 @@ iab farvorably favorably
 iab fascade facade
 iab fascebokok facebook
 iab fascianted fascinated
+iab fascilitates facilitates
 iab fascillitate facilitate
 iab fascillitatior facilitator
 iab fascscinating fascinating
@@ -17937,6 +17953,7 @@ iab flexc flex
 iab flexdbox flexbox
 iab flexibiility flexibility
 iab flexibiiltiy flexibility
+iab flexibiilty flexibility
 iab flexiibilty flexibility
 iab flexs flex
 iab flext flex
@@ -19620,6 +19637,7 @@ iab hnching hunching
 iab hneed need
 iab hneeding needing
 iab hnermit hermit
+iab hnour hour
 iab hnours hours
 iab hoaw how
 iab hobbiest hobbyist
@@ -20648,6 +20666,7 @@ iab improrperly improperly
 iab improrvoemtn improvement
 iab improsised improvised
 iab improt import
+iab improtajnce importance
 iab improtanc3e importance
 iab improtance importance
 iab improtandcne importance
@@ -23246,6 +23265,7 @@ iab lesast least
 iab lesat least
 iab lesds less
 iab lese else
+iab lessions lessons
 iab leter letter
 iab leters letters
 iab letetre letter
@@ -23660,6 +23680,7 @@ iab loqacitiy loquacity
 iab losde lose
 iab losting losing
 iab lot9ws lots
+iab lotsu lotus
 iab lotz lot
 iab louck luck
 iab lousey lousy
@@ -23895,6 +23916,7 @@ iab maintsay mainstay
 iab mairng margin
 iab maitanin maintain
 iab maitching matching
+iab maitnain maintain
 iab maitnainable maintainable
 iab maitnained maintained
 iab maitnainence maintenance
@@ -24279,6 +24301,7 @@ iab meidtaitono meditation
 iab meidtate meditate
 iab meidtating meditating
 iab meidtation meditation
+iab meidtations meditations
 iab meidtative meditative
 iab meidtator meditator
 iab meidtiating meditating
@@ -24619,6 +24642,7 @@ iab minutues minutes
 iab minuyte minute
 iab miocrohpne microphone
 iab mioght might
+iab mion8iutes minutes
 iab mionitor monitor
 iab miontues minutes
 iab mionute minute
@@ -24853,6 +24877,7 @@ iab modicied modified
 iab modiefied modified
 iab modifcations modifications
 iab modifed modified
+iab modificationbhs modifications
 iab modififations modifications
 iab modifinil modafinil
 iab modifinll modafinil
@@ -25910,6 +25935,7 @@ iab notifiations notifications
 iab notificatiopn notification
 iab notifidations notifications
 iab notifiy notify
+iab notifyhing notifying
 iab notifyin notifying
 iab notihign nothing
 iab notiiced noticed
@@ -26959,6 +26985,7 @@ iab origianlly originally
 iab origianly originally
 iab origianted originated
 iab origiaunl original
+iab origiaunllyt originally
 iab origientation orientation
 iab originaing originating
 iab originl original
@@ -27970,6 +27997,7 @@ iab perogative prerogative
 iab perogrative prerogative
 iab peroidic periodic
 iab peroiod period
+iab peroiods periods
 iab perolem problem
 iab peronality personality
 iab peronalitzed personalized
@@ -28549,6 +28577,7 @@ iab poisiostions positions
 iab poisiotional positional
 iab poisiotiosn positions
 iab poisiotn position
+iab poisiotnio position
 iab poisiotsions positions
 iab poisistion position
 iab poisition position
@@ -28732,6 +28761,7 @@ iab positibve positive
 iab positiioning positioning
 iab positiions positions
 iab positiive positive
+iab positikon position
 iab positin position
 iab positingng positioning
 iab positiong positioning
@@ -28836,6 +28866,7 @@ iab postition position
 iab postsa posts
 iab postsp posts
 iab postst posts
+iab postuire posture
 iab posuitin position
 iab posuition position
 iab posuitoin position
@@ -29071,6 +29102,7 @@ iab prboaly probably
 iab prbobably probably
 iab prboelm problem
 iab prboelnm problem
+iab prbolelm problem
 iab prbolem problem
 iab prbolems problems
 iab prcedure procedure
@@ -31583,6 +31615,7 @@ iab reqauired required
 iab reqcursivef recursive
 iab reqeuest request
 iab reqeuires requires
+iab reqeuisite requisite
 iab reqeust request
 iab reqlly really
 iab reqqquired required
@@ -31849,6 +31882,7 @@ iab respnosibilities responsibilities
 iab respnosible responsible
 iab respnse response
 iab respobneiible responsible
+iab respodning responding
 iab respoected respected
 iab respoibile responsible
 iab respoinbile responsible
@@ -33689,6 +33723,7 @@ iab sice side
 iab sicentific scientific
 iab sicienctific scientific
 iab sicne sine
+iab siddhasana siddhāsana
 iab sidewlak sidewalk
 iab sidews sides
 iab sidewways sideways
@@ -34747,6 +34782,7 @@ iab ssymbol symbol
 iab ssytemd systemd
 iab ssytems systems
 iab st4riking striking
+iab staage stage
 iab staart start
 iab stabilizqiton stabilization
 iab stabiltiy stability
@@ -35096,6 +35132,7 @@ iab strech stretch
 iab streching stretching
 iab strectch stretch
 iab strecthes stretches
+iab stredghincg stretching
 iab streelamps streetlamps
 iab streess stress
 iab streessed stressed
@@ -35466,6 +35503,7 @@ iab sufffix suffix
 iab suffic suffix
 iab sufficeinet sufficient
 iab sufficioent sufficient
+iab sufficitent sufficient
 iab suffictint sufficient
 iab suffiecinet sufficient
 iab suffuciently sufficiently
@@ -35488,6 +35526,7 @@ iab sugint using
 iab suhipmetn shipment
 iab suhould should
 iab suibmitting submitting
+iab suich such
 iab suiginificatnly significantly
 iab suimlultatneluysly simultaneously
 iab suimple simple
@@ -37819,6 +37858,7 @@ iab transfpromation transformation
 iab transiactions transactions
 iab transiiostioning transitioning
 iab transiotion transition
+iab transitionjio transition
 iab translateions translations
 iab translqtion translation
 iab translsated translated
@@ -39767,6 +39807,7 @@ iab vortext vortex
 iab vorthy worthy
 iab vots votes
 iab vould would
+iab voulme volume
 iab vovws vows
 iab vqr var
 iab vrazzy crazy
