@@ -2400,6 +2400,7 @@ iab PLayStation PlayStation
 iab PLayer Player
 iab PLaying Playing
 iab PLaylist Playlist
+iab PLaylsit Playlist
 iab PLayulist Playlist
 iab PLease Please
 iab PLeases Pleases
@@ -11375,6 +11376,7 @@ iab containingers containers
 iab containis contains
 iab containmenet containment
 iab containos contains
+iab containres containers
 iab containsers containers
 iab containue continue
 iab containzers containers
@@ -11917,6 +11919,7 @@ iab cosnoel console
 iab cosnoele console
 iab cosnoelle console
 iab cosnole console
+iab cosnooel console
 iab cosnsous conscious
 iab cosntants constants
 iab cosntrucdtion construction
@@ -12177,6 +12180,7 @@ iab cslassical classical
 iab cslhtoes clothes
 iab csna can
 iab csnoeole console
+iab csonoel console
 iab csonoele console
 iab csonsiderations considerations
 iab csot cost
@@ -17258,6 +17262,7 @@ iab expolain explain
 iab expolained explained
 iab expoloded exploded
 iab exponetially exponentially
+iab exporess express
 iab exporitng exporting
 iab exporlation exportation
 iab exporst exports
@@ -20550,6 +20555,7 @@ iab impoement implement
 iab impoersonation impersonation
 iab impoirtant important
 iab impoissible impossible
+iab impokrt import
 iab impolied implied
 iab impolises implies
 iab impoly imply
@@ -23255,6 +23261,7 @@ iab lenght length
 iab lenghtens lengthens
 iab lenghth length
 iab lenghty lengthy
+iab lengrth length
 iab lengtb length
 iab lengtehned lengthened
 iab lengtrh length
@@ -23471,6 +23478,7 @@ iab lirbaration liberation
 iab lisaten listen
 iab liscene license
 iab liscense license
+iab lisder slider
 iab lisdt list
 iab liset list
 iab lisot lost
@@ -27651,6 +27659,8 @@ iab pauritcyualr particular
 iab paus3 pause
 iab pause3 pause
 iab pauseddd paused
+iab pausign pausing
+iab pausinsg pausing
 iab pausse pause
 iab pauyse pause
 iab pawdding padding
@@ -31424,6 +31434,7 @@ iab rend4ered rendered
 iab render4ed rendered
 iab renderd rendered
 iab renderere renderer
+iab rendert render
 iab rendierng rendering
 iab rendinering rendering
 iab rendre render
@@ -31615,6 +31626,7 @@ iab repvent prevent
 iab reqal real
 iab reqason reason
 iab reqauests requests
+iab reqauire require
 iab reqauired required
 iab reqcursivef recursive
 iab reqeuest request
@@ -35320,6 +35332,7 @@ iab styleesheets stylesheets
 iab stylefs styles
 iab stylel styler
 iab styleshet stylesheet
+iab stylew style
 iab stylews styles
 iab stynadnard standard
 iab styoele style
@@ -38664,6 +38677,7 @@ iab undefiend undefined
 iab undefinatele undefinable
 iab undefineid undefined
 iab undeinable undeniable
+iab undeinfed undefined
 iab undeiniatblye undeniably
 iab undeneath underneath
 iab undepxpewcatdly unexpectedly
@@ -39219,6 +39233,7 @@ iab uplifitintg uplifting
 iab uploawded uploaded
 iab upoin upon
 iab upopn upon
+iab upper4case uppercase
 iab uppign upping
 iab uproductive productive
 iab upsopet upset
