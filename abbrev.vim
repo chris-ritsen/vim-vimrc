@@ -1983,6 +1983,7 @@ iab MOunt Mount
 iab MOuse Mouse
 iab MOve Move
 iab MOved Moved
+iab MOvies Movies
 iab MOving Moving
 iab MOzilla Mozilla
 iab Maangmeent Management
@@ -8846,6 +8847,7 @@ iab buffelo buffalo
 iab buffesr buffers
 iab buffesrzs buffers
 iab bufflao buffalo
+iab bufrfer buffer
 iab bugffer buffer
 iab buidild build
 iab buidl build
@@ -25171,6 +25173,7 @@ iab movenet movement
 iab movennt movement
 iab moviement movement
 iab movign moving
+iab moviles movies
 iab movime movie
 iab movmeent movement
 iab movmenet movement
