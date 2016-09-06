@@ -4230,6 +4230,7 @@ iab Whdich Which
 iab Whehtehr Whether
 iab Whemn When
 iab Whene When
+iab Whenenver Whenever
 iab Whenevfr Whenever
 iab Whenevner Whenever
 iab Whenveer Whenever
@@ -4387,6 +4388,7 @@ iab a4round around
 iab a5t at
 iab aAnother Another
 iab aEventually eventually
+iab aaaactivitiy activity
 iab aaaas as
 iab aaalimimgnet alignment
 iab aaamplitute amplitude
@@ -4539,6 +4541,7 @@ iab abosoulte absolute
 iab abosutle absolute
 iab abosuwlte absolute
 iab abosuylte absolute
+iab abotu about
 iab abou about
 iab abouet about
 iab aboufe above
@@ -5907,6 +5910,7 @@ iab anchietnt ancient
 iab anciehetn ancient
 iab ancientn ancient
 iab ancihient ancient
+iab ancilliary ancillary
 iab anciosu anxious
 iab anda and
 iab andc and
@@ -10373,6 +10377,7 @@ iab complonets components
 iab compltelty completely
 iab compluicated complicated
 iab compnay company
+iab compny company
 iab compoalin complain
 iab compoanies companies
 iab compoared compared
@@ -12742,6 +12747,7 @@ iab desdcbribe describe
 iab desdcgibef described
 iab desdcribe describe
 iab desdcribed described
+iab desdcribption description
 iab desdiceds decides
 iab desdign design
 iab desdpreately desperately
@@ -12960,6 +12966,7 @@ iab deveopeoprs developers
 iab deveopers developers
 iab deveoping developing
 iab deveopling developing
+iab deveopoper developer
 iab devepqing developing
 iab devestarted devastated
 iab devestated devastated
@@ -13025,6 +13032,7 @@ iab devlepopmeing developing
 iab devlepppers developers
 iab devliopment development
 iab devliopp develop
+iab devloeper developer
 iab devloepr developer
 iab devloieprs developers
 iab devlop develop
@@ -13934,6 +13942,7 @@ iab dleveiopoment development
 iab dleveopment development
 iab dlevierancwe deliverance
 iab dlevieries deliveries
+iab dlevleopers developers
 iab dlevoperes developers
 iab dlievered delivered
 iab dlike like
@@ -15720,6 +15729,7 @@ iab epxierience experience
 iab epxieriences experiences
 iab epxieriencesies experiences
 iab epxieriendced experienced
+iab epxierince experience
 iab epxierinces experiences
 iab epxierinec experience
 iab epxierinece experience
@@ -17144,6 +17154,7 @@ iab eyhtrm system
 iab eyletrocnics electronics
 iab eyour your
 iab eys eyes
+iab eysdtdrday yesterday
 iab eyserday yesterday
 iab eystedray yesterday
 iab eysterady yesterday
@@ -17968,6 +17979,7 @@ iab friendshiip friendship
 iab friendsship friendship
 iab frienldy friendly
 iab friensd friends
+iab frighetening frightening
 iab frightented frightened
 iab frightetned frightened
 iab frigst first
@@ -18010,6 +18022,7 @@ iab frquenelty frequently
 iab frquently frequently
 iab frrame frame
 iab frsutrated frustrated
+iab frsutrating frustrating
 iab fruidts fruits
 iab fruitds fruits
 iab fruitlessley fruitlessly
@@ -21316,6 +21329,7 @@ iab inteintoin intention
 iab inteintonally intentionally
 iab inteion intention
 iab inteiont intention
+iab inteiontally internally
 iab inteiontio intention
 iab inteiontion intention
 iab inteiontionally intentionally
@@ -22557,6 +22571,7 @@ iab lafout layout
 iab lagel label
 iab lagnauges languages
 iab lagnuage language
+iab lagnuge language
 iab lagorithms algorithms
 iab lagughing laughing
 iab lahyotu layout
@@ -22942,6 +22957,7 @@ iab lhorizontal horizontal
 iab lhost host
 iab liaghing laughing
 iab liason liaison
+iab libarary library
 iab libarriy library
 iab libing living
 iab librairy library
@@ -25425,6 +25441,7 @@ iab nonesne nonsense
 iab nonexistnece nonexistence
 iab nonly only
 iab nonme none
+iab nonnsnese nonsense
 iab nonsese nonsense
 iab nonsesne nonsense
 iab nonsnesne nonsense
@@ -25573,6 +25590,7 @@ iab nullifivcation nullification
 iab numb3r number
 iab numbeing numbing
 iab numberous numerous
+iab numbersd numbers
 iab numbewrs numbers
 iab numbr number
 iab numbrer number
@@ -26128,6 +26146,7 @@ iab olnly only
 iab olny only
 iab ological logical
 iab omcoemptuer computer
+iab omcptuer computer
 iab omdel model
 iab omenet moment
 iab omeowhat somewhat
@@ -26210,6 +26229,7 @@ iab ontain contain
 iab ontastnly constantly
 iab onths months
 iab ontinue continue
+iab ontly only
 iab ontorl control
 iab ontp onto
 iab ontroller controller
@@ -31128,6 +31148,7 @@ iab requirede required
 iab requiredt required
 iab requiree require
 iab requireed required
+iab requireement requirement
 iab requireing requiring
 iab requiremenst requirements
 iab requirementds requirements
@@ -31713,6 +31734,7 @@ iab rhather rather
 iab rhe the
 iab rhef href
 iab rhins ruins
+iab rhnning running
 iab rhptyhnm rhythm
 iab rhte rate
 iab rhtere there
@@ -31835,6 +31857,7 @@ iab roject project
 iab rollled rolled
 iab roloover rollover
 iab romo room
+iab rompanies companies
 iab ronnery robbery
 iab rooad road
 iab roomamte roommate
@@ -34064,6 +34087,7 @@ iab spiruitual spiritual
 iab spirutaial spiritual
 iab spirutal spiritual
 iab spirutual spiritual
+iab splcie splice
 iab splelling spelling
 iab splendit splendid
 iab splippery slippery
@@ -35724,8 +35748,10 @@ iab technolgies technologies
 iab technolgoeies technologies
 iab technolgoies technologies
 iab technolgoy technology
+iab technolgy technology
 iab technolhogy technology
 iab technoligies technologies
+iab technoligy technology
 iab technoliogies technologies
 iab technollgies technologies
 iab technologiy technology
@@ -36171,6 +36197,7 @@ iab tghere there
 iab tghink think
 iab tghinking thinking
 iab tghis this
+iab tghius this
 iab tghread thread
 iab tghrough through
 iab tghrtough through
@@ -38181,6 +38208,7 @@ iab unemplyment unemployment
 iab unempoloyedd unemployed
 iab unempoyable unemployable
 iab unempoyment unemployment
+iab unemppolouyed unemployed
 iab unenesseary unnecessary
 iab unenployment unemployment
 iab unenscessary unnecessary
@@ -38486,6 +38514,7 @@ iab untilo until
 iab untiol until
 iab untiy unity
 iab untkil until
+iab untl until
 iab untli until
 iab untmil until
 iab untuik until
