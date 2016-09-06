@@ -216,7 +216,7 @@ autocmd! FileType nginx setlocal commentstring=#\ %s
 
 autocmd! FileType fstab setlocal commentstring=#\ %s
 autocmd! FileType haskell setlocal commentstring=--\ %s
-autocmd! FileType json setlocal nowrap
+autocmd! FileType json setlocal nowrap conceallevel=0
 autocmd! FileType lynx setlocal commentstring=#\ %s
 autocmd! FileType slrnrc setlocal commentstring=%\ %s
 autocmd! FileType svnannotate cmap <buffer> q bwipeout
