@@ -1198,6 +1198,7 @@ iab Fbonacci Fibonacci
 iab Fdinding Finding
 iab Fearuew Feature
 iab Featurey Feature
+iab Featyures Features
 iab Februawtry February
 iab Feburayr February
 iab Feelign Feeling
@@ -4271,6 +4272,7 @@ iab Wdinwows Windows
 iab Weait Wait
 iab Wearking Wearing
 iab Weawrning Wearing
+iab Webnpack Webpack
 iab Websertr Webster
 iab Webseter Webster
 iab Websetr Webster
@@ -4962,6 +4964,7 @@ iab aceadmeic academic
 iab acecess access
 iab acecss access
 iab aceents accents
+iab acess access
 iab acetaminiphen acetaminophen
 iab acetaminpehn acetaminophen
 iab acetaminpen acetaminophen
@@ -6471,6 +6474,7 @@ iab apepars appears
 iab apge page
 iab aphabeticalluy alphabetically
 iab aphlabetic alphabetic
+iab apidlay rapidly
 iab apirs pairs
 iab aplicaiton application
 iab aplicaitons applications
@@ -6480,6 +6484,7 @@ iab aplicatopin application
 iab aplied applied
 iab aplifier amplifier
 iab aplify amplify
+iab apllcauition application
 iab apllicadtion application
 iab apllicaiton application
 iab apllication application
@@ -7126,6 +7131,7 @@ iab assaociated associated
 iab asscoftioaion association
 iab assedessment assessment
 iab asseessment assessment
+iab assemessment assessment
 iab assemssment assessment
 iab assertation assertion
 iab assertiaion assertion
@@ -7335,6 +7341,7 @@ iab atteiont attention
 iab atteiton attention
 iab attemepting attempting
 iab attemp attempt
+iab attemped attempted
 iab attempeting attempting
 iab attemps attempt
 iab attempteing attempting
@@ -7435,6 +7442,7 @@ iab auditoriy auditory
 iab audjio audio
 iab audlts adults
 iab audocorections autocorrections
+iab audoi audio
 iab auiclkly quickly
 iab auido audio
 iab auio auto
@@ -8423,6 +8431,7 @@ iab bisiting visiting
 iab bitcioins bitcoins
 iab bithces bitches
 iab bitternesss bitterness
+iab biuild build
 iab biuiology biology
 iab biuld build
 iab biuldings buildings
@@ -8807,6 +8816,7 @@ iab brusing brushing
 iab bruush brush
 iab brwose browse
 iab brwoser browser
+iab brwoserify browserify
 iab brwosers browsers
 iab brwosing browsing
 iab bsacckgournd background
@@ -8894,6 +8904,7 @@ iab bullshti bullshit
 iab bulltets bullets
 iab buncgh bunch
 iab bunchbf bunch
+iab bundwle bundle
 iab bunhc bunch
 iab bunmdle bundle
 iab bunsiess business
@@ -9312,6 +9323,7 @@ iab ceaseledeslsly ceaselessly
 iab ceasesw ceases
 iab ceasiing ceasing
 iab ceassemelssly ceaselessly
+iab ceate create
 iab ceaused ceased
 iab cecent decent
 iab ceelestial celestial
@@ -10988,6 +11000,7 @@ iab confirugsation configuration
 iab confisdently confidently
 iab confiugere configure
 iab confiugraiotn configuration
+iab confiugraiton configuration
 iab confiugrations configurations
 iab confiugring configuring
 iab confiurable configurable
@@ -12253,6 +12266,7 @@ iab curosor cursor
 iab curosr cursor
 iab curouosu curious
 iab curr3ent current
+iab curreent current
 iab curren current
 iab currenbt current
 iab currenceies currencies
@@ -12380,6 +12394,7 @@ iab damamging damaging
 iab daman damn
 iab damange damage
 iab damanged damaged
+iab dameon daemon
 iab damoen daemon
 iab damqged damaged
 iab danagerous dangerous
@@ -13473,6 +13488,7 @@ iab differfencet different
 iab differfernt different
 iab differnce difference
 iab differncer difference
+iab differnces differences
 iab differne3t different
 iab differnecde difference
 iab differnece difference
@@ -16459,6 +16475,7 @@ iab evertything everything
 iab evertytihng everything
 iab evertytone everyone
 iab everwyehre everywhere
+iab everwyehrer everywhere
 iab everwywehre everywhere
 iab everwywhere everywhere
 iab every8thing everything
@@ -17941,6 +17958,7 @@ iab fiungers fingers
 iab fiunishing finishing
 iab fiunny funny
 iab fiunxtion function
+iab fiurst first
 iab fiurther further
 iab fiurtuyerh further
 iab fiuther further
@@ -19344,6 +19362,7 @@ iab headphoens headphones
 iab headphoes headphones
 iab headphoesn headphones
 iab headphoones headphones
+iab headpohens headphones
 iab headpohes headphones
 iab headpohesn headphones
 iab headpohesnes headphones
@@ -28420,6 +28439,7 @@ iab playedch played
 iab playetr player
 iab playform platform
 iab playgin playing
+iab playgrtound playground
 iab playh play
 iab playher player
 iab playhign playing
@@ -29330,6 +29350,7 @@ iab preovisu previous
 iab preoviuos previous
 iab preovius previous
 iab preovuislu previously
+iab preovus previous
 iab preparationa preparation
 iab preparationn preparation
 iab prepareds prepared
@@ -29861,6 +29882,7 @@ iab projecfs projects
 iab projecft project
 iab projectuing projecting
 iab projedcct project
+iab projewct project
 iab projewcts projects
 iab projext project
 iab projhects projects
@@ -30183,6 +30205,7 @@ iab ptravelling traveling
 iab ptyini typing
 iab ptyoos photos
 iab puase pause
+iab puased paused
 iab puases pauses
 iab publci public
 iab publciu public
@@ -30393,6 +30416,7 @@ iab querieis queries
 iab querstion question
 iab quesaiotn question
 iab quesations questions
+iab quesiojhn question
 iab quesiont question
 iab quesionts questions
 iab quesiotn question
@@ -30994,6 +31018,7 @@ iab rediret redirect
 iab redisciver rediscover
 iab redissign redesign
 iab redixint reducing
+iab redndeirng rendering
 iab redndering rendering
 iab redndgin rendering
 iab rednerign rendering
@@ -32013,6 +32038,7 @@ iab restared restarted
 iab restareting restarting
 iab restarruyt restaurant
 iab restartedt restarted
+iab restartsd restarts
 iab restartxs restarts
 iab restatrted restarted
 iab restauernt restaurant
@@ -33808,6 +33834,7 @@ iab significatn significant
 iab significatnce significance
 iab significatnt significant
 iab significiant significant
+iab signifiicant significant
 iab signifnicantly significantly
 iab signifucatnly significantly
 iab signiiciace significance
@@ -34650,6 +34677,7 @@ iab speicifcy specific
 iab speicific specific
 iab speicificlaly specifically
 iab speicifics specifics
+iab speicificuly specifically
 iab speicifxally specifically
 iab speins spins
 iab speirutual spiritual
@@ -35360,6 +35388,7 @@ iab styelsheets stylesheets
 iab styelsss styles
 iab styleesheets stylesheets
 iab stylefs styles
+iab stylehset stylesheet
 iab stylel styler
 iab styleshet stylesheet
 iab stylew style
@@ -35992,6 +36021,7 @@ iab swutch switch
 iab swweep sweep
 iab swwinging swinging
 iab sxequence sequence
+iab sxink sink
 iab sxiteen sixteen
 iab sxmallest smallest
 iab sxome some
@@ -36394,6 +36424,7 @@ iab technogloigies technologies
 iab technogologies technologies
 iab technolggoies technologies
 iab technolgies technologies
+iab technolgieys technologies
 iab technolgoeies technologies
 iab technolgoies technologies
 iab technolgoy technology
@@ -36813,6 +36844,7 @@ iab texswt text
 iab textes texts
 iab textesx texts
 iab texty text
+iab texyt text
 iab teyhcbnical technical
 iab teype type
 iab teyped typed
@@ -40100,7 +40132,9 @@ iab webi web
 iab webigste website
 iab webikit webkit
 iab webiste website
+iab webistei website
 iab webistes websites
+iab webistite website
 iab webkiit webkit
 iab webkity webkit
 iab webkiut webkit
