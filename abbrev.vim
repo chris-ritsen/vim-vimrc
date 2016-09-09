@@ -10969,6 +10969,7 @@ iab configruation configuration
 iab configruatipon configuration
 iab configu config
 iab configue configure
+iab configugre configure
 iab configuiring configuring
 iab configuraiotn configuration
 iab configuraiton configuration
@@ -10988,6 +10989,7 @@ iab confiident confident
 iab confimr confirm
 iab confimrend confirmed
 iab confinnned confined
+iab confiogure configure
 iab confioromity conformity
 iab confiounds confounds
 iab confirfuring configuring
@@ -11026,6 +11028,7 @@ iab confugration configuration
 iab confugsed confused
 iab confugurijng configuring
 iab confuigraution configuration
+iab confuigure configure
 iab confuising confusing
 iab confuisng confusing
 iab confvention convention
@@ -12204,6 +12207,7 @@ iab csna can
 iab csnoeole console
 iab csonoel console
 iab csonoele console
+iab csonole console
 iab csonsiderations considerations
 iab csot cost
 iab csuotmer customer
@@ -12628,6 +12632,7 @@ iab dectoriation decoration
 iab decude decide
 iab decvice device
 iab decvices devices
+iab decvlopment development
 iab decxetirty dexterity
 iab dedal deal
 iab dedcdribe describe
