@@ -708,6 +708,7 @@ iab Decvleoper Developer
 iab Dedficits Deficits
 iab Deeop Deep
 iab Definiing Defining
+iab Defninitely Definitely
 iab Degleooper Developer
 iab Delebopver Developer
 iab Deleeted Deleted
@@ -2250,6 +2251,7 @@ iab Noticicing Noticing
 iab Noticving Noticing
 iab Notihgn Nothing
 iab Noty Not
+iab Novembgre November
 iab Nowehere Nowhere
 iab Nowhewre Nowhere
 iab Nrext Next
@@ -2956,6 +2958,7 @@ iab RITnsn Ritsen
 iab RIght Right
 iab RInste4 Ritsen
 iab RIsne Ritsen
+iab RIsten Ritsen
 iab RIstne Ritsen
 iab RIstwen Ritsen
 iab RItghgt Right
@@ -9467,6 +9470,7 @@ iab chahnnel channel
 iab chaigng changing
 iab chainging changing
 iab challeenges challenges
+iab challegne challenge
 iab challegned challenged
 iab challendges challenges
 iab challenege challenge
@@ -12002,6 +12006,7 @@ iab coulld could
 iab couls could
 iab coumpany company
 iab cound count
+iab counds counts
 iab countelss countless
 iab counterparsts counterparts
 iab counteruulture counterculture
@@ -12622,6 +12627,7 @@ iab decresae decrease
 iab decresas4e decrease
 iab decresase decrease
 iab decrese decrease
+iab decription decryption
 iab decroration decoration
 iab decrsing decreasing
 iab decsterity dexterity
@@ -15918,6 +15924,7 @@ iab envoroments environments
 iab envorumental environmental
 iab envrioment environment
 iab envriotnemnt environment
+iab envririonment environment
 iab envrironmetn environment
 iab envronemtn environment
 iab envuroment environment
@@ -17373,6 +17380,7 @@ iab extenseds extends
 iab extensibely extensively
 iab extensiuating extenuating
 iab extensivwe extensive
+iab extensviely extensively
 iab extentiosn extension
 iab extentsions extensions
 iab exteranal external
@@ -21877,6 +21885,7 @@ iab interfecerence interference
 iab interfedrred interfered
 iab interfview interview
 iab interfviews interviews
+iab interger integer
 iab intergral integral
 iab intergrate integrate
 iab intergrated integrated
@@ -26872,6 +26881,7 @@ iab opposiute opposite
 iab oppportunities opportunities
 iab oppporuituoinies opportunities
 iab oppposite opposite
+iab oppprutnity opportunity
 iab opppsoted opposed
 iab oppresion oppression
 iab oppriottunity opportunity
@@ -29929,6 +29939,7 @@ iab promption promotion
 iab promsies promises
 iab promt prompt
 iab promtion promotion
+iab promtions promotions
 iab promtp prompt
 iab promtpt prompt
 iab pronoucned pronounced
@@ -30433,6 +30444,7 @@ iab questionas questions
 iab questiones questions
 iab questionsg questions
 iab questionts questions
+iab questionxs questions
 iab questiopns questions
 iab questiosn questions
 iab quesytions questions
@@ -31468,6 +31480,7 @@ iab removeal removal
 iab removec remove
 iab removeing removing
 iab removew remove
+iab removfed removed
 iab removign removing
 iab removingin removing
 iab rempaping remapping
@@ -33577,6 +33590,7 @@ iab sewat sweat
 iab sewatches swatches
 iab sewating sweating
 iab sewatshirt sweatshirt
+iab sewcond second
 iab sewconds seconds
 iab sewction section
 iab sewcurity security
@@ -36999,6 +37013,7 @@ iab themsleves themselves
 iab themslevles themselves
 iab themswelves themselves
 iab themwlselves themselves
+iab themwsevles themselves
 iab themye theme
 iab thenb then
 iab thene then
@@ -37508,6 +37523,7 @@ iab tjey they
 iab tjhat that
 iab tjhe the
 iab tjhis this
+iab tjob job
 iab tkaaaing taking
 iab tkacgin tracking
 iab tkae take
