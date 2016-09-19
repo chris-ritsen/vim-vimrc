@@ -172,6 +172,7 @@ iab Aprepeciate Appreciate
 iab Aprepntly Apparently
 iab Apriol April
 iab Arboer Arbor
+iab Architechture Architecture
 iab Architefture Architecture
 iab Arelgiht Alright
 iab Arlarmingly Alarmingly
@@ -1407,6 +1408,7 @@ iab Hellping Helping
 iab Henfdrix Hendrix
 iab Henfrix Hendrix
 iab Herar Hear
+iab Herokuy Heroku
 iab Hestitate Hesitate
 iab Hestitation Hesitation
 iab Hewlet Hewlett
@@ -2179,6 +2181,7 @@ iab NOrhinf Nothing
 iab NOrmal Normal
 iab NOrmally Normally
 iab NOrmlally Normally
+iab NOrthville Northvile
 iab NOt Not
 iab NOtably Notably
 iab NOte Note
@@ -3113,6 +3116,7 @@ iab Rogder Roger
 iab Rohy Roy
 iab Roling Rolling
 iab Roplling Rolling
+iab Rotuer Router
 iab Royksopp Röyksopp
 iab Rpeated Repeated
 iab Rpeeaea Repeal
@@ -3427,6 +3431,7 @@ iab Sipmply Simply
 iab Sitill Still
 iab Sitll Still
 iab Sjhazam Shazam
+iab Slcak Slack
 iab Slgihtly Slightly
 iab Slielence Silence
 iab Slwoly Slowly
@@ -3695,6 +3700,7 @@ iab THrowing Throwing
 iab THsis This
 iab THswi This
 iab THursdasy Thursday
+iab THursday Thursday
 iab TIgers Tigers
 iab TIme Time
 iab TJhsi This
@@ -3908,6 +3914,7 @@ iab Threse These
 iab Throughts Thoughts
 iab Thruday Thursday
 iab Thrusay Thruway
+iab Thrusdasy Thursday
 iab Thsat That
 iab Thsdi This
 iab Thse These
@@ -4197,6 +4204,7 @@ iab WEekend Weekend
 iab WEhat What
 iab WEher Where
 iab WEhere Where
+iab WEhich Which
 iab WEhy Why
 iab WEight Weight
 iab WEithout Without
@@ -4280,6 +4288,7 @@ iab Websertr Webster
 iab Webseter Webster
 iab Websetr Webster
 iab Wedgnesday Wednesday
+iab Wedneasay Wednesday
 iab Wednedasy Wednesday
 iab Wednedsay Wednesday
 iab Wednesdasy Wednesday
@@ -5326,6 +5335,7 @@ iab adidtions additions
 iab adifference difference
 iab adimh admin
 iab adimistration administration
+iab adimn admin
 iab adin admin
 iab adinibg admin
 iab adinm admin
@@ -6655,6 +6665,7 @@ iab applicaqtion application
 iab applicatble applicable
 iab applicatin application
 iab applicatiohjn application
+iab applicatiojn application
 iab applicationl application
 iab applicationsa applications
 iab applicatiopn application
@@ -13368,6 +13379,7 @@ iab dfoor door
 iab dfown down
 iab dfrom from
 iab dfurtherst furthest
+iab dfwew few
 iab dhanger danger
 iab dhave have
 iab dhcahnges changes
@@ -21240,6 +21252,7 @@ iab inelligent intelligent
 iab inemitable inimitable
 iab inernet internet
 iab inerrupt interrupt
+iab inestructions instructions
 iab ineterivew interview
 iab inetersting interesting
 iab ineteruppeted interrupted
@@ -22475,6 +22488,7 @@ iab iunfolding unfolding
 iab iunnder under
 iab iunteresting interesting
 iab iuntersting interesting
+iab iunterviews interviews
 iab iuntil until
 iab iupon upon
 iab iuring during
@@ -23657,6 +23671,7 @@ iab locadtion location
 iab localied localized
 iab localstoerage localstorage
 iab localstorage localstorage
+iab locatede located
 iab locationsa locations
 iab locationsl locations
 iab locatiopn location
@@ -24573,6 +24588,7 @@ iab micellsanouys miscellaneous
 iab michrophone microphone
 iab michropohe microphone
 iab michropohrne microphone
+iab micigan michigan
 iab micorphone microphone
 iab micprhohne microphone
 iab micrho micro
@@ -28929,6 +28945,7 @@ iab postioions positions
 iab postioiosn positions
 iab postion position
 iab postione position
+iab postioni position
 iab postions positions
 iab postionso positions
 iab postiooisn positions
@@ -29272,6 +29289,7 @@ iab prefereanceble preferable
 iab prefereannce preference
 iab preferece preference
 iab prefered preferred
+iab preferenace preference
 iab prefereted preferred
 iab preferewnces preferences
 iab preferialbyu preferably
@@ -29464,6 +29482,7 @@ iab preventDfeault preventDefault
 iab preventingh preventing
 iab preventted prevented
 iab prever prefer
+iab preverably preferably
 iab previall prevail
 iab previals prevails
 iab previeows previous
@@ -29674,6 +29693,7 @@ iab proceess process
 iab proceicient proficient
 iab proces process
 iab procesas process
+iab processeses processes
 iab processs process
 iab processsing processing
 iab proceudre procedure
@@ -31689,6 +31709,7 @@ iab repsponse response
 iab repsssond respond
 iab reptillian reptilian
 iab reptition repetition
+iab reptoirt report
 iab reptorter reporter
 iab repurcussions repercussions
 iab repvent prevent
@@ -32343,6 +32364,7 @@ iab rfunctions functions
 iab rgiht right
 iab rgraphicss graphics
 iab rhalf half
+iab rhandler handler
 iab rhather rather
 iab rhe the
 iab rhef href
@@ -32601,6 +32623,7 @@ iab rtesting testing
 iab rteturn return
 iab rteureturned returned
 iab rteurn return
+iab rtewam team
 iab rtgiht right
 iab rthat that
 iab rthater rather
@@ -32903,6 +32926,7 @@ iab scheudlied scheduled
 iab scheudling scheduling
 iab scheufled scheduled
 iab scheulde schedule
+iab scheulded scheduled
 iab scheule schedule
 iab schienticifc scientific
 iab schientific scientific
@@ -36464,6 +36488,7 @@ iab technqiues techniques
 iab technuqe technique
 iab technuyqe technique
 iab techologies technologies
+iab techomologies technologies
 iab techonoglotgies technologies
 iab techonolgies technologies
 iab techonoligical technological
@@ -39717,6 +39742,7 @@ iab verticadl vertical
 iab verticdal vertical
 iab verticdally vertically
 iab vertiical vertical
+iab vertsion version
 iab verty very
 iab veru very
 iab verye very
@@ -39857,6 +39883,7 @@ iab viusible visible
 iab vivivdily vividly
 iab viwwer viewer
 iab vizarre bizarre
+iab vlaidation validation
 iab vlaleu value
 iab vlaue value
 iab vlaues values
