@@ -2347,6 +2347,7 @@ iab Occassionally Occasionally
 iab Odysset Odyssey
 iab Oferring Offering
 iab Ofifce Office
+iab Ofr Of
 iab Ogh Oh
 iab Ohg Oh
 iab Oject Object
@@ -3717,6 +3718,7 @@ iab TOo Too
 iab TOok Took
 iab TOols Tools
 iab TOook Took
+iab TOtal Total
 iab TOtally Totally
 iab TOtoally Totally
 iab TRACRE TRACE
@@ -4003,6 +4005,7 @@ iab Ttrek Trek
 iab Tttthe The
 iab Tuedasy Tuesday
 iab Tueday Tuesday
+iab Tuedsaay Tuesday
 iab Tuedsay Tuesday
 iab Tuere There
 iab Tuesdayt Tuesday
@@ -5305,6 +5308,7 @@ iab additon addition
 iab additonal additional
 iab addixcvtions addictions
 iab addresss address
+iab addrss address
 iab addtional additional
 iab adduing adding
 iab adduitiopnal additional
@@ -9480,6 +9484,7 @@ iab chagning changing
 iab chahnnel channel
 iab chaigng changing
 iab chainging changing
+iab challagen challenge
 iab challeenges challenges
 iab challegne challenge
 iab challegned challenged
@@ -18515,6 +18520,7 @@ iab functino function
 iab functio function
 iab functioN function
 iab functioanl functional
+iab functioanlity functionality
 iab functionab functional
 iab functionalbity functionality
 iab functionali9ty functionality
@@ -32348,6 +32354,7 @@ iab rezise resize
 iab rezized resized
 iab rfabric fabric
 iab rfall fall
+iab rfar far
 iab rfelfelction reflection
 iab rfersh refresh
 iab rffer refer
@@ -33494,6 +33501,7 @@ iab seriouys serious
 iab seriouysly seriously
 iab serioys serious
 iab serioyus serious
+iab seriqalize serialize
 iab serisously seriously
 iab serivce service
 iab serivces services
@@ -36752,6 +36760,7 @@ iab tentnaitive tentative
 iab tentnarive tentative
 iab tentnative tentative
 iab teo to
+iab teoaday today
 iab teoady toady
 iab teoadyu toady
 iab teogether together
