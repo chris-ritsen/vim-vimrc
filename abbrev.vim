@@ -622,6 +622,7 @@ iab Ctontainer Container
 iab Ctriterion Criterion
 iab Cuirrently Currently
 iab Cultaured Cultured
+iab Cultiavating Cultivating
 iab Cultiviating Cultivating
 iab Cuoudl Could
 iab Curerntluy Currently
@@ -3077,6 +3078,7 @@ iab Retrueival Retrieval
 iab Reuiqmrenteza Requirements
 iab Reverasal Reversal
 iab Revist Revisit
+iab Revmoec Remove
 iab Rewcord Record
 iab Rewpeat Repeat
 iab Rewward Reward
@@ -17520,6 +17522,7 @@ iab eysteyrdsa yesterday
 iab eystr3ewrday yesterday
 iab eyt yet
 iab eyteys eyes
+iab eyuar year
 iab eyuars years
 iab eyus yes
 iab eyusterday yesterday
