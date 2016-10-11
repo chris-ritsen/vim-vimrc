@@ -1322,6 +1322,7 @@ iab Gprahics Graphics
 iab Grabitation Gravitation
 iab Grabity Gravity
 iab Gradident Gradient
+iab Greeddy Greedy
 iab Greenes Greens
 iab Groipiping Gripping
 iab Grpahics Graphics
@@ -2366,6 +2367,7 @@ iab OperatingA Operating
 iab Opiniions Opinions
 iab Opotions Options
 iab Opportunties Opportunities
+iab Optimial Optimal
 iab Optinal Optional
 iab Optoinal Optional
 iab Optomized Optimized
@@ -5700,12 +5702,17 @@ iab algiorthims algorithms
 iab algiriothms algorithms
 iab algirotihms algorithms
 iab algoifrithms algorithms
+iab algoiritms algorithms
 iab algoirthm algorithm
 iab algoirthms algorithms
 iab algoitryhtms algorithms
 iab algoorithms algorithms
+iab algor8ithsms algorithms
 iab algorhtims algorithms
+iab algorithsm algorithms
 iab algorithsms algorithms
+iab algoriuthmic algorithmic
+iab algortirhms algorithms
 iab algortithms algorithms
 iab algothirms algorithms
 iab algothorithms algorithms
@@ -9318,6 +9325,7 @@ iab ccaptain captain
 iab ccausula causal
 iab cchange change
 iab cchanges changes
+iab ccitiies cities
 iab ccompalints complaints
 iab ccompare compare
 iab cconfugring configuring
@@ -10422,6 +10430,7 @@ iab comnented commented
 iab comnfigration configuration
 iab comnfort comfort
 iab comnitnue continue
+iab comnplete complete
 iab comnputers computers
 iab comntact contact
 iab comntemplated contemplated
@@ -12116,6 +12125,7 @@ iab crazyy crazy
 iab creaet create
 iab creaetd created
 iab creaitgin creating
+iab crear5ted created
 iab crearted created
 iab creashing crashing
 iab creasted created
@@ -12612,6 +12622,7 @@ iab decidign deciding
 iab decidingt deciding
 iab decidion decision
 iab decidsion decision
+iab decidsions decisions
 iab decie device
 iab deciecdied decided
 iab deciecer deceiver
@@ -13833,6 +13844,7 @@ iab discisingg discussing
 iab discitnct distinct
 iab disciuss discuss
 iab discivered discovered
+iab discivoreed discovered
 iab disclaminemr disclaimer
 iab disclaminer disclaimer
 iab disclaminers disclaimers
@@ -14050,6 +14062,7 @@ iab distancne distance
 iab distancrss distances
 iab distanct distant
 iab distande distance
+iab distannces distances
 iab distannnt distant
 iab distannt distant
 iab distarcetgd distracted
@@ -16941,6 +16954,7 @@ iab exhaulted exalted
 iab exhaults exults
 iab exhaused exhausted
 iab exhauset exhaust
+iab exhausticve exhaustive
 iab exhauts exhausts
 iab exhcuasedted exhausted
 iab exhibititng exhibiting
@@ -19008,6 +19022,7 @@ iab greawt great
 iab greayt great
 iab greeater greater
 iab greeed greed
+iab greeedy greedy
 iab greeen green
 iab greemn green
 iab greief grief
@@ -19055,6 +19070,7 @@ iab gtot got
 iab gtravelling traveling
 iab gtror2wing growing
 iab guage gauge
+iab guaraneteed guaranteed
 iab guaranteeed guarantied
 iab guaratnees guarantees
 iab guarentee guarantee
@@ -19531,6 +19547,8 @@ iab heroi hero
 iab heros heroes
 iab herre here
 iab hersefl herself
+iab heruistic heuristic
+iab herustic heuristic
 iab hesistant hesitant
 iab hesistate hesitate
 iab hesistation hesitation
@@ -19545,6 +19563,7 @@ iab hestitations hesitations
 iab hestitiate hesitate
 iab hestitqtation hesitation
 iab hetese these
+iab heuruistic heuristic
 iab hewre here
 iab hexagonial hexagonal
 iab hfeavy heavy
@@ -25595,6 +25614,7 @@ iab neabled enabled
 iab neaeds needs
 iab nealry nearly
 iab neanblged enabled
+iab nearestt nearest
 iab nearklly nearly
 iab nearluing pearling
 iab nearlyu nearly
@@ -26970,6 +26990,7 @@ iab optimizatin optimization
 iab optimizatins optimizations
 iab optimsation optimisation
 iab optimze optimize
+iab optinaml optimal
 iab optininon opinion
 iab optinmazation optimization
 iab optino option
@@ -26987,6 +27008,7 @@ iab optisons options
 iab optiuons options
 iab optiwons options
 iab optkoins options
+iab optmial optimal
 iab optn open
 iab optoin option
 iab optoins options
@@ -29792,6 +29814,7 @@ iab produciing producing
 iab produciung producing
 iab producongi producing
 iab producrively productively
+iab producs produce
 iab producted produced
 iab productes products
 iab productibely productively
@@ -30041,6 +30064,7 @@ iab propositioanl propositional
 iab propper proper
 iab propplositional propositional
 iab proppsitional propositional
+iab proprertuies properties
 iab propriception proprioception
 iab propriertary proprietary
 iab proprietart proprietary
@@ -30806,6 +30830,7 @@ iab reandom random
 iab reandomly randomly
 iab reansoably reasonably
 iab reaon reason
+iab reaonable reasonable
 iab reaonsable reasonable
 iab reaosdn reason
 iab reaosn reason
@@ -31003,6 +31028,7 @@ iab reconise recognise
 iab reconisied recognised
 iab reconized recognized
 iab reconsgtriucting reconstructing
+iab reconsideres reconsidered
 iab recoonect reconnect
 iab recopu recoup
 iab recorcded recorded
@@ -31101,6 +31127,7 @@ iab redunddant redundant
 iab redundunatly redundantly
 iab reeappaer reappear
 iab reedis redis
+iab reeducing reducing
 iab reeflect reflect
 iab reeicvers receivers
 iab reejct reject
@@ -31826,6 +31853,7 @@ iab requiwre require
 iab requr4ests requests
 iab requred required
 iab requreiemntns requirements
+iab requres requires
 iab requried required
 iab requrieng requiring
 iab requries requires
@@ -33159,6 +33187,7 @@ iab seaoson season
 iab seaqsin season
 iab sear5ching searching
 iab searcdh search
+iab searcgh search
 iab search9ing searching
 iab searcha search
 iab searchd search
@@ -34255,6 +34284,7 @@ iab sloewest slowest
 iab sloewset slowest
 iab sloewwest slowest
 iab slolution solution
+iab slolutions solutions
 iab sloly slowly
 iab sloopes slopes
 iab slooppy sloppy
@@ -34433,6 +34463,7 @@ iab soldid solid
 iab solidily solidly
 iab solied solid
 iab solition solution
+iab solituon solution
 iab soltijon solution
 iab soltion solution
 iab soltuion solution
@@ -35258,6 +35289,7 @@ iab strartegy strategy
 iab stratched scratched
 iab strated started
 iab strategeies strategies
+iab strategey strategy
 iab strateggy strategy
 iab strategty strategy
 iab strategye strategy
@@ -35521,6 +35553,7 @@ iab suboprocess subprocess
 iab subporcess subprocess
 iab subporiicess subprocess
 iab subpricess subprocess
+iab subproblme subproblem
 iab subprocdsss subprocess
 iab subprocedss subprocess
 iab subprocesss subprocess
@@ -35985,6 +36018,7 @@ iab suvb3ejects subjects
 iab suvbscriptions subscriptions
 iab suvh such
 iab suxh such
+iab suybproblems subproblems
 iab suybsides subsides
 iab suych such
 iab suynlight sunlight
@@ -39184,6 +39218,7 @@ iab unmiiimited unlimited
 iab unmless unless
 iab unmoticatefd unmotivated
 iab unmpleasent unpleasant
+iab unmreasaonably unreasonably
 iab unmtil until
 iab unnatirual unnatural
 iab unnatrual unnatural
@@ -39317,6 +39352,7 @@ iab unuasable unusable
 iab unucuasal unusual
 iab unuit unit
 iab unuitintaneiontally unintentionally
+iab unuque unique
 iab unusuable unusable
 iab unusuasl unusual
 iab unususal unusual
@@ -39324,6 +39360,7 @@ iab unusuual unusual
 iab unuusal unusual
 iab unuusual unusual
 iab unviersae universe
+iab unvisisted unvisited
 iab unware unaware
 iab unwareare unaware
 iab unwatcdhed unwatched
@@ -40567,6 +40604,7 @@ iab whitesoapace whitespace
 iab whitew white
 iab whith with
 iab whithought without
+iab whixch which
 iab whixzzzing whizzing
 iab whizzidng whizzing
 iab whjatever Whatever
@@ -41557,6 +41595,7 @@ iab yuear year
 iab yuears years
 iab yues yes
 iab yuesterday yesterday
+iab yuield yield
 iab yunchangeable unchangeable
 iab yunder under
 iab yundersnad understand
