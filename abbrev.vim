@@ -1776,6 +1776,7 @@ iab Isablella Isabella
 iab Isaebella Isabella
 iab Isdntfy Identify
 iab Isntalled Installed
+iab Isntead Instead
 iab Issabella Isabella
 iab Isuses Issues
 iab Isusues Issues
@@ -4914,6 +4915,7 @@ iab accpeting accepting
 iab accpetlable acceptable
 iab accpetpable acceptable
 iab accplish accomplish
+iab accpmolish accomplish
 iab accpmplished accomplished
 iab accpomlished accomplished
 iab accpomplish accomplish
@@ -17512,6 +17514,7 @@ iab eyars years
 iab eyasrs years
 iab eyawrs years
 iab eyboard keyboard
+iab eydtderday yesterday
 iab eyears years
 iab eyeborows eyebrows
 iab eyeed eyed
@@ -17743,6 +17746,7 @@ iab feirfcely fiercely
 iab fele feel
 iab feleeting fleeting
 iab feleing feeling
+iab felel feel
 iab feleling feeling
 iab felet felt
 iab feleting fleeting
@@ -21513,6 +21517,7 @@ iab innovateive innovative
 iab innstead instead
 iab innumer4able2 innumerable
 iab innundated inundated
+iab inocme income
 iab inocomrpelsheibility incomprehensibility
 iab inolly only
 iab inot not
@@ -21947,6 +21952,7 @@ iab interive2w interview
 iab interivei3w interview
 iab interivew interview
 iab interivewiing interviewing
+iab interivews interviews
 iab interiviefw interview
 iab interiviews interviews
 iab interivwe interview
@@ -29940,6 +29946,7 @@ iab progrmaming programming
 iab progrmammign programming
 iab progrmas programs
 iab progrms programs
+iab progrtmaming programming
 iab prohgram program
 iab prohjects projects
 iab proibably probably
@@ -33623,6 +33630,7 @@ iab setnene sentence
 iab setps steps
 iab setteings settings
 iab settel settle
+iab settginnng setting
 iab settigns settings
 iab settimeout setTimeout
 iab settinsg settings
@@ -36180,6 +36188,7 @@ iab syour your
 iab syperficialyy superficially
 iab sypmbols symbols
 iab sypthathy sympathy
+iab syrtsmte system
 iab sysatem system
 iab sysetem system
 iab sysetm system
@@ -36676,6 +36685,7 @@ iab temamates teammates
 iab temaplate template
 iab temas teams
 iab temepearature temperature
+iab temeperature temperature
 iab temeprautres temperatures
 iab temerpar5autre temperature
 iab temerparature temperature
@@ -41263,6 +41273,7 @@ iab wuidth width
 iab wuiht with
 iab wuit quit
 iab wuith with
+iab wuithb with
 iab wundow window
 iab wuold would
 iab wuqeiton question
