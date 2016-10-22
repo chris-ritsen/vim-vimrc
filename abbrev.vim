@@ -3444,6 +3444,7 @@ iab Slielence Silence
 iab Slwoly Slowly
 iab Smoth Smith
 iab Smtih Smith
+iab Smulacrum Simulacrum
 iab Snesible Sensible
 iab Snith Smith
 iab Snoewing Snowing
@@ -26606,6 +26607,7 @@ iab offereing offering
 iab offerening offering
 iab offert offer
 iab offf off
+iab offfer offer
 iab offgers offers
 iab officde office
 iab officesrs officers
@@ -31697,6 +31699,7 @@ iab reprepsent represent
 iab reprepsentation representation
 iab reprepsenting representing
 iab reprepsetnetations representations
+iab represantation representation
 iab represednts represents
 iab represeentations representations
 iab represend represent
@@ -35648,6 +35651,7 @@ iab sucircumstances circumstances
 iab sucj such
 iab sucrimsatance circumstance
 iab sucstrate substrate
+iab sucuplture sculpture
 iab sucvh such
 iab sucxh such
 iab sudbstances substances
@@ -35933,6 +35937,7 @@ iab surpsringly surprisingly
 iab surraface surface
 iab surrendner surrender
 iab surrindoundgs surroundings
+iab surroudn surround
 iab surroudnign surrounding
 iab surroudnings surroundings
 iab surroundede surrounded
