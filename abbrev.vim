@@ -269,6 +269,7 @@ iab Bizzarely Bizarrely
 iab Bjuidl Build
 iab Bjuild Build
 iab Bjuisdl Build
+iab Blcok Block
 iab Blsack Black
 iab Bluye Blue
 iab Bodfy Body
@@ -1416,6 +1417,7 @@ iab Hestitation Hesitation
 iab Hewlet Hewlett
 iab Hhave Have
 iab Hhello Hello
+iab Hieroarcy Hierarchy
 iab Higggins Higgins
 iab Hilariopus Hilarious
 iab Hisa His
@@ -2062,6 +2064,7 @@ iab Meditiative Meditative
 iab Meditiatvie Meditative
 iab Medtiating Meditating
 iab Meetign Meeting
+iab Meididation Meditation
 iab Meidium Medium
 iab Meidtaiotnop Meditation
 iab Meidtaited Meditated
@@ -2853,6 +2856,7 @@ iab REcreate Recreate
 iab REdux Redux
 iab REeact React
 iab REelax Relax
+iab REepeat Repeat
 iab REesteraunt Restaurant
 iab REevaluate Reevaluate
 iab REfelctions Reflections
@@ -3007,6 +3011,7 @@ iab Rarelrly Rarely
 iab Rasberry Raspberry
 iab Raspbeery Raspberry
 iab Rawnge Range
+iab Rdvieiwed Reviewed
 iab Readign Reading
 iab Readlly Really
 iab Reamining Remaining
@@ -3292,6 +3297,7 @@ iab STratched Scratched
 iab STrategist Strategist
 iab STruggling Struggling
 iab STsrt Start
+iab STuddy Study
 iab STudio Studio
 iab SUch Such
 iab SUper Super
@@ -7107,6 +7113,7 @@ iab asertained ascertained
 iab aserted asserted
 iab asethetic aesthetic
 iab asfter after
+iab asgain again
 iab ashared shared
 iab ashouls should
 iab asic basic
@@ -7357,6 +7364,7 @@ iab attaminents attainments
 iab attaminmetns attainments
 iab attanined attained
 iab attaninments attainments
+iab attaninng attuning
 iab attascdhed attached
 iab attatached attached
 iab attatcghnment attachment
@@ -9267,6 +9275,7 @@ iab carhactoir3estic characteristic
 iab cariables variables
 iab carign caring
 iab cariing caring
+iab carinfg caring
 iab carintg caring
 iab carosel carousel
 iab carreer career
@@ -10606,6 +10615,7 @@ iab comploete complete
 iab comploeted completed
 iab complonets components
 iab compltelty completely
+iab compltely completely
 iab compluicated complicated
 iab compnay company
 iab compny company
@@ -13552,6 +13562,7 @@ iab differnetly differently
 iab differnett different
 iab differnetuaw different
 iab differnt different
+iab differntcne difference
 iab differnte different
 iab differtnet different
 iab differtnetly differently
@@ -14932,6 +14943,7 @@ iab ecxat exact
 iab ecxcellenet excellent
 iab ecxcept except
 iab ecxcessive excessive
+iab ecxcite excite
 iab ecxclucivfe exclusive
 iab ecxcuse excuse
 iab ecxecuted executed
@@ -15062,6 +15074,7 @@ iab effeects effects
 iab effeft effect
 iab effeictgive effective
 iab effeort effort
+iab effeorts efforts
 iab effepct effect
 iab effert effort
 iab effext effect
@@ -15503,6 +15516,7 @@ iab emoment moment
 iab emoon moon
 iab emootional emotional
 iab emoployeees employees
+iab emoplyoment employment
 iab emoptions emotions
 iab emore more
 iab emorning morning
@@ -16343,6 +16357,7 @@ iab estuff stuff
 iab esubsequent subsequent
 iab esults results
 iab esxaxt exact
+iab esxcape escape
 iab esxcept except
 iab esxception exception
 iab esxercise exercise
@@ -16875,6 +16890,7 @@ iab execeedingly exceedingly
 iab execellence excellence
 iab execeprts excerpts
 iab execept except
+iab execerisce exercise
 iab execessive excessive
 iab execetped expected
 iab execewpt except
@@ -17933,6 +17949,7 @@ iab fingetnails fingernails
 iab fingettips fingertips
 iab finggers fingers
 iab finially finally
+iab finidhsed finished
 iab finidng finding
 iab finihs finish
 iab finihsed finished
@@ -19247,6 +19264,7 @@ iab hapepnign happening
 iab hapepning happening
 iab hapepnings happenings
 iab hapepniung happening
+iab hapepnonig happening
 iab hapepns happens
 iab hapepy happy
 iab hapinees happiness
@@ -19497,6 +19515,7 @@ iab heihgh height
 iab heihgt height
 iab heir3ss heiress
 iab heirarchy hierarchy
+iab heires hires
 iab heisenbuer heisenberg
 iab heistation hesitation
 iab heiught height
@@ -19922,6 +19941,7 @@ iab hsimeptnb shipment
 iab hsipment shipment
 iab hsipments shipments
 iab hsipmetns shipments
+iab hsitorical historical
 iab hsitorty history
 iab hsitory history
 iab hsitroy history
@@ -21259,6 +21279,7 @@ iab indrecibly incredibly
 iab indstead instead
 iab indtead instead
 iab indtents indents
+iab inducies induces
 iab indulcged indulged
 iab indulege indulge
 iab indussstry industry
@@ -21363,6 +21384,7 @@ iab informawtion information
 iab informration information
 iab inframiootonal informational
 iab inframtoin information
+iab infreequently infrequently
 iab infrenqutluy infrequently
 iab infreqentuyely infrequently
 iab infreqnllllyt infrequently
@@ -23082,6 +23104,7 @@ iab langaugfes languages
 iab langeueages languages
 iab langind landing
 iab languaege language
+iab languaegs languages
 iab languafges languages
 iab language3 language
 iab languagee language
@@ -23095,6 +23118,7 @@ iab lanruage language
 iab lanugages languages
 iab laoded loaded
 iab laoding loading
+iab laong along
 iab laoptop laptop
 iab laouts layouts
 iab laoyts layouts
@@ -25257,6 +25281,7 @@ iab motyher mother
 iab mouch much
 iab moudle module
 iab mougth mouth
+iab mouisterising moisturising
 iab mounbt mount
 iab mouney money
 iab mountian mountain
@@ -25374,6 +25399,7 @@ iab muchd much
 iab muchf much
 iab muchg much
 iab muchi much
+iab muchj much
 iab muchr much
 iab mucht must
 iab mucscle muscle
@@ -25583,6 +25609,7 @@ iab naturlaly naturally
 iab natute nature
 iab natyural natural
 iab natyure nature
+iab nauanced nuanced
 iab nausuea nausea
 iab nautrally naturally
 iab nauture nature
@@ -27177,6 +27204,7 @@ iab oshoudl should
 iab osipmly simply
 iab osistion position
 iab oslid solid
+iab oslve solve
 iab oslwo slow
 iab osmcoutper computer
 iab osme some
@@ -27241,6 +27269,7 @@ iab otime time
 iab otion motion
 iab otmorrow tomorrow
 iab otngnight tonight
+iab otngoiht ongoing
 iab otnigh tonight
 iab otoehr other
 iab otoiphion option
@@ -28514,6 +28543,7 @@ iab plausable plausible
 iab plausaible plausible
 iab plausiable plausible
 iab plawdce placed
+iab play8ing playing
 iab playbakc playback
 iab playbkack playback
 iab playedch played
@@ -29256,6 +29286,7 @@ iab prcure procure
 iab prdocude produce
 iab prdouctuion production
 iab prduct product
+iab preactices practices
 iab preactiice practice
 iab preapared prepared
 iab preccrioption prescription
@@ -29347,6 +29378,7 @@ iab preferialbyu preferably
 iab prefernce preference
 iab preferrable preferable
 iab preferrably preferably
+iab preferralby preferably
 iab preferrances preferences
 iab preferrede preferred
 iab preferreded preferred
@@ -32669,6 +32701,7 @@ iab rsuem resume
 iab rsulting resulting
 iab rsults results
 iab rsume resume
+iab rtahter rather
 iab rtaking taking
 iab rtasks tasks
 iab rtate rate
@@ -35788,6 +35821,7 @@ iab supervficual superficial
 iab supllied supplied
 iab suposed supposed
 iab supperior superior
+iab supplemednet supplement
 iab supplementat supplemental
 iab supplieds supplied
 iab supplmenets supplements
@@ -36674,6 +36708,7 @@ iab telescoope telescope
 iab telescpe telescope
 iab televbiision television
 iab televeision television
+iab televiision television
 iab televisin television
 iab televisoin television
 iab televlision television
@@ -40164,6 +40199,7 @@ iab watchin watching
 iab watchinnng watching
 iab watchint watching
 iab watchung watching
+iab watchx watch
 iab watcihtgn watching
 iab watcky wacky
 iab watdched watched
@@ -40466,6 +40502,7 @@ iab whatefver whatever
 iab whategvefr whatever
 iab whategver whatever
 iab whatesoever whatsoever
+iab whatesoftever whatsoever
 iab whatesorever whatsoever
 iab whatesover whatsoever
 iab whatev whatever
@@ -40619,6 +40656,7 @@ iab whitesoapace whitespace
 iab whitew white
 iab whith with
 iab whithought without
+iab whiuch which
 iab whixch which
 iab whixzzzing whizzing
 iab whizzidng whizzing
@@ -40924,6 +40962,7 @@ iab wonderous wondrous
 iab wondersa wonders
 iab wondwer wonder
 iab wondwering wondering
+iab wonwder wonder
 iab woorking working
 iab woould would
 iab woprk work
@@ -41335,6 +41374,7 @@ iab wwwas was
 iab wya way
 iab wyas ways
 iab wyhen when
+iab wyhere where
 iab wyou you
 iab wyould would
 iab xamine examine
