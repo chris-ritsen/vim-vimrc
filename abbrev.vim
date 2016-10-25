@@ -1718,6 +1718,7 @@ iab Innovatyion Innovation
 iab Insatead Instead
 iab Insdtall Install
 iab Insitutute Institute
+iab Inssufficient Insufficient
 iab Instagaram Instagram
 iab Instaleld Installed
 iab Instaling Installing
@@ -4439,6 +4440,7 @@ iab Wsa Was
 iab Wteleve Twelve
 iab Wuiat Wait
 iab Wuith With
+iab Wwasting Wasting
 iab Wwatiing Waiting
 iab Wwrirting Writing
 iab XCHris Chris
@@ -16877,6 +16879,7 @@ iab excting exciting
 iab exctpect4gd expected
 iab excusrsion excursion
 iab excvept except
+iab excvite excite
 iab excwesape escape
 iab excwpt except
 iab excxlusuion exclusion
@@ -21082,6 +21085,7 @@ iab incosnistannicnes Inconsistencies
 iab incosnistiences inconsistencies
 iab incosnistisntances inconsistencies
 iab incosnsitancres inconsistencies
+iab incpmlete incomplete
 iab incpmrepehsibility incomprehensibility
 iab incporpoerate incorporate
 iab incrase increase
@@ -29734,6 +29738,7 @@ iab probellsm problems
 iab probelm problem
 iab probelms problems
 iab probelsm problems
+iab probem problem
 iab probl3ems problems
 iab problably probably
 iab problaby probably
@@ -41134,6 +41139,7 @@ iab wquestions questions
 iab wquick quick
 iab wquickly quickly
 iab wqyenenver whenever
+iab wr4iting writing
 iab wram warm
 iab wrandom random
 iab wranrings warnings
