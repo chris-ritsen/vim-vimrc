@@ -2660,6 +2660,7 @@ iab Preseving Preserving
 iab Presnetly Presently
 iab Presntly Presently
 iab Presnwentluy Presently
+iab Preson Person
 iab Prest Preset
 iab Pretyt Pretty
 iab Previoulsy Previously
@@ -4189,6 +4190,7 @@ iab WATching Watching
 iab WAht What
 iab WAitign Waiting
 iab WAking Waking
+iab WAnt Want
 iab WAs Was
 iab WAsted Wasted
 iab WAsting Wasting
@@ -8222,6 +8224,7 @@ iab believ believe
 iab believbiable believable
 iab believeing believing
 iab believf believe
+iab believiable believable
 iab believign believing
 iab belifs beliefs
 iab beliong belong
@@ -8514,6 +8517,7 @@ iab blcoks blocks
 iab blcol block
 iab bleeive believe
 iab bleew2 blew
+iab bleiabable believable
 iab bleibe believe
 iab bleief belief
 iab bleiefffs beliefs
@@ -9570,6 +9574,7 @@ iab characeterize characterize
 iab characetr character
 iab characger character
 iab characgter character
+iab characheters characters
 iab characrer character
 iab characrter character
 iab charactaer character
@@ -20142,6 +20147,7 @@ iab hyndreds hundreds
 iab hyou you
 iab hyourself yourself
 iab hypgenated hyphenated
+iab hypotehtical hypothetical
 iab hyuge huge
 iab hyundred hundred
 iab hyundrey hundred
@@ -20391,6 +20397,7 @@ iab illustion illusion
 iab illutsion illusion
 iab illyumation illumination
 iab illyusion illusion
+iab illyustrations illustrations
 iab ilnvolves involves
 iab ilrrelvevant irrelevant
 iab ilvonved involved
@@ -22909,6 +22916,7 @@ iab kinestheltaliclly kinesthetically
 iab kineticc kinetic
 iab kinfe knife
 iab kinhd kind
+iab kiond kind
 iab kitcdhn kitchen
 iab kitcehen kitchen
 iab kitcenh kitchen
@@ -40533,6 +40541,7 @@ iab whatsovefger whatsoever
 iab whatsovever whatsoever
 iab whatwegvegr whatever
 iab whatwever whatever
+iab whaty what
 iab whaweever whatever
 iab whawt what
 iab whay what
