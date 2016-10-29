@@ -528,6 +528,7 @@ iab Continaually Continually
 iab Continaulaly Continually
 iab Continaully Continually
 iab Contindually Continually
+iab Continious Continuous
 iab Continiually Continually
 iab Continlaly Continually
 iab Continoually Continually
@@ -624,6 +625,7 @@ iab Ctriterion Criterion
 iab Cuirrently Currently
 iab Cultaured Cultured
 iab Cultiavating Cultivating
+iab Cultivate4 Cultivate
 iab Cultiviating Cultivating
 iab Cuoudl Could
 iab Curerntluy Currently
@@ -3322,6 +3324,7 @@ iab Sangha Saṅgha
 iab Sanscrit Sanskrit
 iab Saptically Spatially
 iab Sasturday Saturday
+iab Satages Stages
 iab Satars Stars
 iab Satdourday Saturday
 iab Satrursay Saturday
@@ -3509,6 +3512,7 @@ iab Spengindg Spending
 iab Spetn Spent
 iab Spining Spinning
 iab Splcie Splice
+iab Sponytanous Spontaneous
 iab Srriong Sarong
 iab Srtage Stage
 iab Srtarting Starting
@@ -3532,6 +3536,7 @@ iab Statge Stage
 iab Stepghen Stephen
 iab Steragetgy Strategy
 iab Stgarting Starting
+iab Sthorten Shorten
 iab Stimiulating Stimulating
 iab Stirng String
 iab Stiting Sitting
@@ -5598,6 +5603,7 @@ iab ahave have
 iab ahbiguatuated habituated
 iab ahbitable habitable
 iab ahboorant abhorrent
+iab ahchiece achieve
 iab ahchievements achievements
 iab ahck hack
 iab ahctive active
@@ -7142,6 +7148,7 @@ iab asleepp asleep
 iab aslepp asleep
 iab aslo also
 iab aslways always
+iab aslweep asleep
 iab asnd and
 iab asnewr answer
 iab asnswer answer
@@ -8129,6 +8136,7 @@ iab befoere before
 iab befofre before
 iab befopre before
 iab beforew before
+iab beforfe before
 iab beforwe before
 iab beftter better
 iab befure before
@@ -15807,6 +15815,7 @@ iab enotries entries
 iab enougbh enough
 iab enougha enough
 iab enoughb enough
+iab enoughbt enough
 iab enought enough
 iab enouigh enough
 iab enourmous enormous
@@ -18140,6 +18149,7 @@ iab focuysed focused
 iab focyusing focusing
 iab fodo food
 iab foeregot forgot
+iab fogetting forgetting
 iab foging going
 iab fogive forgive
 iab foinmally finally
@@ -18159,6 +18169,7 @@ iab followe follow
 iab followeing following
 iab followign following
 iab follw follow
+iab follwi9ng following
 iab follwing following
 iab follwo follow
 iab follwoign following
@@ -21745,6 +21756,7 @@ iab instnatanous instantaneous
 iab instrances instances
 iab instrancesa instances
 iab instricintlcilty instinctively
+iab instrospective introspective
 iab instrucitons instructions
 iab instructoins instructions
 iab instructuions instructions
@@ -22172,6 +22184,8 @@ iab intrisically intrinsically
 iab introdiuces introduces
 iab introdocutory introductory
 iab introducted introduced
+iab intropspecitive introspective
+iab introspecitive introspective
 iab intrposective introspective
 iab intrpsecitve introspective
 iab intrterupted interrupted
@@ -24113,6 +24127,7 @@ iab malatdaptive maladaptive
 iab mallieable malleable
 iab malnutrutiion malnutrition
 iab malware malware
+iab mamanger manager
 iab mamking making
 iab mamtainining maintaining
 iab managber manager
@@ -24379,10 +24394,12 @@ iab medditation meditation
 iab medecine medicine
 iab mediaq media
 iab mediatted meditated
+iab mediattor meditator
 iab mediaum medium
 iab medicall medical
 iab medicide medicine
 iab medidate meditate
+iab medidation meditation
 iab medidiaate meditate
 iab mediitator meditator
 iab meditaator meditator
@@ -24449,6 +24466,7 @@ iab meianing meaning
 iab meicdtation meditation
 iab meida media
 iab meidatatigng meditating
+iab meidation mediation
 iab meiditaiotn meditation
 iab meidtaiont meditation
 iab meidtaiotn meditation
@@ -24939,6 +24957,7 @@ iab mkisntawekn mistaken
 iab mkistanekn mistaken
 iab mkistanken mistaken
 iab mknowledge knowledge
+iab mkonkey monkey
 iab mksitaenk mistaken
 iab mksitanken mistaken
 iab mksitnaken mistaken
@@ -25143,6 +25162,7 @@ iab momentl moment
 iab momenty moment
 iab momentyarly momentarily
 iab momeory memory
+iab momernt moment
 iab mometn moment
 iab momeybt moment
 iab momind mind
@@ -26273,6 +26293,7 @@ iab obivousness obviousness
 iab objct object
 iab objeccts objects
 iab objecd object
+iab objecdft object
 iab objecdt object
 iab objecdtionaly objectionably
 iab objecdtive objective
@@ -26298,6 +26319,7 @@ iab objectsa objects
 iab objectvies objectives
 iab objecvt object
 iab objecvtive objective
+iab objecy object
 iab objedct object
 iab objedfity objectify
 iab objefct object
@@ -26740,6 +26762,7 @@ iab ojbect object
 iab ojbectionable objectionable
 iab ojbective objective
 iab ojbejcets objects
+iab ojevect object
 iab okind kind
 iab oknow know
 iab oldeer older
@@ -30773,6 +30796,7 @@ iab re2uire require
 iab reaad read
 iab reaal real
 iab reaason reason
+iab reaassuring reassuring
 iab reability readability
 iab reacdhed reached
 iab reaceivciving receiving
@@ -33195,6 +33219,7 @@ iab sderve serve
 iab sderver server
 iab sdescribe describe
 iab sdesk desk
+iab sdession session
 iab sdestitute destitute
 iab sdestniation destination
 iab sdestroy7ed destroyed
@@ -33565,6 +33590,7 @@ iab seqquence sequence
 iab seqquences sequences
 iab sequal sequel
 iab sequeamish squeamish
+iab sequencxe sequence
 iab sequentlially sequentially
 iab sequnce sequence
 iab serach search
@@ -35007,6 +35033,7 @@ iab sstring string
 iab ssubject subject
 iab ssuffering suffering
 iab ssunlight sunlight
+iab ssutationed sustained
 iab sswwimming swimming
 iab ssymbol symbol
 iab ssytemd systemd
@@ -36614,6 +36641,7 @@ iab techonolgies technologies
 iab techonoligical technological
 iab techonologty technology
 iab techqnitues techniques
+iab techqnues techniques
 iab techtical technical
 iab tecnical technical
 iab tecvhnique technique
@@ -37375,6 +37403,7 @@ iab thisl this
 iab thisng thing
 iab thisngs things
 iab thiss this
+iab thisss this
 iab thissss this
 iab thisw this
 iab thisws this
@@ -38282,6 +38311,7 @@ iab truyth truth
 iab trviial trivial
 iab try8ng trying
 iab trye true
+iab tryhing trying
 iab tryied tried
 iab tryifng trying
 iab tryign trying
@@ -40143,6 +40173,7 @@ iab wallk walk
 iab walready already
 iab walso also
 iab wanat want
+iab wanddering wandering
 iab wanet went
 iab wangint wanting
 iab wannnt want
