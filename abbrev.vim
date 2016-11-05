@@ -491,6 +491,7 @@ iab Conrrad Conrad
 iab Conscioiusness Consciousness
 iab Consdistiently Consistently
 iab Consequ3ence Consequence
+iab Consequentyly Consequently
 iab Considder Consider
 iab Consiidering Considering
 iab Consioussness Consciousness
@@ -920,6 +921,7 @@ iab Eaach Each
 iab Eaiser Easier
 iab Eamacs Emacs
 iab Easiset Easiest
+iab Eatigin Eating
 iab Eavh Each
 iab Ebelow Below
 iab Ebngkisuy English
@@ -2241,6 +2243,7 @@ iab Nibbana Nibbāna
 iab Niola Nickla
 iab Niow Now
 iab Nirvana Nirvāṇa
+iab Nitenndo Nintendo
 iab Nitnendo Nintendo
 iab Niune Nine
 iab Nnot Not
@@ -3960,6 +3963,7 @@ iab Tigher Tighter
 iab Tiwce Twice
 iab Tje The
 iab Tjhe The
+iab Tjhey They
 iab Tjhis This
 iab Tjhiso This
 iab Tjhs This
@@ -4035,6 +4039,7 @@ iab Tungsteon Tungsten
 iab Turnes Turns
 iab Tusdesday Tuesday
 iab Tuuedsay Tuesday
+iab Tweleve Twelve
 iab Twleeve Twelve
 iab Twnety Twenty
 iab Twoelve Twelve
@@ -8904,6 +8909,7 @@ iab budjet budget
 iab budnlded bundled
 iab budnle bundle
 iab budnled bundled
+iab budsiness business
 iab bueacuse because
 iab buecaseu because
 iab buecause because
@@ -9207,6 +9213,7 @@ iab canoot cannot
 iab canoyons canyons
 iab caopitalise capitalise
 iab capaaaicity capacity
+iab capabel capable
 iab capabiilties capabilities
 iab capabilityes capabilities
 iab capabilityh capability
@@ -9376,6 +9383,7 @@ iab cdurrenlty currently
 iab ceach each
 iab cealn clean
 iab cealry clearly
+iab cearleal cereal
 iab ceaseledeslsly ceaselessly
 iab ceasesw ceases
 iab ceasiing ceasing
@@ -11831,6 +11839,7 @@ iab copde code
 iab coplete complete
 iab coplex complex
 iab copmalct compact
+iab copmanneis companies
 iab copmany company
 iab copmay company
 iab copmcact compact
@@ -12080,6 +12089,7 @@ iab coupl3ed coupled
 iab coupole couple
 iab courisnging coursing
 iab courrent current
+iab courrently currently
 iab coursiing coursing
 iab coursse course
 iab cousncousness consciousness
@@ -13635,6 +13645,7 @@ iab diffucldt difficult
 iab diffuclt difficult
 iab diffucult difficult
 iab diffuictul difficult
+iab difgfiernet different
 iab dificult difficult
 iab dififcilt difficult
 iab dififciltu difficult
@@ -13999,6 +14010,7 @@ iab diskliek dislike
 iab dislbed disabled
 iab dislpacements displacements
 iab dislpay display
+iab disltiller distiller
 iab dismimssed dismissed
 iab dismiss3ed dismissed
 iab dismmesed dismissed
@@ -14847,6 +14859,7 @@ iab easdi3er easier
 iab easeir easier
 iab easerchec searched
 iab easieer easier
+iab easiesty easiest
 iab easiily easily
 iab easiler easier
 iab easilser easier
@@ -16933,6 +16946,7 @@ iab exeicirce exercise
 iab exellence excellence
 iab exemses expenses
 iab exepcft expect
+iab exepcteing expecting
 iab exepected expected
 iab exepenses expenses
 iab exept except
@@ -20941,6 +20955,7 @@ iab inasane insane
 iab inavdisable inadvisable
 iab inc3nese incense
 iab incablable incapable
+iab incabpable incapable
 iab incalbable incapable
 iab incalculaable incalculable
 iab incapblre incapable
@@ -21819,6 +21834,7 @@ iab intefomration information
 iab inteformation information
 iab intefval interval
 iab intefview interview
+iab intefviewed interviewed
 iab intefviews interviews
 iab integerated integrated
 iab integetr integer
@@ -21983,6 +21999,7 @@ iab interfce interface
 iab interfecerence interference
 iab interfedrred interfered
 iab interfview interview
+iab interfviewed interviewed
 iab interfviews interviews
 iab interger integer
 iab intergral integral
@@ -22531,6 +22548,7 @@ iab itn3erviewed interviewed
 iab itnednted intended
 iab itnenraval interval
 iab itnensely intensely
+iab itneract interact
 iab itneraction interaction
 iab itnereistign interesting
 iab itnerepreation interpretation
@@ -24393,6 +24411,7 @@ iab medcitation meditation
 iab medditation meditation
 iab medecine medicine
 iab mediaq media
+iab mediataion meditation
 iab mediatted meditated
 iab mediattor meditator
 iab mediaum medium
@@ -25245,6 +25264,7 @@ iab mopoiints points
 iab mopre more
 iab mor2e more
 iab mor34e more
+iab mor4e more
 iab morbing morning
 iab more3 more
 iab more4 more
@@ -31416,6 +31436,7 @@ iab relateive relative
 iab relatibely relatively
 iab relatibity relativity
 iab relatife relative
+iab relatiionships relationships
 iab relatiity relativity
 iab relatinship relationship
 iab relatioionshiop relationship
@@ -37973,6 +37994,7 @@ iab tphrases phrases
 iab tpicic topic
 iab tpiying typing
 iab tpo to
+iab tpocic topic
 iab tpoic topic
 iab tpoless topless
 iab tpopic topic
@@ -39173,6 +39195,7 @@ iab unfomlding unfolding
 iab unforitunate unfortunate
 iab unforivgiable unforgivable
 iab unforlding unfolding
+iab unforntatnely unfortunately
 iab unforntaute unfortunate
 iab unfortgettable unforgettable
 iab unfortnantely unfortunately
@@ -39287,6 +39310,7 @@ iab unkwon unknown
 iab unleathlityly unhealthily
 iab unles unless
 iab unlesash unleash
+iab unli9ke unlike
 iab unliekly unlikely
 iab unlik unlike
 iab unlikelyu unlikely
@@ -39824,6 +39848,7 @@ iab vcersuoin version
 iab vcery very
 iab vchoice choice
 iab vcideo video
+iab vcideos videos
 iab vciew view
 iab vcruicial crucial
 iab vdevelopment development
@@ -40055,6 +40080,7 @@ iab vluntary voluntary
 iab vnetually eventually
 iab vo9ice voice
 iab voager voyager
+iab vocapbulary vocabulary
 iab vocaubmarly vocabulary
 iab vocels voxels
 iab vociferious vociferous
@@ -41326,6 +41352,7 @@ iab wsocket socket
 iab wsoemthign something
 iab wsomeone someone
 iab wsomething something
+iab wspeicifcally specifically
 iab wspinning spinning
 iab wste waste
 iab wstill still
