@@ -1006,6 +1006,7 @@ iab Englsih English
 iab Englusi English
 iab Engoislh English
 iab Engune Engine
+iab Enjoyu Enjoy
 iab Enmglish English
 iab Ensighn Ensign
 iab Enteirng Entering
@@ -6554,6 +6555,7 @@ iab apocayplse apocalypse
 iab apoistrophe apostrophe
 iab apolisgise apologise
 iab apooitnemtn appointment
+iab apooligies apologies
 iab apopintments appointments
 iab appacified pacified
 iab appaear appear
@@ -25664,6 +25666,7 @@ iab natyure nature
 iab nauanced nuanced
 iab nausuea nausea
 iab nautrally naturally
+iab nautuoius nauseous
 iab nauture nature
 iab nauysuia nausea
 iab navbiggation navigation
