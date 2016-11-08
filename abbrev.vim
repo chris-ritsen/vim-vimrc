@@ -1101,6 +1101,7 @@ iab Excrusiating Excruciating
 iab Excrusiationg Excruciating
 iab Excrutiating Excruciating
 iab Exhauyse Exhaust
+iab Exhillerating Exhilarating
 iab Exiciting Exciting
 iab Existance Existence
 iab Existinsgw Existing
@@ -1965,6 +1966,7 @@ iab Loook Look
 iab Lraage Large
 iab Lsitening Listening
 iab Luagh Laugh
+iab Lucklyul Luckily
 iab Luike Like
 iab Lumnch Lunch
 iab Luncbh Lunch
@@ -3584,6 +3586,7 @@ iab Superficiaully Superficially
 iab Superlicious Supercilious
 iab Supose Suppose
 iab Supplment Supplement
+iab Supplments Supplements
 iab Surew Sure
 iab Suriviabl Survival
 iab Surviival Survival
@@ -4191,6 +4194,7 @@ iab Vlaidate Validate
 iab Vlaue Value
 iab Vlauye Value
 iab Voagyer Voyager
+iab Voayager Voyager
 iab Voilenece Violence
 iab Volumnoioius Voluminous
 iab Vruce Bruce
@@ -5161,6 +5165,7 @@ iab actibitiy activity
 iab actibity activity
 iab actibityies activities
 iab actibve active
+iab actibviity activity
 iab actibvity activity
 iab acticely actively
 iab acticities activities
@@ -6278,6 +6283,7 @@ iab antyign untying
 iab antyihgin anything
 iab antyihgn anything
 iab antyihign anything
+iab antyihnng anything
 iab antying anything
 iab antyingin anything
 iab antyingn anything
@@ -12006,6 +12012,7 @@ iab corwd crowd
 iab cosmose cosmos
 iab cosmost cosmos
 iab cosncous conscious
+iab cosncousness consciousness
 iab cosnidered considered
 iab cosnidsertations considerations
 iab cosnisderations considerations
@@ -16053,6 +16060,7 @@ iab episod episode
 iab episode4 episode
 iab episodess episodes
 iab episodew episode
+iab episodoe episode
 iab episrdoe episode
 iab eplanet planet
 iab epmplioyee employee
@@ -17992,6 +18000,7 @@ iab finisahed finished
 iab finisdh finish
 iab finisdhed finished
 iab finishewd finished
+iab finishibng finishing
 iab finishied finished
 iab finishign finishing
 iab finisihgin finishing
@@ -19226,6 +19235,7 @@ iab halfinv halving
 iab halfoway halfway
 iab hallucenations hallucinations
 iab hallucentations hallucinations
+iab hallucuenationsd hallucinations
 iab hallucuengoens hallucinogens
 iab hamp4r hamper
 iab handfle handle
@@ -20362,6 +20372,7 @@ iab ignoredf ignored
 iab ignorig ignoring
 iab ignornace ignorance
 iab ignornant ignorant
+iab ignorning ignoring
 iab igoodd good
 iab igt it
 iab ihas has
@@ -29344,6 +29355,7 @@ iab prcure procure
 iab prdocude produce
 iab prdouctuion production
 iab prduct product
+iab prducudce produce
 iab preactices practices
 iab preactiice practice
 iab preapared prepared
@@ -30251,6 +30263,7 @@ iab prsions prisons
 iab prsiosn prison
 iab prsusre pressure
 iab prswion prison
+iab prtetty pretty
 iab prtinf printf
 iab prtoceeds proceeds
 iab pruahcasdec purchased
@@ -35459,6 +35472,7 @@ iab streth stretch
 iab strethcher stretcher
 iab strethcign stretching
 iab strethcing stretching
+iab streucture structure
 iab strewngthen strengthen
 iab striaght straight
 iab stricddt strict
@@ -37934,6 +37948,7 @@ iab topday today
 iab topicd topic
 iab topicds topics
 iab topicsd topics
+iab topiocs topics
 iab topiuc topic
 iab topopic topic
 iab topor torpor
@@ -41001,6 +41016,7 @@ iab woerd word
 iab wohle whole
 iab woill will
 iab woindierng wondering
+iab woirds words
 iab woirld world
 iab woithout without
 iab woiudl would
@@ -41245,6 +41261,7 @@ iab wrirting writing
 iab wrirtitgn writing
 iab wrirtten written
 iab writdw write
+iab writeen written
 iab writeier writer
 iab writeing writing
 iab writeitn writing
@@ -41253,6 +41270,7 @@ iab writenen written
 iab writeres writers
 iab writew write
 iab writging writing
+iab writibg writing
 iab writier writer
 iab writiers writers
 iab writigin writing
