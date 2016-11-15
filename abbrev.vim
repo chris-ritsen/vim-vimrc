@@ -1,4 +1,9 @@
 
+iab Payopal PayPal
+iab Promotrion Promotion
+iab STripe Stripe
+iab WHat What
+iab WHere Where
 iab a2wareness awareness
 iab a4round around
 iab a5t at
@@ -8379,6 +8384,7 @@ iab deliusional delusional
 iab deliusions delusions
 iab delivred delivered
 iab delivredred delivered
+iab delmiter delimiter
 iab delsusion delusion
 iab delsutaional delusional
 iab deltee delete
@@ -11706,6 +11712,7 @@ iab equiped equipped
 iab equipemenbt equipment
 iab equipemtn equipment
 iab equipmetn equipment
+iab equiqpment equipment
 iab equirements requirements
 iab equivalant equivalent
 iab equivelant equivalent
@@ -12899,6 +12906,7 @@ iab expmoaling explaining
 iab expnading expanding
 iab expoalin explain
 iab expode explode
+iab expoeect expect
 iab expoeiure experience
 iab expoerieicne experience
 iab expoerieinces experiences
@@ -18791,6 +18799,7 @@ iab layting laying
 iab laytouf layout
 iab laytout layout
 iab layunrdy laundry
+iab layuouts layouts
 iab lazilly lazily
 iab lazinessx laziness
 iab laziset laziest
@@ -19069,6 +19078,7 @@ iab librariries libraries
 iab librariryes libraries
 iab librarry library
 iab libration liberation
+iab libriareis libraries
 iab libriaries libraries
 iab libriarires libraries
 iab libverated liberated
@@ -19176,6 +19186,7 @@ iab linkedf linked
 iab linkjer linker
 iab linkjing linking
 iab linnnnnnes lines
+iab linqual lingual
 iab linsk links
 iab linuc linux
 iab linutes lines
@@ -23423,6 +23434,7 @@ iab paychkeck paycheck
 iab payckech paycheck
 iab payckechk paycheck
 iab payemtsn payments
+iab payenmtns payments
 iab paygoinb playing
 iab payhcekc paycheck
 iab payign paying
@@ -31941,6 +31953,7 @@ iab tabinddx tabindex
 iab tabl table
 iab tabl3e table
 iab tablre table
+iab tabluar tabular
 iab tabnle table
 iab tabws tabs
 iab taching teaching
@@ -35934,6 +35947,7 @@ iab webcame webcam
 iab webd web
 iab webdites websites
 iab weberver webserver
+iab webesite website
 iab webi web
 iab webigste website
 iab webikit webkit
