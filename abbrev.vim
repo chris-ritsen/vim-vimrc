@@ -265,6 +265,7 @@ iab Beuing Being
 iab Bevause Because
 iab Bewleiving Believing
 iab Bhodisattva Bodhisattva
+iab Birtyday Birthday
 iab Bizzarely Bizarrely
 iab Bjuidl Build
 iab Bjuild Build
@@ -297,6 +298,7 @@ iab Buidsl Build
 iab Buildiung Building
 iab Buit But
 iab Bujild Build
+iab Businessess Businesses
 iab Buuild Build
 iab Buyddhist Buddhist
 iab Buyddhists Buddhists
@@ -1028,6 +1030,7 @@ iab Equanitmity Equanimity
 iab Equipmetn Equipment
 iab Equlally Equally
 iab Equopment Equipment
+iab Equpiment Equipment
 iab Eqwual Equal
 iab Erectiopn Erection
 iab Eriik Erik
@@ -1957,6 +1960,7 @@ iab Lloops Loops
 iab Lniux Linux
 iab Lnks Links
 iab Loadfing Loading
+iab Loadge Lodge
 iab Loadign Loading
 iab Loadigng Loading
 iab Loadiogn Loading
@@ -2442,6 +2446,7 @@ iab PLug Plug
 iab PLus Plus
 iab PLyaback Playback
 iab POrabilaby Probably
+iab POrfile Profile
 iab POrt Port
 iab PPHP PHP
 iab PROblems Problems
@@ -3078,6 +3083,7 @@ iab Remvoe Remove
 iab Reoslving Resolving
 iab Repeaet Repeat
 iab Reprot Report
+iab Reprots Reports
 iab Requedsting Requesting
 iab Requewt Request
 iab RequireJSd RequireJS
