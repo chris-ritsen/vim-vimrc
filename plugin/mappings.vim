@@ -300,11 +300,11 @@ endif
 
 " nnoremap <leader>a :Unite -no-split history/yank<cr>
 " nnoremap <leader>b :Unite -prompt= -no-split -multi-line buffer<cr>
-" nnoremap <leader>f :<C-u>Unite -no-split -buffer-name=files   -start-insert file<cr>
+" nnoremap <leader>f :<C-u>Unite -no-split -buffer-name=files -start-insert file<cr>
 " nnoremap <leader>f :<C-u>Unite -no-split -buffer-name=files -multi-line -start-insert file<cr>
 " nnoremap <leader>j :<C-u>Unite -no-split -buffer-name=jump -multi-line -start-insert jump<cr>
 " nnoremap <leader>p <nop>
-" nnoremap <leader>r :<C-u>Unite -no-split -buffer-name=mru -start-insert file_mru<cr>
+nnoremap <leader>r :<C-u>Unite -no-split -buffer-name=mru -start-insert file_mru<cr>
 " nnoremap <leader>s :Unite -no-split -quick-match -auto-preview buffer<cr>
 " nnoremap <leader>s :Unite -no-split -quick-match buffer<cr>
 " nnoremap <leader>t :<C-u>Unite -no-split -start-insert file_rec/async:!<CR>
