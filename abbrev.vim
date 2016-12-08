@@ -41,6 +41,7 @@ iab AGain Again
 iab ALl All
 iab ALmost Almost
 iab ALright Alright
+iab ALso Also
 iab ANd And
 iab ANgular Angular
 iab ANotgher Another
@@ -10607,6 +10608,7 @@ iab compaines companies
 iab compalin complain
 iab compalined complained
 iab compaly company
+iab compamnies companies
 iab compamny company
 iab compamy company
 iab companhuyies companies
@@ -18873,6 +18875,7 @@ iab furthert further
 iab furthger further
 iab furthter further
 iab furtniture furniture
+iab furtrher further
 iab furtther further
 iab furttuehr further
 iab furtuerh further
@@ -20125,6 +20128,7 @@ iab howurs hours
 iab howver however
 iab hoyur hour
 iab hpainess happiness
+iab hpapened happened
 iab hpapenes happens
 iab hpapens happens
 iab hpapneed happened
@@ -20894,6 +20898,7 @@ iab implenmetantion implementation
 iab implenmntation implementation
 iab implermenatn impermanent
 iab implicityl implicitly
+iab implicityly implicitly
 iab implict implicit
 iab implictly implicitly
 iab implie imply
@@ -21455,6 +21460,7 @@ iab indenfninitalteyh indefinitely
 iab indenpendent independent
 iab indentding intending
 iab indenterminable indeterminable
+iab indentical identical
 iab independantly independently
 iab independinenly independently
 iab independtent independent
@@ -22384,6 +22390,7 @@ iab intioentions intentions
 iab intioin intuition
 iab intiolerable intolerable
 iab intion into
+iab intitail initial
 iab intital install
 iab intitial initial
 iab intiuitino intuiting
@@ -25012,6 +25019,7 @@ iab milliseceonds milliseconds
 iab millisecionds milliseconds
 iab milliseconfds milliseconds
 iab millliseconds milliseconds
+iab miloes miles
 iab miltary military
 iab mimetypoe mimetype
 iab mimiking mimicking
@@ -25276,6 +25284,7 @@ iab mneditiative meditative
 iab mneed need
 iab mnenu menu
 iab mnetal mental
+iab mneu menu
 iab mnitors monitors
 iab mno no
 iab mnoble noble
@@ -31213,6 +31222,7 @@ iab realsied realised
 iab realsiging realising
 iab realsised realised
 iab realsity reality
+iab realsm realms
 iab realsms realms
 iab realtaed related
 iab realted related
