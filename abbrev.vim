@@ -229,6 +229,7 @@ iab BAker Baker
 iab BAsically Basically
 iab BBLah Blah
 iab BGeiing Being
+iab BIlling Billing
 iab BLueprint Blueprint
 iab BNrahman Brahman
 iab BNreathe Breathe
@@ -796,6 +797,7 @@ iab Devloper Developer
 iab Devlopers Developers
 iab Devlopment Development
 iab Devolcves Devolves
+iab Dfreault Default
 iab Dhyana Dhyāna
 iab Dialy Daily
 iab Diblbert Dilbert
@@ -2450,6 +2452,7 @@ iab PLEsaews Pleases
 iab PLEzsde Please
 iab PLan Plan
 iab PLanets Planets
+iab PLay Play
 iab PLayStation PlayStation
 iab PLayer Player
 iab PLaying Playing
@@ -2779,6 +2782,7 @@ iab Progrmamer Programmer
 iab Proibabyly Probably
 iab Proibualby Probably
 iab Proifl Profile
+iab Proifle Profile
 iab Proior Prior
 iab Projecdets Projects
 iab Projecdts Projects
@@ -3868,6 +3872,7 @@ iab Tempaltes Templates
 iab Temparory Temporary
 iab Templtes Templates
 iab Temporarf Temporary
+iab Temprary Temporary
 iab Tenative Tentative
 iab Tenatnative Tentative
 iab Tenftawive Tentative
@@ -7590,6 +7595,7 @@ iab aut0matically automatically
 iab autcorrections autocorrections
 iab autdio audio
 iab autgo auto
+iab authetnicate authenticate
 iab authetntication authentication
 iab authfor author
 iab authoization authorization
@@ -10600,6 +10606,7 @@ iab comouter computer
 iab compaaiblioty compatibility
 iab compaany company
 iab compaatiability compatibility
+iab compaess compass
 iab compaghyn company
 iab compahy company
 iab compahyu company
@@ -10617,6 +10624,7 @@ iab companiews companies
 iab companinions companions
 iab companinonship companionship
 iab companioes companies
+iab companis companies
 iab companjies companies
 iab companmies companies
 iab companmy company
@@ -12764,6 +12772,7 @@ iab decdnt decent
 iab decenscing descending
 iab decentg decent
 iab decentinput decent
+iab decfault default
 iab decfined defined
 iab decgree degree
 iab decible decibel
@@ -15831,6 +15840,7 @@ iab endfunctino endfunction
 iab endgine engine
 iab endign ending
 iab endiung ending
+iab endk end
 iab endleslly endlessly
 iab endleslsly endlessly
 iab endneagenered endangered
@@ -17237,6 +17247,7 @@ iab exitst exist
 iab exitstance existance
 iab exitsted existed
 iab exitsts exists
+iab exitws exits
 iab exiwsitn existing
 iab exiwsitng existing
 iab exiwsitning existing
@@ -17834,6 +17845,7 @@ iab fals3e false
 iab falsae false
 iab falsde false
 iab falseley falsely
+iab falstr false
 iab falture falter
 iab falvor flavor
 iab falwe false
@@ -18092,6 +18104,7 @@ iab fileanemeds filenames
 iab fileds fields
 iab filenaem filename
 iab filenaems filenames
+iab filenmae filename
 iab filenmame filename
 iab filesa files
 iab filesnames filenames
@@ -20029,6 +20042,7 @@ iab holesQ holes
 iab holess holes
 iab holidsays holidays
 iab homec home
+iab homepagek homepage
 iab homne home
 iab homogenous homogeneous
 iab homwe home
@@ -21820,6 +21834,7 @@ iab inpterpret interpret
 iab inptu input
 iab inpuyt input
 iab inpyt input
+iab inpyut input
 iab inrecibly incredibly
 iab inrested interested
 iab inretested interested
@@ -22593,6 +22608,7 @@ iab ipmroperly improperly
 iab ipoheone iphone
 iab ipon upon
 iab iponeo iphone
+iab iport import
 iab iportnat important
 iab ipossible possible
 iab iprmtpoatn important
@@ -30346,6 +30362,7 @@ iab proiding providing
 iab proiduct product
 iab proiepryly properly
 iab proifiatlble profitable
+iab proifle profile
 iab proijects projects
 iab proiority priority
 iab proivides provides
@@ -30536,6 +30553,7 @@ iab provodiging providing
 iab provoduing providing
 iab provoing proving
 iab prpblems problems
+iab prpend prepend
 iab prperly properly
 iab prpojects projects
 iab prpurposelly purposely
@@ -30814,6 +30832,7 @@ iab pyurple purple
 iab pyurpose purpose
 iab pyut put
 iab pyuthon python
+iab pyuts puts
 iab pyyou you
 iab pzrticupate participate
 iab qabout about
@@ -32035,6 +32054,7 @@ iab repaidly rapidly
 iab repalce replace
 iab repalced replaced
 iab repampcelemtn replacement
+iab repat repeat
 iab repatleces replaces
 iab repeair repair
 iab repeaser repeater
@@ -32044,6 +32064,7 @@ iab repeayts repeats
 iab repeeating repeating
 iab repeiad repaid
 iab repeition repetition
+iab repeoat repeat
 iab repeorted reported
 iab repeotition repetition
 iab repepttitive repetitive
@@ -32751,6 +32772,7 @@ iab revieweec reviewed
 iab reviewi review
 iab reviewied reviewed
 iab reviewingw reviewing
+iab reviewws reviews
 iab reviifewing reviewing
 iab revisists revisits
 iab revivew review
@@ -35397,6 +35419,7 @@ iab ssunlight sunlight
 iab ssutationed sustained
 iab sswwimming swimming
 iab ssymbol symbol
+iab ssytem system
 iab ssytemd systemd
 iab ssytems systems
 iab st4riking striking
@@ -36027,6 +36050,7 @@ iab subscouuys subconscious
 iab subscrioption subscription
 iab subscriptoin subscription
 iab subscritbed subscribed
+iab subscrubed subscribed
 iab subsdrivers subscribers
 iab subsdtance substance
 iab subsecquent subsequent
@@ -38076,6 +38100,7 @@ iab titians titans
 iab titilating titillating
 iab tituiralual tutorial
 iab titutioral tutorial
+iab tiutle title
 iab tiveated activated
 iab tiwwisted twisted
 iab tiyping typing
