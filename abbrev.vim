@@ -4187,6 +4187,7 @@ iab Upgradingin Upgrading
 iab Us3ed Used
 iab Usally Usually
 iab Usede Used
+iab Uselessss Useless
 iab Useranem Username
 iab Usign Using
 iab Usin Using
@@ -4250,6 +4251,7 @@ iab Vlaue Value
 iab Vlauye Value
 iab Voagyer Voyager
 iab Voayager Voyager
+iab Voayger Voyager
 iab Voilenece Violence
 iab Volumnoioius Voluminous
 iab Vruce Bruce
@@ -8336,6 +8338,7 @@ iab belive believe
 iab bellongings belongings
 iab belobnging belonging
 iab beloeved beloved
+iab belogns belongs
 iab beloingings belongings
 iab beloingng belonging
 iab belwo below
@@ -9465,6 +9468,7 @@ iab ccitiies cities
 iab ccompalints complaints
 iab ccompare compare
 iab cconfugring configuring
+iab cconsole console
 iab ccontinue continue
 iab ccontro control
 iab ccorosswalk crosswalk
@@ -10595,6 +10599,7 @@ iab comon common
 iab comonapines companies
 iab comondeers commandeers
 iab comopanies companies
+iab comopay company
 iab comopicated complicated
 iab comopnetns components
 iab comoposers composers
@@ -10618,6 +10623,7 @@ iab compaly company
 iab compamnies companies
 iab compamny company
 iab compamy company
+iab companeis companies
 iab companhuyies companies
 iab companhy company
 iab companiews companies
@@ -12158,6 +12164,7 @@ iab cotnainign containing
 iab cotnent content
 iab cotnently contently
 iab cotnents contents
+iab cotnetn content
 iab cotninu7e continue
 iab cotninue continue
 iab cotnninue continue
@@ -15402,6 +15409,7 @@ iab eipside episode
 iab eipsode episode
 iab eipsodes episodes
 iab eiralier earlier
+iab eis is
 iab eist exist
 iab eists exists
 iab eitehr either
@@ -28112,6 +28120,7 @@ iab pased passed
 iab pasewed passed
 iab pasge page
 iab pasion passion
+iab pasrse parse
 iab passagneer passenger
 iab passign passing
 iab passiung passing
@@ -32767,11 +32776,13 @@ iab revieiwng reviewing
 iab reviererwer reviewer
 iab reviers reviewers
 iab revierw review
+iab revies reviews
 iab revieve receive
 iab revieweec reviewed
 iab reviewi review
 iab reviewied reviewed
 iab reviewingw reviewing
+iab reviewsw reviews
 iab reviewws reviews
 iab reviifewing reviewing
 iab revisists revisits
@@ -38299,6 +38310,7 @@ iab tonigth tonight
 iab tonigtht tonight
 iab tonite tonight
 iab tonke token
+iab tonmgiht tonight
 iab tonogiht tonight
 iab tontorl control
 iab toob too
@@ -40005,6 +40017,7 @@ iab useri user
 iab usermame username
 iab usernaem username
 iab usersnames usernames
+iab usersx users
 iab usesd used
 iab uset use
 iab useually usually
