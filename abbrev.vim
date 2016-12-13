@@ -78,6 +78,7 @@ iab Absluote Absolute
 iab Absolulte Absolute
 iab Absoulte Absolute
 iab Absoutel Absolute
+iab Acces Access
 iab Accidnetally Accidentally
 iab Accitenyt Accident
 iab Accomopanied Accompanied
@@ -164,6 +165,7 @@ iab Apparenlty Apparently
 iab Apparenly Apparently
 iab Appendic Appendix
 iab Appendicx Appendix
+iab Applciation Application
 iab Appleid Applied
 iab Appliced Applied
 iab Applyu Apply
@@ -347,6 +349,7 @@ iab COmbinatyion Combination
 iab COming Coming
 iab COmmon Common
 iab COmmunication Communication
+iab COmpanies Companies
 iab COmpany Company
 iab COmpromises Compromises
 iab COmputer Computer
@@ -6761,6 +6764,7 @@ iab applciatyiosns applications
 iab applcidation application
 iab applcidtioan application
 iab applcifaion application
+iab applcisation application
 iab applcitopain application
 iab applciuation application
 iab applciuatyion application
@@ -18248,6 +18252,7 @@ iab firwt first
 iab firzst first
 iab fishort short
 iab fisihg fishing
+iab fising fishing
 iab fisniehd finished
 iab fisniehds finished
 iab fisnihed finished
@@ -24042,6 +24047,7 @@ iab loater later
 iab loaundry laundry
 iab loawded loaded
 iab locadtion location
+iab locaitons locations
 iab localied localized
 iab localstoerage localstorage
 iab localstorage localstorage
@@ -24049,6 +24055,7 @@ iab locatede located
 iab locationsa locations
 iab locationsl locations
 iab locatiopn location
+iab locatisons locations
 iab locatwe locate
 iab locavl local
 iab loccations locations
@@ -28711,6 +28718,7 @@ iab phootes photos
 iab phooto photo
 iab phootograph photograph
 iab phootographs photographs
+iab phoots photos
 iab phoptos photos
 iab phospherus phosphorus
 iab photograpohic photographic
@@ -31090,6 +31098,7 @@ iab rahter rather
 iab raidiating radiating
 iab raido radio
 iab raidus radius
+iab railse rails
 iab rainding raining
 iab raipidtiy rapidity
 iab raisaed raised
