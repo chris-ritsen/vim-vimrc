@@ -339,6 +339,7 @@ iab CHtirs Chris
 iab CLearly Clearly
 iab CLicekr Clicker
 iab CLick Click
+iab CLient Client
 iab CLociking Clicking
 iab CLock Clock
 iab CLoud Cloud
@@ -5543,6 +5544,7 @@ iab adversion aversion
 iab adverstiseers advertisers
 iab adverstisign advertising
 iab advertence advertance
+iab advertisign advertising
 iab advertsising advertising
 iab advetrtisements advertisements
 iab adviseds advises
@@ -15710,6 +15712,7 @@ iab emnployeed employed
 iab emoerge emerge
 iab emoitions emotions
 iab emoment moment
+iab emoney money
 iab emoon moon
 iab emootional emotional
 iab emoployeees employees
@@ -28729,6 +28732,7 @@ iab photosohop photoshop
 iab photosos photos
 iab photots photos
 iab photseo photos
+iab photsop photos
 iab phrobitibvely prohibitively
 iab phscial physical
 iab phseychedlics psychedelics
@@ -37837,6 +37841,7 @@ iab thisss this
 iab thissss this
 iab thisw this
 iab thisws this
+iab thisx this
 iab thits this
 iab thiughts thoughts
 iab thiungs things
@@ -40104,6 +40109,7 @@ iab ususually usually
 iab usuually usually
 iab uswe use
 iab usyally usually
+iab usyer user
 iab ut it
 iab utiilised utilised
 iab utiilze utilize
