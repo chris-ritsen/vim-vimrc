@@ -7941,6 +7941,7 @@ iab backeward backward
 iab backewards backwards
 iab backfgorund background
 iab backfgroudn background
+iab backggournd background
 iab backgorun background
 iab backgorund background
 iab backgorundc background
@@ -8576,6 +8577,7 @@ iab bireef brief
 iab biref brief
 iab birgh bright
 iab birght bright
+iab birghter brighter
 iab birghtness brightness
 iab birhgt bright
 iab birhgtly brightly
@@ -11342,6 +11344,7 @@ iab conscienceness consciousness
 iab consciosu conscious
 iab consciouseness consciousness
 iab consciousley consciously
+iab consciousnes consciousness
 iab conscioussness consciousness
 iab consciouys conscious
 iab conscioyusness consciousness
@@ -12095,6 +12098,7 @@ iab correctd corrected
 iab correcte correct
 iab correctedd corrected
 iab correctedf corrected
+iab correctely correctly
 iab correctgion correction
 iab correctin correcting
 iab correctiojns corrections
@@ -13708,6 +13712,7 @@ iab differenfe difference
 iab differenrt different
 iab differentce difference
 iab differente different
+iab differenteiate differentiate
 iab differentlyh differently
 iab differentt different
 iab differenwce difference
@@ -14313,6 +14318,7 @@ iab distiraction distraction
 iab distircted distracted
 iab distiroed distorted
 iab distirubing disturbing
+iab distnace distance
 iab distnaces distances
 iab distordted distorted
 iab distored distorted
@@ -15419,6 +15425,7 @@ iab eis is
 iab eist exist
 iab eists exists
 iab eitehr either
+iab eitgehr either
 iab eithe either
 iab eithebr either
 iab eithert either
@@ -17637,6 +17644,7 @@ iab exremley extremely
 iab exrrcise exercise
 iab exsaclty exactly
 iab exsactly exactly
+iab exsaminining examining
 iab exsampels examples
 iab exsample example
 iab exsamples examples
@@ -17801,6 +17809,7 @@ iab fIgure figure
 iab faail fail
 iab faborite favorite
 iab fabrig fabric
+iab fabvrication fabrication
 iab facce face
 iab faccinating fascinating
 iab facct fact
@@ -17860,6 +17869,7 @@ iab fals3e false
 iab falsae false
 iab falsde false
 iab falseley falsely
+iab falst false
 iab falstr false
 iab falture falter
 iab falvor flavor
@@ -18662,6 +18672,7 @@ iab frnotend frontend
 iab froaud fraud
 iab froce force
 iab froeign foreign
+iab frofm from
 iab frol from
 iab froma from
 iab fromatting formatting
@@ -20729,6 +20740,7 @@ iab imepreeitivfe imperative
 iab imeprotant important
 iab imeptus impetus
 iab imerpemenance impermanence
+iab imerpitive imperative
 iab imfamlatory inflammatory
 iab imformatoin information
 iab imgine imagine
@@ -20849,6 +20861,7 @@ iab imperceiveable imperceivable
 iab impercieable imperceivable
 iab impercieiable imperceivable
 iab impercise imprecise
+iab impercistence impersistence
 iab impereitive imperative
 iab imperfeeactoins imperfections
 iab imperfefctions imperfections
@@ -21336,6 +21349,7 @@ iab incopmlete incomplete
 iab incorerescdtly incorrectly
 iab incorperate incorporate
 iab incorporatte incorporate
+iab incorrcecvlty incorrectly
 iab incorrceviotnly incorrectly
 iab incorrcrtly incorrectly
 iab incorrct incorrect
@@ -21632,6 +21646,7 @@ iab inffected infected
 iab infflcuenced influenced
 iab infidvusual individual
 iab infiinite infinite
+iab infiinte infinite
 iab infinitee infinite
 iab infinitesmally infinitesimally
 iab infinte infinite
@@ -23579,6 +23594,7 @@ iab lcose close
 iab lcosed closed
 iab lcosest closest
 iab lcothing clothing
+iab lcouds clouds
 iab lcsoed closed
 iab lctohes clothes
 iab ldenght length
@@ -26201,6 +26217,7 @@ iab newsleteter newsletter
 iab newtokrk network
 iab newtowrk network
 iab newtwork network
+iab newver never
 iab neww new
 iab newwel newel
 iab newwer newer
@@ -26522,10 +26539,12 @@ iab nuitense intense
 iab nullifivcation nullification
 iab numb3r number
 iab numbeing numbing
+iab numberk number
 iab numberous numerous
 iab numbersd numbers
 iab numbewrs numbers
 iab numbr number
+iab numbre number
 iab numbrer number
 iab numbrers numbers
 iab numbrs numbers
@@ -26673,9 +26692,11 @@ iab obsccuring obscuring
 iab obscioure obscure
 iab obsciured obscured
 iab obscrtructions obstructions
+iab obscrtuced obstructed
 iab obscuraatiopns obscurations
 iab obsdeqious obsequious
 iab obsderve observe
+iab obsderved observed
 iab obseioqus obsequious
 iab obseiqious obsequious
 iab obseiqous obsequious
@@ -26730,6 +26751,8 @@ iab obsolute obsolete
 iab obsotevatiosn observations
 iab obstevatsions observations
 iab obstracle obstacle
+iab obstreucting obstructing
+iab obstructured obstructed
 iab obsucurations obscurations
 iab obsuerved observed
 iab obsvoiure obscure
@@ -26798,6 +26821,7 @@ iab obvoulsy obviously
 iab obvouslly obviously
 iab obvouslu obviously
 iab obvservations observations
+iab obvsious obvious
 iab obvsiously obviously
 iab obvuouys obvious
 iab ocaean ocean
@@ -27083,6 +27107,7 @@ iab oiverload overload
 iab ojbect object
 iab ojbectionable objectionable
 iab ojbective objective
+iab ojbecty object
 iab ojbejcets objects
 iab ojevect object
 iab okind kind
@@ -27640,6 +27665,7 @@ iab otp top
 iab otpical topical
 iab otpion option
 iab otpiosns options
+iab otptions options
 iab otther other
 iab ottherwise otherwise
 iab ottold told
@@ -28370,6 +28396,7 @@ iab perceutal perceptual
 iab perceviable perceivable
 iab percfeption perception
 iab perciebable perceivable
+iab percieibable perceivable
 iab percieieved perceived
 iab percieilsley precisely
 iab percieivable perceivable
@@ -28574,6 +28601,7 @@ iab perservere persevere
 iab perservering persevering
 iab persfect perfect
 iab persiectpive perspective
+iab persiistence persistence
 iab persiittently persistently
 iab persion person
 iab persionalities personalities
@@ -32801,6 +32829,7 @@ iab reviifewing reviewing
 iab revisists revisits
 iab revivew review
 iab revivewing reviewing
+iab reviwes reviews
 iab reviwing reviewing
 iab revodrintgds reverends
 iab revoerd record
@@ -34464,6 +34493,7 @@ iab simlple simple
 iab simltaneously simultaneously
 iab simluatineonsly simultaneously
 iab simluation simulation
+iab simlularanously simultaneously
 iab simmilar similar
 iab simmply simply
 iab simnoply simply
@@ -35387,7 +35417,9 @@ iab sqquare square
 iab sqquiarely squarely
 iab squaks squawks
 iab squieaking squeaking
+iab squintetdc squinted
 iab squisshed squished
+iab squninting squinting
 iab sqwitch switch
 iab srangley strangely
 iab srarted started
@@ -36432,6 +36464,7 @@ iab surraface surface
 iab surrendner surrender
 iab surrindoundgs surroundings
 iab surroudn surround
+iab surroudned surrounded
 iab surroudnign surrounding
 iab surroudnings surroundings
 iab surroundede surrounded
@@ -37603,6 +37636,7 @@ iab themesleves themselves
 iab themeslevlse themselves
 iab themeslevs themselves
 iab themeslvees themselves
+iab themeslves themselves
 iab themevslevs themselves
 iab themn them
 iab themral thermal
@@ -39123,6 +39157,7 @@ iab ubiquoutus ubiquitous
 iab ubiqutous ubiquitous
 iab ubitioutuise ubiquitous
 iab ubnheard unheard
+iab ubnit unit
 iab ubnix unix
 iab ubnworthy unworthy
 iab ubquiotouiuos ubiquitous
@@ -39671,6 +39706,7 @@ iab unidirecdtional unidirectional
 iab unieverrily universally
 iab unifified unified
 iab unifinished unfinished
+iab unifirom uniform
 iab unifofmrly uniformly
 iab uniinvolved uninvolved
 iab uniitiatied uninitiated
@@ -40428,6 +40464,7 @@ iab vifew view
 iab vigiialnt vigilant
 iab vigourous vigorous
 iab vigourously vigorously
+iab viiewing viewing
 iab viim vim
 iab viisble visible
 iab viislble visible
