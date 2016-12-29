@@ -3591,6 +3591,7 @@ iab Staedler Staedtler
 iab Staqge Stage
 iab Staretd Started
 iab Staritng Starting
+iab Starrted Started
 iab Statew State
 iab Statge Stage
 iab Stepghen Stephen
