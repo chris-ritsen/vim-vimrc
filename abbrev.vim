@@ -253,6 +253,7 @@ iab Balck Black
 iab Baltimarore Baltimore
 iab Bartely Barely
 iab Batheroom Bathroom
+iab Bayttlefield Battlefield
 iab Beacuse Because
 iab Becoause Because
 iab Becomming Becoming
@@ -6477,6 +6478,7 @@ iab anytnong anything
 iab anytrhing anything
 iab anytuihing anything
 iab anyu any
+iab anyuthign anything
 iab anyv any
 iab anywa anyway
 iab anywasys anyways
@@ -6680,6 +6682,7 @@ iab appanetly apparently
 iab appanrentluy apparently
 iab appanretltu apparently
 iab appaprently apparently
+iab apparant apparent
 iab apparblently apparently
 iab appare appear
 iab apparea appear
@@ -10049,6 +10052,7 @@ iab clecar clear
 iab clel cell
 iab clenaing cleaning
 iab clenaingg cleaning
+iab clenaliness cleanliness
 iab clentching clenching
 iab clewanup cleanup
 iab clhile chile
@@ -17893,6 +17897,7 @@ iab familoy family
 iab familuar familiar
 iab familyar familiar
 iab famliiar familiar
+iab famly family
 iab famuly family
 iab fancifuyl fanciful
 iab fards cards
@@ -30488,6 +30493,7 @@ iab prooperyly properly
 iab prooplery properly
 iab prooportion proportion
 iab prooposed proposed
+iab propblem problem
 iab propbolems problems
 iab propductuve productive
 iab propegate propagate
