@@ -3196,6 +3196,7 @@ iab Royksopp Röyksopp
 iab Rpeated Repeated
 iab Rpeeaea Repeal
 iab Rpepat Repeat
+iab Rreact React
 iab Rrefresh Refresh
 iab Rriten Ritsen
 iab Rsitsdne Ritsen
@@ -17844,6 +17845,7 @@ iab exteneral external
 iab extenisished extinguished
 iab extenral external
 iab extenrally externally
+iab extens extends
 iab extenseds extends
 iab extensibely extensively
 iab extensiuating extenuating
@@ -30680,6 +30682,7 @@ iab properuly properly
 iab propery properly
 iab properyly properly
 iab properyt property
+iab propfile profile
 iab propgram program
 iab propisoitional propositional
 iab propjedts projects
@@ -32668,6 +32671,7 @@ iab resoult result
 iab resoume resume
 iab resourcde resource
 iab resourece resource
+iab resouyrce resource
 iab resove resolve
 iab resovle resolve
 iab resovled resolved
@@ -40823,6 +40827,7 @@ iab wafeve wave
 iab wahat what
 iab wahatever whatever
 iab wahave have
+iab waheather weather
 iab wahen when
 iab waht what
 iab wahtching watching
@@ -40946,6 +40951,7 @@ iab wathcign watching
 iab wathcignn watching
 iab wathcing watching
 iab wathcintg watching
+iab wather weather
 iab wathicng watching
 iab watied waited
 iab watiign waiting
@@ -41007,7 +41013,9 @@ iab wearth earth
 iab weas was
 iab weatched watched
 iab weatching watching
+iab weatehr weather
 iab weathlh wealth
+iab weatther weather
 iab weay way
 iab weays ways
 iab webasite website
