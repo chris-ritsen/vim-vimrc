@@ -93,6 +93,7 @@ iab Additonally Additionally
 iab Addrelal Adderall
 iab AddressS Address
 iab Adfvance Advance
+iab Adfvertising Advertising
 iab Adhereance Adherence
 iab Adidtioanly Additionally
 iab Adjustewd Adjusted
@@ -3320,6 +3321,7 @@ iab SPelign Spelling
 iab SPent Spent
 iab SPlit Split
 iab SPoneantnouesly Spontaneously
+iab SPonsored Sponsored
 iab SPontanenous Spontaneous
 iab SPrusce Spruce
 iab SQWL SQL
@@ -5294,6 +5296,7 @@ iab activityies activities
 iab activityt activity
 iab activley actively
 iab activlyely actively
+iab activre active
 iab activtuy activity
 iab activty activity
 iab activutry activity
@@ -5305,6 +5308,7 @@ iab actkion action
 iab actnio action
 iab actoin action
 iab actoins actions
+iab acton action
 iab actrive active
 iab actrivity activity
 iab actrually actually
@@ -10639,6 +10643,7 @@ iab compaines companies
 iab compalin complain
 iab compalined complained
 iab compaly company
+iab compamneis companies
 iab compamnies companies
 iab compamny company
 iab compamy company
@@ -13521,6 +13526,7 @@ iab deteailed detailed
 iab detecdte detect
 iab detecdtion detection
 iab detecet detect
+iab detecing detecting
 iab detectds detects
 iab detecte detect
 iab detectedd detected
@@ -15337,6 +15343,7 @@ iab editeing editing
 iab editeor editor
 iab editied edited
 iab editign editing
+iab editiing editing
 iab editingew editing
 iab editng editing
 iab edivided divided
@@ -15382,6 +15389,7 @@ iab eensuring ensuring
 iab eentirely entirely
 iab eenvenet event
 iab eerors errors
+iab eerrors errors
 iab eessentially essentially
 iab eeven even
 iab eeventing evening
@@ -21891,6 +21899,7 @@ iab infromation information
 iab infromational informational
 iab infromationational information
 iab infromsation information
+iab infrormation information
 iab infrqeuently infrequently
 iab infruenqlty infrequently
 iab infterface interface
@@ -24235,6 +24244,7 @@ iab localied localized
 iab localstoerage localstorage
 iab localstorage localstorage
 iab locatede located
+iab locatin location
 iab locationsa locations
 iab locationsl locations
 iab locatiopn location
@@ -33027,6 +33037,7 @@ iab rewquires requires
 iab rewqvienw rewoven
 iab rewsnounce renounce
 iab rewsolutely resolutely
+iab rewsponse response
 iab rewsponsiblity responsibility
 iab rewstaretd restarted
 iab rewsuem resume
@@ -33252,6 +33263,7 @@ iab rpefix prefix
 iab rpelaced replaced
 iab rpeleacve replace
 iab rpeoivuslyu previously
+iab rpeot report
 iab rpepare prepare
 iab rpesent present
 iab rpesentatuin presentation
@@ -34553,6 +34565,7 @@ iab shuipment shipment
 iab shuit shit
 iab shulffle shuffle
 iab shumpment shipment
+iab shuould should
 iab shup ship
 iab shupment shipment
 iab shurely surely
@@ -35646,6 +35659,7 @@ iab ssytems systems
 iab st4riking striking
 iab staage stage
 iab staart start
+iab staate state
 iab stabilizqiton stabilization
 iab stabiltiy stability
 iab stacak stack
@@ -35660,6 +35674,7 @@ iab staete state
 iab staf staff
 iab stagews stages
 iab stagnent stagnant
+iab staic static
 iab staicrcase staircase
 iab stairacaew staircase
 iab stairacawe staircase
