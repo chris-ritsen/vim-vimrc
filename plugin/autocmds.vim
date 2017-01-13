@@ -22,6 +22,20 @@ augroup END
 
 " }}}1
 
+" Git {{{1
+
+augroup git
+
+" Git commit {{{2
+
+autocmd! FileType gitcommit setlocal textwidth=72 commentstring=#\ %s
+
+" }}}2
+
+augroup END
+
+" }}}1
+
 " Work {{{1
 
 augroup Work
@@ -92,6 +106,8 @@ autocmd! FileType javascript setlocal suffixesadd+=.js foldmethod=marker foldmar
 " ruby {{{
 
 autocmd! FileType ruby setlocal softtabstop=2 tabstop=2 shiftwidth=2 expandtab commentstring=#\ %s
+autocmd! FileType slim setlocal softtabstop=2 tabstop=2 shiftwidth=2 expandtab commentstring=/\ %s
+autocmd! FileType jsx setlocal softtabstop=2 tabstop=2 shiftwidth=2 expandtab
 " }}}
 
 " zsh {{{

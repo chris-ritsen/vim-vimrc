@@ -474,6 +474,7 @@ iab Collecges Colleges
 iab Colleciotn Collection
 iab Collegause Colleagues
 iab Comamander Commander
+iab Comapnies Companies
 iab Comeplteyl Completely
 iab Comigng Coming
 iab Comitted Committed
@@ -1188,6 +1189,7 @@ iab FIred Fired
 iab FIrfst First
 iab FIrst First
 iab FIsh Fish
+iab FIshing Fishing
 iab FIsniehd Finished
 iab FIx Fix
 iab FIxed Fixed
@@ -6317,6 +6319,7 @@ iab answerd answers
 iab answey answer
 iab ansy any
 iab antahign anything
+iab anteader anteater
 iab antecdeent antecedent
 iab antecegtent antecedent
 iab antecndenent antecedent
@@ -10797,6 +10800,7 @@ iab compoeltely completely
 iab compoelx complex
 iab compoenents components
 iab compoenets components
+iab compoennets components
 iab compoenst component
 iab compoent component
 iab compoentn component
@@ -11114,6 +11118,7 @@ iab condiutions conditions
 iab condoments condiments
 iab condsider consider
 iab condsole console
+iab condtisions conditions
 iab condtrol control
 iab conductrive4 conductive
 iab condutions conditions
@@ -11705,7 +11710,6 @@ iab contijnonously continuously
 iab contin8ue continue
 iab continaes continues
 iab continbue continue
-iab continent content
 iab contineu continue
 iab continguency contingency
 iab continioum continuum
@@ -11796,7 +11800,6 @@ iab contiyually continually
 iab contmeinue continue
 iab contneditions conditions
 iab contnenction connection
-iab contnent continent
 iab contnet content
 iab contnetn content
 iab contnieue continue
@@ -18041,6 +18044,7 @@ iab fals3e false
 iab falsae false
 iab falsde false
 iab falseley falsely
+iab falsse false
 iab falst false
 iab falstr false
 iab falture falter
@@ -18436,6 +18440,7 @@ iab firtuyehr further
 iab firwst first
 iab firwt first
 iab firzst first
+iab fishingg fishing
 iab fishort short
 iab fisihg fishing
 iab fising fishing
@@ -21767,6 +21772,7 @@ iab inecfficiences inefficiencies
 iab inect inject
 iab inected injected
 iab ineeffective ineffective
+iab ineer inner
 iab ineffible ineffable
 iab inefficienceies inefficiencies
 iab inefficiences inefficiencies
@@ -22354,6 +22360,7 @@ iab interace interface
 iab interacf5t interact
 iab interacfe interface
 iab interacft interact
+iab interacticve interactive
 iab interactiuons interactions
 iab interadts interacts
 iab interafces interfaces
@@ -24236,6 +24243,7 @@ iab lnow know
 iab lo0g log
 iab lo9g log
 iab loadede loaded
+iab loadedf loaded
 iab loadign loading
 iab loater later
 iab loaundry laundry
@@ -25570,6 +25578,7 @@ iab modile mobile
 iab modivation motivation
 iab modle model
 iab modled molded
+iab modlels models
 iab modles models
 iab modlign modeling
 iab modling molding
@@ -25643,6 +25652,7 @@ iab momemntarily momentarily
 iab momemnts moments
 iab momemoetn moment
 iab momemtn moment
+iab momen moment
 iab momenet moment
 iab momenetariily momentarily
 iab momenetarily momentarily
@@ -28987,6 +28997,7 @@ iab phtoos photos
 iab phtoots photos
 iab phtopots photos
 iab phtoso photos
+iab phtosos photos
 iab phtoto photo
 iab phtotos photos
 iab phuiscail physical
@@ -41188,6 +41199,7 @@ iab werwe were
 iab wesate waste
 iab wesather weather
 iab wetahter weather
+iab wetather weather
 iab wether whether
 iab wetherh whether
 iab wevbcam webcam
