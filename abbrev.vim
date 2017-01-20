@@ -7313,6 +7313,7 @@ iab assighnetd assigned
 iab assignmnet assignment
 iab assimiilate assimilate
 iab assing assign
+iab assion assign
 iab assistancte assistance
 iab assistence assistance
 iab assit assist
@@ -8399,6 +8400,7 @@ iab beocmes becomes
 iab beocming becoming
 iab beocmming becoming
 iab beofer before
+iab beofgre before
 iab beofre before
 iab beoign being
 iab beoing being
@@ -22125,6 +22127,7 @@ iab inspectiion inspection
 iab inspeepratable inseparable
 iab inspeoct inspect
 iab insperapele inseparable
+iab inspewct inspect
 iab inspiriation inspiration
 iab inspirted inspired
 iab inspriation inspiration

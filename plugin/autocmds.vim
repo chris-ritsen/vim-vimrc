@@ -105,7 +105,7 @@ autocmd! FileType javascript setlocal suffixesadd+=.js foldmethod=marker foldmar
 
 " ruby {{{
 
-autocmd! FileType ruby setlocal softtabstop=2 tabstop=2 shiftwidth=2 expandtab commentstring=#\ %s
+autocmd! FileType ruby setlocal softtabstop=2 tabstop=2 shiftwidth=2 expandtab synmaxcol=256 commentstring=#\ %s
 autocmd! FileType slim setlocal softtabstop=2 tabstop=2 shiftwidth=2 expandtab commentstring=/\ %s
 autocmd! FileType jsx setlocal softtabstop=2 tabstop=2 shiftwidth=2 expandtab
 " }}}
