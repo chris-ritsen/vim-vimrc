@@ -1,9 +1,9 @@
 
-" unite {{{
+" denite {{{
 
 " filters {{{
 
-call unite#filters#matcher_default#use(['matcher_fuzzy'])
+" call denite#filters#matcher_default#use(['matcher_fuzzy'])
 
 " }}}
 
@@ -282,7 +282,7 @@ let patterns += [ 'youtube-viewer/' ]
 
 let pattern = '\(' . join(patterns, '\|') . '\)'
 
-call unite#custom#source('file_rec,file_rec/async', 'ignore_pattern', pattern)
+call denite#custom#source('file_rec, file_rec/async', 'ignore_pattern', pattern)
 
 unlet patterns pattern
 
@@ -290,62 +290,59 @@ unlet patterns pattern
 
 " setup default sources {{{
 
-call unite#custom#source(
-  \ 'file,file_rec,file_rec/async,grep,neomru/file,neomru/directory',
+call denite#custom#source(
+  \ 'file, file_rec, file_rec/async, grep, neomru/file, neomru/directory',
   \ 'max_candidates',
   \ 10000)
 
-call unite#custom#source(
+call denite#custom#source(
   \ 'neomru/file', 'matchers',
   \ ['matcher_project_files', 'matcher_fuzzy'])
 
-call unite#custom#source('file,file_rec,file_rec/async', 'matchers',
+call denite#custom#source('file, file_rec, file_rec/async', 'matchers',
   \ ['matcher_project_ignore_files', 'converter_relative_word', 'matcher_fuzzy'])
 
-call unite#custom#source('file_mru', 'matchers',
+call denite#custom#source('file_mru', 'matchers',
   \ ['matcher_project_files', 'matcher_fuzzy'])
 
-" call unite#custom#source('buffer', 'matchers', ['matcher_default', 'matcher_hide_current_file'])
+" call denite#custom#source('buffer', 'matchers', ['matcher_default', 'matcher_hide_current_file'])
 "
-call unite#custom#source('buffer', 'matchers', ['matcher_fuzzy', 'matcher_hide_current_file'])
+call denite#custom#source('buffer', 'matchers', ['matcher_fuzzy', 'matcher_hide_current_file'])
 
-" if exists('*s:unite_settings')
-
-" TODO: Move this
-nnoremap <silent> <leader>b :<C-U>Unite grep:. -buffer-name=search-buffer<CR>
+" if exists('*s:denite_settings')
 
 if executable('pt')
-  let g:unite_source_grep_command = 'pt'
-  let g:unite_source_grep_default_opts = '--nogroup --nocolor'
-  let g:unite_source_grep_recursive_opt = ''
-  let g:unite_source_grep_encoding = 'utf-8'
+  let g:denite_source_grep_command = 'pt'
+  let g:denite_source_grep_default_opts = '--nogroup --nocolor'
+  let g:denite_source_grep_recursive_opt = ''
+  let g:denite_source_grep_encoding = 'utf-8'
 endif
 
-autocmd FileType unite call s:unite_settings()
+autocmd FileType denite call s:denite_settings()
 
 " endif
 
-function! s:unite_settings()
+function! s:denite_settings()
 
 " {{{
 
-  " TODO: Should not wrap bottom/top on unite buffers
+  " TODO: Should not wrap bottom/top on denite buffers
 
   " config {{{
 
-	let g:unite_prompt = ''
+	let g:denite_prompt = ''
   let b:SuperTabDisabled = 1
-  let g:unite_converter_file_directory_width = 90
-  let g:unite_kind_jump_list_after_jump_scroll = 50
-  let g:unite_matcher_fuzy_max_input_length = 200
-  let g:unite_source_history_yank_enable = 1
-  let g:unite_source_line_enable_highlight = 0
+  let g:denite_converter_file_directory_width = 90
+  let g:denite_kind_jump_list_after_jump_scroll = 50
+  let g:denite_matcher_fuzy_max_input_length = 200
+  let g:denite_source_history_yank_enable = 1
+  let g:denite_source_line_enable_highlight = 0
 
   " Dead {{{
   
-	" let g:unite_abbr_highlight = 'TabLine'
-	" let g:unite_cursor_line_highlight = 'TabLineSel'
-  " let g:unite_source_rec_async_command = 'ag --skip-vcs-ignores --silent --nocolor --nogroup -g ""'
+	" let g:denite_abbr_highlight = 'TabLine'
+	" let g:denite_cursor_line_highlight = 'TabLineSel'
+  " let g:denite_source_rec_async_command = 'ag --skip-vcs-ignores --silent --nocolor --nogroup -g ""'
 
   " }}}
 
@@ -353,36 +350,36 @@ function! s:unite_settings()
 
   " mappings {{{
 
-  imap <buffer> <C-j> <Plug>(unite_do_default_action)
-  nnoremap <buffer> <C-j> <Plug>(unite_do_default_action)
-  imap <buffer> <C-g> <Plug>(unite_exit)
-  nnoremap <buffer> <C-n> <Plug>(unite_select_next_line)
-  nnoremap <buffer> <C-p> <Plug>(unite_previous_next_line)
+  imap <buffer> <C-j> <Plug>(denite_do_default_action)
+  nnoremap <buffer> <C-j> <Plug>(denite_do_default_action)
+  imap <buffer> <C-g> <Plug>(denite_exit)
+  nnoremap <buffer> <C-n> <Plug>(denite_select_next_line)
+  nnoremap <buffer> <C-p> <Plug>(denite_previous_next_line)
 
   " }}}
 
   " sources {{{
 
-  call unite#custom#source(
+  call denite#custom#source(
     \ 'neomru/file', 'matchers',
     \ ['matcher_project_files', 'matcher_fuzzy'])
 
-	call unite#custom#profile('default', 'context', {
+	call denite#custom#profile('default', 'context', {
     \   'smartcase': 1,
     \   'ignorecase': 1,
     \ })
 
-  call unite#custom#profile('files', 'substitute_patterns', {
+  call denite#custom#profile('files', 'substitute_patterns', {
     \ 'pattern' : '^\.v/',
     \ 'subst' : [expand('~/.vim/'),
-    \   unite#util#substitute_path_separator($HOME)
+    \   denite#util#substitute_path_separator($HOME)
     \       . '/.bundle/*/'],
     \ 'priority' : 1000,
     \ })
 
   " Dead {{{
 
-  " call unite#custom#source('file,file/new,buffer,file_rec,file_rec/async', 'ignore_pattern', '\(nohup\.out$|\.jspm\)')
+  " call denite#custom#source('file,file/new,buffer,file_rec,file_rec/async', 'ignore_pattern', '\(nohup\.out$|\.jspm\)')
 
   " }}}
 
@@ -392,12 +389,12 @@ function! s:unite_settings()
 
   " Enable navigation with control-j and control-k in insert mode {{{ 
 
-  " imap <buffer> <C-j> <Plug>(unite_do_default_action)
-  " imap <buffer> <C-j> <Plug>(unite_select_next_line)
-  " imap <buffer> <C-k> <Plug>(unite_select_previous_line)
-  " imap <buffer> <C-q> <Plug>(unite_exit)
-  " nnoremap <leader>p :Unite -no-split file_rec/async<cr>
-  " nnoremap <silent><buffer> <C-j> <Plug>(unite_do_default_action)
+  " imap <buffer> <C-j> <Plug>(denite_do_default_action)
+  " imap <buffer> <C-j> <Plug>(denite_select_next_line)
+  " imap <buffer> <C-k> <Plug>(denite_select_previous_line)
+  " imap <buffer> <C-q> <Plug>(denite_exit)
+  " nnoremap <leader>p :denite file_rec/async<cr>
+  " nnoremap <silent><buffer> <C-j> <Plug>(denite_do_default_action)
 
   " }}}
 
@@ -453,12 +450,12 @@ endif
 
 " Dead {{{
 
-" call unite#custom#source('file_rec,file_rec/async', 'max_candidates', 0)
+" call denite#custom#source('file_rec,file_rec/async', 'max_candidates', 0)
 
-" Not seeing anything?  Clear unite's cache with ':normal <C-l>'.
+" Not seeing anything?  Clear denite's cache with ':normal <C-l>'.
 
-" call unite#custom#source('file,file/new,buffer,file_rec', 'matchers', [ 'matcher_context', 'matcher_regexp', 'matcher_fuzzy' ])
-" call unite#custom#source('file,file/new,buffer,file_rec,file_rec/async', 'matchers', [ 'matcher_context', 'matcher_fuzzy'])
+" call denite#custom#source('file,file/new,buffer,file_rec', 'matchers', [ 'matcher_context', 'matcher_regexp', 'matcher_fuzzy' ])
+" call denite#custom#source('file,file/new,buffer,file_rec,file_rec/async', 'matchers', [ 'matcher_context', 'matcher_fuzzy'])
 " }}}
 
 " }}}

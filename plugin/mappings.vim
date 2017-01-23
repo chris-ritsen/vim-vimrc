@@ -298,28 +298,29 @@ endif
 
 " unite {{{
 
-" nnoremap <leader>a :Unite -no-split history/yank<cr>
-" nnoremap <leader>b :Unite -prompt= -no-split -multi-line buffer<cr>
-" nnoremap <leader>f :<C-u>Unite -no-split -buffer-name=files -start-insert file<cr>
-" nnoremap <leader>f :<C-u>Unite -no-split -buffer-name=files -multi-line -start-insert file<cr>
-" nnoremap <leader>j :<C-u>Unite -no-split -buffer-name=jump -multi-line -start-insert jump<cr>
+" nnoremap <leader>a :Denite history/yank<cr>
+" nnoremap <leader>b :Denite -prompt= -multi-line buffer<cr>
+" nnoremap <leader>f :<C-u>Denite -buffer-name=files file<cr>
+" nnoremap <leader>f :<C-u>Denite -buffer-name=files -multi-line file<cr>
+" nnoremap <leader>j :<C-u>Denite -buffer-name=jump -multi-line jump<cr>
 " nnoremap <leader>p <nop>
-nnoremap <leader>r :<C-u>Unite -no-split -buffer-name=mru -start-insert file_mru<cr>
-" nnoremap <leader>s :Unite -no-split -quick-match -auto-preview buffer<cr>
-" nnoremap <leader>s :Unite -no-split -quick-match buffer<cr>
-" nnoremap <leader>t :<C-u>Unite -no-split -start-insert file_rec/async:!<CR>
-" nnoremap <leader>t :Unite -no-split -start-insert file_rec/async<cr>
-" nnoremap <leader>y :<C-u>Unite -no-split -buffer-name=yank    history/yank<cr>
+nnoremap <leader>r :<C-u>Denite -buffer-name=mru file_mru<cr>
+" nnoremap <leader>s :Denite -quick-match -auto-preview buffer<cr>
+" nnoremap <leader>s :Denite -quick-match buffer<cr>
+" nnoremap <leader>t :<C-u>Denite file_rec/async:!<CR>
+" nnoremap <leader>t :Denite file_rec/async<cr>
+" nnoremap <leader>y :<C-u>Denite -buffer-name=yank    history/yank<cr>
 
-nnoremap <leader>g :Unite -no-split -buffer-name=buffers -start-insert buffer<cr>
-nnoremap <leader>t :Unite -no-split -buffer-name=files -no-auto-highlight -no-resize -no-cursor-line -start-insert file_rec/async:.<cr>
-nnoremap <leader>r :Unite -no-split -buffer-name=files -no-auto-highlight -no-resize -no-cursor-line -start-insert neomru/file:.<cr>
+nnoremap <leader>g :Denite -buffer-name=buffers buffer<cr>
+nnoremap <leader>t :Denite -buffer-name=files file_rec:.<cr>
+nnoremap <leader>r :Denite -buffer-name=files file_mru:.<cr>
+" nnoremap <silent> <leader>b :Denite grep:. -buffer-name=search-buffer<CR>
 
 " What?  The ! makes this only go to the original directory - usually the
 " user's home directory.  It's a source argument— the target kirectories split
 " by newlines.
 
-" nnoremap <leader>t :<C-u>Unite -no-split -buffer-name=files -start-insert file_rec/async:!<cr>
+" nnoremap <leader>t :<C-u>Denite -buffer-name=files file_rec/async:!<cr>
 
 " }}}
 
