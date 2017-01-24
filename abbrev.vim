@@ -12949,6 +12949,7 @@ iab debugh debug
 iab debugin debug
 iab debutg3er debugger
 iab debvelopments developments
+iab debyug debug
 iab decalare declare
 iab decard decade
 iab decardes decades
