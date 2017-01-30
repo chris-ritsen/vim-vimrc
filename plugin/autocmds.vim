@@ -533,5 +533,3 @@ augroup END
 
 " }}}
 
-vnoremap <F2> d:execute 'normal i' . join(sort(split(getreg('"'))), ' ')<CR>
-
