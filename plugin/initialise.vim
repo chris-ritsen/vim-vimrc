@@ -350,11 +350,13 @@ function! s:denite_settings()
 
   " mappings {{{
 
-  imap <buffer> <C-j> <Plug>(denite_do_default_action)
-  nnoremap <buffer> <C-j> <Plug>(denite_do_default_action)
-  imap <buffer> <C-g> <Plug>(denite_exit)
-  nnoremap <buffer> <C-n> <Plug>(denite_select_next_line)
-  nnoremap <buffer> <C-p> <Plug>(denite_previous_next_line)
+  " new defaults at: /home/chris/.config/vim/bundle/denite.nvim/rplugin/python3/denite/ui/action.py
+
+  " imap <buffer> <C-j> <Plug>(denite_do_default_action)
+  " nnoremap <buffer> <C-j> <Plug>(denite_do_default_action)
+  " imap <buffer> <C-g> <Plug>(denite_exit)
+  " nnoremap <buffer> <C-n> <Plug>(denite_select_next_line)
+  " nnoremap <buffer> <C-p> <Plug>(denite_previous_next_line)
 
   " }}}
 

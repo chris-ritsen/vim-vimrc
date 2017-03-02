@@ -68,6 +68,8 @@ augroup filetypes
 
 autocmd! Syntax mail setlocal commentstring=>\ %s
 
+" need a command to target this same file (autocmds.vim)
+
 " c {{{
 
 autocmd! BufNewFile,BufRead *.c,*.cpp set foldmethod=syntax
@@ -106,8 +108,9 @@ autocmd! FileType javascript setlocal suffixesadd+=.js foldmethod=marker foldmar
 " web dev {{{
 
 autocmd! FileType jsx setlocal softtabstop=2 tabstop=2 shiftwidth=2 expandtab
-autocmd! FileType ruby setlocal softtabstop=2 tabstop=2 shiftwidth=2 expandtab synmaxcol=256 commentstring=#\ %s
-autocmd! FileType slim setlocal softtabstop=2 tabstop=2 shiftwidth=2 expandtab synmaxcol=256 tw=0 commentstring=/\ %s
+autocmd! FileType ruby setlocal softtabstop=2 tabstop=2 shiftwidth=2 expandtab synmaxcol=512 foldmethod=indent commentstring=#\ %s
+autocmd! FileType slim setlocal softtabstop=2 tabstop=2 shiftwidth=2 expandtab synmaxcol=512 tw=0 commentstring=/\ %s
+autocmd! FileType coffee setlocal softtabstop=2 tabstop=2 shiftwidth=2 expandtab synmaxcol=256 tw=0 commentstring=#\ %s 
 autocmd! FileType yaml setlocal softtabstop=2 tabstop=2 shiftwidth=2 expandtab
 
 " }}}
@@ -159,7 +162,11 @@ autocmd! FileType tex setlocal commentstring=\%\ %s
 " }}}
 
 autocmd! FileType text setlocal commentstring=%s
-autocmd! FileType systemd setlocal tw=0 commentstring=#\ %s
+
+autocmd! BufRead,BufNewFile *.slice,*.path set filetype=systemd 
+autocmd! BufRead,BufNewFile *.rules set filetype=udevrules 
+autocmd! FileType systemd setlocal tw=0 number commentstring=#\ %s
+autocmd! BufRead,BufNewFile ~/.config/systemd/* setlocal filetype=systemd
 
 autocmd! BufRead,BufNewFile .lynxrc set filetype=lynx
 autocmd! BufRead,BufNewFile .offlineimaprc setlocal commentstring=#\ %s
@@ -265,8 +272,9 @@ autocmd! Syntax xml,html,xhtml setlocal foldmethod=indent commentstring=\<!--\ %
 
 " tmux {{{
 
+autocmd! BufRead,BufNewFile ~/.config/tmux/bind set filetype=tmux
+autocmd! BufRead,BufNewFile ~/.config/tmux/tmux.conf set filetype=tmux
 autocmd! BufRead,BufNewFile ~/.config/tmux/* set filetype=tmux
-autocmd! BufRead,BufNewFile ~/.config/tmux/**/* set filetype=tmux
 autocmd! FileType tmux setlocal commentstring=#\ %s foldmethod=marker tw=0
 
 " }}}4
@@ -532,4 +540,6 @@ augroup END
 " TODO: CmdUndefined - FuncUndefined
 
 " }}}
+
+autocmd! BufRead,BufNewFile Procfile.dev setlocal tw=0
 

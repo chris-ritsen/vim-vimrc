@@ -137,7 +137,8 @@ nnoremap <silent> <Leader>e :e<CR>
 nnoremap <silent> <leader>N :NERDTreeToggle<CR>
 nnoremap <silent> <leader>h :noh<CR>
 nnoremap <silent> <leader>n :NERDTreeFind<CR>
-nnoremap <silent> x x:call Redefine_x_ForVirtualEdit()<CR>
+
+" nnoremap <silent> x x:call Redefine_x_ForVirtualEdit()<CR>
 
 nnoremap <silent> <C-left> <C-w>h
 nnoremap <silent> <C-down> <C-w>j
