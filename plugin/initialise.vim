@@ -362,22 +362,22 @@ function! s:denite_settings()
 
   " sources {{{
 
-  call denite#custom#source(
-    \ 'neomru/file', 'matchers',
-    \ ['matcher_project_files', 'matcher_fuzzy'])
+  " call denite#custom#source(
+  "   \ 'neomru/file', 'matchers',
+  "   \ ['matcher_project_files', 'matcher_fuzzy'])
 
-	call denite#custom#profile('default', 'context', {
-    \   'smartcase': 1,
-    \   'ignorecase': 1,
-    \ })
+	" call denite#custom#profile('default', 'context', {
+  "   \   'smartcase': 1,
+  "   \   'ignorecase': 1,
+  "   \ })
 
-  call denite#custom#profile('files', 'substitute_patterns', {
-    \ 'pattern' : '^\.v/',
-    \ 'subst' : [expand('~/.vim/'),
-    \   denite#util#substitute_path_separator($HOME)
-    \       . '/.bundle/*/'],
-    \ 'priority' : 1000,
-    \ })
+  " call denite#custom#profile('files', 'substitute_patterns', {
+  "   \ 'pattern' : '^\.v/',
+  "   \ 'subst' : [expand('~/.vim/'),
+  "   \   denite#util#substitute_path_separator($HOME)
+  "   \       . '/.bundle/*/'],
+  "   \ 'priority' : 1000,
+  "   \ })
 
   " Dead {{{
 
@@ -476,7 +476,6 @@ endif
 
 " try
 "   execute ':Git'
-"   noremap <silent> <leader>y :wa! \| Git commit -am'updated everything blindly.' && git push<CR>
 " catch /^Vim\%((\a\+)\)\=:E492/
 " catch /^Vim\%((\a\+)\)\=:E464/
 "   " echo 'caught' v:exception

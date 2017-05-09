@@ -109,9 +109,10 @@ autocmd! FileType javascript setlocal suffixesadd+=.js foldmethod=marker foldmar
 
 autocmd! FileType jsx setlocal softtabstop=2 tabstop=2 shiftwidth=2 expandtab
 autocmd! FileType ruby setlocal softtabstop=2 tabstop=2 shiftwidth=2 expandtab synmaxcol=512 foldmethod=indent commentstring=#\ %s
-autocmd! FileType slim setlocal softtabstop=2 tabstop=2 shiftwidth=2 expandtab synmaxcol=512 tw=0 commentstring=/\ %s
+autocmd! FileType slim setlocal softtabstop=2 tabstop=2 shiftwidth=2 expandtab synmaxcol=512 foldmethod=indent tw=0 commentstring=/\ %s
 autocmd! FileType coffee setlocal softtabstop=2 tabstop=2 shiftwidth=2 expandtab synmaxcol=256 tw=0 commentstring=#\ %s 
-autocmd! FileType yaml setlocal softtabstop=2 tabstop=2 shiftwidth=2 expandtab
+autocmd! FileType yaml setlocal softtabstop=2 tabstop=2 shiftwidth=2 tw=0 foldmethod=indent expandtab
+autocmd! BufNewFile,BufRead *.rabl setf ruby
 
 " }}}
 

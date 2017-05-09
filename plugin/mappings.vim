@@ -199,8 +199,6 @@ noremap <silent> <F8> :setlocal spell! spelllang=en_us <CR>
 
 noremap <silent> <leader>m :make!<CR>
 
-noremap <silent> <leader>y <esc>:wa! \| Git commit -am'updated everything blindly.' && git push<CR>
-
 noremap [Down] gj
 noremap [Up] gk
 noremap j gj
