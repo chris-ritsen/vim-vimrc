@@ -28,7 +28,9 @@ augroup git
 
 " Git commit {{{2
 
-autocmd! FileType gitcommit setlocal textwidth=72 commentstring=#\ %s
+autocmd! FileType gitcommit setlocal textwidth=72 number commentstring=#\ %s
+autocmd! FileType gitrebase setlocal textwidth=72 hlsearch number commentstring=#\ %s
+autocmd! FileType gitconfig setlocal textwidth=0 commentstring=#\ %s
 
 " }}}2
 
@@ -101,17 +103,18 @@ autocmd! BufRead,BufNewFile .eslintrc set filetype=json
 autocmd! BufRead,BufNewFile *.json set filetype=json
 autocmd! BufReadPost *.jshintrc setf json
 autocmd! BufWritePre *.js :%s/\s\+$//e
-autocmd! FileType javascript setlocal suffixesadd+=.js foldmethod=marker foldmarker={,} commentstring=\/\/\ %s
+" autocmd! FileType javascript setlocal suffixesadd+=.js foldmethod=marker foldmarker={,} commentstring=\/\/\ %s
+autocmd! FileType javascript setlocal suffixesadd+=.js synmaxcol=512
 
 " }}}4
 
 " web dev {{{
 
 autocmd! FileType jsx setlocal softtabstop=2 tabstop=2 shiftwidth=2 expandtab
-autocmd! FileType ruby setlocal softtabstop=2 tabstop=2 shiftwidth=2 expandtab synmaxcol=512 foldmethod=indent commentstring=#\ %s
-autocmd! FileType slim setlocal softtabstop=2 tabstop=2 shiftwidth=2 expandtab synmaxcol=512 foldmethod=indent tw=0 commentstring=/\ %s
-autocmd! FileType coffee setlocal softtabstop=2 tabstop=2 shiftwidth=2 expandtab synmaxcol=256 tw=0 commentstring=#\ %s 
-autocmd! FileType yaml setlocal softtabstop=2 tabstop=2 shiftwidth=2 tw=0 foldmethod=indent expandtab
+autocmd! FileType ruby setlocal iskeyword=@,!,?,48-57,_,192-255 softtabstop=2 tabstop=2 shiftwidth=2 expandtab synmaxcol=512 foldmethod=indent commentstring=#\ %s
+autocmd! FileType slim setlocal iskeyword=@,!,?,48-57,_,192-255 softtabstop=2 tabstop=2 shiftwidth=2 expandtab synmaxcol=512 foldmethod=indent tw=0 commentstring=/\ %s
+autocmd! FileType coffee setlocal softtabstop=1 tabstop=2 shiftwidth=2 expandtab synmaxcol=256 tw=0 foldmethod=indent commentstring=#\ %s 
+autocmd! FileType yaml setlocal softtabstop=2 tabstop=2 shiftwidth=2 tw=0 foldmethod=indent expandtab commentstring=#\ %s
 autocmd! BufNewFile,BufRead *.rabl setf ruby
 
 " }}}
@@ -258,7 +261,8 @@ autocmd! FileType text setlocal textwidth=78
 " xml {{{
 
 autocmd! BufNewFile,BufRead *.svg set foldmethod=syntax
-autocmd! FileType xml setlocal equalprg=xmllint\ --format\ --recover\ -\ 2>/dev/null
+autocmd! FileType xml exe ":silent %!xmllint --format --recover - 2>/dev/null"
+autocmd! FileType xml setlocal foldmethod=syntax equalprg=xmllint\ --format\ --recover\ -\ 2>/dev/null
 autocmd! FileType xpm set nowrap
 autocmd! Syntax xml,html,xhtml setlocal foldmethod=indent commentstring=\<!--\ %s\ --> | normal zM
 
@@ -337,13 +341,13 @@ autocmd! Syntax vim setlocal foldmethod=marker | normal zM
 
 " Python {{{
 
-autocmd! Syntax python setlocal suffixesadd+=.py foldmethod=indent expandtab shiftwidth=4 softtabstop=4 commentstring=#\ %s 
+autocmd! Syntax python setlocal suffixesadd+=.py number foldmethod=indent expandtab shiftwidth=4 softtabstop=4 commentstring=#\ %s 
 
 " }}}
 
 " {{{2
 
-autocmd! BufRead,BufNewFile *.json setlocal equalprg=python\ -mjson.tool\ 2>/dev/null
+autocmd! BufRead,BufNewFile *.json setlocal conceallevel=0 equalprg=python\ -mjson.tool\ 2>/dev/null
 autocmd! FileType json setlocal equalprg=python\ -mjson.tool\ 2>/dev/null
 
 " }}}2

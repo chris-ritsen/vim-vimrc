@@ -221,6 +221,7 @@ let patterns += [ '\.zip$' ]
 let patterns += [ '\.zwc$' ]
 let patterns += [ '\Trash/' ]
 let patterns += [ '\cache/' ]
+let patterns += [ '.cache$' ]
 let patterns += [ 'ananke/' ]
 let patterns += [ 'antimicro/' ]
 let patterns += [ 'archon/' ]
@@ -308,6 +309,10 @@ call denite#custom#source('file_mru', 'matchers',
 " call denite#custom#source('buffer', 'matchers', ['matcher_default', 'matcher_hide_current_file'])
 "
 call denite#custom#source('buffer', 'matchers', ['matcher_fuzzy', 'matcher_hide_current_file'])
+
+call denite#custom#filter('matcher_ignore_globs', 'ignore_globs',
+  \ [ '.git/', '.ropeproject/', '__pycache__/',
+  \   'venv/', 'images/', '*.min.*', 'img/', 'fonts/', '.cache'])
 
 " if exists('*s:denite_settings')
 

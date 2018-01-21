@@ -251,6 +251,9 @@ let g:syntastic_mode_map = {
 
 " checkers {{{
 
+let g:syntastic_ruby_checkers          = ['rubocop', 'mri']
+let g:syntastic_ruby_rubocop_exec      = '/home/chris/.rbenv/shims/rubocop'
+
 " cs checkers {{{
 
 let g:syntastic_cs_checkers = [
@@ -399,7 +402,6 @@ let xml_syntax_folding = 1
 let g:surround_no_insert_mappings = 0
 let g:surround_no_mappings = 0
 " let g:jsx_ext_required = 0
-  
 
 " Dead code {{{1
 
