@@ -30,7 +30,7 @@ augroup git
 
 autocmd! FileType gitcommit setlocal textwidth=72 number commentstring=#\ %s
 autocmd! FileType gitrebase setlocal textwidth=72 hlsearch number commentstring=#\ %s
-autocmd! FileType gitconfig setlocal textwidth=0 commentstring=#\ %s
+autocmd! FileType gitconfig setlocal textwidth=0 number commentstring=#\ %s
 
 " }}}2
 
@@ -99,8 +99,8 @@ autocmd! FileType make setlocal noexpandtab
 
 " JavaScript {{{
 
-autocmd! BufRead,BufNewFile .eslintrc set filetype=json
-autocmd! BufRead,BufNewFile *.json set filetype=json
+autocmd! BufRead,BufNewFile .eslintrc set filetype=json synmaxcol=512
+autocmd! BufRead,BufNewFile *.json set filetype=json synmaxcol=512
 autocmd! BufReadPost *.jshintrc setf json
 autocmd! BufWritePre *.js :%s/\s\+$//e
 " autocmd! FileType javascript setlocal suffixesadd+=.js foldmethod=marker foldmarker={,} commentstring=\/\/\ %s
@@ -116,6 +116,8 @@ autocmd! FileType slim setlocal iskeyword=@,!,?,48-57,_,192-255 softtabstop=2 ta
 autocmd! FileType coffee setlocal softtabstop=1 tabstop=2 shiftwidth=2 expandtab synmaxcol=256 tw=0 foldmethod=indent commentstring=#\ %s 
 autocmd! FileType yaml setlocal softtabstop=2 tabstop=2 shiftwidth=2 tw=0 foldmethod=indent expandtab commentstring=#\ %s
 autocmd! BufNewFile,BufRead *.rabl setf ruby
+autocmd! BufNewFile,BufRead *.inky-slim setf slim
+autocmd! BufNewFile,BufRead *.inky-haml setf haml
 
 " }}}
 
@@ -209,6 +211,7 @@ autocmd! BufRead,BufNewFile ~/.drirc set filetype=xml
 
 autocmd! BufRead,BufNewFile ~/.config/mpd/books/books.conf set filetype=conf foldmethod=marker foldmarker={,} commentstring=#\ %s  
 autocmd! BufRead,BufNewFile ~/.config/mpd/mpd.conf set filetype=conf foldmethod=marker foldmarker={,} commentstring=#\ %s  
+autocmd! BufRead,BufNewFile mpd.conf set filetype=conf foldmethod=marker foldmarker={,} commentstring=#\ %s  
 autocmd! BufRead,BufNewFile ~/.config/mpd/music/music.conf set filetype=conf foldmethod=marker foldmarker={,} commentstring=#\ %s  
 autocmd! BufRead,BufNewFile ~/.config/mpd/stream/stream.conf set filetype=conf foldmethod=marker foldmarker={,} commentstring=#\ %s  
 autocmd! BufRead,BufNewFile ~/.config/mpd/voice/voice.conf set filetype=conf foldmethod=marker foldmarker={,} commentstring=#\ %s 
@@ -245,7 +248,7 @@ autocmd! FileType nginx setlocal commentstring=#\ %s
 
 autocmd! FileType fstab setlocal commentstring=#\ %s
 autocmd! FileType haskell setlocal commentstring=--\ %s
-autocmd! FileType json setlocal nowrap conceallevel=0
+autocmd! FileType json nowrap conceallevel=0 synmaxcol=512
 autocmd! FileType lynx setlocal commentstring=#\ %s
 autocmd! FileType slrnrc setlocal commentstring=%\ %s
 autocmd! FileType svnannotate cmap <buffer> q bwipeout
@@ -293,7 +296,7 @@ autocmd! BufRead,BufNewFile /usr/local/etc/lirc/lircd.conf.d/*.conf setlocal fol
 
 " xmonad {{{3
 
-autocmd! BufRead,BufNewFile ~/.xmonad/xmonad.hs setfiletype haskell | set foldmethod=indent commentstring=--\ %s
+autocmd! BufRead,BufNewFile ~/.xmonad/xmonad.hs setfiletype haskell | setlocal foldmethod=indent tw=0 commentstring=--\ %s
 
 " }}}3
 
@@ -389,7 +392,7 @@ augroup json_autocmd
 
 " json filetype {{{2
 
-autocmd! FileType json setlocal formatoptions=tcq2l foldmethod=syntax softtabstop=2 tabstop=2 textwidth=78 shiftwidth=2 autoindent expandtab
+autocmd! FileType json setlocal formatoptions=tcq2l foldmethod=syntax softtabstop=2 tabstop=2 textwidth=78 shiftwidth=2 autoindent expandtab synmaxcol=256
 
 " }}}2
 
@@ -548,3 +551,14 @@ augroup END
 
 autocmd! BufRead,BufNewFile Procfile.dev setlocal tw=0
 
+autocmd! BufRead,BufNewFile ~/.config/vim/bundle/vimrc/plugin/autocmds.vim setlocal tw=0
+autocmd! BufRead,BufNewFile ~/work/machinetools.com/documents/daily setlocal tw=0
+
+autocmd! FileType elinks setlocal tw=0 number commentstring=#\ %s
+autocmd! BufRead,BufNewFile ~/.tmp/vim/books setfiletype vim
+autocmd! BufNewFile,BufRead ~/.mednafen/*.cfg setlocal tw=0 number commentstring=#\ %s
+autocmd! BufNewFile,BufRead ~/.config/jack/conf.xml setlocal tw=0 number nofoldenable
+autocmd! FileType alsaconf setlocal nowrap number commentstring=#\ %s
+autocmd! BufRead,BufNewFile mimeapps.list setlocal number textwidth=0 commentstring=#\ %s
+
+autocmd! FileType sh setlocal textwidth=0 number commentstring=#\ %s
