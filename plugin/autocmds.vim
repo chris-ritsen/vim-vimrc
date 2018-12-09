@@ -28,7 +28,7 @@ augroup git
 
 " Git commit {{{2
 
-autocmd! FileType gitcommit setlocal textwidth=72 number commentstring=#\ %s
+autocmd! FileType gitcommit setlocal textwidth=72 number comments=fb:* commentstring=#\ %s
 autocmd! FileType gitrebase setlocal textwidth=72 hlsearch number commentstring=#\ %s
 autocmd! FileType gitconfig setlocal textwidth=0 number commentstring=#\ %s
 
@@ -74,13 +74,13 @@ autocmd! Syntax mail setlocal commentstring=>\ %s
 
 " c {{{
 
-autocmd! BufNewFile,BufRead *.c,*.cpp set foldmethod=syntax
+autocmd! BufNewFile,BufRead *.c,*.cpp set foldmethod=syntax comments=s1:/*,mb:*,ex:*/,://,b:#,:%,:XCOMM,n:>,fb:-
 autocmd! Syntax c,cpp,php,perl setlocal foldmethod=syntax | normal zM
 autocmd! FileType c setlocal foldmethod=syntax commentstring=\/\/\ %s
 
 autocmd! BufRead,BufNewFile *.cc set filetype=cpp
 
-autocmd! FileType cpp setlocal foldmethod=syntax commentstring=\/\/\ %s
+autocmd! FileType cpp setlocal foldmethod=syntax comments=s1:/*,mb:*,ex:*/,://,b:#,:%,:XCOMM,n:>,fb:- commentstring=\/\/\ %s
 
 
 " }}}4
@@ -115,6 +115,7 @@ autocmd! FileType ruby setlocal iskeyword=@,!,?,48-57,_,192-255 softtabstop=2 ta
 autocmd! FileType slim setlocal iskeyword=@,!,?,48-57,_,192-255 softtabstop=2 tabstop=2 shiftwidth=2 expandtab synmaxcol=512 foldmethod=indent tw=0 commentstring=/\ %s
 autocmd! FileType coffee setlocal softtabstop=1 tabstop=2 shiftwidth=2 expandtab synmaxcol=256 tw=0 foldmethod=indent commentstring=#\ %s 
 autocmd! FileType yaml setlocal softtabstop=2 tabstop=2 shiftwidth=2 tw=0 foldmethod=indent expandtab commentstring=#\ %s
+autocmd! BufNewFile,BufRead *.yml.sample setf yaml
 autocmd! BufNewFile,BufRead *.rabl setf ruby
 autocmd! BufNewFile,BufRead *.inky-slim setf slim
 autocmd! BufNewFile,BufRead *.inky-haml setf haml
@@ -151,9 +152,9 @@ autocmd! FileType vb setlocal commentstring='\ %s
 
 autocmd! BufRead,BufNewFile *.css.map set filetype=json
 
-autocmd! FileType css setlocal nowrap foldmethod=indent fmr={,} suffixesadd+=.less,.sass,.css
-autocmd! FileType less setlocal nowrap foldmethod=indent fmr={,}
-autocmd! FileType scss setlocal nowrap foldmethod=indent fmr={,}
+autocmd! FileType css setlocal nowrap tw=0 foldmethod=indent fmr={,} suffixesadd+=.less,.sass,.css
+autocmd! FileType less setlocal nowrap tw=0 foldmethod=indent fmr={,}
+autocmd! FileType scss setlocal nowrap tw=0 foldmethod=indent fmr={,}
 
 " Intent being to close folds overbase64 images.
 autocmd! BufReadPost *.css,*scss silent! g/base64.\+/normal zc
@@ -179,6 +180,7 @@ autocmd! BufRead,BufNewFile .offlineimaprc setlocal commentstring=#\ %s
 
 autocmd! BufRead,BufNewFile ~/.Xresources setlocal filetype=xdefaults tw=0
 autocmd! BufRead,BufNewFile *.xrdb setlocal filetype=xdefaults tw=0
+autocmd! BufRead,BufNewFile *.remote setlocal filetype=conf tw=0 number commentstring=#\ %s 
 autocmd! BufRead,BufNewFile ~/.config/X11/* setlocal filetype=xdefaults
 autocmd! BufRead,BufNewFile ~/.config/tidy/* setlocal filetype=tidy
 
@@ -562,3 +564,6 @@ autocmd! FileType alsaconf setlocal nowrap number commentstring=#\ %s
 autocmd! BufRead,BufNewFile mimeapps.list setlocal number textwidth=0 commentstring=#\ %s
 
 autocmd! FileType sh setlocal textwidth=0 number commentstring=#\ %s
+autocmd! FileType vue silent! echo context_filetype#get_filetype()
+autocmd! FileType vue setlocal foldmethod=indent textwidth=0
+autocmd! FileType fstab setlocal textwidth=0 nowrap number commentstring=#\ %s 

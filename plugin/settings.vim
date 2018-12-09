@@ -34,10 +34,18 @@ set autoindent
 set autoread
 set backspace=eol,start,indent
 set cmdheight=1
-set comments+=fb:•
-set comments+=fb:~
-set comments+=fb:∙
+" set comments=s1:/*,mb:*,ex:*/,
+set comments=
+set comments+=://
+set comments+=b:#
+set comments+=:%
+set comments+=:XCOMM
+set comments+=n:>
 set comments+=fb:*
+set comments+=fb:-
+set comments+=fb:~
+set comments+=fb:•
+set comments+=fb:∙
 set completeopt=
 set cpoptions=aABceFsJ "+=J
 set dictionary+=/usr/share/dict/words
@@ -140,6 +148,7 @@ set wildignore+=.heroku,.macromedia,.irssi,*.torrent,.mozilla,.npm,.pki,.pip
 set wildignore+=.heroku,.oracle,.vim,.adobe,.gem,.cache,.config,.dbus,.fonts
 set wildignore+=.node-gyp,.fontconfig,.abgx360,.bower,*.JPG,*.MOV,*.iso,*.PNG
 set wildignore+=.remmina,.thumbnails,.VirtualBox,.w3m,node_modules,.node-gyp
+set wildignore+=*.cache
 
 " }}}2
  

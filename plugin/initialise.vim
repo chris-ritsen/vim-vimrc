@@ -283,7 +283,7 @@ let patterns += [ 'youtube-viewer/' ]
 
 let pattern = '\(' . join(patterns, '\|') . '\)'
 
-call denite#custom#source('file_rec, file_rec/async', 'ignore_pattern', pattern)
+" call denite#custom#source('file_rec, file_rec/async', 'ignore_pattern', pattern)
 
 unlet patterns pattern
 
@@ -291,28 +291,32 @@ unlet patterns pattern
 
 " setup default sources {{{
 
-call denite#custom#source(
-  \ 'file, file_rec, file_rec/async, grep, neomru/file, neomru/directory',
-  \ 'max_candidates',
-  \ 10000)
+" call denite#custom#source(
+"   \ 'file, file_rec, file_rec/async, grep, neomru/file, neomru/directory',
+"   \ 'max_candidates',
+"   \ 10000)
 
-call denite#custom#source(
-  \ 'neomru/file', 'matchers',
-  \ ['matcher_project_files', 'matcher_fuzzy'])
+" call denite#custom#source(
+"   \ 'neomru/file', 'matchers',
+"   \ ['matcher_project_files', 'matcher_fuzzy'])
 
-call denite#custom#source('file, file_rec, file_rec/async', 'matchers',
-  \ ['matcher_project_ignore_files', 'converter_relative_word', 'matcher_fuzzy'])
+" call denite#custom#source('file, file_rec, file_rec/async', 'matchers',
+"   \ ['matcher_project_ignore_files', 'converter_relative_word', 'matcher_fuzzy'])
 
-call denite#custom#source('file_mru', 'matchers',
-  \ ['matcher_project_files', 'matcher_fuzzy'])
+" call denite#custom#source('file_mru', 'matchers',
+"   \ ['matcher_project_files', 'matcher_fuzzy', 'matcher_ignore_globs'])
 
 " call denite#custom#source('buffer', 'matchers', ['matcher_default', 'matcher_hide_current_file'])
 "
-call denite#custom#source('buffer', 'matchers', ['matcher_fuzzy', 'matcher_hide_current_file'])
+" call denite#custom#source('buffer', 'matchers', ['matcher_fuzzy', 'matcher_hide_current_file'])
 
-call denite#custom#filter('matcher_ignore_globs', 'ignore_globs',
+call denite#custom#var('file/rec', 'command',                                                                                                                                                                                                           
+  \ ['ag', '--follow', '--nocolor', '--nogroup', '-g', ''])
+
+call denite#custom#filter('matcher/ignore_globs', 'ignore_globs',
   \ [ '.git/', '.ropeproject/', '__pycache__/',
-  \   'venv/', 'images/', '*.min.*', 'img/', 'fonts/', '.cache'])
+  \   'venv/', 'images/', '*.min.*', 'img/', 'fonts/', '*.cache', 'tmp/cache/'
+  \ ])
 
 " if exists('*s:denite_settings')
 

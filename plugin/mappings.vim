@@ -311,7 +311,7 @@ nnoremap <leader>r :<C-u>Denite -buffer-name=mru file_mru<cr>
 " nnoremap <leader>y :<C-u>Denite -buffer-name=yank    history/yank<cr>
 
 nnoremap <leader>g :Denite -buffer-name=buffers buffer<cr>
-nnoremap <leader>t :Denite -buffer-name=files file_rec:.<cr>
+nnoremap <leader>t :Denite -buffer-name=files file/rec:.<cr>
 nnoremap <leader>r :Denite -buffer-name=files file_mru:.<cr>
 " nnoremap <silent> <leader>b :Denite grep:. -buffer-name=search-buffer<CR>
 
@@ -325,9 +325,14 @@ nnoremap <leader>r :Denite -buffer-name=files file_mru:.<cr>
 
 " Commentary {{{
 
-nmap \\  <Plug>Commentary
-nmap \\\ <Plug>CommentaryLine
-xmap \\  <Plug>Commentary
+" nmap \\  <Plug>Commentary
+" nmap \\\ <Plug>CommentaryLine
+" xmap \\  <Plug>Commentary
+
+nmap \\  <Plug>(caw:hatpos:toggle)
+xmap \\  <Plug>(caw:hatpos:toggle)
+nmap gcc  <Plug>(caw:hatpos:toggle)
+xmap gcc  <Plug>(caw:hatpos:toggle)
 
 " }}}
 

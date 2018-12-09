@@ -402,6 +402,7 @@ let xml_syntax_folding = 1
 let g:surround_no_insert_mappings = 0
 let g:surround_no_mappings = 0
 " let g:jsx_ext_required = 0
+let g:vue_disable_pre_processors=1
 
 " Dead code {{{1
 
