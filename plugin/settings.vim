@@ -7,7 +7,7 @@ if &tabpagemax < 50
   set tabpagemax=50
 endif
 
-if !has('nvim') 
+if !has('nvim')
   set encoding=utf-8
   set viminfo=!,'100,\"100,:20,<50,s10,h,n~/.viminfo
   set ttyfast
@@ -72,7 +72,7 @@ set nrformats=hex
 set hidden
 set history=10000
 set ignorecase
-set incsearch
+set noincsearch
 set iskeyword-=-
 set iskeyword-=_
 set laststatus=0
@@ -159,7 +159,7 @@ set guicursor=n-v-c:block-Cursor/lCursor,ve:ver35-Cursor,o:hor50-Cursor
 set guicursor+=a:blinkon0
 set guicursor+=n-i-ci:ver25-Cursor/lCursor,r-cr:hor20-Cursor/lCursor
 set guicursor+=n-sm:block-Cursor-blinkwait175-blinkoff150-blinkon175
-                                                       
+
 set guioptions-=LTmr
 
 if has("gui_running")
@@ -170,13 +170,13 @@ if has("gui_running")
   elseif has("gui_kde")
     set guifont=Monaco\ 11
   elseif has("x11")
-		" TODO: More elaborate here
+    " TODO: More elaborate here
     set guifont=Monaco\ 11
   else
     set guifont=Monaco\ 11
   endif
 
-	" TODO: Get rid of the ridiculous border
+  " TODO: Get rid of the ridiculous border
 
 endif
 
@@ -211,4 +211,3 @@ set includeexpr=IncludeExpressionWhatever()
   " set spellfile=~/.config/vim/spell/en.utf-8.add
   " set nospell
 " endif
-

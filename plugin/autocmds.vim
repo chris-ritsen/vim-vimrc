@@ -100,8 +100,9 @@ autocmd! FileType make setlocal noexpandtab
 " JavaScript {{{
 
 autocmd! BufRead,BufNewFile .eslintrc set filetype=json synmaxcol=512
-autocmd! BufRead,BufNewFile *.json set filetype=json synmaxcol=512
+autocmd! BufRead,BufNewFile *.json setlocal nowrap conceallevel=0 synmaxcol=512
 autocmd! BufReadPost *.jshintrc setf json
+autocmd! BufReadPost *.babelrc setf json
 autocmd! BufWritePre *.js :%s/\s\+$//e
 " autocmd! FileType javascript setlocal suffixesadd+=.js foldmethod=marker foldmarker={,} commentstring=\/\/\ %s
 autocmd! FileType javascript setlocal suffixesadd+=.js synmaxcol=512
@@ -174,6 +175,8 @@ autocmd! BufRead,BufNewFile *.slice,*.path set filetype=systemd
 autocmd! BufRead,BufNewFile *.rules set filetype=udevrules 
 autocmd! FileType systemd setlocal tw=0 number commentstring=#\ %s
 autocmd! BufRead,BufNewFile ~/.config/systemd/* setlocal filetype=systemd
+autocmd! BufRead,BufNewFile ~/.local/share/dbus-1/system.d/* setlocal filetype=xml
+autocmd! BufRead,BufNewFile ~/.local/share/dbus-1/services/* setlocal filetype=systemd
 
 autocmd! BufRead,BufNewFile .lynxrc set filetype=lynx
 autocmd! BufRead,BufNewFile .offlineimaprc setlocal commentstring=#\ %s
@@ -250,7 +253,7 @@ autocmd! FileType nginx setlocal commentstring=#\ %s
 
 autocmd! FileType fstab setlocal commentstring=#\ %s
 autocmd! FileType haskell setlocal commentstring=--\ %s
-autocmd! FileType json nowrap conceallevel=0 synmaxcol=512
+autocmd! FileType json setlocal nowrap conceallevel=0 synmaxcol=512
 autocmd! FileType lynx setlocal commentstring=#\ %s
 autocmd! FileType slrnrc setlocal commentstring=%\ %s
 autocmd! FileType svnannotate cmap <buffer> q bwipeout
