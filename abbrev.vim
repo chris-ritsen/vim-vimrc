@@ -43223,3 +43223,10 @@ iab onde done
 iab transmnit transmit
 iab TOoling Tooling
 iab Statisticts Statistics
+iab cacludated calculated
+iab neesd need
+iab definiotoin definition
+iab chekcbos checkbox
+iab Seetup Setup
+iab assing assign
+iab seening seeing

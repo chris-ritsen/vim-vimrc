@@ -116,10 +116,12 @@ autocmd! FileType ruby setlocal iskeyword=@,!,?,48-57,_,192-255 softtabstop=2 ta
 autocmd! FileType slim setlocal iskeyword=@,!,?,48-57,_,192-255 softtabstop=2 tabstop=2 shiftwidth=2 expandtab synmaxcol=512 foldmethod=indent tw=0 commentstring=/\ %s
 autocmd! FileType coffee setlocal softtabstop=1 tabstop=2 shiftwidth=2 expandtab synmaxcol=256 tw=0 foldmethod=indent commentstring=#\ %s 
 autocmd! FileType yaml setlocal softtabstop=2 tabstop=2 shiftwidth=2 tw=0 foldmethod=indent expandtab commentstring=#\ %s
-autocmd! BufNewFile,BufRead *.yml.sample setf yaml
-autocmd! BufNewFile,BufRead *.rabl setf ruby
-autocmd! BufNewFile,BufRead *.inky-slim setf slim
+
 autocmd! BufNewFile,BufRead *.inky-haml setf haml
+autocmd! BufNewFile,BufRead *.inky-slim setf slim
+autocmd! BufNewFile,BufRead *.rabl setf ruby
+autocmd! BufNewFile,BufRead *.yml.default setf yaml
+autocmd! BufNewFile,BufRead *.yml.sample setf yaml
 
 " }}}
 
