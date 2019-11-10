@@ -2126,6 +2126,7 @@ iab Machievialleian Machiavellian
 iab Machiona Maconha
 iab Machona Maconha
 iab Machonha Maconha
+iab Madchinery Machinery
 iab Magnaese Maganese
 iab Mahcinavellian Machiavellian
 iab Mainitanined Maintained
@@ -3409,6 +3410,7 @@ iab SMith Smith
 iab SOMETHIGN SOMETHING
 iab SOMeone Someone
 iab SOMeting Something
+iab SOlder Solder
 iab SOle Sole
 iab SOlid Solid
 iab SOlution Solution
@@ -3546,6 +3548,7 @@ iab Seee See
 iab Seeinug Seeing
 iab Seeiung Seeing
 iab Seemns Seems
+iab Seetup Setup
 iab Sef3everal Several
 iab Sefver Server
 iab Seinfled Seinfeld
@@ -3717,6 +3720,7 @@ iab Staritng Starting
 iab Starrted Started
 iab Statew State
 iab Statge Stage
+iab Statisticts Statistics
 iab Stepghen Stephen
 iab Steragetgy Strategy
 iab Stgarting Starting
@@ -3921,6 +3925,7 @@ iab TOld Told
 iab TOm Tom
 iab TOo Too
 iab TOok Took
+iab TOoling Tooling
 iab TOols Tools
 iab TOook Took
 iab TOtal Total
@@ -4821,6 +4826,7 @@ iab abgbreviations abbreviations
 iab abgreviations abbreviations
 iab abhorant abhorrent
 iab abiailable available
+iab abialalbe available
 iab abialble available
 iab abidiing abiding
 iab abiility ability
@@ -6406,6 +6412,7 @@ iab annoyong annoying
 iab annoytance annoyance
 iab annoyting annoying
 iab annoyuign annoying
+iab annoyuing annoying
 iab annying annoying
 iab annyoing annoying
 iab annyojing annoying
@@ -6800,6 +6807,7 @@ iab apllicationu application
 iab apllpeied applied
 iab aplpication application
 iab aplpications applications
+iab aplpied applied
 iab aplplication application
 iab aplpy apply
 iab apluications applications
@@ -6810,6 +6818,7 @@ iab apoistrophe apostrophe
 iab apoligize apologize
 iab apolise apologise
 iab apolisgise apologise
+iab apoointment appointment
 iab apooitnemtn appointment
 iab apooligies apologies
 iab apopintments appointments
@@ -7272,6 +7281,7 @@ iab aritss artist
 iab aritst artist
 iab arive arrive
 iab arivvedf arrived
+iab arlday already
 iab arleadly already
 iab arleady already
 iab arleayd already
@@ -9406,6 +9416,7 @@ iab cabple capable
 iab caceh cache
 iab cachign caching
 iab caclcualtor calculator
+iab cacludated calculated
 iab cacpacity capacity
 iab cacricatured caricatured
 iab cactch catch
@@ -9433,6 +9444,7 @@ iab cahatacrtters cataracts
 iab cahatacrtters characters
 iab cahber chamber
 iab cahcarters characters
+iab cahced cached
 iab cahcne chance
 iab cahdnel candle
 iab cahech3ed cached
@@ -10002,6 +10014,7 @@ iab chedk check
 iab chedked checked
 iab chefkt check
 iab chekc check
+iab chekcbos checkbox
 iab chekced checked
 iab chekcehr checker
 iab chekcer checker
@@ -12425,6 +12438,7 @@ iab cosnoelle console
 iab cosnole console
 iab cosnooel console
 iab cosnsous conscious
+iab cosnt const
 iab cosntants constants
 iab cosntrucdtion construction
 iab cosoicnoiusness consciousness
@@ -12583,6 +12597,7 @@ iab crazyy crazy
 iab creaet create
 iab creaetd created
 iab creaitgin creating
+iab creaiting creating
 iab crear5ted created
 iab crearted created
 iab creashing crashing
@@ -13355,6 +13370,7 @@ iab definiately definitely
 iab definiatley definitely
 iab definied defined
 iab definiitive definitive
+iab definiotoin definition
 iab definiseivemenss defensiveness
 iab definitaltely definitely
 iab definited defined
@@ -14825,6 +14841,7 @@ iab distracfting distracting
 iab distracftion distraction
 iab distracgtion distraction
 iab distraciotn distraction
+iab distraciotns distractions
 iab distracitng distracting
 iab distraciton distraction
 iab distracrtdg distracted
@@ -18504,6 +18521,7 @@ iab feawture feature
 iab feawtures features
 iab feawtureus features
 iab feawueares features
+iab feceiver receiver
 iab feeback feedback
 iab feedbadck feedback
 iab feeeeleings feelings
@@ -18688,6 +18706,7 @@ iab filred fired
 iab filrtered filtered
 iab filt3sr filters
 iab filterablre filterable
+iab filteragble filterable
 iab filterd filtered
 iab filterse filters
 iab filtesr filters
@@ -18914,6 +18933,7 @@ iab focusisingg focusing
 iab focusued focused
 iab focuus focus
 iab focux focus
+iab focuxwed focused
 iab focuys focus
 iab focuysed focused
 iab focyusing focusing
@@ -20134,6 +20154,7 @@ iab happyu happy
 iab hapyl haply
 iab harbvor harbor
 iab hard2ware hardware
+iab hardare hardware
 iab harded4er harder
 iab hardely hardly
 iab hardeneing hardening
@@ -22917,6 +22938,7 @@ iab interrputoins interruptions
 iab interrrrupting interrupting
 iab interrruption interruption
 iab interrupatjions interruptions
+iab interruptiosn interruptions
 iab interrutpions interruptions
 iab intersactions intersections
 iab intersating interesting
@@ -25670,6 +25692,7 @@ iab microoophnes microphones
 iab micropbes microbes
 iab microphens microphones
 iab micropheon microphone
+iab microphinbes microphones
 iab microphne microphone
 iab microphnoe microphone
 iab microphoen microphone
@@ -26282,6 +26305,7 @@ iab motivatyion motivation
 iab motivcation motivation
 iab motivcations motivations
 iab motiveated motivated
+iab motiviate motivate
 iab motiviated motivated
 iab motiviating motivating
 iab motiviation motivation
@@ -26741,6 +26765,7 @@ iab neeed need
 iab neeeded needed
 iab neeeds needs
 iab neehgibor neighbor
+iab neesd need
 iab neesd needs
 iab neess ness
 iab neeuither neither
@@ -27840,6 +27865,7 @@ iab oncosle console
 iab oncsoel console
 iab oncsole console
 iab onctorller controller
+iab onde done
 iab onditioned conditioned
 iab one3s ones
 iab onece once
@@ -31810,6 +31836,7 @@ iab quontify quantify
 iab quoteed quoted
 iab quqality quality
 iab quqations equations
+iab quqery query
 iab ququeued queued
 iab qurestion question
 iab qurseiton question
@@ -33053,6 +33080,7 @@ iab requesiite requisite
 iab requesite requisite
 iab requesrts requests
 iab requestsa requests
+iab requestts requests
 iab requestws requests
 iab requesyt request
 iab requets request
@@ -34575,6 +34603,7 @@ iab seeminglhy seemingly
 iab seeminly seemingly
 iab seemps seems
 iab seemsl seems
+iab seening seeing
 iab seenms seems
 iab seent seen
 iab seeon seen
@@ -37406,6 +37435,7 @@ iab sutrivve survive
 iab suualluy usually
 iab suually usually
 iab suuited suited
+iab suupllied supplied
 iab suupport support
 iab suuprotive supportive
 iab suusally usually
@@ -37418,6 +37448,7 @@ iab suybproblems subproblems
 iab suybsides subsides
 iab suych such
 iab suynlight sunlight
+iab suypplied supplied
 iab suypposed supposed
 iab suyprmiunane supramundane
 iab suypsrignlung surprisingly
@@ -39497,6 +39528,7 @@ iab translateions translations
 iab translqtion translation
 iab translsated translated
 iab translucenet translucent
+iab transmnit transmit
 iab transofmored transformed
 iab transofrmations transformations
 iab transpacencies transparencies
@@ -42467,6 +42499,7 @@ iab worhthwile worthwhile
 iab worhtlwhile worthwhile
 iab worhtwhile worthwhile
 iab woriker worker
+iab woriking working
 iab workded worked
 iab workding working
 iab workds words
@@ -43196,37 +43229,4 @@ iab zsswh zsh
 iab ztart start
 iab ztaships starships
 
-iab creaiting creating
-iab suupllied supplied
-iab motiviate motivate
-iab quqery query
-iab requestts requests
-iab suypplied supplied
-iab interruptiosn interruptions
-iab distraciotns distractions
-iab focuxwed focused
-iab cahced cached
-iab abialalbe available
-iab aplpied applied
-iab arlday already
-iab cosnt const
-iab filteragble filterable
-iab witnout without
-iab feceiver receiver
-iab SOlder Solder
-iab microphinbes microphones
-iab hardare hardware
-iab apoointment appointment
-iab Madchinery Machinery
-iab woriking working
-iab onde done
-iab transmnit transmit
-iab TOoling Tooling
-iab Statisticts Statistics
-iab cacludated calculated
-iab neesd need
-iab definiotoin definition
-iab chekcbos checkbox
-iab Seetup Setup
-iab assing assign
-iab seening seeing
+iab myabe maybe

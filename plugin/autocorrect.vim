@@ -76,9 +76,10 @@ function! s:AC_commit()
     let correct_word = s:corrections[key]
 
     let abbrev_entry = 'iab ' . incorrect_word . ' ' . correct_word
-    let a:abbrev_file = '/home/chris/.config/vim/bundle/vimrc/abbrev.vim'
-    let a:lines = [abbrev_entry]
-    call writefile(readfile(a:abbrev_file)+a:lines, a:abbrev_file)
+    let abbrev_file = '/home/chris/.config/vim/bundle/vimrc/abbrev.vim'
+    let s:abbrev_file = '/home/chris/.config/vim/bundle/vimrc/abbrev.vim'
+    let s:lines = [abbrev_entry]
+    call writefile(readfile(s:abbrev_file)+s:lines, s:abbrev_file)
     execute 'iab ' incorrect_word . ' ' . correct_word
   endfor
 
