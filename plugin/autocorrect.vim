@@ -199,13 +199,19 @@ command! -bar -nargs=0 -range=% AC <line1>,<line2>call AC()
 
 nnoremap <silent> <leader>d <esc>vip:call AC()<CR>
 
-" FIXME: The function to add abbreviations to the file is currently broken
-" Error detected while processing function <SNR>81_AC_commit:
-" line   25:
-" E461: Illegal variable name: a:abbrev_file
-" line   26:
-" E461: Illegal variable name: a:lines
-" line   27:
-" E121: Undefined variable: a:abbrev_file
-" E116: Invalid arguments for function readfile(a:abbrev_file)+a:lines, a:abbrev_file)
-" E116: Invalid arguments for function writefile
+autocmd FileType denite call s:denite_my_settings()
+
+function! s:denite_my_settings() abort
+  nnoremap <silent><buffer><expr> <CR>
+  \ denite#do_map('do_action')
+  nnoremap <silent><buffer><expr> d
+  \ denite#do_map('do_action', 'delete')
+  nnoremap <silent><buffer><expr> p
+  \ denite#do_map('do_action', 'preview')
+  nnoremap <silent><buffer><expr> q
+  \ denite#do_map('quit')
+  nnoremap <silent><buffer><expr> i
+  \ denite#do_map('open_filter_buffer')
+  nnoremap <silent><buffer><expr> <Space>
+  \ denite#do_map('toggle_select').'j'
+endfunction

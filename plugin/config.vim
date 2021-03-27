@@ -27,6 +27,10 @@ let mapleader = "\\"
 
 " }}}2
 
+" Switch.vim
+let g:switch_mapping = ""
+
+
 " omnisharp {{{
 
 let g:OmniSharp_server_type = 'v1'

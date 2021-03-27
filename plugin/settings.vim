@@ -30,6 +30,28 @@ endif
 
 " General Settings {{{2
 
+if &term =~ "linux"
+	set t_Co=8
+
+	colorscheme ron
+else
+	colorscheme wombat256mod
+	set t_Co=256
+  set background=dark
+endif
+
+if (&term =~ '^xterm' && &t_Co == 256)
+  set t_ut= | set ttyscroll=1
+endif
+
+if (&term =~ '^rxvt-unicode-256color' && &t_Co == 256)
+  " Fixes incorrect background color on startup
+  set t_u7=
+endif
+
+if (&term =~ '^screen-256color' && &t_Co == 256)
+endif
+
 set autoindent
 set autoread
 set backspace=eol,start,indent

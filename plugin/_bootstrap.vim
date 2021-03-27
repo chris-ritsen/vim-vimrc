@@ -10,7 +10,7 @@ execute pathogen#helptags()
 
 " required settings {{{
 
-syntax on
+" syntax on
 filetype plugin indent on
 
 " }}}

@@ -112,7 +112,7 @@ autocmd! FileType javascript setlocal suffixesadd+=.js synmaxcol=512
 " web dev {{{
 
 autocmd! FileType jsx setlocal softtabstop=2 tabstop=2 shiftwidth=2 expandtab
-autocmd! FileType ruby setlocal iskeyword=@,!,?,48-57,_,192-255 softtabstop=2 tabstop=2 shiftwidth=2 expandtab synmaxcol=512 foldmethod=indent commentstring=#\ %s
+autocmd! FileType ruby setlocal iskeyword=@,!,?,48-57,_,192-255 softtabstop=2 tabstop=2 shiftwidth=2 expandtab synmaxcol=512 foldmethod=indent regexpengine=1 commentstring=#\ %s
 autocmd! FileType slim setlocal iskeyword=@,!,?,48-57,_,192-255 softtabstop=2 tabstop=2 shiftwidth=2 expandtab synmaxcol=512 foldmethod=indent tw=0 commentstring=/\ %s
 autocmd! FileType coffee setlocal softtabstop=1 tabstop=2 shiftwidth=2 expandtab synmaxcol=256 tw=0 foldmethod=indent commentstring=#\ %s 
 autocmd! FileType yaml setlocal softtabstop=2 tabstop=2 shiftwidth=2 tw=0 foldmethod=indent expandtab commentstring=#\ %s
@@ -426,6 +426,7 @@ autocmd! BufRead,BufNewFile notes nnoremap <silent> <leader>l G :r !date -u +"\%
 autocmd! BufRead,BufNewFile notes set filetype=text 
 autocmd! BufRead,BufNewFile ~/.documents/notes nnoremap <silent> <leader>l <esc>G :r !date -u +"\%Y-\%m-\%dT\%H:\%M:\%SZ"<CR>zt A — 
 autocmd! BufRead,BufNewFile ~/Documents/notes nnoremap <silent> <leader>l <esc>G :r !date -u +"\%Y-\%m-\%dT\%H:\%M:\%SZ"<CR>zt A — 
+nnoremap <silent> <leader>l G :r !date -u +"\%Y-\%m-\%dT\%H:\%M:\%SZ"<CR>zt A — 
 
 " }}}
 
@@ -572,3 +573,31 @@ autocmd! FileType sh setlocal textwidth=0 number commentstring=#\ %s
 autocmd! FileType vue silent! echo context_filetype#get_filetype()
 autocmd! FileType vue setlocal foldmethod=indent textwidth=0
 autocmd! FileType fstab setlocal textwidth=0 nowrap number commentstring=#\ %s 
+
+set backupskip+=*.gpg
+" To avoid that parts of the file is saved to .viminfo when yanking or
+" deleting, empty the 'viminfo' option.
+" set viminfo=
+
+augroup encrypted
+  au!
+  " Disable swap files, and set binary file format before reading the file
+  autocmd BufReadPre,FileReadPre *.gpg
+    \ setlocal noswapfile bin
+  " Decrypt the contents after reading the file, reset binary file format
+  " and run any BufReadPost autocmds matching the file name without the .gpg
+  " extension
+  autocmd BufReadPost,FileReadPost *.gpg
+    \ execute "'[,']!gpg --decrypt --default-recipient-self" |
+    \ setlocal nobin |
+    \ execute "doautocmd BufReadPost " . expand("%:r")
+  " Set binary file format and encrypt the contents before writing the file
+  autocmd BufWritePre,FileWritePre *.gpg
+    \ setlocal bin |
+    \ '[,']!gpg --encrypt --default-recipient-self
+  " After writing the file, do an :undo to revert the encryption in the
+  " buffer, and reset binary file format
+  autocmd BufWritePost,FileWritePost *.gpg
+    \ silent u |
+    \ setlocal nobin
+augroup END

@@ -26,17 +26,6 @@ function! VisualSearch(direction) range
 
 endfunction
 
-if &term =~ "linux"
-	set t_Co=8
-
-	colorscheme ron
-else
-	set t_Co=256
-  set background=dark
-
-	colorscheme wombat256mod
-endif
-
 " set shell=/bin/bash\ -O\ extglob
 
 " redefine x for virtualEdit so that past end of line, it jumps left to end-of-line
