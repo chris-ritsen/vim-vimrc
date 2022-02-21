@@ -1,4 +1,3 @@
-
 if &term =~ "xterm" || &term =~ "screen"
 	let g:CommandTCancelMap     = ['<C-x>', '<ESC>', '<C-c>']
 	let g:CommandTSelectNextMap = ['<C-e>', '<C-n>', '<ESC>OB', '<Down>']
@@ -129,4 +128,3 @@ function! TextEnableCodeSnip(filetype, start, end, textSnipHl) abort
   \ contains = @'.group
 
 endfunction
-
