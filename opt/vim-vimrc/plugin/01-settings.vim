@@ -32,10 +32,7 @@ endif
 
 if &term =~ "linux"
 	set t_Co=8
-
-	colorscheme ron
 else
-	colorscheme wombat256mod
 	set t_Co=256
   set background=dark
 endif

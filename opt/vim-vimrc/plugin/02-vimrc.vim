@@ -128,3 +128,107 @@ function! TextEnableCodeSnip(filetype, start, end, textSnipHl) abort
   \ contains = @'.group
 
 endfunction
+
+" " source {{{1
+
+" " bootstrap {{{2
+
+" source $VIMRC_PLUGIN_DIR/_bootstrap.vim
+
+call plug#begin()
+" (Linux/macOS): '~/.vim/plugged'
+
+" Plug 'https://github.com/junegunn/vim-cfr'
+
+Plug 'https://github.com/AndrewRadev/switch.vim'
+Plug 'https://github.com/Shougo/context_filetype.vim'
+Plug 'https://github.com/Shougo/vimproc.vim'
+Plug 'https://github.com/cespare/vim-toml'
+Plug 'https://github.com/christoomey/vim-sort-motion'
+Plug 'https://github.com/dense-analysis/ale'
+Plug 'https://github.com/digitaltoad/vim-pug'
+Plug 'https://github.com/jamessan/vim-gnupg'
+Plug 'https://github.com/kchmck/vim-coffee-script'
+Plug 'https://github.com/leafOfTree/vim-svelte-plugin'
+Plug 'https://github.com/leafOfTree/vim-vue-plugin'
+Plug 'https://github.com/leafgarland/typescript-vim'
+Plug 'https://github.com/michalbachowski/vim-wombat256mod'
+Plug 'https://github.com/moll/vim-node'
+Plug 'https://github.com/mustache/vim-mustache-handlebars'
+Plug 'https://github.com/pangloss/vim-javascript'
+Plug 'https://github.com/prabirshrestha/vim-lsp'
+Plug 'https://github.com/preservim/nerdcommenter'
+Plug 'https://github.com/preservim/nerdtree'
+Plug 'https://github.com/slim-template/vim-slim'
+Plug 'https://github.com/tmux-plugins/vim-tmux'
+Plug 'https://github.com/tpope/vim-abolish'
+Plug 'https://github.com/tpope/vim-commentary'
+Plug 'https://github.com/tpope/vim-fugitive'
+Plug 'https://github.com/tpope/vim-rbenv'
+Plug 'https://github.com/tpope/vim-repeat'
+Plug 'https://github.com/tpope/vim-surround'
+Plug 'https://github.com/tpope/vim-unimpaired'
+Plug 'https://github.com/tyru/caw.vim'
+Plug 'https://github.com/vim-scripts/AdvancedSorters'
+Plug 'https://github.com/vim-scripts/mru.vim'
+
+if has('nvim')
+  Plug 'Shougo/denite.nvim', { 'do': ':UpdateRemotePlugins' }
+else
+  Plug 'Shougo/denite.nvim'
+  Plug 'roxma/nvim-yarp'
+  Plug 'roxma/vim-hug-neovim-rpc'
+endif
+
+call plug#end()
+
+" " }}}2
+
+" }}}1
+
+" if empty($VIM_QUICK) || $VIM_ABBREV
+
+if $VIM_ABBREV
+  if empty($VIM_QUICK)
+    packadd vim-abbrev
+  endif
+endif
+
+vnoremap <F2> d:execute 'normal i' . join(sort(split(getreg('"'))), ' ')<CR>
+
+set modeline
+set modelines=5
+
+cnoremap w!! w !sudo tee > /dev/null %
+
+set pdev=HP_LaserJet_Pro_M201dw
+
+" set lazyredraw
+" redraw!
+
+set path+=**,/home/chris/.documents/**,/home/chris/.config/**
+
+autocmd FileType denite call s:denite_my_settings()
+
+function! s:denite_my_settings() abort
+  nnoremap <silent><buffer><expr> <CR>
+  \ denite#do_map('do_action')
+  nnoremap <silent><buffer><expr> d
+  \ denite#do_map('do_action', 'delete')
+  nnoremap <silent><buffer><expr> p
+  \ denite#do_map('do_action', 'preview')
+  nnoremap <silent><buffer><expr> q
+  \ denite#do_map('quit')
+  nnoremap <silent><buffer><expr> i
+  \ denite#do_map('open_filter_buffer')
+  nnoremap <silent><buffer><expr> <Space>
+  \ denite#do_map('toggle_select').'j'
+endfunction
+
+nnoremap <silent> <leader>d <esc>vip:call AC()<CR>
+
+if &term =~ "linux"
+	colorscheme ron
+else
+	colorscheme wombat256mod
+endif
