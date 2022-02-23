@@ -225,7 +225,7 @@ function! s:denite_my_settings() abort
   \ denite#do_map('toggle_select').'j'
 endfunction
 
-nnoremap <silent> <leader>d <esc>vip:call AC()<CR>
+nnoremap <silent> <leader>d <esc>vip:call AutoCorrect()<CR>
 
 if &term =~ "linux"
 	colorscheme ron
