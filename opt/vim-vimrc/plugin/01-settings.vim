@@ -86,7 +86,7 @@ set formatlistpat=^\\s*\\d\\+[\\]:.)}\\t\ ]\\s*\\\|^\\*\\s*\|^\\s*∙\\s*\|^\\s*
 
 set formatoptions+=nj
 
-set guiheadroom=0
+" set guiheadroom=0
 set nrformats=hex
 set hidden
 set history=10000
@@ -107,7 +107,7 @@ set noerrorbells
 set nohlsearch
 set nolazyredraw
 set nomodeline
-set nonumber
+set number
 set noruler
 set noshowcmd
 set noshowmatch
@@ -177,7 +177,7 @@ set guicursor=n-v-c:block-Cursor/lCursor,ve:ver35-Cursor,o:hor50-Cursor
 
 set guicursor+=a:blinkon0
 set guicursor+=n-i-ci:ver25-Cursor/lCursor,r-cr:hor20-Cursor/lCursor
-set guicursor+=n-sm:block-Cursor-blinkwait175-blinkoff150-blinkon175
+set guicursor+=n-sm:block-Cursor-blinkwait0-blinkoff0-blinkon0
 
 set guioptions-=LTmr
 
