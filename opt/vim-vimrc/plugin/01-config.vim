@@ -420,3 +420,6 @@ let g:vue_disable_pre_processors=1
 " }}}
 
 " }}}1
+
+let g:ale_linters = {}
+let g:ale_linters['text'] = ['proselint']
